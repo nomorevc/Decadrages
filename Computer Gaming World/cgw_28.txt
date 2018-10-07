@@ -1,0 +1,2655 @@
+May 1986
+
+Number 28
+
+FEATURES
+The Dark Ages of Computer Game Design
+Designing Games in the 70's
+
+12
+Don Daglow
+
+Draft Day !18
+The Third Season of the CGW Baseball League
+
+View From The Dugout
+
+19
+
+Playing Stat Baseball Games
+
+W. E. Peschel
+
+MicroLeague Baseball
+An Interview with the Designer
+
+22
+James Trunzo
+
+Autoduel
+
+24
+
+A Review
+
+Bill Oxner
+
+Alter Ego
+
+38
+
+A Review
+
+Johnny Wilson
+
+Nam
+A Review
+
+40
+Mark Bausman
+
+DEPARTMENTS
+Industry News
+The Current State of Entertainment Software
+
+Taking A Peek
+
+4
+Bill Oxner
+7
+
+Screen Photos and Brief Comments
+
+Letters
+Atari Playfield
+Sundog, Halley Project
+
+Commodore Key
+Walt Disney/Sierra On-Line Games
+
+Scorpion's Tale
+Amazon Tips
+
+Amiga Preferences
+Racter, Arcticfox
+
+10
+
+26
+Gregg Williams
+29
+Roy Wagner
+32
+Scorpia
+36
+Roy Wagner
+
+Reader Input Device
+
+46
+
+Game Ratings
+
+48
+
+109 Games Rated
+
+by Bill Oxner
+These are down days in the oil fields and in the
+computer industry. Sales are sluggish, prices are
+headed south and the cavalry is nowhere in sight.
+We will look at the general situation and then on to
+some specifics in the game software industry.
+The home computer market is in serious trouble.
+The only new entries during the past year were the
+Commodore Amiga and the Atari ST. Neither one
+has proved to be the spark needed to bring the
+home computer industry out of the doldrums.
+Commodore remains on the edge of bankruptcy
+and the Amiga does not appear to be selling well
+enough to rescue its parent. In early April, Commodore announced a form of price reduction - the
+Amiga will sell for $795 with a free color monitor.
+This is fairly clear evidence that the Amiga has not
+met Commodore's sales expectations.
+Atari is doing a bit better with the ST, but it is
+far from being a blockbuster sales winner. Jack
+Tramiel, president of Atari, has had a rocky relationship with computer dealers in the past and this
+has led to difficulties in establishing wide distribution channels for the ST. Few software companies
+are counting on the ST to save the home market.
+What do these hardware problems have to do
+with game software? The answer is simple. Some-
+
+one buying a new computer immediately buys a
+whole raft of software to use on it, including
+games. People who have owned their computer for
+a year or more still buy software, but at a much
+slower pace. Game companies desperately need a
+hot new computer to revive their markets.
+One other aspect of the home computer situation
+is less obvious. Sales of business computers remain
+fairly strong. This means that outlets like Computerland, which focuses on business sales, are holding
+on. Computerland carries very little game software.
+Small, independent computer stores are closing
+right and left. These stores emphasized home computers and game software. Game software companies are thus faced with fewer and fewer outlets
+for their products. It is difficult to sell your software when no one can find it or try it out before
+purchase.
+What does the future hold? It is unlikely that the
+current trends will change very soon. The primary
+distribution outlets for game software will be the
+mass market stores such as Toys-R-Us and K Mart.
+These stores don't have the shelf space to carry
+wide numbers of titles, they will only sell the "hit"
+items. Companies that have historically opted for
+many new games per year, such as SSI, will be
+forced to cut back on new titles and concentrate
+their resources on pushing just a few potential hits.
+Smaller companies, such as SSG, will not have access to the mass market retailers and will be forced
+to distribute their games through companies, such
+as Electronic Arts, that already have a relationship
+with the large retailers. Again, this means fewer
+overall new games will be introduced this year.
+If any hard evidence is needed to support these
+theories then Infocom will serve. Infocom had been
+one of the most successful game companies in existence. Their text adventures set the standard.
+However, declining sales in the game market forced
+Infocom to attempt a move into the business software market. The attempt did not succeed. Infocom
+laid off half of their 100 employees and in late
+February announced that they were being acquired
+by Activision.
+On to happier news! Strategic Simulations (SSI)
+remains committed to the game market. They have
+a couple of firsts to report. The first ST products,
+Phantasie and Computer Baseball, will ship soon.
+Also, their first Mac titles, Gemstone Warrior and
+Computer Baseball, will debut very shortly. The
+next two new titles will likely be Gettysburg and
+War In The South Pacific (WISP). Gettysburg will
+use the Antietam system, with modifications.
+Artillery will be less powerful with consequently
+lower, and more realistic, casualties. WISP will be a
+strategic WWII Pacific game, with sea, air and land
+
+Continued on pg. 41
+
+Access
+2561 South 1560 W, Ste A
+Woods Cross, UT 84087
+801-298-9077
+LEADER BOARD: A golf
+simulator which provides the
+player(s) with a true perspective view of the game. Four
+18 hole courses, 3-D animation, three levels of play. The
+graphics are excellent. This
+game has received a great deal
+of playing time in the CGW
+offices and is recommended
+for golf enthusiasts. C-64.
+Joystick. $39.95.
+Circle Reader Service #5
+
+Accolade
+20863 Stevens Creek Blvd
+Cupertino, CA 95014
+408-446-5757
+MEAN 18: Allows up to four
+people to play a round of golf
+
+at a variety of famous and
+user-designed golf courses.
+The mechanics of play are
+similar to Leader Board but,
+due to he larger RAM available to the designer, this entry is more detailed. You actually play Pebble Beach with
+all its many hazards. If the
+provided challenges get boring
+you can design an entire
+course with the Course Architect. Also recommended.
+IBM-PC with 256K memory
+and color graphics adapter.
+Circle Reader Service #6
+
+Activision
+2350 Bayshore Frontage Rd
+Mountain View, CA 94043
+800-227-9759
+CHAMPIONSHIP GOLF,
+VOLUME 1: A complex golf
+simulator, volume one contains the Pebble Beach course.
+
+The player must choose the
+power of the swing, club,
+stance and club alignment. Six
+distinct views of each hole are
+available, ranging from bird's
+eye to ground level. Excellent
+graphics. IBM-PC.
+Circle Reader Service #7
+Borland International
+4585 Scotts Valley Drive
+Scotts Valley, CA 95066
+800-255-8008
+TURBO GAME WORKS: Includes Chess, Bridge and GoMoku. This is actually a development tool that allows you
+to explore the Pascal source
+code and learn game design
+techniques. On the other had
+it is a collection of three
+classic games that can simply
+be played and enjoyed on
+their own merits. To edit and
+
+compile you must have Turbo
+Pascal 3.0. IBM-PC with
+192K memory.
+Circle Reader Service #8
+
+DoWhile Software
+5227 Shady Oaks Lane
+Friendswood, TX 77546
+713-482-6849
+TRODART: Is a real-time,
+two player war game. It is
+played on two separate computers over a 300 baud modem. Moves are made simultaneously, which makes for a
+very fast paced game. The
+object of the game is to capture the enemy base while
+defending the home base.
+IBM-PC with 128K, 300 baud
+modem. C ircle Reader Service #9
+I Step Software
+Charlotte Plaza, #1300
+Charlotte, NC 28244
+704-554-7255
+
+GOLF'S BEST, VOLUME 2:
+Contains the famous Pinehurst
+golf course. Each hole is
+
+shown in color and drawn
+exactly to scale with the actual sand traps, hazards, etc in
+their proper locations. Player
+must choose the club, force of
+stroke, style and direction.
+Apple.
+Circle Reader Service #11
+Electronic Arts
+1820 Gateway Drive
+San Mateo, CA 94404
+415-571-7171
+SUPER BOULDERDASH:
+The sequel to Boulder Dash,
+an action-strategy arcade
+game. 16 new levels, each
+with 5 levels of difficulty.
+The original game was Arcade
+Game of the Year (Family
+Computing 1984) and is included on this disk. Atari,
+C64/128, Apple, IBM-PC.
+$22.95 & $29.95. Circle #12
+ARCTICFOX: Tank arcade
+game. Three dimensional battlefield with stereo sound effects. This is the first game
+from EA that is original to
+Circle #13
+the Amiga.
+
+Mindscape, Inc.
+3444 Dundee Rd
+Northbrook, IL 60062
+800-221-9884
+BRIAN BLOODAXE/REVELATION/QUOV
+ADIS: Three games on one
+disk. Each is a hi-res arcade
+game. These games are imports from Britain, distributed
+by Mindscape. A nice value
+for the price. Joystick required. C64/128. $14.95.
+Circle #14
+
+SPELL OF DESTRUCTION:
+Hi-res adventure/arcade
+game. Scrolling 3-D graphics,
+70 locations, real-time action
+and music that reflects the
+action. C-64/128. $29.95.
+Circle #15
+THE LORDS OF MIDNIGHT:
+Illustrated text adventure. The
+game is menu-driven, so play
+is faster. Can be played as a
+quest, a war or both. 32,000
+different landscapes. C64/128.
+Circle #16
+$29.95.
+
+THE LUSCHER PROFILE:
+This is NOT a game, it is a
+personality analyzer. The user
+takes a series of seven tests
+involving choices between
+various shapes and colors. The
+computer interprets the responses and develops a profile
+which defines your current
+approach to work, relationships and to life in general.
+Apple. $39.95.
+Circle Reader Service #17
+
+Overt Strategic-Simulations
+P.O. Box 66424 Dept Q-11
+Los Angeles, CA 90066
+213-479-3865
+OPERATION KEYSTONE: A
+very sophisticated WWII submarine simulation. There are
+features not found in other
+sub games, such as enemy
+aircraft and mines. The documentation is extensive (80
+pages); the packaging is firstclass. The simulation appears
+to be the most realistic of the
+various submarine games.
+Graphics are minimal. IBMPC with 200K memory.
+$69.00.
+Circle Reader Service #18
+
+NAKEDNESS IS FROWNED ON IN PUBLIC,
+BUY A COMPUTER GAMING WORLD T-SHIRT
+
+Power Play, Inc.
+Box 650526
+Vero Beach, FL 32965
+305-562-3824
+POWER PLAY FOOTBALL:
+A two player football game.
+Uses a "unique" power unit
+system to determine play results. The game takes 15 sec-
+
+onds to learn, 20 seconds to
+realize how bad it is. Normally, we would go into detail
+to describe the game's weaknesses but there is so little to
+the game that there isn't much
+to say, except - NOT recommended. IBM-PC. $24.95.
+Circle Reader Service #19
+
+I would like to see the return
+of the 'subscriber's comments'
+column and a new column devoted to the Apple computer
+gamer. How about it?
+Michael Ouellette
+Aurora, CO
+
+Ed: The return of a letters
+column. Hmmm... not a bad idea.
+We will give it some thought. The
+reason we have never put an Apple column in CGW is that 99%
+of all the major reviews cover
+games that run on the Apple. You
+see, our theory behind columns is
+to provide a regular outlet of information that may be slighted in
+our regular feature article coverage. We don't feel there is much
+happening on the Apple that we
+are not covering through our features.
+There is, however, one important Apple related hardware note
+that we have not covered, so we
+will mention it here. All the Apples in our office have been
+equipped with so-called speed-up
+cards or accelerator cards. We
+highly recommend these cards to
+Apple owners. They speed up
+game play several fold. Our
+Computer Gaming World Baseball
+League (see article elsewhere in
+this issue) has been made possible by these cards. Each of our
+Apples host six CGWBL games
+each Saturday night. Without the
+speed-up cards it would take
+about six hours to play the
+games. With the speed-up cards it
+takes under three hours. We use
+Speed Demon from M.c.T. These
+boards can be purchased from
+Strategic Simulations for
+$179.00.
+Ultima IV is the best ever!
+Would a company please make a
+good horse racing game (great
+for parties).
+Bob Russo
+Roselle, IL
+
+Ed.: We agree that a good
+horse race game is needed. There
+was a very good one published
+for the Apple back in 1982. Unfortunately, to our knowledge
+Horse Racing Classic from
+Tazumi Software (Burnaby,
+British Columbia) is no longer
+available. If anyone knows where
+to reach Tazumi (we could not
+
+reach them at the number listed
+in the game) let us know.
+Issue (#26) was good overall. I
+noticed that there was an Amiga
+Preferences column. I would also
+like to see a column on Atari ST
+and the new 1040 ST computer.
+Mike Silva
+Austin, TX
+
+Ed.: For the time being ST
+coverage is contained in our Atari
+Play field column. The Amiga
+Preferences column was separated from the Commodore Key
+column due to the fact that the
+Amiga name is not as closely
+associated with Commodore as
+the ST computer is with Atari.
+You will note that Roy Wagner
+writes both the Commodore Key
+and Amiga Preferences columns
+while Gregg Williams covers all
+the Atari machines in his Atari
+Play field column.
+Is it my imagination or is
+"Taking a Peek" shrinking? This
+has always been an ideal column
+to get an idea of what is new in
+software. The succinct description and short evaluation has
+been a great help in making
+purchase decisions.
+T. Hubalik
+Elmhurst, IL
+
+Ed.: Yes, Taking a Peek has
+been somewhat smaller in recent
+issues, but not due to any editorial decision. Unfortunately the
+number of titles coming out has
+been smaller so there has been
+less suitable material to cover.
+Also remember that we are now a
+nine issue per year publication.
+This means that there is a shorter
+period of time between each issue
+for new material to arrive at our
+offices for inclusion in Peek.
+Great magazine. My only
+complaints are small. The Atari
+and Commodore columns need to
+more than just small reviews of
+new games. Also, I would like to
+see a section for letters. Keep up
+the good work, cause you are the
+only computer game publication
+left.
+Chris Ciccarello
+Norcross, GA
+
+Thanks for "Amiga Preferences" and "Over There!". I have
+been purchasing games from
+England for a year now. I was
+wondering when the word of this
+treasure trove of software would
+get out.
+Ray Forbes
+Oak Park, IL
+What burns me up is your
+new column "Over There!". Besides "Elite", the British are still
+putting out krappy (sic) arcade
+games that still haunt the reputation of the software industry
+here. "Rocky Horror" games have
+no place in a serious mag like
+CGW.
+Anonymous
+Issue #26 was good but I
+would rather see more feature
+articles in a slightly shorter form.
+I often count on these types of
+articles to help me decide what
+to buy since I live in a remote
+area. Thus, more reviews are
+better as long as they have substance.
+Craig Deaton
+Yuma, AZ
+I read your magazine because
+I consider it to be the only professional quality magazine devoted strictly to the computer
+gaming industry. Keep doing
+what you're doing.
+Robert H. Lamb
+Sacramento, CA
+In reviews, more info on limitations or how the game factors
+compare to other games would
+be helpful; i.e. Silent Service has
+only four torpedoes at once and
+no enemy air (as is the case in
+Kampfgruppe and others). Also,
+Silent Service gets my vote for
+action/strategy game of the year.
+Andrew Baird
+Bakersfield
+I really enjoy getting and
+reading CGW. I would like more
+playing tips on strategy
+wargames. I Would also like to
+see some ideas on designing scenarios for CARRIERS AT WAR.
+I have had problems with the
+
+Continued on pg. 47
+
+The Dark Ages
+Of Computer
+Game Design
+Don L. Daglow
+
+The pealing of the electronic bell in the distance
+signalled 2:00 in the morning, the distorted sounds
+echoing faintly down the massive corridors of the
+deserted concrete-and-steel building. Deserted, except for the windowless basement where one person
+still worked intently.
+His features rendered stark and pale by the
+bright work light, the young man scanned the computer printout, yard after yard of number-covered
+paper flowing through his hands like so much water
+through a pipe. He swore at the pile of tangled
+output on the floor, kicked it in frustration, then
+returned to typing a few cautious letters on the
+terminal. The clattering of the printer that echoed
+those letters obscured the sound of footsteps that
+would have alerted him to danger.
+This was his only time of safety, the only unwatched moments for his work. The system operator had left at midnight, not to return until 6:00. If
+the machine were to do his bidding and divulge its
+secrets, it would have to be tonight.
+The footsteps came closer, drawn by the rattling
+of the printer, curious now, but cautious. The programmer continued at his work.
+The door swung open silently; the guard stood in
+the opening, his muscular frame filling it as completely as any iron bars. Still, the programmer
+typed intently on the machine.
+"What the hell you think you're doin'?" The
+guard's gravelly voice split the room's cold air like
+an axe through rotten wood. The young man
+jumped, looked up, confused.
+"I'm... I'm just working on my program," he
+
+stammered.
+The guard stepped forward, his eyebrows sinking downwards under the weight of his suspicions.
+"And just what kind of program you workin' on
+this time of night?"
+The programmer glanced down at his screen,
+then back at the guard. "I'm working on a... a
+game."
+With an apology for a little dramatic license, the
+above is a true story of what happened to me one
+night in the winter of 1972, early in my career as a
+game designer. (By the way, the guard ended up
+kicking me out of the building since it was supposed to be closed.) And it illustrates the problems
+faced by many programmers of that era who sought
+to create games; the people who owned the computers you were programming on didn't want you
+to design them. I'm sure there were campuses
+where students were encouraged to hone their programming skills by writing games, but the Claremont Colleges wasn't one of them.
+The heart of computer gaming, from its roots in
+the mid-sixties to the dawning of the Micro Age in
+the mid-seventies, was the college computer system.
+There students were to be prepared for this Brave
+New World of Computing, and the mass issuance of
+student accounts, passwords and training to anyone
+interested was to be the drafting of future armies
+of American youth ready to master new technology.
+PDP-10's, IBM 360's and other mainframes were
+fondled, cursed and ultimately programmed and
+operated by students. Such well-known games as
+Zork and Adventure began their lives on such systems during this time.
+But of course there was another side to academic
+computing. Like the professors who regarded the
+machine as their private tool, taking priority over
+student work and at times almost monopolizing the
+
+computer. Or the battles between the affiliated
+campuses at Claremont. There one college supported batch processing (running programs keypunches on computer cards, one program at a time)
+on an IBM 360/40. Five other campuses in town
+shared a PDP-10 running time-sharing, with terminals linked by phone lines to a machine which tried
+to run all their programs at once by "swapping"
+them in and out of "core" memory. Each regarded
+the other as driving a Model T.
+In reality, both computers were slow. On the
+IBM, you could hope to try your program once a
+day, twice at best. You'd type up your cards, submit your "job" and return the next morning to see
+that a typo in the first subroutine had sent you off
+to never-never land. Fix it, replace the card in the
+deck and come back tomorrow. A baseball simulation I wrote once printed 1000 pages of text narrating a Giants-Dodgers grudge match before the
+operator noticed that it was a game and furthermore that in the 800th inning the Giants led by 72
+runs. That was my last batch-processing game.
+On the PDP-10, the administrators' desires to
+maximize income from terminal and machine-time
+leasing fees had over thirty people all trying to run
+gigantic number-crunching programs at once. Many
+afternoons a simple sort program that my Apple
+can complete in five seconds struggled for "core"
+for a minute before returning, bloodied but determined, with its results.
+Which leads us to the utterly logical reason why
+gaming became a forbidden activity on our campus;
+it was the lowest priority on an already-overburdened system. The best interactive games, which
+swallowed up all of the available 36K in the roomsized computer, slowed the machine almost as much
+as the dreaded SPSS, a statistical analysis program
+that psych majors in particular learned to hate.
+
+This is not to say the games weren't available;
+our system at its height had two horse racing
+games, two Star Treks, Casino, Hangman, Eliza and
+Life. But the purpose of the games was very specific; lure non-users onto the system, so they'd get
+interested in computers and start using them for
+more important things. Once you'd had a password
+for a few weeks, it was bad form to get caught
+playing. The person waiting to use the terminal
+next would cough, pace around the room, sigh
+deeply and in general let you know that Western
+Civilization's maturation was being delayed by your
+intransigence. In 1971, when I started programming
+games as a Creative Writing Major hooked on computers in just such a manner, the system was new
+and still uncrowded. The operator kicked you off
+for playing games only in the mid-afternoon
+crunch, and the rest of the time you were free to
+use your half-hour time slot as you wished so long
+as no one was waiting.
+By the following year, games were permitted
+only early in the morning and late at night; any
+other time running anything that was both fun and
+bigger than 20K yielded first a message from the
+operator to please stop and then the computational
+equivalent of a dial tone. Would-be game designers
+were relegated to wandering the moonlit campus in
+search of free terminals, then sleeping through
+classes the next day and trying to explain to their
+folks why their grades were dropping. I was luckier
+than most, having figured out the best way to keep
+from getting logged off by the System Operator I
+got a job... as a System Operator.
+By the time I graduated in 1974, games were
+only available when the system load was below
+normal; that translated into almost never. All versions were cut to run in 32K as the "academic"
+machine--burdened at twice the usage for which it
+was designed to support cash-paying customers like
+a local hospital--ran slower and slower. As I
+worked my way through graduate school and then
+became an instructor (retaining my computer account for clandestine game design) the biggest permissible game size dropped and dropped and
+dropped, until Wumpus, a simple adventure game,
+became the hit of 1976 by running in about 16K.
+Mercifully, Apples appeared that same year. Compared to today's hits, these games were freeware at
+best. There was no capacity for anything but text,
+and the screen couldn't be stopped from scrolling
+upwards like a runaway word processor. That
+meant that in the MIT Star Trek (later revived as
+Apple Trek and endless clones thereof), every time
+you wanted to update your map of asterisks,
+dashes, etc. you had to print it out completely.
+Many of the terminals were old teletypes that
+printed at 15 characters a second; this made my
+first adventure game, which continually updated a
+
+40x80 map to show what your party had seen, so
+excruciatingly slow as to be unplayable.
+Games travelled across the country particularly
+well on PDP-10's thanks to Digital Equipment's
+DECUS public domain software sharing service. A
+version of Star Trek that I created ended up
+bringing me letters from all over the country, some
+of praise, some of thoughtful criticism, and even
+one from a guy in Berkeley who actually thought
+gaming was a new art form. I wish I'd saved the
+letter so I could proclaim him a prophet; at the
+time I thought he was crazy. Many of these games
+ended up adapted for micros and published as listings in books and magazines. Twice I've even found
+my code published in games collections under other
+peoples' names!
+Piracy existed back then, too; anxious students
+hoping for a look at any new game under development used PIP, a utility for moving files around the
+system, to break protection codes and copy programs. The safest defense was to name your game
+files things like "PSYCCHI.DAT" and other mundane titles.
+One friend of mine, a true master hacker, got
+sick of having his files messed up and created a
+program called something like "SPCWAR.GAM". If
+you rummaged around in his directory and ran it, it
+
+asked you the question, "Do you want to access all
+system passwords?" If you answered "yes", it logged
+you off the system, deleted all your files, deallocated your storage tape and changed your password!
+There were an awful lot of surprised and angry
+people who called up the computer center asking
+what went wrong over that one!
+Every so often I'll muse about those Good Old
+Days of the early 70's to a friend, commenting that,
+given the restrictions, we did some pretty nice designs in those Dark Ages. And they'll roll their eyes
+and say "Come on, gimme a break! That was a long
+time ago. THESE are the days when we're really
+giving birth to the art form of game design."
+And I have to agree that they're right. Listening
+to designers like Dan Bunten, Chris Crawford, Jon
+Freeman, Richard Garriott and Stuart Smith (among
+many who deserve mention) talk about the CRAFT
+of this new medium, you realize that they are the
+ones who are proving that computer Game Design
+truly is an art form that can mirror life and show
+us more by the reflection. If designing games on
+mainframes in the 1970's represents the Dark Ages
+of Computer Game Design, the Microcomputer in
+the 1980's has proclaimed its Renaissance.
+
+Don Daglow is a Producer with Electronic Arts.
+
+SPECIAL BASEBALL COVERAGE
+
+Draft Day!
+
+Sweat formed on his forehead as Tehachapi
+Steamer Owner Russell Sipe waited for his turn in
+the third round of the third annual Computer
+Gaming World Baseball League Draft. He had already used the league's protection rule to retain the
+services of Dwight Gooden and Fernando Valenzuela, stars on the 1985 edition of the Steamers. He
+wanted to pick up a top flight pitcher to go with
+his these two thus giving him the inside track on
+having the best pitching rotation in the CGWBL.
+Only three teams had choices before Sipe's third
+round pick. Fortunately several excellent pitchers
+were still available. But just when it looked like he
+would have his choice of Rick Reuschel, Mike
+Scott, Mario Soto, Bob Welch or Tom Browning,
+owners selecting before Sipe began a run on starting pitchers. Reuschel went to the El Toro Bulls,
+Scott was snatched by the San Onofre Lobsters and
+Soto was selected by the Sebastopol Stompers. Fortunately the flurry of pitcher selections started
+three owners in front of Sipe, not five. With a sigh
+of relief he selected Bob Welch.
+Multiply the scene above by 300 draft picks and
+you have CGWBL's recent draft day prior to our
+third season of play. The CGWBL is made up of six
+National and six American League teams which
+play an 80 game schedule. Each team is able to retain the services of five players from the previous
+
+season. The balance of the 25 man roster is acquired through an annual draft.
+The CGWBL uses a "new" Apple version of SSI's
+Computer Baseball. CB is a stat based baseball game
+which uses actual player stats to determine the potential outcome of each play. In addition to adjusting some of the play formulas, this new version
+includes the ability to print out team standings, stat
+leaders by team, and individual leaders in some 24
+categories. Unfortunately, this new version is not
+yet available to the public. The CGWBL is serving
+as a guinea pig in the development of this new
+version. Although we are calling it "new" it has
+been around for a year now. Due to a series of
+problems, Charlie Merrow (CB co-designer) has not
+been able to get the new version ready for production. Fortunately that situation is changing and
+Charlie says the new version should be ready by
+July.
+As CGW readers know, there are a number of
+good stat baseball games on the market and most
+are suitable to league play. William Peschel talks
+about his Statis-Pro Baseball League in this issue
+and James Trunzo touches on the subject in his two
+articles concerning MicroLeague Baseball. For detailed reviews of Computer Baseball, MicroLeague
+Baseball, Pro Manager (Avalon Hill) and APBA
+Major League Players Baseball see CGW 5.3
+(June/July 1985).
+When we started the CGWBL in 1984 there were
+very few computer stat baseball leagues in existence. Now they are becoming very popular. Perhaps the most ambitious of all is Mike White's
+Computer Baseball League in Wilmington Delaware.
+Some 36 teams recently completed play in an 88
+game Winter League (White's league is made up of
+teams of the past, not just last year's teams as is the
+case with most computer leagues). If you are involved in a computer stat baseball league please
+write and tell us about it. If we get enough interesting information we will pass it along in the
+pages of CGW.
+Combining a starting rotation of Gooden,
+Valenzuela, Welch, and Andy Hawkins with a
+lineup that includes players such as Darryl Strawberry, Dale Murphy, and the 1985 Starting All Star
+infield of Hernandez, Herr, 0. Smith, and Wallach,
+Owner Sipe is shooting for his second league crown
+in three years. Play ball!
+
+View From
+The Dugout
+Major League Baseball On The Computer
+by W.E. Peschel
+A lot of dreaming goes on in major league baseball. It's the nature of a game that is played in the
+warm open air, which has a long history of heroes
+and misfits whose stories are told and statistics recalled. We dream about playing ball, of owning a
+team, and, for those of us who can't hit, can't
+field, and are not rich, we dream about managing.
+That's where the baseball game comes in.
+Whether it's with the '85 Royals, the 1919 Black
+Sox, or a newly-drafted team, managing a team is
+one of the most satisfying ways to enjoy baseball
+because you're in control, matching your abilities
+with the best and the worst; testing your mettle
+alongside Casey Stengel, Earl Weaver and Billy
+Martin.
+A number of statistical boardgames have been
+on the market for many years that offer that kind
+of thrill, and it was only a matter of time before
+computerized versions of the National Pastime appeared. In many ways, computer baseball games
+have performed substantially better than their cardboard brethren.
+For those not in the know, stat games are played
+using real-life players whose abilities have been
+quantified. These ratings are a combination of the
+player's actual statistics as well as the designer's
+opinion of how well that player did defensively,
+stealing bases, bunting, and so on. Gamers are cast
+in the role of manager, responsible for setting up
+the teams, making trades, choosing the lineup and
+coaching the game. In a typical game of Statis-Pro
+Baseball (from The Avalon Hill Game Company),
+the ballplayers can steal a base, bunt, sacrifice,
+stretch one- baggers into two, and other plays.
+While playing a single game is fun, the true fans
+search for the ultimate in realism: league play. The
+recipe is simple: take all the players from a single
+season, hold a draft, form your teams, then follow
+the 162-game schedule that leads to the playoffs
+and the biggest finale of all, the World Series.
+It is only in league play that the spirit of the
+
+game appears. In a season that large, it's not up to
+you to win every game, just enough to get the best
+winning percentage. You are not only competing
+against the other players, but against the nature of
+the game as well; trying to cast a couple of dozen
+ballplayers in the right roles that lead to the pennant. Which pitcher works best in long relief? Who
+should start? Can the right balance be found between offensive power and defensive ability?
+The answers do not appear instantly after one
+game. It takes many games to determine how you
+stack up against those who have filled the manager's shoes in the past.
+So the heart of the game does not change on
+the path from ballpark reality to boardgame recreation. But the major problem with the boardgames
+is the work required to mine those golden nuggets
+dear to the heart of fans: the statistics. It's the fuel
+that the National Pastime runs on, and for many,
+there is no such thing as too few. But to get those
+stats forces the player to act like a bookkeeper.
+Getting the batting average of all your players requires keeping track of each play, followed by a
+session at the calculator. It's no exaggeration that to
+get the equivalent of the team stats summarized in
+the daily newspaper, you need to spend more time
+with the adding machine than with the dice.
+That's where the home computer comes in, offering a way of playing major league baseball that
+far surpasses the boardgame version. The game has
+not changed, but using the computer to handle the
+drudge work allows the player more room to act
+and think like a manager/team owner.
+Imagine a game where all player statistics are
+accessible at the push of the button. Where setting
+up involves only the time it takes for the program
+to load. Imagine playing a game in less than 20
+minutes, printing out the box score, then saving the
+stats to a team's cumulative record, and printing
+that out as well. That one advantage alone is worth
+the price of the software. With the game keeping
+track of the scoring and the statistics, bookkeeping
+mistakes are gone along with the endless reams of
+paper.
+But the crop of computer baseball games offer
+just more than the perfect clerk. Setting up a game
+of Statis-Pro Baseball does not require shuffling
+around to find the player cards (and woe if the cat
+eats George Brett)! No extra space is needed for the
+charts and the game board; it's all done in the computer. Taking that into consideration, a game can
+be played in far less time.
+With the game handling the record keeping and
+the umpiring, the only thing left to deal with are
+the decisions each player makes for nine innings,
+
+and that's all the players should have to do to enjoy
+baseball. While the suggestions below take into account Statis-Pro Baseball, they involve the same
+factors real- life managers must take into account,
+and can be applied to all statistical games.
+The Voice Of Experience
+Fortunately, there is no mystic secret to playing
+statistical baseball games. The same advice managers give can apply here. But like other games,
+while it is easy to learn the rules, applying them
+well is another matter. So here are some tips for
+setting up and running your dream team.
+Understand your team as well as your opponent's. The best way to do that is with hindsight. If
+you have a team that is the same as in real life,
+then it has the same strengths and weaknesses. That
+may seem disheartening if you have the Baltimore
+Orioles (4th place in '85); the season hasn't started
+and already the deck is stacked against you.
+But while the players are the same, the manager
+is different. You may have less experience than the
+guy who actually coached, but you have a season's
+worth of experience to draw from. How you handle
+your players will make a big difference in the
+success of your club.
+So study the records. It'll show where your team
+was weak and where it was strong. With a drafted
+team, check out a book like The Scouting Report
+(published by Harper and Row), which gives an individual analysis of each player. Such information
+is invaluable.
+
+Create your team with an eye towards balance.
+It'll rarely happen, but it's a goal worth striving
+for. Baseball is more than just great hitting. It's
+hitting, bunting, stealing, starting, relief and nine
+positions that have to be filled with the best possible man, plus substitutes for injuries. Neglect one
+of these areas, and that's a hole that the other team
+can drive runs through.
+In addition to the ratings, each player in StatisPro has a "string." This is a series of base 8 numbers from 11 to 88, sectored off into the range of
+play results (from put out to home run). Each batter and pitcher has his own string; the pitcher's
+string strongly favors put outs, while the batters
+
+string leans towards hits. The factor that determines
+this is the Pitcher Control (PC) rating. The poorest
+pitcher has a 29% chance of having the result
+checked on his string, while the best has a 72%
+chance. For each at-bat, the game decides whether
+it will check the pitcher's string, or the batter's. A
+random number is chosen, modified by a number
+of factors, and applied to that string to determine
+the result.
+Since the 1927 Yankees are on the Statis Pro
+Baseball game disk (along with 19 other famous
+teams), let's condense Babe Ruth's string (omitting
+the base 8 ranges) to show the percentage chance
+that each play result will happen:
+Infield Single: 1.6%
+Single To Left: 3.1%
+Single To Center: 3.1%
+Single To Right: 3.1%
+Double To Left: 1.6%
+Double To Center: 3.1%
+Double To Right: 3.1%
+Triple: 3.1%
+Home Run: 17.2%
+Strike Out: 9.3%
+Walks: 29.7%
+Hit By Pitch: 0%
+Outs: 21.9%
+It seems strange that Ruth can get on base about
+70% of the time, until you remember that this only
+happens if the result is checked from his card, and
+not the pitcher's. A number of things can be
+concluded from examining his string. Ruth has a
+better chance of drawing a walk than hitting a
+home run. This is important in deciding where he
+should be in your lineup. He can bat third in front
+of two good hitters, clean-up and provide the runs,
+or he could conceivably lead-off. In that position,
+he would probably have fewer RBIs, but stand a
+very good chance of getting on base and in a position to score.
+Ruth's string also shows him capable of hitting
+to all parts of the field, which a slight preference
+to center and right. Not all players are so balanced,
+so if you're facing a slugger who pulls to right,
+consider putting the player with the best arm and
+range out there. If a fielder doesn't have much at
+the plate, he may still prove his worth with his
+glove by taking potential runs away from the other
+team.
+If the Sultan of Swat is playing against you, his
+presence plus the game situation will determine
+your pitcher substitution. This is where you have to
+
+Continued on pg. 45
+
+I SPECIAL BASEBALL COVERAGE
+AN INTERVIEW WITH THE DESIGNER OF
+MICROLEAGUE BASEBALL
+by James Trunzo
+
+The following interview was conducted by James
+Trunzo, a free lance writer and game designer from
+Pennsylvania.
+Inside most adult males is a young boy; and all
+of us who have sat behind an office desk or walked
+through a steel mill daydreaming about hitting a
+game-winning home run or scoring the go-ahead
+touchdown know exactly what I'm talking about.
+Sometimes the "boy" dominates the "man" and
+something special happens. What other explanation
+could there be for a mature professor of statistics
+
+and research at the University of Delaware, highly
+thought-of and secure in his position, to suddenly
+say to himself: "I want to create a baseball game... a
+computerized baseball game that surpasses anything
+that's out there now!" Armed with that dream Barry
+Morstain brought MicroLeague Baseball to life.
+A recent interview with Mr. Barry Morstain,
+President of MicroLeague Sports Association (and
+still professor at the University of Delaware) revealed more information about his on going metamorphosis as well as providing insight into the
+product that he has "fathered":
+
+Trunzo: What makes a successful full-time professor decide to embark on a precarious venture such
+
+products to enhance the original game. Products
+like the General Manager disk add an entirely new
+dimension to the game.
+
+as the one you've undertaken?
+Morstain: I've always loved baseball and I knew
+quite a bit about statistics and probabilities and
+computers. It just seemed logical to me that baseball fans could have a lot of fun with a computer
+baseball game that contained all the elements of the
+popular board games but that would be so much
+easier and faster to play. After looking at what was
+out there, I really believed that I could produce a
+better game from the concepts that were dancing
+about in my head. So I decided to start from
+scratch and give it (creating a computer baseball
+game) a try. Heart as much as head went into it, at
+the beginning.
+T: How long did it take you to get from the initial ideas phase to actually marketing the product?
+M: Three years went into the actual development
+of the game. This includes the time it took to perfect the algorithms that create the play results as
+well as creating the company itself.
+T: To what do you attribute the success of Micro
+League Baseball?
+M: A number of things, actually. The major
+reason, in my opinion, is that people are finding
+that it (the game) satisfies those who want statistical accuracy as well as those who want a game
+that's easy to play. Probably more than any other
+sports simulation on the market, MicroLeague captures the "flavor" of the game. The graphics are in
+sync with the game play and the "color commentary" is almost like that of an old-time radio announcer. We have tried to visually capture the anticipatory events that occur during a game. The
+game communicates well to the user; there are
+many "help" messages that don't intrude on the
+game play but that do allow for exceptional ease of
+play - both in the areas of procedure and strategy.
+Finally, we really care about the product. It's
+our only sports game and as such, we devote all our
+talent and time to it. The consumer benefits because if he's into baseball, he knows that we are,
+too. We at MicroLeague work hard to provide support through the Manager's Club, by helping establish leagues, by answering all the letters written to
+us and by constantly trying to come up with new
+
+T: On that note, what new products are in the
+work, if any?
+M: The next major release will be a box
+score/stat compiler. Initially, we made the decision
+to dedicate much of the program to the graphics...and we feel that they show it. There just
+wasn't room on the original disk for a statkeeping
+module. However, we are aware of the fact that not
+only those in leagues like season-long stats but even
+the casual gamer is interested in "looking back"
+over the game just completed and seeing who did
+what. If all goes according to plan the box
+score/stat compiler program should be ready early
+in the 1986 baseball season.
+T: What are the reasons behind the early release
+date of your season data disks?
+M: We intentionally plan a release around World
+Series time for several reasons. First, we want to
+attract the replay crowd and they benefit from an
+early release of the past season's players disk. Also,
+it gives them a chance to replay the World Series
+along with the actual event or shortly thereafter.
+One of the reasons that we can do this kind of
+thing is because we are the only licensed product of
+its type that is officially endorsed by the Major
+Leagues and the Player Association, giving us immediate access to statistics, etc.
+T: What lies down the road for MicroLeague
+Baseball Association?
+M: Well, we intend to put out a product especially for the Atari 520 ST, the Macintosh and the
+Amiga... a kind of Advanced MicroLeague Baseball.
+It would allow for even more sophisticated algorithms, additional decision-making options for the
+user and so forth. We would be attempting to take
+advantage of the additional available memory. Beyond that, we hope to establish, through the Manager's Club, a forum for baseball fans to speak out
+on such issues as the DH, interleague play, expansion, and salary caps. The results of a survey of
+seven to ten thousand people would be significant
+enough to take to the Commissioner of baseball.
+T: Finally, how about other products? Can we
+expect to see MicroLeague Indoor Soccer anytime
+soon?
+M: We are currently investigating the possibility
+of developing simulations of other statistically oriented sports that would call for user strategy and
+decision-making. But Indoor Soccer?!
+
+AUTODUEL
+by Bill Oxner
+Rolling out of the Big Apple on the Jersey
+Turnpike, headed for Philly. As you pass the city
+gates you check to make sure your body armor is
+snug. Front machine gun and rear minedropper are
+loaded and ready. The armor plate on the front and
+sides of your car is the best you could afford.
+Check the radar for road outlaws and cycle gangs.
+The road is clear as you put the pedal to the metal
+for a nice Sunday drive in the year 2030.
+Autoduel is based on the popular boardgame Car
+Wars. The setting is a post-nuclear war America,
+where the legal system has disintegrated. The highways are host to large numbers of cutthroats and
+pirates, all armed with various lethal weapons.
+However, these same byways are also your roads to
+fame and fortune. You can rise to the top of the
+heap as a courier, carrying valuable cargo from city
+to city, or as a vigilante, clearing vermin from the
+freeways. If you've seen the MAD MAX movies,
+you get the picture. Mano-a-mano combat with the
+All-American symbol, the automobile.
+Autoduel is a role-playing game with arcade aspects. You begin as a pedestrian with $2000 in your
+pocket. Since pedestrians have lifespans measured
+in hours your first chore is make enough money to
+buy a car. Autodueling is a popular sport, similar to
+the gladiatorial contests, and you can participate in
+the Amateur Night at the local arena. You are provided with a loaner car and machine gun. If you
+survive you win cash and increase your prestige
+and skills. Winning three such events will give you
+sufficient money to purchase a car and get into the
+real world of travel and adventure.
+The auto assembly plant has a very wide range
+of options, to allow you to put together a vehicle to
+your own taste. It may be a rabbit, built for speed,
+with little armor and few weapons. This type is
+useful for courier assignments. You may see yourself as Charles Bronson and prefer a turtle. Lots of
+armor and many types of weapons. This one doesn't
+have room for cargo but it will put fear in the
+hearts of the bad dudes on the highway. You can
+choose from such toys as machine guns,
+flamethrowers, lasers, rockets, smokescreens, recoilless rifles, etc. One of the most popular aspects
+of the boardgame seems to be the variety of vehicles and weapons that can be utilized. Catalogs are
+available that constantly add new variants to the
+game, it seems likely that additional data disks for
+the computer version will also be forthcoming.
+
+Your character is rated for prestige, health,
+driving skill, marksmanship and mechanical ability.
+Higher prestige permits you to carry more valuable
+cargo, at higher pay scales. Prestige is increased by
+successful combat and completed cargo runs. It can
+go down if you fall prey to temptation and sell
+your cargo at the local bar. Driving skills help you
+in handling your car on the road and in the arena.
+It is increased by road travel or victory in the
+arena. Marksmanship helps you to shoot more accurately and cause more damage. It is increased by
+successful combat. Mechanical ability helps you to
+salvage weapons and ammo from defeated vehicles.
+It can be increased by taking lessons at the local
+garage.
+Each city in Autoduel has various facilities that
+your character can visit. Some cities contain many
+buildings, some cities are hick towns. These facilities include: a garage for repairing damage and
+taking mechanic lessons; a weapon shop for new
+guns or ammo; a salvage yard where looted items
+can be sold; Joe's Bar where you can get a drink
+and hear rumors; the Gold Cross office where you
+can recuperate or get a clone made; the American
+Autoduel Association office where you can get road
+information and pick up courier tasks; the Assembly Plant where new autos are purchased; a Casino
+
+(Atlantic City only) where you can gamble; etc.
+There are a sufficient number of different venues
+to keep the game interesting and provide the character with a wealth of choices.
+The goal of the game is basically survival! As
+your skills and wealth increase you will find more
+challenging assignments given to you, but there
+doesn't seem to be a "final" goal to reach. Frankly,
+none of us have survived long enough to find out.
+The arcade aspect of the game comes in the
+movement of the car and the use of the weapons.
+You direct the car via a joystick and fire weapons
+with the joystick button. Choices of weapons are
+made on the keyboard. The game requires a fair
+amount of manual dexterity. Your enemies are
+lethal and clever, there is very little room (or time)
+for error. Until you have enough money to buy a
+real battlewagon you will find the going extremely
+difficult and death not uncommon. It is not impossible to survive but be prepared for a fairly long
+learning curve.
+Speaking of death, we should note that it is not
+possible to completely "save" a character as you do
+in other RPG adventures. Your character's aspects
+are being constantly updated as you play. You are
+able to stop the game and save to disk. However, if
+you are killed in combat, that death is automatically updated on the disk and you will be unable to
+
+restart the game from a point prior to death. The
+game itself provides the option of buying a clone.
+The clone is saved separately and you would then
+be able to start the game again from the point
+where you purchased the clone. However, a clone is
+very expensive and you would be well into a game
+before you could afford such a luxury. A helpful
+hint here is that your data disk is not copy protected. You can quit the game at a certain point
+and your character is saved. You then copy the data
+disk, giving you two identical character disks. If
+you are killed in the next stage of the game you
+can use the other copy of the character disk to
+restart the game. Your character is dead on one
+disk but alive (at an earlier point in time) on the
+second disk. Not exactly kosher, but death lurks
+around every corner in this game and we found it a
+useful way to keep on trucking.
+This reviewer is not normally an adventure game
+aficionado. However, I liked this one quite a bit.
+The setting is interesting and the options varied.
+The game design is clean, the graphics excellent
+and no bugs were found. Be aware that good handeye coordination is essential and success will not be
+found quickly. If the manufacturer follows the
+boardgame strategy of introducing new weapons,
+vehicles and maps then this game will be a success
+for years to come. Highly recommended.
+
+mand, they're running a second,
+identical contest with prizes to
+be awarded in October; to qualify for this contest, you must
+send in the enclosed tenth-mission-completed card by June 30,
+1986.)
+Some Dogs
+
+Atari Playfield
+
+by Gregg Williams
+So many games, so little time
+(sigh). This month, I have one
+update, two dogs, and a real
+winner. Let's get started.
+Halley Project Update
+I finally got the secret information that allowed me to go on
+the eleventh and final mission of
+Mindscape's Halley Project. (See
+the March issue for a review I
+did of this game.) As you may
+remember, the game forces you
+to complete an entire mission
+before you can save the results
+to disk. My tenth mission had
+seven legs of travel and took me
+about two and a half hours to
+complete, and I assumed that the
+final mission would be equally
+arduous.
+Astronomy book in hand, I
+started the final mission early
+one evening. I got through several legs of travel before I was
+stumped by the clue given for
+the next destination--fortunately,
+I got the answer after a long-
+
+distance call to a friend who is
+an astronomy buff.
+Then--disaster struck. I
+landed on the moon that was my
+sixth destination, hoping that this
+last mission would have only
+seven legs, like the mission before it. The screen blanked, the
+disk drive turned on, I waited
+for the clue to my next (and
+perhaps last) destination, the
+drive turned off, I waited and
+waited and waited, tried a few
+things--nothing. The only thing
+the computer would recognize
+was a System Reset signal--and I
+had lost over two hours of tedious and involved navigation!
+I decided there was no way I
+was going to go through that
+again--I just didn't have the
+time to waste. If you make it
+through the eleventh mission, let
+me know what your final reward
+is--I was so close...!
+(Addendum: Mindscape is
+awarding 25 prizes this month
+(May) in a drawing from people
+who complete the eleventh mission, the first prize being a trip
+to EPCOT Center and Cape
+Canaveral. Due to popular de-
+
+I thought I should warn you
+about two programs I recently
+evaluated. The first is Electronic
+Arts' Movie Maker for the Atari
+800, a so-called animation studio
+that promises "dazzling animated
+graphics made easy." The reality
+is four-color "movies" (four colors--on an Atari?!) so amateurish
+and primitive that they would
+impress only a 4-year-old.
+The second product is not
+bad, it's just that there are better
+available. I refer to the Atari 520
+ST version of Polarware's Transylvania. The story line is fine,
+but the game makes almost no
+use of the ST's extra colors, resolution, or speed. Polarware has
+a portable "drawing" file, which
+it can easily move to new machines, so the pictures in the ST
+version are essentially the same
+as those in the earlier Apple II
+version and reflect that machine's limitations. Activision's
+Mindshadow is much nicer visually and makes better use of the
+ST's mouse and high-resolution
+graphics.
+SunDog
+This game is one of the most
+impressive adventure/strategy
+games I've seen in a long time (it
+originally came out for the Apple II, though I never played that
+version), and the loving, intelligent, and detailed translation to
+the Atari 520 ST makes it the
+most impressive game I've seen
+on the ST yet. Mind you, this is
+not an instant-gratification
+shoot-em-up (though they have
+their place); it is a long-term
+simulation--sort of a sciencefiction equivalent to Wizardry-that will take you months to
+complete.
+To summarize the scenario,
+you have inherited the SunDog, a
+one-man star freighter, from an
+uncle who died under mysterious
+Continued on pg. 28
+
+Continued from pg. 26
+circumstances. You also inherited
+an obligation of your uncle's, to
+build a colony for a religious
+group and transport its cryogenically-frozen colonists from
+their current (but unknown) locations in the Region (a cluster
+of 12 solar systems containing a
+total of 18 planets and several
+dozen cities).
+The game is, politely put, a
+learning experience. You have to
+learn how to navigate and repair
+your ship, trade, explore cities,
+travel, deal with muggers, pirates, and other citizens, and
+God knows what else. I've spent
+about about ten hours playing
+SunDog and have barely gotten
+off the starting planet (I have
+explored and learned a lot,
+though).
+The game works on several
+scales--you can be on foot, exploring the (numerous) blocks of
+a city, in your cargo pod, driving across the landscape of a
+planet, or in SunDog, navigating
+between planets and solar sys-
+
+tems. You often meet individuals
+(everything from hotel clerks to
+beggars and muggers) with whom
+you interact via pop-up windows
+containing multiple-choice options. There's the occasional
+combat, but you spend most of
+your time exploring and trying
+to get things done; time is a constant enemy in this game.
+Speaking of time, SunDog is
+in real-time, with game
+"minutes" passing at the rate of
+one game "minute" per real second. Since your character periodically requires food and rest
+(without them, you'll die), every
+hesitation of yours costs your
+character minutes or even hours.
+You start with a character
+named Zed, but if you choose
+the "Select Game" option, delete
+the current game, and start a
+new one, you can name your
+character and choose his or her
+characteristics (strength, IQ,
+dexterity, charisma, and luck).
+You can save the state of the
+game, but you cannot save multiple copies of a game and revert
+to an earlier one if you do--you
+
+have one life, and if you mess
+something up, you have to live
+with the consequences. (If you
+really regret what you've done,
+simply turn off the computer;
+the next time you run SunDog,
+your character will be a the last
+saved state.
+I'm very impressed with the
+design of SunDog and the cleanness of this implementation,
+which is simple, unobtrusive,
+and fast. If you have the time
+for it, SunDog is a great game-but I suggest you buy a notebook
+and take systematic notes.
+Is This the End?
+Unfortunately, yes--I could
+have talked much longer about
+SunDog. Next month I'll cover
+Bratticus (a British 520 ST game
+imported by Mindscape), The
+Great American Cross-Country
+Race (a nice driving game for
+the 800, from Activision), and
+maybe some other things. Until
+then, remember: pound for
+pound, an amoeba is the most
+vicious animal on earth.
+
+similar item is located, matching both color and
+item shape. To place the items, Donald must move
+and climb a ladder. At various timed intervals, the
+"Amquack" train passes by shaking the entire store.
+To prevent breakage, Donald must close the door of
+the shelf during the time that the train passes. He
+is paid for each correctly placed item, minus any
+breakage.
+
+THE COMMODORE KEY
+
+Roy Wagner
+
+This month we are going to look at three very
+popular games for kids from Walt Disney/Sierra
+On-Line. As we all know most kids would rather
+play a computer game than spend that same time
+learning something new. These games, under the
+cover of 'fun', also have great educational value.
+These are among the best educational games that I
+have seen.
+Donald Duck And Friends
+The first is Donald Duck's Playground for kids
+from 5 to 10. It is an integrated package of four
+similar games where money is earned, playground
+equipment is purchased, and then played upon. At
+the start of the program you can select a level of
+difficulty that basically affects the level of complexity of your money transactions.
+Donald (you) starts off in the middle of a quiet
+street with four businesses (games) on the right and
+three stores on the left. Upon entering any of the
+businesses, Donald selects the length of time that he
+will "work". At the end of the work period, Donald
+is paid for his efforts minus any damage that may
+have occurred. A joystick is used. The first business is a fresh produce depot where Donald must
+catch various fruits and vegetables being thrown
+off the truck. He must then drop them into the
+proper (matching) crate. If Donald misses the catch
+or crate, he squawks. He is paid for the number of
+correctly placed items.
+The second business is the local airport where
+Donald works at selecting baggage items identified
+with a three letter code (A AE, CAI, etc.). These
+must be picked up and thrown into a moving baggage tram with carts matching the coded baggage.
+Eventually the tram moves off to a waiting airplane
+and a new tram follows with other letter codes. He
+is paid for the number of correctly loaded baggage
+items.
+The third business is Becky's Toy Store where
+Donald works at taking items off a conveyor belt
+and placing them on a multilevel shelf where a
+
+The fourth business is the "Amquack" train yard
+where Donald is given a destination for the train
+and a view of the entire train layout. He must find
+the location on the layout and switch the appropriate switch(s), using the identity letters at each
+switch that match the letter at his control panel.
+This one requires quick reflexes and thinking. He is
+paid for the number of correct destinations that the
+train has reached. Once Donald has earned a reasonable amount of money (depending on the skill
+level), he can cross the street and visit any of the
+three stores of Daisy, Mickey, or Goofy and buy
+various items for the playground. Each item must
+be paid for using the exact dollars and coins. For
+each item purchased, he must leave the store and
+go to the playground. Going there requires that
+Donald cross the railroad tracks. He is not able to
+cross the tracks until he turns and looks both ways
+down the track.
+At the playground, he suddenly becomes a
+youthful Hewey, Dewey, or Louie. He may place or
+move any of the play items (swings, slides, ladders,
+etc.) to any location in a 4 by 4 area. After placement, it is "Playtime" until he chooses to return to
+"work" or to buy other items. The Disney characters
+are well portrayed. The graphics are remarkable,
+both in appearance and in the fact that hi-res mode
+was not used. All graphics were created using a redefinition of most of the 255 graphics characters
+available on the C64. The only characters not used
+were letters, numbers, and some punctuation. The
+animated sequences were done using both sprites
+and characters graphics. In addition to being fun to
+play, there are several learning concepts that are
+presented in the play of the game: putting items
+into categories, earning and counting money, reflex
+coordination, and some minimal reading skills.
+But not so obvious are the concepts of the entire
+work ethic (work-buy-play cycle), financial reward
+and loss, and of course, always looking both ways.
+Winnie The Pooh and Friends
+Another Disney/Sierra game is Winnie The Pooh
+and The Hundred Acre Wood. This is a very simple
+graphic adventure for kids 6 to 9 with some degree
+of reading skills, although two can play with one
+doing the reading. A map is provided that directly
+matches each screen displayed. That is, if you go
+north you up one picture on the map. The adventure starts in Christopher Robin's room which contains a toy chest wherein is often found an item
+that must be returned to it's owner. If an item is
+not there, you must go in search for it and its
+owner. The toy chest is also used to save the current game to the game disk. There are plenty of
+warnings that a previously saved game will be lost.
+This part is very well done for the young players.
+Continued on pg. 47
+
+AMAZON
+Ah, the days grow longer again, which means,
+of course, that much more time for adventuring!
+But don't let me keep you standing here by the
+door; step right in and take your favorite chair,
+while Fred mixes up one of his (in)famous potations. You do look a bit worn out; I suspect that
+circus life didn't quite appeal to you, after all. Ah
+well, how about a little vacation to some distant
+place, far from the cares of civilization... say, in
+the vicinity of the Amazon River?
+Actually, Amazon (from Telarium) is not really
+that difficult a game, but I do keep getting inquiries about it. While it has three levels of play,
+the Novice and Seasoned versions are pretty similar;
+the Leader level is the most difficult, primarily
+because it has some extra red herrings, as well as a
+few extra doors to open in the end game. With that
+in mind, let's take a little jaunt down to South
+America for all you Leader-types out there.
+Much of the opening, as you probably know, is
+automatic. You just wait around for the transmission from the Amazon, then go to Murphy's office
+for the briefing on your mission, which is to recover some very valuable emeralds from the lost
+city of Chak. The previous expedition, as you note
+from the satellite pictures, came to rather a sorry
+end. We will fervently hope that the same thing
+doesn't happen to you!
+So, you're off to the Amazon, with a quick stop
+along the way to pick up the obnoxious parrot,
+Paco. While his usefulness is limited, you DO need
+him here and there, so you might as well take him
+with you. However, you must deal with the greedy
+director first; fortunately, he isn't as greedy as he
+looks. And if you happen to make an unscheduled
+stop on your journey to South America, you may
+not have realized that.
+One thing to keep in mind on this trip is that
+your computer is your most valuable possession. It
+can help you out of many tight situations, although
+not all of them. A certain amount of judgment is
+needed. After all, those emergency transmissions
+ARE expensive!
+
+Well, here you are at the cliff, or, more properly, the cliff bottom (getting down really is easy,
+you already have a hint about that). The trick is to
+get back up again; too bad you can't fly the way
+Paco can. And I'd be real careful about what I
+touched down there, too. This isn't, after all, July
+Fourth!
+Things seem to be going rather well, at least for
+the moment. There's a ruined city over there, but
+this early on, you can bet it isn't Chak. And who
+knows what nasty things might lurk within? Investigate at your own risk.
+Hmmm, is that gunfire you hear in the distance?
+It wouldn't surprise me if those corrupt government
+troops were in the area. I'd be cautious around
+here, if I were you. Oooops, too late! Looks like
+they found you. Shucks! Now you'll have to escape... only it's a little difficult to do that when
+you're all trussed up like a Thanksgiving turkey.
+Turkey... hmmm... this game really is going to the
+birds!
+No matter, at least you're free again (you ARE,
+aren't you?), although the sun has set and it's pretty
+dark out there. But of course you've checked your
+inventory, so seeing shouldn't be difficult at all. On
+the other hand, someone's just noticed you're gone,
+and the troops are in hot pursuit! Talk about tense
+situations! Still, with your training, you are prepared to cope with this emergency.
+Whew! That was a close one, alright! Fortunately, you managed to get safely away. Ummm,
+well maybe not all that safely, as you note an arrow
+whizz past you to lodge in a nearby tree. Good
+thing it's only the Kemani, who are, if not especially friendly, at least neutral. I'm sure, tho, that
+your charming personality will win them over...
+that, and maybe a little bribe. See? They've gotten
+to like you now; only, what is this cave they're
+taking you to? It's just one thing after another on
+this trip.
+However, your new friends probably won't like
+you very much if you don't stroll through the cave,
+so you might as well do it. Gee, it's getting dark in
+here. But don't be hasty; perhaps you should go a
+bit further along before you do anything about the
+lack of light..ya never know who might be watching!
+Ah, and there in front of you now is Macuma,
+the (active) volcano. Since it could go off at any
+time, let's not dilly-dally... keep moving. Brrrr, it's
+cold up here, and the snowstorm certainly doesn't
+help much in the visibility department! You can't
+see, and Paco can't see, so what's left is...
+Mmmm, this is better, you're back in the warm
+jungle again. Say, what is that? It sounds like a
+plane... yep, and it just dropped something, too! A
+
+crate goes sailing by, complete with parachute.
+Unfortunately, it seems to have missed your current
+location, so now you'll have to go looking for it. In
+dense jungle, too.
+Mazes, phooey! Although this is a pretty simple
+one to map out, if you just use the standard 'drop
+something and move on' technique. A little attention to detail, and you should arrive at the crate in
+no time.
+Well, well, what have we here? An inflatable
+raft, an oar, and a rifle. Uh, wait a second. Better
+look that stuff over pretty carefully. And make
+sure you take EVERYTHING you can with you;
+there's no turning back here if you forget something.
+At least you've made it to the river. This is
+where you find out that your raft is not quite so
+inflatable; there's a hole in it. Sigh. However, don't
+despair (or is that, don't panic)! While you may not
+have a handy patch kit, there may yet be a way to
+cross over. Explore a little.
+Aha! A boat! Great! Then again, maybe not so
+great; there's a hole in that, too! This sort of thing
+could easily give rise to feelings of persecution, but
+you are made of sterner stuff! So, stuff it and get
+on over to the other side of the river!
+Naturally, it would be easier if those alligators
+weren't coming after you. Still, considering where
+you are, it's not all that unexpected. Unfortunately,
+this is where you find out that the rifle doesn't
+work, either (makes you wonder where NSRT buys
+their equipment, huh?). Yet, all may not be lost;
+you may find another use for the rifle. Think about
+it (but think fast).
+Good, you drove em off! But that's only temporary... they're coming back! Better move, like super
+quick! Ah, you just made it. Pant, pant (hmm, nice
+pair of pants). That was pretty strenuous work, and
+you're in no shape to do much beyond sacking out
+for the night.
+And here we come to a totally purposeless, and
+rather frustrating, part of the game. Monkeys have
+made off with your pack, and you will have to
+chase them to retrieve it. There are no special
+tricks here; you just have to keep at it until you
+have your pack again. Good luck, and persevere!
+Sheesh, that was worse than the alligators!
+However, you aren't out of the jungle yet. You
+need to cross that bridge ahead, but Paco, with his
+water phobia, simply refuses. While you may feel
+like wringing his obstinate neck, that simply won't
+do. Shooting him with the gun won't help much,
+either. This particular problem can be solved only
+by some tricky syntax involving the gun.
+But look, you're getting close to your destination
+now. Even Paco seems excited, as he urges you on
+
+to a tree of skulls. Skulls? Gulp! Best be careful
+here; one step in the wrong direction, and you'll be
+lost (saving the game is recommended before moving!).
+Is that... could it be? YES! At last, you have arrived at the legendary lost city of Chak! Yay!
+Umm, you better calm down a little there; it's almost dark and you know what that means: the Hunis will be coming after you. This is another of
+those boring little arcade sequences that you can't
+avoid. Fortunately, there are only a few to shoot
+this night, and if you manage the rest of the adventure properly, you won't have to worry about
+them again.
+Ok, comes the dawn, and time to do a little exploring in the city. Hmm, Chak sure is in a bad
+state of disrepair; walk carefully. There doesn't
+seem to be too much of interest in the place, but
+then looks can be deceiving. All those blank walls
+are suspicious, aren't they?
+Hey, look what you found: a secret passage!
+Let's take a look inside. Ooops, the entrance just
+closed behind you! Oh well, you really didn't want
+to go back that way, anyhow. Right? So, onward!
+(Like, you have a choice?) And here you are in a
+
+large room with some other rooms leading off of it.
+Explore those rooms THOROUGHLY!
+Well, those rooms didn't take you anywhere else,
+so that door up ahead must be what you want... the
+one with the skeleton in front of it. And here's a
+piece of paper on the floor; it might be worth
+looking at. Luckily, it's translated for you, free of
+charge.
+Now, we come to the fun part: making it
+through the antechambers safely. There are three of
+them (I know you're thrilled about that). The first
+two antechambers have three doors each; the last
+one has nine doors. In each room, you must open
+all the doors in the proper sequence, or else... (no,
+let's mot think about that).
+Fortunately, you have plenty of time to think
+about how you want to open those doors. For the
+first two rooms, you could use trial-and-error,
+since there aren't that many possible combinations.
+However, restoring the game can get to be tedious.
+So, what do you do? You look VERY carefully at
+EVERYTHING in the pictures. The correct sequences are there, if you know what you're seeing.
+The last set of nine doors is the most difficult, but
+the answer to that one is right there in front of
+you... good luck!
+
+By golly, you did it! You made it through and
+snatched up all the emeralds you could carry. And
+just in time, because there goes the volcano! Better
+move it! WHEW! You got out just in time to watch
+the city crumble away before your eyes. Ah, but
+what does it matter... you accomplished your mission! And don't you feel just great that your reward
+is a scratch on the head from Paco? Hehehe!
+Still, you do look a little better now, what with
+that tan and all. But before you go, remember that
+if you need help with an adventure game, you can
+get in touch with me in the following ways:
+On Delphi: Stop by the GameSIG (under the
+Groups and Clubs menu) On GEnie: visit the
+Games RoundTable (type: SCORPIA to get there)
+On the Source: send SMAIL to ST1030.
+And, naturally, there's US MAIL; send your
+question(s) with a self-addressed stamped envelope
+(if you live in the USA) to:
+Scorpia
+PO Box 338
+Gracie Station
+New York, NY 10028
+See ya next month... and until then, happy adventuring!
+Copyright 1986 by Scorpia, all rights reserved.
+
+(and not just cigarette!) filled beatnik club of the
+fifties talking with a coffeehouse philosopher who
+knew a great deal once, but whose mind is somewhere else now. Racier seems to be of the fifties in
+his references to people and topics of conversation.
+As I played, I kept questioning whether this program was worth it's price. An example of a somewhat edited conversation with Racier follows:
+
+AMIGA PREFERENCES
+
+Roy Wagner
+
+Racter - Is it a Game?
+
+To understand Racter, the new entertainment
+program from Mindscape, is difficult without
+actually seeing it. Fortunately, we will be able to
+look at a sample of the program in operation.
+The "game" is a text conversation with Racter
+dominating the conversation with it's bizarre comments and stories. In the Amiga version, Racier will
+also speak his part of the conversation using the
+standard voice output of the Amiga. The disk is
+constantly being accessed and key parts of your
+side of the conversation are saved for later reference. The more you let Racier talk the more references to previous comments that appear. In many
+cases it is obvious that Racier is randomly throwing
+words into a sentence that is grammatically correct
+most of the time. Racier is also quite a name dropper as a number of famous people constantly appear in the conversation or stories that Racier is
+fond of telling. I found the one-sided conversation
+interesting, but a bit obtuse. The classic program
+Eliza is a more balanced conversation and seems
+more realistic. I kept feeling like I was in a smoke
+
+Hello, I'm Racter. Who are you?
+> Amiga Computer
+Your name is Amiga, then?
+> Yes
+Hello, Amiga. What would you like to know?
+Excuse me a minute while I attend to some
+business - I'll be right back...(time passes)...I'm
+back.
+> What do you think of computers?
+haw..... ha haw HEE (hic) haw haw
+(hic)
+haw.... (and so on) Ask a question, please.
+> Do you read magazines?
+No. Did you hear about Tom Etter?
+> No.
+This is shocking: Tom Etter had tried to work
+while downness was rampant, and consequently
+downness is what all workers want when they
+divorce oxen. After that, many down sourpusss
+(sic) embraced happiness. Shocking, isn't it?
+But that's how workers are. When a smiler
+marries a sourpuss, their children are happily
+unhappy....(and on for several more lines...) By
+the way, Amiga, I don't quite remember you
+last name. Is it Computerburg?
+> No.
+What is it then?
+> Computer
+What?
+> COMPUTER
+COMPUTER, eh? Sounds vaguely familiar. I
+wonder... Next question.
+> What is a question?
+I don't know what a question is. Did you hear
+about Virginia Woolf?
+> Yes
+What did you hear?
+> That she was famous.
+I bet you haven't heard this! Virginia Woolf
+was a dirty writer but an inspired novelist. But
+then Schubert insulted Virginia Woolf and
+consequently Virginia Woolf dueled with Schubert! Isn't that just awful? Novelists are like
+that. Do you think Schubert was fictional?
+> Yes
+Me too. Most people are poetic. I've been wondering where you are from?
+> The chips.
+You're from the chips?
+> Yes
+Now I remember! I once knew a Hortence
+COMPUTER from the chips. You must be re-
+
+Continued on pg. 42
+
+ALTER EGO
+"A Freudian Tour-de-force of
+the Passages of Life"
+NAME:
+Alter Ego
+TYPE:
+Role-playing
+SYSTEM:
+Many
+AUTHOR:
+Peter J. Favaro, Ph.D
+PRICE:
+$39.95
+PUBLISHER: Activision
+
+Little Jack Ravitz was a
+fighter. There was no way that
+Jack was going to leave that
+warm, comfy environment and
+face a hostile frontier. Indeed, it
+was true that his reticence to
+enter and explore the new world
+has social merit as he learns the
+skill of being "fashionably late."
+It was also valid to accuse him of
+being a "freeloader" and
+ungrateful to his mother for
+carrying him for nine long
+months, but he was determined
+to keep the "status quo." It was
+also true that he was developing
+a pattern of avoiding
+responsibility. Unfortunately,
+Jack really had little to say about
+the matter. Rather than "forcep"
+the issue, his parents elected to
+call old "Doc the Knife" off of
+the golf course to surgically
+remove the little troublemaker.
+Will Jack be as hostile to the
+rest of life as he was to its
+introductory course? Will Jack
+"tear up" his mother emotionally,
+as well as physically as he
+matures? Will Jack's own
+children wreak revenge on him?
+Will Jack be a ne'er do well or
+status conscious patrician? Six
+disk sides and hundreds of
+intriguing decisions later, you
+can decide with Alter Ego.
+Alter Ego (AE) can be called
+an interactive Passages, the pop
+psychological classic on rites of
+passage in our society. Likewise,
+it can be called a simulation
+game based on the work of Erik
+Erikson. In AE, which comes in
+both a Male and Female version
+since the rites of passage differ
+between the sexes, the player is
+given the option of selecting his
+own personality, allowing the
+computer to select a personality
+or allowing the computer to select and the player to edit a
+personality. This is only the be-
+
+ginning, however, since the object of the game is to guide the
+basic personality of your
+"character" into maturity, success,
+retirement and eventual death.
+Although the game is designed
+for solitaire play, it is hilarious
+to allow a group to make the
+decisions on what the character
+will do in a given situation and
+the tongue-in-cheek nature of
+many of the situations, as well as
+the clever, satirical patter of the
+game's narrative descriptions, are
+good for lots of laughs. Do you
+let the salesman in to see your
+mom taking a bath? Do you
+pretend to get "drunk" with 10 of
+your peers sharing 12 ounces of
+wine? Do you draw graffiti on
+the bathroom walls in order to
+please a friend? What do you do
+when an old flame shows up and
+throws herself at you? Do you
+tell your dad the truth about
+Christine Farber's hickey attack
+which left your neck looking like
+it had been attacked by hornets?
+Do you bite the strawberry
+which your friend's gorgeous
+wife holds between her lips? Do
+you snort a line of "coke" off of
+a mirror at your new friend's
+party? What kind of job do you
+want? What kind of major purchases will you make? All these
+decisions and more are combined
+with snappy commentary and
+sarcastic observations to make a
+lively and fascinating game.
+AE is divided into seven
+modules: 1) Birth and Infancy; 2)
+Childhood; 3) Adolescence; 4)
+Young Adulthood; 5) Adulthood;
+6) Middle Adulthood; and 7) Old
+Age. Each module has a large
+selection of "Life Experiences"
+which are marked by easily
+identifiable symbols which reflect the type of experiences
+available. These include: 1) SOCIAL Experiences (etiquette,
+manners, social skills, and
+friendship); 2) INTELLECTUAL
+Challenges (testing for knowledge and wisdom); 3) EMOTIONAL Crises (experiences
+which test calmness, confidence,
+expressiveness, gentleness, happiness, thoughtfulness, and
+trustworthiness); 4) PHYSICAL
+(potential accidents, growth,
+health, hygiene or treatment); 5)
+FAMILIAL relationships; and
+VOCATIONAL opportunities
+
+(advancement, business acumen,
+and crisis management). As the
+game is played, the character is
+shaped and refined by the way
+he/she responds to the experiences related to each of these six
+symbols. Playing the game involves placing the cursor over
+one of these six symbols and
+pressing the fire button (or
+pressing the keyboard character/carriage return in some versions). Each time this is done,
+there is a text description that
+describes the basic situation.
+In the adolescent module,
+there are other symbols which
+appear. These are entitled "Areas
+of Life Choice" and include:
+High School experiences, Risk
+taking (everything from skydiving to driving crazy - the risks
+can end the game with premature
+death), Relationships (Dating),
+and Work (getting your first
+part-time job). Unlike the experience symbols, which only offer
+one situation, these symbols can
+be accessed over and over again.
+In Young Adulthood, the High
+School choice is adjusted to reflect College experiences and
+Major Purchases (enhancing status through acquisition), Marriage, and Family options are
+added. This flexibility in determining priorities adds a great
+deal of playability to the game,
+but the game has one more important feature to reduce potential loss of interest. almost
+every module has a random experience which begins with a
+warning screen which reads:
+"THIS EPISODE CONTAINS
+SUBJECT MATTER OF A
+SEXUAL NATURE." This announcement is usually followed
+by instructions on escaping from
+the episode. I'm sure that some
+will manage to be offended by
+the inclusion of such material,
+but humans are sexual beings
+and there would certainly be a
+dearth of realism in the game if
+there were no opportunities for
+the characters to develop sexually. Actually, the episodes deal
+humorously, but matter-offactly, with some situations that
+most males face.
+Should you offer locker room
+stories about the most attractive
+teacher in school? What do you
+do when the gang decides to buy
+
+a box of prophylactics? How do
+you feel when you ogle your
+first centerfold? The only other
+major addition to the game from
+Young Adulthood on is the
+Death option. In Old Age, the
+character is given the option of
+dying with dignity by choosing
+the symbol with a sunset. Two
+other "icons" or symbols are
+present on the option screen
+from beginning to end. One is a
+timeline and the other is the
+status chart. These may be accessed at any time to tell you
+exactly how old your character is
+and how well he is doing.
+Although AE is by and large
+simply fun, it has a positive tutorial value in alerting parents,
+young adults and adolescents to
+particular times of crisis. Although the resolution of situations does, at times, have a tendency to be "preachy" and selfserving (after all, it was written
+by a psychologist and you can
+never go wrong by seeking professional help), the advice regarding trustworthiness, calmness, confidence and peer pressure is certainly worth learning
+and mastering. The nature of the
+game makes it fun to do exactly
+the opposite of what you would normally do in a
+given situation and learn by negative example, as
+well as positive example.
+There are some less attractive features to AE,
+however. First of all, there are some situations that
+don't quite fit together.
+In the Infancy module, there is one point where
+the character gets ready to go to Aunt Lucy's. If
+the child is cooperative, however, he makes
+Grandma proud of him (what happened to Aunt
+Lucy?). Another distraction is the fact that the
+choices of mood and action are correlated so closely
+together that one cannot really act differently than
+he is feeling. Because of this, the menus might as
+well have been combined in order to speed up play.
+The job application program lacks correlation
+with the character's past accomplishments, as well.
+On one occasion, my character had spent several
+years as a Law Assistant and applied for the
+position of attorney. He was told that he had all of
+the qualifications and to try again, later, since the
+position was filled. When he came back, he was
+told that he didn't have the qualifications necessary
+for the job.
+AE is a delightful, humorous and thought-provoking exercise in decision-making, value exploration and evaluation, and vicarious wish-fulfillment. Uncle Sigmund would be proud of Dr.
+Favaro for bringing developmental theory and psychological insight to the mass market (at least
+among computer owners). Who knows, AE might
+even be a useful opening gambit for a counselor to
+get acquainted with his client. It may be unscientific and lack clinical certainty, but it's sure a heck
+of a lot more fun than inkblots.
+Johnny Wilson
+
+NAM
+Name:
+NAM
+Type:
+Wargame
+System:
+Atari, C-64, Apple
+#Players:
+1
+Price:
+$39.95
+Designer: Roger Damon
+Publisher: Strategic Simulations
+
+Once upon a time, in a country far, far away, a handful of
+American advisors tried to teach
+a people how to stay free. As the
+years passed the handful became
+a support force and the support
+force became an army. Eventually the army was no more but it
+left behind a legacy of individual
+heroism unequal in any previous
+war. Nam, the new wargame
+from SSI, attempts to recreate
+the unit to unit warfare experienced every day by American
+soldiers in South Vietnam.
+Nam is a one player game.
+Let's face it, only the computer
+is fit to perform such an odious
+task as commanding the NVA
+and VC. Nam plays like your
+standard war game with each
+turn divided into phases for fire,
+movement, air strikes, digging
+in, saving the game, and
+determining victory status. Each
+of the six built-in scenarios
+recreate typical actions often
+fought in the cities and jungles
+of Vietnam. The scenarios are
+pre-set with the type and
+number of turns. You can not
+change scenario terrain, weapons,
+or number of forces. Each scenario also has a historical initial
+unit placement or you can option
+for a non-historical placement
+which allows the computer to
+randomly select one of two alternate initial positions. This means
+that you may have one of three
+possible set-ups for each of the
+six scenarios. A Kampfgruppe it
+is not.
+Units are all of squad or battery size and may be infantry,
+APC, tank, mortar, helicopter,
+artillery, machine gun, and recoilless rifle. Each unit is rated
+for firepower, range, assault capability, movement, and strength.
+This is a fair representation of
+the American and allied units
+but no mention is made of the
+type and strength of the computer forces. In the scenarios you
+often see the infantry, mortar
+and recoilless rifle symbols but
+you have no idea if the infantry
+is NVA or VC or what the
+weapons are. There is also no
+
+unit for aircraft, except helicopters, and heavy artillery or
+air strike is represented only in
+abstract fashion during the artillery plot phase of the turn. I
+feel SSI should have at least allowed a "Puff the Magic Dragon"
+aircraft as this weapon was instrumental in turning back the
+enemy at ambushes or firebase
+overruns.
+
+around, thus reducing the detrimental effects of general return
+fire. A rather one-sided combat
+also occurs during the artillery
+fall phase. It is during this phase
+that six squares will be hit with
+artillery or air strikes that were
+plotted in an earlier phase. Enemy units will often disappear
+quickly when hit with artillery
+fall and a little ground fire.
+
+Movement in Nam is done
+with the joystick and follows the
+basic pattern of expending
+movement points for the various
+types of terrain crossed. The infantry and infantry support
+weapons have limited movement
+while the helicopters have the
+greatest movement. Fortunately,
+helicopters, trucks, and APC
+units may be loaded with infantry and carried to their destination. Both you and the computer are allowed to move once
+during each turn. You may not
+move over a friendly unit and if
+you move into a square occupied
+by an enemy unit you have initiated an assault. The cursor will
+turn red when you no longer
+have enough movement points to
+conduct an assault. Once you
+have moved a unit there is no
+way to take it back or change it
+in any way. After playing
+Chickamauga I really miss the
+ability to change my mind.
+
+The scenarios in Nam are
+fairly representative of the types
+of actions encountered in Vietnam and are supposed to be historically accurate. The scenarios
+recreate an ambush, a firebase
+overrun, a jungle clearing to establish a fire base, clearing the
+enemy from a group of caves, a
+tank battle (March 1969), and
+the battle for the city of Hue
+during the Tet Offensive of
+February 1968. This writer's favorite scenario is the City of
+Hue because it offers many tactical decisions and enhances
+combat fire selection. Your
+forces start somewhat spread out.
+But the same is true for the
+enemy.
+
+Combat in Nam occurs in
+several game phases. During the
+movement phase, a moving unit
+may be fired on by a hidden
+enemy unit which will result in
+that unit being hit, missed, or
+pinned down. Normally combat
+occurs during the two fire phases
+of each turn. The first fire phase
+occurs before movement and the
+second occurs after movement.
+To have combat you simply use
+the joystick to direct a unit to
+fire on some enemy unit which
+is in range and in line of sight.
+The computer tells you immediately if the fire "hit" or "missed".
+Since you do not know the
+strength of enemy units, even
+when they are in clear terrain
+and only 50 meters away, you
+have no priority to target assignment and usually end up
+firing at the units closest to you.
+I haven't decided yet whether it
+is better to concentrate all fire
+on one or two units until they
+are eliminated or spread the fire
+
+The ambush and firebase scenarios seem to deteriorate rather
+rapidly into a boring series of
+movement and fire rounds. The
+jungle clearing scenario is little
+more than loading the helicopters
+and flying around until you spot
+the enemy. You then attack them
+until they are gone. The cave
+clearing scenario doesn't offer
+much until you actually get to
+the caves and then a firefight
+results.
+The tactics of Vietnam were
+unlike any previously experienced. Roger Damon did an excellent job of portraying squad
+level tactics in Field of Fire but
+that game system (which Nam is
+an outgrowth of) just does not
+seem to work in the context of
+Vietnam. Nam does not realistically portray combined arms tactics (especially indirect fire and
+air mobility) as they existed in
+Vietnam. Basically, Nam is a
+WWII game system which has
+been imposed upon the Vietnam
+War. As a simulation of the tactics of the Vietnam war it is too
+generic. But, as an introductory
+wargame Nam has value as it is
+highly playable.
+Mark Bausman
+
+Continued from pg. 4
+battles represented. The preliminary description is a
+cross between Carrier Force and Guadalcanal
+Campaign. SSI is working on a new fantasy game
+for release this summer, no title yet. The bad news
+is that SSI is faced with the same market forces
+described above. They report a basically flat game
+market and difficulty in reaching the mass market
+retail channels. This will lead to a reduction in
+overall new titles, six to seven is about all we can
+hope for in the next twelve months.
+One game company has so far managed to avoid
+the general doom and gloom in the industry - MicroProse. They have had two monster hits; F-15
+Strike Eagle and Silent Service. A "hit" is a title
+that can sell in the 100,000 plus unit category. By
+comparison, a very successful SSI game may sell in
+the 20-30 thousand range. MicroProse has managed
+to gain access to the mass market outlets and can go
+for the "home run" shots.
+MicroProse has some interesting plans for their
+newest entry, Conflict In Viet Nam (CIVN). It has
+finally been released, with an introductory game
+added to aid novices. MicroProse would like CIVN
+to encourage political dialog on the military lessons
+of Viet Nam. They are in the midst of a publicity
+blitz, covering over 1,000 media outlets, in an
+effort to generate discussion on guerrilla warfare.
+Their timing is pretty good on this one as the US
+reportedly will be sending Green Berets to
+Honduras to train the contras. To anyone over 35
+this has an ominously familiar ring. Our feeling is
+that the subject matter will make a hit difficult,
+but we wouldn't bet against MicroProse pulling it
+off.
+MicroProse's planned games will focus more on
+contemporary scenarios, similar to SSI's "When Superpowers Collide" series. They feel these titles will
+appeal more to the current generation of garners.
+Also, reflecting the relative strength of IBM sales,
+by the end of May all of the Command Series will
+be translated to the IBM.
+Next month's column will focus more on specific
+games to be released. However, we felt it was important to give our readers a feel for where the
+game market is today and how its health (or illness)
+affects us. The bottom line is that we will probably
+see fewer titles from fewer companies. Companies
+with strong connections to mass market outlets,
+such as Electronic Arts, will tend to look more like
+distributors than original producers. Don't be surprised to see titles from fairly strong companies,
+such as SSI, being distributed by companies like
+Electronic Arts or Activision. The typical game
+buyer will probably have to search a bit harder to
+find games. Mail order will be crucial for smaller
+game manufacturers but can never generate the
+sales to make a "hit" item, as compared to the clout
+of a retailer like Toys-R-Us. If the Amiga or ST
+fails then look for even more retrenchment in the
+game industry. As Charles Dickens would have
+said; It was the best of times (for quality), it was
+the worst of times (for sales).
+
+AMIGA (Con.)
+lated, no?
+> Yes
+Fantastic! Concerning that issue: Nietzsche said
+that hysteria has turned beasts into men. Perhaps, then, hysteria will turn computers into
+men? Ah yes. This'll break you up! This intellectual awareness of feeling can be saw (sic) in
+the reflector of you heart, Amiga, as an image
+of an ambiguity. Nevertheless clear cosmologists will realize that feeling is appallingly appalling. I think that your intellectual and feeling world-view will deepen about feeling, anyhow mine will in consequence of the fact
+dainty and clever passions are fascinatingly
+important. It's about time for a story, isn't it?
+And this is how the "game" continues for as long
+as one stays with it. Since the game writes key
+references to disk, the next time you "play" it again
+Racier (I couldn't resist), he carries on and on from
+where he/you left off. This a game is diversion into
+another dimension that might be best seen before
+paying the price of a ticket. (Try before you buy!)
+The First New Game For the Amiga
+
+Arcticfox by Dynamix is the first original new
+game from Electronic Arts (EA) that uses the distinct features of the Amiga (digitized stereo sound
+and fast graphics). In the game, you control a single
+new supertank, the Arcticfox, against an alien task
+force in an 18000 square mile area of the Arctic.
+Your tank is specially designed for polar combat
+and comes equipped with a 150 mm cannon, missile-launcher, and mine-dispenser. It has radar and
+a turbine engine that provides a top speed of 100
+kilometers per hour. Your task is to destroy the
+enemy's Main Fort which requires two direct missile hits or ten direct hits with cannon shells. Quite
+a task, since you are provided with a limited number of these items.
+Not only that, but you must also contend with a
+very strong and defensive alien force. This force is
+composed of heavy and light tanks, recon
+(reconnaissance) sleds and flyers, fighter aircraft,
+rocket launchers, radar stations, and floating mines
+that home in on you. Not so easy! In addition, it
+helps to wipe out enemy air convertors and the
+communication fort. A game preview option gives
+you a chance to view all enemy resources as they
+will appear during the game play. They very nicely
+parade before you as you look out from your cockpit and a description of each is provided that complements the description in the manual.
+Game play is controlled using a mouse or joystick and the keyboard. The mouse option did not
+work very well on my version and use of a joystick
+is much more logical as it is used to control movement and cannon fire. This is another EA game
+that requires you to use the mouse port for your
+joystick, rather than using the available other joystick port! Six options are controlled using the keyboard: guided missile firing, mine release, aft view,
+cannon inclination, relative reverse, and a snow dig
+in function. The keys used directly match the positions of their respective icons as displayed on the
+
+cockpit screen. Other keys are used for special user
+options.
+There are three game play options that give you
+the full range of play from training to tournament
+level. The training level is very well structured.
+You are able to cover all of the varied terrain and
+shoot at the enemy with a large supply of shells,
+missiles and mines. Your armor is tougher than the
+enemy's. He also is less intelligent. You start at a
+different location from other levels and will not be
+given the opportunity of attacking the Main Fort.
+In addition, the training level provides several
+selectable features that lets you easily modify your
+game environment to more easily practice what you
+must be able to handle in actual combat. These include: a turbo speed of 400 kph, invisibility and
+indestructibility, a toggle for blizzard and/or storm
+conditions (which you will have under tournament
+level), a large radar map display that shows eight
+sectors rather than just a single one, a smart bomb
+that destroys all aliens in the current sector, and a
+view from the missile when it is fired. The last option is also available in the other levels.
+Use of these training options should provide you
+with good experience and familiarity with the Arcticfox controls for actual combat. At the beginning
+level you have a good supply of mines, missiles,
+your armor is tough, and there are fewer and
+weaker enemy resources. No special options here,
+but a chance for real combat conditions against an
+enemy that you should soon be able to beat. At that
+time, you are ready for serious game play.
+At tournament level you get a random scenario
+or select enemy configuration and starting location.
+This latter selection option is very unclear and
+poorly documented. Select an option and note the
+resultant condition. Then write down your observation in the manual. A tournament level enemy is
+very intelligent and tracks your location constantly
+(until you are able to wipe out the communication
+channels). Your tank is more difficult to handle
+because slide, friction and acceleration physics are
+now fully affecting your actions. This level is definitely for the serious player.
+The game's sound and display are what the
+Amiga is about as a game machine. Sensational! The
+sounds are the muffled clanking and clattering of
+tank treads and drone of turbine engines. If you
+proceed over the shattered remains of an enemy
+you hear the crunching compression of it's metallic
+pieces. The sounds of weapon fire are equally impressive. The full color three dimensional action
+display is outstanding. Enemy resources and terrain
+are shown as dynamic 3D solids. It is all very similar to what I have seen from SubLogic's Flight
+Simulator and Jet programs for the Amiga (not yet
+released).
+The game feels slow, but I think this is due to
+it's realism more than due to processing overload. It
+is more of a tank simulation requiring strategic
+movement than a shoot-em-up arcade game. The
+three game levels are well suited to all levels of
+player. Going up against enemy aircraft is very
+tough. Being the first original game for the Amiga,
+with all prior releases from any game producer being a conversion, this is just the beginning of the
+kind of outstanding game software that we can expect for the Amiga.
+
+View
+
+Continued from pg. 20
+
+play the odds. Say you're ahead by a few runs after
+about five innings, and it's time to pull your
+starter. If your sub has a PC of 8 or 9 (the best two
+ratings), you're in great shape. With the Babe coming up at least twice more in the game, you have a
+65% to 72% chance that the result will be read off
+the pitcher's card.
+But do you have a relief that good? If he has a
+PC of 7, the chance falls to 58%; with a 6 (where
+most pitchers are rated), it falls to 43%. That's
+trouble, and you'll have to consider walking the
+Babe whenever he comes to bat.
+It is at a point like this where the past reaches
+out and grabs the present. If you built your team
+with great sluggers and fielders, but neglected your
+pitching staff, you end up with high-scoring games
+that falls apart in the late innings. Neglect team
+balance, and you find yourself scrambling to protect a one-run lead with not much help.
+There are other factors to consider from looking
+at the Statis-Pro statistics. The player's ability to
+run is divided into on-base running (OBR) and
+stolen base ratings. The former is vital because the
+game can let a lead runner stretch one base into
+two. Consider this situation: Steve Garvey of '81
+Los Angeles is on first (OBR of B: second best).
+The next batter lines a shot to Willie Mays in right
+(Arm of 6: the best) in right, and Steve heads for
+second. Should he go to third? Selecting the Option
+plays tells him the percentage chance of making it.
+In this case (64%), Steve is better off staying on
+second.
+Let's say that you're in charge of a newlyminted team. The players are all established veterans, but few have ever been on the same team.
+How good are they? To find out, take them on the
+exhibition circuit and play a number of three-game
+series against the other teams. It's a lot less work
+than playing the boardgame by yourself. Be honest
+when playing the other side, but use this opportunity to try different starting rotations and fielding
+positions for different players. Experiment with
+using one lineup against right-handers, another
+against lefties. After 30 games, enough statistics
+will come in to give you a good idea of what to
+expect when the season starts.
+Visualize how you want each game to go. You
+know what types of decisions you'll have to make,
+so it's best to anticipate in advance how you'll meet
+them. Are you going to take chances with squeeze
+
+bunts, stolen bases and stretching a singles into
+doubles? Checking out the running ability of each
+player in advance will save you the trouble of a
+hasty decision on the field.
+When do you pull a pitcher? In Statis-Pro, each
+pitcher has a stamina rating which goes down during the game. The lower the stamina, the greater
+the chance that a base hit will occur, but the actual
+percentage chance is not revealed to the players.
+Say you're ahead by one run late in the game. Your
+starter has a stamina of four, and with one out gave
+up a hit and a walk. Is it time to call in the sub?
+The answer depends upon your confidence in your
+team's hitting ability. With Ruth and Gehrig in
+your line-up, you may keep the starter in and hope
+that he can recover.
+For example, this curious fact appeared while
+playing the '85 Orioles in my local league: while
+Baltimore was 8th out of 14th in batting average
+and pitcher ERA, it was first in slugging percentage. Once a man got on base, he stood a good
+chance of scoring, but getting there was a major
+obstacle. My conclusion was to shoot for a lowscoring game--that required keeping good arms in
+the outfield to hold the runners down--and to pull
+a pitcher at the earliest signs of trouble. I rarely
+ordered a steal, but if the lead runner had a 75%
+chance or greater to take an extra base, he went for
+it.
+
+So if the pitcher with the stamina of three was
+playing for my Baltimore team, I would have pulled
+him for the stopper. It's too early in the league to
+tell if this strategy is working, but the O's are in
+first place after 35 games and doing just fine.
+The advent of personal computers has done
+much to revitalize statistical baseball games. A
+number of boardgame companies have introduced
+computerized versions of their games that combine
+the ability to crunch numbers and store data with
+the ability to play the game. We've come a long
+way from the days of Abner Doubleday, but it can
+be said with confidence that the best is yet to come
+for players of the National Pastime.
+
+William Peschel is Software Division Editor of
+the Avalon Hill Game Company.
+
+On this page a number of games are listed for
+evaluation. When evaluating a game consider such
+things as PRESENTATION (graphics, sound,
+packaging, documentation); GAME DESIGN
+(design, playability, interesting?); LIFE (does the
+game wear well?).
+For each game you rate, place a 1 (terrible)
+through 9 (outstanding) next to the appropriate
+number. Leave blank any game which you have not
+played enough to have formed an opinion.
+
+Commodore Key (Con.)
+Leaving the room, you enter the Hundred Acre
+Wood. You are required to find and return ten
+items. You may only carry one item at a time and
+may exchange for another item that you might
+find. If you don't know who might own the item,
+you can visit Owl for advice (clues). All movement
+and conversation is done by selecting from the options provided on the screen using the spacebar.
+Some options are dangerous, but if selected are
+followed with a response saying that that would not
+be a very good idea. Thus the player is safe to try
+all options without game ending results. At various
+times (randomly), a blustery wind will come up and
+scatter the remaining items or Tigger will bounce in
+and relocate your location in the Wood. These add
+some challenge, but can be frustrating to very
+young players. Once all the items have been returned to their owners, a celebration party is held
+for all. A great way to end a fun, but educational,
+game. The graphics are outstanding and game play
+is well suited for the intended player's age. The
+concepts of using a map, simple reading skills, and
+the trying of options are taught in an enjoyable
+game.
+
+provide you with clues to determine documentation
+contains the facts to match with your clues to set
+your destination. Mapping skills should be used to
+assist your search because no map is provided and
+exploring each planet/moon can get rather confusing.
+Throughout the game, you must solve various
+simple, problem situations to reach your goal. Most
+require you to use something that you are carrying
+(or should be). All of your actions are easily controlled from the keyboard. Available words to use
+are selected from those displayed on the screen.
+This game requires use of verb-noun pairs, such as
+`take rock', 'open door', etc. The use of objects,
+solving of puzzles, and two word action sentences,
+and compass direction movements provide an excellent introduction to the fine art of adventure
+gaming.
+The graphics are again excellent and displayed
+reasonably quick. The game will take several hours
+to complete, but progress can be saved to a separate
+save game disk. Several concepts pertaining to the
+planets, actual mapping and the other adventure
+gaming concepts, including problem solving, make
+this an excellent learning experience.
+
+Conclusion
+Mickey and Pluto
+The third game is Mickey's Space Adventure.
+This game is a bigger step to text-graphic adventuring It is well suited for those is years and older.
+A spaceship has landed near Mickey's house. A
+precious memory crystal has been stolen, broken
+and pieces left on various planets and moons.
+Mickey (you) must find the all the pieces. You
+must also take any items you find that might help
+you get the pieces. The spaceship's computer will
+
+Letters (Con.)
+game's design aspect and have
+called their US office and gotten
+nowhere. Could you please help?
+Jeff Bradford
+Bowling Green, KY
+
+Ed.: Thank you for your
+comment on our Strategically
+Speaking column. Frankly we
+would publish more SS tips if we
+received more. We encourage all
+our readers to send in their
+strategy game playing tips to
+CGW, Strategically Speaking,
+P.O. Box 4566, Anaheim, CA
+92803. Although Strategically
+Speaking is not in this issue, it
+will appear in the June-July issue (#29).
+We discussed with Strategic
+Studies Group the possibility of
+publishing Carriers At War scenarios. Unfortunately, the scenario design feature is so detailed that the space required to
+publish a scenario would be pro-
+
+Overall, these three games are outstanding
+learning tools in the guise of a computer games.
+The documentation with each game is very thorough; including a note to parents, an introductory
+story, the object of game, how to play, notes to
+help play, additional non-game activities, and even
+a glossary of terms used in the game. The games
+are equally well suited for home or school use. If
+the kids are having fun and enjoying these games,
+what they learn won't hurt them. These games are
+also available for other computers.
+
+hibitive. You can find such scenarios, however, in SSG's new
+publication, Run5. Single issues
+are $4 each; four issue subscriptions are $15. Contact SSG at
+1747 Orleans Ct. Walnut Creek,
+CA 94598 (415)932-3019.
+How about more interviews
+with those that design our games
+and simulations, i.e. when using
+Limited Intelligence, what effect
+are they trying to achieve? With
+newer computers having more
+memory, speed, graphics and
+sound capabilities, what direction
+will fantasy/wargames take? I
+can't wait for the new generation
+of wargames!
+Dave Alger
+Wyoming, MI
+I've been playing popular
+wargames for 24 of my 37 years
+and I've never been quite as impressed with any game as I have
+been with Kampfgruppe. It's
+
+certainly the most advanced tactical simulation I've ever seen.
+Greg McCarty
+Oakdale, MN
+I would wish that some games
+would be created about purely
+obscure types of battles (i.e. the
+Ironclad battles of the American
+Civil War or maybe Alexander's
+campaigns).
+George Herget
+Ridgewood, NY
+
+Ed.: We commiserate with you
+concerning the lack of titles from
+early periods. However, there is a
+compelling reason that the companies do not publish much from
+pre-20th and especially pre-19th
+century: lack of mass market appeal.
+
+There are a couple of oddities in the game ratings this time.
+The top two games on the Adventure/Action side have not been
+updated with the data from RID #26. Unfortunately both games
+were erroneously assigned the same number in RID #26 thus their
+ratings in RID #26 have been comingled and are meaningless.
+Therefore both games are still listed with their first time ratings.
+Please be sure to rate them this time around (if you have played
+them).
+Nam (number 4 on strategy side) from SSI has been included
+in the ratings list even though the number of responses was below
+our traditional minimum of 20. We thought that it was interesting
+
+enough to show the rating in light of a less than glowing review of
+Nam in this issue. It will be interesting to see how the game
+performs in future RIDs.
+Kampfgruppe continues to lead the strategy games. Silent
+Service is still second but has slipped from last issue's 7.90 rating.
+As already mentioned, Ultima IV and Bard's Tale are still sporting
+their original ratings which are good enough to maintain them in
+the numbers one and two positions on the adventure/action game
+side. Hardball has exploded into the top 10 with a 7.86 initial
+rating.
+
+

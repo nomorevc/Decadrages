@@ -1,0 +1,3702 @@
+VOL. 2 NO. 1
+
+JAN. - FEB., 1982
+
+Features
+4
+
+REWRITING HISTORY ON THE COMPUTER:
+
+By Robert Billings
+
+Napoleon at the Battle of Leipzig
+
+10
+
+NAPOLEON'S CAMPAIGNS 1813 & 1815:
+
+By Daniel Weitz
+
+A Review of SSI's New Game
+
+12
+
+THE SWORDTHRUST SERIES:
+
+By Deirdre L. Maloy
+
+A Survey
+
+GALAXY: DESIGNER'S NOTES
+
+13
+
+The Designer Talks About His Game
+
+By Tom Cleaver
+
+16
+
+CASTLE WOLFENSTEIN:
+The Way Out! — Maybe!
+
+By Graham Masters Jr. & Bob Boyd
+
+17
+
+TANKTICS:
+
+By Bob Proctor
+
+Review and Analysis
+
+22
+
+ATARI ARCADE
+Three Games for the Atari Personal Computer
+
+By John Anderson
+
+THE GREATEST BASEBALL TEAM OF ALL TIME:
+
+23
+
+Part Two of the GBTOAT Tournament
+
+A COMPUTERIZED CROSSWORD PUZZLE
+OPERATION APOCALYPSE:
+A Review and Campaign Scenario
+
+24
+25
+
+By Paul Todd & Russell Sipe
+
+Departments
+From the Editor
+Hobby and Industry News
+Initial Comments
+Micro-Reviews (Thirteen Reviews)
+
+2
+2
+3
+26
+
+1
+
+From the Editor...
+The response to our first issue coupled with
+discussions I have had with many of you convince
+me beyond a doubt that the computer gaming
+hobby is a sleeping giant. The social and economic
+fabric of the baby boom generation, is such that
+computer gaming cannot fail to be a tremendously
+growing entity in the 1980 's.
+
+the computer gaming industry. Let us know what
+you think.
+
+CORRECTIONS
+The following corrections relate to Vol. 1 No. 1 of
+CGW.
+
+As the growth continues some recurring subjects
+seem to interest our readers and industry representatives. These subjects include (among others):
+
+Chris Crawford, author of "The Future of
+Computer Wargaming" is an employee of Atari.
+The disclaimer as to Mr. Crawford's employer was
+to have preceded the article but was mysteriously
+misplaced.
+
+Tele-Communication Gaming
+The Coin-Operated Arcade Phenomenon
+The History of Computer Gaming
+The Copyright Laws and Computer Games
+Home Video Games
+Computer Game Tournaments
+
+The article entitled "Political Apple" may have
+caused some of our readers to wonder if CGW
+acknowledges the existence of the Democratic
+party. The Republican candidates in the game
+were duly listed as well as the third party
+candidates; but the Democrats were left out. Sorry
+about that. The Democratic candidates in PRESIDENT ELECT are: Bill Bradley, Jerry Brown,
+John Y. Brown, Robert Byrd, Jimmy Carter,
+Shirley Chisholm, Hubert Humphrey, Henry
+Jackson, Lyndon Johnson, John Kennedy, Robert
+Kennedy, Ted Kennedy, Eugene McCarthy, George
+McGovern, Walter Mondale, Patrick D. Moynihan,
+Ed Muskie, Jay Rockefeller, Mo Udall, George
+Wallace, and Andrew Young.
+
+CGW would be interested in reporting news and
+publishing articles in these fields. If you would
+like to write in any of these areas, please give us a
+call or drop us a line. COMPUTER GAMING
+WORLD, 1919 E. Sycamore #203, Anaheim, Ca.,
+92805. Our phone number is (714) 776-4979.
+Future plans for COMPUTER GAMING
+WORLD include a column on coin-operated
+arcades and a column on programming and game
+design. We exist as a forum for our readers and for
+
+HOBBY AND
+INDUSTRY NEWS
+According to John Williams of
+On-Line Systems, Atari has lost a
+preliminary injunction against the
+distribution of JAWBREAKER.
+JAWBREAKER is still being shipped says Williams.
+On-Line Systems has released
+MOUSKATTACK for the Atari
+400/800 computer. You play a
+plumber trying to fix the plumbing
+as well as trap giant rats which
+chase you. The Apple version, by
+Ken Williams, should be out in the
+second week of January. The Atari
+version is by John Harris.
+The long awaited TIME ZONE
+by On-Line is scheduled for a
+January 5th release. The multi-disked game will sell for $99.95.
+Tom Hirschfeld (see the review of
+his book HOW TO MASTER THE
+VIDEO GAMES) is working on two
+sequels to HTMTVG. The tentative
+titles are HOW TO MASTER THE
+VIDEO GAMES VOL. 2 and HOW
+TO MASTER THE HOME VIDEO
+GAMES.
+
+Avalon Hill will be releasing at
+least five games at this year's
+Hobby Industry of America show
+(March): COMPUTER STOCKS
+AND BONDS, CONTROLLER,
+COMPUTER FOREIGN EXCHANGE, GUNS OF FORT
+DEFIANCE, and DNIEPER
+RIVER LINE. Long range plans
+include SHOOTOUT AT THE OK
+GALAXY and CLOSE ASSAULT
+(similar to AH's board game, Squad
+Leader).
+Broderbund's newest release is
+DAVID'S MIDNIGHT MAGIC.
+DMD is a hi-res pinball action game.
+It runs on the Apple II (48K) and
+sells for $34.95.
+Sirius Software has three games
+slated for early January release:
+TWERPS (a space rescue mission
+game), BORG (maze game), SNAKE
+BYTE (you're the snake). All three
+will run on the Apple II computer
+(48K and disk) and sell for $29.95. In
+February Sirius plans to release a
+semi-real action game tentatively
+entitled BROADSIDE (fighting
+sail).
+SIRIUS SOFTWARE has a new
+address: 10364 Rockingham Dr.,
+Sacramento, Ca., 95827.
+
+2
+
+SSI's Paul Murray (WARP FACTOR) is working on two new space
+combat games. The first is a tactical
+game similar to WARP FACTOR;
+the second is a strategic space
+game that can be played with
+the tactical game.
+SSI is planning to release
+ROAD TO GETTYSBURG in late
+February. RTG will cover the Gettysburg campaign using the NAPOLEON'S CAMPAIGNS 1813,
+1815 game system. In March SSI
+plans to release GRAF SPEE (using
+the COMPUTER BISMARCK
+system but with a better tactical
+combat resolution phase). Look for a
+BATTLE OF BRITAIN game this
+summer.
+SSI's delayed second edition of
+COMPUTER AMBUSH is tentatively set for a late February release.
+This one will be infinitely faster
+than the old version.
+Atari user's will be able to purchase an Atari version of SSI's
+SHATTERED ALLIANCE in late
+January.
+
+INITIAL
+COMMENTS
+In addition to games mentioned
+elsewhere in this issue the following
+games have been received by CGW.
+Most but not all of these will receive
+more detailed attention in future
+issues.
+
+Adventures International
+Box 3435 Longwood, FL 32750
+STAR FIGHTER: Space combat
+game in which player controls a
+SC-78503 Star Fighter assigned
+to rid the galaxy of the dreaded
+Petro Resource Conglomerate
+spacecraft. A 32-page attractive
+rule book guides you through this
+challenging game. This game is
+more detailed than the average
+space combat game. The program
+runs on the TRS-80 models 1 or
+3 computer.
+Horizon Simulations
+107 E. Main #2
+Medford, OR 97501
+SHADOW HAWK ONE: A two
+mode space combat game. In the
+combat mode you fight against
+3-D hi-resolution space ships
+(similar to Bill Budge spaceships). In the Solarmap mode you
+seek out the enemy in the galaxy.
+Capturing enemy ships gives you
+raw materials which can be used
+to upgrade your ship. The program
+available for the Apple and Atari
+personal computers.
+Softape
+10432 Burbank Blvd.
+North Hollywood, CA 91601
+DRAW POKER: A well done hiresolution Poker game for the
+Apple II personal computer. You
+play against a computerized
+opponent. Computer play can be
+set for "consistent and deliberate"
+or "a bit more capricious " .
+Strategic Simulations, Inc.
+465 Fairchild Dr.
+Mountain View, CA 94043
+COMPUTER BASEBALL 1980
+TEAM DISK: Contains all 26
+major league rosters for the 1980
+baseball season.
+COMPUTER QUARTERBACK
+1980 TEAM DISK: Contains
+all 28 NFL teams for the 1980
+season as well as some of the
+great teams of the past 20 years
+(e.g. 1968 Jets, 1975 Steelers, etc.)
+
+SOUTHERN COMMAND: Strategy
+game of the Israeli Counterattack
+Across the Suez Canal during the
+October War of 1973. A scrolling
+screen allows the players to view
+a map that is nine screens large.
+Look for a feature article on
+SOUTHERN COMMAND in our
+next issue.
+TIGERS IN THE SNOW: A
+historical wargame for the Apple
+II computer based on the Battle of
+the Bulge.
+
+3
+
+Synergistic Software
+5221 120th Ave. S.E.
+Bellevue, Washington 98006
+THE LINGUIST: A general
+purpose language translation and
+tutorial program for the Apple II
+computer. THE LINGUIST has
+proved to be a popular program in
+educational programs across the
+country. The languages covered
+are Hebrew, Russian, Greek,
+Japanese, Phonetic, English,
+French, German, Spanish, Portuguese, Italian, Danish, Icelandic, Swedish, Norwegian, Latin,
+Esperanto, Dutch, Polish,
+Czechoslovakian.
+
+,_
+REWRITING HISTORY ON THE COMPUTER
+__ __
+
+__
+
+NAPOLEON AT THE BATTLE OF LEIPZIG
+
+Note: In the late summer of 1813,
+Napoleon was south of Berlin with a
+new army (replacing the one lost the
+previous year in the long winter
+retreat from Russia). Although long
+accustomed to being outnumbered,
+he seemed now in a desperate
+situation. He was surrounded by a
+vast array of armies from all the
+nations of central Europe--determined to crush him once and for all.
+Bothered by health problems and no
+longer possessing his former limitless energy, Napoleon was no longer
+the Napoleon of Austerlitz and
+Borodino. What would the Battle of
+Leipzig have been like if fought by a
+"different" Napoleon? Two computer
+game players recently tried to find
+out using SSI's Napoleon's Campaigns
+1813 and 1815. What follows is a
+recreation of that battle as it was
+fought out on a computer nearly two
+centuries after it had taken place in
+history.
+It was late afternoon on October
+14, 1813--a beautiful fall day with
+the air crisp and fresh--when
+Napoleon rode south toward Leipzig.
+He knew his enemies would be feeling
+they once again had him in a bottle
+waiting to be capped. Would they
+never learn? He'd only been teaching
+them now for nearly twenty years
+that the old way of fighting battles
+had gone with their pre-Revolution
+aristocratic delusions.
+He knew they would be thinking
+they had him surrounded and heavily
+out-numbered. Trapped, they would
+be thinking--with almost every
+reigning monarch of Europe, each
+with his own army, out there ready
+to pounce. Well, he wasn't as young,
+as full of energy as he once had been.
+A sharp, familiar pain in his abdomen
+gave sudden credence to the thought.
+Then in a moment it was over, and
+his mind was back to his immediate
+problem.
+His troops were scattered from
+Leipzig north to Dessau. Four corps
+
+(Victor, Augereau, Lauriston, and
+Poniatowski) plus Murat with two
+cavalry corps were just south of
+Leipzig--over 50,000 men). Many
+miles north, near Dessau, were the
+corps of Bertrand, Macdonald,
+Souham, and Reynier, plus the two
+cavalry corps of Latour-Maubourg
+and Sebastiani (approximately 74,000
+men). And in between, but closer to
+Leipzig, was Marmont 's reinforced
+corps and the crux of his power, the
+Young and Old Guard--altogether
+about 66,000 men. So although he
+had no more than 75,000 near any
+one point on the map, he had 190,000
+men and 680 guns in the general
+area, ready for a quick concentration.
+He knew he was heavily outnumbered. First, some distance to the
+north and west of Halle was the
+Army of the North under Bernadotte,
+with close to 50,000 men. Blucher,
+the doughty old Prussian, had
+another force, the Army of Silesia,
+with 55,000 men in Halle itself.
+Together they equalled more than
+half Napoleon's entire army. Yet
+they were only the northern splinter
+of the force he was opposing. Most of
+the Allied forces were south of
+Leipzig, scattered over a large area
+but containing so many corps from
+so many countries (many of them
+with their kings and czars present)
+that, though it was under the control
+of Schwarzenberg, it was referred to
+as the "Army of the Monarchs. "
+Directly south of Napoleon's men at
+Leipzig were two Russian corps, a
+Prussian corps, an Austrian corps,
+and a cavalry corps totaling more
+than 43,000 men. Perhaps not an
+impressive number against his own
+50,000 just north of them. But this
+was really only the advance guard
+of Schwarzenberg's force. To the
+west were the Cossacks under Platow
+(8000); to their southeast were two
+corps of Austrians (27,000); and near
+Altenberg were Schwarzenberg's
+main reserve, the Austrian Reserve
+Corps under Hesse-Homburg and
+the Russian-Prussian Reserve Corps
+under Konstantin (altogether about
+43,000).
+And there were more. Further to
+the east but available as additional
+reinforcements were two other
+groups, Colloredo's Austrian I Corps
+(nearly 20,000) and the Army of
+Poland under Benningsen (close to
+35,000). Taken all together, his
+enemies could bring about 280,000
+men and 1,300 guns against him. He
+was indeed, in their minds, surrounded and out-numbered--cut adrift
+in a sea of powerful armies, foreign
+princes and alien people.
+
+5
+
+Or so it must seem to them, the
+Emperor thought, smiling grimly.
+Well, they should have learned by
+now he had changed all the rules
+they had been playing by. His
+desperate condition (in their eyes)
+was, seen from his own, a great
+opportunity.
+The plan was simple. He would
+concentrate the bulk of his force at
+Leipzig and fight a major battle
+with Schwarzenberg 's Army of the
+Monarchs--before its separate
+pieces could all be assembled.
+Timing was the key point. Therefore
+Napoleon's orders to his subordinates had been explicit. All troops
+were to move immediately. Bertrand,
+Macdonald, Souham, and Reynier
+were to march southward to join the
+Leipzig forces for a quick assault on
+the 43,000-man advance force nearest
+the city before they could be reinforced by Schwarzenberg 's many
+powerful corps to the south. Marmont's corps, reinforced by Arrighi 's
+cavalry, would be placed to protect
+Leipzig from Blucher. Marmont 's
+22,000 would be able to block the
+tough old Prussian ' s 55,000--at
+least long enough for the major
+victory to be won south of Leipzig.
+Finally, two cavalry corps were given
+special duties. Latour-Maubourg
+was to hurry to Leipzig to protect the
+city itself from Cossack raiding
+parties while the battle was fought
+further south. And Sebastiani ' s II
+Cavalry Corps should circle away
+from the battle and toward the
+. northern armies ' supply lines-thus perhaps causing Bernadotte's
+50,000 (and even Blucher's 55,000-although this was far more doubtful)
+to scurry north to secure their supply
+lines.
+The main thrust, then, was against
+Schwarzenberg. Orders had been
+sent to Augereau to start his attack
+immediately with the forces already
+there. Now, late in the day, word had
+already come back that Augereau
+had done well, causing 7,000 casualties while losing only about 5,000.
+The full attack would have to await
+the arrival of Napoleon himself with
+the powerful Old and Young Guard,
+as well as Bertrand 's and Macdonald's
+33,000 from far to the north. It would
+be a footrace for the first twenty-four
+hours--but the Emperor estimated
+everything could be in place by
+afternoon of the next day, October
+15.
+To the south another leader of a
+grand army had been pouring over
+his maps, estimating distances and
+pondering odds. Schwarzenberg had
+decided to make a fight of it. By
+
+rushing his mass of reserves from
+Altenburg, he felt he could muster
+113,000 against Napoleon's probable
+115,000. But in addition Blucher,
+with 55,000 more, would be marching
+up from Napoleon's right rear. Bernadotte should also be coming down
+fast from the north. But the clinchers
+were the two forces far to his right.
+Colloredo's Austrians should be
+there the day after tomorrow, and
+Benningsen and the Army of Poland
+a day later. Yes, the odds were very
+good.... Even the Cossacks (who
+couldn't be depended on for too much
+in hard fighting) had been ordered
+to stage a raid into Leipzig. That
+ought to keep Napoleon a bit off
+balance.
+October 15
+The day dawned clear but soon
+clouds were gathering. Napoleon
+didn't want rain. Most of his troops
+were already on the field and he
+wanted an early attack. It was true
+his troops were tired--but then,
+the enemy's must be equally tired. If
+he was to win, Napoleon knew he
+had to strike quickly, before Schwarzenberg could gather all his farflung forces.
+Before nine o'clock the Emperor
+ordered the assault. He could see
+Schwarzenberg had brought up at
+least some of his reinforcements. He
+estimated his enemy would have
+immediately available about 88,000
+
+men and another 27,000 moving up.
+Schwarzenberg, however, would soon
+outnumber him in guns by two-to
+one. Still, it was close enough for the
+confident commander. But he decided
+to wait until Bertrand and Macdonald came up with their 33,000 before
+launching his all-out attack. Meanwhile, those on the field were sent
+into the attack.
+The Cossacks had threatened
+Leipzig, but Latour-Maubourg's I
+Cavalry Corps, riding through the
+night from the far north, had arrived
+right on schedule and fought them
+off. But to the northwest of Leipzig,
+there was that major threat of
+Blucher's army. Word had come that
+the aggressive Prussian was quickly
+preparing to assault Marmont's
+holding force.
+By the middle of the day the
+Emperor had evidence that he had
+won a major victory in the first big
+clash of major forces on the field
+south of Leipzig. For the loss of little
+more than 7,500 men, he had caused
+an estimated 15,000 loss to Schwarzenberg's force. Because of troops
+fatigued by the fierce fight after a
+night of marching, Napoleon decided
+not to press the attack further until
+the arrival of Bertrand and Macdonald.
+Schwarzenberg meanwhile, felt
+equally confident. His troops had
+arrived from Altenburg in time to
+hold off Napoleon's main assault--
+
+6
+
+though the battle had been costly.
+His troops had fought well so far,
+against that living legend of military
+genius, Napoleon himself. And he
+had a strong point in his favor in
+Blucher's force. However, he wondered where Bernadotte and the
+Army of the North were? Were they
+moving up as ordered?
+About the same time, Napoleon
+knew that he had trouble in the
+making. He had received word that
+Marmont was under hard attack by
+Blucher, had suffered heavy losses,
+and was close to breaking. The
+Emperor, ever the realist, decided to
+call off his afternoon attack even
+though Bertrand and Macdonald had
+arrived on schedule. The troops, he
+knew, would not be ready for such a
+major battle after their long march.
+But there was good news from
+Leipzig. The I Cavalry Corps had
+routed the Cossacks, destroying
+perhaps half their entire force. That
+would protect his rear from the
+closest threat. But the bigger one
+from Blucher loomed larger every
+minute. He sent orders to Marmont
+to make a planned withdrawal across
+the Elster River.
+The orders were given none too
+soon. Blucher struck again with a
+blow so heavy Marmont's forces were
+sent back demoralized. Yet the withdrawal plans had proceeded far
+enough to save the force from a rout.
+
+Despite some heavy losses they were
+able to retreat across the river.
+But now more perilous news arrived.
+The Emperor's most remote force,
+the two corps under Souham and
+Reynier, had been making good time
+southward. Napoleon had planned
+to use them as a block to stop Blucher
+from taking Leipzig. Yet a late report
+made clear this would be impossible.
+Those two corps were being held up
+by--of all generals--the slowmoving Bernadotte. Somehow he had
+got his Army of the North moving
+fast enough to intercept them before
+they could reach Leipzig. Well, in
+war there were no certainties.
+Napoleon would have to do what he
+liked least--draw two corps away
+from the main battle and send them
+to protect Leipzig from Blucher. He
+began to consider it possible that he
+would not be able to destroy Schwarzenberg's main force before the other
+Allied reinforcements arrived. If so,
+the Emperor would have to be sure
+of an open retreat route for his army
+to squeeze through. Considering his
+situation, hemmed in by superior
+forces on all sides, it would be threading his entire army through a
+narrow-eyed needle, with disaster
+hovering close on either side. By the
+end of October 15, Napoleon knew
+he was in for a genuine battle. No
+quick and easy victories now.
+October 16
+The next morning saw light rain
+falling over the whole battle area.
+
+Exhausted men struggling out of
+their brief, disturbed sleep prayed
+for the rain to continue. But all too
+soon it had stopped and preparations
+were going forward for the day's
+major battles.
+By five o'clock Schwarzenberg had
+been informed of Bernadotte's collision with the corps of Souham and
+Reynier north of Leipzig. Well, he
+thought, that will hold up some of
+Napoleon ' s reinforcements, even if
+it is doing the same to mine. The
+news from Blucher was good-Marmont routed. Yet Blucher's troops
+were dead tired from the constant
+marching and fighting. They had to
+be given some rest. Schwarzenberg
+prayed for the rain to continue-at least long enough to hold off
+Napoleon's main attack south of
+Leipzig until more Allied reinforcements had arrived.
+Some miles to the north, the
+Emperor juggled troops to meet the
+demands of the day. Souham and
+Reynier, it was clear, would not be
+able to block Blucher--held up as
+they were by Bernadotte. But Victor's
+and Augereau's corps, hastily withdrawn from the main battle against
+Schwarzenberg the previous night,
+had reached Leipzig. Now they
+should be able to move down the
+road to Halle and stop the victorious
+Blucher.
+By noon the rain had stopped and
+Napoleon sent in his main attack
+south of Leipzig. His Guard Corps
+
+7
+
+was in the lead. In a short while the
+entire area was engulfed in smoke
+and flame, with hundreds of guns
+pouring fire into tens of thousands
+of men. Napoleon was using some of
+his best troops, and they were
+having their effect. The reports were
+good. The Allied troops were losing
+heavily. Schwarzenberg ' s troops
+seemed ready to break. Yet still they
+held, taking heavy casualties but
+standing firm.
+By late afternoon Napoleon had
+to reduce the scale of his attack. The
+odds were shifting. Losses had been
+much more nearly even in the
+afternoon. The Guard itself was worn
+out. Bertrand and Macdonald had to
+be thrown in. His reserves were
+rapidly diminishing. Finally, about
+seven o'clock, he stopped the assault
+altogether.
+Word came in from Victor and
+Augereau's battle with Blucher,
+who was now pushing harder than
+ever. The French troops, after the
+bitter fighting against Schwarzenberg on the 15th and the hurried
+march back to block Blucher during
+the night, were taking heavy casualties again and seemed ready to break.
+Napoleon saw what he had to do.
+He sent word to authorize retreat
+for the battered force. Could no one
+stop Blucher? The next day he would
+send the recovered troops of Marmont
+as well as the Guard itself. But now
+a new danger surfaced. He began to
+get reports of the Army of Poland's
+
+approach from the east. His original
+plan was obviously not going to
+work. The French assault was not
+routing the enemy. Small victories
+were not enough. He would have to
+retreat from Leipzig.
+Orders went out for all troops not
+moving toward Blucher to rest during
+the night. He would need their
+fighting strength on the morrow.
+Then, just before midnight, came a
+glimmer of good news. Although
+Augereau had begun his retreat over
+the Elster, Blucher had discontinued the attack against him. Napoleon
+decided to take a chance. He ordered
+Augereau back across the river. The
+First Cavalry Corps were now getting
+into position to help. Together these
+forces might be able to hold Blucher.
+If they could, the new troops coming
+up--especially the Guard--would
+have a chance of routing Blucher.
+This would both hold open the escape
+route for the army and make it
+possible to salvage one claim for
+victory out of the deteriorating situation. Now it was Napoleon's turn
+to pray for rain the next day.
+October 17
+In the early morning the rain began
+to fall on the weary troops. Napoleon's
+first feeling was one of relief. This
+would mean a few hours more of
+much-needed rest for his soldiers.
+His course was now clear. Let his
+troops get some rest, then get
+Marmont's recovering corps, Murat's
+cavalry corps, and the Guard into
+position for a devastating assault
+on Blucher--blow him right out of
+the battle and open up a retreat
+route to the west. But to do that the
+rain would have to stop in time for
+him to get his troops moving and
+ready for the attack by the 18th. And
+most of all, the troops left behind
+fighting Schwarzenberg would
+have to hang on in a bitter-end fight
+of desperation. To make matters
+worse, it was becoming clear that
+both Benningsen's Army of Poland
+and Colloredo's Austrian Corps were
+beginning to come into action. If
+this were true the fat was really in
+the fire. Now he would be even more
+desperately out-numbered--especially in the key area south of Leipzig
+where his troops were struggling in
+their bitter rearguard action. The
+Emperor could see it was going to be
+a close call, even if he were able to
+pull off the miracle of threading his
+army through the shrinking eye of
+the needle.
+Further south Schwarzenberg,
+riding behind his battle lines, sensed
+his position improving. At first it
+seemed that Benningsen was coming
+
+into the battle in perfect position-to the left rear of the main French
+troops, with a chance of cutting
+them off from Leipzig. Then to his to
+Leipzig.
+Late in the day, the rain having
+stopped, Schwarzenberg called for
+an all-out assault. He was sure he
+was dealing with only a rearguard
+now. Yet to his dismay it maneuvered
+so well against his over-cautious
+subordinates that he found his attack
+was yielding him no real victory. By
+the end of the day he sensed the
+master was still in control, despite
+the mounting odds against the French.
+October 18
+The day dawned slightly overcast
+but soon cleared. Schwarzenberg had
+been hoping again for rain for Blucher,
+whom he feared might soon rout.
+His other attacks seemed to be
+getting nowhere and his losses had
+been heavy. He sent the Cossacks
+and 15,000 infantry to the west to
+block the route of a possible retreat.
+Otherwise he ordered most of his
+troops to stand against what he felt
+were still impending offensive moves.
+Napoleon would have been glad to
+know that Schwarzenberg was
+worried. To him it was completely
+otherwise. He had been pouring corps
+after corps against Blucher to the
+northwest, and that tough old
+Prussian was still attacking. Bernadotte to the north was being held
+off by Souham and Reynier--but
+these troops, out-numbered
+two-to-one at the start and taking heavy
+losses for some time now, might not
+hold much longer. He was trying
+hard to keep his weary, exhausted
+corps together until a retreat route
+could be established and its flanks
+secured. But in addition to all of
+Schwarzenberg's other corps, he now
+had the Army of Poland working its
+way around his eastern flank. This
+morning in particular the field
+seemed to be in a state of chaos, with
+corps scattered all about the countryside, weary troops fighting equally
+exhausted opponents, and neither
+sure which would rout first.
+Finally at five in the afternoon the
+news came to both commanders.
+Blucher, determined old soldier that
+he was, having absorbed blow after
+blow from Napoleon's corps stolen
+from other parts of the field, at last
+routed. The French had attacked
+first with Augereau, but after fierce
+fighting that force had routed.
+Augereau however, had been ready
+with the Guard Corps and had sent
+it in. At first the losses were heavy,
+but this most trusted body of
+
+8
+
+Napoleon's men persisted, and
+Blucher finally gave way, his troops
+streaming up the road toward Halle.
+Napoleon knew this was his only
+chance; the door to the west and
+safety would now be open--for a
+very brief moment. He would have
+perhaps one more day. Everything
+would have to be done by then.
+Before him he had only the weak
+remnants of the Cossacks. Murat
+was sent ahead to brush them aside.
+To his north, Bernadotte was closing
+in. Souham and Reynier had had to
+be withdrawn south to the main
+retreat rout. Now there was only
+Latour-Maubourg's small cavalry
+corps to hold off this entire Army of
+the North. Behind him to the east
+two corps under Lauriston and
+Poniatowski, fighting off the Army
+of Poland, had been shunted northeast and appeared lost, completely
+out of contact with the main army.
+Still, they appeared to be holding
+out. The main corps of Schwarzenberg were pushing hard on the rear
+of the Emperor's retreat column,
+and he knew they would soon be
+coming round to cut him off from the
+south. The Emperor felt he was
+running down a tight iron corridor
+whose walls had suddenly started to
+contract and close him in.
+October 19
+Like a juggler with all his ninepins in the air at once, Napoleon
+maneuvered his troops down the
+narrow corridor. The corps of
+Bertrand and Macdonald and even
+the Guard Corps itself, all exhausted,
+had somehow managed to cross the
+Pleisse in the night and were for the
+moment safe--but in very bad
+shape. Napoleon ordered Marmont's
+force to take up the rearguard action.
+One thing he could do to preserve
+a shred of victory. He had Sebastiani's
+cavalry corps free near Halle-placed there to disrupt Blucher's
+supply line. He was in perfect position
+to attack Blucher's troops streaming
+back up the road toward him--to
+harry them, give them no time to
+reform, push them until they were
+completely destroyed. For even one
+small cavalry corps would be enough
+to continue the rout of that formerly
+powerful army of 55,000 men.
+Another small cavalry corps was
+also giving yeoman service. The
+First Cavalry Corps was fighting
+gallantly, to hold Benardotte's army
+north of the Elster through the long
+dragging afternoon. Finally they
+gathered their remnants and launched a last desperate charge. The Army
+of the North quivered with the shock,
+
+were held momentarily, then absorbed it--shock, First Cavalry Corps
+and all. They reached the river to
+find they were too late. Napoleon's
+last troops were passing safely on
+the other shore. But the First Cavalry
+Corps had simply disappeared into
+the mass of its enemy.
+For the main body of the army it
+had been a hard day of fighting
+while running, holding off superior
+forces from the left, the right, and
+the rear, while pushing the Cossacks
+out of the way in the front. The
+Emperor was rushing Souham's and
+Reyniers corps forward to support
+Murat--for he knew Schwarzenberg would surely have a heavy
+force take the place of the Cossacks
+before long. The rear was still
+holding. Bertrand and Macdonald
+were finally routed after dark but
+were able to retreat across the Elster
+and keep up with the army. For
+Marmont's troops, in spite of their
+gallant fight all over the field from
+the opening battle against Blucher,
+it was too late. Caught at the end of the
+column, unable to break loose from
+their rear guard action, they were
+finally cut off. Like Lauriston's and
+Poniatowski's men, from whom now
+only faint sounds came from far to
+the east, they would have to be left to
+their fate.
+Napoleon was not through the
+gauntlet yet. Murat had defeated the
+Cossacks before five o 'clock in the
+afternoon, but then was struck by a
+
+much larger force. Fortunately
+Napoleon had rushed forward with
+his staff and headquarters--800
+strong--to be at the crucial point.
+Murat's men held at first-- then
+finally broke. For a few moments
+there was only Napoleon and his
+headquarters' troops to hold back
+the waves of enemy about to engulf
+the narrow retreat corridor from the
+south. The horses of the charging
+800 reared as their riders slashed
+about them. A precious few moments
+were bought. Then, just in the nick
+of time, Souham and Reynier appeared streaming forward through the
+night's shadows to hold back the
+threatening flood and keep the
+retreat route open.
+October 20
+Schwarzenberg sensed that he had
+done well--but the cost had been
+terrible, and he knew that he had
+almost had the master in his clutches,
+only to let him escape.
+Napoleon was riding with his retreating troops, tired, sick, and
+physically exhausted, but knowing
+he had somehow once again held
+everything together and kept himself from defeat. He knew he had
+won no great victory--though a
+victory could be claimed. Blucher's
+army was now being rapidly destroyed, still pursued by Sebastiani,
+Poniatowski, Lauriston, and all their
+troops were lost. And Marmont, cut
+off and left behind in his last brave
+rearguard action, must soon surren-
+
+9
+
+der too. Latour-Maubourg's First
+Cavalry Corps, gallant defender
+against the Army of the North, had
+now disappeared into the mass it
+had held back. But except for those
+elements, the rest of the army's units
+were intact and in orderly retreat.
+Yet for every one of those 84,000 men
+retreating in his column, there lay
+another back there around Leipzig.
+Total French casualties had been
+80,000. And another 21,000 would
+soon surrender. Well, he would return
+to France and raise another grand
+army. And then....
+But it was getting harder. This
+time his men and his own resources
+had held. Leipzig had not been the
+endgame for him. But he was older,
+more exhausted, sicker. Would there
+come a time soon when the great
+Napoleon would not be able to pull it
+off? When he would ride out to meet
+his.... He wondered idly for a moment
+what would be the name of that
+great city (or perhaps some small,
+unknown country town) that would
+ring down through history as the
+site of his final defeat.
+Well... at least it wouldn't be
+Leipzig.
+Note: The actual battle of Leipzig
+resulted in 110,000 French casualties, 90,000 Allied losses and the
+unseating of Napoleon in 1814. The
+game recounted in this article resulted in 100,000 French losses, 145,000
+Allied losses, and a much less certain
+outcome of the 1814 campaign.
+
+commanders such as Kellerman, Uxbridge, Murat,
+and Blucher to name but a few, are factored into
+the battle in different ways depending on your
+tactics and the terrain. The horrendous casualties
+can often cripple the victorious army while dispersing the vanquished. The above is handled in
+an exciting and challenging manner and shows
+why even the Emperor had an occasional bad day.
+
+I've always been curious as to why generals had
+so many aides-de-camp hanging around; having
+played NAPOLEON'S CAMPAIGNS 1813 &
+1815 I now understand that their primary function
+was to convey information and to deliver orders.
+The game includes separate scenarios on Leipzig
+(1813) and Waterloo (1815). In the solo version of
+the Leipzig campaign you are Napoleon, and
+attempt to defend your supply depot at Leipzig
+against 300,000 Austrians, Prussians, Russians
+and Swedes which are attacking from all points of
+the compass. In that of the Waterloo simulation
+you are Wellington attempting to defend both
+Liege and Brussels against Napoleon's last fling,
+while simultaneously trying to crush the French
+which you outnumber two to one.
+
+All of this takes place on a nice high-res strategic
+map. There is another map that is a disaster. The
+game comes with a hard-copy map of the campaign
+areas and a series of cardboard corps markers and
+estimated enemy strength chits, which seem to
+serve no really useful purpose other than as an
+attempt to discourage game pirates. The hardcopy map is both ugly and confusing. Instead of
+using the pseudo-antique style of the instruction
+book, we are presented with hexes in various
+shades of brown and grey, with a confusing array
+of little red dots that represent the highways. The
+map on the screen (which is displayed in segments)
+could also be somewhat improved.
+
+The game is a corps level simulation with the
+emphasis on limited intelligence and the problems
+of command control. Although I've played
+wargames for over twenty years I have never
+encountered a simulation which handles the above
+so well. Through a series of dispatches your corps
+commanders relay information to you based upon
+the patrols of their light cavalry, the accuracy of
+which depends upon the comparative strength of
+the various screens. This information is however,
+often quite out of date, and you might receive a
+dispatch sent at 9:00 AM at 9:00 PM. In addition,
+you are bombarded with vast amounts of intelligence reports which may or may not be accurate.
+Having decided upon a plan of action (striking the
+map with your finger and shouting "We will crush
+them here!"), it merely remains to order your
+eleven independent corps commanders to concentrate their forces at the appropriate spot. Unlike
+cardboard counters on a paper map, they are often
+quite uncooperative. They may decide not to push
+their troops too hard, or to attack at a secondary
+point, or to ignore you because your messenger
+never got through. If and when they show up at
+the battlefield, and if you've discerned the enemy's
+Napolenic"bt strategy, a long and bloody "
+takes place. Heavy and light cavalry; riflemen,
+grenadiers, light and line infantry; artillery; and
+the historical tactical abilities of the various
+
+One of my other interests is wargaming with
+15mm Napoleonic miniatures, and I had hoped
+that this game would be a useful tool when my
+friends and I wished to play a campaign game. To
+a certain extent this has been fulfilled, as in the
+two-player version of the game we can resolve
+tactically with our own miniatures the engagement
+which the computer describes as about to take
+place. Unfortunately, there is no way for me to tell
+the computer the result of my tactical encounter
+with miniatures. I had hoped that Mr. Billings and
+the gentlemen at SSI would have made provision
+for this.
+This game is a must for anyone interested in the
+problems of army-level command or Napoleonic
+simulations. If Napoleon had an Apple and this
+game at Leipzig, he would have seen the handwriting on the screen and headed for the Rhine,
+kicking his aides-de-camp all the way.
+NAPOLEON'S CAMPAIGNS: 1813 & 1815
+runs on the Apple II (48K) computer with Applesoft
+in ROM and sells for $60.
+10
+
+In the first scenario, no provisions are made for
+saving the game. This is a hassle because there is
+a lot to it, and even though I know most of the
+scenario, it is still difficult to complete it without
+dying. The next four scenarios, however, all have
+save options. However, this is a different type of
+save--the next time you run that disk, the scenario
+will be started at the saved point. This game does
+not (rats!) allow reusing characters that should be
+six feet under.
+
+Although there are many fantasy role-playing
+computer games on the market, the Swordthrust
+series is very different from most. Most fantasy
+games I have seen use the Dungeons and
+Dragons concept of character class--a character
+is a magician, fighter, thief, or priest; he cannot
+have any abilities of another class. Swordthrust,
+however, uses a system more like another popular
+fantasy role playing system called
+-Runeqst- that is a character can and should have skills in as
+many areas as possible. Spells, armour, and
+weapons can be bought, and many things can be
+found while on an adventure.
+
+The first scenario seemed short at first. Later, I
+discovered how much there really is and drowned
+trying to get all the treasure out. The best rule of
+thumb is not to bother with anything unless you
+have to and search everything as best you can.
+Some options are not immediately evident, but
+careful thought will bring them to light. A Power
+spell, all anyone can afford at the beginner level,
+may prove invaluable. However, it can throw
+fireballs back at the user as well as heal, so be
+CAREFUL!
+
+Swordthrust is a mixture of a puzzle-type
+adventure and a "hack-and-slash" game (such as
+Ultima). This is the best role-playing I have seen
+in any computer game, and better than some
+Dungeons and Dragons or Runequest scenarios I have played in. Currently, there are five
+Swordthrust scenarios available (with, hopefully,
+more to come), each sold separately. Each scenario
+has a unique goal and most have time limits.
+
+In the Vampyre Caves (scenario 2), the rats will
+probably like you, but neither the vampyre or his
+hunters will. The better you do finding treasure on
+the first scenario, the better set up you will be for
+this one. Spells are infinitely valuable--don't
+overlook them. By this scenario (if you are
+attempting them in order), you should be able to
+afford at least a Heal spell, and possibly a blast as
+well.
+
+Swordthrust has some unique features. A
+useful feature is an "auto-repeat" of the last
+command by pressing return. This saves a lot of
+typing (and errors). Also, there is the "suicide
+plan" which allows you the option of refusing lessthan average characters. Armour, weapons, and
+shields are all subject to breakage, which is not my
+idea of fun--but it is fair.
+Initially, the most useful skill is charisma.
+Someone with really high charisma (such as my
+character Jordan's 22) will be able to start off
+initially with chainmail, 4 good weapons, a Power
+spell, and perhaps training too. However, no
+statistic is useless, and hardiness is perhaps the
+single most important.
+
+Kidnapper's Cove (third scenario), is where you
+get to play delivery boy and Errol Flynn in the
+same scenario. The object is to rescue a kidnapped
+boy and get him his medicine. The time limit is
+definitely a factor in the game. Hint: water washes
+off dust, but beware of tridents unless you are very
+experienced. If you flee from a trident, he (at least
+everytime I've tried) automatically follows you.
+
+One thing to watch is fatigue. Every time you
+take damage, it fatigues you . Fleeing and casting
+spells also fatigue you. If you lose consciousness,
+there is a chance you will die if there is a monster
+in the room (or if a monster wanders by). Your
+chance to hit is also lowered by fatigue, which
+seems very reasonable.
+
+The Green Plague (fifth, and most recently
+released scenario) starts with your character
+contracting the disease, thus giving him a very
+valid reason for finding a cure. Don't make the
+mistake I did. I spent so much time reading the
+gray book "Ringworld Engineers" that I ran out of
+time and died of the plague.
+12
+
+ED. NOTE - I was introduced to computer gaming
+by Tom Cleaver. A few years ago Tom showed me
+his multi-player space warfare game entitled GALACTIC EMPIRES (not to be confused with
+Broderbund's Galactic Saga series). It was then
+and, I feel, still is the best multi-player game
+available for the personal computer. Now that
+Avalon Hill is distributing GALACTIC EMPIRES
+(under the name GALAXY) the game will get the
+kind of attention it deserves. It runs on the Apple
+II (48K) and Atari 800 (32K) personal computers.
+Here are Tom Cleaver's thoughts about the
+development of GALAXY.
+HISTORY
+GALAXY did not spring forth full grown from
+the head of Zeus. Like all things on this earth (and
+off), GALAXY evolved from lower forms.
+One Friday evening I was woolgathering when
+the idea for a computer game crossed my mind.
+Now, I want you to be aware that this was not the
+first time that a game idea had occurred to me.'
+But most of my ideas up to this time had led to
+dead ends. However, this idea came to me with
+such clarity and detail that I knew it couldn't fail.
+That weekend I sat down before my Apple II and
+programmed the first version of what was
+eventually to become GALAXY.
+
+I called it GALACTIC EMPIRES, and it was
+an instant success with my friends at the Falls of
+the Ohio Wargame club. My ego inflated by their
+enthusiasm, I got a bit of free publicity in some of
+the gaming magazines, and soon I was selling
+program listings by mail for $2.00 each.
+The next step was to find a company willing to
+publish my game. I sent samples to a few software
+houses, but the only one really willing to publish it
+was a small company on the East Coast. And they
+wanted revisions. So GALACTIC EMPIRES
+was translated from Integer BASIC to Applesoft,
+modularized, polished and debugged, a process
+taking about 100 hours of work. It was published
+in late 1979.
+For several reasons which are best not explained
+at this time, GALACTIC EMPIRES did not sell
+as well as I had hoped, in spite of quite favorable
+reviews by the critics. I therefore sought to have it
+published by a larger company.
+On a whim, I sent the game to Avalon Hill, not
+really expecting them to accept an "outside" design.
+But to my amazement and elation, AH was
+impressed with GALACTIC EMPIRES and
+authorized me to do a rewrite of the game for the
+Apple II, and to supervise the production of
+versions for the Atari, TRS-80 and PET.
+I began by hiring the best programmers
+
+13
+
+(available) money could buy--students in electrical
+engineering and computer science at the University
+of Louisville. We worked together for four months
+to produce the pinnacle of the game's evolution:
+GALAXY.
+
+You may play solitaire, in which case your task
+is to colonize the entire galaxy before game's end.
+In my opinion, the multi-player game is much
+more exciting. Your task in this game is to control
+the most planets at game's end. The orders which
+you key into the computer are invisible, so no one
+can tell what you are doing. This simulation of
+"the fog of war" makes it possible to launch
+surprise attacks on your opponents.
+
+Writing the first program in Integer BASIC was
+easy, and the product of the programming was a
+"good" game. But it took two years of slow and
+often painful evolution to advance that game to its
+present state. I think the effort was worth it. I hope
+you do too.
+
+GALAXY runs in 16K of free memory. A game
+in progress may be saved to tape or disk.
+
+PHILOSOPHY
+The typical computer game is a solitaire arcadestyle game with fancy high-resolution graphics. It
+requires lots of manual dexterity and good reaction
+time. I like this kind of game. But not all the time.
+Where is the camaraderie of playing a game with a
+friend? Where is the intellectual challenge?
+
+INSIDE THE PROGRAM
+This section discusses what only the programmer knows for sure--the algorithms that lie behind
+the code.
+The computer randomly assigns industry to the
+neutral worlds. There is a 25% chance that a world
+will have no industry, and thus be economically
+worthless (but still strategically valuable). If a
+world does have industry, it is likely that it will
+have only a small number of industry units,
+usually less than five, although there is no
+theoretical limit to the amount of industry a
+neutral planet may have.
+
+When I set out to design a new computer game, I
+was looking for one which would be multi-player
+and which could be played repeatedly without
+growing stale. What I ended up with was sort of a
+combination of STARTREK, DIPLOMACY
+and RISK. It can be played by up to 20 players,
+and no two games are ever alike.
+
+Ships are assigned to players based on a complex
+algorithm awarding extra ships for proximity to
+other players' worlds and taking away ships for
+proximity to neutral worlds. This tends to even
+things out so that, for example, there is no particular advantage to having your home world in
+the middle of the galaxy.
+
+I also wanted to take advantage of what the
+computer does best, not graphics and animation,
+but number crunching and bookkeeping. Thus
+GALAXY does some fairly sophisticated mathematics when calculating movement and combat
+results, and it handles all the record keeping that
+can become so burdensome in a board game. The
+computer also serves as a moderator, applying all
+game rules impartially and allowing players to
+enter secret moves.
+Don't expect to find gaudy graphics in GALAXY.
+What you will get is well-organized and "clean"
+text displays that provide all the information the
+gamer needs. Austere, you say? Perhaps; but
+fancy graphics would have been gratuitous, and I
+have made one concession to the arcade game
+freak--lots of sound effects in the form of phasers,
+explosions, sirens and more.
+
+Ships are assigned to neutral worlds based on
+the number of industry the world has and a
+random factor. Neutral worlds with lots of industry
+can be expected to have lots of ships. Keep this in
+mind when scouting the neutrals.
+Fleets of ships move two light-years on the turn
+they are released and three light-years on every
+turn thereafter. Distances are computed according
+to the Pythagorean Theorem. Thus if the destination world is 4 light-years north and 5 lightyears east of the origin world, the distance is 6.40
+light years, and the trip will take three years (time
+is rounded up).
+
+GAME MECHANICS
+As the game begins, you will send fleets of ships
+from your home planet to explore the unknown
+resources of the stars. The planets circling the
+stars may be barren worlds, or they may possess
+industrial capacity and defensive ships to resist
+your colonization efforts. If you should succeed in
+conquering a neutral planet, its industrial capacity
+will be converted to producing new ships for your
+continued expansion.
+
+When ships arrive at a hostile planet, combat
+occurs. First, each defending ship fires one shot.
+Then each surviving attacker fires one shot. Shots
+are traded until one side is eliminated. The probability that an attacker will hit its target is given
+by the formula,
+P=G D/(A+D)
+where G is the gunnery factor (a random number
+with a mean of 0.707), D is the number of defending
+ships, and A is the number of attackers. A similar
+formula applies to the defender's fire.
+
+GALAXY allows from 1 to 20 players to compete
+for control of up to 40 star systems. The computer
+produces a different galaxy every game.
+14
+
+A little mathematical manipulation will show
+that, with equal gunnery factors, you have a 50/50
+chance of winning the battle if you come in with
+30% more ships than the defender has. If you come
+in with double the number of the defender's ships,
+you will have an excellent chance of winning, but
+it will cost you a number of ships equal to the
+defender's force to capture the planet. To minimize
+your losses, come in at 5 to 1. Even at these odds,
+however, you still stand to lose a number of ships
+equal to 65% of the defender's force. It is inadvisable to attack at more than 5 to 1 odds because if
+ocur an unfavorable gunnery factor should
+(gunnery factors for attacker and defender are
+randomly determined at the beginning of each
+invasion) the victory could be Pyrrhic.
+
+you play. However, as your rep gets better known,
+people will learn to leave you alone. Obviously,
+this strategy works only if you play with the same
+people regularly.
+3. Establish a reputation as a loyal ally. This
+strategy works best if there is someone else in the
+game who is as trustworthy as you, and you can
+make that person your ally. A rep for square
+dealing will pay off in any other games you play
+with the same individuals. You will find that this
+idea carries over to the "real world" as well.
+4. Emulate Machiavelli. If you find yourself in a
+game with strangers, pretend to be the loyal ally
+as described above. Then when the game is drawing
+to a close, send ships to your partners weakly
+defended worlds, all timed so that they arrive on
+the last turn of the game. I personally eschew this
+strategy, but its success cannot be denied.
+
+HINTS ON PLAY
+Diplomacy can be an important part of multiplayer GALAXY. Some appropriate strategies
+are given below.
+
+EPILOGUE
+The above notes are intended to give you some
+insight into the "guts" of GALAXY And they
+may provide you with enough hints to give you an
+edge. But the only real way to become a winner at
+GALAXY is to play it.
+
+1. Look dumb. If you don't appear to know what is
+going on, the other players may ignore you, thinking that you are no threat.
+2. Acquire a reputation for vindictiveness. If you
+let it be known that you are a badass, the timid
+players will be intimidated by your bluster. If you
+single-mindedly attack anyone who invades "your
+space," you will probably lose the first few games
+
+1 Some of my other ideas have resulted in published noncomputerized games, namely SWORDPLAY and THE
+CONQUEST OF SPACE.
+
+15
+
+Tanktics:
+Review and Analysis
+Bob Proctor
+
+Your tank has stopped amid a group of small
+hills; up ahead, through a thin screen of trees, you
+can see the east-west road down which the Russian
+tanks were supposed to be coming. Where are
+they? Sure, if they were coming this way, they'd be
+here by now. Could they have gotten by already?
+Are they about to open fire from behind? The
+thought of a shot " up the tailpipe " is enough to
+make you want to scout the territory. Before you
+can act, your doubts are dispelled by the appearance of a tank on the road! It's not a T-34, it's a
+KV-85; no wonder they weren't here sooner! Well,
+there's no point in waiting for a side or rear aspect
+shot on a KV, the armor's the same all around, so
+you take careful aim and fire! Good shot, it hits
+square on the front hull...and bounces! You slam
+the hatch shut and reach for another round as the
+return fire screams overhead...
+
+on cassette at $24 for Apple II, Atari, PET and
+TRS-80 or on disk at $29 for the Apple and TRS-80.
+
+IS THIS A BOARD GAME?
+The first thing that catches your eye when you
+open the box is a brightly colored mapboard.
+There are two of them and they lay side-by-side to
+make a 16" by 18" map with forests, lakes, roads
+and "rough " ground. It is a purely hypothetical
+map, not intended to represent any real place; the
+idea is simply to have a relatively flat area with a
+few bumps, dips, and trees where the tanks can
+"play around." The game is played in the computer
+but it is impossible to visualize what is happening
+without referring to the map. The map is covered
+with a grid of hexagons (known as "hexes") and
+each hex is identified by "coordinates" (from Al to
+FF24) clearly printed on the board. The computer
+tells you where things are by giving their coordinates; there are no graphics or pictures whatsoever. At first, taking the graphics off the screen
+and putting them on a mapboard may seem like a
+step backward, but there are two big advantages.
+First, it means owners of Commodore PET's and
+TRS-80's can run the game too and, secondly, we
+can all enjoy a larger, more complex game this
+way.
+
+As you can guess, TANKTICS is a game about
+armor battles between the Germans and Russians
+(the Eastern Front) during World War II. It is
+Avalon Hill's first historical microcomputer wargame since their original 4 computer games hit the
+market last year. Like those games, TANKTICS
+is easy to play and fairly short, but it is a much
+more complex simulation than MIDWAY CAMPAIGN or B-1 NUCLEAR BOMBER. It's a
+fairly conventional board wargame with a computer as both referee and opponent. There is no
+provision for two players to compete except to
+alternate games and compare scores. It is available
+
+There are about 240 half-inch square counters to
+mark the positions of the tanks on the map. Each
+has an accurate outline of the appropriate type of
+tank, the movement allowance, and a letter from A
+to P to identify individual vehicles. German
+17
+
+THE PROGRAMMER'S CORNER
+
+Although only the speed is shown on the counter,
+each tank is rated for size of gun and three kinds of
+armor (front, side and rear). You can select from
+five different types of German tanks. The Panzer
+Mark IIIJ and IVH are inferior to every type of
+Soviet tank and won't get used much. The later
+Panzers--the Panther, Tiger and King Tiger--are
+all useful though you will soon learn that the
+Panther has reduced side and rear armor dangerously to obtain its 11 point movement allowance.
+There are 6 kinds of Russian tanks--2 T-34's, 2
+KV's, and 2 JS's. Both sides also have Anti-Tank
+guns which can be used on defense; they function
+like tanks with a movement allowance of zero.
+
+For those of you who know BASIC, here are
+some simple improvements for TANKTICS.
+These changes apply specifically to the Apple
+version, but similar logic can be used with the
+others.
+Our first concern is to fix the problem that
+occurs when a Russian and German tank
+occupy the same hex and it is not resolved as
+an overrun. If either shoots at the other, the
+program stops because it 's trying to divide by
+the range which has a value of zero. The error
+occurs in line 20130 and it can be fixed just by
+adding line 20125:
+
+PLAYING THE GAME
+First you select one of the 5 scenario types (see
+below) and choose how many tanks you will have.
+Then you pick the type of tanks that both sides will
+use. You can mix types but the computer cannot.
+Then the computer determines the starting positions
+and the location of the objective. Now you're ready
+to start.
+
+20125 IF RG = 0 THEN RG = 1
+
+Another worthwhile change will permit
+any number of Russian tanks (up to 16) no
+matter how many tanks you choose for
+yourself. This is done by modifying line 120
+and adding line 125 so that they look like this:
+120 PRINT "HOW MANY TANKS FOR YOU? ":: Q=8: GOSUB 10000:
+
+The game is played in alternating turns and you
+always get to go first. At the start of your turn, the
+computer displays the positions of all of your
+tanks and the locations of any enemy tanks which
+they can see. Each turn, you can move each tank
+up to its maximum movement allowance unless
+you choose to have it shoot instead. The winner is
+determined by a point system which takes into
+account how many tanks were destroyed, how
+long the game took and how close to the objective
+the attacker got. All of this is explained in 5 pages
+of the 12-page rulebook, which also covers loading
+the program and gives some examples of play. The
+rulebook lists the following 5 "scenarios":
+
+HN=Q: HL=0
+125 PRINT "HOW MANY TANKS FOR ME? ": Q=16: GOSUB 10000:
+CN=Q: CL=Q
+
+1. MEETING ENGAGEMENT - Both sides start
+away from the objective hex and must try to
+capture (occupy) it.
+2. HEDGEHOG DEFENSE - You set up near the
+objective and must keep the Soviets from capturing
+it.
+3. ARMOR ASSAULT - Same as #2 except that the
+Russians are defending and you must overrun the
+objective.
+4. LINE DEFENSE - You set up in a line across the
+board (in this one case, you get to choose which
+hexes you will start in) and the Soviets try to break
+through your line to reach the objective.
+5. LINE ASSAULT - The reverse of #4, with the
+Germans attacking a Soviet line defense.
+In actual play, these are all the same game with
+different starting positions. In spite of the
+geographical "objective", victory is always determined by points and all of the scenarios continue
+19
+
+until one side or the other is eliminated. This gets a
+little strange in the case of scenario #5, where you
+can punch a hole in the Russian line and overrun
+the objective only to find that the game doesn't
+end until you go back and mop up every last unit.
+
+working backwards. In each new scenario, give
+yourself only the tanks that survived the previous
+round. Surviving all 5 rounds is proof that you
+have mastered the game.
+
+In every game, the computer gets twice as many
+tanks as you do. This gives scenarios 2 and 4 an
+authentic feel; the Russian "hordes" attempt to
+swamp the defenders by weight of numbers. You
+have an advantage being on defense because you
+can sit and shoot while the attacker cannot both
+move and return your fire. When YOU must attack
+it ' s a tough row to hoe--you must give yourself very
+good tanks and the Russians weak ones if you
+want a reasonable chance of winning.
+
+How good an opponent is the computer? The
+rulebook claims that it will make "very few stupid
+moves" but I've seen it move tanks backwards
+several times. It also gives up side and rear aspect
+shots more often than it should but does use
+protective terrain pretty well. You'll find it
+difficult to win at first, but as your tactical skill
+improves you'll begin winning regularly. At this
+point, it 's time to start giving yourself poorer
+tanks.
+
+WINNING THE GAME
+
+SOME COMPLAINTS
+
+The scoring system makes zero points a tie
+game. Any plus score is a win for you, a minus
+score is a loss. It is possible to capture your
+objective and still lose; it is even possible to wipe
+out the Russians and lose. You can't predict how
+many points a tank will be worth--anywhere from
+10 to over a hundred! In any given game, though,
+each kill will be worth more than the last. This
+makes the last tank worth quite a bit and tremendous come-backs are common.
+
+The Apple version of TANKTICS, which I was
+using, suffers a little from program errors. This is
+not the problem it might be thanks to Avalon
+Hill's policy of selling programs that can be
+changed (see the programmer's corner), however I
+feel uncomfortable with a product that doesn't
+seem finished. Fortunately, the Apple version
+seems to be the only one with problems.
+
+THE COMPUTER AS OPPONENT
+
+My only complaint about the game system itself
+concerns lines of sight. TANKTICS handles
+sightings as probabilities. Beyond adjacent hexes,
+sighting is never certain, it is likely or unlikely. It
+takes a while to get used to seeing "through" hills
+and forests, but I can visualize very low, rough
+ground and thin forests and live with it. It certainly
+makes programming easier. The problem is that
+the game has no memory of previous results. Thus
+it sometimes happens that you can see a tank on
+one turn but can't see it on the next, even though it
+continues to fire at you!
+
+You lose 3 points per turn, so accomplishing the
+same result in less time means a higher score. The
+importance of time-pressure varies with the
+number of tanks. Ten turns (30 points) represents
+a much bigger percentage of the total score in a
+2-tank game than it does in an 8-tank game.
+Both sides also score points for each hex they
+move toward the objective. Consider the difference
+between scenarios #1 and #2. In #2, your tanks
+begin in position around the objective; you just
+find good protective terrain and wait for the
+Russians to show. The further away they start, the
+longer it takes and the more points they have by
+the time you spot them. In scenario #1, you start
+away from the objective too, and get points for
+your approach to offset some of those the Russians
+are getting. On the minus side, you don't know
+who was further away, who will get there first, or
+whether the two forces will meet "in route." The
+bottom line: #1 is more exciting and unpredictable,
+and not any harder to win.
+
+CONCLUSIONS
+There are two types of people who might be
+disappointed with TANKTICS. The first is
+someone who buys it wanting an arcade-style
+game; this it obviously is not and was never
+intended to be. The second is the serious wargamer
+who expects the computerized equivalent of
+PANZER or SQUAD LEADER. This game has
+neither the complexity nor feel of these board
+games. In some areas (like combat resolution) it
+comes close, but in other ways (lines of sight) it's
+much simpler. You don't have the sense of control
+that you do in a board game; average luck on an
+unlikely shot and poor luck on a likely shot all
+come out the same: a miss! You can't tell the
+difference and if you can't shrug that off,
+TANKTICS may irritate you. For those of us who
+enjoy a little uncertainty and for all you readers
+who now know what to expect, TANKTICS is just
+plain FUN! know why things are happening.
+
+A total disaster for you will often mean less
+points for the computer (because you lose fewer
+points on time and the Soviets don't get as close to
+the objective) than if you had lost a longer game.
+This makes "head-to-head" competition with a
+friend a bit frustrating but you can still accumulate
+points over many games to make a "campaign "
+game. One way I do this is to start with 8 tanks
+and play each of the scenarios starting with 5 and
+20
+
+by John Anderson
+
+When the ATARI first appeared in the
+marketplace, lack of software was cited as a major
+disadvantage. Since that time, a veritable software
+explosion has taken place. Dozens of quality
+programs from third party manufacturers have
+surfaced as the expansion of Atari shelf space in
+local computer stores attests to this fact.
+
+Finally getting a little weary of Invaders? Try
+GALACTIC CHASE on for size. I'd wager the
+author would have called this program
+"GALAXIAN" (R) if the name hadn't already
+been "coined." For those of you who save your
+quarters for the laundry, Galaxian is Invaders
+with a slight twist--every so often a formation
+breaks off the pack to snuff you out. Graphics and
+sound are superlative, addictive qualities strong,
+and a frighteningly difficult advanced level awaits
+survivors. Also excellently paced, the insectoid
+aliens are deliciously hateful.
+
+The ATARI Software Exchange, offering
+programs such as in-house genius Chris Crawford's
+EASTERN FRONT, has added to this growth.
+And now, first rate graphics, of a kind formally
+attainable only by ATARI programmers themselves, have reached the marketplace.
+
+The real moments in this game come when you
+are attacked by formations on all sides--four, six,
+or more aliens bent on bombing or ramming you
+out of existence. The novice will not survive an
+assault like this. However, with much practice,
+you can learn to " spear" the enemy, vaporizing
+them on the nosecone of your ship. This calls for
+nimble steering, needless to say, and all the while
+you must fire at your other attackers.
+
+Let's look at three excellent examples of quality
+third party game graphics, from three separate
+sources! JAWBREAKER, from On-Line Systems,
+GALACTIC CHASE, by Stedek Software, and
+PROTECTOR, from Crystal Computer and
+Software.
+Please don't be misled by the name JAWBREAKER. This is the arcade game known most
+commonly as"PAC—MAN"(R), though there are
+a couple of amusing and original alterations. You
+are a roving mouth with a voracious appetite,
+gobbling up all the candy in sight. You are pursued
+just as voraciously by a group of multicolored
+smiles, whom, you may incorrectly surmise, want
+only to wish you a nice day. Nothing of the sort.
+What they really want to do is corner you in the
+maze so they can knock your teeth out. I never did
+really trust people who say "have a nice day."
+
+Perhaps the most ambitious game of the pack is
+PROTECTOR, from Crystal Software. Though
+the game is somewhat flawed, it shows great
+potential.
+The game is akin to the arcade game
+"DEFENDER"(R). Your job is to save the last
+survivors of a lost city before they are tractor
+beamed into a volcano by an alien ship. This game
+makes use of the Atari's horizontal scrolling ability.
+As you fly east or west, the terrain scrolls by
+giving the exciting illusion of a "microworld."
+Atari's extraordinary capabilities in this area are
+sure to be exploited further in the future.
+
+In respect to the "theme" of this package, I think
+it holds together better than even the arcade game
+itself. If you succeed in clearing a board, a manic
+toothbrush shoots across the screen for a quick
+going over before the next session. Even the
+instructions reflect some wit and humor. This is
+not merely an arcade game transplant.
+
+The game is very difficult at first, and on that
+account, is relatively addictive. Also, the scrolling
+terrain is fun to survey. Why then, is the game
+ultimately somewhat disappointing? First of all,
+it's got a number of quirky bugs in it--bugs that do
+not surface right away. A promised meteor storm
+
+As for the graphics and sound, when I first saw
+the program, I could not bring myself to believe
+the game was not written by ATARI. It is not only
+truly addictive, but also "paced"--that is, you get
+tougher, the enemy gets tougher, Four stars to this
+one.
+
+Continued on page 36
+22
+
+THE GREATEST BASEBALL TEAM
+OF ALL TIME TOURNAMENT (PART 2)
+
+1955 BROOKLYN DODGERS
+Name
+6. Hodges
+J. Gilliam
+P. Reese
+J. Robinson
+C. rillo
+Fu
+D. Snider
+S. Amoros
+R. Campanella
+D. Hoak
+D. Zimmer
+R. Walker
+0. Newcombe
+Pitchers
+D. Newcombe
+C. Labine
+C. Erskine
+B. Loes
+J. Podres
+D. Bessent
+K. Spooner
+
+In our last issue (Nov. - Dec. 1981) the staff at
+CGW proposed a baseball tournament to determine
+the greatest baseball team of all time. Using
+Avalon Hill's MAJOR LEAGUE BASEBALL
+or Strategic Simulation's COMPUTER BASEBALL
+you can set up a tournament which includes the
+premier teams in baseball history. The statistics
+for the first four teams of the tournament (1927
+Yankees, 1931 Athletics, 1948 Indians, and 1961
+Yankees) were included in our last issue. The
+statistics for the remaining four teams are included
+in this issue. The winner of the upper bracket (last
+issue) should play the winner of the lower bracket
+(this issue) in a best of seven series to determine
+the overall winner of the GBTOAT tournament.
+To guarantee that the results of your replay are
+included in CGW your tournament results should
+be in our hands by MARCH 31, 1982 (PLEASE
+NOTE THAT THIS DEADLINE IS CHANGED
+FROM THE ORIGINAL). The results of the
+tournament will be published in our May - June
+1982 issue (not the Mar.-Apr. 1982 issue indicated
+in our last issue). Important ground rules for the
+tournament can be found in the Nov. - Dec. 1981
+issue.
+
+R H 2B 3B HR RBI BB 50 5B BA FA
+6
+AB
+R 150 1B 546 75 158 24 5 27 102 80 91 2 .289 .991
+S 147 538 110 134 20 8 7 40 70 37 15 .249 .968
+R 145 553 99 156 29 4 10 61 78 60 8 .282 .965
+R 105 317 51 81 6 2 8 36 61 18 12 .256 .966
+R 140 523 83 164 24 3 26 95 43 43 4 .314 .981
+L 148 538 126 166 34 6 42 136 104 87 9 .309 .989
+L 119 388 59 96 16 7 10 51 55 45 10 .247 .972
+R 123 446 81 142 20 1 32 107 56 41 2 .318 .992
+R 44 279 50 67 13 3 5 19 46 50 9 .240 .960
+R 88 240 38 67 10 1 15 50 19 66 5 .239 .969
+L 48 103
+6 26 5 0 2 13 15 11 1 .252
+6 18 1 .359 .907
+L 57 117 18 42 9 I 7 23
+N
+L
+H
+K
+65
+6
+C6
+IP
+BB
+ERA
+17
+20
+5 34
+31
+234 222
+38 143 3.19
+13
+5 60
+8
+144 121
+55 67 3.25
+1
+11
+B 31
+7
+29
+195 185
+64 84 3.78
+4 22
+10
+19
+6
+128 116
+46 85 3.59
+9 10 27
+24
+5
+159 160
+57 114 3.96
+8
+1 24
+2
+I
+63
+51
+21 29 2.71
+L
+6 29
+8
+99
+79
+14
+2
+41 78 3.64
+
+Pos. B
+2B
+SS
+3B
+RF
+CF
+LF
+C
+3B
+IF
+C
+P
+THR
+R
+R
+R
+R
+L
+R
+
+1936 NEW YORK
+Name
+L. Gehrig
+T. Lazzeri
+F. Crosetti
+R. Rolfe
+6. Selkirk
+J. Powell
+J. Maggio
+B. Dickey
+M. Hoag
+B. Chapman
+J. Glenn
+R. Ruffing
+Pitchers
+R. Ruffing
+M. Pearson
+B. Hadley
+L. Gomez
+J. Broaca
+P. Malone
+J. Murphy
+
+YANKEES
+
+Pos. B 6
+AB
+R
+1B L 155 579 167
+2B R 150 537 82
+SS R 151 632 137
+3B L 135 568 116
+RF L 137 493 93
+CF R 87 324 62
+LF R 138 637 132
+C L 112 423 99
+OF R 45 156 23
+OF R 36 139 19
+C R 44 129 21
+P R 53 127 14
+W
+THR
+L
+6
+R
+20 12 33
+R
+7 33
+19
+R
+14
+4 31
+7 31
+L
+13
+7 37
+R
+12
+4 35
+R
+12
+R
+9
+3 27
+
+FA
+H 2B 38 HR RBI BB 50 SB BA
+205 37 3 49 152 130 46 3 .354 .994
+154 29 6 14 109 97 65 8 .287 .968
+182 35 7 15 78 90 83 18 .288 .948
+181 39 15 10 70 68 38 3 .319 .957
+152 28 9 18 107 94 60 13 .308 .974
+99 13 3 7 48 33 30 16 .306 .976
+206 44 15 29 125 24 39 4 ,323 .978
+153 26 8 22 107 46 16 0 .362 .976
+7 16 3 .301 .955
+47 9 4 3 34
+37 14 3 1 21 15 20 I .266 .965
+35 7 0 1 20 20 10 1 .271 .970
+37 5 0 5 22 11 12 0 .291 .986
+H
+K
+C6
+IP
+BB
+ERA
+65
+33
+25
+271 274
+90 102 3.85
+31
+15
+223 191 135 118 3.71
+17
+8
+174 194
+89 74 4.34
+30
+10
+189 184 122 105 4.38
+27
+12
+206 235
+66 84 4.24
+9
+5
+135 144
+60 72 3.80
+5
+2
+88
+90
+36 34 3.38
+
+1934 ST. LOUIS CARDINALS
+FA
+R H 2B 3B HR RBI BB SO SB BA
+AB
+Pos. B 6
+Name
+1B 5 154 600 116 200 40 12 35 128 57 50 2 .333 .991
+R. Collins
+F. Frisch
+28 5 140 550 74 168 30 6 3 75 45 10 11 .305 .977
+146 500 S 62 130 26 5 3 70 33 40 2 .260 .957
+L. Durocher
+55
+P. Martin
+3B R 110 454 76 131 25 11 5 49 32 41 23 .289 .936
+RF S 154 647 106 184 35 3 11 72 49 56 10 .284 .975
+J. Rothrock
+CF L 105 337 39 101 14 4 0 31 27 31 6 .300 .986
+E. Orsatti
+LF R 149 620 110 198 40 18 18 106 21 83 3 .319 .960
+J. Medwick
+C R 107 347 45 104 22 4 9 65 34 27 0 .300 .988
+S. Davis
+IF R 100 332 55 92 13 5 1 24 12 19 5 .277 .959
+B. Whitehead
+C L 93 253 41 80 18 3 13 40 41 37 1 .316 .980
+B. Delancey
+OF R 69 199 21 52 9 I 0 26 14 11 4 .261 .969
+C Fullis
+5 3 0 .271
+3 19 2 0 0 16
+IF L 61 70
+P. Crawford
+7 17 4 1 1
+4 11 0 .236
+8
+B. Mills
+OF R 29 72
+H
+K
+ERA
+THR
+L
+6 W 6S
+C6
+IP
+BB
+Pitchers
+30
+7 50
+R
+312 288
+33
+24
+75 195 2.65
+D Dean
+P. Dean
+R
+19 11 39
+26
+16
+233 225
+52 150 3.44
+T. Carleton
+R
+16 11 40
+31
+16
+241 260
+52 103 4.26
+12
+4 24
+L
+19
+10
+153 160
+66 76 3.12
+B. Walker
+163 195
+66 70 4.25
+L
+8 12 32
+26
+10
+B. Hallahan
+2
+4 32
+7
+1
+49 27 5.49
+J. Haines
+L
+82 114
+R
+1
+1 19
+4
+1
+62
+14 33 3.66
+59
+D. Vance
+
+Continued on page 36
+
+23
+
+Operation Apocalypse: A Review and Campaign Scenario
+by Paul Todd and Russell Sipe
+the blink of an eye (no speed problems with this
+one like COMPUTER AMBUSH). For combat
+modifiers the computer factors in terrain (for
+attacker and defender), unit type and mode, and
+adjacent friendly and enemy units. If after combat
+a unit still has movement points left it can
+continue to move. Movement points are subtracted
+for enemy zones of control (less is subtracted at
+night). The program even has reinforcements
+arriving pseudo-randomly and calculates the
+victory conditions at the end of the scenario. You
+can play all the scenarios for many turns after
+they are officially over if you want.
+
+OPERATION APOCALYPSE is the second
+game Strategic Simulations has put out by Rodger
+Keating, REBEL FORCE (hereafter RF) being his
+first. The game simulates in an abstract fashion
+four engagements between the Germans and
+Americans in World War II. Operation MarketGarden (the Allied attempt to breach the Siegfried
+Line through a combined airborne and regular
+infantry assault) is represented by two scenarios,
+one being similar to the air drop at Arnhem and
+the other being similar to XXX Corps advance up
+the highway. There is an invasion scenario and a
+scenario that is a general advance to contact
+situation with the winner holding the most towns.
+
+The map contains six types of terrain as well as
+rivers, all in color. The units are black and white
+which causes some difficulty in unit identification
+but facing is different for both sides so with a little
+practice there isn't much problem. Unlike RF you
+can see the terrain under any unit at the stroke of a
+key. Another significant improvement over RF is
+the ability, through the use of a pause function, to
+leave a unit temporarily in order to move another
+unit out of the way.
+
+When I say the simulation is abstract I only
+mean that historic references like unit designations and town names are not involved. The
+actual tactical feel is very realistic. This game has
+it all: off board artillery, bunkers, landing craft,
+engineers (they even build bridges), hidden units,
+infantry river assault, pseudo-random terrain set
+up, paratroop drops, panic movement, night turns,
+flak and anti-tank units and beautiful hi-res
+graphics.
+
+The use of unit modes is another improvement
+on the RF system. Units can be in one of six modes:
+attack, normal, transport, reorganization,
+defense, river (infantry), fire (tanks), or bridge
+building (engineers). Each mode has it's special
+effects on movement and combat, which the
+computer keeps track of (and you better too if you
+want to win). The different modes, especially
+reorganization, forces you to direct your army in
+an historically correct manner. (I lost several
+units to off-board artillery by reorganizing too
+close to the front).
+
+The physical components are standard SSI
+quality. You get two plastic covered player aid
+cards with a blank map board, turn record chart,
+command quick reference chart, and unit mode
+chart. You also get a scenario selection card with
+reinforcement schedule and victory conditions for
+each of the four scenarios. Also included is a very
+well written rule book and four felt tip pens.
+The program itself is great! It handles everything. You cannot make an illegal move. All the
+combat and movement modifiers are calculated in
+25
+
+OPERATION APOCALYPSE is a two player
+game. But if you can't find someone with which to
+play, the computer plays a good game. There are
+no less than four levels of solitaire play. The
+computer can even play both sides. The game
+contains sufficient tactical problems and
+complexity to give it a realistic feel.
+
+GERMAN STRATEGIC VICTORY. If the Allies
+score a decisive victory then the second and third
+scenario, Advance to Contact, is played. Points
+are awarded the victor of a scenario according to
+the Scenario Point Table. After playing the
+scenarios and adding up the points consult the
+Campaign Victory Table to determine the overall
+results.
+
+OPERATION APOCALYPSE runs on an Apple
+II computer (48K with Applesoft in ROM. $59.95.
+
+by R.S.
+
+by P.7'.
+SCENARIO POINT TABLE
+
+The four scenarios of OPERATION APOCALYPSE can be linked together in a semi-historical
+order to create an interesting campaign for two
+players or a player versus the computer.
+
+Allied
+Allied
+Allied
+Decisive Substantive Marginal
+Victory
+Victory
+Victory
+1. Invasion
+
+The campaign involves playing the four
+scenarios of OPERATION APOCALYPSE in the
+following order: Invasion represents D-Day; Bridgehead represents Operation Market; Highway represents Operation Garden; and Advance To Contact
+represents a general engagement in a valley somewhere in France or Germany.
+
++4
+
+2. Bridgehead
+
++3
+
++1
+
+German
+German
+German
+Marginal Substantive Decisive
+Victory
+Victory
+Victory
+-1
+
+Any Allied Victory +3
+
+-3
+
+-6
+
+Any German Victory -2
+
+3. Highway
+
++4
+
++2
+
++1
+
+-1
+
+-2
+
+-3
+
+4. Advance
+
++3
+
++2
+
++1
+
+-1
+
+-2
+
+-3
+
+CAMPAIGN VICTORY TABLE
+POINT TOTAL
+
+It is possible that the campaign will not require
+all four scenarios to determine a winner. The
+campaign can be shortened by either player based
+on the results of the battles actually fought.
+The first scenario, Invasion, is critical to the
+whole campaign, just as the events of D-Day and
+Operation Overlord were critical to any future
+campaign in France. If the German player scores
+a Decisive Victory in the first scenario the
+campaign is immediately concluded with a
+
+CAMPAIGN RESULT
+
++6
+
+Allied Superior Victory;
+
+Allies win war in Dec. 44
+
++5 to +3
+
+Allied Strategic Victory;
+
+Allies win war in May 45
+
++2 to +1
+
+Allied Victory;
+
+Allies win war in Dec. 45
+
+0
+
+European Campaign Fails
+
+-1 to -2
+
+German Victory;
+
+-3 to -5
+
+German Strategic Victory:
+
+Operation Sea Lion Revived
+
+-6 less
+
+German Superior Victory;
+
+Germans win the war
+
+Peace with Germany intact
+
+yourself. You can learn a lot faster and a lot less
+expensively by watching others. ED. NOTE — Mr.
+Hirschfeld's first point is well taken. However
+please do your reconnaissance with style . Don't
+crowd a stranger to watch the game. Some players
+resent close quarter observation of their play. Use
+good sense and common courtesy while performing
+your reconnaissance. By Teamwork, the second
+step, the author simply means that players should
+share their ideas with one another. The other steps
+are apparent. Following the chapters on the games
+themselves, Hirschfeld even has a chapter on
+exercises for the video-gamer (hands, eyes, and
+fingers).
+
+MICRO - REVIEWS
+HOW TO MASTER THE VIDEO GAMES
+HOW TO MASTER THE VIDEO GAMES is
+a 177-page book that bills itself as the first complete
+guide to the 30 most popular coin-operated arcade
+games. The book, written by Tom Hirschfeld, is
+published in paperback by Bantam Books ($2.95).
+
+The games themselves are divided into five
+categories: Space Invaders-Type Games; Asteroids-Type Games; Maze Games; Reflex Games;
+and Miscellaneous Games. The Space-InvaderTypes include Astro Blaster, Astro Fighter,
+Centipede, Galaxian, Gorf, Moon Cresta, Phoenix,
+Pleiades, Space Invaders and Space Invaders Part
+II. The Asteroids-Types include Asteroids, Aster-
+
+After a couple of short introductory chapters
+Hirschfeld lists "Seven Steps to Mastery" of the
+games. They are: 1) Reconnaissance; 2) Teamwork;
+3) Concentration; 4) Tempo; 5) Observation; 6)
+Experimentation; and 7) Memorization. The first
+step is obvious but often unheeded, observe the
+game being played several times before playing it
+26
+
+oids Deluxe, Defender, Scramble, Space Fury,
+Space Odyssey, and Star Castle. Maze Games
+include Armor Attack, Berzerk, Pac-Man, Rally-X,
+Targ, Venture and Wizard of Wor. There are three
+games in the Reflex cat-agory: Monaco GP, Sky
+Raider and Space Zap. The Miscellaneous
+category also has three games: Battlezone, Crazy
+Climber and Missile Command.
+The book is just the ticket for the game player
+who wants to be more than a novice. If you really
+want to enjoy the coin-operated arcades take a few
+of those spare quarters and pick up HOW TO
+MASTER THE VIDEO GAMES, you'll come out
+ahead in the long run.
+Stanley Greenlaw
+
+GENETIC DRIFT
+
+WEBSTER'S MICROCOMPUTER
+BUYER'S GUIDE
+
+GENETIC DRIFT has an original if not
+realistic theme. At the center of the monitor
+surrounded by drifting mutated life forms, your
+mission is to turn them into friendly life
+forms. Since TV is such an important part of our
+lives, the friendly life forms are represented by TV
+sets--shades of "My Favorite Martian" reruns.
+
+Although most of us don't often buy $25.00
+books, here's one that you might find interesting.
+Webster's Microcomputer Buyer's Guide is
+over 300 pages of industry information. An evening
+with this book and you'll be an instant authority.
+The book documents almost every foreign and
+domestic manufacturer and is also a primer on
+programming languages, memory storage systems,
+software, microprocessors, communications networks and many other related products. All very
+well done and interesting reading.
+
+At the start of the game you are surrounded by
+sixteen mutants; four in each of the cardinal
+directions. As the mutant life forms drift from side
+to side they sling genetic garbage at you. Three
+hits with that junk and you're gone. To defend
+yourself, and your precious genes, you have a
+diamond-shaped turret from which you fire your
+mutation gun in an effort to change the unfriendly
+forms into friendly ones. The mutants floating
+around you at the start of the game are about
+midway through the evolution cycle. If you succeed
+in turning all four mutant forms on the same side
+of the screen into friendly TV forms you will begin
+to be bombarded with hearts. Don't shoot these
+symbols of good will as hitting a heart will in most
+cases cause the forms sending the heart to
+destabilize into a form more alien than the original.
+From time to time a group of friendly life forms
+will send their heart upside-down. These must be
+shot to invert the heart or the whole side destabilizes.
+
+Chapter 1. Introduction Microcomputers and Systems.
+Chapter 2. Peripheral Devices for Microcomputers.
+Chapter 3. Introduction to Microcomputer Software.
+Chapter 4. A Summary of the Basic Language.
+Chapter 5. The Big Future for Desktop Personal Computers.
+Chapter 6. Guidelines for Selection of Microcomputers.
+Chapter 7. Microcomputers and Word Processing.
+Chapter 8. Future Trends in Microprocessing.
+Chapter 9. Communications and Networking with Computers.
+Chapter 10. Microcomputers in Education.
+Chapter 11. Independent Z80 & 8080 Based Software Products.
+Chapter 12. Independent TRS-80 Software Products.
+Chapter 13. Independent Apple Computer Software Products.
+Chapter 14. Independent Commodore Software Products.
+Chapter 15. Independent Motorola 68XX Software Products.
+Chapter 16. Microcobol for Microcomputers.
+
+If you succeed in turning all sixteen mutants
+into friendly forms, the High Mutant (an oversized
+TV set) congratulates you by sweeping the board
+clean of mutants. Then follows the next round
+which, of course is more deadly than the last.
+
+The book's only shortcoming is that some of the
+information is already out of date. The industry is
+just changing too fast. For example, the new IBM
+personal computer is not included. But if you want
+or need a rapid education about the microcomputer
+industry, this book will help you at least know the
+right questions to ask. That in itself could be worth
+a great deal.
+
+Avoid going on a shooting spree. This game is
+not for the over-zealous slash-and-hack player.
+You can't shoot wildly at anything that moves for
+you might hit your friends, the TV sets, who will be
+destabilized and revert to the lowest life form.
+
+Gene Allen
+
+Starting at Level 3, as if you didn't have enough
+27
+
+problems, radioactive hunks of critical mass will
+begin whirling around you. These must be
+destroyed quickly as they are closer to you than
+the mutants, you might not see their missiles until
+it is too late.
+
+destroyed-by-your-weapons games. While many
+versions of the ADFTSBDBYW type of game are
+very similar to the coin arcade games that they
+were based upon, this one has a flavor all it's own.
+The difference lies in the fact that you have a
+variety of weapons at your disposal rather than
+the ubiquitous missile firing ship. Your weapons
+include two multi-barreled precision cambered
+meanie blasters, one ultra-sensitive wide-range
+multi-frequency redar, one government surplus
+anti-thud rocket, and one Van Apple Rediation
+(sic) Belt repair kit.
+
+Level four has the critical mass still present, but
+now when you shoot them, they evolve. They
+mutate into things such as diamonds, spheres,
+and fiendishly grinning happy faces. As for what's
+beyond Level 4, your guess is as good as mine. I
+cannot imagine anyone getting so far except
+someone who is a mutant himself.
+
+Play involves blasting the invaders before their
+bombs strike your defensive installations. One of
+your strategies, therefore, should be to be selective
+about which bases you protect. If you lose your
+radar your blasters become less effective. If you
+lose your missile launcher you can't fire your
+rocket which will wipe out all the aliens on the
+screen. If you lose your Van Apple Rediation Belt
+repair kit you won't get a new Belt of protection
+every few thousand points. And if you lose both
+blasters the game is over. It is very difficult to
+defend all of these and remember, to defend everything is to defend nothing. Try covering the center
+and one blaster as the loss of one blaster will not
+greatly effect the game.
+
+This is not a game for the pondering thoughtful
+player. I would recommend this game to arcade
+addicts only. The game can become extremely
+angering especially when you've got all but one
+form turned into a TV set and while waiting for it
+to come back into range you notice the heart
+peacefully drifting toward you from the rear is
+UPSIDE DOWN. Quickly you lunge at the
+keyboard. Too late. "Well, I didn't care about
+seeing the next level anyhow. I don't know why I
+play this infuriating game. I could be doing more
+productive things with my life" you say, as you
+reach for the return key to start a new game.
+GENETIC DRIFT is definitely habit forming!
+definitely exciting! definitely fun!
+
+IT IS HIGHLY RECOMMENDED THAT YOU
+USE A JOYSTICK TO PLAY THIS GAME. The
+rules proclaim that those who play the game with
+paddles are "brazen" (i.e. marked by contemptuous
+boldness). Even with the joystick RED ALERT
+requires the reflexes of a seasoned arcade player.
+
+GENETIC DRIFT by Broderbund Software,
+runs on the Apple II computer with 48K in RAM.
+The price is $29.95.
+
+A good game for arcade players, RED ALERT
+runs on the Apple II computer with 48K in Integer
+basic.
+Luther Shaw
+
+WALL STREET
+WALL STREET, by CE Software, is a stock
+market game using the stock market as it's vehicle.
+In the designer's notes section of it's rulebook
+Donald Brown, the author, says "Any similarities
+between it (WALL STREET) and real life are
+largely coincidental". While written with tongue
+in cheek the statement is, none the less, true.
+WALL STREET isn't much of a simulation of the
+stock market; rather it can better be described as a
+game which uses the stock market as it's vehicle.
+
+RED ALERT
+Flee for the hills! Here come the bareboned
+thudputters! Can you imagine. Educated adults
+staying up all night to blast thudputters and space
+meanies? Of course you can, because you've
+probably spent a night or two blasting one alientype or another yourself. Well, here's another in
+the long line of aliens-dropping-from-the-skies-being
+
+The game involves buying and selling of stocks
+on a simulated stock market made up of thirty
+stocks. The stocks are divided up into six areas:
+computer, entertainment, oil, automotive, retail,
+and appliance. The names of real companies are
+used. For example the computer stocks are Apple,
+28
+
+a scenario or allow you to choose your own.
+Scenarios include the following variables: type of
+product (necessity, luxury, or mixed), costs of raw
+material (fluctuating seasonally or randomly, or
+based on the demand in your game), inflation (low,
+controlled, high or runaway), economic rate (from
+slow decline to strong expansion), and there even
+exists a chance of an economic swing, up or down.
+All together these variables do provide a wide
+variety of possible game backgrounds and situations against which you may compete in the
+marketplace. The market simulations seem quite
+good although even the manual admits that beyond
+40 quarters the economic simulation begins to
+break down.
+
+Tandy, IBM, DEC, and another of the gigantic
+computer megacorporations, CE Software.
+Most traditional stock market games are built
+around buying on margin or on selling short.
+WALL STREET uses the latter approach. Selling
+short involves selling stock that you don't own.
+They really do that on Wall Street folks! The trick
+in "selling short" is to sell the stock when it is high
+and deliver the stock when it is low. What the
+player is doing is trying to make money on a stock
+that he feels is going down in value.
+Another important element in the game is the
+buying of information. There are five levels of
+information gathering. Each level is five times
+more expensive than the previous level and
+increases your chance of getting secret market
+information by 10%. The highest level gives a 50%
+chance of picking up information and costs $6,250
+per week. The next lower level is 40% but the cost is
+only $1,250 per week. Is the 10%, increase in chance
+of getting information worth a five fold increase in
+cost? Most of those with whom I have played the
+game think not. The 40% level is the most popular
+level.
+
+Among the program features are several one
+shot bits of chrome that become tedious upon the
+third or fourth repetition, such as a moving
+high-res graphics interlude that must slow processing of the turn, and the programmer's version
+of witty sayings that soon repeat. These combined
+with the rendition of "We're In the Money" at
+program start leave one with the impression of a
+glossy version of Lemonade Stand, which is
+unfortunate.
+
+After playing the game several times I believe
+that the program sets up patterns for certain
+stocks. I am somewhat tentative in this statement
+exist,hy because of the fact that if the pattern
+are subtle. For example, in a recent game we noted
+that one particular oil stock seemed to lag one day
+behind the others in type of action. If the other four
+changed from an up day to a down day the stock in
+question would make the same change only do it a
+day later. If you find any patterns in the game
+please drop a note to CGW. I'd like to read about it.
+
+The most refreshing feature is the ability to play
+a hard-copy game. I believe this to be the most
+convenient way to play, allowing everyone to view
+his reports of which there are many. This reviewer
+does so much work with terminals that my eyes
+begin to cross, especially with the low quality of
+most Apple monitors (i.e. T.V. sets). Thus a hardcopy of the reports is most pleasant. This feature
+also makes the program ideally suited to use by
+high school instructors, in courses in microeconomics, who wish to set up class participation.
+The program also allows the use of paddles to page
+through the reports but most will find this of little
+real benefit.
+
+One of the best features of the game is the ability
+to list the day's stock quotes on a printer. This has
+two advantages over viewing the quotes on a CRT.
+First, you must flip through several "pages" of the
+daily report to see all the stocks on a CRT. Second,
+hard copy allows you to get a history on a stock.
+
+There are many random events to make play
+more interesting, such as fires, strikes and
+solicitation by charities. These are well executed
+and allow interaction by players with the program.
+Beginners are aided by a special memo which
+points out basic strategies and hints. They are
+helpful but usually not much more than common
+sense. The packaging is typical SSI. The large
+spacious box (which allows the game disk to slip
+out of its cover--beware) contains a well printed
+manual, short rule card and planning sheets.
+While the manual is a good introduction to microeconomics, it ' s a poor intro to the game program,
+resulting in some play being necessary to familiarize yourself.
+
+WALL STREET, by CE Software, runs on the
+Apple II Computer with 48K and Applesoft in
+ROM.
+Daniel Hockman
+
+CARTELS & CUTTHROATS
+SSI's Cartels & Cutthroats presents to the
+computer gamer a well executed economic simulation. The premise of this game is that you (and
+your fellow players) own companies which produce
+some item or commodity. The exact item is not
+specified.
+
+While an excellent program, the casual gamer
+may find his interest wane after a short time. This
+game is best suited for those who are interested in
+
+During set-up the computer will randomly generate
+29
+
+marketing simulations and are willing to expend
+the time needed to play them well.
+
+tants of Arcturon will blow up the planet to avoid
+being made slaves of the invading Griplems.
+
+Robin D. Roberts
+
+Your evacuation ship is controlled by the paddle
+which moves it up and down on the screen and the
+paddle button fires your laser. Every once in a
+while, a space storm will occur. This means the
+attacking ship will be thrown about in a random
+fashion, making it extremely hard to hit. The
+transport ship attacks straight on. The commando
+ships are very small and fast and come in on an
+angle. The third type are the slowly moving
+fighters.
+The high score for each mode is saved on disk
+which is a nice feature. The graphics are good in
+the "Fortress" mode and outstanding in the
+"Escape" mode. As current arcade games go,
+however, ESCAPE FROM ARCTURUS tends
+to be a little simplistic.
+ESCAPE FROM ARCTURUS, by Synergistic
+Software, runs on the Apple II computer with 48K
+in RAM. Paddles and disk drive are required. The
+price is $35.00.
+
+ESCAPE FROM ARCTURUS
+ESCAPE FROM ARCTURUS is played in
+two modes. In the "Space Fortress" mode you are
+surrounded on all sides by alien attack bases
+which are firing photon torpedoes at you. You
+cannot destroy these bases, you simply try to
+survive as long as possible. The G J Y and Space
+keys form the diamond-shaped pattern that fires
+your gun. You can take three hits from photon
+torpedoes before you are destroyed, and you get a
+bonus ship after 2000 points for doing so. If you
+shoot and hit nothing, it deducts 10% from your
+energy supply. When your energy supply reaches
+zero, you cannot fire. Every time you hit a photon
+torpedo or attacking ship, you add 1% to your
+energy supply. When they start making shield
+attacks, the shields slowly move toward you while
+the bases are firing photon torpedoes. These shields
+protect the photon torpedoes so you have to wait
+until the photon torpedoes get close to shoot them.
+There is a 200 point bonus for surviving a shield
+attack. After the shield attack comes the circling
+attack ships which are worth 50 points. After you
+survive the circling attack ships, the bases start
+firing photon torpedoes again only this time the
+action is a lot faster. Later on, you will be attacked
+by spiraling ships, worth 50 points.
+
+Bob Boyd
+
+ON-LINE ADVENTURE GAMES
+MISSION: ASTEROID, MYSTERY HOUSE and
+THE WIZARD AND THE PRINCESS (three
+adventure type games by On-Line Systems)
+follows the traditional two-word adventure game
+format, with one interesting exception. In addition
+to a text description you get a hi-res graphic view
+of the scenes.
+
+In the "Escape" mode you evacuate people from
+the planet Arcturon while protecting the planet
+from the attackers from outer space. The attack
+comes from three types — troop transport saucers,
+commando ships, and fighters. They are all worth
+10 points each. If one of the ships reaches
+Arcturon, one of your factories is destroyed. You
+start the game with three factories. At each 1000
+points, you gain another factory. As soon as all
+your factories are destroyed, the remaining inhabi-
+
+The gaming system is easy to learn with the
+program containing a basic vocabulary of some
+300-400 words. You give two word commands
+involving a verb and a noun and the computer
+responds with the appropriate actions. Though on
+the surface the system appears uncomplicated, the
+games themselves provoke a flurry of mental
+31
+
+twenty treasures to find, and the battery-powered
+lamp gets dim all too soon. There are two other
+sources of light, but they can be lethal.
+
+activity. All of your wits are needed as you
+encounter one problem after another. Solving
+particular situations may take you just a few
+minutes while others may take several hours
+(perhaps even weeks) to conquer.
+
+There are many puzzles to solve: how to put your
+treasures away once you find them, how to get
+west of the timber room (with light, so you don't
+get eaten by a grue), how to open the egg, how to
+get the water out of the reservoir (especially
+without harming yourself), etc. Fortunately, ZORK
+has an exceptionally large vocabulary to accomplish all this.
+
+Movement is totally in your hands as you
+command the computer to perform various actions.
+The color graphics are superb, providing the
+amateur sleuth with surprises and entertainment
+galore. MISSION: ASTEROID is the simplest of
+the group and only requires a few hours to solve.
+MYSTERY HOUSE is considerably more difficult
+and provides many traps for the unwary in a
+wonderfully Victorian setting. THE WIZARD AND
+THE PRINCESS has the best graphics and has a
+beautiful fairy tale setting as its theme. Of the
+three it was the most challenging and should be
+attempted only after you are familiar with the
+gaming system.
+
+If you have trouble finding out where the
+dungeon is, the trap-door is under the rug in the
+living room of the house. If you have trouble
+getting in the house at all, look for a window. Any
+further clues would spoil the fun, so I'll keep mum
+from here.
+ZORK is a program that is worth the money for
+anyone even mildly interested in adventure games.
+Those that like puzzles will have their fill, I'm
+sure. Master adventurers will even take a while on
+this one.
+
+The only drawback to most "adventure" type
+games is the necessity of limiting commands to
+just two words. Many actions seem to require more
+words than are contained within the program's
+vocabulary. However, if you experiment enough
+with different terminology, you can overcome this
+potentially frustrating experience. One hint to aid
+you in solving these adventures is to "get " any
+and all objects you can as they will come in handy
+at some point in time.
+
+Deirdre L. Maloy
+
+The "save game" command is a particularly
+useful feature. If you can solve these games in one
+sitting you are truly a master at puzzle solving. It
+will probably take many sittings and you may
+wind up being stumped at some particularly
+difficult point. Have no fear, ON-LINE SYSTEMS
+thoughtfully include a panic number which the
+hopelessly frustrated can call during reasonable
+daytime hours.
+All three games run on the Apple II or Apple II
+Plus computers (48K diskette).
+Mark Marlow
+
+BLITZKRIEG
+BLITZKRIEG is a high-res arcade-type game in
+which the player mans an anti-aircraft gun and
+attempts to destroy enemy bombers and fighters.
+The shells follow a realistic looking trajectory that
+is appealing to the eye. It's fun to watch a well
+aimed shell arch up into the sky, intercept an
+enemy plane and see the succeeding explosion and
+debris knock out other planes. Destruction! Rah!
+There are two versions (1979 and 1980). While the
+old version only ran at one speed, the new version
+has ten speed levels, each level being faster and
+yielding more points for each destroyed plane. At
+low speed levels the shells arch gracefully like a
+well hit 9-iron and the planes glide leisurely by. At
+
+ZORK
+ZORK is an excellent adventure game. It has
+several nice features--it allows more than two
+words in a command, it allows multiple commands
+on one input line, and continually shows both
+score and turns used. Although it does access the
+disk, it is quick--no waiting five minutes for moves.
+Strategy for ZORK is similar to that for any
+adventure game. A map is necessary, as well as a
+list of where things are. In ZORK, there are more
+objects to tote around than in most other adventures, so planning is necessary. There are also
+32
+
+higher quality) In the dungeons, the player kills
+monsters for experience and gold and when the
+character leaves, he will gain hit points. To prevent
+there are several very nasty monsters,
+suthis,
+ch
+as gelatinous cubes which lunch on armor, and
+gremlins which steal food. One thing to remember
+in ULTIMA is that when hit points are gone, they
+are gone for good.
+
+high speed levels the shells are more likely to
+resemble water drops flying out of a fountain and
+the planes streak by ("who was that masked
+bomber?"). Which strategy should you use: slow,
+easy to hit planes that yield small points per plane
+or fast and elusive planes that score big for each
+hit? If you can avoid being taken out by the
+bombers as they drop their deadly loads on your
+gun, the higher difficulty levels will yield the
+higher scores. But be warned, the "if' in the
+preceding sentence is a very large one. While the
+old version had bombers, it was a rare "lucky"
+shot that took out the gun. The bombers in the
+updated version are much more deadly. You will
+find that one of the lifesaving techniques you must
+quickly learn is the fine art of hitting the bombs as
+they come hurling down upon you. I have often
+nailed the bomb just "inches" above my gun. I
+have just as often missed that same bomb and
+payed the penalty of losing the rest of my shots as
+well as the 50 points that are deducted from your
+score in such cases.
+
+As the technology improves, so do the available
+armor and weapons. At first, nothing better than a
+mace will be available, but near the end the player
+can buy (or steal) phazors, blasters, vacuum
+suits and reflect armor. Weapons and armor can
+be stolen from cities and castles, but watch out if
+the character gets caught! If caught in a castle;
+from then on he will always be caught on the first
+attempt to steal in that city.
+The two castles on the map are useful. The king
+can give the character hit points if he gives the
+king gold, and the king will raise statistics or give
+a valuable gem if the character completes a quest.
+One of the quests is to kill a gelatinous cube, which
+can be found on the third floor of a dungeon. The
+other quest is to find the Pillar of Knowledge,
+which can be reached only by boat or air car.
+
+The 1979 version kept tabs on the number and
+types of planes hit as well as missed, but you had
+to decide for yourself the relative value of each kill
+and/or miss. The new version has taken care of
+that by assigning points for each plane type
+relative to the speed level you select. It should be
+noted that fighters are 3 1/2 times more valuable
+than bombers at speed 0 but only 1/5th more
+valuable at speed 9. It is therefore best to
+concentrate on fighters in the low speed games
+(where you have a half-way decent chance to hit
+them) and concentrate on the easier-to-hit bombers
+in the high speed games.
+
+The only real bug this program has is reincarnation. It is possible to be reincarnated into the
+middle of the ocean! Since reincarnation causes
+you to lose many possessions, there is no way of
+getting back on land (you can't walk on water!).
+The only way out is to reset the game or get killed
+by a monster. The other disappointment is
+incomplete documentation, although what is there
+is nice. There are two sides to the diskette, which is
+somewhat confusing at first, since it isn't explicitly stated.
+
+There are many excellent arcade games on the
+market today, but I still find myself coming back
+to BLITZKRIEG as one of my abiding favorites.
+
+Deirdre L. Maloy
+
+BLITZKRIEG, by Programma/Hayden, runs
+on the Apple II (32K min.)computer. It is written in
+machine language. $19.95
+Daniel Hockman
+
+THE BATTLE OF SHILOH
+ULTIMA
+
+On April 6, 1862, General Albert Sydney
+Johnston led his 45,000 confederate troops in a
+desperate attempt to save western Tennessee from
+invasion. Johnston's plan was to catch the army
+of U. S. Grant by surprise and capture their camp
+and supply points on the Tennessee River. It
+almost worked, but the outnumbered Northern
+forces wouldn't give up. They kept the Confederates
+from breaking through to the river on the first day,
+and that night 25,000 fresh Union troops ferried
+across. On April 7, Grant counter-attacked and
+drove the Southerners from the field.
+
+ULTIMA is one of the best computer fantasy roleplaying games to date. It is also one of the few
+games that allows the use of two disk drives (in
+fact, it is better if you have two). One unique
+feature of ULTIMA is that the technology
+improves as the game goes on. At the end, the
+player is in outer space, in a very well-done arcadelike segment.
+The dungeons in ULTIMA are drawn in 3D
+graphics (similar to those in AKALABETH, but of
+33
+
+periods of inactivity longer than 5 seconds or so.
+The game is absorbing; you are constantly making
+decisions and watching for weaknesses in the
+enemy.
+
+THE BATTLE OF SHILOH by SSI allows you
+to refight this battle in a few hours. You can play
+against a friend or play either side against the
+computer. You can even have the computer play
+both sides if you like spectating.
+
+THE BATTLE OF SHILOH, by Strategic
+Simulations Inc., runs on a 48K Apple II with
+Applesoft in ROM (or equivalent). $39.95
+
+The game is much like a board wargame. It is
+played on a map covered with hexagons, 11 high
+by 19 wide. When you start the game, you have two
+options which are very nice touches: you can omit
+the hexagons -- it's easy to play with out them and
+the map looks better -- and you can indicate
+whether you're using a B&W or color monitor. In
+color, the map looks very nice -- the white brigades
+(little men pointing rifles) stand out readily
+against the blue rivers and streams, green woods,
+and orange hills.
+
+Bob Proctor
+
+THE SHATTERED ALLIANCE
+
+The 16 Confederate brigades enter on the left
+side (South) and try to capture Pittsburg Landing
+on the right edge. Between them and their goal are
+14 Union brigades who must slow down the
+attack, standing their ground when they can and
+retreating when they must. Each brigade has a
+combat strength based on its historical performance but this strength will change constantly
+with combat losses and reinforcements. A point
+system keeps track of losses and lets you know
+how you're doing compared to the actual battle. It
+is fairly easy for the Union forces to hold out until
+evening (when 11 fresh brigades arrive) but very
+hard to do so without losing the game due to heavy
+casualties.
+
+Rome attacking the Gates of Mordor; Gondor vs.
+the Vikings; it's all possible with THE SHATTERED ALLIANCE from SSI. It offers a choice
+of seven scenarios plus many you can create with
+the fourteen armies provided. This game has the
+new Rapid-Fire system which makes the game
+play as fast as you can type in the orders with the
+maps and units shown in beautiful hi-res color. To
+play, you must first pick a scenario - historical,
+fantasy, or a little of both. Once the game is set up
+and the armies displayed, the computer will begin
+the game by lighting one of the units. Now you
+enter your command. The flashing unit can either
+use spells, be moved, or attack. As soon as you key
+it in, it's done -no waiting for the computer. Play
+continues until one army's morale reaches zero.
+That army then sounds retreat and routs.
+
+My major complaint about SHILOH is the
+manner in which the designer compensated for
+the weakness of the computer. It has trouble
+moving units efficiently, so to make up for this it
+gets to move them farther. Computer-controlled
+units get about double the movement allowance of
+the same forces under human control. This seems
+to be too much; it certainly produces drastic
+differences in strategy in what is primarily a game
+of maneuver. I think human vs. human is the best
+game for both balance and historical accuracy.
+
+Combat can be by melee or missile weapons with
+all weapons getting bonuses or handicaps, dependent upon the opposing troop ' s type and armor,
+(i.e. a javelin works better against light infantry
+than it does against heavy cavalry). The five types
+of terrain also affect the battle. After each battle,
+the forces are modified to reflect casualties, and
+the updated force list is shown. Various spells may
+also be used which can provide greater mobility,
+protection from attack, combat effectiveness, or
+increased troop morale.
+
+You can choose to play either the full 2-day
+battle or just the first day. In the 2-day affair, the
+South will always be ahead after the first day and
+must try to hold on to this lead. In the 1-day game,
+the North gets 75 extra points, about right for a
+game between 2 humans but not enough to hold off
+the computer. If you find the regular game too
+hard or too easy, you can increase or decrease the
+strength of each side independently. Unfortunately,
+you can't change their movement allowance.
+
+Play is offered in three forms: player vs. player,
+player vs. computer, and computer vs. computer.
+An excellent feature of this game is that the
+computer can play either side. This way you can
+never feel the computer has the advantage as, in
+the next game, you can play the opposite side of
+the same battle. There are also two skill levels,
+beginner and advanced, which can modify the
+scenario by adding to an army's strength and/or
+morale.
+
+This is a very well designed product. Although it
+will take at least 2 hours to play the first day (and
+as much as 5 hours for both days), there are no
+34
+
+Continued from page 22
+never materializes. A hatch won't open. The game
+sometimes hangs up. And, when these difficulties
+are finally surmounted, and victory is achieved,
+the end of the game is a bit of a let-down.
+
+Scenarios are saved on a scratch disk, which the
+program initializes, but you must supply. Games
+may be saved, in progress, on the same scratch
+disk. The game's limitations lie in that the most
+units any army has is eight, and the armies are all
+predetermined. You must choose from the armies
+given, which cannot be modified in anyway.
+Additionally you are limited as to which armies
+you can pit against each other. For example, you
+cannot put the Roman army on both sides of the
+battle. Neither can you match Carthage against
+Rome to recreate battles in the Punic Wars
+(although both armies are in the game system).
+SSI says that they can put out a utility disk which
+will not only allow you to pit any of the armies
+against one another, but will also allow you to
+make up the composition of the individual units
+themselves. SSI will make this disk available if
+there is enough interest. If you are interested, drop
+them a note.
+
+Still, PROTECTOR represents a breakthrough
+of sorts. The music in the program is excellent, and
+remains constant throughout the game--with the
+result of adding much character to its play. When
+your ship is downed, an ambulance shoots out to
+drag you away. The overall result is humorous--at
+least until frustration sets in!
+It's been nearly a year now since Atari let its
+secrets out. The rewards are now beginning to be
+realized. Atari graphics are far and away the best
+around; this fact is even more apparent from these
+and other third party software vendors.
+
+Continued from page 23
+1976
+
+CINCINNATI
+
+Name
+T. Perez
+
+The above mentioned problem aside, the graphics
+are excellent, and the Rapid-Fire system makes
+playing fast and easy. All in all, I feel THE
+SHATTERED ALLIANCE is a very enjoyable
+game.
+
+Pos. B
+III
+
+J. Margin
+
+R
+
+H
+
+2B 3B HR RBI
+
+527 77 137 32
+R 139
+2B L 141 472 113 151 30
+
+6 19
+
+FA
+
+50 88 10 .260 .996
+
+5 27 111 114 41 60 .320 .981
+
+R 152 576
+
+9
+
+69
+
+P. Rose
+
+3B
+
+S 162 665 130 215 42
+
+6 10
+
+63
+
+86 54
+
+K. Griffey
+
+RF
+
+L 148 562 111 189 28
+
+9
+
+6
+
+74
+
+62 65 34 .336 .979
+
+2
+
+49
+
+56 95 22 .307 .985
+
+9 29 121
+
+52 89 17 .306 .994
+
+162
+
+74
+
+7
+
+28
+
+C. Geronimo
+
+CF
+
+L 149 486
+
+59 149 24 11
+
+6. Foster
+
+LF
+
+R 144 562
+
+86 172 21
+
+C
+UT
+
+49 68 21 .281 .968
+9 .323 .969
+
+R 135 465
+
+62 109 24
+
+1 16
+
+74
+
+81 95 13 .234 .997
+
+L
+
+32
+
+54 11
+
+1
+
+7
+
+44
+
+43 32 14 .247 .994
+
+98 219
+
+D. Flynn
+
+IF
+
+R
+
+93 219
+
+20
+
+62
+
+5
+
+2
+
+1
+
+20
+
+10 24
+
+2 .283 .985
+
+M. Lue
+
+OF
+
+L
+
+84 136
+
+15
+78 20
+
+31
+
+5
+
+1
+
+3
+
+20
+
+22 24
+
+0 .228 .999
+
+23
+
+3
+
+2
+
+2
+
+7
+
+6 22
+
+7 .295
+
+17
+
+37
+
+6
+
+1
+
+6
+
+23
+
+16 26
+
+0 .298
+
+E. Armbrister
+
+OF
+
+R
+
+73
+
+B. Bailey
+
+OF
+
+R
+
+69 124
+
+Pitchers
+
+THR
+
+M
+
+6. Nolan
+
+R
+
+15
+
+L
+9
+
+6
+
+6S
+
+C6
+
+IP
+
+H
+
+34
+
+34
+
+7
+
+239
+
+232
+
+K
+
+ERA
+
+27 113
+
+3.46
+
+BB
+
+P. Zachry
+
+R
+
+14
+
+7
+
+38
+
+28
+
+6
+
+204
+
+170
+
+83 143
+
+2.74
+
+F. Norman
+
+L
+
+12
+
+7
+
+33
+
+24
+
+8
+
+180
+
+153
+
+70 126
+
+3.10
+
+D. Gullett
+
+L
+
+11
+
+3
+
+23
+
+20
+
+4
+
+126
+
+119
+
+46
+
+64
+
+3.00
+
+R. Eastwick
+
+A
+
+11
+
+5
+
+71
+
+0
+
+0
+
+108
+
+93
+
+27
+
+70
+
+2.08
+
+P. Borbon
+
+A
+
+4
+
+3
+
+69
+
+1
+
+0
+
+121
+
+135
+
+31
+
+53
+
+3.35
+
+N. McEnaney
+
+L
+
+2
+
+6
+
+55
+
+0
+
+0
+
+72
+
+97
+
+23
+
+28
+
+4.88
+
+CROSSWORD ANSWERS
+
+36
+
+BA
+
+BB SO SB
+
+91
+
+SS
+
+J. Bench
+
+Bob Boyd
+
+REDS
+
+AB
+
+0. Concepcion
+
+D. Driessen
+
+THE SHATTERED ALLIANCE, by Strategic
+Simulations, runs on the Apple II computer (48K
+with Applesoft in ROM). $59.95
+
+6
+
+I
+
+

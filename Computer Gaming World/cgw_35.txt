@@ -1,0 +1,3428 @@
+Number 35
+
+March 1987
+
+FEATURES
+The State of the Industry
+
+6
+
+Entertainment Software Report
+
+Gunship
+
+11
+M. Evan Brooks
+
+Wargame Review
+
+Gemstone Healer
+Scorpion's Tale Gives Playing Hints
+
+Fifty Mission Crush
+A 50 Mission Recall
+
+Space M+A+X
+
+16
+Scorpia
+20
+Leroy W. Newby
+22
+Johnny L. Wilson
+
+A Review
+
+Star Trek: The Promethean Prophecy
+Adventure Game Review
+
+Starflight
+Science Fiction Game Review
+
+Designer Profile
+Interview with Doug Crockford
+
+26
+Scorpia
+34
+Mark Bausman
+40
+Frank Boosman
+
+Blue Powder, Grey Smoke
+
+46
+
+Civil War Game Reviewed
+
+DEPARTMENTS
+Taking A Peek
+
+8
+
+Screen Photos and Brief Comments
+
+Sports Scoreboard
+World Games, Championship Baseball, and more!
+
+14
+Rick Teverbaugh
+
+Micro-Reviews
+
+52
+
+Patton vs Rommel, Strategic Conquest Plus
+
+Reader Input Device
+
+63
+
+Game Ratings
+
+64
+
+From the Editor .. .
+Beginning with this issue CGW will dedicate part of each
+issue to a particular theme. In this issue we take a look at
+"Computers In Flight" with articles on game subjects ranging
+from B-17 bombers in WWII to interstellar adventuring
+across the universe. As an extension of the Computers In
+Flight theme, look for a special article on the history of
+SubLogic's Flight Simulator that will appear in our April issue.
+Themes to be covered in future issues include: Baseball
+Fever! (April); World War II Games (May); Fantasy/
+
+Adventure Gaming (Jun/Jul); Game Design (Aug/Sept):
+Computer Game Hardware (also Aug/Sept); Wargaming
+(Oct); Educational Games (also Oct); Christmas Buying
+Guide (Nov); Football (Dec). As is obvious from this issue,
+the theme material will only comprise a portion of the coverage each time. Game reviews remain our number one priority.
+How are we doing? As always, we like to hear from you,
+our readers. Let us know what you like and/or don't like
+about CGW coverage. Fill out the Reader Input Device found
+in this issue and use 'Comments' section to send us a 'letter to
+the editor'.
+Russell Sipe
+
+C.E.S. REPORT:
+
+ENTERTAINMENT SOFTWARE:
+CONSOLIDATION OR
+INTIMIDATION?
+Would you take a commuter flight if the terminal wasn't even open by 10 minutes before departure time? How would you feel if you did get on
+that little prop plane (flying from Orange County
+to LAX) and discovered it was a training flight?
+Then at LAX how would you feel if hundreds of
+gallons of jet fuel from the plane you were supposed to fly on spilled all over the tarmac and had
+to be cleaned up by the Fire Department? What if
+they couldn't even announce the delay because the
+P.A. in the terminal was malfunctioning? Well, I
+suppose you have to be willing to buck the odds in
+order to go to Las Vegas, even if you're only going
+for the Winter Consumer Electronics Show. Anyway, we made it!
+If you've ever heard the W. C. Field's routine
+where his character claims to have slashed his way
+through "...a wall of living flesh," you can remove
+the violence from that imagery and have a picture
+of the Winter Consumer Electronics Show. It is a
+physically exhausting and mentally stimulating experience of sensory overload as one strives to trek
+through the future of "living better electronically."
+Here are some of the kaleidoscopic impressions of
+the home computer industry as observed through
+the eyes of CGW's editorial staff.
+ANOTHER FINE MSBoth Atari and Commodore have blinked in the
+battle for market share with "Big Blue" by introducing MS-DOS machines. Atari calls their machine
+the Atari PC and it is intended to be fully compatible with the IBM PC, but priced more aggressively. One configuration will retail at $499 and
+comes with monitor and one disk drive. The other
+configuration is more impressive in that it will retail for $699 and includes an EGA adapter and
+monitor. Atari expects to be marketing a full line
+of PC compatibles in 1987, including an AT workalike using a 286 processor and one using the new
+386.
+Commodore introduced two different IBM-PC
+compatibles. Called the PC10-1 and PC10-2, both
+machines use the Intel 8088 microprocessor and
+feature as standard equipment: an RS-232 serial
+port, Centronics parallel port, ATI Graphics Solutions Adapter (monochrome and color display card
+compatible with IBM, CGA, MDA, Hercules and
+
+Planatronics video modes), and five full-sized expansion slots. The PC10-1 has 512K RAM and
+PC10-2 has 640K RAM.
+BORN AGAIN SOFTWARE
+The hardware market isn't the only environment
+where consolidation seems to be taking place. In the
+software market, the emphasis for 1987 seems to be
+on consolidating the market share on existing products rather than focused on developmental innovation. This has shown itself in two different developments: 1) the rise of budget software and 2) escalation of projects for the conversion of existing
+products.
+ELECTRONIC ARTS' Bing Gordon believes that
+EA's release of Software Classics was the first
+salvo in this budget-priced "Disk War." Citing figures which reflect that between June, 1985 and
+June, 1986 the $10-$20 price range was only about
+2% of the total market share. Software Classics
+moved this "low-end" share to 5%. He believes that
+the addition of the Amazing software line (imports
+aimed at the teen male market) will strengthen their
+position. "EA has always stood for simple, hot and
+deep. This line," says Gordon, "should be thought
+of as simple, hot and cheap." Dan Dare: Pilot of the
+Future, an interactive comic book, is the first release in this series which Gordon describes as having a "mission" in the industry. That "mission" is to
+get non-gamers into the ranks of game consumers
+by giving them inexpensive software with positive
+value. He believes that the high-priced arcade
+games of the past left a bad taste in many people's
+mouths and hopes that this value-oriented software
+will change things.
+The show was full of representative booths for
+this budget-priced software. ACCOLADE introduced its Avantage line in 1986 and feels that the
+company is in a class by itself. Peter Doctorow explains that their titles are not simply reissues of
+older titles. Desert Fox, a military simulation, and
+Power, a space-action game, are original designs for
+Accolade which were not quite ready for prime
+time Accolade distribution. Spy vs. Spy is a re-release of the Atari 8 bit hit, but is a flippy which
+has an Apple version of Spy Part II which has
+
+never been released before.
+ACTIVISION has been releasing its Electric
+Dreams imports throughout 1986 (The Rocky Horror
+Show, Spindizzy, Zoids and Titanic: The Recovery
+Mission), and has also started re-releasing some of
+its arcade/action titles (from the 2600 series) as its
+budget-minded Solid Gold line. This line will retail
+at under $15 and the first release is Pitfall!/Demon
+Attack, a flippy which includes both games for the
+price of half the original retail value of one of the
+games.
+MINDSCAPE entered the "Disk War" with its
+new Thunder Mountain division. This division offers a mixed bag of imports (Rambo), re-releases of
+former best-sellers (Voodoo Island), inexpensive
+educational titles (Spelling with the Tink Tonks,
+Pyramid Puzzler), and low-end productivity tools
+
+(Picture Writer, Songwriter).
+STRATEGIC SIMULATIONS is cutting back the
+main product line and blowing out some terrific
+game inventory via their SSI Classics promotion
+
+(Cartels and Cutthroats, Computer Bismarck, Cytron
+Masters, Eagles, Fighter Command, Galactic Gladiators, Geopolitique 1990, and Warp Factor).
+Low-end publishing is also supported by some
+relatively new players. INTERNATIONAL COMPUTER DISC was incorporated in order to export
+software from the U.S.A. to Europe. With the interest in imported software (primarily because of
+the lower development costs in Europe), the company decided to use its European contacts to reverse some of the flow. In particular, they are importing RED RAT and DOMARK (Trivial Pursuit)
+software from the United Kingdom and re-releasing some of the SCOTT ADAM'S adventures in the
+U.S. and Europe. ICD is also the U.S. Distributor
+for STARSOFT, the company founded by Scott
+Adam's former lead designer, Hal McCrey. McCrey's intriguing Pirates of the Barbary Coast (for
+the ST computer) is an excellent value at $14.99.
+MAIN ST. PUBLISHING offers classic titles
+under $10 (many at $6.95 and lower). Remember
+Muse Software's Castle Wolfenstein, Robotwar, and
+Titan Empire? How about Origin System's Caverns
+of Callisto or CE Software's Sword Thrust series?
+Those are just some of the titles which Main St. is
+
+making available at bargain prices. The low-end
+competition should benefit the consumer by increasing the value offered per game at both ends of
+the spectrum. If Bing Gordon's "rule of thumb" for
+game value ($1 of value for every hour played, 40
+bucks for 40 or more hours) is correct, the observant consumer should find 1987 to be a great year
+for purchasing classic titles at outstanding value.
+The other way that software is being "born
+again" to new life is through conversion. Conversion is a major emphasis in the computer entertainment industry. (Ed. - Note that CGW is publishing a new column on "Conversions Received"
+for this very reason.) STRATEGIC SIMULATIONS, Inc. has allotted a major portion of its
+publishing program to translating products into
+other formats. The first half of 1987 will see 10
+different products converted over to IBM. Joel
+Billings of SSI thinks that it's possible for IBM to
+pass Apple in computer game market share during
+1987. Nearing release are the following conversions:
+Shard of Spring and Rings of Zilfin (IBM), War in
+the South Pacific and Wargame Construction Set
+(C64), Phantasie (Atari 8 bit), Phantasie II (ST) and
+Computer Ambush (MAC). At least 19 other conversions are in the works at SSI.
+ACCOLADE has tended to be very expeditious
+in converting their first-line titles from one format
+to another. In 1986, Mean 18 was converted from
+IBM to the Amiga and Atari 520 ST; Psi-5 Trading
+Co. from C-64 and Apple to IBM; and the fastselling Hardball to Macintosh. This trend is expected to continue in 1987 with Hardball converted
+to ST and IBM and Mean 18 to the IIGS.
+ACTIVISION has already converted GBA Championship Basketball: Two-on-Two from its original
+C64/128 roots to Amiga, Atari ST, Apple II and
+IBM. Watch for numerous Apple IIGS products to
+be released by Activision in the coming year.
+ELECTRONIC ARTS is rapidly introducing
+conversions for its regular line and affiliated labels.
+Ultima IV is now available for the IBM; Computer
+Scrabble is currently available for IBM and
+C64/128, but will soon be available on Apple II and
+Macintosh; and Autoduel, the Apple and C64/128
+car battle game, is due to be converted to Amiga,
+Atari 800, Atari ST, and Macintosh. EA not only
+released a beautifully enhanced Amiga version of
+The Bard's Tale, but they are soon to release a
+look-alike that is just as stunning for the JIGS.
+MINDSCAPE was prompt in translating its socially significant Balance of Power game to IBM
+and Amiga in 1986. An Atari 520 ST version is
+
+Continued on pg. 59
+
+Accolade
+20813 Stevens Creek
+Cupertino, CA 95014
+(408) 446-5757
+KILLED UNTIL DEAD: This animated adventure is a fast-paced, joystick-driven, tribute to Agatha
+Christie mysteries. You play the part
+of "Hercule Holmes" (or was it "Sam
+Marple"?) and have 24 minutes of actual playing time to solve each of 21
+cases (with titles like "The Case of the
+Mutilated Moose," "Mars Needs
+Women" and "Beaujalois or Bust") divided between four difficulty levels.
+Apple, C-64/128 ($34.95). Circle
+Reader Service # 1.
+Activision, Inc.
+2350 Bayshore Parkway
+Mountain View, CA 94039
+ALIENS: Six different game segments
+attempt to emulate the fast and furious action of the hit motion picture in
+this arcade game. Players attempt to
+navigate a fierce windstorm and drop
+the ship down the "pipe"; hold off at-
+
+tackers while attempting to torch
+through an "Operations Room" door;
+rescue Newt via the air duct maze
+(evasion is better than shooting here);
+rescue Newt (what again?) from the
+nest in the Atmosphere processor;
+rescue troops from the Atmosphere
+processor; and capture the Alien
+Queen in order to flush her out the
+airlock. This game is about as close to
+the movie's plot as can be expected..
+C-64/128 ($34.95). Circle Reader Service Card #2.
+CHAMPIONSHIP BASEBALL: A
+combination action/strategy game,
+this new release from the Gamestar division offers the chance to draft players, form a 24-team league with fourdivisions, play against human or computer, and keep track of league standings. Like other Gamestar offerings,
+this is an action game, not a statistics
+based simulation. Apple II, C-64/128,
+IBM ($39.95). Circle Reader Service
+#3.
+TITANIC: THE RECOVERY MISSION: This timely import is a fanciful
+
+extrapolation from last year's celebrated exploration of the R.M.S. Titanic. Instead of simply exploring the
+hulk using the submersible, Alvin, as
+in actuality, the player attempts to
+"Raise The Titanic" with more of a
+Clive Cussler flare. This strategy game
+takes into consideration that bane of
+many archaeological and salvage expeditions, funding and image. It is a
+joystick-driven adventure and features
+several colorful screens for each activity required by the scenario. C-64/128
+($29.95). Circle Reader Service #4.
+Cheapware
+4038 N. Ninth St.
+St. Louis, MO 63147-3441
+(800) 642-6524
+ARCADE POKER: You'll think you're
+looking at one of the ubiquitous poker
+machines in a Las Vegas (or Atlantic
+City) casino when you boot up this
+program. The program uses Vegasstyle payoffs (Jacks or better equals
+even money and progressively upward), but records your winnings in
+points instead of funds. IBM ($30.00).
+Circle Reader Service #5.
+
+Datasoft
+19808 Nordhoff Place
+Chatsworth, CA 91311
+(818) 886-5922
+221B BAKER STREET: Based on the
+popular boardgame by Jay Moriarty,
+this Sherlock Holmes game allows 1-4
+players to attempt to beat the clock
+and each other in solving 30 different
+mysteries (and there are 30 more on a
+separate case disk, available separately). The game encodes clues so
+that only the detectives who actually
+find the information can make use of
+it. The game includes animated characters and voice synthesis. Apple, C64/128 ($29.95, extra case disk $14.95). Circle Reader Service #6.
+Electronic Arts
+1820 Gateway Dr.
+San Mateo, CA 94404
+(415)571-7171
+THE BARD'S TALE II: THE DESTINY KNIGHT: The map of the
+wilderness may include cities which
+sound more like the missionary journeys of St. Paul (Ephesus, Corinth,
+Thessalonica, etc.) than the Scottish
+roots of the original Bard's Tale (Skara
+Brae), but this is the same system that
+thrilled adventurers before and then
+some. Since the party will have en-
+
+counters in the wilderness, ranged
+combat is now possible. It is also possible to transfer parties assembled in
+Bard's Tale, Ultima III, or Wizardry
+onto the character disk for use in this
+adventure. Adventurers may explore
+cities, castles, forests, taverns, and
+casinos in this story line. C-64/128
+($39.95). Circle Reader Service #7.
+MAKE YOUR OWN MURDER
+PARTY: Here is a program to take you
+step-by-step through hosting your
+own murder party. It's better than
+boxed games in the store, too. In these
+two adventures ("The Big Kill" and
+"Empire"), the identities of the murderers change from game to game. You
+can print out new invitations, clue
+books, note sheets and verdict sheets
+for each party, as well. Apple, IBM
+($39.95). Circle Reader Service Card
+#8.
+Firebird Licencees, Inc.
+74 North Central Avenue
+Ramsey, NJ 07446
+(201) 920-7527
+MRCA MACH 2 COMBAT FLIGHT
+SIMULATOR: An F-15 flight simulator for those with Atari 8-bit machines, MRCA offers three-dimensional
+
+Continued on pg. 57
+
+Gunship is MicroProse's latest release in the
+wargamer/cross-over market. Unlike the typical
+wargame design which appeals to a small esoteric
+crowd with sales for a mega-hit numbering slightly
+over 10,000 units, MicroProse has established a
+niche of computer conflict simulations which appeal to a broad-based market, e.g. F-15 Strike Eagle, Silent Service, and now Gunship. Long
+promised and eagerly awaited by the anxious public, Gunship lives up to its billing. From discussions
+with the design staff at MicroProse, it would appear that several livelihoods depended on the timely
+(?) release and salability of Gunship. These individuals can relax; based upon current sales and
+projection data, Gunship will go platinum (i.e.
+250,000 unit sales) as have F-15 and Silent Service
+heretofore.
+From the keyboard overlay to the documentation
+and on to the program itself, all is of the high caliber one has come to expect from MicroProse. The
+documentation is excellent; the tutorials explain
+succinctly and completely how to fly the craft and
+how to engage the enemy with the various weapons
+systems.
+Many reviewers have complained about MicroProse's protection schemes wherein the player has
+to type in a certain code. Gunship continues this
+tradition, but with a trace of brilliance which obviates the aggravation. Upon initially booting the
+program, the player will be presented with a one
+vehicle identification quiz. The documentation
+shows the various illustrations and explains what
+
+the particular vehicle is used for; a quick scan
+should reveal the proper vehicle. If an incorrect
+response is made, then the player can only fly in a
+training mode (in CONUS), with SGT Kilroy (as in
+
+Name:
+Players:
+System:
+
+GUNSHIP
+Solitaire
+C-64/128, Amiga
+Atari ST, Apple, IBM
+$39.95
+Price
+Designers: Arnold Hendrick
+Andy Hollis
+Publisher: MicroProse
+Hunt Valley, MD
+
+"...was here").
+This reviewer liked the protection scheme.
+Having listened to vehicle recognition classes in the
+United States Army for almost two decades and
+having in fact given several such classes, this reviewer has to admit that he never really bothered to
+learn the actual vehicle recognitions. Gunship compels one to learn, and does it painlessly!
+After getting past vehicle recognition (and this
+has a game benefit in that the user familiarizes
+himself with particular enemy weapons systems and
+their weaknesses), one makes a choice of pilot by
+the name roster. Initially, most of the MicroProse
+design staff is present together with their ranks and
+decorations. However, since they are all KIA or
+MIA, the user cannot access them and must begin
+his flight career as a sergeant. Input is via joystick
+and keyboard, and is very simple to accomplish,
+especially with the cardboard overlay to remind one
+of what each keystroke can do.
+
+Next, one decides on a duty assignment. Flight
+training in CONUS (continental United States) is
+highly recommended until one is familiar with the
+mechanics of flight and combat (enemy "hits" do no
+damage, a la Lazer Tag). After initial confidence is
+gained, one may join the 1st Cav in Southeast Asia.
+Once the pilot has gained combat experience and
+the campaign ribbon, harder missions may then be
+made with the 82nd Airborne in Central America
+(Ollie North, where are you now that we need
+you?), the 101st Air Assault in the Middle East,
+and finally with the 3rd Armored Division in
+Western Europe.
+Each successive area bears more danger. Troops
+are better trained and have better equipment, including the infamous Soviet Hind helicopter. Of
+course, one may also choose the degree of duty
+hazard -- regular, volunteer and hazardous volunteer missions (the last for the truly suicidal lifer).
+Finally, one may choose reality levels -- flight
+
+performance, landing, weather, and enemy quality
+(ranging from first to third line troops). Most of
+this reviewer's missions were made against first line
+troops, with a mission difficulty being rated as
+"Ultimate".
+Next, the briefing. The screen gives the pilot
+both a primary and secondary mission together with
+a password. One must look up the countersign in
+order to land back at a friendly base (another form
+of disk protection), but the most interesting aspect
+of this is that the briefing page looks "official" in
+every sense of the word. One may access a terrain
+map and an intelligence report for additional information, and then decide whether to go on the
+mission or report to "Sick Call". If the pilot does go
+on sick call, a service reprimand (Article 15?) will
+appear on his record, and future promotions will be
+much harder to obtain.
+Next, one chooses the particular armament for
+the mission, given weight standards and ultimate
+targets. Armament selection is made via joystick/mouse, and is quick and painless. Finally, the
+mission begins! Turning on the port and starboard
+engines, one next engages the rotor and finally
+raises the collective. As lift is gradually achieved,
+the pitch (angle of the blades) is adjusted in order
+to develop speed. Adjustment of pitch and the collective determine speed in a synchronous relationship; but determining the proper ratio requires
+practice and confidence. All too often, the novice
+pilot will be "chasing the needle". Despite the
+
+reader's possible confusion in visualizing this process, be assured that the above flight guidance becomes second nature in the game itself and requires
+little conscious thought or effort.
+Flight characteristics are much easier in this
+simulation than in actual helicopter operations.
+Gunship is not a "flight simulator" per se; its mechanics mirror that of reality, but are eased so that
+even the non-aviator can quickly grasp the beauty
+of flight. Two caveats are necessary: first, the
+Apache Gunship is an excellent craft, but does
+have a delayed response to control inputs; and second, weather is less harmful than actual flight conditions (i.e. low flying will generate some turbulence, but nothing like real thermals which can toss
+a craft several hundred feet).
+Getting there, however, is only half the fun;
+there are "bad guys" waiting to blow the Apache
+Gunship out of the sky. The real challenge is in
+accomplishing both missions, devastating the enemy
+and returning safely to base. This reviewer recommends maximum use of Hellfire missiles. These
+missiles are effective against vehicles and bunkers
+at a distance of up to 6000 meters (usually, maximum engagement range will be 2.5 km). It is truly
+enjoyable to render millions of dollars worth of
+Warsaw Pact armor into junkyard scrap at no risk.
+But into each life, some rain must fall, and one's
+Gunship is not immortal. Soviet Hinds are dangerous adversaries, but one's Sidewinder missiles
+should negate their threat (just make sure to see
+them before they see you!). The worst threat is
+anti-aircraft guns and infantry (soft targets); your
+FFAR (folding fin aerial rockets) and cannon fire
+can destroy these threats, but at ranges of 1000 and
+700 meters respectively. At those close distances,
+the Threat can also get you -- and often will!
+Discussions with combat-experienced Huey and
+Cobra pilots revealed that this is in fact correct.
+Soft targets do present the greater threat, and there
+is no obvious solution. Evasive flying and quick
+response is the best technique.
+In terms of flight, NOE (nap-of-earth) flight is
+recommended. While your visibility is limited, the
+Threat also cannot see you as readily. Generally,
+70/70 is a good yardstick (70 knots speed at 70 feet
+of altitude). Many Threat targets are not revealed
+until one stumbles over them. Therefore, the following tactic may be used -- upon beginning a
+mission, simply climb to c. 1000 feet. This will reveal most enemy positions, and as soon as they are
+revealed and begin firing, dive QUICKLY to a
+
+NOE position. Your map access will still have these
+positions marked, and a route may then be selected
+to minimize enemy opportunities. Otherwise, one
+may accomplish a mission only to stumble onto a
+single target and engage it; suddenly, infantry and
+anti-aircraft guns will reveal their positions by
+firing at one's now revealed and somewhat helpless
+craft.
+Although the Apache is post-Vietnam, the SE
+Asian scenario has been included because of customer demand. Vietnam was the war associated
+with the helicopter, and furthermore, it is ideal as a
+basic scenario since the enemy anti-air threat is
+limited. There is no air threat and vehicular response is limited at best; also weapons systems are
+generally not the newest.
+
+In terms of aerial performance, the simulation
+has shortchanged the maximum altitude of the
+Apache. However, this is not a flaw; the higher one
+flies, the more he reveals himself to potential enemy positions. Therefore, for the most part, height
+is fatal. Also, ground graphics deteriorate as altitude increases.
+Finally, the real Apache Gunship can "loop". The
+simulation cannot. Aside from "Blue Thunder",
+looping is an extremely difficult maneuver which
+should be rarely used in combat situations (the craft
+is virtually defenseless at the top of the loop).
+Thus, its absence will prove no real loss.
+As for NOE flight, Gunship uses 3-D graphics,
+which are similar to those used in F-15 (albeit improved). The designers explained that these are
+similar to vector graphics, but are filled in. The net
+result is that one can see the terrain easily, but actual close flight becomes a matter of experience.
+Unlike actual visual acuity, depth perception of
+distance can be difficult; the usual tendency is to
+
+avoid hilltops by more clearance than is actually
+necessary. This reviewer sees this as an 8-bit limitation; presumably, the 16-bit machines allow better resolution. At any rate, one can adjust to the
+terrain with experience. Similar problems occur in
+landing at friendly bases. There is nothing more
+aggravating than to have completed both primary
+and secondary missions, be entering a final approach to a base, have a Hind on one's tail, and
+land one-tenth of a kilometer short (and realize
+that the damage incurred has now prevented any
+lift-offs). As the designers have stated, one must
+almost pass the base before going into a
+hover/descent. Actual ground location and visual
+perspective differ slightly, and only flight experience will teach one the proper techniques.
+Upon returning from a successful flight, one
+will be rewarded with either a promotion and/or a
+medal. The game actually simulates an award ceremony; presentation of the Silver Star is made by the
+Chief of Staff of the Army. Unfortunately, the
+Distinguished Service Cross is simply handed over.
+
+The designers have assured this reviewer that a
+special presentation of the Medal of Honor is portrayed. Since this reviewer's 200 hours of flight
+time have not yet yielded that particular decoration,
+it must be presumed that the President makes the
+presentation (the designers refuse to confirm or
+deny this).
+On top of medal presentations, campaign ribbons
+and air medals are given the player. Slightly reminiscent of SSI's 50 Mission Crush, MicroProse's implementation of the actual ribbons and medals are
+an appreciated, albeit cosmetic addition to the
+gaming environment.
+In conclusion, this reviewer heartily recommends
+Gunship. From a historical perspective, one must
+remember that gunships are only effective in areas
+where one has local air superiority. Even the
+Apache is no match for modern fixed-wing fighter
+aircraft. The game's flaw (ground terrain visibility)
+is more than offset by the sheer pleasure in flying
+against and defeating the Threat. A five-star rating
+(my highest) is well-deserved.
+
+SPORTS SCOREBOARD
+
+World Gaines
+Championship Baseball
+Equestrian Showjumper
+Beach Blanket Volleyball
+
+Rick Teverbaugh
+
+WORLD GAMES
+Although tightrope walking isn't one
+of the events in World Games, that is just
+what Epyx needs to do in order to avoid
+repetition in this well-reviewed and enjoyable series. With the competition taking
+place all over the world instead of in one
+place like a traditional Olympics, World
+Games breaks away from the traditional
+Olympic events. Included this time are
+such events as cliff diving, bullriding, log
+rolling, sabre toss and barrel jumping,
+along with the better-known weightlifting,
+slalom skiing and sumo wrestling.
+There is more attention to detail and
+more variety to the challenge of World
+Games than in Summer Games I and II or
+Winter Games. Weightlifting, which takes
+place in Russia, features a burly competitor who even gives a few audible deep
+breaths before attempting the next weight.
+There are two types of lifts, 'snatch' and
+'clean and jerk'. Both require strength, coordination and timing. The computer version does away with the strength requirement.
+Though weightlifting is my favorite
+event, I have several others of nearly equal
+enjoyment. Cliff diving is surprisingly
+stimulating. You need to time the jump so
+that the tide is up when you hit the water,
+you must keep your back arched long
+enough to carry beyond the jagged cliff
+and you must make a quick turn once you
+hit the water to keep the diver from having a terrific headache. Another favorite is
+bull riding. It is necessary to remember
+which joystick position will be successful
+for each possible move by the bull so that
+you can stay on long enough to garner a
+good score.
+World Games, unfortunately, has a
+couple of clinkers. The first is the slalom
+skiing. Not a novice at sports simulations,
+I haven't yet completed the course in 14
+tries. It is too difficult to make sharp turns
+and keep forward momentum, but the
+gates are spaced too close together to get
+to them without sharp turns. I don't think
+Epyx play-tested this event enough with
+outside gamers. The second disappointment is log rolling. Against a human foe it
+isn't too bad because neither player knows
+
+what they are doing and it is enjoyable to
+plunk your foe in the water. Against the
+computer opponent, however, it is suicide.
+The rule book, normally quite informative,
+is of no help to plot a strategy or to even
+know what a particular move of the joystick will accomplish.
+Even with those complaints, World
+Games is still a must for the avid sports
+gamer. I plan an all-day session soon with
+all the events in the four games. I'll report
+my progress if I survive. World Games is
+available for Commodore owners with conversions to follow for other machines.
+CHAMPIONSHIP BASEBALL
+If you are familiar with Gamestar's
+Star League Baseball,then you'll understand the basics of Championship Baseball, also by Gamestar. If you've seen the
+league-play concept of GBA Championship Basketball (Gamestar), then you
+know the concept behind Championship
+Baseball.
+What Gamestar has done is rework
+Star League and answer some of the more
+common complaints. In Star League, hitting was far too difficult because there was
+only the side perspective. There was no
+way to tell whether a pitch was inside or
+outside. Now there is a split-screen; one
+the traditional side approach of the original and the other a behind the plate perspective. Hitting is still no picnic, but it
+can be done. The field is drawn a bit better and it is slightly easier to get an outfielder to flag down a fly ball. Still, to beat
+the computer, you'll need a sound defense.
+The game has the option of creating
+your own team, saving it to disk and then
+running it through a season. If the team is
+good enough, you can make the playoffs
+and go for the title. This is a concept that
+worked well with GBA Basketball and
+does the same here. It would have been
+nice if the program kept stats for the individual players, but that wasn't expected
+since GBA didn't perform that feat either.
+All the action is joystick controlled.
+Some sequels aren't really worth making another purchase. Championship
+Baseball is the exception.
+
+ON _THE BEACH & HORSING AROUND
+Artworx has come out with a series of
+inexpensive sportsgames. I'll briefly cover
+two, Beach Blanket Volleyball and Equestrian Showjumper, and save Thai Boxing,
+for a later column. Equestrian is my favorite. There are 12 different courses for
+you to try. You can change the name of
+your horse and the country you represent.
+You can also design your own steeplechase
+course, but you'll have to erase one of
+those already on the disk to do so. There is
+no option for saving a course to a blank
+disk.
+The horse can move at three speeds,
+trot, canter and gallop, all controlled by
+flicking the joystick in the direction necessary. The joystick button controls the
+jump of the horse. In the lower right-hand
+corner is the layout of the course and arrows indicating the correct order and direction. Take a fence out of order or knock
+too many of them down and you'll be disqualified. Top scores are saved.
+Beach Blanket Volleyball is a threeman volleyball game that can be played
+against a human or computer foe. You
+control only the hitting for the player
+nearest the ball. The computer controls all
+the movement. There are nine different
+skill levels of the computer opponent to
+sharpen your skills. Setting up a spike is
+the most difficult. The length of time you
+hold down the fire button before the shot
+controls the strength and the set must
+come down very near the net to get an opportunity for a kill.
+Graphics on both games aren't spectacular, at least on the Commodore versions I tested. But they do a good enough
+job to make playing the game smooth and
+simple.
+That's it for this time. So until next
+time, be a good sport!
+
+Scorpion's Tale
+
+Name:
+System:
+Price:
+Designers:
+
+Gemstone Healer
+Apple, C-64
+$29.95
+Peter Lount
+Trouba Gossen
+Kevin Pickell
+Publisher: Strategic Simulations
+Mountain View, CA
+
+Step right in! I see you made it back
+safe and sound from your ghost-hunting in
+Cornwall, although you do look a trifle
+dusty from all that nosing around in secret
+passages. Must make for a dry throat, too.
+So just sit right there by the fire, and Fred
+will mix up a little something for you.
+Then we can talk about nosing around in
+monster-ridden caves.
+It's rare for me to play an arcade-type
+game, although I do have a few. When
+Gemstone Warrior came out, I rather
+enjoyed it. Once you had the maze figured
+out, the game was a quick play with a
+definite end, and you didn't need the
+reflexes of a fighter pilot to get through it.
+So, when I heard that a sequel was in the
+works, I looked forward to getting it.
+Healer takes up where Warrior left off.
+In Warrior, you entered a maze of caverns
+to find the five pieces of a magical
+Gemstone that had been stolen by evil
+demons. Once you got out with all five
+pieces, the game ended. However, that was
+not the end of the story.
+Apparently, the magical forces within
+the Gemstone were unbalanced by the
+rough handling of the demons. Now, you
+have to take the Gemstone to the Center,
+where it was originally created, and find
+the tools you need to restore the
+Gemstone's balance and harmony.
+Graphics are the same as in Warrior,
+simple but nice, and smoothly-scrolling.
+Monsters are also much the same, with the
+addition of some extra demons, who show
+up fairly early, but are easily dispatched
+with a well-placed fireball or two (or a
+special, demon-slaying sword you can find,
+but fireballs are safer, you can use those
+from a distance).
+Healer also allows you to generate
+
+random mazes. You must create a maze
+(on a separate disk, or the back of the
+original game disk) before you can play
+the game. You type in a series of letters
+(which can be words or just a bunch of
+miscellaneous letters), and this is used by
+the program to make the cavern complex.
+The same letters, of course, will always
+make the same maze. The creation process
+takes awhile, so be prepared for a wait
+while the program is working on it. After
+that, you're ready to go.
+The first step is to map out the entire
+complex of caverns. There are no trick
+doors as in Warrior, but this time around,
+some doors are hidden, and you can find
+them only by using a magical dagger, or if
+you have none, trying various parts of the
+walls. Once the map is completed, you can
+start playing the game in earnest,
+collecting the tools and healing the
+Gemstone.
+There are 27 tools in all to find. Two
+of them, a hammer and chisel, are used to
+split the Stone into five pieces again, as
+each piece must be healed separately on
+one of the six altars scattered at random
+throughout the Center. The remaining 25
+tools are used in the actual healing
+process, five tools per side of the
+Gemstone.
+Naturally, monsters will be getting in
+your way as you attempt to complete your
+task. To get them out of your way, you
+have a crossbow, a sword, fireballs, and a
+variety of magical items to use against
+your foes and heal yourself of damage.
+These objects are found in chests, coffins,
+and on the bodies of the monsters that you
+kill as you go through the caves. Chests
+and coffins also hold the various healing
+tools.
+
+Since each piece of the Gemstone
+requires a specific set of tools to restore its
+balance, you can't just use any old
+grouping. So, what you also need to find
+are the scrolls that tell you which set of
+tools repairs each piece. The tools are
+grouped into five sets, representing the
+aspects of direction, shape, energy,
+elements, and man. One tool from each set
+is needed for each piece of the Stone, and
+each tool will be used only once.
+One aspect of the game that eases your
+burdens, at least to a small degree, is the
+fact that a correct grouping of tools will
+heal any piece. So you don't have to work
+on the pieces in any particular order, you
+simply need the right set of tools (but
+remember, each set of tools works only
+once).
+You might be tempted to use trial and
+error, but I wouldn't advise it, at least not
+until you've found two or three of the
+scrolls that tell you the specific tool
+groupings. Consider only the first piece. It
+might take any one of five tools from the
+first group, any of five from the second,
+and so on. Think about that for a moment,
+and you'll see there are a LOT of possible
+combinations. Far too many to stand there
+and keep trying while monsters are on
+your back. And until you have the right
+five on the stone, you won't know if you're
+choosing the proper tools or not.
+Further, each maze has its own unique
+sets of tools. When you first create the
+maze, the program will choose random sets
+of tool groupings. Thus, combinations that
+worked in one maze will probably not work
+in another. Of course, as long as you stay
+with the same maze, the same sets of tools
+will work, so you only need to find the
+scrolls for that particular maze once.
+Unfortunately, as I played the game, I
+
+found that the scrolls were a long time in
+showing up. Their appearance is
+randomized (although they always come
+up in the same order; it's a question of
+WHEN), and it might take many
+traversings of the caves before you have
+read the ones that carry the specific
+groupings. This could easily become tedious. Having experienced this myself, I
+can assure you that it IS tedious.
+However, there is a bright spot in the
+fog! As a result of a three-way phone
+conversation with CGW, Paradigm
+Creators (Peter Lount, Trouba Gossen),
+and myself on the line, changes will be
+made in the program. Basically, the scrolls
+will appear at a faster rate in the game.
+You might be able to get them all (a total
+of 21) in one pass through the caverns, or
+soon after that. It won't be necessary to
+make a lot of extra trips looking for monsters to kill in the hopes of finding scrolls.
+Whew! Gold stars to Paradigm and SSI for
+their quick work in making the changes.
+The fix should appear in Gemstone
+Healer version 1.3, which may be out by
+the time you read this, or shortly
+
+afterward. [Ed. Note: According to SSI,
+owners of earlier versions of Gemstone
+Healer can return their disks for a free
+upgrade to version 1.3]
+Finally, when you're tip-toeing
+through those caverns, be careful; there's a
+trap or two waiting for you, so read those
+scrolls attentively!
+APOLOGIES: My sincere apologies to
+the reader in Kansas who wrote to me
+around the beginning of the year with a
+question on Leather Goddesses.
+Unfortunately, I lost the letter in the
+street (first time this has ever happened),
+and didn't realize it until late in the
+evening. By then, there wasn't much I
+could do about it. So, I'm sticking this in
+here to let you know you weren't ignored,
+I just had no way of replying.
+ALTERNATE REALITY UPDATE:
+For those of you with the Atari ST
+version, please note that not all of the
+material in my previous article (Nov. '86)
+applies to you. Datasoft has expanded the
+game in some respects to take advantage
+of the additional memory on the ST, and
+thus not everything is the same as in the
+
+Apple version. For example, in the ST
+game, you can get a job, and therefore you
+don't have to mug innocent citizens (such
+as commoners) for money. Also, clothing is
+much more important in the ST version
+(dress warmly!). So go carefully, there
+could be (probably are) other surprises in
+store for you.
+Well, I see by the invisible clock on the
+wall it's that time again. If you have a
+game question, you can reach me in the
+following ways:
+On Delphi: Visit the GameSIG (under
+the Groups and Clubs menu). On GEnie:
+Stop by the Games RoundTable (type:
+Scorpia to reach the Games RT). On the
+Source: Send SMAIL to St1030.
+By US Mail (and I promise to be real
+careful with those letters!): Scorpia P.O.
+Box 338 Gracie Station New York, NY
+10028.
+Please remember to enclose a selfaddressed, stamped envelope with your
+questions. Until next time, happy
+adventuring!
+Copyright 1987 by Scorpia, all rights
+reserved.
+
+four anti-aircraft guns at Mostar!). That was a
+patsy, but later on, when they made us fly over
+Mostar on the way to other Balkan targets and we
+kept losing planes to those four guns, we had more
+respect for Mostar.
+
+As at Mostar, I encountered no fighters and
+light flak. "This will be easy!" I thought. I hit my
+target and earned 1,150 points. If one survives 50
+missions and earns 50,000 points, he becomes a
+Brigadier General and SSI sends him a certificate.
+My second mission to Abbeville Air Base was
+more like the real thing. I encountered flak at the
+target, knocking out the top turret guns and the
+right waist gun. This was later to hamper me with
+fighter attacks over the channel. I thought we were
+fairly safe and flying through relatively friendly
+territory when a fighter attacked from the right
+side. Since I had three inoperative guns on that
+side, I lost a lot of sweat, but we got home safely.
+
+50 MISSION CRUSH:
+A 50 MISSION RECALL
+by Leroy W. (Ted) Newby
+[Ed. Note: Mr. Newby was a B-24 bombardier in
+the 460th Bomb Group of the Fifteenth Air Force.
+He was shot down on his fiftieth mission. He is the
+author of Target Ploesti: View from a Bombsight, a
+Military Book Club selection and is acting as consultant and technical advisor on John "50 Mission
+Crush" Gray's new game for SSI entitled, "B-24".J
+
+I was anxious to play 50 Mission Crush as I had
+never played a computer game before and was a bit
+skeptical with regard to a mere game capturing the
+real spirit of aerial combat. As I discovered the
+rules and options offered in various stages of the
+game, I began to appreciate what goes into creating
+a computer simulation. It was all there: bomb load,
+ammo load, gas load, route out, fighter escort, flak
+at the target, cloud coverage, bombing accuracy,
+battle damage, fuel and ammo conservation, route
+back, more fighter encounters and finally, "enough
+fuel to make it across the pond?" I was confronted
+with decisions, decisions!
+My first mission was a "milk run" to Cherbourg
+Air Base.
+Forty-two years earlier, my first mission was a
+"milk run" to Mostar, Yugoslavia (They only had
+
+On a 15th AF mission to Bologna, we survived
+the target flak. As we let down to lower altitude to
+return home, however, we encountered surprise flak
+as we passed over the front lines of the ground
+forces. A lucky shot caught a plane off to our left
+in its No. 3 engine and set it on fire. One of the
+waist gunners saw the flames and bailed out of the
+window. A few seconds later, the fire went out and
+the plane went on its merry way home. We thought
+we could see the guy in the chute shaking his fist at
+the departing bomber.
+
+My third mission sent me to bomb the air base
+at St. Omer on the coast. I wasn't into worrying
+about gas on these first three short missions, but I
+began to care about cloud cover, as indicated on
+the monitor, at each move. Clouds under my plane
+meant no flak -- that move, anyway. I also learned
+about fighter attacks. Now, I had to decide between
+letting the fighter come in (and hope he wouldn't
+hit me in a vital spot) and firing at him (which
+wasted ammo while he was still out of range). Here
+came the sweat! Should I shoot or hold my fire?
+Back in summer of '44, when we were penetrating
+deep into the Balkans, our gunners tended to fire a
+lot (none of that "waiting for the whites of their
+eyes" propwash for those guys!). It wasn't easy
+holding fire with three ME 109's on a pursuit curve
+with you in their sights. Fortunately, our gunners
+shot a few down and none of them ever did any real
+damage to our lovely Hangar Queen (although they
+certainly damaged some of our sister planes).
+
+Mission four was to an industrial plant in
+Antwerp. We soon moved into Zone "C," which
+
+meant heavy enemy aircraft and minimum fighter
+escort. When No. 3 engine was hit and we had to
+feather it, I empathized. I knew how few B-24's
+ever made it home on three engines. Of course, we
+were flying Fortresses (B-17's) in the game, so it
+was a needless sweat. "Forts" did much better on
+three engines.
+Since we still had bombs aboard, we were penalized 1.5 drag points and started to fall out of
+formation. I had to decide either to drop my bombs
+at once and remain in the protection of the formation (losing those bombing points which reflected
+my efficiency) or opt for a solo mission (gaining
+points, but becoming a straggler - easy prey for the
+fighters).
+I was once a straggler, coming home from
+Ploesti. Our No. 3 engine was windmilling because
+we were hit by flak on the bomb run and the oil
+pressure had dropped before we could feather it.
+Windmilling drag reduces a bomber's speed by 12
+MPH. Two other engines had their superchargers
+shot out, so when we dived out of the formation and
+leveled off at 13,000 feet, we couldn't maintain altitude. We headed home alone, ducking in and out of
+clouds to escape enemy fighters--losing altitude all
+the while.
+Mission five was to the railroad center at
+Amiens. I was pleased that our gunners became
+more experienced as we flew more missions and
+that this was reflected in better marksmanship. Our
+ammo could be expected to last longer as they improved. We experienced flak damage to our fuel
+tank, then took a hit in another fuel tank during a
+fighter attack.
+This evoked memories of a long mission to
+Nimes, France (in support of the coming southern
+invasion). Our pilots were of two opposing opinions
+on when to empty the "Tokyo Tanks," the two 200
+gallon wing tip tanks that carried extra fuel on long
+missions. One school held that one should not empty
+the Tokyo's until after leaving the target. The point
+being that empty tanks were full of fumes and
+could be exploded if a red hot piece of flak entered
+the tank. A full tank of gasoline would quench a
+piece of hot flak. The opposing view says to empty
+the tanks prior to entering the target zone, because
+you may suffer flak damage to the fuel transfer
+system and never gain access to the reserve fuel. It's
+a long way home if you're denied 400 gallons of
+gas. It was one of those free time arguments that no
+one wins. Everyone does it "his way." If one's argument proves wrong in execution, he joins the
+
+"Caterpillar Club," takes a swim in the ocean, becomes a P.O.W., or dies. Some may make it home.
+Nimes was a nine and one-half hour trip (my
+longest in combat) and our pilot was on the side of
+the "transfer after the target" people. After leaving
+the target, we found we could not transfer the reserve fuel to our main tanks. Our experienced Flight
+Engineer tried every trick he knew, short of wing
+walking, but it was all to no avail. Our pilot resorted to the only thing he could do with over 400
+miles of ocean to fly over before reaching friendly
+soil--he leaned out the gas-to-air mixture on all
+four engines. This accomplished two things, conserving gas and burning hotter. Burning hotter increased power. That was the good news! The bad
+news was that he had the temperature gauges for all
+four engines reading above the red line. How far
+can the needle go above the red line? How long can
+the engine last when running above the red-lined
+temperature? If you can answer the question, "How
+far is up?", you can answer those questions.
+The Amiens mission brought back memories of
+that frightful trip home, how we'd wondered when
+we'd blow up. We made it back to Italy and ran out
+of gas on the perimeter taxi strip.
+Sweating out fuel problems in 50 Mission Crush
+is one of the many authentic elements in the game.
+Forty years after the Nimes mission, I learned
+why we didn't land at Corsica, halfway home. My
+pilot for that flight had been the previous day's
+Squadron Operations Officer who had chewed out
+several pilots for landing at Corsica for frivolous
+reasons such as the large busted Red Cross girl stationed at the air base. He couldn't bring himself to
+land there the day after his speech.
+Mission six was my deepest penetration so far-Emden, a 1,140 mile round trip to bomb a factory.
+It was in Zone "D," which meant it was beyond
+fighter escort range and was protected by heavy
+flak batteries. I elected to fly north from our base
+in Thurleigh, England so as to stay out of enemy
+fighter territory for as long as possible. When I got
+north of Emden, I turned south to the target. I ran
+into a hornets' nest of fighters and was expending
+ammo at a frightening rate in trying to survive long
+enough for the bomb run. Between the fighter attacks and the target flak, my plane took a beating.
+Two hits to the fuel tanks, a windmilling engine
+and a damaged landing gear. The route back was a
+constant air battle and the rapidly diminishing fuel
+supply forced me to fly directly home and hope my
+Continued on pg. 54
+
+M+A+X-IMUM CONCENTRATION:
+MODELING THE FUTURE
+USING SPACE M+A+X
+by Johnny L. Wilson
+
+TITLE:
+
+Space M+A+X:
+Space Station Construction Simulator
+SYSTEM:
+IBM
+PRICE:
+$49.95 Protected/$59.95 Copyable
+DESIGNER:
+T. L. Keller
+PUBLISHER: Final Frontier Software
+18307 Burbank Blvd. #108
+Tarzana, CA 91356
+(800) 854-0561 Ext. 816
+Circle Reader Number 99
+
+Noted science fiction and computer writer, Jerry
+Pournelle, recently participated in a symposium on
+"The Military in Space" (Universe '87, Los Angeles,
+January 4, 1987). One of the important points
+which he made was that the United States space
+program, if you can call the doldrums NASA has
+been in for the last ten years a program, hasn't really given capitalism a chance. He pointed out that
+an appliance manufacturer in China was preparing
+to launch satellites at an extremely cost-effective
+price tag. Further, note that the European Common
+Market has its Arianne space station program nearing completion. Isn't it ironic that the heart of the
+free market in the western world hasn't allowed
+private enterprise to lead out in space exploration?
+Will the moon ever be colonized and/or mined if it
+isn't profitable? Since most moon colonization projects are predicated on having a functional space
+station, the margin of profitability needs to begin
+at this early stage. That's one reason why Space
+M+A+X (hereinafter, MAX) is such an interesting
+simulation. It not only takes profitability into consideration, but makes the economic factors one of
+the key motivations of the game (successful construction, meeting deadlines, and preservation of
+human life being the others). The acronym, MAX,
+stands for Materials processing, Astrophysics and
+eXperimental space station.
+Tom Keller, the designer, worked for three and
+one-half years as a Systems Analyst in Resources
+Planning and Support Systems for Jet Propulsion
+Laboratories unmanned projects. His experience has
+allowed him to design an extremely intricate model
+in which logistics and economic parameters play a
+significant role. The program consists of three disks
+and a 137 page full color Operator's Manual. The
+manual is a bound paperback volume with numerous color drawings and photographs. It is a beautiful book of superior quality, complete with detailed
+data necessary for game play and NASA approved
+
+diagrams and cut-away art. It also includes some
+important screen shots and black and white photographs. Game play consists of five levels of difficulty in which the player acts as civilian director
+of space station project (M+A+X). The program
+graphics are all constructed using Graphics Magician by Penguin Software. Launches and landings
+tend to be somewhat mundane (at least, after the
+first sequence), But the models on the assembly
+screens where the player will actually construct the
+space station are extremely detailed.
+IT'S A MOD, MOD WORLD
+The object of the game is to construct a minimally configured and operational modular space
+station (with five different laboratory modules)
+within the time and budget constraints. Depending
+on level of difficulty (MAX has five), the project
+may be plagued by accidents (fire, radiation, loss of
+cabin pressure, explosion, illness, manufacturer's
+production problems and strikes. Not only does the
+player want to get the astrophysical, experimental,
+and materials processing (for biological, electronics
+and metals-glasses-plastics respectively) laboratories
+operational, but points (in the form of salary
+bonuses) are paid for placement of the labs close to
+the center of the mass of the total station and positioning of habitational modules out of the traffic
+flow. Between all of these considerations, MAX is a
+challenging and fascinating simulation.
+Though it is very playable as a game, I prefer to
+call it a simulation because of the detailed modeling. Indeed, constraints of realism caused Keller a
+significant problem in game design. It seems that
+Keller had simulated explosions long before Challenger. In fact, he had designed the graphics explosions prior to Challenger and wondered whether it
+was in good taste to keep that feature. Realism
+seemed to dictate the possibility, but it might
+cheapen the actual loss of life. In the end, Keller
+left the sequence in as a caveat to those who take
+short cuts with human lives at stake. Indeed, after
+the Rogers Commission report on the Challenger
+disaster was released, he even figured in the cold
+weather launch problem as being a potential cause
+of explosion and followed suit with the commission
+in making Edwards Air Force Base the preferred
+landing site. The simulation requires four orbiters
+and the demise of Challenger presented another
+problem. There were now only three orbiters
+available. Fortunately for the U.S. space program,
+President Reagan ordered the construction of a new
+orbiter. For purposes of the simulation, Keller
+
+named this fourth orbiter after Captain Cook's Endeavour. In actuality, Keller even sent a letter to
+the President which suggested this name for the
+new orbiter.
+I mention the capitalism aspect of the project
+because MAX even lines out the prospective companies which might participate in such a project.
+The following companies (and products) might be
+involved: Battelle Columbus Laboratories (collagen
+fiber), McDonnell Douglas Astronautics
+(interferon), Johnson and Johnson (urokinase),
+Minnesota Mining and Manufacturing (HgCdTe and
+GaAs crystals), TRW (optical fiber), Union Carbide
+and Grumman Aerospace (ultra-pure alloys), and
+General Electric and Particle Technology (latex
+beads). This aspect is also important because the
+player judges his/her success in terms of base
+salary earned, completion bonus ( upon successful
+completion of the project), savings bonus (a percentage of net savings over projected costs), and
+profit sharing (fixed percentage of the profits).
+Hence, the simulation can be replayed over and
+over again at the same level by trying to achieve a
+higher and higher total of earnings.
+UP, UP AND AWEIGHT
+The game is played by means of two menus,
+Mission Control Center (MCC) and Orbital Operations (00), and a graphics screen for actual assembly of the station. The menus allow the player to
+access reports or move to specialized activities
+(load, launch, assemble, or deorbit) by means of the
+function keys. The MCC menu is the first one
+which the player must use. As project director, the
+player is given a look at the cost profile, revenue
+profile, and up-dated financial reports through this
+menu. Just as importantly, this is where orbiters or
+HLLVs (Heavy Lift Launch Vehicles) are loaded
+prior to launch. One must examine costs carefully
+at this point, but the immediate problem deals with
+weight. In order to be efficient, one must launch
+the maximum weight (or close to it) with every
+launch. Each HLLV can be loaded with up to
+150,000 pounds and the maximum orbiter payload
+is 65,000 pounds. The documentation suggests a series of three orbiter launches in order to get the
+station operational as quickly as possible (p. 21).
+This approach has two distinct disadvantages. First,
+the weights of 46,100, 64,200, and 51,300 respectively are not the most efficient possible. Second,
+the use of three different orbiters to accomplish
+what one HLLV could do isn't cost efficient because...
+
+THE ORBITER COST HERTZ!
+Orbiters are leased from NASA on a daily basis
+($14,000 per day). That's not the only cost because
+the flight crew receive a per diem salary (a total of
+$3,600). Since you have to leave at least one orbiter
+in orbit for habitation space and use of the orbiter's
+remote manipulator arm or RMA (until the station's
+RMA is operational), the three orbiter approach
+means that you either have to leave two of them in
+orbit, paying exorbitant leasing fees and salaries for
+nothing, or immediately deorbit them with no payload. Deorbiting costs money and to have to deorbit
+without recouping anything for the trip is extremely frustrating. Further, orbiters must undergo
+maintenance upon landing. Since there are only
+four shuttles, this might mean that the project
+could be unable to launch for many days if anything happens to the fourth shuttle (even on the
+easiest level, one can be forced to make emergency
+landings). Therefore, it makes the most sense to use
+
+the HLLVs for your first launches and get as much
+of the material available for assembly as possible
+before ever launching an orbiter. A preferred series
+of launches might be:
+First Launch
+Biological Module
+Metals-Glass-Plastics Module
+Solar Array
+Heat Radiator
+(149,300 pounds out of a possible 150,000)
+Second Launch
+Astrophysics Laboratory
+Command Module
+Electronics Laboratory
+Thruster
+Remote Manipulator Arm.
+(139,900 pounds)
+
+At this point in time, an orbiter (followed
+swiftly by another) may be launched with assemblers (and/or operating crew), an adapter unit, logistics module and habitation unit and the basic
+core of the station can be assembled and activated
+without incurring excessive orbiter costs. Further,
+the scrap from the HLLVs is worth 20% of the initial cost. That means the orbiters can be loaded to
+the payload limit with scrap and start the profit
+cycle.
+Once the modules and assemblers are in space,
+the assembly process can begin. The Orbital Operations menu is used to select the part or module for
+assembly and the orientation of the new part to the
+assembled portion of the station. The graphics for
+the entire station must fit on the assembly screen.
+The player constructs the station by moving the
+parts/modules into position by means of joystick or
+keyboard. Each new section must be lined up
+properly with regard to the assembled section and
+Continued on pg. 62
+
+Space, the final frontier... These are the lost
+voyages of the Starship Enterprise... On the
+viewscreen, the stars dance in their eternal patterns,
+tiny glimmers in an endless void... All is quiet out
+here, on the edge of the Galactic Rift... And then...
+Sulu, at the helm, blinks at the screen. Surely he
+just saw something there? No, only star-flecked
+space...but...yes! The deflector shields just snapped
+on! Moments later, the Enterprise is buffeted by
+blasts from an unseen enemy. Blow after damaging
+blow strikes the ship, as the crew strives
+desperately to get a fix on their opponent. At last,
+Mr. Spock pins him down, and the photon
+torpedoes, under the sure hand of Sulu, do their
+job.
+Now the damage reports start rolling in. Heavy
+damage on all decks, some of which have been
+evacuated due to life support failure. Fortunately
+casualties among the crew are light; no fatalities.
+Mr. Scott and the repair crews will have their
+hands full, but most of the damage can be fixed.
+However....
+There is one problem Scotty can't fix. Phaser
+coolants have seeped into the ship's food supply,
+contaminating the entire batch. There is nothing to
+eat.
+Too far away to be helped by Star Fleet
+Command, there is only one hope: beam a small
+party down to the surface of the only habitable
+planet in the vicinity, to search for a food supply.
+Quickly, Kirk, Spock, McCoy, and Lieutenant
+Dimas, xenoethnologist, make their way to the
+transporter room. In a short while, they will
+materialize on the surface of Prometheus Four,
+where a strange alien culture waits for an ancient
+prophecy to be fulfilled....
+Thus begins Star Trek: The Promethean
+Prophecy, second in the Star Trek series from
+Simon and Schuster. This time around, however,
+things are different. No fancy screens with pop-up
+windows, this one is all-text. Gone are the weird
+function keys and limited vocabulary. In their
+place, a capable parser, and crew members you can
+really talk to. Even better, the bugs are gone!
+Of course, with the Enterprise in her current sad
+state, you won't be able to go very many places on
+the ship. Indeed, the turbo-lift can only take you to
+three places: the bridge, deck 5, and deck 7.
+But then the real story is on the planet's surface.
+The mystery surrounding the Prometheans must be
+solved before Kirk can solve his own problem of
+the imminent starvation of his crew. It won't be
+
+STAR TREK
+The Promethean Prophecy
+by Scorpia
+Name:
+
+Star Trek:
+The Promethean Prophecy
+System:
+IBM, Apple, C-64
+Designer:
+TRANS Fiction Systems
+$39.95
+Price:
+Publisher: Simon & Shuster
+New York, NY
+
+easy; not all the aliens here are helpful. Some are
+downright hostile. A few may provide cryptic
+answers to the riddle. Most will scurry away. No,
+getting food is not going to be an easy job at all...
+In fact, it's a job that calls for patience,
+ingenuity, and some detective work as you try to
+piece together the truth about the Prometheans. Just
+who are these Prometheans, a declining race sitting
+in the middle of a desert? Why are the caste lines
+so rigidly enforced? What is the mysterious
+Afflictor up to? And what about the prophecy, that
+some speak of in guarded tones? Is the arrival of
+the starship party really the fulfilling of it? Puzzles,
+indeed!
+But as a starship captain (this is the real thing
+now, not a test), you should be equal to the task.
+And you have help, from the comments and reports
+of your landing party members, who do a little
+more than just follow you around like shadows.
+Their input and insights into the alien culture will
+give you some valuable hints.
+There are not very many locations to visit on the
+planet; some people might even be able to get
+around without a map (although having one is
+certainly a good idea). On the other hand, entering
+a few of these places is by no means easy. The
+central compound, for instance, has several gates,
+most of them closely guarded by an armor-clad
+Defender. Kirk and his crew will have some
+difficulties in getting past the Defenders peacefully
+(no, violence is not called for here...of course, you
+can always try it (evil grin), but you'd better save
+the game first!).
+Another problem is the sandstorms. Every so
+
+often, a sroc (as they're called) comes along,
+presenting hazards of its own. Fortunately, the
+Prometheans will allow you into the compound
+during the storm (where you had better be when it
+happens, or this will be a short adventure).
+Unfortunately, as soon as it's over, out you go
+again. So you can't count on learning much that
+way.
+Perhaps the best place to start is the Trader
+compound. You can pick up some rather interesting
+items here, if you do your trading properly (of
+course, you DO have to get in first, but Weelomin
+can help, in return for the right object). One thing
+to keep in mind is that nothing gets traded away
+forever. Anything you give away can be retrieved,
+eventually, by more trading. This is important, as
+most of the items you come across (or trade for)
+have more than one use in the game.
+Of course, figuring out what to do with a forked
+thing or a harrik brush may not be all that easy. A
+little experimentation is certainly called for,
+although nothing is actually dangerous. Just a bit
+strange and obscure, like the Prometheans
+themselves.
+Which is not to say there are no dangers at all
+here. Aside from the sandstorms, you'll come across
+a few other perils, so make sure you keep your
+phaser handy, you will be needing it in a couple of
+places. I'd suggest hanging on to the phaser until
+near the end of the game. By then you should have
+a pretty good idea of what to do with it.
+In the meantime, your explorations of the area
+continue. One gate you find unguarded; this leads
+to the compound of the bizarre Delighters, odd
+
+beings living in an egg-like "house", continually
+circling around a shaft of sunlight. Mumbling to
+themselves and apparently oblivious to everything
+around them, they seem to have no purpose in life
+beyond their incomprehensible movements. Then
+again, as with many other things on Prometheus
+Four, all may not be quite as it seems. Perhaps
+Gaidren, the only Delighter who appears to have
+retained his intelligence, can help. If his memory is
+properly stimulated.
+The compound of the Sustainers, who do general
+handiwork and provide the food for the entire
+society, is another interesting place to visit. In this
+case, however, a guard is at the gate, and he won't
+let you by. You may want to take a good look at
+the carts used by the Sustainers in their daily tasks;
+it might give you some helpful ideas.
+Oddly, the compound of the Defenders
+themselves is now abandoned, and no one will
+prevent you from entering. Then again, it may not
+be all that easy (pesky sandstorms!), but keep
+trying, and you'll get in eventually. There are a
+couple of places that you really have to visit. One
+is right there, and you should pay close attention to
+the table (ask Dimas about it). The other place may
+be something of a problem. That dark expanse
+looks ominous, and it sure is: quicksand, wouldn't
+you know it? Not something you want to merrily
+tromp through, as your chances of making it to the
+other side are just about nil.
+Fortunately, everything you need to get past it is
+close to hand. And when you do get to the other
+side, remember the table. Also, let us not forget the
+mysterious cave near the point where the landing
+party first beamed down. Tricorder readings should
+provide some valuable information and then, it's up
+to you to figure out what to do about it. Finally,
+the Blue Gate, entrance to the compound of the
+Chanters. By the time you're ready for this, it
+should be pretty obvious to you what all your
+activities have been leading up to, and getting
+inside should present few difficulties. If Kirk is
+lacking a certain item, you may need to make a
+visit to the Traders again.
+Once inside, you have reached the endgame. The
+moment is now. A prophecy waits for its
+fulfillment and the destiny of a world is in your
+hands. All you need to do is play it the right way...
+Overall, the Promethean Prophecy is light years
+better than the previous game, in both design and
+execution. While the alien culture may seem very
+strange at first, it is well-thought-out and has a
+Continued on pg. 30
+
+Continued from pg. 27
+logical basis that eventually comes to light as you
+continue to explore the planet and piece together
+the various clues. Careful attention to the text is
+necessary or you might miss something important.
+Handling of crewmembers in the landing party is
+also executed well. Asked appropriate questions,
+they respond intelligently and they will also report
+their own observations to you from time to time,
+even without having to be asked. Just like real
+people, isn't it (grin)?
+Aliens react in pretty much the same manner,
+although of course, they are aliens. You are not
+restricted to a few stock phrases when talking to
+them, although best results are usually obtained
+when asking questions about specific things.
+Several neat little touches can be found
+throughout. One of my favorites is the occasional
+reports you get from the Enterprise while on
+planet. Every so often your communicator beeps,
+signalling a message from the ship. It's not only
+
+very reminiscent of the TV show and a nice
+addition to the game, as well.
+The manual that comes with the game is a joy to
+behold. It is clear, concise, informative, funny, and
+tells you everything you need to know to get
+started with the adventure, even if you know
+nothing about Star Trek. Read it before you begin,
+you'll be glad you did. The game comes on one
+double-sided disk. Saving is done to a separate
+disk, and supports either one or two drives. Up to
+7 positions can be saved on one disk, and saving
+and restoring is quite fast. Currently, Promethean
+Prophecy is available for Apple, C-64, and IBM,
+with a Macintosh version in the works. However,
+Simon and Schuster has no immediate plans for any
+Atari versions, either 8-bit or 16-bit. Considering
+the number of Ataris out there, it's a little strange
+that they should be overlooked. So, all you Atari
+owners, send a letter to S&S telling them you want
+the game for YOUR machine! If they hear from
+enough of you, they just might decide to get out a
+version for your computer.
+Bottom line: Highly recommended!
+Copyright 1987 by Scorpia, all rights reserved..
+
+ESCAPE FROM PLANET ARTH: A Review of
+Starflight
+by Mark Bausman
+The date is 30-10-4619 and you are in your
+quarters aboard Starport Central, Arth Orbit Station. A courier from Interstel Corp. has just delivered the package containing: a transcript from last
+week's Operation Starflight briefing, a technical
+reference manual, operations disk, galaxy map, and
+launch code wheel. You read the briefing and discover that your own home planet, Arth, was actually colonized by a group called Noah 2. This group
+came from the planet Earth. Earth, you discover,
+was the seat of a vast Empire which collapsed during an interstellar war with the "Uhlek",
+"Gazurtoid", and "Phlegmak" races. The Noah 2
+group launched just before the downfall and contained representatives from the Human, Elowan,
+Thrynn, and Velox races. These now comprise the
+inhabitants of Arth. You discover that Interstel
+Corp. is going to supply you with a starship, 12,000
+monetary units, and 20 meters of endurium fuel to
+use to explore the galaxy and determine the secret
+of Arth's founding (you also have to find a planet
+to evacuate Arth's residents to before the game gets
+very far along).
+Since there are 270 star systems and each one
+may have zero to eight planets, this will not be an
+overnight job. Slowly you rise from the chair, don
+your spacesuit, slip the Starflight disk into drive
+"A" and power-up your IBM computer. You've entered the Starflight simulacrum. Beginning in the
+Operations Section of Starport Central, you will
+obtain information necessary for your explorations.
+Be sure to jot down some of this information for
+future reference. Later in the game, you will use
+this section to find out if planets you have recommended for colonization have been accepted. Recommending an acceptable world earns a big reward,
+but bad recommendations incur a penalty.
+After finishing at Operations Section, you must
+spend your 12,000 MU's to equip your ship, hire
+your crew and train them. At the Ship Configuration section, you will purchase cargo pods, engines,
+shielding, armor, missiles, and lasers. You start with
+enough funds to purchase minimal equipment and
+will be able to upgrade through five progressive
+classes of superior technology, as you earn profits.
+It is best to hold off on purchasing lasers, missiles,
+shielding, and armor until the ship is ready to begin exploration away from the home star system.
+(Note: Don't go out of your home system until the
+
+ship and crew are ready. In-system trips are not too
+dangerous, but deep space travel without a welltrained crew and well-armed starship usually means
+you get to start a new game upon your first alien
+contact.)
+Having outfitted the ship, you access the Personnel section and select your crew. This is a very
+important part of Starflight and will require some
+tough decision-making. You choose from the four
+known races (Human, Velox, Thrynn, Elowan) or
+the biosynthetic Androids. Each race and the Androids are rated for their skills in Science, Navigation, Engineering, Communications, and Medicine.
+They are also rated for their ability to survive
+(Durability) and their ability to learn.
+Since operation of your starship requires a captain, science officer, navigator, engineer, communications specialist, and doctor, you must hire and
+train enough crewmembers for one or more
+crewmembers to fill one or more positions. Generally, it is better to have one or two well-trained
+crewmen than three or four with average training.
+It is possible, however, to operate your ship with
+just one person, if you train them properly. Remember that crew may be assigned and reassigned
+at will, so you will not be forced to stick with the
+initial assignments throughout the game.
+After completing the preliminaries, it's launch
+time. After launch, the Starport Central Screen is
+replaced by the main game screen and the real adventure begins.
+While traveling in-system you will have a map
+of the system on screen as well as a view of space
+around you. You can use the system map to guide
+your ship to any of the planets and then use the
+space view to position yourself in orbit around the
+
+desired planet. The Science officer may be called
+upon to scan the planet and report on its condition.
+Information gained from the scan tells you the
+planets temperature, gravity, atmosphere, water,
+Bio-density, and minerals. This is important data
+because planets with favorable conditions may
+spawn life, be the home of ancient civilizations, or
+be recommendable as colony worlds. The scan will
+also tell you the percent of mineral composition and
+
+the probable type of minerals. Mining minerals,
+storing them in your cargo pods, and later, offering
+them for sale at Starport is your main method of
+earning monetary units.
+Since your ship is constantly burning the most
+expensive mineral possible (Endurium), you must
+earn money to replenish the lost fuel. Planets favorable to life conditions are the most rewarding to
+find because they usually have minerals which may
+
+be mined and have life forms to capture and take
+back to Starport for sale. On most of these planets
+you will also find ruins of the ancient civilizations
+which once populated them. You might even find
+remnants of a colony from the Noah 2 group. These
+ancients usually left stockpiles of Endurium just
+waiting to be picked-up and used. Of course, if
+your Science Officer is not well-trained, his interpretation of the scan may be incorrect and you will
+act on invalid information, wasting valuable time
+and fuel.
+If you decide to land on the planet's surface,
+you select a landing spot and order the ship to land.
+As you descend, the planet grows larger in the
+main view screen and topographical details begin to
+resolve themselves with elevations shown in color
+variations. (T.C. Lee did the landing and take-off
+sequences with different fractal graphics for each
+planet. They are certainly some of the most extraordinary ever designed for an adventure game on
+the IBM).
+
+Shortly, you ship fins down and the terrain exploration vehicle automatically launches. All of
+your crew is in the vehicle and you use it to explore the surface, capture life forms, and mine the
+mineral deposits. Planet exploration is very time
+consuming because the terrain vehicle has a limited
+range and the the ship must re-orbit before moving
+to some other part of the planet. Planetary storms
+are common, even on planets with mild weather.
+This is significant because it is in storms that
+crewmembers may be hurt or killed and the navigator may lose his position with regard to the ship's
+location. The latter occurrence makes it extremely
+difficult to return to your ship before fuel runs out
+in the terrain vehicle. There is no automobile club
+on a planet's surface and being out of fuel means
+walking back to the ship. This means: at best, a lost
+vehicle, and at worst, the death of the entire crew.
+The less-trained a navigator is, the higher the possibility that he will lose position in a planetary
+storm. [Ed. Note: The problem of losing the ship
+can be avoided in a relatively simple way. Since the
+ship itself doesn't move in the storm, all the player
+needs to do is scribble some simple directional
+notes on some scrap paper while the ATV is outbound, stop all ATV movement until the storm
+stops - so you know what direction you're heading
+for certain, and are able to retrace your steps.] You
+may launch and re-land the ship in another position
+on the planet as often as you feel there is something left to explore.
+At any time during interstellar travel, you may
+be intercepted by an unidentified object and experience a close encounter of the infinite kind. Your
+science officer can scan the object and determine
+its nature and attack capability. If the object is an
+alien vessel, and it isn't always, you may decide to
+open communications, run for your life, or raise
+Continued on pg. 38
+
+Continued from pg. 36
+screens and open fire. Talking with aliens can give
+you many clues to the locations of the most interesting planets or send you off on wild goose chases
+which result in nothing. The Starflight authors
+have developed an interesting form of Artificial
+Intelligence for these aliens that allows them to
+"size-up" the situation and make decisions based on
+what they see. On my first exploration into Velox
+space, I could not find the approach that would get
+those arrogant fools to talk to me. Every encounter
+resulted in a short communication and then a battle
+which gained a little endurium and no information.
+Finally, I met a ship and opened fire without trying
+to establish communications. I knew that three laser
+blasts would destroy the ship so I fired twice and
+then opened communications to the stricken vessel.
+The Velox Captain was more than helpful, as he
+begged me not to destroy his ship. As Captain, you
+must experiment with various approaches to the
+aliens and determine what works best most of the
+
+time. You may go into an encounter with screens
+up and a hostile posture or you may decide to assume a friendly posture with screens down. Only
+experience will give you a handle on alien encounters and even then the same aliens will not always
+act the same way. But then, getting there is half the
+fun.
+[Ed. Note: If you find yourself reduced to such
+drastic actions in alien encounters, you might want
+to look at the Cheat Sheet which is printed upside
+down at the end of this review. Our inside source
+has provided us with significant insights on intercultural relations.'
+NOTES ON PLAY
+By exploring your own system and the nearest
+star, you can obtain enough money from mining to
+equip the ship with a level 3 screen and level 5 armor. You also need to train a human in navigation
+and hire and train a Thrynn in communication.
+
+Continued on pg. 51
+
+DESIGNER PROFILE:
+
+by Frank Boosman
+Doug Crockford got his start at designing computer games with Galahad and the Holy Grail, a
+graphic adventure he wrote back in the heyday of
+the Atari 800. After stints with Atari and National
+Semiconductor, he joined Lucasfilm's Game Design
+Group, where he is working on the joint venture
+between Apple, Lucasfilm, and National Geographic to explore educational uses of CD-ROM
+technology.
+I interviewed Doug at Lucasfilm's headquarters
+in Marin County, almost an hour north of San
+Francisco. Lucasfilm is almost hidden in the forest;
+it's difficult to find it even if you know what
+you're looking for. It's a very peaceful, tranquil
+place to work, with the latest in computer technology mixed in with stables and Victorian houses. It's
+said the deer come down the hills to the buildings,
+and why not? Above all, Lucasfilm seems friendly.
+CGW: How did you get your start doing computer games?
+Doug: I started in college. I went to San Francisco State, majored in radio and television, and
+graduated in 1975. While doing that, I took a couple of classes in Fortran, had a real good time with
+those, and then got into time-sharing. I worked my
+way through college in the school behavioral social
+sciences time-share laboratory, so that gave me a
+real different type of background than you might
+pick up in the school of Engineering or the school
+of Mathematics or wherever else the computer stuff
+was going on. I bought an Atari computer in 1980
+and I had in mind to do a whole bunch of stuff
+with it. I was going to start with a word processing
+program. I found the machine was just too small
+and I just couldn't do a good job with that. I was
+going to write a programming language in 6502 and
+it didn't lend itself to that, and I said, "What does
+the machine do a real good job with?" and I
+thought, "It does a really good job of doing video
+games," so I did a game I called Knightsoil and
+when I was finished I sent it to APX and they said,
+"We really like it: it won the quarterly prize, and
+we're changing the name because we can't call it
+Knightsoil."
+CGW: Knightsoil?
+Doug: It's a pun. If you take off the "K" it's an
+archaic term for excrement. Someone there was
+literary enough to figure it out. So they wanted to
+change the name to Lancelot and the Holy Grail,
+
+and I said, "That's OK, but Lancelot never found
+the Holy Grail." So, it became Galahad and the
+Holy Grail. It was okay; it was a pretty good first
+attempt and it sold pretty well for APX and almost
+went mainline at Atari, but the whole thing fell
+apart before it could happen. But, the good thing
+for me out of that was that I got a job at Atari research.
+CGW: That was Chris Crawford that hired you,
+right?
+Doug: Chris Crawford hired me on the strength
+of that first game. It turned out that Chris and I
+didn't get along real well, so I migrated to different
+parts of the laboratory and worked on different
+things. I was helping to design a new home computer there. I was working on the development effort to make graphics chips for it. I was working
+on the programming language environment that I
+bought the Atari to do in the first place, but now I
+could do it right in the context of the new machine. My goal was to make a machine which could
+do video games and be simple enough hat kids
+could write their own games. I got fan mail from
+"Galahad" players saying, "That was great. What do
+I have to do in order to write a program like that?
+What books do I have to read and what classes can
+I take?" The answer was, "There are no books that
+you can read and there are no classes that you can
+take; it's just real hard." So I started to develop an
+operating environment. There was talk in the lab of
+something called "Kit" where you allow people to
+make their own applications and most of the applications that people make are the same, but they
+would be constrained by what the "kit" does, so if
+people want to make spreadsheets, they get a
+spreadsheet kit; people want to make environments,
+they get an environment kit. I also have this powerful language called "Ply"...
+CGW: P-L-Y?
+Doug: P-L-Y. P for programming, L for Ian-
+
+gauge and Y because we like you. Then we designed a computer called the "Gump"...
+CGW: Gump?
+Doug: Gump, G-U-M-P, the graphics and music
+'puter, that was going to have a chip called the
+"Rainbow," a graphics chip that I was working to
+develop, and a marvelous music chip called the
+"Amy" that you might have heard about with a
+processor in memory and all that kind of stuff, but
+the lab got closed before we got to finish that.
+CGW: Wasn't Alan Kay involved in that stuff?
+Doug: Yeah, he founded that laboratory.
+CGW: There were some other interesting projects out of that laboratory. There were things that
+they were working on that never saw the light of
+day. What were some of the things that you were
+doing there, besides what you talked about?
+Doug: Other people there were doing stuff on
+intelligent animation...
+CGW: Intelligent animation?
+Doug: Where the computer would actually know
+a great deal about the structure of the things being
+animated, whether it was based on constraints systems or behavior modeling or whatever.
+CGW: So you mean you could say, "Tell Goofy
+to walk from here to here" and it would automatically animate that sequence?
+Doug: Stuff like that. But that was more longrange kind of stuff that they were working on. It's
+unlikely that you could just tell Goofy that and really get what you want. They were working on the
+things that would ultimately lead to that. There was
+a media room project in which there would be a
+room with projectors on all four walls in which you
+were supposed to be in a simulated place that was
+indistinguishable from reality. There had been some
+video game research, but that got discontinued
+pretty early on. Then there was the electronic encyclopedia project.
+CGW: What was that?
+Doug: Essentially you have a huge data base in
+your computer and you could look it up and interact with the articles, either by running simulations
+or animations inside of articles, or by calling constraints of cross references. And stuff like that is
+actually starting to happen.
+CGW: CD-ROM and CDI now.
+Doug: At the time it looked so... far out. But
+that's actually one of the most practical things that
+they worked on.
+
+CGW: So, you were at Atari, you migrated out
+of the game design group, and migrated into other
+interesting projects. Then what happened?
+Doug: Then Warner sold Atari and I left. I
+worked briefly at National Semiconductor. I
+thought there was a chance there that I could take
+the computer ideas that I was working on and actually get them implemented. It turned out that that
+wasn't the place to do that and so I ended up here.
+CGW: How did you feel that National Semiconductor was going to help you with that?
+Doug: I was talking to a consumer marketing
+group there. They don't sell their semiconductors to
+consumers, they sell them to a manufacturer who
+then sells them to consumers. So, they were looking
+at things like automotive, microwave ovens, things
+like that; places where they could put their semiconductors. They were also looking at information
+systems, home computers, things like that. Part of
+what I would be doing would be sketching up possible home computers, presenting those ideas to
+manufacturers who would then go and make them.
+Part of that business turned out to be real weak
+because nobody is selling home computers anymore.
+And we could talk about why that's happening...
+but after a month or two I realized that my dreams
+were not going to come true at National Semiconductor, so I came here.
+CGW: So you came here to Lucasfilm when,
+what year?
+Doug: Let's see, I got here in November of 1984.
+So, I've been here for almost 2 years.
+CGW: When you came aboard here, what did
+you expect, and has that turned out to be the case?
+Doug: I expected that we would be mostly doing
+home video games. For me, that hasn't been true.
+I've done almost no home video games here. I did
+do a design for a game that didn't get implemented
+because I found some more interesting things to
+work on. I am much closer to doing the really wild,
+great stuff here than anywhere else I can imagine.
+CGW: Really?
+Doug: Part of it is hype. Lots of people want to
+work with Lucasfilm, not because we've demonstrated that we can do anything yet, but because we
+have this reputation and we have this glamour.
+We're doing some really interesting stuff with other
+corporations: new hardware developments, some of
+which you've heard about, some of which you
+haven't. They need help in figuring out what to do
+with it and they will often come to us and be very
+
+interested, so I get to work on that stuff. It's mutually rewarding.
+CGW: In other words, you expected to work
+mostly on video games, but you've worked on a
+much more eclectic group of projects. Are you
+happy with the way it has turned out?
+Doug: Oh, yeah. It's wonderful. I can't imagine
+doing anything more interesting than this. And I
+can't imagine a better place to be doing it in.
+CGW: So, maybe that's why everybody wants to
+work at Lucasfilm?
+Doug: True. And a lot of that hype is true,
+which is a good thing. This is a very nice place to
+work. We've got very good people.
+CGW: Do you keep up with the games market
+much? Do you play computer games?
+Doug: I'll play one occasionally, but I don't do
+much of it.
+CGW: Have you seen any computer games that
+you really liked lately?
+Doug: No. I'm pretty disappointed by the whole
+thing. To me the collapse of the video game thing
+and the home computer thing all point at a set of
+serious problems. And I don't usually see things
+that seem to at least recognize these problems and
+overcome them.
+CGW: What are those problems?
+Doug: Like with home computers—the big problem was that they didn't do anything useful. And
+for a long time it didn't matter; people were so
+swept away with the technological capabilities and
+possibilities. They had grown up with them in TV
+and movies and they thought, "Wow, if I can just
+get a computer, my own computer, I can go against
+the establishment, I can get control of my life,
+could be in power, could have all this stuff working for me. Just wait." Well, then it happened—the
+machines came out and people were baffled by
+them. The machines were pretty stupid, they were
+much too hard to use. They were all cryptic and
+once you did all that stuff and were able to do
+things, things you did turned out weren't very interesting or helpful. The grand vision just never
+came true. You know the stuff we heard about, the
+Dynabook that first was talked about in the early
+seventies, wow, imagine when that gets
+out—amazing. And it didn't happen. Hardly any of
+that turned out to be true. The biggest thing that
+happened was that we got desktop metaphors on the
+Macintosh. That's not that useful.
+
+CGW: You don't think so?
+Doug: Not nearly enough. It doesn't come nearly
+close enough to delivering on the promise. It
+doesn't empower you, it doesn't help you get control of your life. So, my opinion is that home computers are never going to get big, or won't get big
+again, until someone figures out what they are good
+for. It hasn't been done yet.
+CGW: In designing software, where do you want
+to take people?
+Doug: I want to make them feel things. I want to
+give them things that they can take away and use.
+In video games there's a lot of skill-building, especially in the skill-and-action games where you're
+doing a lot of things, knocking things down, and so
+forth. But the things you learn don't do you any
+good in the real world. You can be failing in life,
+play a tremendous video game, and still be failing
+1
+in life. So what I'd like to do is give you something
+you can take with you and not just give you trivia.
+There's some deep psychological thing that I think
+we can get at that will do nice things for people.
+CGW: Are there messages inside you that you
+want to get out through game-like experiences?
+Doug: No. I'm not looking at it as propaganda,
+but more as helping people to find emotional material that's in themselves and finding a way to
+connect to it.
+CGW: You think you can do that?
+Doug: Yeah, I think I can.
+CGW: When?
+Doug: I don't know. The biggest obstacle is getting a delivery medium. I need something that has
+enough resolution and enough graphic presentation
+power to deliver the things I want to deliver. And I
+need it to be cheap and I need it to be now. And I
+don't have it yet. I've seen some stuff that's coming
+real close.
+CGW: CDI?
+Doug: CDI doesn't come close, but we're going
+to get into CDI. It could do well. So we're going to
+get into CDI, most likely, even though it's not the
+medium that I'd like.
+CGW: Why is it not the medium you'd like?
+Doug: I have problems with the CD itself. I need
+a lot more storage and a lot more bandwidth. If you
+think of it in video terms—you know what a "jiffy"
+is, right? That's a sixtieth of a second. We want our
+graphic programs to be running at that speed.
+That's the best you can do with television.
+Continued on pg. 44
+
+.
+
+Continued from pg. 42
+
+CGW: You can do about three frames per second
+with CDI, right?
+Doug: Yeah. The CD itself can deliver about
+2.5K per jiffy. And so you try to imagine, "What
+kind of an experience can I deliver in a sixtieth of
+a second with 2.5K?" And that's not much. So I'm
+bandwidth-limited. There's only so much information that you can deliver. And then if you look at
+random-access, CDI does even worse.
+CGW: It's slow. Why do you need so much
+bandwidth?
+Doug: I need the bandwidth because of Mom.
+CGW: Mom?
+Doug: Mom. M-O-M. In order for it to be successful, Mom has to buy it. You can't have Skip
+and Dad doing this in the basement. The whole
+family's going to have to buy into this or there
+won't be enough to make critical mass. If Mom gets
+suspicious of this the same way she did of the VCS,
+it won't fly. And Mom didn't do real well with
+video games because all she ever saw were these
+little jagged things. If it doesn't look as good as
+what she watches on television, and if she has to
+look at it on a television set, there's going to be
+some psychological barrier. She's not even going to
+be aware of it, but there's going to be something
+that's going to keep her from connecting with
+whatever it is you're trying to give her. So I need
+something which is going to be video-like.
+CGW: So Mom is the crucial person?
+Doug: I like to design my stuff for Mom.
+CGW: Did Galahad and the Holy Grail appeal to
+Mom?
+Doug: No.
+CGW: Who bought it?
+Doug: Teenagers. Dads. There were some Dads
+who worked at Atari who became major fans; I almost destroyed some marriages with it. The thing
+was nice in that it never demanded that you play
+the game. You could make up your own game, invent your own rules, and go off to some other part
+of the kingdom to do your own stuff. There's a
+holy hand grenade of Antioch in it. And that was
+intended to kill a rabbit.
+CGW: Of course!
+Doug: But you didn't have to do that. You could
+just go around and blow up the landscape. And so
+people do that. They blow up the landscape, they
+blow up themselves, and they go and get it again,
+
+because when you die, everything's resurrected.
+They could go and see how many rooms they could
+blow up. And I never really intended that, but if
+you can do it, why not?
+CGW: If you weren't at Lucasfilm—if you were
+an independent—which computer would you be designing software for, and what kind of software do
+you think you would be designing?
+Doug: Realistically, I think the only choice right
+now is the Commodore 64.
+CGW: Because of the size of the market?
+Doug: Yes. If 1 could be designing for the machine 1 liked, it would probably be the Atari 800 or
+the Amiga.
+CGW: What kind of software do you think you
+would be doing?
+Doug: The world could still use a really good
+music program.
+CGW: What about Deluxe Music Construction
+Set from Electronic Arts?
+Doug: The music program that I would like to
+see hasn't been written yet. if you have music in
+your head but do not have the formal training to
+translate it into real sound, the computer should be
+able to help you do so. This seems to me to be one
+of the useful tasks that a personal computer can do.
+CGW: Any other programs you would like to
+do?
+Doug: There are still some video games I would
+like to write. One problem is that the market for
+those games probably doesn't even exist anymore.
+The people I would have sold it to aren't buying
+anymore. So I would probably have a very tough
+time writing video games.
+CGW: If you couldn't do what you're doing here
+at Lucasfilm, what would you like to do?
+Doug: I don't even think about it anymore. Perhaps I should protect myself, but I'm having such a
+good time here...
+CGW: What happens if your group is sold off?
+George Lucas has already sold Pixar and DroidWorks.
+Doug: They sold off things that were not production-oriented. Anything that was making
+movies, they kept. Anything that was developing
+technology, they spun off. We're sort of in the
+middle, but as long as we can keep track of what
+we're doing, and make sure that we're doing production and not technology, and as long as we can
+be profitable, then we have a home here.
+
+I
+
+TITLE:
+Blue Powder, Grey Smoke
+SYSTEM:
+Apple II, (soon C-64)
+# PLAYERS: 1-2
+PRICE:
+$49.95
+DESIGNER:
+Ralph Bosson
+PUBLISHER: Garde' Games of Distinction
+8 Bishop Lane
+Madison, CT 06443
+(203) 245-9089
+
+Normally, one gives the benefit of the doubt to
+any new company which enters the wargaming or
+computer wargaming field. After all, there just isn't
+much money for a struggling new business. One
+simply doesn't expect the first effort of a publisher
+to match the "cutting edge" market level. In the
+case of Garde' games, however, the first release can
+stand on its own. This is because it is based on the
+efforts of a top-flight designer. The game is BLUE
+POWDER, GREY SMOKE, and the designer is
+Ralph Bosson. Bosson's first game, UNDER FIRE!
+was quite a hit for The Avalon Hill Game Company.
+BLUE POWDER, GREY SMOKE (BPGS) is a
+game which covers operational and tactical engagements during the Civil War. It includes nine scenarios drawn from three of the most famous Civil
+War battles: Antietam; Gettysburg; and Chickamauga. The game includes a 48 page rules booklet
+and the game diskette. The rules booklet contains
+the rules, a tutorial to follow along through the introductory scenario, and the scenario descriptions.
+One point does need to be cleared up, however.
+Just exactly what "kind" of game is this? The text
+on the box implies that BPGS has role-playing elements and that you can choose to command anything from a single company to the entire Army Of
+The Potomac. Well... actually, it has no more roleplaying elements than any other wargame, as far as
+I can see. When you play a scenario, you are taking
+the place of a particular army officer in history.
+You try to do better than he did historically. In
+BPGS you do give your units their orders using realistic Civil War military lingo, but that alone can
+not qualify it as a role-playing game in the classically accepted sense. There is no character generation, no continuation of a character from one scenario to another, and no real impact of your
+"character" on the game other than the fact that you
+are in the position of "the man at the top".
+The second point I mentioned, that of being able
+to take control at any of several different command
+levels, leads to a discussion of one of the oddest
+features of the game. I will defer this discussion
+
+until we have looked at the game as a whole. Suffice it to say that you can assume any of several
+different command levels, but that these are specific to each scenario. The scenarios span a broad
+range, from a tactical engagement where each unit
+represents 50 to 200 men (and you play a company
+commander) to operational battles where each unit
+represents an entire division (and you command
+several Corps).
+THE SYSTEM
+BPGS recreates Civil War battles in a "real time"
+environment. There are no "turns" per se; the battle
+progresses and men move and fight on the screen as
+a "clock" in the menu area keeps track of the time.
+The player can request an interrupt at any time and
+this freezes the action. One is then free to issue
+new movement and fire orders, check the status of
+friendly units, or whatever. Then, a simple press of
+the "fire" button on your joystick (Apple owners
+can also use the "Escape" key) and the action starts
+again.
+The primary task for the player in BPGS is to
+give movement and combat orders to his units. In
+setting up the orders system, Ralph Bosson has
+created the strongest part of his design. The lower
+third of the monitor screen is used for a series of
+windows which contain both menus and information displays. After stopping the game action, all
+player inputs are menu driven, and the entire game
+can actually be played by toggling the joystick to
+
+by Jay C. Selover
+
+select an option and pressing the "fire" button.
+Movement, facing, and posture orders are all
+given to units by a similar procedure. Units can be
+individually selected and then ordered to move to a
+location by either a computer-chosen or playerspecified path. If you just want your men to move
+from one point to another by the most efficient
+route (as when reinforcements arrive and are
+headed towards the battle area), let the computer
+choose the path and take care of getting them
+there. If, however, a unit needs to follow a specific
+path (you want the men to slip around behind the
+enemy and attack them from the rear), then you
+can give orders to the unit which will specify the
+exact route to be taken. The movement orders are
+the same as would really have been used; examples
+are "Column right march" and "About face, double
+quick march." Most of the orders (which are actually constructed by stringing together separate
+words which are on the Orders Menu) will be easy
+to grasp, but it will take some time to get used to
+the "oblique" commands. The game uses a square
+grid. Therefore, a unit can have any one of eight
+facings. "Oblique" commands turn a full turn into a
+45 degree turn. Thus, a north-facing unit which
+executes a "Right oblique face" will then face
+northeast. What can make it confusing is that units
+can march on the oblique without changing facing.
+In addition to simple movement orders, players
+can specify both the formation and posture of their
+men. Units can be in column, in line, or in skirmish order. Units can also be split in half for pur-
+
+poses of formation (they must always remain together for movement). Units can also be ordered to
+"deny the flank." This means to bend back about
+one third of the line at an angle to keep from being
+attacked in the flank. The combination of splitting
+a unit and the "deny" orders even allows an isolated
+unit to form a "box" for maximum defense. In this
+case, the unit is split and the two halves face opposite directions with both halves denying one
+flank. Therefore, there is very little the enemy can
+find in the way of exposed flank or rear. For posture orders, each unit can be ordered to stand,
+kneel, or lie prone. These have appropriate effects
+on movement capabilities and defense against enemy fire, as well as affecting the ability of the unit
+to spot enemy units.
+Combat orders can also be controlled either by
+the computer or specified by the player. Each unit
+can be ordered to "fire at will", in which case the
+computer will decide which enemy unit poses the
+greatest threat and select it as the target. Or, the
+player can specify a target for each unit. In this
+mode, the player also has control over several firing
+techniques which were actually employed in the
+Civil War. Units can either "volley fire" (all men
+shoot at once and then reload) or fire by rank or
+by file (part of the unit fires and then the rest of
+the men fire while the others are reloading or as
+soon as the others have finished reloading).
+One of my quibbles with the documentation for
+the game is that there is little in the descriptions of
+some of these specialized orders to indicate how
+significantly they can affect a battle. The ability to
+split a unit in half plus the ability of each half of
+the unit to execute a different special combat order
+allows you to execute as many as four separate fire
+attacks by one unit against one enemy unit in a
+minute of play. Each of these separate attacks is
+weaker than the volley fire of the unit as a whole,
+but an enemy unit with reduced morale has a
+chance to break and rout whenever fired on. Thus,
+the same number of casualties could give you a
+much better result by careful management of your
+formations and combat orders.
+The basic units in BPGS are made up of either
+infantry, sharpshooters, cavalry, and artillery. Infantry make up most of the units, and they are, of
+course, the good old foot soldier. Sharpshooter units
+are very rare and are basically the same as infantry,
+but with more effective firepower because of the
+better rifles and improved training they received.
+Cavalry can be either mounted or dismounted, with
+
+appropriate effects on movement and combat. Cavalry can fight while mounted, either at normal
+ranges (though pistols can be wildly inaccurate
+fired from horseback), or in close combat in cavalry charges (sabers drawn!). Artillery can be limbered and unlimbered with, of course, only unlimbered artillery able to fire.
+
+CHROME
+Maybe it's not accurate to call the peripherals
+"chrome," but by now, we have come to expect
+certain things of a good combat simulation. Quite a
+few weapon types are represented in the game. Artillery batteries will contain the historical types of
+cannons which really made up each battery,
+whether Napoleons, Howitzers, or Parrot Rifles.
+Not all of the exact types are represented, but there
+is enough differentiation to give a fairly accurate
+accounting (five types of artillery and four types of
+rifles and carbines).
+Morale, fatigue, and command control are
+tracked for each unit. Although morale and fatigue
+are affected by the progress of the battle, I was a
+bit disappointed to see that the command level of
+each unit is apparently preset and fixed in each
+scenario as a function of the quality of that unit's
+leader. There are no higher level headquarters units
+in the game.
+As is appropriate in a Civil War game, morale is
+the great destroyer of units. As a unit takes casualties or remains in prolonged battle, the morale of
+the unit begins to suffer. If it gets too low, the unit
+routs and heads for home. The player loses control
+of the unit as it runs headlong towards the rear.
+One can only wait and hope that the unit's commander will rally his troops at a later point (it
+seems to take anywhere from half an hour to several hours in game time) and return them to your
+control.
+
+SCENARIOS: A MATTER OF SCALE
+In discussing the scenarios that are presented in
+the game, I can no longer avoid discussing the one
+oddity of BPGS that I mentioned earlier. This is a
+problem with the varying scales of the scenarios
+and the units of maneuver. As mentioned before,
+the scenarios cover situations that range from
+brigade-level actions up to full size battles. How
+can one game cover such a wide range? This game
+
+accomplishes this by changing the scale of the map
+and the unit of maneuver. In a tactical engagement
+scenario, one finds the units represent companies
+(50-200 men) and each map position represents
+about 50 yards. In the large scenarios, the units on
+the map each represent divisions (2000-6000 men)
+and the map positions are each approximately 500
+yards across. What this seems to teach the player is
+that a brigade commander in the Civil War would
+do pretty much the same thing as a Corps commander, but with smaller units. This may be true in
+general terms of ordering subordinate units to go to
+certain locations in order to fight, but the orders
+system in the game seems more appropriate for the
+lower level commanders. Whole divisions were seldom treated as a single unit of maneuver in the
+Civil War.
+Even more peculiar is the lack of consistency in
+the units of maneuver within the scenarios. Each
+scenario includes between five and thirty units per
+side. Most units in each scenario represent the same
+sized unit, but there are exceptions in most scenarios. For instance, in the scenario covering the first
+day at Gettysburg, the Union I Corps is represented
+by brigade-sized units while the units representing
+Howard's XI Corps are each divisions; Wadsworth's
+division (I Corps, 3600 men) has two units on the
+map (one for each brigade, about
+1800 men each), while Schurz's division (XI
+Corps, 3900 men) is represented by a single unit.
+Granted that the men in XI Corps were probably
+only about half as effective as those in I Corps, and
+that a single brigade from Howard's Corps probably
+could not have done anything worthwhile, one must
+still argue that if one allows independent maneuver
+by brigades in one unit, we should be allowed to do
+it in other units as well.
+An even stranger representation is the selection
+of Confederate units in that same scenario. The
+historical units were Heth's and Pender's divisions
+(in A.P. Hill's Corps) attacking down the Chambersburg Pike, followed later that morning by
+Early's and Rhode's divisions (Longstreet's Corps)
+from the north. In the scenario, each Confederate
+division is represented by two units. These apparently each represent two or three brigades apiece. A
+"half division" simply was not a unit of maneuver
+in the Civil War. Either each division should be
+forced to remain together as one unit on the map,
+
+Continued on pg. 56
+
+Continued from pg. 38
+With this configuration, you have a ship that can
+explore a little further out and escape if communications with aliens seem to be falling apart. Your
+next upgrade should concentrate on the training of
+crew so that you have highly skilled and non-android crew at all positions, except engineer and
+doctor. You will be ready for deep-space exploration when: all crew are trained to the max; your
+engines are at level 3; your shields at level 4; armor
+at level five; and laser cannon at level 2. When you
+add an offensive capability to your ship, you gain
+the advantage of being able to destroy alien vessels
+and then pick-up any endurium they may have had
+with them, but remember, they shoot back and a
+well trained Engineer can be worth his weight in
+gold when repairing damaged systems in space.
+With all ship's systems at level 4 except armor
+which should be at level 5, about 20 cargo pods,
+and a highly trained five person crew, you can explore about 95% of the galaxy with very few trips
+back to Starport Central for repair and replacement.
+[Ed. Note: Imagine a spacefarer with Humphrey
+Bogart's voice, "Don't get cocky, kid, because there
+are still some places you can't go and live to tell
+about until all systems are maxed. Even then, you
+may need to get the first shot while the alien's
+screens are still down in order to survive."]
+In short, Starflight has to be the best science
+fiction game available on computer. Warm approval
+is certainly due Rod McConnell for his creative
+initiative and over-all direction, Joe Ybarra for
+taking the risk to produce more than either a
+"shoot-em-up" game or a sci-fi "D & D;" Greg
+Johnson for his work as lead designer and primary
+character creator (Guide Of Development?); Alec
+Kercso for a dynamite programming achievement;
+T. C. Lee for the aforementioned graphic sequences; and Bob Gonsalves for the sound sophistication. Some will talk about Sundog and others
+will speak in hushed tones about Universe I, but
+Starflight will hold a special niche for a long time
+and give many months of pleasure before the final
+exploration occurs.
+By the way, If you play the game from hard
+disk, I recommend that you set up a couple of subdirectories to hold various stages of the game. Use
+the save game option and then copy all files in the
+main play directory to one of the sub-directories. If
+your ship gets destroyed or all the crew dies the
+
+game starts over from the beginning. If you have
+saved the files then you can restart by copying the
+sub-directory back to the main directory and you
+can pick-up the game from your last saved position. Happy exploring.
+
+MICRO-REVIEWS
+
+PATTON VS. ROMMEL
+TITLE:
+PATTON vs ROMMEL
+SYSTEM:
+Macintosh
+DESIGNER:
+Chris Crawford
+PUBLISHER: Electronic Arts
+San Mateo, CA
+
+BACKGROUND
+They were the two greatest tank commanders of the second world war. The
+American was George "Blood & Guts"
+Patton and the German was Erwin Rommel, the "Desert Fox." Brilliant, combative
+and fiercely competitive, they were, ironically, never to face each other in battle.
+Until now, that is! Now, Electronic Arts
+and Chris Crawford have teamed up to finally bring these two legendary figures
+from World War II together. This is the
+contest they were meant to fight more
+than forty years ago, PATTON VS.
+ROMMEL (PVR), the Battle of Normandy.
+PVR is set in post D-Day Normandy.
+By late July of 1944, the "victorious" allied
+invasion of Hitler's Fortress Europe was
+looking altogether too much like the failed
+Anzio landing in Italy, the previous year.
+Instead of a swift advance from the beachhead, the British and Americans were
+bogged down for nearly two months by
+interminable hedgerows infested with a
+seemingly endless supply of veteran German soldiers. Making matters worse, these
+battle hardened veterans were commanded
+by one of the ablest German generals ever
+to carry a Field Marshal's baton, Erwin
+Rommel. Something had to be done to get
+the stalled Western Front moving. That
+something was Operation Cobra, a massive
+allied aerial bombardment followed by a
+breakout led by the American armored
+and infantry units in the Normandy
+pocket. To lead the attack Gen. Bradley
+would finally choose the most combative
+soldier to wear an American uniform since
+Robert E. Lee, George Patton. This clash
+of intellect and spirit was not to be. A
+week before Cobra began, Erwin Rommel
+was severely wounded by an allied fighter
+bomber and out of the war for good. Chris
+Crawford's PVR brings them together at
+last!
+PVR comes in the now standard EA
+"Slip Cover" style packaging. The cover
+art is pure EA, depicting Patton and
+Rommel glowering face to face with a map
+of Normandy in the background! (Patton
+& Rommel Go One on One?) Inside you'll
+find a program disk and a game manual
+that's both readable AND informative, including historical background, "Quick
+Start" rules for those too impatient to read
+the manual before booting the game disk,
+separate sections for each level of the
+game, Beginner, Intermediate and Advanced and finally a short biography of
+both George Patton and Erwin Rommel.
+
+GAME SYSTEM
+In PVR Crawford's gaming system
+brings a host of game options and some of
+his own innovation to strategy gaming in
+general and the Apple Macintosh in particular. The game proceeds in "turns" of 24
+hours with simultaneous allied and german
+combat and movement. In addition only
+those enemy units within "sight" of a
+friendly unit are visible on screen. Having
+Panzer Lehr disappear into the Boccage
+can give even the boldest gamer pause!
+The scale is divisional, with off-screen
+tactical air support available to the allied
+player only. (Allied air supremacy on the
+Western Front was nearly absolute by this
+time. A popular saying making the rounds
+of the Wehrmact went, "Wo ist der Luftwaffe"?) Air support is "attached" to one
+of a maximum of two divisions for any single 24 hour period. In addition, Generals
+Patton and Rommel will accompany one of
+their units, lending considerable command
+benefits to that unit, as well as the ability
+to "intervene" during a game turn. This
+allows players to change orders for any
+friendly units nearby, if need be..
+PVR includes three levels of play, Beginner, Intermediate and Expert. In the
+Beginning Level, for those new to war
+gaming, both game play and on-screen
+commands are simplified. In the Intermediate Level however, you not only direct
+where a unit is supposed to go but how it's
+supposed to get there and just how it will
+execute combat. Six new Attack and Defense Modes are available to execute more
+sophisticated movement and combat commands. In addition units may even wait
+for a specified time and change their facing
+to maximize fire power. Finally the Expert
+Level is really a game "editor", allowing
+the gamer to change any of the game's
+parameters from unit combat capability,
+speed, breaking point etc. While this isn't
+a game design kit (you couldn't create a
+Bastogne Scenario for example) you could
+change a few parameters and turn a war
+weary Wehrmact unit into a crack SS Division for example.
+GAME PLAY
+Game play in PVR may be either two
+player or solitaire, with both veteran and
+novice gamers finding a challenging computer opponent. But Crawford has gone
+one giant step further and in PVR has created a solitaire opponent which is much
+more than a mirror image of Chris Crawford, the designer. What you, as the
+gamer, really want as you play the game is
+the opportunity to actually face Patton or
+Rommel in combat and test yourself
+against "their" tactics. Well, Crawford's
+done just that. The computer Patton or
+Rommel uses the same type of offensive
+and defensive tactics that both generals
+used historically during their campaigns!
+PVR uses the hi-resolution Macintosh
+display to full advantage, as well. The
+
+screen displays a detailed, and we do mean
+detailed, map of the Normandy peninsula
+with terrain, rivers, towns and the all important road network displayed in striking
+detail. Units may be identified using either
+infantry or armored icons or, instead, may
+display their relative strength or combat
+capability. The effect is rather like unfolding a topographical map over the hood
+of your jeep or Volkswagen behind the
+lines! Using the familiar Macintosh Interface a series of game options in pull down
+windows are available from a menu bar at
+the top of the screen including executing
+the next turn and loading and saving
+games in progress. Arranged along the left
+side of the display are a series of command
+icons. "Cracked", or demoralized units are
+even depicted with , you guessed it,
+"cracked" icons! I just wish I could say as
+much for the sound effects. One of the
+combat sounds has more in common with a
+bronx cheer then the roar of battle and
+mercifully the sound can be turned off.
+(The Mac REALLY does have a four voice
+audio system, honest!)
+Audio aside, the net effect of all this
+ingenuity on the Mac is a VERY playable
+game. PVR plays quickly with minutes,
+rather then hours, between turns. Indeed
+players are tempted in PVR to play "just
+one more turn". And if you think the
+Macintosh made spreadsheets and word
+processors simple to use wait till you see
+what it, and Crawford, have done for computer gaming! PVR employs a gaming
+system designed to simulate battlefield
+command as well as combat. Battlefield
+commanders, after all, give units an
+"objective", leaving to their subordinates
+the details of just how those "objectives"
+will be taken. "Orders" in PVR are issued
+in much the same way. The unit to be
+moved is selected with a click of the
+mouse, a statistics window opens on screen
+showing the infantry or armored units
+available strength in men and tanks and
+the unit's "relative" strength in the game.
+In addition, weather permitting, air support may be assigned to the unit, if available for the next day's operations. Movement in PVR couldn't be easier. Simply
+point to where you want the unit to go
+with your mouse and "click". Multiple orders can be issued to a unit in this way
+and the sequence of orders is even
+"remembered" from turn to turn! This aspect of the system goes a long way to create both a more "playable" game and more
+sophisticated simulation.
+But Crawford isn't done just yet. One,
+often valid criticism of computer vs. board
+gaming is the lack of social interaction
+when playing a solitaire computer game.
+Even in two player games it's one thing to
+have your opponent point out that your
+"lightning" advance seems to be held up in
+a traffic jam on the road to Caen but one
+can't help wondering what Patton or
+Rommel would have advised you to do. In
+PVR there is a game option that brings
+the General and the Field Marshal ON-
+
+SCREEN at the conclusion of each game
+turn in order to offer a few choice comments concerning your handling of the
+operation! Veteran garners will enjoy the
+interaction and newcomers will find the
+advice goes a long way to making an
+evening with PVR enjoyable rather then
+needlessly frustrating.
+This reviewer can think of no other
+computer game, on any computer, that
+he'd choose to introduce the joys of war
+gaming to a friend than PVR. It's not a
+"monster" game or an exhaustive "study"
+of the Normandy military campaign. It's
+what we used to affectionately call in
+board gaming a 'beer and pretzel' game.
+Simple to learn and play and great good
+fun!
+William H. Harrington
+
+STRATEGIC CONQUEST PLUS
+TITLE:
+Strategic Conquest Plus
+SYSTEM:
+Macintosh
+DESIGNER:
+Peter Merrill
+PUBLISHER: PBI Software
+1111 Triton Dr.
+Foster City, CA 94404
+(415) 349-8765
+
+Strategic Conquest Plus (SC+), from
+PBI Software Inc., is a Macintosh game
+with a difference. Actually, it's quite different. This latest version of Peter Merrill's game may be played either single or
+multiplayer and includes some new and
+rather unique features and enhancements
+over the original. These include improved
+graphics, automated moves, automatic
+game saves, digitized sound and even support of the AppleTalk Network! My favorite improvement is what I consider the
+most insidious copy protection scheme yet,
+but more about that later. SC+ comes
+packaged in a conventional slip cover, but
+the cover art depicts a graphic display of
+the globe that has absolutely nothing to
+do with the game. What ever worlds you
+conquer in SC+, it definitely won't be this
+one. The documentation, though not as
+"slick" as some, is well written, readable
+and includes numerous screen printouts to
+illustrate game commands and play. Two
+game disks are included, a "Program" disk
+and a "Sound" disk.
+What SC+ is not is a literal simulation
+of any historical or contemporary conflict.
+SC+, in fact, creates an imaginary randomly generated world (or worlds, actually
+up to two billion of them, if you like!)
+Think of SC+ as "Risk" with a college education. Each "World" includes continents,
+cities and oceans on a 90 by 70 grid. You'll
+begin the game on your "own" continent
+with one city. You may choose to play
+with another human or against a computer
+opponent with 15 difficulty levels ranging
+from push-over to unbeatable. The first
+order of business is to explore your continent and "discover" each of it's cities.
+Cities in SC+ can belong to you, be independent or belong to the "other" side.
+That's right, you have a rival somewhere
+else on this imaginary world! Sooner or
+later, human or computer, you're going
+run into this rival conqueror and have to
+deal with them. For now, however, you'll
+have to establish your own empire.
+
+GAME SYSTEM
+In establishing your empire, SC+ provides you with "pieces" or weapon types.
+Each "piece" may represent an Army, a
+Fighter Jet, a Bomber, a Troop Transport,
+an Aircraft Carrier, a Destroyer, a Submarine or a Battleship. Each of these
+weapon types has its own particular combat strength, capabilities, movement and
+"Cost". In SC+, conquered cities are used
+to produce armies and weapons. The cost
+represents the actual number of days required for a city to produce the selected
+weapon. The only exceptions to this rule
+are Bombers. In SC+, these pieces are "one
+way only" weapons and have more in
+common with cruise missiles than conventional bombers. Bombers, however, are the
+most destructive pieces in the game, hence
+both their cost and destructive power increases throughout the game.
+Having explored and conquered your
+home continent, the rest of the world lies
+before you! Players can use either ships or
+fighter planes to explore new continents.
+To conquer these new continents and their
+cities, however, you'll have to build troop
+transports to ferry your armies across the
+oceans! Then, to protect your expeditionary forces, you'll need to provide naval
+and air support for the invasions.
+The graphic displays in SC+ show only
+a small portion of the world at any one
+time. Players may, of course, scroll the
+display within the map window. In this
+display, unexplored areas are blacked out
+and only revealed as your pieces move
+through, or over, the unexplored territory.
+Players can also choose to see a full screen
+overview of the entire world, as currently
+explored.
+The SC+ game system makes full use
+of the Macintosh interface including menu
+bar, pull down windows, dialogue boxes
+and, of course, that boon to computer
+gaming, the mouse. Sound is where the
+latest version of SC+ really shines. Not
+only does SC+ have a full range of sound
+effects to accompany combat, but the
+game actually talks! Players can elect to
+have the combat summaries and messages
+delivered in digitized speech.
+GAME PLAY
+Pieces may be moved manually, one
+location on the world grid at a time, or
+
+simply by clicking the mouse on the destination and allowing the SC+ piece to move
+to the target. While the object of the game
+is to control as many cities as possible,
+you'll have to defeat your opponent in
+combat in order to accomplish this. Combat in SC+ is simplicity itself. Your piece
+either destroys your opponent, is itself destroyed or "draws." Incidentally, nothing
+in the game will prevent you from attempting the ludicrous, such as attacking
+an enemy battleship with the troops on
+your transport. The game will warn you,
+however, that the probable outcome will
+be your troops leaping into the ocean and
+drowning! Nice touch there.
+Game play in SC+ moves relatively
+quickly during the early stages of the
+game, but as the players acquire more
+"pieces" and more of the world is explored,
+game turns can become quite long. Even
+though groups of pieces or "stacks" can be
+moved as a single unit, this can become
+lugubrious. Fortunately, Peter Merrill has
+thoughtfully provided an autoplay option
+which allows the game to take over your
+moves until you wish to continue!
+Perhaps the most innovative feature of
+SC+ is the Network Option. Two players
+on a Macintosh Network or with two Macs
+sharing a printer cable can play the game
+remotely. There's even a host of password
+protection options to keep everyone honest. Further, just to keep the network
+players from getting lonely in their cubicles, there's even an option to send messages back and forth during the game.
+This sort of thing at the office could really
+have potential! I've saved the best for last,
+however. For those of the skull and crossbones persuasion (you know who you are
+out there!), PBI let's you copy SC+ to
+your heart's content. Unfortunately for
+you, however, the pirated version is permanently set at the highest difficulty level,
+15. Who says game designers don't have a
+sense of humor?
+SUMMARY
+Strategic Conquest Plus is one of those
+rare games that the author seems committed to improving. With a host of innovative new features and the ability to
+withstand a billion or so replays, SC+ is
+certainly worth taking a look at. Just keep
+the sound down if the boss is around.
+William H. Harrington
+
+50 Mission Crush
+Continued from pg. 21
+gunners would fend off the fighters. Now, I was
+getting into the game.
+That's the way it was sometimes, like when we
+were limping home from Ploesti with the windmilling No. 3 engine. We threw out everything not
+nailed down, including the bombsight, as we tried to
+stem the continuing loss of altitude. We finally leveled out at about 4,000 feet, flying about 2 MPH
+above stalling speed. We still had a 6,000 foot
+mountain to cross. Our navigator managed to guide
+us through a river valley where we looked up at
+trees on either side of us. As we broke out over the
+Adriatic, gas was pouring out of the windmilling
+engine so we knew we couldn't make Italy. We decided to try for the Island of Vis (off the Yugoslavian coast) and its short 3,500 foot runway.
+With our low gas situation and our propeller ripping off from the engine on the land approach, we
+thought things were tough. The pilots knew it was
+worse than tough. They saw an open cockpit biplane starting down the runway from our end toward the middle, leaving us only about 1,500 feet of
+runway--and a cliff at the end of the runway. As
+our pilot dropped the B-24 in front of the bi-plane,
+the men in the waist held out parachutes, strapped to
+gunmounts, and pulled the rip cords. Between the
+two brake chutes and the four adrenalin spiked legs
+of the pilots, the plane screeched to a halt--the nose
+section sticking out over the cliff's edge about a foot
+or two. That was close!
+Lucky seven! When I drew Bremen, a 1,310 mile
+round trip, I knew "milk runs" were a thing of the
+past. The game was really going to test me, this
+time. I took the northern route again to conserve
+gas and ran into the usual heavy fighter action
+while still over the channel. I got a little trigger
+happy and expended more ammo than I should
+have. We suffered considerable flak damage: the
+wing and stabilizer were badly chewed up, the fuel
+tanks took two hits and two guns were immobilized.
+I faced three possibilities--all bad: 1) not enough
+fuel to make it across the channel (I could bail out
+now and come back to fight again); 2) not enough
+ammo to defend ourselves; or 3) a plane about to
+
+fall apart from structural damage.
+My thoughts went back to my fiftieth combat
+mission with the 460th Bomb Group (based in Italy).
+Due to some engine checks, we were 45 minutes late
+taking off and had to try to join our formation over
+the Tyrrhenian Sea en route for an attack on the
+marshalling yards at Arles, France (in preparation
+for the forthcoming southern invasion). As we approached the formation, sliding in to fill the open
+spot in #7 position of the #6 box (affectionately
+known as "Purple Heart Corner"), we noticed bullets
+coming through our plane. They were coming from
+the plane in the #5 position--evidence of a runaway
+gun during test firing. Our right wing caught fire in
+the wheel well. I salvoed the bombs and the pilot
+dropped the landing gear in hopes the inrushing air
+might put out the fire. Wrong! He shut off both
+starboard engines and feathered the propellers. He
+was determined to make shore so that we wouldn't
+have to bail out in the ocean.
+Finally, the wing blew up and I managed to open
+the bomb bay doors and get out. The pilot, co-pilot
+and radioman were pinned against their seats by the
+centrifugal force of the flat spin and could not escape. I will never forget watching that stricken
+bomber spiraling in and the undulating sound of its
+two out-of-sync port engines, as I hung in the comparative safety of my parachute. About one quarter
+of a mile away, the right wing was flopping around.
+A round oil slick in the center of the bay formed
+by the mouth of the Tiber river marked the grave of
+the three trapped men. The circle of oil kept growing as I neared the bay. Suddenly, it was everywhere
+as I splashed down about thirty feet from where the
+plane's radio antenna was sticking out of the water.
+As I saw my world crumbling around me on my
+seventh mission, I was striving for some way to
+prevent what I knew would soon happen. Fighters
+kept coming at us. We would drive one away and
+another would take its place. Doom was inevitable.
+Suddenly, the monitor began screaming, "Bail
+Out! Bail Out!" My palms were sweating. "Could I
+get the bomb bay doors open in time?" I wondered.
+The screen began listing: "Danny's parachute
+opened," "Sid's parachute opened," and "Holt's
+parachute opened." In my mind's ear, I could hear
+the throbbing of the out-of-sync engines below me.
+Then the shocker flashed upon the screen: "Capt.
+Leroy Newby Killed In Action." It was more than a
+game at that point. I was reading my own obituary!
+The fact that I had earned 8,350 points and had
+been promoted to Captain didn't seem to matter. ■
+
+BLUE POWDER, GREY SMOKE
+Continued from pg. 48
+It is true that I have picked out some obvious
+cases and that some of the scenarios do maintain
+consistency in unit size (for instance, the scenario
+covering Dunker Church and the Cornfield at
+Antietam has every unit as a brigade of infantry of
+one artillery battery). Still, one wonders about some
+of the choices. I cannot tell if there was a limitation on the number of units which could be programmed for each side or if it was felt that units
+which pretty much stayed together in the historical
+battle could be lumped together as one unit for the
+purpose of the game. I also must admit that once
+you get into playing the game, it doesn't matter too
+much what type of organization each unit represents. You will be thinking about the units in terms
+of how many men each contains and their morale,
+rather than what parent organization they belong to.
+This is, I guess, where we get to the realization
+that BPGS is ultimately a "player's game". It plays
+smoothly and lets you move and fight with your
+units with a minimum of hassle. It seems to contain
+accurate combat algorithm's (this is another case
+where we have to take the designer's word for it
+that he really HAS factored all of those modifiers
+into the combat system). It does tend to reward
+proper and careful use of your forces and the outcome of each game will depend on the player's tactics. I fear, though, that the true Civil War buff
+will have trouble looking past the unit representations in several cases. If you can just accept that
+during Pickett's Charge, Rhodes' first brigade can
+move independently while the second and third
+brigades must move together...
+SCENARIOS: GETTING DOWN TO CASES
+Antietam is represented by three scenarios. The
+first covers the fighting for Dunker Church, where
+the Union I Corps got so badly chewed up in the
+Cornfield (and Mansfield's XII Corps didn't fare
+too much better). The second covers the fighting
+which occurred later in the morning and continued
+past noon around the Sunken Road. The third represents the battle for Burnside's Bridge (actually it
+starts after the crossing and deals mostly with
+Burnside's delayed pursuit which was stopped by
+the timely arrival of Hill's division). One other
+point worth mentioning is that all of the scenarios
+have only the units that were involved in the actual
+fighting. In the Burnside's Bridge scenario, the two
+forces fight it out southeast of Sharpsburg while
+the rest of the strategic map is bare. Since the sce-
+
+troduction to the game. In this action, Buford's
+cavalry attempt to delay or stop Heth's division
+early on July 1. The next scenario covers most of
+the first day, as the Union forces were pushed back
+through town. The third scenario is a very tactical
+look at Devil's Den, with it's own special tactical
+map of the area. Finally, we have a scenario for
+Pickett's Charge on July 3. Chickamauga is represented by two scenarios. The first occurred the day
+before the main battle started, as two Union cavalry brigades attempt to hold the bridges over
+Chickamauga creek against superior Confederate
+forces, and the last scenario takes place after the
+bulk of the Union army is retreating back towards
+Chattanooga with Thomas's 14th Corps attempting
+to buy time for the rest of the Federals against
+Longstreet's Corps.
+FINAL THOUGHTS
+I like playing BPGS. One big reason, that I
+haven't mentioned so far, involves the hypothetical
+options. Each scenario allows you to recreate either
+the historical situation or a hypothetical one. If you
+go hypothetical, the computer will choose one of
+several different alternate possibilities for each side.
+It may mean that your reinforcements will arrive
+earlier (or later!) than they historically did; extra
+units may be added to either side; or the starting
+morale or fatigue values for your units may be
+changed. Of course, your opponent gets some sort
+of change also. To add to the realism (and playability) neither player is informed by the computer
+as to what it has done to the scenario. You might
+wait and wait for reinforcements that never arrive
+or you might find enemy units where none were
+expected. Any number of surprises are possible and
+must be guarded against. This really is a clever way
+to introduce "fog of war".
+Anyway, I like playing BPGS. Some might insist
+that I should be a bit more of a purist and demand
+that the units I'm moving around on the screen really represent realistic maneuver elements of the
+Civil War. Others might want me to demand better
+command control rules and superior headquarters
+units. I could wish I'd bought IBM at $15, too.
+Nevertheless, if the Civil War is a passion for you,
+you'll just have to swallow hard and accept a few
+things. If, on the other hand, you would like to see
+just how easy it is for a crack division of 6000 men
+to turn into a frightened mob running back to
+Washington, give this one a look.
+
+PEEK (cont.)
+graphics and an opportunity for the
+player to test his pilot skills in dogfights, crosswinds, and blind landings.
+The crosswind and turbulence mode
+will give you deja vu from the film,
+"Top Gun." Atari 800 with 48K
+($24.95). Circle Reader Service #9.
+MichTron
+576 S. Telegraph
+Pontiac, MI 48053
+TIME BANDIT: If you've successfully
+run "The Gauntlet" in the arcade,
+you'll enjoy playing this arcade lookalike. The game has a fantasy adventure ("Castle Greymoon"), wild west
+adventure ("Ghost Town"), and space
+adventure ("Excalibur") all rolled into
+one. Two player mode is available.
+Atari ST ($39.95). Circle Reader Service #11.
+Mindscape, Inc.
+3444 Dundee Road
+Northbrook, IL 60062
+FIST - THE LEGEND CONTINUES:
+Kung Fu aficionados should like this
+hybrid arcade/adventure game. The
+game has more than 100 screens complete with puzzles, traps, and the requisite Ninja assassins, Shoguns, mercenaries, and angry peasants. A plague
+of "Grasshoppers" upon the foul villains. C-64/128 ($29.95). Circle
+Reader Service #13.
+INDIANA JONES IN REVENGE OF
+THE ANCIENTS: A text adventure in
+the familiar Angelsoft format, this scenario takes place in Mexico's famous
+Tepotzteco Pyramid. As "Indy," the
+player must fight off the venomous
+snakes, banditos, and vampire bats in
+order to stop the Nazis from acquiring
+the Mazatec Power Key. Apple, IBM,
+
+Macintosh ($39.95). Circle Reader Service # 14.
+PARALLAX: Five different planet
+sectors (read difficulty levels) await
+the player as he pilots his IBIS ship on
+a mission to save the earth. Players
+must discover how to access the computers, subdue scientists, destroy
+robots, and eliminate aliens within a
+limited amount of time. C-64/128
+($29.95). Circle Reader Service #15.
+S.D.I.: The President would be proud
+of you. As Sloan McCormick, you
+strive to immobilize the KGB-led revolutionaries who are attempting to
+initiate the big one, World War III.
+Since you and the Soviet commander
+are "lovers," you can work out of either
+the Soviet or American space stations
+in order to fly your spaceship and blast
+the KGB ships out of the sky. There is
+also the opportunity to rescue the
+lovely Soviet heroine, if the fanatics
+try to take over the Soviet space station. Think of an arcade game with
+excellent graphics and a plot line to
+boot. Atari ST ($49.95). Circle Reader
+Service # 16.
+UCHI MATA: This martial arts simulation is a smoothly animated arcade
+game which is to judo what previous
+attempts have been to karate and
+kung fu. C-64 ($29.95). Circle Reader
+Service #17.
+Polymath Systems
+P.O. Box 795
+Berkeley, CA 94701
+(415) 492-0875
+HALLUCINATIONS: I don't know if
+these guys "...had too much LDS in the
+sixties" or have pointed ears, but their
+screen pattern generator for the IBM is
+certainly a "trip" (or should I say
+"trek"?) It's not a game, but it is entertainment. IBM ($25.00). Circle
+Reader Service #18.
+
+Sierra On-line
+Coarsegold, CA 93614
+(209) 683-6858
+KING'S QUEST III - TO HEIR IS
+HUMAN: This is the third in the popular 3D animated adventure series
+authored by Sierra co-founder Roberta
+Williams. It requires 256K, doublesided disk drive, and either a CGA or
+EGA card. This means that the
+graphics are even more colorful and
+well-defined than before. The predecessors have been "tweaked up" to
+256K and EGA supportive, as well.
+Amiga, Atari ST, IBM ($49.95). Circle
+Reader Service #19.
+SPACE QUEST - THE SARIEN ENCOUNTER: Like the fantasy quests,
+this is a tongue-in-cheek adventure
+with the kind of 3D animation you've
+come to expect from the makers of
+King's Quest and Black Cauldron.
+Here's your chance to visit Droids R
+Us, the galaxy's finest Oasis Bar, and
+"Honest" Tiny's Used Spaceship Lot.
+The game comes complete with guest
+appearance by the Blues Brothers.
+Don't let those sorry Sariens get that
+Star Generator! Amiga, Atari ST, IBM
+($49.95). Circle Reader Service #20.
+WRATH OF DENETHENOR: Apple
+II and C-64 owners should be excited
+about this "hack and slash" fantasy
+adventure. Characters are not limited
+to character class, so the same character can explore numerous possibili-
+
+ties in the same game. The story line
+itself is the age-old "sell your soul to
+the devil," but the execution is anything but mundane. The background is
+Nordic in culture and offers an intriguing setting for the adventurer to
+interact with. Apple, C-64/128
+($24.95). Circle Reader Service #21.
+Spinnaker Software
+One Kendall Square
+Cambridge, MA 02139
+(800) 826-0707
+ACE - AIR COMBAT EMULATOR:
+A fictitious enemy is invading the U.S.
+and it's up to the player to stop them
+with his fictitious aircraft. This is a
+fast-moving arcade game, originally
+marketed by UXB in the United Kingdom and now, imported for the "shoot'em-up" crowd in the U.S. C-64/128
+($19.95). Circle Reader Service #22.
+KUNG-FU - THE WAY OF THE
+EXPLODING FIST: Originally billed
+as the only karate game with one or
+two player action, this is no longer the
+case, but the game does feature highquality graphics and 15 different
+moves to be made via the joystick. C64/128 ($29.95). Circle Reader Service
+# 23.
+MAJOR LEAGUE MANAGER: If you
+remember Pro Manager in its Avalon
+Hill configuration, you have an idea of
+how this simulation looks. This is superior to that version, however, since it
+offers the opportunity to create your
+own teams and leagues, as well as
+trade players from team to team. In
+this version, players are not dependent
+upon someone else's stat disks, but can
+key in players by hand. IBM. Circle
+Reader Service #24.
+STRIKE FORCE: COBRA: This one is
+somewhat unique in that it is an arcade game with 3D graphics and independent control of eight different
+commandos. Commandos are armed
+with digital lock breakers and electromagnetic flux grenades in order to retaliate against rather than negotiate
+with international terrorists. This is a
+good way to construct your own
+counter-jihad and protest the evening
+news. C-64/128 ($29.95). Circle
+Reader Service #25.
+Z-PILOT: When you put on the cybernetic helmet (a cross between
+Eastwood's Firefox and the fighters on
+Battlestar Galactica), you're ready to
+take on aliens like Pac-Man took on
+dots. C-64/128. Circle Reader Service
+#26.
+
+CES REPORT (cont.)
+Continued from pg. 7
+now available and an Apple II version is on its way
+(in much simpler form, of course). In addition,
+Crossword Magic will soon have a Macintosh incarnation and Uninvited will find new exposure as an
+Amiga product. Arcade titles like Bop n' Wrestle
+and Infiltrator are now horizontally available and
+Trailblazer is an Atari 800/C-64 flippy. In addition, High Roller and Trailblazer should be available for the ST by the end of the first quarter.
+Mindscape's MASTER DESIGNER SOFTWARE
+affiliate will be converting Defender of the Crown
+to the C-64 in 1987 and King of Chicago from
+Macintosh to Amiga.
+FIREBIRD is translating its adventure programs
+across all formats as soon as possible and is even
+translating Starglider for the IBM. SIERRA ONLINE has been "tweaking up" many of their C-64
+programs (Mickey's Space Adventure, Donald Duck's
+Playground, etc.) for the Amiga (through their new
+distribution agreement with EA). They also believe
+in the Macintosh and expect to convert King's
+Quest I-III and Space Quest to that format in 1987.
+
+Look for all of the major companies to horizontally
+cover the available machines in 1987.
+
+INSECURITY CLEARANCE
+Industrial espionage has always been a problem
+in the computer industry. Unfortunately for the
+consumer, it is becoming increasingly difficult to
+find out what new releases are planned because of
+escalating paranoia among game publishers. Some of
+the concern is well-founded. For example, MICROPROSE is extremely concerned with the number of Silent Service and Gunship look-alikes. They
+feel that they do an adequate amount of research
+and system definition to create a superior product,
+but that this often requires a greater amount of
+time to produce than some of the low-cost replicas
+of their programs. They are concerned that a person who wants a combat helicopter simulator will
+buy the first one on the market, even if it is inferior, and will not want to spend the money to
+purchase a quality simulator like Gunship. Judging
+from the market response to Gunship, even with all
+of the imitators, their fears are unfounded. Indeed,
+
+imitators are the sincerest form of flattery and even
+imitative predecessors may only whet the appetite
+for quality programming.
+Nevertheless, Microprose is rumored to be
+working on Destroyer Escort, the surface naval
+counterpart to Silent Service. There is even industry
+gossip to the effect that one could interface two
+computers (by either modem or direct connect) and
+have one player act as the submarine commander
+using Silent Service and the other player act as the
+destroyer captain using Destroyer Escort. Microprose neither confirms nor denies these rumors.
+Further, the Microprose booth offered a "teaser"
+of a film clip about a pirate/buccaneer type simulation, but refused to answer questions regarding
+the existence of such a game. The big news from
+Microprose, however, was the announcement of
+their licensed product, Red Storm Rising. The
+company is excited about working with Tom
+Clancy and Larry Bond (co-authors of the bestselling book) on the project because they feel that
+Clancy's exceptional ability to come up with hard
+data and Microprose's design systems will insure a
+winner.
+ELECTRONIC ARTS has always been aggressive
+in new releases and 1987 will be no exception.
+Wargamers will be intrigued by the C64/128 (and
+soon, Apple II) game, PHM Pegasus. The game allows the player to command a Patrol Hydrofoil
+Missilecraft on 8 different missions of progressive
+difficulty. The designer, Noah Falstein, is a naval
+miniatures buff who always wanted to do a program which would put the player inside the ship.
+Players can fire guns, Exocet missiles, and aluminum chaff in both real time and compressed time
+modes. EA leads the market in supporting the
+Amiga and this is reflected in their releases for this
+machine. Return to Atlantis is a sophisticated
+graphics adventure with over 40,000 words of text.
+It involves 14 scenarios of progressive difficulty
+and presents 5 different interactive characters.
+Similar to the aliens in Starflight, the characters
+have simulated AI and can engage in 100 different
+conversations. Characters also keep a memory of
+previous conversations. Return should ship in April
+and is the culmination of a project begun around
+Thanksgiving, 1984.
+Interesting enough, one of the most significant
+releases by EA is Earl Weaver Baseball (be sure to
+see our interview with Weaver in the April
+"Baseball Fever" issue) for the Amiga. This program
+is potentially the finest baseball simulation on the
+market. It can be played as a strictly statistical
+
+game or a combination arcade-statistical game. Eddie Dombrower, a mathematically minded programmer, and Weaver ('nuff said) have combined
+their talents to create a marvelous product which
+uses algorithms based on physics, as well as statistics, to simulate baseball action. In their own press
+release, EA calls this program the "Lead-off hitter
+for new Sports Legends line," but company
+spokespersons were extremely close to the vest with
+regard to future titles in the series.
+MINDSCAPE is solidly behind the MASTER
+DESIGNER SOFTWARE products. Good things are
+on the way from this duo. Sinbad and the Falcon
+Throne is a visually striking tribute to the sword
+and sorcery genre. I think Ray Harryhausen, the
+great special effects who animated the Sinbad
+movies would be proud of this effort. "This game is
+like a special effects extravaganza," said John Cutter of Cinemaware. At first glance, the game looks
+like something less graphically and a lot more in
+playability when comparing it with Defender of the
+Crown.
+
+Firebird has an exciting line-up for this year.
+The Universal Military Simulator will be available
+for several machines at once. This program is a
+tribute to the classic Avalon Hill boardgames of the
+past (Tactics II and the original Gettysburg) in that
+it seeks playability above all. Played on three-dimensional battlefields, this product reminds one of
+fighting a miniatures battle. It plays much, much
+faster than any miniatures rules, however. The program is intelligent, as well, since it uses the classical military theory of the age simulated in commanding its forces.
+FIREBIRD may have the most balanced line of
+new releases in 1987. In addition to the wargame,
+they are releasing an arcade game, Tracker, which
+uses artificial intelligence to get tougher as you
+play against it, and two new graphic adventure
+games. The Golden Path looks like a better than
+average set of puzzles and difficult situations based
+on oriental philosophy and religion, but Guild of
+Thieves may be the most aesthetically remarkable
+product of the year. The art work and sound is
+comparable to Defender of the Crown and the
+gameplay itself may surpass it (We haven't played
+it, just looked at it).
+SIERRA ON-LINE has just released Wrath of
+Denethenor, a new graphics adventure which breaks
+ground in two different ways. First, the author refused to allow it to be copy-protected. Second, the
+author insisted on a low price ($24.95 for C-64 and
+$19.95 for Apple — both are two disk sides). Here
+is a chance for pirates who claim that the software
+companies' greed is their justification for pirating
+to put up or shut up. If Denethenor is pirated, it
+certainly puts the lie to that argument. Sierra also
+plans to release a very serious adventure game designed by a retired police officer (Police Quest). It
+will have a mature orientation and not be designed
+as a game for children. Asked if the game will have
+a rating or warning, John Williams responded that
+it would have some kind of warning, but would not
+succumb to any rating system. "This industry has a
+problem." the publisher of the old Softporn adventure commented, "Anything not rated G is rated X."
+He went on to suggest that there must be room for
+software which can be designed for purchasers beyond adolescence. Another potentially controversial
+release will be the humorous (read risque) Leisure
+Suit Larry and the Lounge Lizards.
+ACCOLADE has just released Killed Until Dead,
+a menu-driven graphic adventure game built
+around several tongue-in-cheek murder mysteries.
+
+It is a timed game and essentially maps the adventure as you play by keeping notes on all your phone
+calls, wire-taps, and surveillance. Soon to be released is Accolade's Comics (for C-64/128 and Apple II). This is an interactive comic book with 150
+animated frames and 220 still frames to each of two
+stories. In addition to these, there are four simple
+arcade games integrated into each story line which
+must be mastered before the game can be won.
+This release may be the first of a possible series of
+Accolade's Comics.
+HOLD THE PHONE!
+One of the interesting technological developments involves modem and/or direct connect play.
+More and more games are being developed which
+allow for it. Strategic Conquest Plus (from PBI
+Software) allows for play over an Appletalk Network, Flight Simulator II allows for either modem
+or direct connect, and Sierra On-line will soon release a Helicopter Simulator with this function.
+Major League Manager (a "tweaked up" Pro Manager) was being distributed privately with a
+play-by-modem option, but MLM's new publisher,
+Spinnaker, decided to market it without that
+feature. It will be interesting to note whether this
+becomes an important feature in the software of
+the future. One would have to be able to pay longdistance phone bills of prodigious size; have a
+friend with the same computer, hours of availability, and area code; and/or have a second phone line
+in order to keep from having one's phone regularly
+busy. Perhaps, however, it will eventually be possible to play Operation Market Garden (read as your
+own favorite two player game) by modem with
+each player making their moves, sending a text file
+by modem to their opponent, and relaxing until
+their opponent sends them the next text file move
+by modem in return. It is hard to conceive of tying
+up the phone lines long enough to play a sophisticated two player game with both players at the
+computer simultaneously. Of course, technology is
+available if we decide to make use of it.
+PLEASE REMAIN IN YOUR SEATS!
+Our flight home was as peaceful and calm as a
+Flight Simulator II scenario. When we were reminded to keep our seats until the plane came to a
+full and complete stop, we realized that technology
+never comes to a complete stop. Computer owners
+always have to keep their seat belts buckled for the
+next take-off. We at CGW will try to help you file
+your flight plans!
+
+Continued from pg. 24
+placed exactly one pixel away from the previous
+modules. This simulates an airlock seal between the
+modules.
+TRAFFIC JAMS AND MASS APPEAL
+When the player indicates that the module is in
+position, the time for completion flashes on the
+screen one simulated day at a time. Then, the computer cycles through a "test" routine and informs
+the player of whether the assembly passed the test
+or not. Then, it reports on a scale of 1-10 (Poor Excellent) on how well the station is functioning in
+terms of safety/health, altitude/inclination, integration, center of mass, traffic, power/heat, consumables, sequence/damage, and an overall rating.
+These ratings are graphed and displayed on the 00
+screen. This is the primary source of feedback on
+space station efficiency, even as the financial reports on the MCC screen are the basic sources of
+feedback on project finances. Of these ratings, integration is the only factor that will cause instant
+rejection of the assembly and force reassembly of
+the station. This is because loss of integration
+causes an atmospheric leak which is extremely dangerous. Center of mass is integral to operational
+status because the Materials Processing Modules
+must be placed as close to the center of the mass of
+the space station in order to negate the gravitational
+forces as much as possible and allow zero-g production. Since the modules are leased to the private
+corporations (mentioned above) for such production
+and you cannot gain any revenue if they cannot use
+those laboratories, this is vital. Traffic is important
+because your crew could go crazy if their habitation areas are exposed to heavy traffic. This rating
+measures how ergonomic your complex is. Altitude
+needs to be monitored because of the inevitable
+orbital decay in a low Earth orbit (LEO) and inclination must be watched because the 28.5 degree
+inclination allows a springboard effect which lets
+the orbiters carry more payload to the station and
+this is a good position to accomplish astrophysical
+work. When the thrusters are in place, occasional
+adjustments may be required to keep these factors
+in line.
+Once the processing laboratories are functional,
+construction may continue with the orbiters shuttling new parts into orbit and returning finished
+products to the Earth. (Note: In order to offload
+
+processed products and return them to Earth, there
+must be a functioning logistics module hooked into
+the station. After offloading, the logistics module
+will disappear from the graphics screen and a new
+one must be interfaced with the station.)
+The financial reports become much more interesting when the revenue begins to accrue. This is
+also the point where the battle of the project calendar is coming to its climax. Every possible day
+saved at this point means big money. That means
+that each assembly sequence is watched with baited
+breath.
+CLI-M+A+X! AND ANTICLI-M+A+X!:
+Should you go beyond the time allowance or
+more than 10% above the budget, the project will
+be terminated in a short terse memo to the player
+as project director and informing you as to why the
+project has been concluded. Should you be successful, you will receive a congratulatory message
+and a recapitulation which reveals all of your
+earnings and bonuses, as well as your previous high
+earnings.
+MAX is a remarkable and fascinating simulation.
+It should be played by everyone who is even remotely interested in space exploration and/or hard
+science fiction. It should be savored by those of us
+who enjoy economic simulations. It should be a required learning activity for every U.S. Congressperson who sits on an appropriations committee authorized to oversee space expenditures and
+procedures (whether military or civilian). It should
+be used as an educational tool for any person interested in improving their management skills. Finally, it is deserving of greater recognition than
+even this review can give it.
+
+READER INPUT DEVICE
+
+RID #35 (Use Card at pg. 5)
+On this page, a number of games
+and articles are listed for evaluation
+When evaluating a game, consider
+such things as PRESENTATION
+(graphics, sound, packaging, and
+documentation); GAME DESIGN
+(design, playability, and level of
+interest); and LIFE (does the game
+wear well?).
+For each game or article which
+you have played or read, place a 1
+(terrible) through 9 (outstanding)
+next to the appropriate number.
+
+Games
+
+GAME RATINGS
+
+With the recent moving of CGW's offices and the inclusion of
+the 1986-1987 Index in CGW #34, the compilation of Game
+Ratings has been somewhat sidetracked. Now we are getting back
+on track. The ratings below include the results of RID #32. There
+was no RID #33. Data from RID #34 was still being compiled at
+press time.
+As predicted in CGW #32, Chessmaster's very high rating in
+RID #32 slipped when a larger number of responses came in.
+However, Chessmaster continues to rate very highly, topped only
+by the extremely popular Kampfgruppe, which again takes the top
+spot on the Strategy Game side. Battlefront jumps into the
+Strategy Top Ten with its initial 7.44 rating (good for 5th place).
+The big losers were Silent Service, which dropped all the way from
+
+3rd to 25th, and Star Fleet I which dropped from 10th to 30th.
+Battle for Antietam continues strong but we are looking forward
+to seeing the rating of companion game Gettysburg:The Turning
+Point which should do well when its initial rating appears in CGW
+#36.
+Ultima IV continues its domination of the Adventure/Action
+Game side. Ultima III and Wizard's Crown swapped 4th and 5th
+spots from our previous ratings. Phantasie II moved up from 14th
+to 8th. Leather Goddesses of Phobos joins the Adventure/Action
+Top Ten with its initial 7.30 rating (good for 10th place).
+Omnitrend's Universe (6.73) was moved from the Strategy to the
+Adventure Game side.
+
+

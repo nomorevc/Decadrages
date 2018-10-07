@@ -1,0 +1,3323 @@
+/
+
+/
+
+Vol. 5 No. 1
+
+February 1985
+Features
+ROBOTWAR TOURNAMENT
+
+9
+
+Enter Our 4th Annual RW Tourney
+
+WAR IN RUSSIA
+
+14
+
+Replay of Case Blue (Part I)
+
+COME CAST A SPELL WITH ME
+A New Adventure Game Column
+
+A SOFTWARE AGENT LOOKS AT THE INDUSTRY
+BREAKTHROUGH IN THE ARDENNES
+Designer's Notes
+
+GULF STRIKE
+A Review
+
+COSMIC BALANCE
+
+17
+Roe Adams
+18
+Bob Jacobs
+20
+Chuck Kroegel
+27
+Mark Bausman
+29
+
+Contest Results
+
+Departments
+TAKING A PEEK
+
+10
+
+Screen Photos & Brief Comments
+
+EDITORIAL
+
+13
+
+The Editor Muses
+
+STRATEGICALLY SPEAKING
+
+23
+
+Strategy Game Tips
+
+TELEGAMING
+Delphi Gaming
+
+SCORPION'S TALE
+Hitchhiker's Guide Tips
+
+LEARNING GAME
+1984 Review
+
+ATARI PLAYFIELD
+Spelunker & Realm of Impossibility
+
+MICRO-REVIEWS
+
+26
+Patricia Fitzgibbons
+30
+Scorpia
+32
+Bob Proctor
+33
+Dave Stone
+35
+
+Competition Karate
+Clear For Action
+3 in 1 Football
+Relax!
+How About a Nice Game of Chess?
+
+READER INPUT DEVICE
+
+40
+
+GAME RATINGS
+
+45
+
+1984 INDEX
+
+47
+
+4th ANNUAL
+ROBOTWAR
+TOURNAMENT
+The long awaited 4th Annual CGW
+Robotwar Tournament is here! If last
+year's incredible contest is any indication, this could be the computer
+gaming event of the year!
+
+Looking for better competition for
+your ROBOTWAR® robot? Here is
+the perfect place to try him (her?) out.
+Put up your contender. Does he have
+what it takes to be a champion? If you
+don't enter him, he will always haunt
+you with the comment "I could'da
+been a contendah!"
+
+Let us forward your request for further information you'd like to receive on any
+number of products or services mentioned or advertised in this issue of Computer Gaming World.
+
+1
+
+Clearly print/type your name/company address on one of the attached
+reply cards.
+Circle the number(s) on that card
+correspond to the number(s) you'll
+find at the bottom of the ad(s)/articles(s)
+about which you'd like to learn more.
+(You'll also find these key numbers on
+advertised products in this issue's Advertiser's Index.)
+
+2
+
+Stamp and mail the card. The
+sooner it's sent, the quicker you'll
+get the literature you're after.
+
+3
+
+Why not take this opportunity to subscribe to Computer Gaming World? A
+subscription card can be found facing
+page 40.
+
+The ranks of CGW Robotwar
+Champions include such immortal
+greats as NORDEN + , DRAGON,
+MUSTANG, and DRAGON4A. Your
+robot could join this illustrious
+lineup. A wall trophy will go to the
+winner. All entrants will receive a
+50% discount coupon towards the
+purchase of ROBOTWAR DATA
+DISK #3 which will contain all the entrants (available this summer).
+
+CONTEST RULES
+1. Send your Robotwar program
+(source and object code) on a
+diskette to:
+COMPUTER GAMING WORLD
+ROBOTWAR TOURNAMENT
+P.O. BOX 4566
+ANAHEIM, CA 92803-4566
+2. Include a brief description of
+your robot. What is it designed to
+do?
+3. Only one submission per
+contestant.
+4. Include your name, address and
+phone number with your submission. If you wish your diskette
+returned, also include return
+postage.
+5. CGW reserves the right to
+reproduce entries in disk form (with
+credits) in ROBOTWAR DATA
+DISK #3.
+6. Entries must be received by April
+5, 1985. The winner will be announced in the June 1985 issue of
+CGW. A round robin style tournament will be used to determine the
+winner.
+
+Avalon Hill Game Co.
+4517 Harford Rd.
+Baltimore, MD 21214
+RAM!:A real time simulation of Ship-to-ship
+combat during the Peloponnesian War. RAM!
+utilizes such factors as strength of attack and
+fatigue level of rowers to determine the outcome
+of a ramming. You can have up to 10 ships per
+side. The campaign game allows you to play each
+of four historical battles, with the results of each
+battle affecting the next one. One player. IBM.
+$30.00.
+
+Circle 7 on Reader Service Card
+Baen Software
+8 West 36th St.
+New York, NY 10018
+BERSERKER RAIDS: Working closely with programmers, Fred Saberhagen has brought the
+world of the Berserkers to the computer. Not an
+interactive fiction game like other book-based
+games, BR is a strategy game in which you and
+your human opponent must join forces against
+the Berserker, while attempting to consolidate
+your own position. Then, if you defeat the
+Berserker, you may turn on your human opponent. Attack too soon and the Berserker will get
+both of you, too late and you will suffer defeat
+at the hands of a mere human! There are also
+
+single-player scenarios. The game comes in a
+hardbound book format. BR is a nice blend of
+Saberhagen's universe with a good gaming
+system. Apple, Atari, C-64, IBM $34.95.
+
+Circle 8 on Reader Service Card
+WINGS OUT OF SHADOW: A "computer saga
+by Fred Saberhagen" which puts you in the middle of a story, opening with scene setting text by
+Saberhagen. It's up to you to save the survivors
+of a Berserker raid on your home planet, through
+strategic allocation of fighter pilots and
+resources, and judicious movement through
+space. Apple now, IBM later. $34.95. Both games
+are distributed by Simon & Shuster.
+
+Circle 9 on Reader Service Card
+Brainworks Inc.
+24009 Ventura Blvd.
+Calabasas, CA 91302
+TELECHESS:A telecommunication Chess program for the Apple II. Everything is included for
+two people to play chess over the phone lines using two Apple computers. Animated color
+graphics (you see the pieces move on the board).
+A "chat" mode lets you communicate with your
+opponent. You can print out the screen as well
+as save a game in progress.
+
+Blue Chip Software
+6744 Eton Ave.
+Canoga Park, CA 91303
+SQUIRE: Squire is the fourth game in the highly
+acclaimed line of economic simulations from
+Blue Chip. It is a financial planning simulation
+that allows you to experiment with a full range
+of investment options—stocks, bonds, real estate,
+commodities. It has a "reality mode" that enables
+you to "play" with real life goals and devise a plan
+to get you there. Apple and MS-DOS. $59.95 to
+$69.95.
+
+Circle 11 on Reader Service Card
+Broderbund Software
+17 Paul Dr.
+San Rafael, CA 94903-2101
+THE ANCIENT ART OF WAR: A beautifully
+packaged exciting looking program, TAAW is a
+ancient wargame generator and player with 11
+built-in war campaigns from the pages of history.
+Each campaign is fought by barbarians, archers,
+and swordsmen. A game generator allows you
+to create your own campaigns (designing both
+terrain and army composition). In our initial peek
+we only noticed one shortcoming: it is a one
+player game. We would like to have seen a two
+player option. IBM garners will want to own this
+one. Review coming. IBM PC/XT/jr. $44.95.
+
+KARATEKA: An action/strategy game that is
+"designed to make you feel like the hero in your
+own action-packed movie". The storyline concerns a young karate master who must fight an
+evil warlord to rescue his bride-to-be. To defeat
+the warlord he has to kill a succession of warriors, using his karate skills. Apple and C-64.
+$34.95.
+
+that your absent-minded brother/professor accompanies you. He tends to wander off. As you
+negotiate the perils before you, you must keep
+him close and out of trouble. Whistling to him
+tends to get him to follow you, but not always.
+Atari, C-64. $29.95.
+
+Circle 16 on Reader Service Card
+
+Circle 13 on Reader Service Card
+THE SERPENT'S STAR: Broderbund is now
+marketing Ultrasoft's The Serpent's Star. TSS is
+a sequel to The Mask of the Sun (also available
+from Broderbund). According to Broderbund
+"People who like MASK will really enjoy The Serpent's Star...It's a continuation of the same kind
+of exotic storyline and challenging mind puzzles
+that really make you think". Apple, Atari, C-64.
+$39.95.
+
+Circle 14 on Reader Service Card
+WELCOME ABOARD: "A Muppet Cruise to
+Computer Literacy" is the subtitle of this computer literacy program for Apple IIe and IIc computers. On the bridge Captain Kermit helps you
+program the ship's course. Elsewhere other Muppet characters involve you in tasks that teach
+computer-aided design, word processing and electronic mail, as well as database management. Apple now. C-64 in Spring. $39.95.
+
+Circle 15 on Reader Service Card
+WHISTLER'S BROTHER: Arcade - strategy
+game with a twist. You are in control (more or
+less) of two characters. As the whistler, you'll
+negotiate numerous hazards in a search for your
+brother's misplaced tools and research
+documents. What makes this game different is
+
+Computer Adversary Publishing
+225 Ridge Court
+Marion, IA 52302
+VIDEO STOCK MARKET: A stock market game
+with a real time format. As ticker tapes of six
+companies scroll past, players take action when
+they wish (a more realistic concept than the traditional turn-by-turn mode in most stock market
+games). This is apparently the first release of a
+small one man company in Iowa. The
+documentaisprygod,buhaltfcrnyies
+in it. Well, the company IS from Iowa after all.
+Seriously, this looks to be a nice first effort. Check
+it out. Apple. $29.95.
+
+Circle 17 on Reader Service Card
+Creative Computing Press
+One Park Ave.
+New York, NY 10016
+SORCERERS AND SOLDIERS: Here is an excellent looking book for the computer wargamer.
+The author, Brian Murphy, has provided us with
+a timely book covering the computer wargame
+and adventure game fields. A well of strategy and
+tactical advise is to be found in S&S. A sampling
+of the chapter titles include: Wargames Through
+the Computer Era; Using Terrain; Generalship;
+Small-Unit Tactics; Naval Wargaming; War in
+
+the Air; Fantasy/Roleplaying games; Elementary
+Adventuring. $9.95 in paperback.
+
+Circle 18 on Reader Service Card
+dilithium Press
+P.O. Box 606
+Beaverton, OR 97075 - 0606
+GOLDEN FLUTES & GREAT ESCAPES: A
+combination book/disk that teaches you how to
+write traditional verb-noun (i.e. go west) adventure games. The book includes "basic design
+rules; special programming tricks in basic; and
+the process of how to create your own adventure
+programs." Apple and C - 64. Book and software,
+$29.95.
+
+Circle 19 on Reader Service Card
+Five Star Software
+P.O. Box 631
+Elk Grove Village, IL 60007
+TIMESHIP: Most boardgamers recognize Yaquinto Publications as the publisher of some nice
+boardgames in the last few years. Yaquinto has
+finally made it into computer games. Timeship
+is a Yaquinto copyright that is licensed by Five
+Star Software.
+Designed as the first in a series, TIMESHIP is
+a hi-res role-playing game of time travel.
+Atracivelypkgd,hmincluesa2pg
+rulebook, colorful Time Travellers Guild
+Membership Card, Scenario card, and two sided
+disk. The master disk side contains the various
+environments in time. This first release also contains a scenario called "Murder at the End of
+Time" on the other side of the disk. Other Time
+Capsule adventures (using the master disk) are
+planned. The game system is detailed. For example there are 35 different weapons available
+(covering the entire history of man). Five Star
+plans a fall release for their second scenario,
+"Assassinate the Fuhrer". Review coming. Apple. $44.95.
+
+Electronic Arts
+2755 Campus Dr.
+San Mateo, CA 94403
+ADVENTURE CONSTRUCTION SET: A hi-res
+adventure game generator that will appeal to the
+game designer inside all of us. Eight adventures
+are included with the construction set including
+"Rivers of Light" by ACS author, Stuart Smith.
+You can construct up to 240 different "rooms"
+or "locations" in a variety of genres such as fantasy, science fiction, or a detective mystery. The
+game includes information about an Adventure
+Game Writing Contest in which $1,000.00 will
+be given away to the designer of the best Fantasy,
+Spy/Mystery, and Science Fiction games using
+ACS. C-64.
+
+Circle 22 on Reader Service Card
+Quest Learning Systems Inc.
+1103 Homer St.
+St. Paul MN 55116
+LA TRIVIATA: A computerized trivia and
+strategy game for the Apple II family of computers. LT features questions of varying difficulty
+levels and a point-based game board that requires
+players to use both trivia knowledge and strategy
+skills to win. $34.95. A survey of trivia games is
+in the works for a future issue of CGW.
+
+Circle 23 on Reader Service Card
+Sir-tech Software
+6 Main St.
+Ogdensburg, NY 13669
+RESCUE RAIDERS: An arcade/strategy game.
+The player controls a "command helicopter" that
+is used for air-to-air attacks against enemy
+helicopters and air-to-ground attacks used in support of his own ground forces. The player must
+
+create ground forces (tanks, soldiers, engineers,
+etc.) that fight their way across the battlefield.
+Review coming. Apple.
+
+Circle 24 on Reader Service Card
+Strategic Simulations
+883 Stierlin Rd.
+Mountain View, CA 94043-9986
+FIELD OF FIRE:As in the movie Big Red One
+and the book Company Commander, this game
+follows the fortunes of a particular Infantry Company throughout WWII. In Company Commander it was companies I and G of the 23rd Infantry. In the movie and this game it is Easy Company of the 1st Infantry Division.
+Designed by Roger Damon (Operation Whirlwind), FOF is a detailed simulation of small unit
+tactics in WWII. Field of Fire is similar to
+Damon's first wargame in that it is a one player
+game. However FOF is much more detailed than
+the former game. Atari, C-64. $39.95.
+
+Circle 25 on Reader Service Card
+GEMSTONE WARRIOR: A hi-res adventure/
+arcade game in which you must find and return
+the five shattered pieces of The Gemstone. Apple, C-64.
+
+Circle 26 on Reader Service Card
+Strategic Studies Group
+336 Pitt St.
+Sydney, Australia
+CARRIERS AT WAR: Sell your IBM stock; sell
+your car; sell whatever it takes—but find the
+money to buy this game. We have rarely been as
+impressed with our initial look at a wargame. A
+review is coming, but we can tell you now... this
+is an excellent game.
+CAW covers fleet carrier operations in the
+
+Pacific. In addition to six scenarios (Pearl Harbor, Coral Sea, Midway, Eastern Solomons, Santa Cruz, and the battle of Philippine Sea) you can
+design your own. In addition to the 16 page
+Player's Manual, there is a 24 page 8.5" by 11"
+small print Design Manual. Here is just a sampling of what is in the Design Manual: Squadron
+Creation, Base Creation, Ship and Plane Class
+Creation, Carrier Creation, Map and Weather
+Creation, etc. Apple II family (64K) and C-64.
+$50.00.
+
+Circle 27 on Reader Service Card
+Synapse Software and
+Broderbund Software
+MINDWHEEL: The first in an exciting looking
+new series of Interactive fiction games from
+Synapse/Broderbund. Finally there is interactive
+fiction that is in the same league as Infocom.
+Written by professional writer and poet, Robert
+Pinsky, Mindwheel is a journey into the minds
+of four deceased people of extraordinary power:
+Bobby Clemon (assassinated rock star and voice
+of a generation); Generalissimo (ingenious dictator and war criminal); The Poet (composer of
+the glorious epics that are society's supreme
+literary achievement); and Dr. Eva Fein (the
+female Einstein of the Late Technological Age).
+The full sentence parser and the dynamic flow
+of the game make for interactive fiction that is
+truly interactive. Infocom is no longer alone.
+Game is accompanied by a hardback book that
+serves as the introductory chapters of the novel.
+Apple, Atari, C-64, IBM and compatibles. $39.95
+to $44.95.
+
+Circle 28 on Reader Service Card
+Zinta Micro-Systems
+P.O. Box 946
+El Toro, CA 92630-0946
+CAVEMAN: Here is a new theme for and adventure game. Caveman is a two-disk adventure in
+which the player assumes the role of a Neanderthal man of 40,000 years ago. The graphics are
+striking, having been done by computer art professionals. Some animation as well. This the the
+first title from a new company. C-64. $39.95.
+
+Circle 29 on Reader Service Card
+
+AIGIS CIRCLE
+Aigis Circle Inc. has been a recent
+advertiser in Computer Gaming
+World. It has come to our attention
+that several of our readers ordered
+games from Aigis Circle and have not
+received their games. In an effort to
+help resolve any problems, CGW contacted the company.
+We have been informed that the
+company has had several production
+problems that have delayed the
+release of their games. ACI has informed us that they are returning
+orders and uncashed checks to their
+customers. We are told that, as an act
+of good will, they will provide free
+copies of the game to those who have
+patiently waited for the product. Empire of Vennolandua should be out
+about the tithe you read this.
+ACI fully intends to be producing
+games in the near future we are told.
+We certainly hope so. In the meantime advertising space is being
+reserved for the time when product
+is actually available.
+
+THE PAST
+
+THE FUTURE
+
+With this issue CGW begins it's fifth year of publication. When CGW started in November of 1981 there were
+something like 70 computer magazines available to the
+public. As of the beginning of 1984 there were over 700
+computer magazine titles! This ten fold increase in three
+years was typical of the computer industry. And, also
+typical to the industry, 1984 was the year of shakeout for
+computer magazines.
+
+We are excited about the future. You readers continue
+to tell us that we are doing a good job. We think that CGW
+is and has always been the best computer game magazine
+around and we are committed to keeping it that way. Our
+new Strategically Speaking column has been well received
+and I believe will prove to be second only to R.I.D. and
+possibly Taking a Peek in reader popularity.
+This issue we add a new staff member: Roe Adams. Roe
+was an editor for Softtalk magazine, holds 32 "first
+solved" titles for adventure games, will be on the college
+lecture circuit (speaking on the history of adventure
+games), and is a heck of a nice and knowledgeable fellow.
+We are pleased that he is joining us as our Adventure
+Games Editor. Look for exciting things in the future from
+Roe.
+
+The problem began in the summer of 1983, known in
+the industry as Black Summer. With the explosion in computer magazine titles, newsstands and bookstores had to
+make room for them. Obviously they could not carry all
+or even most of the titles available. They had to pick and
+choose. This alone spelled doom for some titles. However,
+even if your title was included on a retailers rack you were
+not safe. In some ways you were worse off.
+Most retailers were not knowledgeable about the titles
+that they were receiving. When a new issue of a magazine
+arrived, they would often, to make space available, pull
+another magazine that may have only been on the stands
+two or three weeks. The bottom line was that the unsold
+magazines were returned for credit. The distributor in
+turn destroyed the magazines sending an affidavit to the
+magazine that so-and-so number of issues had been
+destroyed and that a credit should be issued. In summer
+of 1983 the return rates sky-rocketed on computer
+magazines. Magazines that were accustomed to only 40%
+newsstand returns were experiencing 60%-70% and
+even higher returns. This was disastrous in an industry
+where profit margins are slim to begin with.
+However, magazine returns were only part of the picture. With so many magazines it was becoming difficult
+to sell advertising. In 1983 the manufacturer had many
+avenues to get the word out about his product. The advertising dollars could only be spread so thin. On top of this,
+the general shakeout in the microcomputer industry in
+1984 dealt another blow. Some companies stopped advertising. Others advertised and did not pay. The final result
+of all this is was the death of a number of magazines.
+I am pleased to report that CGW was not one of them.
+We saw the storm coming on the horizon. At a time when
+many magazine companies were putting on more sail to
+gain that slight advantage over a competitor, we continued to steer a conservative course, swinging wide of
+the shoals and remaining in deep water. By the time the
+storm of '83-84 hit we were well to sea, and although we
+experienced the buffeting along with others, we were not
+caught in the intense expansion race in the shallows. We
+were in a position to trim the sails and weather the storm.
+Some magazines were not.
+
+You may also have noticed that we have begun to do
+game replays. This issue contains the first part of a War
+In Russia replay. We plan to have a replay article in each
+issue.
+Our contests continue to grow in popularity. The report
+on our 2nd Annual Cosmic Balance Tournament is in this
+issue. We are having to delay the report on the Lode Runner contest. There were many very challenging entries
+that, frankly, we cannot adequately play and judge before
+press time. Look for the results in the April issue. This
+issue also announces our much anticipated 4th Annual
+Robotwar tournament. It will prove to be exciting,
+although I doubt if any tournament can reproduce the incredible "dead heat" finish we had in the 3rd Annual
+Robotwar Tournament (see Issue 4.2). We are open to suggestions for contests based on other games. Electronic
+Arts' new Adventure Game Construction Set would be an
+ideal choice except for the fact that they are running their
+own contest through 1985.
+YOU READ IT HERE FIRST!
+Here is a fictional interview that I recently re-read:
+WALTER:"So at 10:42 PM here on election night,
+Nov. 5, 1984, Ronald Reagan has won his second term
+of office in the most remarkable landslide since Nixon beat McGovern in 1972. From our computer projections, we anticipate that Ronald Reagan will carry
+every state except Minnesota and the District of Columbia. He will thus gather 525 electoral votes to 13
+for Walter Mondale. The popular vote is projected
+to be 55% for Reagan, 44% for Mondale, and 1% for
+Libertarian candidate Ed Clark. Dan, we've seen the
+landslide developing all evening, beginning with the
+stunning victory of Reagan in Massachusetts, what
+do you think this election tells us?"
+Dan:"Well, Walter, this election with very few exceptions has given us little to be surprised about. The
+
+WAR IN RUSSIA: Case Blue Replay
+
+This is the first of a two part replay of the Case Blue
+Scenario in SSI's WAR IN RUSSIA. Jay Selover is
+a contributing editor to CGW and also reviews board
+wargames in such magazines as Fire and Movement.
+Kirk Robinson is the assistant editor of CGW and a
+veteran of numerous wargame campaigns.
+
+THE RUSSIAN — KIRK ROBINSON
+The night is dark and the prospects bleak as I sit before our office's Apple II in order to reenact the valiant defense of Mother
+Russia against the fascist Axis forces threatening her during the Great
+Patriotic War. Poised to make sweeping advances into critical areas,
+the Germans must be stopped or I may face internal exile to Burbank.
+In approaching this task, I face one great problem which my
+historic counterpart did not—the absence of Adolf Hitler. The Soviet
+position must also be examined closely and reorganized so as to
+redress some rather poor initial placements in this scenario. To aid
+me in this quest, I have discovered a trick which is crucial for the
+flexibility and depth needed by the beleaguered Soviets. This is the
+fact that units which have developed well entrenched positions
+(which would normally be lost were the units moved) can literally
+swap identities with new token units. The token units can continue
+to improve the position while the major unit it replaces is freed for
+use in much needed reserves or in the battle front. Conversely,
+should the front ever move the these positions, major units may once
+again take these positions, by this time at maximum entrenchment.
+Beyond these considerations, the Soviets must recognize one fact
+at the beginning of this scenario. This is that the Germans are very
+strong. Their actions must therefore be to use strategies which try
+to eliminate this German power as quickly as possible and to keep
+the Germans unsure of the situation by feints or even major attacks
+designed to draw his attention away from those areas critical to long
+term defense. One benefit of this is that if the German chooses to
+ignore these, a rather nasty situation can develop which he can find
+himself ill prepared to counter.
+It is in this first part, causing the Germans to wear themselves
+out, that the Soviets must gamble. By selecting those hexes most
+likely to be attacked and giving them maximum support, you do so
+at the expense of others. This policy will test your soothsayers and
+astrologers to the limit as you attempt to provide the Wermacht with
+a stone wall against which to slam their fist. A more difficult version of this is to provide selected weakened areas which the Germans may penetrate directly into prepared "killing zones." Success in these will quickly wear down the German juggernaut, while
+failure will lead to easing the task of the Germans that much more.
+
+THE GERMAN — JAY SELOVER
+Well, here we are, about to start the Case Blue scenario from War
+In Russia. I am going to play the Germans against a very capable
+Russian opponent. The scenario starts in June of 1942, just as the
+Germans opened the offensive which carried them deep into the
+Caucasus, to the gates of Stalingrad, and to ultimate grief as the tide
+turned in December.
+I can not lay out here the exact strategy which I planned to follow,
+since we have not finished the game as I write this, and my opponent is the Assistant Editor of Computer Gaming World. I will say
+that I had played two practice games against the computer, and had
+decided not to blindly follow the historical course of the initial German attack. There are two reasons not to break through near Kharkov
+and clear the Ukraine, then pour armored units down into the
+Caucasus. First, most of the units will lose effectiveness as they move
+beyond the range of my supply system. Second, the historical attack did not work for the Germans anyway.
+There are a few guidelines which I plan to follow. In any combat
+situation, the idea is to maximize the effectiveness of your units
+whether they are attacking or defending. That means the Russians
+will be in woods, swamps, and behind rivers. It also means that I
+will avoid attacking those positions whenever possible. Another key
+element of effective utilization of my forces will involve keeping
+my units in supply, even if that means slowing the course of the
+overall advance. Nothing will wear down a unit faster that letting
+it get out of supply and then trying to do anything other than just
+putting it back into supply.
+RUSSIAN TURN ONE
+This turn is occupied with reorganizing the chaotic distribution
+of the Soviet units. There are three probable and two less probable
+hexes for major German attack which must be prepared. To these
+are sent reinforcements in the form of raw recruits and fully tested
+units from the reserves.
+In the combat phase it becomes obvious that the Germans agree
+as to which hexes are best attacked. All three of the prepared hexes
+have met major assaults. The combination of reinforcements and
+the level of entrenchment has given very low odds on these attacks.
+The entire line is at least probed by the Germans and fortunately,
+none of my shifting has overly weakened these areas. This does,
+
+certain units; a fact which I must correct or use to my benefit.
+In the south, the Germans make a breakthrough near Rostov. While
+of some danger, this area has the greatest ability to absorb Germans
+and is therefore less vulnerable. If only the Germans could be
+counted on to proceed historically, this could prove interesting.
+
+GERMAN TURN TWO
+
+though, provide me with a better grasp of the truly massive scale
+of the German forces.
+
+It becomes very apparent that this is a live opponent instead of
+the computer! Kirk takes a very long time with his move, and explains to our referee that the Russians are set up all wrong by the
+computer, and that he has had to restructure the entire front! This
+means that my excellent intelligence reports on the Soviet force locations are not worth much anymore.
+In the north, the Russians retire from a bulge before I can attack,
+so I occupy the three vacated hexes. Kirk is consolidating his line
+and moving to better defensive terrain, but he has sacrificed his entrenchment there. Hopefully, I will make some progress next turn.
+In the center, my attack out of Kursk runs into a buzz saw. Well,
+maybe that is too strong, but there is a determined defensive stance
+before Voronezh. The Russians probably give this town as much
+importance as I do. In the south, an attack northwest of Rostov
+breaks cleanly through the Russians. A tank corps advances two
+hexes and is behind their lines. Unfortunately, none of my infantry
+units advanced, so there is a one hex gap in the Russian line which
+is not occupied by either side, and my Panzers will be out of supply
+next turn!
+Kirk obviously sees the center and north as more important than
+the south. In fact, he seems to be trying to funnel my strength towards
+Rostov to follow up my initial success. I will have no part of that
+though. I have my sights set elsewhere.
+
+GERMAN TURN ONE
+
+RUSSIAN TURN THREE
+
+Things go pretty much as planned this turn, in that it looks like
+nothing happens for me. The Russians initial set-up (which the computer executes and which matches well the historical dispositions)
+includes entrenchments along the entire front. Regardless of how
+weak the unit or how strong the attack, the entrenchment levels along
+the front allows the Russians to avoid retreats in all attacks. What
+I do accomplish (I hope) is a reduction in the entrenchment levels
+to something that I can break through next turn.
+I execute a broad attack along the front from in front of Moscow
+to the Black Sea. I encounter strong resistance between Stalino and
+Kharkov (thanks to a defensive line behind a river). There is also
+a lot of Russian strength before Moscow (this is no surprise). It looks
+like Kirk has sent most of his initial reinforcements to the center
+of his line. The initial German set-up involves an exposed salient
+near Rzhev, and I withdraw from it. I also make a probing attack
+further north with the 20th Panzer Division and the 36th Motorized Division.
+Two unsettling statements are made in passing by my worthy opponent during the course of Turn One. First, he mentions that there
+are three obvious points for the Germans to attack (I wonder if he
+sees the same three that I do). Later, he comments that the Germans
+always try to take Moscow, which makes me rethink my
+geographical objectives.Ed. Note: How does that saying go? "Loose
+lips sink ships"?
+
+It is obvious now that an attempt on Hitler's life has been successful. The German's armor unit which broke through last turn
+has withdrawn back into supply before it could be attacked. I now
+doubt that they will be drawn into that obvious error. Any trap will
+
+RUSSIAN TURN TWO
+While Stalin is sleeping, I order the units in the difficult to supply area north of Smolensk to withdraw into superior positions to
+their northeast which are also within my supply radius. In the north,
+reinforced units prepare to oust the Axis unit near Petrozavod which
+threatens my Murmansk to Archangel rail line. Out of supply, this
+unit should not be too great an obstacle.
+In the north/central region, I begin to expand my rail net. Continuing supply to this region is crucial if the area is to be held. I move
+several units into the vacated hex south of Rzhev in preparation
+for future pressure on the adjacent German positions. The continuing German assaults along this front have seriously weakened
+
+however, is far from the worst piece of news. Several units intended
+to take part in a two prong attack, cutting off the northern German
+advance, were attacked themselves and forced to surrender before
+they could do the same to their German counterparts. The only thing
+which saved the situation, was that part of the counter attack did
+succeed in forcing the surrender of a comparable German unit.
+This turn has seen the beginning of a concerted effort to cause
+trouble for the Germans near Leningrad. Out of supply, these positions could potentially expose the northern flank of the German's
+drive on Rzhev. This is one area in which I can not fail to succeed.
+If the Germans make no response, then the area falls. If they do respond, then needed units will be diverted into useless hexes.
+In the central/southern areas, another penetration has been made.
+No further change is expected in this area as for as the makeup of
+the units except to replace the losses from German attack. The important actions should not occur until turns six or seven. Until then,
+my actions will be dictated by what my opponent proceeds to do.
+The area between Rostov and Voronezh may be in doubt, but they
+will not just fall into the Germans hands as easily as he might like.
+
+have to be baited with much more interesting bait to succeed.
+In the north, the Axis unit withdraws into the marshes before my
+ordered attack can catch it. I also execute an attack against the German line south of Rzhev. With luck, reserves much needed elsewhere
+may be committed in response.
+The Germans strike the weakest of my newly withdrawn units
+northwest of Rzhev, causing a breakthrough in an area which is
+useless to him unless he can expand the southern base. This,
+however, must not be allowed. The opportunity presented by this
+penetration is too great to let escape as if these units can be attacked soon, they may be eliminated. If not, they will be able to reinforce and entrench enough to prevent any successful action on my
+part.
+GERMAN TURN THREE
+In the south, my exposed and out-of-supply armor unit is quickly
+surrounded by five Russian units, so I pull it back one hex into supply
+rather than go headlong into an unknown force. Just to the south,
+an infantry attack pushes the Russians back into Rostov and advances adjacent to the city. In the center, I had planned to attack
+from near Bryansk, but call it off to reinforce the troops there for
+one week before starting forward. Two attacks take place; east out
+of Kursk I get good odds but do not dent the line. Attacking northeast out of Kharkov, we get a breakthrough and and armor unit
+moves two hexes toward Voronezh. But again, no infantry units
+advance to maintain contact. I have the same lousy situation that
+I had with last turn's breakthrough to the south.
+In the north, the battle of Rzhev swings into high gear. An attack
+from northeast of Smolensk is successful and I penetrate two hexes
+through the woods northwest of Rzhev. A Soviet attack south of
+Rzhev fails, but weakens my units. Kirk certainly seems to be strong
+around Moscow! I am surprised, though, that he has tried any attacks at all this early in the game. Maybe Kirk will begin to experience
+some of the frustration which I have found when an attack at good
+odds does nothing to dislodge the defenders.
+RUSSIAN TURN FOUR
+This turn is one many events—mostly bad. A sacrificial unit
+ordered to move behind a German advance ran headlong into the
+withdrawing spearhead, turning it into a useless bit of debris. This,
+
+The next installment should provide a better idea as to the style
+of my opponent and the probable outcome of the scenario. Following the current course, the Germans will have either suffered some
+rather unexpected reversals, or the Russians will have expended
+much men and materiel in pointless actions. Neither of these outcomes may occur, however, if my opponent is as cautious as I am
+beginning to believe. If he is, we may be looking at a very long game
+indeed.
+
+GERMAN TURN FOUR
+In the north, I attack the hex southwest of Rzhev from four directions. We do not get very good odds, but force a retreat which triggers a Russian surrender as the units are cut off from a valid path
+of retreat. One other attack south of Rzhev fails to take any ground.
+In a big surprise, the Russians launch a major counterattack! They
+attack the hex near Lake Lagoda which keeps Leningrad isolated.
+They fail to break through, but weaken my unsupplied unit there.
+An attack south out of a nearby swamp fails badly as my earlier successful attack had eliminated units which Kirk had ordered to participate in this attack of his. Finally, bad news arrives as my armored
+spearhead northwest of Rzhev is lost for failure to retreat in the face
+of a big Russian attack. There were only two divisions in the unit
+(20th Panzer and 36th Motorized), but this is our first serious loss
+and they will be sorely missed.
+In the center, we attack out of Bryansk at about 2.5-1 odds but
+do not take any ground. A second turn of attacking out of Kursk
+succeeds, and we advance two hexes with the infantry following
+this time. This spearhead is now adjacent to Voronezh on the northwest of the city. Hopefully I will be able to develop this situation.
+A little bit further south, the isolated spearhead which broke through
+last turn is surrounded by Russians and pulls back before the Russian forces attack. One Russian unit had been ordered by Kirk to
+slip in behind my armor to cut off any retreat when he attacked.
+Unfortunately for it, I had just pulled back into that hex, and they
+found themselves attacking my armor at 1-9 odds. I am surprised
+that there is still a Russian unit there!
+In the south, Rostov will be attacked, but not this turn (maybe not
+for several turns). This turn, we attack the hex just to the north of
+the city and capture it. We now have two hexes adjacent to the city
+from which we can attack.
+To Be Continued. . . As I mentioned before, my opponent will
+see this before we have finished the game. Thus, I am not at liberty
+to say exactly how I have faired over four turns compared to what
+I expected. I promise, though, that all will be revealed in our next
+installment. Stay tuned.
+
+COME CAST A
+SPELL WITH ME
+HITCHHIKER'S GUIDE
+TO THE GALAXY
+
+abysmal. There really is no adequate
+substitution for original thinking, clear concepts, and masterful writing. Putting the
+name Maserati on a K-car fools only the
+advertising people.
+The two authors who really delved deep
+into this new and somewhat mysterious
+realm of computer adventure games have
+succeeded with excellent results: Michael
+Crichton's AMAZON, published by
+Tellurium (a.k.a. Trillium, a.k.a. Spinnaker
+Software), and Douglas Adams' HITCHHIKER'S GUIDE TO THE GALAXY, published by Infocom (a.k.a. Grues Unlimited
+Industrious).
+Crichton is famous for writing THE ANDROMEDA STRAIN, and THE TERMINAL MAN. The entire hi-res adventure game
+construct is Crichton's from start to finish.
+He worked closely with the programmer
+and the graphics illustrator to ensure that
+none of the story nuances were sacrificed.
+The cohesive manner in which the game's
+storyline unfolds reflects Crichton's skill as
+a writer.
+AMAZON is also notable for its use, if
+sparingly, of beautiful scrolling animation.
+The fantastic opening, which scans a
+
+Leads an Invasion of the Pros
+
+Roe Adams
+
+We welcome our new Adventure Game Editor,
+Roe Adams, to the pages of CGW. "Come
+Cast a Spell With Me" is just one of the contributions Roe will be bringing to our readers.
+In 1984 companies and machines fell by
+the wayside with incredible regularity.
+Some to thunderous applause, others with
+silent tears. In retrospect, however, one of
+the most significant trends to enter the
+microcomputer field in 1984 was the debut
+of top fiction writers into adventure game
+designing. In the past, even the best adventure games have been written by ordinary
+people (well, not counting Michael Berlyn,
+who is, after all, hardly ordinary).
+The craft of adventure game designing apparently has matured sufficiently to entice
+some of the finest science fiction and fantasy writers to take a fling with a computer.
+Alas, for most of these authors, who shall
+mercifully remain anonymous, the results
+can only be described as flops. In some
+cases, the big-name author contributed only
+their illustrious name or perhaps a cursory
+wave of their hand over the scenario design
+in benediction. Other authors were totally
+mesmerized by computer jargon and surrendered their talent to the whims of third
+rate programmers. The resultant quality of
+these type of efforts has been mediocre to
+
+massacred jungle campsite, completely
+rivets the player. It is so good, that when the
+game proceeds to the regular static screens,
+it is quite a wrench and a lingering feeling
+of loss. Similar rare animation treats await
+the player at strategic spots in the scenario.
+The game also represents a new break
+through in the genre: A book will be published based upon the scenario, instead of
+the other way around. AMAZON proves
+what Crichton has been quoted as saying,
+"This is the future of fiction, and it is fun."
+Douglas Adams, who emphatically
+denies being solely responsible for all of
+British humor, has approached his undertaking in an entirely different manner. He
+sought out the industry's premier adventure
+game house, Infocom, and suggested a collaboration to bring forth the computerized
+version of his international bestseller,
+HITCHHIKER'S GUIDE TO THE GALAXY. This book has been a gigantic hit in
+book format, television and radio shows,
+and a not-so-soon to-be-released motion
+picture.
+Infocom's illustrious grandmasters of
+game design, Marc Blank and Dave Lebling,
+were however busy with other pursuits.
+
+Blank was last seen doing death defying
+loop the loops in the Grand Canyon, and
+Lebling was hanging around the Hart Mansion looking SUSPECT. So, Infocom's
+hottest second generation game designer,
+Steve Meretzky (Planetfall and Sorcerer) got
+the awesome privilege of working with the
+hyperfamous Douglas Adams.
+Actually, Meretzky was partly chosen
+because he is so unflappable and stoic and
+not prone to awe or hyperness. He can handle highly volatile humor for long periods
+of time without self-destructing. Who else
+within Infocom's vast corporate (or is it now
+Empire-wide) headquarters could have
+countered Douglas Adams' infamous
+multicolored bright ties so effectively and
+casually? Meretzky's use of differently patterned 1950's Ugly American Hawaiian
+Dress Shirts was rumored to be responsible
+for Adams inventing the peril-sensitive
+sunglasses (a sample is enclosed with the
+game). Watching them work together is inspiring, as they thrust and parry
+understatements. Brilliant non sequiturs
+follow jabs of incongruities. In half an hour
+Meretzky and Adams have generated an entire year's worth of outlines for Gallagher.
+The game unfolds with all the majestic
+splendor of Douglas Adams' irreverent
+humor, lovingly expounded in great detail.
+In other words, at first, it is VERY slow going for the veteran adventure game player.
+That unfortunate aspect is balanced by the
+fact that for any novice wouldbe Douglas
+Adams fan who has miraculously missed
+touching any of the four books, seeing the
+BBC television series, hearing the radio
+show, or tasting the unreleased movie, the
+beginning of the scenario is highly odorous.
+A fast perusal of the first hundred or so
+pages of the HITCHHIKER book will be
+decidedly helpful in grasping the full
+significance of the mud, the pub, and the
+babel fish.
+Rumors are circulating that several important people within the industry cannot
+(snicker, snicker!!!) even get out of HITCHHIKER'S first room! Seems to be a game
+whose players rise to their own level of incompetency. Now that is quite a break
+through in design!
+The segment that has the babel fish puzzle also marks a significant shift in game
+play. Over a breakfast of poached Bugblatter
+on toast, Douglas Adams confided that the
+scenario design was pear shaped: "Just as
+the player gets comfortable in the narrow
+neck, the bottom drops out!" From there on,
+the adventurer is in for a non-stop roller
+coaster of laughs and delicious puzzles.
+The range of puzzles is from novice to expert with mast of them falling into the
+standard-advanced category. Unlike other
+authors, Douglas got far into the core of the
+game design and worked on the puzzle constructs. So great was the depth of collaboration between Adams and Meretzky, that it
+is impossible even for them to decide who
+Continued on page 38
+
+An Agent Looks at
+the Software Industry
+
+by Bob Jacobs
+
+We are entering a new era in recreational
+computing. The games now being offered
+by a cross section of publishers offer outstanding depth, challenge and playability.
+The games are so good, in fact, that if they
+don't sell, this industry will be in deep trouble. Herein lies the paradox. On the one
+hand games have never been better. On the
+other hand the publishers are very shaky.
+
+Apple II and IBM PC.
+
+Let Synapse and Imagic, two companies
+primarily known for their shoot 'em ups,
+serve as illustrations. Synapse has just
+released Mindwheel, the first of series of five
+all text adventures. Synapse VP Brian Lee
+says, "Our parser is 2 1/2 times larger than
+Infocom's and allows complete context sensitive questioning of all characters. Plus, the
+game is played in real time and characters
+move independently of the gamer."
+
+I've seen these games and think they're
+terrific, but the question remains... will they
+sell? Retail distribution of computer games
+is chaotic. Publishers who can guarantee
+developers that their products will be seen
+at retail are in short supply.
+
+Brian went on to add that Mindwheel is
+not copy protected in the conventional
+sense. "But the game will not be winnable
+without the documentation." Each entry in
+the new series contains a sixty page introduction to the story that was penned by a
+professional writer. In addition, Synapse
+has developed "browseable" packaging that
+allows a prospective buyer to get into the
+story before purchase. Mindwheel is currently available on the Apple, IBM, and
+C-64.
+
+Imagic's corporate hopes are riding on a
+new series of simulations and adventures.
+They've joined forces with paperback giant
+Bantam Books in a joint venture called Living Literature. Sherlock Holmes stars in
+Another Bow, the first entry in the series.
+This mystery-adventure places you in the
+role of the famous sleuth aboard a luxurious
+ocean liner. The passenger list reads like a
+who's who of the early 20th century and includes Edison, Louis Armstrong, Henry
+Ford, etc. The game features high-res,
+digitized graphics and is available on the
+
+Rob Fulop, best known as the creator of
+
+Demon Attack, thinks that large corporaImagic has also released a legal simulation called Crime and Punishment which
+places the player in the role of presiding
+judge in a criminal trial. They are currently working on Macbeth. You guessed it, an
+interactive version of the Bard's masterpiece of murder, greed and intrigue.
+
+tions might be willing to fund software
+development for use as promotions. He uses
+McDonald's as an example. "Wouldn't they
+be interested in using Ronald McDonald to
+teach kids how to do math on a C64 disk?"
+Rob speculated. "They could give it away
+or charge a buck for it." He said that he was
+currently negotiating with a major firm on
+a similar proposal.
+
+Some developers have found it difficult
+to adjust to the new economic realities.
+They're now discovering that the days of
+making a quick killing on the publisher's advance are over. Development money is still
+available, of course, but in order to make any
+real money the programming team better
+hope that their brainchild sells.
+
+TODAY'S HELPFUL HINT: Hang on to
+those derivative rights. They may come in
+handy in your old age.
+
+Unfortunately, there is a tremendous
+bottleneck at the store level, particularly in
+C64 software. Today's successful publishers
+(Epyx comes to mind) jumped on the Com
+modore bandwagon early and cultivated the
+buyers at K-Mart, Toys 'R Us and other mass
+merchandisers.
+Other, less prescient, publishers may pay
+the ultimate penalty for their lack of
+foresight. . . bankruptcy. Still others who
+had adopted a low profile are now returning to the fray. Paul Zuzelo of Creative Software has spent the last year bailing out of
+the VIC20 and TI marketplace and has
+assembled a line of hot, new C64 titles.
+Amidst all this confusion and chaos some
+developers are looking around for alternate
+ways of distributing software, and bypassing the publisher entirely.
+
+FREE ADVICE TO DEVELOPERS
+DEPT.: Don't do business with conservative
+publishers. This business is show business.
+You cannot coast. Ever. There is a strong
+tendency among publishers who have "
+arrived" to bring in the beancounters. That
+is a sure recipe for failure in this industry.
+Be especially wary of publishers who have
+adopted a "wait and see" attitude towards
+the Macintosh and Amiga. There's no time
+to wait for trends. You've got to create
+trends and hope you're right.
+
+Bob Jacob represents software developers
+including Ultra Soft, Synergistic, Interactive Arts, etc. His address is:
+1642 Eveningside Drive, Suite 110
+Thousand Oaks, CA 91362
+(805) 492-3597
+Compuserve: 75226.2103
+
+BREAKTHROUGH IN
+THE ARDENNES:
+Designer's Notes
+
+by Chuck Kroegel
+Chuck Kroegel is SSI's R&D Manager. He
+designed Breakthrough in the Ardennes and
+Knights of the Desert. He also developed Battle of Shiloh, Tigers in the Snow, Battle for
+Normandy, and Field of Fire.
+
+There are at least eight boardgames and
+two computer wargames that simulate the
+Battle of the Bulge. Why so many? The
+answer lies in the imagination of wargamers
+who relive those days in December of 1944
+when a large number of panzers, secretly
+poised opposite green and tired American
+units, struck out, reaching for the Meuse
+River and beyond. From the penetrating advances of Peiper to the valiant stand at
+Bastogne, the Battle of the Bulge is a story
+of boldness and courage on both sides.
+
+When David Landrey and I decided to do
+an advanced level game on the Bulge, we
+set our goals to capture the essence of that
+battle. We wanted the German player to experience the difficulty of managing armored
+advances along channeling roadways and
+over crucial bridge sites. We wanted him to
+feel the crunch of dwindling fuel and unit
+stamina as he expanded his bulge in front
+of ominously building American resistance.
+Our goal was to have the American player,
+with only a handful of units to stem the
+enemy onslaught, feel the sheer panic of seeing massive enemy forces pierce his line.
+We wished to see him conduct carefully
+planned delaying actions and scramble to
+blow key bridges in front of the German advance. We wanted him to see the light of
+new hope as the weather cleared, air support availed itself, and arriving units make
+a counterattack possible. Our goals included
+these and more in a computer game that
+would be playable and challenging for one
+or two players.
+
+SCALE AND MAP
+Our first design tasks were to choose the
+scale and draw the map and order of battle. We decided on a two mile hex, as this
+would set the regiment as the standard unit,
+but would also accommodate a divisional
+unit in one hex. A regimental scale, we felt,
+would allow unit differentiation to be meaningful and provide the level of control we
+desired to give to the players. Drawing up
+the map and order of battle was accomplished by using two or three road maps and
+several volumes written on the battle as
+reference. Also helpful were the personal
+observations of Joel Billings, the President
+of SSI, who actually toured the battlefield
+in 1984. Due to memory restrictions and the
+graphics package we were to use, the size
+of the map was limited to a 32 by 31 hex grid.
+The scale made it necessary to trim off the
+southern shoulder and the western tip of the
+actual battlefield. This still left plenty of
+room for maneuver where 99% of the battle took place.
+
+supply system we instituted a hex ownership concept that graphically showed the
+control of map hexes. We made use of the
+supply system in giving victory points to
+German units that exited the map board at
+a road hex that at the end of the game was
+still in combat and recovery of efficiency.
+German fuel problems were also recreated.
+We incorporated design features that gave
+the players an array of options and decisions. Air strikes were included, allowing
+players to execute ground support, air interdictions, and supply drops. We allowed
+regiments to build-up into parent divisions,
+giving such units combat bonuses at the cost
+of road mobility. Artillery was handled
+somewhat abstractly by inputting such support into units from the appropriate corps
+pools. Road movement, being really the only
+viable movement through the forested and
+rough terrain of the Ardennes, was made
+possible by a special travel mode that units
+enter as regiments. Such a design created
+natural traffic jams behind key bridges and
+clogged limited road avenues.
+
+GAME FUNCTIONS
+Our next design considerations involved
+setting up the major game functions around
+which the whole game system would flow.
+We decided against a simultaneous movement/combat plot system in favor of an alternating phase framework based on the expenditure of operation points. We felt that
+the simultaneous plot system did not allow
+for sufficient reaction time. Both Dave and
+I shy away from a system whereby a player
+plots moves for several units at a time, not
+seeing any immediate results of his efforts.
+A major game element was a comprehensive supply system based on the road network. We included special supply considerations for isolated divisional units,
+reasoning that whole divisions isolated, as
+exemplified by the 101st at Bastogne, stood
+a better chance of survival than the more
+dependent regimental units. As part of the
+
+ARTIFICIAL INTELLIGENCE
+After having designed the game and
+developed the two player option on the computer, we proceeded to incorporate the computer intelligence routines for the American
+forces to provide a solitaire game. Artificial
+intelligence is the true challenge of perfecting a good computer wargame. Dave and
+I have found that each game requires an individually tailored artificial intelligence. In
+this game, we used generalized routines that
+search for specific conditions which in turn
+trigger a reaction by the computer. We also
+incorporated scripted moves and setting of
+objective hexes. It took a lot of imaginative
+thinking and code manipulation to construct a good computer opponent. I must
+credit Dave Landrey for his dedicated efforts and ability to provide such an opponent in this game.
+
+STRATEGY TIPS
+1.First Turn: Since American movement
+is severely limited on the first turn, the German should plan carefully to exploit this opportunity. He should pump maximum artillery support into units opposing
+American regiments and also into the 560th
+VG and 2nd PZ divisions. The two U.S.
+regiments of the 106th division should be
+surrounded and isolated by the 18th VG (but
+not attack them until turn three when surrender is possible). The German should attack the U.S. CAV regiment in hex 22,30
+with one regiment of the 18th VG and the
+3rd FJ (supported by at least 20 artillery
+points). The 26th VG should attack hex
+16,25. The regiments of the 116th PZ should
+be moved to the nearest road (14,25 and
+14,26) and entered into travel mode. They
+should strike across the bridge at hex 15,24
+or 18,25. The 560th VG should attack
+towards hex 13,23. The 2nd PZ should attack hex 10,22 and advance across the river
+with the PZGR regiment. The remaining PZ
+regiment should then enter travel mode,
+preparing to cross the bridge when built the
+next turn. The 62 VG should cross the river
+and attack hex 7,22 (using the engineer in
+7,24 to cut the cost of crossing the river). The
+5th FJ and 352nd VG should remain in
+regiments and attack towards Diekirch,
+entering travel mode and sweeping the
+southern flank.
+2.Bastogne Gambit: If the bridge at Wiltz
+
+is not blown on turn two Bastogne can
+possibly be entered on the third turn by the
+RECON unit of PZ LEHR by placing the unit
+out in front and rolling across the bridges
+at hexes 7,21 and 6,19.
+3.Durbuy Approach: When playing
+against the computer, attacking along the
+Ourthe River on the road to Durbuy could
+possibly result in a breakthrough across the
+river at Durbuy, allowing an exit off the
+north edge of the map. You will, however,
+be hard pressed to keep a supply line open.
+4.Sacking La Roche: Capturing La Roche
+by the 21st of December is essential to expanding the bulge toward Rochefort and off
+the west edge of the map. Take the bridge
+site at hex 11,12 with a couple of PZGR
+regiments and then attack up toward La
+Roche. At the same time move PZGR
+regiments from Houffalize to hex 15,10
+(cross-country if necessary) and advance
+across the river into La Roche after combat.
+5.Historic Corridor and Southern Edge:
+When using the historic option take advantage of the fact that American resistance will
+be weak within the corridor. The players
+should take note that the German can not
+move into the zero hex column. This results
+in giving the U.S. a guaranteed staging area
+in the south and prevents the Germans from
+entering Neufchateau, complicating deep
+penetration of the south.
+6.Tactical Hints: Keep an engineer in the
+front of major advance to repair blown
+bridges. Engineers should also be present
+
+at river crossings and fortifying actions
+since they cut the costs. Air interdiction is
+a very effective way of slowing down the
+German advances. Conduct ground assaults
+against stacks, especially containing units
+in travel mode (strafing hurts), since every
+unit has a chance of being hit. Remember
+that divisional units may not enter travel
+mode. Attack selectively during the second
+phase since attacking units lose all remaining operation points which could be used
+to recover efficiency the next turn. Take
+note that towns are valuable points of
+resistance since units in towns are never
+forced to retreat. Note also that fortification
+lowers the chance of forced retreats. Combat resolution is resolved in the same order
+as initiated. Use this to cut off retreat routes.
+Avoid moving units with artillery support
+since such movement reduces that support.
+Use a quick moving unit to change ownership of hexes in front of an advancing main
+column, reducing movement costs. When
+using the two player option, take advantage
+of the fact that engineers and TDs are at half
+strength. Engineers can be destroyed in one
+attack, even by a unit in travel mode.
+Dave and I invite anyone interested in
+knowing more about BREAKTHROUGH
+IN THE ARDENNES to contact us at SSI.
+Any experienced players of the ARDENNES system are welcomed to playtest its upcoming sister game, OPERATION
+MARKET-GARDEN, to be released in
+Spring of 1985.
+
+Game Playing Aids from Computer Gaming World
+COSMIC BALANCE SHIPYARD DISKS
+
+Diskette #1 contains over 20 ships that competed in the 1st Annual CGW Cosmic
+Balance Ship Design Contest. Included are the tournament winner, Avenger, the
+judge's ships, Blaze, Mongoose, and MKVP6, and many more!
+Diskette #2 contains over 35 ships that competed in the 2nd Annual CGW Cosmic
+Balance tournament. Included are tournament winner, Wisconsin, and the judge's
+ships, Greenlaw's Fleet, T.A.B., Judge and many more!
+These ships are ideal for the gamer who cannot find enough competition or
+wants to study the ship designs of other gamers around the country. SSI'S The
+Cosmic Balance game is required to use the shipyard diskettes.
+PLEASE SPECIFY WHICH DISK (CB#1 or CB#2) AND WHICH MACHINE
+APPLE, ATARI, C-64) WHEN ORDERING. $15.00 EACH OR $25.00 FOR BOTH.
+
+ROBOTWAR TOURNAMENT DISKS
+Diskette #1 contains the source code for the twelve entrants in CGW's Second Annual Robotwar Tournament. Diskette #2 contains the seventeen entrants in the Third Annual Robotwar Tournament. Muse Software's ROBOTWAR' required to use these diskettes. Please specify which diskette when
+ordering. $15.00 each or $25.00 for both.
+Send orders to COMPUTER GAMING WORLD, Disk Order Dept. P.O.Box 4566,
+Anaheim, CA 92803-4566.
+
+STRATEGICALLY
+SPEAKING
+
+without this pattern was unlikely. Keep this
+in mind when planning your activities each
+turn, or you will often find the game ending
+quickly ending amid shattered units.
+Cultivate patience and a fearful
+counterpunch.
+Stephen Newberg, Simulations Canada
+
+GERMANY 1985
+The following are tips for the US player
+in the Advance to Contact scenario:
+1. Despite what the rules say, engineer units
+can reorganize. I suggest reorganizing your
+headquarters, infantry, and engineer units
+just as soon as they arrive (if possible) to increase their efficiency. This can pay
+dividends later.
+2. Attack in Normal mode. This often leaves
+you with sufficient movement points to (if
+necessary) attack again. Normal mode will
+also leave you in a better position defensively. Attack mode, alternatively, is costly and
+leaves you vulnerable to counter-attack.
+3. The game is won by controlling the most
+towns, villages, and airfields—not by
+destroying enemy units. Decide beforehand
+what objectives you need to take and hold
+in order to win.
+W.J. Vandenbrook, Chicago, IL
+
+Strategically Speaking covers strategy
+game tips, including tips on wargames,
+sports games, economic and other "real
+life" simulations, and classic style games.
+DISCLAIMER: The tips printed in SS are
+those of the authors. We try to avoid printing
+tips that don't work, but we cannot playtest
+all, or even most, of them. So, let the player
+beware.
+We encourage you to share your strategy
+game tips with others. Tips can be mailed
+to Strategically Speaking, c/o Computer
+Gaming World, P.O. Box 4566, Anaheim,
+CA 92803-4566. Try to keep tips under 250
+words if possible.
+SIEG IN AFRIKA
+The war in the North African desert lasted
+several years, but generated only half a
+dozen or so major battles. This is easy to
+forget when playing a game with monthly
+turns, but doing so can hurt. I've noticed
+that many players try to fight too soon and
+too often. Units start in play (and arrive as
+reinforcements) in a very weak condition.
+The Rebuilding function represents bringing
+these units up to full strength, acclimatizing
+the troops, and training them as a unit.
+Rebuild at every chance. Historically,
+months at a time were devoted to shifting
+unit locations, accumulating supplies,
+engaging in minor skirmishes, and intelligence gathering to produce a week or
+two of intense combat. Survival of units
+
+WAR IN RUSSIA
+WIR contains two programming
+anomalies which may be taken advantage
+of to achieve greater success in the solitaire
+Barbarosa game. First is the easy seizure of
+Murmansk, a vital objective for the Axis as
+it eliminates wintertime Lend-Lease. The
+two northern-most combat groups
+strategically move to 7,2 and attack the city
+from the south. Luftflotte 1 moves to 3,4 to
+support with 200 air points. Two turns at
+most are needed to secure Murmansk. At
+levels three and four, the combat groups can
+then move to help southern Finland. Even
+if they can't move out of supply any more,
+at levels one and two, it's good trade for a
+warm water port. Luftflotte 1 then moves
+to Helsinki to support the second sure thing.
+.. Leningrad.
+With a Finnish group in 7,12, two Axis
+groups in 6,14 and the city out of supply,
+Leningrad will fall in less than a month. Cutting the city off is not difficult with a strong
+northern thrust. Once a breakthrough is
+made, send two infantry divisions towards
+Archangel to seal the supply line. After the
+fall, all of the air points can be relocated to
+the redeployed southern airfields.
+Perhaps an updated version of the game
+will take into account the difficulty of movement and combat in the northern latitudes.
+Although the Leningrad assault was
+historically possible, the campaign against
+Murmansk was defeated by terrain as much
+as anything else.
+Charles Jehlen, Jr., Groves, TX
+
+FIGHTER COMMAND:
+Luftwaffe Player
+It is a basic principle of warfare to avoid
+giving decisive battle until the odds are in
+your favor. In Fighter Command, the Luftwaffe player should wear the RAF down by
+scheduling many fighter sweeps, by setting
+up raids spaced out to last all day (day after
+day), and by striking where and when the
+RAF cannot defend. At the start, knock out
+the four South Coast H-radars:Ventnor
+(already out on Aldertag), Pevensey, Rye,
+and Dunkirk, and then doing your best to
+keep them out for the rest of the battle. When
+all four are out, many raids which avoid being spotted by patrols, don't fly over the Lradars, and fly at minimum altitude will not
+be spotted until they drop their
+bombs...even on targets well inland. Given
+little or no warning, Luftwaffe bombing Can
+be much more effective, and RAF intercepts
+will be fewer as well. With practice, one can
+learn how to keep the South Coast radars
+effectively neutralized with just the Ju-87's
+and fighter EG's.
+Harry D.Blaker, Mason, OH
+
+COSMIC BALANCE
+In designing ships for CB, the designer
+becomes painfully aware of the limited
+usefulness of many of the systems available.
+The problem is that each is highly useful
+against some targets or defending against
+some threat; but relatively useless against
+other targets or threats. An exception to this
+rule are the Belts. Useful against the threats
+of seekers, plasma torpedoes, and fighters,
+they continue to play a significant role when
+fighting an opponent who possesses none of
+these offensive systems. Belts are the perfect
+battery! Unlike shields which can return
+half of the energy stored within them, belts
+are able to store energy up to the number
+of belts in the design, and will return some
+or all of the energy when needed. During
+a toe to toe battle, the ship which can call
+upon a source of extra energy to power
+shields on key turns and save excess energy
+on disengaged turns will have a decided
+advantage.
+Stewart MacKames, Orange, CA
+
+CARRIER FORCE
+REPLAY — ERRATA
+The Midway replay article in our last
+issue contained a couple of omissions. Figure two on page 12 omitted
+TF's 4,6, and 7 which were located
+in hex 21,17. Also on page 12, New
+Orleans and Vincennes joined TF 12
+in hex 26,16 at 1300 hours, not 1800
+hours.
+
+games. "Mugwump:' "Nim," and "Geowar"
+are examples of recent test library offerings.
+Although Delphi seems to be trying to provide a wide choice of games to its subscribers,
+most of its programs are unexciting.
+Tele-gamers are tired of seeing public domain versions of blackjack, "Mugwump," "The Towers
+of Hanoi:' and "Animals." Furthermore, if they
+haven't already done so, modem owners can
+download these programs from free bulletin
+board systems. Six dollars per online hour
+(Delphi's nonprime time connect charges) is
+simply too much money to pay for these stale
+and timeworn games. Delphi has announced
+plans to offer multi-player games in the near
+future.
+
+TELE-GAMING
+DELPHI GAMING
+
+Patricia Fitzgibbons
+One of the smaller fee-based telecommunications services —compared to
+CompuServe or The Source — is the Delphi
+network, a product of General Videotex Corporation of Cambridge, Massachusetts.
+Although Delphi has attracted only about
+5,000 subscribers since it began operation two
+years ago, the system has a reputation for
+"user-friendliness:' Many subscribers seem to
+enjoy Delphi's "homey atmosphere," while
+others are disappointed in the system's lack of
+sophistication. Delphi offers such typical
+online services as electronic mail, bulletin
+boards, an encyclopedia, news and weather,
+conferences, special interest groups, and, of
+course, games.
+The Delphi games menu lists a variety of
+single-player game categories: adventures,
+board games, casino-type games, a kiddiekorner, logic games, and sports games. The
+adventures include the perennial "Colossal
+Cave" (an "Original Adventure" clone) and the
+maze game "Dungeon." Board games such as
+backgammon and checkers are available, as
+are sports games such as boxing and football.
+In the casino, players can challenge Delphi's
+computer to a few hands of blackjack or poker,
+or take their chances with the wheel-of-fortune
+or craps. Logic games include the old standbys of "Towers of Hanoi:' "Lunar Landing,"
+and 'Alien:' In the kiddie-korner area, younger
+Delphi users may choose "Guess the Animal,"
+"Bug," or "Hangman."
+Several games are available for subscribers
+who use VT52 or VT100 terminals. These programs (including "Star Trek" and "Empire")
+require special cursor commands to print out
+graphic displays. Delphi also offers a test
+library which usually contains a dozen or so
+
+Delphi's online games are not exceptional,
+but its Games Special Interest Group ("Games
+SIG") does have several nice features. The
+Games SIG offers subscribers a chance to exchange gaming information, participate in
+play-by-mail games, interact with one another,
+and boast about high scores. Christopher
+deOgburn and "Shadowfax," the Games SIG
+managers, have established several bulletin
+boards devoted to a variety of gaming topics:
+D&D games, chaotic role-playing games, Infocom games, Diplomacy, and video games.
+Members may read and reply to messages
+posted on these boards, and are welcome to
+join ongoing play-by-mail games.
+Sub-board managers have the option to
+make their individual bulletin board private.
+For example, members who wish to exchange
+hints about Infocom games must send a letter to "Chuckie" (that sub-board's manager) requesting to join. Chuckie will, in turn, reveal
+the sub-board's secret password to the new
+member. Any user who publicly divulges
+game hints is removed from the member list.
+Subscribers can, of course, post help requests
+publicly. Here is an example of a recent Games
+SIG message:
+
+BBoard:
+Subject:
+Author:
+Date:
+
+07-INFOCOM CLUES
+DEADLINE
+AKEITH
+11/25/84
+
+Am sure that there must be a secret room
+behind the bookshelves in the library. Can
+someone gently nudge me in the right direction that will help me figure out how to get
+behind the bookcase?
+This desperate "Deadline" player probably
+received a hint through Delphi's electronic
+mail system. Rather than posting a message on
+the public board, however, a hint seeker could
+scan the member list for the names of Delphi
+subscribers who belong to the "Infocom
+Clues" sub-group. The nineteen members (at
+press time) of the group answer questions
+through the private board or through electronic mail.
+When gamers achieve a high score in a
+game, their boast may be posted on the
+"Scoreboard" bulletin board. Recently,
+
+member Chuckie reached 400 points in 335
+moves while playing Infocom's "Infidel." No
+one has, as yet, dared to challenge that
+accomplishment.
+The Games SIG also offers online newsletters of general interest to members and of
+specific interest to Diplomacy and role-playing
+fans. Although "The Goblin Press" newsletter
+is passworded, "The Game SIG Post" and
+"The Online Diplomat" are public.
+Other Games SIG features include a polling
+function and the "Peoplenet" listing. By entering "Poll," at the Games SIG menu, members
+can choose to create a poll question, list current polls, view results of earlier polls, or vote
+on a question. The polling function is potentially very valuable; unfortunately, it is used infrequently. A recent poll asked the question:
+"Is the set-up (sic) of this entire SIG conducive
+(sic) to confusing interested parties, especially new ones?" Only one member responded,
+and the result was a "strongly agree" vote.
+"Is the setup of this entire SIG conducive
+to confusing interested parties, especially
+new ones?" Only one member responded,
+and the result was a "strongly agree" vote!
+The "Peoplenet" menu allows subscribers
+to search a listing of user profiles. A "browse"
+through this area reveals the names and interests of participating Games SIG members,
+and affords users the opportunity to learn who
+their fellow subscribers are. Once again, this
+area is not very active.
+Other available games menu options include access to Delphi's multi-user conference
+area, electronic mail, and a writer's corner.
+Delphi's tele-gaming offerings may be
+characterized as "having potential:' At this
+point in its development, Delphi has a lot of
+promise but not a lot of substance. Essentially, Delphi needs more subscribers, a few unique games (hopefully of the multi-player type),
+and more active, experienced SIG managers.
+This is one online system that tele-gamers can
+get involved with on the ground floor... if they
+wish.
+Delphi's signup fee is $49.95; hourly connect
+charges are $6 per hour for nonprime time
+and $16 per hour for prime time. The system
+is accessible through Tymnet. For more information about Delphi, call (800) 544-4005, or
+(617) 491-3393 in Massachusetts. Delphi's
+mailing address is: 3 Blackstone St., Cambridge, MA 02139.
+
+You may contact me on CompuServe at
+76703,657, on The Source at BCE124, on
+
+Delphi at PFITZGIBBONS, or via U.S. Mail
+to:
+Patricia Fitzgibbons
+195 Claremont Avenue #115
+Long Beach, CA 90803
+Copyright (c) 1985, Patricia Fitzgibbons. All
+rights reserved.
+
+GULF STRIKE!
+
+by Mark Bausman
+
+Name:
+Type:
+System:
+# Players:
+
+Price:
+Author:
+Publisher:
+
+Gulf Strike
+Wargame
+Atari
+1-2
+$30.00
+Winchell Chung
+Mark Herman
+Avalon Hill Game Co.
+Baltimore, MD
+
+For many years now, the Soviet Union and the United States have
+been testing each other with both political and military operations.
+It may only be a matter of time until they chose a battleground to
+determine out whom is really the superior power. The Middle East,
+with its oil and political unrest, provides both motive and opportunity for a confrontation. All we need now is a body, which the
+new game from Avalon Hill, Gulf Strike (GS) will try its best to
+provide.
+DESCRIPTION
+GS presents a scenario in which Iran or Iraq is about to win their
+stalemated war and the Superpowers are stepping-in to determine
+who will control Iran. The game is played on a scrolling map of
+65 x 55 squares (each representing a 28 x 28 kilometer area) covering Iran, portions of its neighbors, and the Persian Gulf. The computer screen is divided into three sections with the top section showing the map and the two lower sections showing unit information
+and status or message information. Military units appear on the map
+section as either a black Hammer and Sickle for Iraq/Soviet Union
+forces or as a Gold Star for USA/Iran/Allied forces. The units include many different types of land, sea and air forces with each being distinguished by its own symbol in the unit information area.
+Individual symbols representing specific units are only seen when
+the appropriate map symbol is being viewed; and these only when
+a friendly unit is "adjacent". This simulates the "fog of war" and
+prevents you from knowing what the enemy units are until you have
+recon'ed them. The status/message area is used for entering orders
+and showing other pieces of unit information.
+To win the game, the Soviet/Iraq player must capture 9 of the 21
+specially designated Victory Point squares (VPS). If he dose not do
+this within 25 turns, the USA/Iran player is the winner. There is
+also a point system in which players may receive bonus points for
+the number of enemy hit points they have eliminated. The Soviet/Iraq
+player also receives bonus points for how rapidly he is able to capture 9 of the VPS while the USA/Iran player gets bonus points for
+the number of VPS the Soviet/Iraq player fails to capture.
+MECHANICS
+GS is played in three phases (ground and naval movement, air
+movement and combat, and ground and naval combat). During the
+
+first phase ground and naval units may change formation and move
+based upon their movement allowance and the terrain. Changing
+formations costs movement points with different formations having different effects upon both movement and combat. You can have
+up to 19 ground units in a single stack, while naval units are not
+permitted to stack at all.
+In phase two, you control the various air forces, and engage in
+both movement and combat. First the player assigns each of his aircraft squadrons to a mission which may be an air strike, a surface
+strike, or interception. Each squadron is then given a target, the
+mission is launched, combat occurs, and the mission returns to its
+base. This activity is accomplished much like the movement phases
+by using the joystick and positioning the arrow cursor over the
+desired squadron.
+In phase three, all ground and naval combat is resolved. Combat
+
+is handled automatically by the computer whenever two opposing
+stacks are adjacent to each other. Each unit has a ground, air, sea,
+and submarine combat value which is modified by formation and
+terrain. The computer will decide which units are attacking and
+which are defending and compare the combat values to arrive at
+a winner. Each unit also has a number of hit points which are reduced during combat until they reach zero, which signals the
+destruction of the unit. The phases are repeated until the victory
+conditions are met and a winner determined.
+Avalon Hill has incorporated a great amount of detail into GS.
+The rule book is 43 pages, with better than half of it dedicated to
+orders of battle and descriptions of the various air, land and naval
+forces. There are 13 types of ground units with each unit having
+a choice of six different combat formations. There are also 16 different types of naval units including three types of carriers and three
+types of submarines, and some 20 different types of aircraft. When
+you consider the number and diversity of units and differing tactical uses for each, you can see that this game has many strategic
+possibilities.
+With this much detail, the game system naturally has to be
+somewhat complicated, but AH has done a nice job of programming
+the computer/player interaction. The combination of joystick and
+trigger button usually works pretty well, although your trigger thumb
+might get a little tired after a few hours of play.
+In looking at the map, it is interesting to note that five of the 21
+VPS are clustered together near the entrance of the Persian Gulf.
+Russian Naval forces are concentrated at this point but they are not
+supported by ground or air units. The Soviet Navy is superior in
+sea combat capability but inferior in ground and air operations in
+this area. If you can prevent Soviet ground forces in the North of
+Iran or the strong forces located near the Iraq and Kuwait border
+from linking up with the Naval forces, then you can save at least
+5 VPS and more likely many more. The other Soviet strategy might
+involve a three prong attack from the South, East, and West with
+Tehran as the objective. One of your big decisions will be when to
+commit the A-10 Thunderbolts based in the center of Iran. The A-10's
+have a high ground combat rating and a zero rating in the other areas.
+As they are a short range fighter, you will have to commit them to
+the defense of a specific area close to the fighting.
+COMPUTER OPPONENT
+In a recent edition of Microcomputer Games, (a newsletter publication of the Avalon Hill Game Company), Winchell Chung, the
+designer of GS talked about the artificial intelligence he programmed
+into GS. The computer uses what Winchell calls a "field map" which
+is very similar to the game map. Each square in the field map has
+a negative value for Soviet forces and a positive value for USA forces.
+The combination of values gives each square a combat value. By
+applying the combat value to the square closest to it and then reducing the combat value of the squares further away, simply because
+they are further away, the computer can determine where the most
+dangerous threats lie. To determine where the unit will move, it
+will look at the closest victory point square and at the closest enemy
+stack. It then "flips a coin" to determine which one will become
+its destination. According to Winchell, the naval units do not use
+the field map. Instead, they simply divide up the sea victory point
+squares and go after them.
+CONCLUSION
+GS is a detailed game which can be played by both intermediate
+and advanced wargamers and provides the players with a wide variety of strategic options. The human-computer interface is nicely done
+considering the amount of items the program must handle.
+Much time in this game will be spent scrolling around the map,
+looking at units and giving orders with a short period of time spent
+in the normal "fast" combat resolution. For those of you more interested in strategy than tactics, this is a good feature; but the tacticians among you may find that the optional combat-by-combat
+resolution provides the tactical feeling you are looking for.
+Once you get to know what's under those Gold Stars, you will enjoy playing the game and have a good time securing the Middle East
+from Soviet influence.
+Circle 41 on Reader Service Card
+
+With a confidence that comes from the experience of dozens of space battles, Fleet
+Admiral Greenlaw eyed his latest opponent
+on the viewing screen.
+"Range?" he barked.
+"38" came the reply.
+He was somewhat concerned that David,
+one of his motherships, was closest to the
+enemy. Quickly he relayed messages to Maccabeus and Gideon to rush to the front.
+Greenlaw's flag/mothership, Joshua was
+safely in the rear. But he could not have been
+more concerned even if his ship were in the
+van. To Greenlaw, his ships were more important than his own life.
+Calling for a computer readout on his opponent, Greenlaw discovered that his two
+compatriot/judges had already been
+destroyed at the hands of this ship, named
+Wisconsin.
+"Hmmmm. . . Wisconsin is is going to a
+bear" Greenlaw mumbled to himself.
+As was his standard policy, Greenlaw
+ordered the two motherships to the rear,
+launching fighter squadrons as rapidly as
+possible. Maccabeus and Gideon streaked
+toward the enemy, attempting to draw fire
+away from the their larger companions.
+Greenlaw winced as he watched a barrage
+of siege phasers pummel David. Even as the
+fighter squadrons began to engage the
+enemy, damage reports began arriving.
+David's number two and four shields had
+been breached in the first two barrages.
+Although damage was minor from this
+early onslaught, Greenlaw was worried.
+The enemy's rate of acceleration indicated
+that he was much faster than Greenlaw's
+Fleet. Wisconsin would be all over the
+
+motherships if Maccabeus and Gideon
+couldn't slow her down.
+"Hmmmm... I may be looking at the winning design" Greenlaw mused.
+On turn three Maccabeus bore in on
+Wisconsin. The enemy dreadnought
+unleashed the full power of eight siege
+phasers on the tiny destroyer. Maccabeus
+disintegrated in a spectacular explosion, it's
+heavy seekers simultaneously being
+destroyed by Wisconsin's belts. But Maccabeus bought the motherships some time.
+Greenlaw checked the position of Gideon.
+The tiny frigate had already launched it's
+two heavy seekers and was retiring to the
+rear. With an ache in his chest he sighed,
+realizing that he was going to have to order
+the handful of men on Gideon to reengage
+Wisconsin. Perhaps, like their namesake, a
+divine power would save them from their
+otherwise inevitable fate.
+He issued the orders to Gideon, at the
+same time ordering Joshua to a new heading
+in hopes of opening some distance from
+Wisconsin. With great remorse he watched
+Gideon turn to face the foe and certain
+destruction. Even as he watched, a report
+came in of new damage on David. It wasn't
+looking good. His fighters were scoring
+shield breaches, but they weren't coming
+often enough. He began to calculate how
+soon he could warp his fleet out.
+While his mind was musing over strategy
+he suddenly became aware that something
+wasn't right. Looking at the tactical display
+he realized that Joshua had turned towards
+Wisconsin rather than away!
+"Hard about!" Greenlaw screamed.
+
+In what seemed like an eternity Joshua
+began a slow lumbering turn away from the
+enemy. But the enemy seized the opportunity. Disrupters and siege phasers slammed
+into Joshua.
+"Shield three is breached, Sir." Came a
+comment from somewhere on the bridge.
+Then. . . "Shield one is breached, Sir".
+Hurriedly Greenlaw began issuing orders,
+sending energy to the rear shields. Draining front shields to reinforce the rears,
+Greenlaw began to calculate how long it
+would take Wisconsin to reach optimum fire
+range.
+A sudden flash on the screen told him that
+Gideon was no more. Almost simultaneously a report came to him front the Fighter
+Control. . . "Our fighters have just scored
+four breaches of the enemy's shields!" A
+cheer went up on the bridge.
+Quickly Greenlaw evaluated this new information. David seemed secure for the moment as Wisconsin was concentrating fire
+on Joshua. And Joshua was three turns
+beyond optimum fire range of Wisconsin's
+guns. Greenlaw calculated that he could
+wait until turn twelve before having to make
+a decision on warping out.
+He sat back in his command chair. While
+the crew of the Joshua effected repairs and
+prepared for a possible jump to warp speed,
+Greenlaw watched the tactical display of
+Wisconsin.
+Turn ten: Wisconsin's shield eight is
+breached.
+"Not enough" thought Greenlaw.
+Continued on page 38
+
+HITCHHIKER'S GUIDE
+TO THE
+GALAXY
+
+As told by Scorpia
+
+WARNING! Scorpion's Tale contains hints
+on solving computer adventure games. If you
+
+don't want help, don't read on.
+
+❑ ❑ ❑
+
+The New Year is with us! So, come on in,
+settle by the fire, and Fred will pour your
+favorite beverage, while we celebrate what
+looks to be a good year for games. Ah, isn't
+it nice to relax after the holiday rush? Don't
+get too comfortable, though; the chaos of of
+the holidays was just a warm-up for what's
+coming next. So, pack your toothbrush, grab
+your towel, get your thumb in gear, and
+above all: DON'T PANIC! as we go out for
+a little galactic hitchhiking.
+Hey Arthur, things don't look too cool for
+you at the moment. Not only have you woken
+with one heavy hangover, there's a big yellow
+bulldozer bearing down on your happy home.
+What are you gonna do about that?
+Say what? You're not gonna take this lying down? Well, I hope you change your mind
+about that, or you won't get too far in this
+adventure. That's better; now, why don't you
+read something while you wait? Aha, here
+comes your buddy, Ford Prefect. Looks like
+
+he has something on his mind, doesn't he?
+Strange he should turn up right now to return
+your towel. I'd be suspicious of this, if I were
+you.
+Ok, now he wants to buy you a drink or two
+(even more suspicious!). Well, why not? Free
+drinks don't come along every day (and soon
+they won't be coming along at all, but you
+don't know that. . . yet!). So, hop on over to
+the pub and quaff a few, but don't get carried away; one hangover was enough! While
+you're there, you might want to look things
+over, as Ford tells you that the end of the
+world is imminent (sure, Ford).
+Crash! Arthur, I think that was your house.
+When you go back to make sure, remember
+that this is also "Be Kind to Animals On the
+Last Day Of The World" Day. Hmmm, yep,
+they tore down your house, no doubt about
+it! But hey, no need to worry; the rest of the
+world is going to follow it, 'cause here come
+the Vogon constructor ships. I guess Ford
+wasn't kidding, huh?
+Don't panic! Ford just dropped his hitchhiking thumb; you're close enough to pick it
+up, so you better do just that. When you push
+the right button, you'll find yourself in the
+dark. Get used to that; you'll be visiting the
+dark a lot during the rest of the adventure.
+It's kind of a dull place, the dark. You can't
+seem to do much of anything, at least for
+awhile. So, keep cool, hang out, and remember that you have five senses (I hope you
+remember what they are!).
+That's better. You've made your way to the
+Vogon ship. And there, in the corner, sits the
+Babel Fish dispenser. Innocent-looking thing,
+isn't it? I'll bet you didn't know that that
+dispenser has been responsible for more gray
+hairs, more ulcers, more chewed disks, and
+more frustration than all the puzzles in all
+the Zorks combined. Getting a Babel Fish into
+your ear isn't as easy as you might have
+expected.
+No need to panic, however. You can handle most of the task easily, I'm sure. Your real
+
+nemesis is that unprintable
+uper-halfotmcnigrbo.Rht?!S,wa
+to do? Well Arthur, you need a little junk, and
+you have to send it to the UHOTR robot airmail. Just make a deposit in the right place,
+and let the mechanical thingies do the work
+for you. Wonderful! Now you're running
+around with this fish in your ear (wonder how
+it manages to survive without water??).
+At least now you can understand what
+other people (creatures?) are saying to or
+about you. Ford is still snoozing, so why not
+investigate the rest of the hold? That glass
+case sure looks interesting. Oops! The Vogon
+captain has just discovered you're on board,
+and he's about to subject you to something
+almost too horrible to contemplate: genuine
+Vogon poetry.
+Forget it Arthur; struggling is useless.
+You're stuck in that Poetry Appreciation
+Chair, and you're just gonna have to listen.
+And while you're listening, keep in mind that
+a verse of poetry has four lines.
+Hmmm, things seem to be getting worse.
+You survived the poetry, and now you're
+about to be kicked out the airlock, into deep
+space (Arthur, this just ain't your day). Look
+at the bright side: you have a chance to do
+something about the case while you wait.
+Whoosh! Out you go... to be picked up 29
+improbable seconds later by the famous
+Heart of Gold (the HOG, for short). And here
+is where the fun really begins. You have to
+be careful now, Arthur, 'cause at some points
+along the way, the program is gonna LIE to
+you! Really!
+Ok, you made it out of the dark and onto
+the bridge. After everyone sashays off to the
+sauna, you go do some exploring. And this
+above all: consult the Guide about
+EVERYTHING you find (except the tools;
+you don't have to ask about those, but you
+can if you like). The Guide is the most
+valuable item you have. Use it!
+Now that you've spent a little time collecting a few items, it's time to put some of them
+
+together. This goes here, that goes there, and
+as for this thing, well, maybe it's best not to
+attach that one; too many connections make
+for sparks.
+All right, say a prayer and throw the switch.
+Uggh, you 're in the dark again. Well, you've
+been here before, so you should know what
+to do. The thing is, Arthur, you may come
+out of this as not quite yourself. Then again,
+you might. The dark is a pretty strange place!
+So, I'm just going to give you a few hints
+about each of the situations you'll be finding
+yourself (whomever you are) in as the game
+progresses.
+The Bugblatter Beast. By all means, consult the Guide about this incredibly stupid
+creature. Don't be shy about introducing
+yourself, although, in your place, I wouldn't
+hang around in the lair too long. And don't
+let the memorial in the courtyard scare you;
+it can come in handy!
+Zaphod. First, give that boat a good
+looking-over. Second, the auto-pilot isn't just
+for show, but you have to make it work for
+you. It's the guards that are the really tricky
+part. Remember that Trillion is in this with
+you; she can be helpful at the right moment.
+Ford. This is really deja vu! In fact, almost
+an instant replay. Remember to look in the
+satchel carefully! It's also helpful to
+remember everything that happened at the
+start of the game.
+Trillion. This one is easy. Just take a good
+look at Arthur, and remember to otherwise
+keep your hands full at all times.
+War Room. Another easy one, if you were
+a good guy way back when Earth was still
+there. Hang out, and you'll soon be inside
+your own brain. The thing to recall here is
+that anyone with a particle of common sense
+in his head will never finish the game.
+Now that you've gone through all this,
+maybe you should relax with a cup of real tea.
+How's that sound, Arthur? Thought you'd
+agree. So, head for the Nutrimat, and brew
+up a storm. Hmmmm... maybe that wasn't
+such a good idea after all. In fact, it looks like
+the Nutrimat has just taken over the HOG's
+computer system. . . just as you're being attacked by missiles from the legendary lost
+planet of Magrathea.
+Dare I say it? Don't panic! There is a way
+out! Remember, this is an emergency situation! Now might be the time to plug in all the
+way and go for it. Better hurry, Arthur, there
+isn't much time left!
+Whew! You made it. . . and the missiles
+have turned into. . . a whale??? Yep. And
+guess where you're gonna have to go now?
+Hehehehehe! But first, why not check out the
+Nutrimat? Sonuvagun! It finally made a cup
+of real tea for you! But wait!! Don't drink it
+just yet. Take a good look at that tea! Does
+that give you any ideas? It better!
+So, here you are, inside the whale (hey,
+don't knock it, Arthur, you've been in worse
+places; remember that Poetry Appreciation
+Chair?). There seems to be a flowerpot here.
+All you have to do is get out with it. Or, at
+least, get out, and have the pot come to you
+later. You know how it is, Arthur; some things
+just keep turning up, no matter what you do.
+Relatively speaking.
+
+At last! Back on the HOG. The question is,
+what now? Well, if you've been consulting the
+Guide about everything you've found, you
+have a pretty good idea of what the flowerpot is for (keep in mind that it takes four to
+make one). A little patience, and a little semitropical atmosphere, and you'll have some
+pretty strange fruit. Don't be afraid; take a
+bite.
+Ah, so! And now, Arthur, it's finally time
+for you to get past that Screening Door.
+Think: what happened when you picked up
+the real tea? And what happened when you
+dropped the real tea? Consult the Guide about
+intelligence, and you ought to know what you
+have to do.
+Good work! The door is pretty impressed!
+Still, with Marvin on the other side, you need
+to do something first (such a depressing fellow
+(?), that Marvin). What you need is something
+that will give you a little lift. Have anything
+like that handy?
+Well Arthur, I think you can manage the
+rest of it on your own (as long as you can
+count to twelve, that is!). It's been some trip,
+hasn't it? The only thing is, it seems that your
+adventures are just beginning. Maybe you
+should have stayed on Earth, after all.. .
+
+That's it for this column, but before we
+close the doors here at the Tale, I'd like to say
+a few words about mail. U.S. Mail. The best
+thing I can say about it is that it tends to be
+very erratic. I've gotten letters from California in three days, while a letter from Brooklyn
+took a week, and yet I've also had mail from
+California that took almost as long to get here.
+Two letters, both mailed on the same day
+from Illinois, arrived two days apart. And so
+on.
+I do my best to get replies to your questions
+off quickly; ninety percent of the time, I can
+send a reply to you the day after I get your
+letter. But, your letter has to get here first.
+So, if it seems that you've been waiting awhile
+for a response, remember that the mail service isn't always very swift.
+One more thing: answering mail is
+something I do on my own; I get nothing extra
+for doing this, and my mailbox is maintained at my own expense. For that reason, I do
+request that, if you live in the United States,
+and want a personal reply to your questions,
+you must include a self-addressed, stamped
+envelope. Correspondents in foreign countries (yes, I've gotten mail from as far away
+as Africa and Thailand!) do not have to include return postage (US stamps are hard to
+come by!), but please do include a selfaddressed envelope.
+The address for US Mail is:
+Scorpia
+P.O. Box 338
+Gracie Station
+New York, NY 10028
+If you are on The Source, you may send
+SMAIL to: ST1030. If you are on CompuServe, GO GAM310.
+Happy Adventuring!
+This column is copyrighted © 1985 by Scarpia, all rights reserved.
+
+the
+learning
+game
+EDUCATIONAL SOFTWARE:
+1984 IN REVIEW
+
+11011 PROCTOR
+There are more educational software titles
+available today than ever before. You'd expect that, of course, as long as new titles
+keep appearing faster than old ones disappear. Still, the rate at which new titles appear seems to be on the increase. By now,
+it feels like a veritable explosion. There are
+programs designed to teach us everything
+from recognizing colors to retirement
+planning.
+It will be interesting to see, when we look
+back a few years from now, how we will
+view 1984. Will we think of it as an "age of
+innocence", when the market was being
+flooded with more educational titles than
+could possibly succeed? Or will we see it as
+the beginning of the era when the computer
+took its place alongside the dictionary and
+encyclopedia in the home.
+At the rate things happen in the
+microcomputer business, we may know the
+answer before 1985 is over!
+NEW COMPANIES
+There is a stereotyped pattern for the lifecycle of a computer software company.
+First, you announce your entrance into the
+marketplace by buying lots of ad space.
+Presumably, a big splash is necessary to get
+
+the consumer's attention. If you're in
+business software, one new product may be
+enough, but in educational software you'll
+want to have more to establish an image of
+tremendous breadth and variety. Six or
+eight new titles will do, but you may have
+to scale down if you're a smaller company.
+So, honors for the biggest splash in 1984
+go unquestionably to CBS Software. Their
+line of more than 30 titles runs the gamut
+from pre-school to adult education, hitting
+all the stops in between. I give honorable
+mention to Sunburst Communication Inc. for
+their excellent line of games for elementary
+schoolers.
+Also worth noting are the number of companies which have added educational software to their existing product lines. These
+include hardware makers like Radio Shack
+and IBM, strategy game companies like
+Avalon Hill and Epyx, and media firms like
+CBS and Random House.
+GOOD NEW GAMES
+I'm happy to report that the line between
+"educational" games and popular, entertaining games is disappearing. The success
+of titles like M.U.L.E. and Flight Simulator
+II is blurring the distinction. Note that both
+of these games are simulations of real-life
+events. Admittedly, the setting in M.U.L.E.
+is pure science fiction, but the economic
+forces (which is what the game is about,
+after all) are down to earth.
+Simulations offer the best combination of
+learning and fun because they get you really involved. Other simulations that have
+done well this year — and are quite educational — include Millionaire, Geopolitique
+1990, Rails West, and Seven Cities of Gold.
+All of these titles have been covered in
+CGW. Since space is limited, I'll move on
+to fresher topics.
+Unfortunately, games like these require
+much time and skill to create. So most of the
+titles on the educational market are more
+the traditional "drill and practice" variety.
+These have their place, if competently done,
+but tend to be very dry. This is true of all
+of the "How to Take the SAT" programs
+that I've seen and most of the math practice
+programs.
+As an example, CBS' Success with Math
+series of eight programs (Apple, Atari, C-64)
+covers almost everything from one plus one
+
+up to solving quadratic equations. They are
+useful tools for the student who wants to
+learn but they seem "just like school" to
+someone who is turned off in the classroom.
+PROGRAMS FOR PRE-SCHOOLERS
+The very young are more discriminating
+and require a little more entertaining value,
+thank you. This means colorful graphics
+and snappy music. Xerox has added to the
+excellent Weekly Reader series with titles
+like Stickybear Shapes and Stickybear Opposites ($39.95 for Apple, Atari, and C-64).
+CBS has brought out half a dozen titles
+with the Sesame Street characters. The
+quality of these varies from fair to very good
+— the best being Astro Grover, a math game
+with great animation ($34.95 for Atari and
+C-64). CBS has also developed a clever
+plastic keyboard overlay which makes a
+computer keyboard a simple device for
+young users.
+Besides the more obvious skills like
+recognizing colors, matching letters and
+counting, there are a number of interesting
+new games which teach other skills. The
+most imaginative are The Pond and The Factory from Sunburst ($49 for Apple, Atari,
+C-64, and TRS CoCo). The Pond lets you program a frog to jump across a pond on lily
+pads. The program must be very short so
+you have to find a pattern that repeats.
+There are several levels of increasing
+difficulty.
+The Factory uses a different sort of pattern recognition. You must create a small
+square plate that matches the one shown on
+the screen. To do so, you arrange a series
+of machines that punch holes in, paint
+stripes on, and rotate a blank plate. Again,
+the different levels of difficulty make this
+fun for almost anyone.
+U.S. Geography has gotten help from the
+computer this year! There are two good new
+releases on the subject. The best is States &
+Traits from DesignWare ($44.95 for Apple,
+Atari, C-64 and IBM). The other is Coast to
+Coast America from CBS ($49.95 for Apple,
+C-64, and IBM). Both provide several fun
+games to play with a map of the U.S. and
+teach capitals, history and other facts. The
+DesignWare product is more versatile as it
+lets you make up your own questions. It also
+includes Alaska, Hawaii, and natural
+features like mountains and rivers, all of
+which are absent in the CBS game.
+INTERESTING NEW SUBJECTS
+Did you ever wonder what it was like to
+be a Tyrannosaurs Rex? A classic case of
+"where is my next meal coming from?" This
+game has excellent graphics and includes
+a non-game tutorial disk as well. If you get
+real good at staying alive, make the planet
+ten degrees colder! Try T. Rex by CBS,
+$49.95 for Apple, Atari, C-64 and IBM. If
+you find yourself wanting to know more
+about dinosaurs in general, then CBS also
+offers Dinosaur Dig ($49.95 for Apple, C-64
+and IBM). This also has two disks and excellent graphics. The game tests you on
+facts. This is done in several clever ways and
+Continued on page 38
+
+superior product. Spelunker out jumps Jumpman, out bounces Bounty Bob in Miner 2049,
+and in almost every way is a thoroughly enjoyable game. MicroGraphic Image and Tim
+Martin, the game's authors, deserve at least
+one kudo each for this one.
+The game's title clearly tells what Spelunker
+is all about, (if you know what a spelunker is,
+that is). In Spelunker you use a joystick to
+careful guide an animated character through
+perilous caverns while collecting treasures
+and fending off geophysical and metaphysical
+foes. Leading the way in the obstacle entourage are ghosts and bats, volcanic vents,
+and fire pits. Suspense for the action is set by
+your energy pack which drains slowly as you
+move about.
+
+skip ahead to deeper levels (without having
+earned your way there). This means no
+"practicing."
+If for no other reason, I rate Spelunker as a
+superior game because it passes my "NO
+FAIR" test. By that I mean, of all the many
+times I have played Spelunker, I have never
+cried out, "No fair!" when I've lost a life. I have
+always felt that MY timing that was off, not
+that the game was stacked against me.
+The game is a class act. I highly recommend
+it even if you already have a drawer full of
+games in this genre.
+
+• REALM OF IMPOSSIBILITY
+
+Atari
+Playfield
+SPELUNKER
+AND
+REALM OF IMPOSSIBILITY
+
+David Stone
+
+On the Playfield this issue are two games
+that take you deep within the bowels of
+earth: Spelunker , from Broderbund, and
+Realm of Impossibility, from Electronic
+Arts.
+Both of these games offer top quality
+arcade-style action and two very different
+styles of play. Spelunker requires timing and
+calculation; Realm of Impossibility
+demands constant movement at a relentless
+pace.
+• SPELUNKER
+If the amount of time one invests in trying
+to master a game is any indication of quality,
+then Spelunker from Broderbund is clearly a
+
+The cave itself is large — six levels deep.
+Each level is made up of many screens that
+scroll slowly into view as you move up or
+down in the cave, or flip/scroll quickly as you
+push against either the left or right side of the
+screen. I have explored for many hours and
+have not yet reached the bottom level.
+You begin the game in an elevator at the top
+level of the cave. You can move the elevator up
+and down and stop it near ledges where you
+can hop off to go explore, collect treasures that
+boost your score, and collect keys that will
+unlock doors that seal off lower levels. Along
+the pathways you find ropes and ladders to
+scale (left by spelunkers who went before you),
+batteries to recharge your energy pack and to
+power your phantom blaster (a kind of "ghost
+buster"), dynamite to clear blocked pathways,
+and flares that will come in handy for blinding
+menacing bats.
+Ghosts of spelunkers roam the cave and
+liven-up the game's action. A haunting tune
+announces the nearness of a ghost who then
+comes slowly wiggling on screen. As soon as
+it is in range, you activate your phantom
+blaster (by tapping the space bar). This
+disintegrates the phantom slowly and drains
+your battery fast.
+Bats are another deadly nuisance you will
+be running into. (I call them "albino bats"
+because they are white.) To avoid their guano
+bombs, you shoot off a flare (by pressing "F"
+on the keyboard). One other required keystroke
+is "D" — to drop a dynamite stick to clear rubble that blocks your path. Dynamite can be
+dangerous to your health, so after you drop a
+stick you have to get out of range fast to avoid
+blowing yourself to smithereens.
+Normally, I would object to an arcade-style
+game that requires you to use both the joystick
+and the keyboard. In Spelunker, however, there
+is no problem. Because you move mostly as a
+result of calculation, rather than reflex reaction, there is usually plenty of time to press
+the required key, and then return to joystick
+control.
+In addition to the game features described
+above, Spelunker has many of the amenities
+that you would expect, and curiously, a few
+missing. Included are a demo mode to show
+you what to do, a feature to save the top four
+scores to disk, and a "last score" listing. Missing are a two-player feature and the ability to
+
+Electronic Arts, publishers of such
+outstanding games as M.U.L.E., SEVEN
+CITIES OF GOLD, MURDER ON THE
+ZINDERNEUF, and ARCHON have helped
+set new standards for computer gaming. It
+must be really tough for software authors
+working for this company to develop new
+games that can successfully compete with products already in the line! Realm of Impossibility (ROI) is up to the challenge, even though it's
+not entirely a "new" game.
+ROI is actually an expanded version of Zombies, written by Mike Edwards and released
+by Bram Inc. in 1983. Even though it is billed
+in small print on the front of the software
+jacket as a "Deluxe Edition of The Classic
+Game Zombies", I suspect that some people
+who already own Zombies will miss the fine
+print and buy a game they may not have otherwise purchased.
+Among ROI's improvements are an expansion to thirteen dungeons and a total of 129
+rooms. The game also adds the requirement
+to retrieve keys as well as crowns. Probably
+most importantly, ROI retains the principal
+strength of Zombies: fast action that can be
+played in either a single player or two-player,
+cooperative mode.
+ROI has several features going for it, not the
+least of which is that it is fun to play. The action in this game gets so frenzied that it might
+well have been called "Scramble" (if that name
+had not been taken already) or "Mad Dash."
+The premise of the game is that an evil cleric
+named Wistrik has stolen seven crowns and
+has hidden them somewhere deep within his
+thirteen dungeons. Your task is to retrieve all
+of the crowns. Unfortunately for you, some of
+the dungeons are locked and can be entered
+only after you have retrieved keys from other
+dungeons.
+
+Retrieving a key or a crown entails entering
+the dungeon, advancing through a
+half-a-dozen, or so, rooms, grabbing the booty, then
+making your way back as rapidly as possible
+without getting killed. You advance from room
+to room by pushing against border of the
+screen. This action causes the screen to
+rapidlyscontkeuihxrom.In
+some rooms you can pick up a magic scroll
+that gives you either more hit points or a magic
+spell to cast against your foes.
+Four types of foes thwart your movement:
+hopping spiders, rolling orbs, wandering zombies, and slithering snakes. They are all smart
+(they chase you) but not too smart (sometimes,
+you can elude them). When they touch you,
+you rapidly lose hit points. Loose all you hit
+points and you are dead. An interesting
+feature of the game design is that the foes cannot be killed. A less-creative game design
+might have had you deal with these kinds of
+foe by shooting them. Instead, you can either
+drop magic crosses or cast spells to slow them
+down.
+You drop the magic crosses by pressing the
+stick button. Crosses act as obstacles; your foes
+cannot pass through them and neither can
+you. Each cross you drop only lasts about four
+seconds before it disappears, so there is no
+time to tarry. I have found that it is best to zigzag across the screen when dropping crosses
+in order to snag the most foes.
+You can cast a spell to freeze, confuse, or
+protect by stopping, pressing the stick button,
+
+and then moving the stick left, up, or right
+(respectively). Or, if you are too panicked to
+think about it, you can pull the stick down to
+cast whatever spell you have. An alternative
+you are likely to rely upon is to quickly slap the
+space bar to cast the last spell you obtained.
+Cast the freeze spell and the foes cannot move,
+the confuse spell and they won't chase you, the
+protect spell and they cannot harm you. Each
+spell lasts about four seconds.
+The spells are nice but somewhat difficult
+to use. You typically need to cast a spell when
+you are surrounded and loosing hit points fast.
+Unfortunately, this is no time stop. The result
+is, you often end up loosing more points by
+casting a spell than you would have if you had
+simply made a mad dash to the screen border.
+Another minor difficulty with the spells is that
+a four second duration seems to be about four
+seconds too short.
+The visual style of ROI is unique. This is no
+clone of a game written for some other
+machine. It is pure Atari home computer. The
+music background uses multiple voices, the
+screen scrolls smoothly left-to-right and
+top-to-bottom, the screens are colorful, and the
+character that you control on screen is one color, but well animated.
+Some of the rooms are reminiscent of
+Escher drawings (you know, the ones where
+you look one way and the stairs lead up, and
+look another way and the stairs lead down).
+The screens developed for the ROI edition are
+especially interesting.
+ROI does not save high scores disk, but it
+
+does keep track of the single player and double player high scores for the current play.
+The two-player mode offers all of the
+features of the single player mode, with a few
+twists. First, to leave a room you both must
+push on the same screen border at the same
+time. This requirement is good for a few good
+shouts at your fellow player, such as "Get a
+move on!", and "Quick! I'm losing hit points.
+Push, Turkey!" Sometimes, it's enough to make
+you wonder why they call it a "cooperation"
+mode.
+A nice feature of the two-player mode is that
+if your fellow player loses all his hit points, you
+can "resurrect" him by touching him. This
+"laying on of hands" usually gives him enough
+hit points to make it out of the room.
+The player who picks up a scroll gets any hit
+points that scroll may have provided. This requires you to keep an eye on each other's score
+so you can let the one who is lowest on hit
+points pick up the scroll. Magic spells can be
+cast by either player so, again, its a good
+strategy to keep an eye on the other guy so you
+can cast a spell to help him out of a jam, when
+necessary.
+Even though ROI has several features that
+are not available in Zombies, I do not feel that
+the changes are numerous enough or significant enough to justify the buying both games.
+However, if you have neither, then ROI is a
+good a addition to your arcade-action game
+inventory.
+
+COMPETITION KARATE
+
+Name:
+Type:
+System:
+#Players:
+Author:
+Price:
+Publisher:
+
+Competition Karate
+Sports Simulation
+Apple, C-64
+1-2
+Edward Badasov
+$34.95
+Motivated Software
+Mill Valley, CA
+
+COMPETITION KARATE (CK) is the
+first computer treatment which I have seen
+of any part of the world of Martial Arts or
+combatives. It was therefore a pleasant surprise to discover that Ed Badasov, the
+game's creator, had done a very fine job of
+capturing the feel of competition karate. Not
+only is the actual competition aspect of the
+game very realistic, with its nice graphics
+and sound effects, but you are also given a
+world in which your CK fighter lives. Between competitions, they have the
+oprtuniyaceh"doj(tJapnes
+name for the workout area, meaning "place
+for studying the way") under your instructor's watchful eye and increase their
+abilities.
+Your first step in entering the world of CK
+is to create some fighters, and the first step
+in creating a new fighter is to pick an instructor. CK has five different instructors
+from which to select, each of whom
+specializes in three particular fighting
+characteristics.
+Each fighter is rated in nine different
+categories, including strength, agility,
+quickness, stamina, feet ,arms, etc. Newly
+created characters generally average between ten to 13 in each ability and are allowed one workout before their first
+tournament.
+During each practice session, you can
+choose between a specific or a general
+workout. A specific workout allows your
+fighter to make major improvements in
+three of your nine characteristics, but you
+may suffer reductions in other abilities
+while doing so. A general workout offer less
+dramatic improvements, but none of your
+fighters' abilities will suffer reductions as
+a result. At the conclusion of each practice
+session, students receive an instructor bonus
+in the three areas in which their instructor
+specializes. You should therefore be very
+careful in selecting your instructor, as you
+will be stuck with him for your entire career.
+
+Once you have created a stable of fighters,
+the real fun begins. Tournaments are run
+by the computer, and consist of from two
+to thirty-two competitors. At the beginning
+of each match, you are given the choice of
+which fighter to control, whether to play
+against another human or the computer, or
+whether to simply watch the computer control both fighters. The matches are three
+rounds each, and are scored on a point basis
+with one point being scored for each effective punch or kick. Players have the option
+of attacking with three different types of
+kicks and punches, defending against a
+specific attack, or staying on the run.
+The game system goes a step beyond
+merely alternating attacks by the two
+players. An arrow at the top of the screen
+shows which contestant has the momentum
+in the fight, and it is that fighter who gets
+to select the attack. It can be that one player
+may make the vast majority of the attacks
+if he has strong superiority over his opponent, just as you or I probably get in very
+few punches against Chuck Norris or
+Muhammed Ali.
+Fatigue, too, plays a part in CK. As indicated above, stamina is one of the attributes which make up each fighter. As
+your fighter's stamina increases, he will be
+able to attack more often without becoming
+exhausted. Beware total exhaustion! The
+surest way to get knocked out cold is to be
+dazed and have your opponent connect
+with a good backknuckle to the head.
+The judges are, as they should be, a bit
+sticky about non-combative attitudes. If
+your fighter doesn't attack for two or three
+times in a row, he will probably be warned
+for stalling. If he gets warned, he had best
+attack very soon or have a point deducted
+form his score.
+Finally, you should not become
+discouraged by the clumsiness and ineffectual attacks by your white and yellow belts.
+As anyone who's ever practiced and type
+of sport knows, you have to do it a while
+before you get to be any good. Karate is not
+any different, even though on your computer. Keep at it and your fighter will eventually get the hang of it.
+In conclusion, Competition Karate is well
+worth seeking out. I have been involved in
+the world of judo since 1959, and taekwondo (Korean style of karate) since 1975, while
+my wife is a two time US champion as well
+as a Pan Am gold medalist. We both found
+CK to be truly reflective of the type of tactics which actually win in top level competition; specifically to move a lot, conserve
+your energy, and make a few good attacks
+rather than many ineffective ones. Get a few
+friends hooked and soon you can have a
+really enjoyable group activity going. I
+understand that one of the early playtesters
+was so enthused, that he started taking
+
+karate lessons. It just goes to show that you
+never know what kind of excitement you
+will end up in when you turn on your computer tonight.
+David Long
+Circle 44 on Reader Service Card
+CLEAR FOR ACTION:
+THE VIEW FROM A PLAYTESTER
+by Floyd Mathews
+
+Clear for Action (CFA) is an excellent
+game of sea battles in the swashbuckling era
+of sailing ships. Two to eight players can
+fight a multiple ship battle with up to four
+ships on each side or you can play solitaire
+against the computer in a two-ship duel. The
+game disk includes twelve historical battles.
+You can also design your own ships to
+recreate historical or hypothetical
+engagements.
+CFA is a very detailed simulation of
+fighting sailing ships. On each turn, you can
+plot course changes for each ship on a map
+display, then the program executes
+simultaneous movement. The players then
+fire broadsides and reload their guns with
+different types of shot. If ships are grappled
+orders can be given for boarding actions on
+a shipdeck graphic display.
+All orders are entered through the
+joystick; play is very smooth. A typical game
+will last 30 minutes to two hours, depending
+on the size and number of ships.
+While containing much realistic detail,
+the game remains very playable. The program handles most details automatically,
+and with the excellent documentation you
+can plan your strategy intelligently. For example, gun sizes range from mighty
+68-pounder carronades down to 3-pounder
+peashooters, and you may choose from five
+different types of shot. You may aim at the
+enemy's hull or rigging, all with drastically
+different effects.
+The scale of distance points on the map
+grid display varies from 20 meters to 200
+meters, depending on the distance between
+
+the ships. The largest map covers an area
+of several square miles. Each game turn
+represents one minute of real time, and the
+speed of ships and reloading time are scaled
+accordingly.
+Crew morale and crew quality are key factors in this game. Historically, wooden ships
+rarely sank during a battle, but the crew
+might surrender if they suffered severe
+losses. Morale is reduced by casualties, and
+also to a lesser extend by damage to different
+parts of the ship. If morale drops below 50
+percent, the ship will be in danger of
+surrendering. Additionally, crew quality affects the speed of reloading, sail-handling,
+maneuvering ability, and also "scuffling"
+ability in boarding actions.
+You do not have enough men to operate
+the sails and all guns simultaneously.
+Hence, you must shift crew members to the
+deck, the tops, or the port or starboard guns,
+depending on where you think they will be
+most needed. As it takes time to relocate
+them, you must anticipate future developments. For example, if you have few men
+on the deck, you may not be able to tack or
+to repel an enemy boarding party.
+This game is very easy to play, but strategy
+can be complex. The computer opponent is
+excellent, and I hope more designers will
+strive for this quality of solitaire capability.
+My only complaint with this game is that
+the computer can only fight two-ship duels.
+I hope Mike Stradley will develop a second
+edition which can handle eight ships in
+solitaire play. In a two-ship game, if you
+have the weaker ship, you should probably
+aim for the enemy's rigging, and try to run
+away.
+Multiple ship games with several players
+on each side can be a lot of fun. This could
+be a good party game for the right crowd.
+There's something about this game which
+appears to bring out a touch of the old
+seadog in some of us.
+In a multiple ship game, you should probably try for a raking position, or try to gang
+LORDLINGS OF YORE
+CONTEST
+Softlore Corp. announces their
+1985 Softlore Spring Nationals.
+Owners of their game Lordlings of
+Yore (LOR) are invited to compete.
+Contestants will play LOY
+against three computer opponents
+in an attempt to record the highest
+score in the nation. LOR's unique
+score verification feature permits
+accurate reporting of scores.
+Prizes will be awarded. Entry fee
+may be required. Entry deadline
+is April 15, 1985.
+For an entry blank, call or write
+Softlore Corp. at 8714 Wellesley
+Manor, San Antonio, TX
+78240-2116; 512-691-2800. LOY
+runs on the Apple II family of
+computers.
+Circle 45 Reader Service Card
+
+up on a single enemy ship, although this is
+easier said than done. Superior maneuvering ability is necessary in order to seize a
+favorable position. Ships are much faster
+sailing downwind than into the wind.
+Momentum is also a factor; ships accumulate speed sailing downwind, but will
+decelerate rapidly when they turn upwind,
+tack, or back sails. Most guns are not very
+effective at long range, but firepower increases sharply at 300 meters or less.
+Therefore, it is probably better to engage the
+enemy from a favorable windward position,
+as last minute maneuvers at short range can
+have decisive results.
+Selection of shot and of the optimum
+range for engaging the enemy are also very
+important. If you have the stronger crew,
+you may want to load grapeshot, and try to
+close for a boarding action. Rifle fire from
+the tops is very effective in boarding actions.
+Carronades are very effective at short range,
+but useless at long range. If you have more
+long guns, and the enemy has more carronades, you may want to try to stay at long
+range and pick him apart. If you are trying
+to escape, dismantling shot is very effective
+against the enemy rigging at short range.
+CFA is an entertaining game, which I
+recommend for both experienced and
+novice wargamers. Good luck, and may
+your swash never buckle!
+Ed.: Floyd Mathews was a playtester for
+Clear For Action.
+Circle 46 on Reader Service Card
+
+Name:
+Type:
+System:
+Players:
+
+3 in 1 Football
+Sports Strategy
+Apple
+1-2
+
+Price:
+
+$24.99
+
+Author:
+
+Lance Haffner
+
+Publisher:
+
+Lance Haffner Games
+Nashville, TN
+
+"Shelby turns the corner, gets a key block
+to spring him and they can't get him down
+until he reaches the 41 yard line for a 16 yard
+pick-up and a Cardinal first down!" It was
+the first time I booted 3 IN 1 COLLEGE
+AND PRO FOOTBALL and I wasn't really
+expecting a lot. I had seen the picture of the
+text screen in CGW 4.6's Taking A Peek and
+was expecting to play a marginally interesting game. I noticed that the team data
+disk listed both the University of Louisville
+Cardinals and their Metro rivals, the
+
+University of Cincinnati, on the 1983 supplemental college section. I had served as
+a security guard during Louisville's 1981
+campaign and was curious to see if I could
+fare better than the real coach.
+From the opening offensive play, with it's
+liberal use of real names in accurate offensive roles (the defense for each team is even
+more anonymous than in actual football), I
+was hooked. The Cardinals lost a 7-3
+bailgame that seemed tremendously
+realistic from a spectator's standpoint.
+Since I was so pleased with the simulation, I couldn't wait to trot out my underdog Detroit Lions of 1983 and take on
+"America's Team", the 1983 Dallas
+Cowboys. Cowboys fans will dispute the
+26-10 victory by the Lions, but the home
+field advantage coupled with excellent
+coaching (modesty keeps me from naming
+the obvious) sums it up. Who were the
+rushing leaders? You guessed them. Billy
+Sims led the Lions with 79 yards on 23
+carries and Tony Dorsett led the Cowboys
+with 72 yards on 16 carries.
+To this point, I had tried '83 college and
+'83 NFL teams, but 3 IN 1 offers a USFL options, as well. I watched the Express
+manage to hang on to a 30-24 victory over
+the Gunslingers. True to life, the only thing
+explosive about the Express' offense was the
+placekicker's toe. The game had enabled me
+to participate in statistic oriented sports
+simulations for three different levels of play,
+but the best was yet to come. The game also
+makes available great teams of past NFL and
+past college seasons. Would the 1969 USC
+Trojans defeat the 1969 Penn State Nittany
+Lions at a neutral site? My replay said they
+would, 24-7. Two touchdowns by Clarence
+Davis paved the way. Would the
+Namth-led1968YJsavbenltodf
+the glorious Staubach-directed 1975 Dallas
+Cowboys in a fictitious Super Bowl? My
+final score of Jets 31 — Cowboys 27 is far
+from conclusive. Yet, the game system as
+a whole gives the same kind of thrill and excitement that I get from SSI's COMPUTER
+BASEBALL.
+Since the point of comparison for many
+computer games seems to be with the SSI
+line, let me suggest some comparisons between 3 IN 1 and COMPUTER QUARTERBACK. Dan Bunten shared as far back as
+CGW 2.5 (p. 36) that he couldn't be satisfied
+with a football simulation that focused
+strictly on the interaction of offensive and
+defensive play selection and its effect on the
+field of play. Dan suggested that the game
+ignored potentially significant factors such
+as "...player salaries, recruiting, training,
+creation of new plays and coaching..." (p.
+36). If these factors are significant for you,
+you'll want to buy CQ instead of 3 IN 1. In
+3 IN 1, the statistics for familiar teams
+always seem to be in the right ball park, yet
+the second line quarterbacks do seem to
+have a better pass completion record than
+the starters in the games I played. Bunten
+tells CGW readers in 3.1 (p. 36) what formulae he used to determine various player's
+
+effect on a given pass play. It would be interesting to know Haffner's calculations.
+The most detracting comparison between
+CQ and 3 IN 1 is the use or non-use of
+graphics. Bunten described his lack of success with a text version of CQ in CGW 3.2
+(p. 4, 47) and that has furnished the incentive for the attractive graphics of the current version of CQ. Yet, CQ's presentation
+seems rather sterile to me in their neglect
+of the personalities involved in all levels of
+football as a spectator sport. The statistical
+summaries at halftime and the conclusion
+of the game seem much more stimulating
+as they reflect individual efforts. 3 in 1 Football is text only.
+The second detracting factor has to do
+with the computer as opponent. CQ uses a
+system that enables the computer to learn
+from you and improve its level of play. To
+be sure, 3 IN 1 does learn how to thwart you
+when you're blitzing on every play, but it
+doesn't keep a data file on your style of play,
+like CQ.
+I find both games to be interesting and
+well worth owning. I feel that 3 IN 1 is more
+fun to sit down and play an isolated game,
+but CQ is a better simulation in terms of
+developing one's own distinctive team and
+developing a "league." I find the statistical
+data in 3 IN 1 to be superior to the statistical
+summaries in CQ, but I find the ability for
+the computer to improve as an opponent in
+CQ to be superior to 3 IN 1. 3 IN l's 14 offenses and 6 defenses certainly pale before
+CQ's 36 offenses and 24 defenses (in the pro
+version), but the simple flow of 3 IN l's format speeds up play. "Jones finds Dickerson
+in the end zone and it's touchdown —
+U.S.C.!" With both CQ and 3 IN 1 on my
+shelf, I never have to worry about the matchups on the tube.
+Johnny L. Wilson
+
+hours later feeling tense and tight? How much
+stress do we build up when we can't beat the
+computer when playing a wargame at beginner level? Or how often do we come home
+from our jobs and just want to relax? Well, our
+computer can now help us through this tension and stress with another computer
+"game". But this game is played with our mind
+and we always win.
+There are two versions of Relax! available:
+the C64/Atari version package together with a
+cassette and disk for both systems and a
+"Universal" release that works with the C64,
+Atari, IBM PC and PC jr, and Apple. The C64
+version is priced at $99.95, the universal at
+$139.95.
+The packaging of this product is remarkable.
+It has been totally thought out to include
+everything needed and done with quality. The
+artwork, for example, with its blue sky and
+clouds is nice (and relaxing). Next, the
+monitoring unit and head band are well made.
+The documentation is thorough. The startup
+manual easily explains all you need to know
+to get started. The follow up manual of 200
+pages is comprehensive, covering all aspects
+of a stress reduction system including techniques, nutrition, exercise, and daily interpersonal transactions. The manuals were written by an authority in stress reduction and it
+shows.
+BUT WHAT IS THIS ALL ABOUT? — A
+simple headband is used to monitor your
+muscle tension (EMG). With the software
+provided, you are able to reduce this tension and
+thus achieve a state of deep relaxation. There
+are three programs available with which to accomplish this. The first program produces a
+continuous graph of your level of tension. The
+display can be altered in several ways. The
+second program produces changing
+kaleidoscope patterns and tones that change
+color as you relax. The patterns generated are
+remarkably detailed and very based on your
+muscle feedback. The third program is a game
+which requires you to use tension and relaxation constructively. You must be able to
+change your level of tension to "win" the
+game.
+The graphing program is extremely well
+done and can be used as a tool to observe
+changing levels of tension. If you have a current technique it provides excellent feedback
+of how well it works. The package also
+includes a cassette tape to guide you through
+relaxation techniques. A bibliography provides
+many excellent additional readings.
+Next time you've played a stressful game or
+have too many hours at the joystick, before you
+shot off your computer, load this program and
+r-e-l-a-x-x-x-....
+Roy Wagner
+
+Name:
+Type:
+System:
+How many times do we turn on the computer to play fifteen minutes of a fast action arcade game only to shut off the computer three
+
+Price:
+Publisher:
+
+How About A Nice
+Game of Chess?
+Chess tutor and
+companion
+C-64 (soon for Apple,
+Atari)
+$39.95
+Odesta
+
+Here's a version of Odesta's Chess 7.0 program for Commodore 64 owners. It's easily the
+best chess-playing program for the C64 and it
+does so much more than a typical chess program that it needs a new category. I call it a
+chess companion — like a good friend who is
+always willing to do what appeals to you. Want
+to go back a few moves and replay? No problem. Got yourself in deep trouble and want
+to trade sides? Sure. Want some advise on
+what to do next? This program will be as
+unbiased as can be. If you'd like to play a friend
+instead, the program will act as a referee and
+inform you if any rules are broken.
+What really sets this program apart,
+however, are the features designed to help you
+learn. There is the Advice command mentioned above. There is a full-blown tutorial, and
+there are also many subtler things. The
+tutorial, for instance, can be entered at any
+point during the game for review. Then, you
+have the Inward and Outward commands. INWARD shows you all of the pieces which can
+move to (attack) a given square. OUTWARD
+shows you all of the legal moves for a given
+piece. And, the command Flip shows you
+what the game looks like from the other side
+of the board.
+Finally, the ten levels of play are aimed at the
+beginning player. The highest, level 9, is
+roughly equivalent to level 4 in Sargon II—
+about five to six minutes response time.
+Admittedly, some will miss the higher levels that
+take four to six hours to find a move, but the
+average beginner has no use (or patience!) for
+these. Much better to have nine different levels
+with response times from less than a second
+up to a couple of minutes. The longer the computer can "think" about its move, the better it
+plays. All these levels give a steady progression
+of opponents who play at just the right
+strength.
+You have no excuse not to learn the game
+with this package on your shelf. There is a
+complete on-screen tutorial that covers how
+the pieces move and the rules of the game. It
+has a whole chapter on each of the three major
+phases of the game: opening, middle game,
+and endgame. The tutorial is well-done.
+Besides text, it uses "movies" where you
+watch a demonstration and practice sessions
+where you get to try what you've just learned.
+There is also help in the 96-page program
+manual and a short booklet by noted chess
+author Fred Reinfeld. About the only thing
+missing is a library of famous games to study.
+If I had to find fault with this program, I'd
+criticize the graphics. On my three monitors
+it was difficult, but never impossible, to see a
+black piece on a black square. Perhaps a little
+color would help, as the screen is entirely
+black and white. It is also unfortunate, but inevitable, that such a large program will take
+about six minutes to load. Once loaded,
+response is very good.
+As a final note, POWERPLAY magazine (the
+Commodore "house organ") reports in the
+June/July issue that Commodore has acquired
+the rights to this program and will market it
+as the first of a new line of strategy games.
+Bob Proctor
+Circle 49 on Reader Service Card
+
+CAST SPELL (cont.)
+conjured up which puzzles. The scope is
+certainly impressive. Try to cheer up Marvin, the manic-depressant robot; search
+yourself for a small bit of intelligence; fillet
+a babel fish; balance a platter of hor
+d'oeuvres; swim up a pillar of water; take
+a screening test; or play Jonah. Does all this
+sound impossible? Well, no, it is only
+improbable!
+HITCHHIKER'S GUIDE TO THE GALAXY will undoubtedly be voted as the best
+adventure game of either 1984 or 1985, with
+an honorable mention for its highly imaginative graphics. Douglas turned down hires graphics, animation, laser disk, and
+plasma screens as being too staid to fully
+convey the brilliance of the scenes in the
+game. Only Infocom's famous slogan,
+"Here's MUD(DLE) in your eye!" would
+serve as the perfect foil for Douglas's
+delicate hues and cries.
+When he was asked whether he would
+consider doing a sequel to this game (after
+all, he has three other books lying around
+collecting royalties), Douglas responded, "I
+feel the need to branch out into new vistas
+of creative work, and to explore new frontiers. I would really like to do another computer adventure, but on a different topic."
+The interview ended when I, not so innocently, suggested, "How about Dr. Who?"
+Note: Douglas Adams was the script editor
+for many reincarnations of the long running
+British Dr. Who television show.
+
+COSMIC BALANCE (cont.)
+
+LEARN GAME (cont.)
+
+Turn eleven: four breaches. Another
+cheer on the bridge.
+Turn twelve: three more breaches. Encouraged, Greenlaw belayed any thoughts
+of warping out. "We've got her now!" he
+thought.
+Turn thirteen: three more breaches.
+And then turn fourteen.. .
+Just when Greenlaw had her where he
+wanted her; under heavy fighter attack and
+no longer able to put up any effective attack
+herself, he lost her.. .
+
+you learn more names and dates, but the approach used in T. Rex is more fun.
+Another fascinating and novel game from
+CBS is called Weather Tamers ($39.95 for
+C-64 only). This one puts you in control of
+futuristic satellites that let you manipulate
+air masses over the U.S.; your job is to try
+to make money by providing people in
+different places with the weather they want on
+the day they want. Getting it to snow for a
+ski party in Vermont in January is one thing,
+getting it to rain on crops in Arizona in
+August is another! In the process, you learn
+a lot about what makes our weather.
+OTHER TRENDS
+There is a scramble to associate
+characters from comics and TV with games
+for young children. The characters from
+Sesame Street, Peanuts, Dr. Seuss, and
+even B.C. and Wizard of Id now appear in
+programs. Now what I'd like to see is to have
+Pac-Man — who's already made it to
+breakfast cereal and Saturday morning TV
+— return in an educational game. Now
+that's irony.
+While the number of new titles is impressive, it's also worth noting that a lot of
+conversions were done in 1984. Many programs written originally for Apple and Atari
+were made available for the Commodore 64
+and, to a lesser extent, for the IBM. I wonder
+if 1985 will see the same thing for the Macintosh or if new machines from Commodore
+or Atari will steal the show.
+
+Wisconsin warped out.
+
+The final score of the battle was:
+Greenlaw's Fleet-150; Wisconsin-187; for
+a total of + 37 for Wisconsin. That coupled
+with the fact that she had destroyed both
+Kirk Robinson's Dreadnought T.A.B. (Thud
+And Blunder) and Mark Bausman's Dreadnought Judge (real catchy name), meant that
+Wisconsin, designed by Fred Brooks of
+Newport Beach CA, was one of only two
+ships that had a positive score against all
+three judges. The other was Zeus, a tech-6
+dreadnought designed by Richard Leach of
+Cumberland, RI.
+There were 37 entries in this year's contest. Most entries were tech-6 dreadnoughts,
+as was Wisconsin.
+There were several tech-1 four-ship entries (nearly all being two motherships with
+two small escorts). The highest finishing
+ship in this category was Red Squadron submitted by Roger Cooper of Westbury NY.
+Red Squadron was basically four small
+asteroids with fighter bays. No drives, no
+shields. Just a range of one and 70 armor.
+Greenlaw's six fighter squadrons breached
+on every turn. I couldn't figure out how in
+the world (or universe for that matter) these
+ships could be surviving six shield breaches
+each turn and still be around at turn 10. Post
+combat analysis revealed their true nature.
+How do you get a range of one with no
+drives? I guess they had a hand crank warp
+drive. While Red Squadron was a
+formidable foe for Greenlaw's Fleet and Judge;
+T.A.B.'s plasma torpedo was the perfect
+weapon against all that armor. After several
+turns of close-in attacks with plasma
+torpedoes T.A.B. inflicted sever damage.
+But she had to warp out as the fighters began
+to take their toll.
+Transporter ships did not fair well. All
+three judges adopted a policy of opening
+range early. The two dreadnought judges
+would only close on turn eight or when
+when they were sure they were not facing
+a transporter ship. Even if boarded on turn
+eight they would most likely have the range
+to warp out on turn ten.
+The designs, for the most part, showed improvement over last year's. Congratulations
+to all participants. And remember: The key
+to Cosmic Balance is balance!
+
+EDITORIAL (cont.)
+computer predictions that our network did back during the Democratic primaries showed that Walter
+Mondale never stood a chance against Ronald
+Reagan. . .1 think it is safe to say that the
+demographics of 1984 have made it extremely difficult
+for any Democratic candidate to challenge the incumbent Ronald Reagan."
+Walter:"Thank you Dan, and that's the way it might
+be, November 5, 1984. This is Walter saying, Good
+Night."
+A few facts may be a bit off (the election was actually
+held on the 6th and Ed Clark played no role in it).
+However, the state count and therefore electoral vote was
+exactly correct! And the popular vote wasn't too far off
+(59% to 41%).
+So where did I read this prediction? In the very first
+issue of CGW,November 1981! In an article on SSI's President Elect we simulated the 1984 election with Mondale
+as the Democratic candidate. The quote above was from
+the opening of that article written three years before the
+election! Not bad!
+For our next prediction.
+OUR FAME SPREADS
+At latest count, we have subscribers in twenty two countries around the world. The most interesting requests for
+CGW come from overseas. Early in 1984 we received a
+request for CGW from the Institute of Scientific Information of the USSR Academy of Sciences in Moscow. We
+couldn't decide which issue to send them: the issue containing the NATO Commander review, or the issue containing the North Atlantic '86 review. So we sent both.
+Can't you picture it? CGW on the lobby magazine rack
+in the Kremlin!
+In another interesting request a gamer from Tehran Iran
+sent us a letter requesting a sample copy of CGW. It seems
+that he needed a copy to show to the local Revolutionary
+Council. He had to get their approval to send funds outside the country. Sometimes we forget the blessings of
+freedom don't we!
+STAID!?
+One of the hottest selling computer books of the last few
+months has been the Whole Earth Software Catalog.
+If you have a copy, check out the beginning of the Gaming section. There, you will witness one of the problems
+of publishing a book on a volatile industry. Therein the
+editors recommend three magazines on computer gaming: ST. GAME, COMPUTER GAMES, and CGW. Both
+St.Game and Computer Games are referred to as slick
+publications (lots of color and flash). St. Game is called
+"the cheekiest magazine in computerdom" and Computer
+Games is said to have "the wisdom not to take itself too
+seriously".
+Then they come to CGW: "For a more staid publication
+try CGW." STAID! Wow, I bet you can see it now. You
+
+come to the offices of CGW expecting to find a typical cluttered editorial office populated by people with their
+lunches on one corner of the desk, a week's worth of work
+on the other corner, and a computer terminal plotzed in
+the middle. But then you open the door, and there we are:
+stiff old fellows in tweed jackets, sitting in overstuffed
+chairs. Between thoughtful puffs on our pipes we say
+things like: "I say, ol' chap, why doesn't someone do a
+Cricket simulation? We have American baseball and football, we even have games on boxing and karate. It would
+be refreshing to have a computer version of a gentleman's
+game. Eh, what?"
+Actually, maybe "staid" isn't such a bad a description.
+One of the definitions of staid is "steadfast". Another is
+"lack of frivolity or impetuousness". I like that. The
+Catalog goes on to say that CGW is "at its best at long
+analyses of complex games, including detailed strategies
+for doing well. For serious fans of strategy games...CGW
+is an investment in getting more out of some of these
+monster $40 simulation games." Uh gee fellows, better
+check the prices on those "monster" games again.
+Of the three magazines they recommend, only our
+"staid" publication is still around. St. Game has, as one
+of our readers put it "died and gone to heaven". And the
+March 1985 issue of Computer Games will be their last.
+The moral? If you have to be "staid" to "stay" in business,
+go for it!
+
+There were 265 RIDs turned in by press time for
+this issue.
+Newly rated games and updated game ratings are
+listed with bold type in the table on page 46. The
+breakdown buy machines was: Atari — 43%; Apple
+— 36%; C-64 — 21%.
+GAME RATINGS
+The Game Ratings Table includes games evaluated
+by our readers. For a game to be included in this
+listing it must first have been offered for rating in our
+regular R.I.D. rating system. Games offered for
+evaluation are those covered in the magazine and/or
+those having a good sales record during the time of
+evaluation. Once offered for evaluation, the game
+must have been evaluated by a sufficient number of
+readers to be included in the results. Any game not
+evaluated by at least 10% of the respondents was not
+included in the results.
+Games were rated on a scale of 1 (terrible) to 9
+(outstanding). Respondents were asked to consider
+such things as PRESENTATION (graphics, sound,
+packaging, documentation); GAME DESIGN
+(design, playability, interesting?); LIFE (does the
+game wear well?)
+RID #18 (Use card provided)
+On this page a number of games and articles are
+listed for evaluation. Please take time to evaluate
+these games and articles. Use the guidelines above
+for game evaluation. Leave blank any game which
+you have not played enough to have formed an
+opinion.
+Please rate articles on the basis of the article itself,
+not your opinion of the game being reviewed. Enter
+a zero for any article that does not interest you.
+
+R.I.D. was prepared with the help of SPEED STAT by SoftCorp International, Westerville, OH 800-543-1350
+
+See page 40 for details on the Reader Input Device
+
+INDEX - VOL 4
+The following index includes listings articles and games found in Volume Four. Each entry is accompanied by
+a line of information which includes (in order) the issue number, page number, and a code as to the article type.
+The article type gives you a hint as to how much material you can expect to find in the listing. FA (feature article)
+means the subject is treated in a major article that is often more than one page long. MR (Micro Review) means
+the subject is treated in a small review, usually 400-600 words long. TP (Taking a Peek) means the subject is mentioned in a short paragraph or two which gives a brief description of the game and a screen photograph. DP (Department) means the article is one of our regular columns.
+
+FA — Feature Article
+MR — Micro Review
+TP — Taking a Peek
+DP — Department
+MS — Miscellaneous
+
+

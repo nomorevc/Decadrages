@@ -1,0 +1,3411 @@
+Number 32
+
+Nov. 1986
+FEATURES
+Designer Profile
+An Interview with Alan Miller of Accolade
+
+Designer Profile
+An Interview with Brian Moriarty of Infocom
+
+Lords of Conquest
+Review and Strategy Tips
+
+Alternate Reality
+A Review
+
+Battlefront
+SSG's WWII Game Reviewed
+
+A Mind Forever Voyaging
+Playing Tips
+
+Chessmaster 2000
+A Review
+
+Rommel: Battles For Tobruk
+GDW's Desert Warfare Game Reviewed
+
+Bronze Dragon
+Adventure Game Review
+
+6
+Frank Boosman
+16
+Scorpia
+20
+A. Locsin & J. Kittridge
+22
+Scorpia
+28
+Jay Selover
+40
+Scorpia
+44
+Bill Oxner
+46
+Evan Brooks
+49
+Johnny Wilson
+
+DEPARTMENTS
+Taking A Peek
+
+4
+
+Screen Photos and Brief Comments
+
+Commodore Key
+Information for the C-64/128 Gamer
+
+Macintosh Window
+Surgeon, Dark Castle
+
+Atari Playfield
+Super Boulder Dash, Rogue, The Pawn
+
+12
+Roy Wagner
+15
+Frank Boosman
+32
+Gregg Williams
+
+Over There !33
+British Computer Games
+
+Amiga Preferences
+Archon II, Marble Madness, Mind Walker
+
+Leslie B. Bunder
+38
+Roy Wagner
+
+Reader Input Device
+
+55
+
+Game Ratings
+
+56
+
+100 Games Rated
+
+Activision
+2350 Bayshore Frontage Rd.
+Mountain View, CA 94043
+GAMEMAKER DESIGNER'S LIBRARIES: The first two releases in
+this new product line that support
+Garry Kitchen's GameMaker cover
+SPORTS and SCIENCE FICTION.
+The libraries each contain pre-programmed features based on either
+sports or science fiction themes, including background scenes, objects,
+animation routines and sound effects.
+Available for C-64 ($19.95) and Apple
+($24.95). Circle Reader #1.
+LABYRINTH--THE COMPUTER
+GAME: Developed by Lucasfilm
+Games, Labyrinth: The Computer
+Game is based on the film directed by
+Jim Henson. You use a joystick to
+control your animated character,
+which can be either male or female. In
+your travels through the Labyrinth
+you will encounter many of the popular Jim Henson characters, including
+the Fireys, Ludo, Hoggle and Sir
+Didymus. C-64 ($34.95) and Apple
+IIe/c ($39.95). Circle Reader #2.
+
+PAPER MODELS--THE CHRISTMAS KIT: This is the first in what is
+to be a series of paper modeling programs from Activision. Create your
+own three-dimensional Christmas ornaments and decorations. With the
+Christmas Kit you can create such
+holiday items as cubed and triangular
+gift boxes, toy trains, sleighs and complete Dickens-style Christmas villages.
+The items can be decorated with customized graphics using a built-in paint
+program or the ready-made clip-art
+library. Completed decorations are
+then printed ready to be assembled
+and displayed on a Christmas tree or
+given away as gifts. Mac, IBM, Apple
+($29.95); C-64 ($24.95).Circle Reader
+#3.
+Accolade
+20833 Stevens Creek Blvd.
+Cupertino, CA 95014
+ACE OF ACES: An aerial warfare
+game in which you fly an R.A.F.
+'Mosquito' fighter-bomber on four
+different air battles. These include an
+air to air battle with German fighters
+and bombers; an attempt to eliminate
+
+V1 rockets in mid-flight; a confrontation with U-boats; and a rate against
+enemy trains. Four graphically excellent views are available from within
+the cockpit: straight ahead, over the
+tail, and over each of the wings. C-64
+($29.95). Circle Reader #4.
+BitCards Inc.
+P.O. Box 1289
+Champlain, NY 12919
+A CHRISTMAS ADVENTURE: Here
+is something a bit different. 'A Christmas Adventure' is a text/graphic adventure set in and around Santa Claus'
+ice-castle at the North Pole. The program enables the purchaser to produce
+a personalized software
+gift-and-greeting-card all-in-one. By using the
+customizing utility you can include
+personal references to the recipient in
+the story. Apple II (64K) and C-64
+($24.95). Circle Reader #5.
+Broderbund
+17 Paul Dr.
+San Rafael, CA 94903
+THE TOY SHOP: It looks like this is
+the Christmas of paper modeling soft-
+
+ware. Prior to the release of 'Paper
+Models' mentioned above, Broderbund
+released their new mechanical model
+program. The Toy Shop contains all
+the necessary materials to construct
+such toys as a balloon-powered steam
+engine, balancing jet, carousel with
+horses that move up and down, equatorial sundial, pennypower scale, The
+Spirit of St. Louis and a clockwork
+mechanical bank. The Toy Shop comes
+with a starter supply of adhesive
+cardstock, wooden dowels, rubber
+stripping, wire, balloons and cotton
+cord. Replacement construction materials are available in 'The Toy Shop
+Refill Pack', sold separately. The Toy
+Shop runs on the Apple II and C64/128 ($59.95); IBM and Mac
+($64.95). Circle Reader #6.
+Electronic Arts
+1820 Gateway Dr.
+San Mateo, CA 94404
+AMNESIA: This is the first EA text
+adventure. In Amnesia, written by
+award-winning author Thomas Disch,
+the story begins with the main character waking in a strange hotel room in
+Manhattan. He cannot remember
+anything. You take it from there. The
+game includes a 1700-word vocabulary, 4000 separate locations in Manhattan including 650 streets and the
+entire subway system. Apple, IBM
+
+($44.95); C-64 ($39.95). Circle Reader
+#7.
+STARFLIGHT: According to EA
+President Trip Hawkins Starflight "is
+the most ambitious outer space fantasy
+game ever designed. It took 15 manyears of energy and all-out commitment to create a product of this calibre." The game is set in a galaxy of
+270 star systems and 800 planets. The
+mission: find colonizable worlds, gather
+minerals and ancient artifacts, and
+learn the secrets of alien races. A
+built-in fractal generator makes
+Starflight graphically stunning. IBM
+($49.95). Reader Service #8.
+WORLD TOUR GOLF: What? Another golf game!? IBM gamers now
+have three new excellent golf programs
+from which to choose: Mean 18 from
+Accolade, Championship Golf from
+Gamestar, and, now, World Tour Golf.
+World Tour Golf is similar to the other
+two products but goes beyond. There
+are an incredible 24 historical courses
+available as well as a championship
+course made up of the world's toughest
+holes. A detailed construction set allows you to design your own courses
+(place tee, green, trees, bunkers, water
+hazards, hills, par and yardage markers, dragons and cows (?), etc.) Up to
+50 objects can be placed on each hole.
+Continued on pg. 52
+
+DESIGNER PROFILES
+
+ALAN MILLER
+With this issue CGW begins a series of DESIGNER PROFILES. Contributing Editor Frank Boosman has been conducting a series of interviews with top name computer game designers. In this issue you
+will read his interview with Alan Miller of Accolade. In future
+issues you will be treated to interviews with Chris Crawford
+(Balance of Power), Doug Crockford (Lucas Films); Dan Gorlin
+(Broderbund); Jon Freeman & Ann Westfall (Archon/Adept); Dan Bunten (M.U.L.E. and Robot Rascals); Gary Grigsby (SSI); and Bruce
+Webster (Sundog and Star Rush). A second Designer Profile appears
+in this issue -- Scorpia's interview with Brian Moriarty
+(Trinity) of Infocom.
+
+Alan Miller is one of the veterans of the computer gaming industry. He joined Atari in 1977,
+where he wrote such titles as Surround, Hangman,
+Concentration, and others for the Atari 2600 (also
+known as the VCS). In 1979, he left Atari with two
+other designers to form Activision, where he wrote
+more 2600 titles: Checkers, Ice Hockey, Robot Tank
+and others. In 1984 he left once again to form a
+new company, this time creating Accolade with Bob
+Whitehead. Since founding Accolade, Alan has
+written Law of the West, a unique action/adventure
+game with a Western setting. By the time you read
+this, Alan's new game, a football simulation for the
+Commodore 64, should be on the market.
+I met Alan at Accolade headquarters in Cupertino, only a stone's throw away from industry giant
+Apple Computer. The Accolade offices were sleek
+and well-furnished, and bespoke of success. We began the interview by talking about some of his
+personal history in the gaming industry.
+
+CGW: How did you get your start in the computer gaming field?
+Alan: I joined Atari in 1977; I started out doing
+some initial games for the 2600 before it was introduced.
+CGW: What was it like programming on the 2600?
+Alan: The 2600 was a very strange machine to
+program for; the machine was highly configurable
+through software; all the parameters pertaining to
+display output were specifically under software
+control. It was nice because it left a lot of what the
+program could do up to the programmer, and the
+machine was not limited so much by what the
+hardware designers had originally designed the
+machine to do. So it was a vastly more configurable
+machine than anyone thought it would be.
+CGW: So what happened then? You were at
+Atari?
+Alan: I was at Atari doing 2600 work, and I had
+started doing a basketball game on their personal
+
+computer that was under development, and that
+project was delayed for a bit because they had
+trouble putting the operating system on the
+400/800, as it was to be called. So four of us game
+designer types were called in to do the operating
+system, which we did in 12 weeks on the machine.
+So I co-authored the operating system for the
+400/800, and completed the basketball game.
+Things were changing over at Atari, changing in
+ways that I did not like, and about that time (the
+end of 1979), I left to form Activision with a couple of other game designers.
+CGW: I assume when you say "things happened"
+it got more corporate and more structured, or am I
+wrong?
+Alan: I don't think those were the reasons that I
+left; that hadn't occurred to much of a degree when
+I left. But they had lost their striving for technical
+excellence in the design of products, and they had
+lost their understanding of the marketplace from a
+marketing standpoint, after Nolan had been removed from the company.
+CGW: So you got to Activision and started doing
+VCS titles again?
+Alan: That's right; I did more VCS titles. The
+VCS was a very popular machine to program on
+because there were so many units. It eventually got
+up to probably close to 15 million units worldwide.
+I did titles such as Checkers, Tennis, Ice Hockey...
+CGW: My favorite!
+Alan: That's my favorite, too, actually.
+CGW: So you did those games; then what happened?
+Alan: Then Bob Whitehead and I left Activision
+in November of 1984 and we got together and
+formed Accolade, which was incorporated in December of 1984.
+CGW: Did you and Bob already have designs in
+mind when you left, or did you just say, "Let's
+form a company and do some games"?
+
+Alan: We started the company first and then we
+thought of game ideas for quite a while before actually starting. So we didn't leave Activision with
+any game concepts in mind. That's something you
+can't do, or you're in trouble. But we started doing
+games here for personal computers, whereas at
+Activision we had not done any games--either Bob
+or myself--for computers.
+
+CGW: Have you had an idea for a game come to
+you in a flash?
+Alan: I rather doubt that it's happened that way.
+I think they tend to evolve more in the background
+of my mind. I've been doing this for about 10 years
+now, and there are a lot of subject areas where I've
+thought about doing games. There's usually not a
+flash of inspiration.
+
+CGW: And at Accolade you've done Law of the
+West?
+Alan: Yes, and now I'm working on an untitled
+football game.
+
+CGW: How much of a game do you have visualized before you start to work on it?
+Alan: I work differently from a lot of people in
+that I try to visualize the entire game before I begin it, and that process usually goes something like
+this: usually I'm free after the end of a project, and
+I take a couple of months to sort through a bunch
+of ideas. After I decide which one I want to pursue, another couple-of-month-process begins where
+I think about the technical feasibility of it and the
+viewpoints that I want to have in the game--basically the screens. So at that point, for me, I will sit
+down and write a five- or ten-page description of
+what I want the game to be, just to straighten out
+in my mind aspects of the game.
+
+CGW: There are some interesting football games
+in the works at different companies.
+Alan: Well, I hope so, because l'm not terribly
+impressed with the bunch that are out there now. I
+hope that in the next generation, we can provide
+customers with some real entertaining software,
+which is my job! I love to make games!
+
+CGW: Let's get away from history and talk
+about your philosophy of game design. Where do
+you get your ideas from?
+Alan: We're inundated with ideas from everything; if you're talking about just going out and
+getting a subject for a game, what we create for
+people are interactive experiences in which they'll
+enjoy participating. So v e get those ideas from
+sports, movies, books, TV shows... all aspects of
+life.
+
+CGW: One person said they thought game design
+consisted of three stages: the first third being the
+design and programming of the game; the second
+third being the debugging and the playtesting; and
+the final third putting the finishing touches on it-cleaning and polishing it. Do you agree with that?
+Alan: I don't disagree, but I'd have to think
+about exactly how I lay it out. I'm about two-thirds
+through this football game, and the game is just at
+this point coming together to the point where people can start to play it. So the remaining third of
+the game is going to be playtesting, and that's going
+to be about ten weeks. That's playtesting, adding
+features, removing features that people find objectionable. So that's it, but I put a lot of thought up
+front before I actually sit down and write any code.
+I started thinking about this concept in December
+of last year, and I didn't write any code until the
+end of February. That's about a three-month period
+without actually doing any programming. I've been
+doing the programming now for about five months
+with one other co-designer.
+
+CGW: How does an idea come to you?
+Alan: I usually have a whole bunch of ideas, and
+I don't know exactly where they come from. I have
+three other ideas on the back burner that I want to
+get to right now, but there's a weeding-out process
+that I go through once I get an idea: can I implement it? I'm also very practical-oriented: will people buy it, will they want it? These are the two
+main reasons for eliminating ideas.
+
+CGW: On which machine?
+Alan: We're working on the Commodore 64. So
+those first three months can sort of be counted on
+the project, because I was certainly doing background processing on the ideas, even though I was
+doing other tasks. So there's three months of
+thought, five months of implementation, and now
+we're to the point where we can begin tuning the
+game and actually start to play it. We're doing some
+
+pretty ambitious things, so those five months of
+programming were pretty difficult.
+CGW: Do you do games first on the Commodore
+64 because one, you're familiar with it, two, games
+sell well on the 64, or three, because it's the lowest
+common denominator, and makes an easy port to
+other versions?
+Alan: The reason we do it is because it will sell
+the most on that system. I don't think that because
+you do it on the Commodore, it's an easy port to
+other systems. I would say that this game could
+probably only be ported onto the Amiga. It makes
+use of special hardware processes inside the Commodore that are really closely emulated only on the
+Amiga, not on the Apple or the IBM. The Atari,
+even though it has player objects [sprites], it
+doesn't have enough to really do this game justice.
+CGW: It's said that one of the ten rules of television production is that all hits are flukes. Do you
+agree with that?
+Alan: I think that hits are unpredictable. I think
+one should always strive to turn out high-quality
+work; high-quality work has the greatest chance of
+producing a hit. I don't think a hit can be predicted
+or created; it just occurs. So I generally agree with
+that.
+CGW: Which game of yours are you proudest of?
+Alan: I think the Ice Hockey game. It has a degree of involvement that somehow is better than a
+lot of the other things I've done. It expresses more
+to people the idea of fighting for the puck and
+skating on the ice and just seems to draw people
+more into the game than any other stuff I've done.
+CGW: Chris Crawford once said that when he
+works on a game, he works on it, playtests it, and
+then fine-tunes it until he's sick of it, until he
+can't stand to look at it. When he can't stand the
+thought of it anymore, then he knows it's done. But
+a month later, he wishes he could get the game
+back and change just one or two things. Are you
+that way?
+Alan: Well, I guess I force myself to work on it
+that extra couple of months, because I am physically ill during the last couple of months of working on my games. I have nightmares.
+CGW: Really? So if you do a game a year, then
+that's one or two months out of every year that
+you've got nightmares.
+Alan: Yeah.
+CGW: And people said game design was easy!
+Alan: Game design is not easy! But it's very rewarding in a lot of ways; it allows me to have my
+
+work interact with humans in a way that no other
+programming can.
+CGW: Someone once made a comment that they
+thought that people like computers because computers let them play God. They let you have total
+control of a little universe. Do you think that's
+true?
+Alan: As a game designer, that's true, and that's
+one of the things I like about designing games for
+computers. But what I primarily like about computers is seeing people react to my work. I very
+much understand what you're talking about, about
+playing God, because you're creating a universe.
+But there's another level of creating an emotional
+reaction in people that's more satisfying to me.
+CGW: Does it give you a thrill to watch somebody playing your game?
+Alan: Yes, as long as they're enjoying it! I really
+feel bad when they're not enjoying it. Seeing people enjoy my games is my primary reward. Finan-
+
+cially, I could probably make as much money doing
+straight programming, and probably work less, but
+as I said, there are other rewards to the job. I have
+a lot more independence and there are emotional
+rewards that I could never get with traditional
+engineering projects, because on a traditional, large
+engineering project, it will last for two to five
+years, and you're only one of 10 or 15 people
+working on the project. It's really hard to isolate it
+and see what you did. I guess I need to see that
+people recognize my work. I get some good feelings
+just out of the recognition.
+
+CGW: What games have you played a lot of in
+the past?
+Alan: I probably put hundreds of dollars into
+Missile Command as an arcade game. I play a lot of
+pinball, but I'm not really addicted to any one pinball machine. They all seem sort of generic to me,
+unfortunately. Choplifter in the arcades is real
+good. It's a good home game, but the arcade version has super graphics. Ancient Art of War by
+Broderbund holds long-term interest for me. I also
+played a lot of the original Adventure game, the
+one that Zork was based on.
+
+CGW: Which computer games do you really like?
+Alan: Which games do I really like?
+
+CGW: Have you ever seen a game and said to
+yourself, "I'm glad my name isn't on that"?
+Alan: I unfortunately see that all too often. I see
+the problems in games--in fact, that's my specialty,
+reviewing games for people here and at all the
+other companies I've been in. I'm very happy to see
+games that are implemented extraordinarily well.
+Unfortunately, I see that very rarely. Most of the
+games I see could be implemented much better. It's
+mostly just a matter of time, and of experience on
+the designer's part, to get the games done right.
+
+CGW: Yeah. If you could go to a desert island...
+Alan: [laughs]
+CGW: ... with just a computer, electricity, and
+five games, which ones would you take?
+Alan: Well, I'd prefer to say which games I like.
+We have to consider the arcade arena, too. I like
+Karateka a lot. I like Marble Madness a lot in the
+arcades--I hear EA has a real hot version coming
+out on the Amiga, but I haven't seen it. What other
+games do I like? Hmmm... I need a list of games!
+
+CGW: Do you see this poor quality in published
+games, or in submissions you get at Accolade?
+
+Alan: Submissions aren't so bad, because they're
+usually submitted as an incomplete work. But I do
+see a lot in published works, and that disappoints
+me. I'm talking about implementation here. The
+graphics are usually pretty good, but the human
+interface can be bad--games can be awkward to
+play. One of our competitors has a golf game where
+you have to hit the keyboard about 20 times before
+you can take a single shot. That's ludicrous to me,
+because no human being has that the patience to do
+that, or maybe one out of 10,000. Games should be
+worn by the user without feeling like they're
+wearing them. They should be intuitively obvious
+to use, and as transparent as possible to the user.
+The user should feel that they're in an experience.
+That's something about some of my earlier sports
+games: you weren't aware that you were tweaking a
+joystick and pushing a button so much; they sort of
+pulled you into the screen. I miss that in a lot of
+the games today.
+CGW: Are there any designers whose body of
+work you really like?
+Alan: Sure. Bill Budge did a lot of things early
+on that I thought were great. Some people that I
+worked with at Activision, Dave Crane and Steve
+Cartwright, are first-rate designers. Over at Epyx,
+
+Steve Landrum, who currently has a motorcycle
+racing game out. He has also done Commie Mutants
+from Outer Space. Then there's Dan Gorlin; I only
+know his work from Choplifter, actually. As I said,
+Rex Bradford, the author of Mean 18. I really like
+his work. Eugene Jarvis, the designer the designer
+of Defender and Robotron 2084.
+CGW: If you couldn't design computer games,
+what would you do?
+Alan: Well, my training was as an electrical engineer, and I have a lot of experience in that, so
+most logically it would seem that I would go back
+to traditional engineering. Unfortunately, I don't
+find that terribly rewarding, and after my experience in this business, which is a creative business, I
+think next I would try writing books or television
+and movie scripts.
+CGW: How do you see computer games evolving
+in the next 5 or 10 years?
+Alan: From a hardware standpoint, the visual
+resolution is going to continue to improve as well as
+the audio reproduction capabilities of the machine.
+On the software end, I think we're going to see
+evolution towards better development of the characters inside the games. I think we will continue to
+broaden the scope of the themes we explore. I think
+visually we'll see the work develop more cinemagraphic techniques where you can see cuts and
+dissolves and fades and shots from different perspectives, which currently are very difficult to
+generate on the systems. But they will appear much
+more like movies and television.
+CGW: What about 10, 20 or 50 years from now?
+Alan: I think in the next 10 or 20 years we'll an
+expansion of interactive entertainment similar to
+that which television has undergone since its inception. I think it will become the dominant form of
+entertainment in this country. I think it will surpass
+television and make it passe in the next 20 or 30
+years. Interaction is so much more interesting than
+passivity, having a control over your own destiny.
+
+Commodore Key
+
+by Roy Wagner
+It's A Small World
+For a long time it has been a very
+large world. The only software that we
+seem to see available was written in the
+good old US of A. And still there was a lot
+of talk about the "good stuff that was
+available over-there and it never seem to
+come over-here. Granted, a lot of the good
+stuff over-there were clones of the goodstuff over-here, or stuff that really was not
+that good. But still we never got a chance
+to see it.
+One of the major reasons was tied to
+legal licensing rights and royalties and all
+that mumbo-jumbo. Bottom line was that
+WE were missing out on a lot of good, low
+priced software games.
+This started to change in 1985 with
+the introduction of MasterTronic software
+from Great Britain with prices of about
+$10 per game. The graphics and sound
+were good and the games pretty much
+matched the price. Good short term disposable fun. This year we saw the introduction of more United Kingdom titles
+from Firebird Licensees. And generally
+speaking these were of higher quality with
+a higher price. The pricing however was
+much lower than a similar games from a
+USA producer.
+Well, now as we are about to enter
+1987, we have word that two major US
+game producers, Activision and Broderbund, are bringing in some of the best titles from all around the world for OUR
+consumption.
+Activision will be releasing their
+"foreign" games under the name of ELECTRIC DREAMS. So finally, we will be
+seeing many more of these great, top-sellers from all over the rest of the world.
+Some of the titles that we can expect to
+see in the near future are: THE ROCKY
+HORROR PICTURE SHOW, ZOIDS, and
+SPINDIZZY.
+Meanwhile Broderbund, another major
+US producer of games, is negotiating to
+distribute its software titles all over the
+world. It's LODE RUNNER game is an
+extremely big hit in Japan already. The
+key products that they are releasing
+abroad are: THE PRINT SHOP (a
+tremendously BIG seller here already),
+FANTAVISION, DAZZLE DRAW, THE
+TOY SHOP, and THE ANCIENT ART of
+WAR. They have brought into this country such imports as: SNOGGLE, APPLE
+PANIC and ALIEN RAIN.
+Name Your Pleasure
+FRANKIE GOES TO HOLLYWOOD
+from Firebird comes to this country from
+the the UK. This topped the British best
+seller list and is out to do the same here. It
+was voted the Best Adventure Game of
+1985 by the "Commodore Computing International" magazine.
+This title is based on the name of a
+popular British rock group. The game be-
+
+gins with you as Frankie, a person devoid
+of any personality, in an in an environment of suburban boredom. You are out
+on the streets of Mundanville with all
+house looking the same from the outside,
+but each holding different "adventures"
+inside (much like here in the states).
+There are well over sixty tasks that
+can be completed in a journey to seek the
+completion of your personality, and to
+reach the Pleasure Dome which holds the
+"ultimate experience". Your travels will
+involve you in a murder mystery, a
+labyrinth of options, a bombing raid on
+Merseyside, Cupid's arrows, talking heads
+(British), a shooting gallery and a war
+room. Many other surprises await you.
+There is a distinct British flavor to much
+of what you encounter, but much of it is
+easily understood by anyone fluent in the
+language of the arcade game, with an accent on the modern as versus the classic
+fantasy adventure so popular here.
+A joystick is recommend, but the keyboard can be used. The manual explains
+enough to get you started, but not nearly
+enough to understand what is going on.
+I'm sure you'll figure it out. I greatly
+missed the game NOT having a SAVE
+GAME option. The graphics and game
+play are well done. I think you will find it
+an interesting game.
+
+It's Up In The Air
+Both FLIGHT SIMULATOR II and
+JET from subLOGIC are one of the best
+simulations of reality that are available for
+the home computer. However, not everyone wants to experience the complexities
+or joy of flying, even if scenery disks are
+available to all major population areas in
+the United States and Japan. Some of us
+enjoy sitting in our favorite chair at home
+looking out at the screen showing us the
+latest top football game. From there we
+send each ball on its flight to score another
+one for our favorite team. If only we were
+managing the game, our team would win
+every time.
+Well, from the producers of great flying simulators come a new sport simulation. FOOTBALL gives us a comprehen-
+
+sive coaches play book that provides a full
+complement of offensive and defensive
+plays. We are limited to two all star teams
+with very detailed, though fictitious, individual player details.
+The player characteristics can be altered before starting a game, but unfortunately cannot be saved for use at another
+time. The length of the quarter can be set
+
+from 1 to 99 minutes. You may play
+against the computer or another person.
+When two are playing both make there
+play selections at the same time each using
+a joystick. Once a play has begun both the
+offensive or defensive player may use the
+joystick to control the actions of key
+players, or just let the computer play out
+both sides. For a pass play, you must initiate the pass using the joystick.
+This game is quite distinctive from
+other football games on the C64 because
+the action of each individual player is
+represented and animated. The game is
+somewhat limited in options and player
+data. The attempt to depict all the players
+was a good idea, but I don't think that it
+really looks that good. It is hard to identify the different players and when there is
+movement down field, it looks more like
+the players are ice skating than running
+down field. I was disappointed in seeing
+this game turn out to be not as good a
+simulation as I expected. Perhaps it was
+because after such great flying simulations,
+I expected too much when my feet were
+back on the ground.
+Recommendations
+With the gift giving season nearly
+here, I offer the following to be worthwhile
+presents:
+Action Arcade:
+LODERUNNER'S RESCUE (Broderbund)
+Best Implementation:
+Any LUCASFILM Game from EPYX
+Interactive Fiction:
+Any Electronic Novel (Broderbund)
+Sports Simulation:
+LEADERBOARD Golf (Access)
+Children's game:
+Any DISNEY/SIERRA Educational Game
+Home Utility: NEWSROOM (Springboard)
+
+MACINTOSH WINDOWS
+
+by Frank Boosman
+Pushing The Envelope
+In test pilot terminology, "pushing the
+envelope" means making a plane go faster
+or higher than ever before, or performing
+maneuvers more complex than any before
+them. To push the envelope is to be the
+best, if only until the next hotshot comes
+along and outdoes you.
+Computer games can push the envelope: a particular game might have better
+sound than any before it, or more realistic
+graphics, or a radical new design. It's fun
+to see a game that pushes the envelope;
+you feel as if you're watching a little tiny
+bit of history in the making.
+It's my pleasure this month to review
+two games that push the envelope of computer game design, but in very different
+ways.
+Surgery In Only Ten Easy Lessons?
+Well, not quite. But Surgeon, a new
+game from Interactive Simulations for
+Medicine (ISM), is easily the most realistic
+
+scalpels, forceps, sutures, hypodermic needles full of drugs, and more. Above the
+palette of tools is a graphic electrocardiogram (EKG) indicator. (This will be familiar to anyone who watched the television show Emergency; remember "Set up
+to transmit an EKG and start a Ringer's
+Lactate"?)
+Surgeon simulates one and only one
+abnormal condition: an aortal aneurysm.
+This is a blood clot in the aorta, and can
+be fatal if not treated promptly. The idea
+is to cut through the layers of tissue until
+the aorta is exposed, then remove the
+aneurysm and a section of the aorta along
+with it. An artificial graft must replace the
+removed section of the aorta, and the patient must be closed up. If you can do this
+without letting your patient die, then the
+operation is a success. If not, well... don't
+blame me when your malpractice insurance
+rates go up.
+Like most great games, Surgeon challenges our perception of what a game
+should be. Is this a hand-eye coordination
+game? Yes, to a degree, since that's how
+real surgery is. Is this a medical knowledge
+
+lengths to make Surgeon medically accurate; surgery works just like the real thing.
+The patient is prepped as in real life, blood
+vessels bleed the way they're supposed to,
+the layers of tissue appear the way a surgeon would see them... In short, this is a
+very technically accurate game. About the
+only thing I can think of that the people at
+ISM left out was anesthesia; in Surgeon,
+it's considered to be automatic. I can think
+of two good reasons for this, though: first,
+anesthesia is a separate specialty from
+surgery, and second, it would be asking a
+lot of a player to keep track of both the
+EKG and the anesthesia, and operate on
+the patient at the same time. Not even real
+doctors do that.
+Surgeon has its faults, of course, but
+they're relatively minor. The manual needs
+improvement; hiring a professional technical writer would be a good step. Also, I
+felt as if Surgeon needed an "autopsy"
+feature that would give clues as to where
+the player went wrong when a patient dies.
+And I think I've elaborated on my dislike
+of copy protection before. But even without these changes, Surgeon is still a very
+solid, complete, and playable game.
+Arcade Gaming And The Macintosh
+
+depiction of surgery ever available for a
+microcomputer. I found myself amazed at
+the detail of design that went into this
+game as I played it. Before I wax any further, though, let me briefly describe it.
+Surgeon begins by showing a digitized
+x-ray or sonogram of a patient complaining of pain in the abdomen. You must first
+determine whether or not the patient requires surgery; unnecessary surgery is a
+serious matter. If surgery is required, the
+display will change to one of the patient's
+abdomen as it would appear before you.
+To the left is an array of surgeon's tools:
+
+game? Yes, since you'll have to learn what
+certain tools and medicines are used for,
+and how to recognize abnormal heartbeats.
+Is this a tool for learning about surgery?
+Yes; as a friend of mine has pointed out,
+Surgeon would excel in applications such
+as giving medical students their first taste
+of surgery, or perhaps showing a patient
+and his or her family exactly what would
+be done during an operation. The list goes
+on.
+Ultra Realism
+The folks at ISM have gone to great
+
+A friend of mine who has developed
+some productivity software for the Macintosh was recently contemplating the idea
+of doing an arcade game for the Mac.
+Why? Because he felt that there hadn't
+been an arcade game yet for the Macintosh
+with really good animation. I know a few
+people who would disagree with him, but
+it's certainly true that the quality of animation has been lacking in many games
+I've seen. But he changed his tune when I
+showed him Dark Castle, the latest game
+from Silicon Beach, makers of Airborne
+and Enchanted Scepters.
+Dark Castle is, in a nutshell, the best
+arcade game I've seen for the Macintosh,
+and perhaps the best I've seen on any microcomputer ever. Why? Well, for starters,
+I'll talk about the artwork. Done by Mark
+Pierce (of Video Works fame), it's simply
+astounding. Every facet of the 14-room
+dungeon is beautifully crafted, all the way
+from the dragon to the pits of lava to the
+one-eyed mutants who love to dance.
+Mark has surpassed himself with his work
+on Dark Castle.
+Hand-in-hand with the artwork is the
+animation, which is flawlessly smooth and
+natural in appearance. As your on-screen
+character runs, jumps, and does battle
+with medieval creatures, you'll find yourself commenting on how realistic he and
+the rest of the inhabitants of the castle
+look. Particularly impressive is the shimmering water effect on the title screen. To
+be honest, I didn't realize the Macintosh
+Continued on pg. 42
+
+DESIGNER PROFILES
+BRIAN MORIARTY
+In mid-July, our Adventure Game Editor, Scorpia had the opportunity to interview Brian Moriarty, author of "Wishbringer" and "Trinity". Here is
+her report.
+Brian and I met for lunch and had a really fascinating conversation. Mostly the talk was about
+"Trinity", but we also talked a little about
+"Wishbringer" and some of Infocom's plans for the
+future.
+
+CGW: Did you enjoy doing "Wishbringer"?
+Brian: Oh yes, very much. It was nice, and it
+sold really well. It was '85's biggest seller for Infocom, by far.
+CGW: Will Infocom do a follow-up to
+"Wishbringer"?
+Brian: Yes. Not right away, but it's on the list.
+
+CGW: Let's start with a little background. How
+did you come to be a game designer with Infocom?
+Brian: Originally, I worked as technical writer
+for Analog Computing. Then in the spring of '84, I
+went to Infocom as a microcomputer engineer, to
+work on the interpreters for various micros. I got to
+be friends with Mike Berlyn, Dave Lebling, Stu
+Galley and all those people, and I convinced them
+that I was going to hold my breath until they made
+me a designer. I also had two adventure games that
+had been published in Analog, and they were pretty
+well received, so that helped, too.
+CGW: Ok, now for the usual question: where did
+you get the idea for "Wishbringer"?
+Brian: Actually, the first game I did was
+"Trinity". When I became a games designer, Infocom asked me for a synopsis of a game I wanted to
+do, so I wrote the synopsis for "Trinity". They
+looked at it and they all liked it, but they said it
+was too ambitious. Of course, at the time we didn't
+have the Plus system yet, and it would have been
+very difficult to do that on a normal system. Then
+the marketing people came over and said "Hey,
+what we really want is an introductory game". So I
+said "Ok, I'll do an introductory game. Let's try to
+think of something neat to put in the box".
+CGW: So "Wishbringer" was actually developed
+from the packaging?
+Brian: Right. I said: "We'll put a magic ring in
+the box, and we'll do a story about a magic ring".
+But then I said, "Magic rings have already been
+done, and the ring would probably be a plastic one.
+Why don't we put rocks in the box? We could get a
+carload of rocks, they'd be cheap, and we'd just
+put one in every box." Then a marketing person
+asked, "Why don't we make the rocks glow in the
+dark, since the rock in the game glows?". I said
+"Ok, we'll paint the rocks with glow-in-the-dark
+paint". But the marketing person said "No, the kids
+will come along and suck the paint off". So someone suggested we make rocks. Meanwhile, I started
+to write a game around a glow-in-the-dark rock.
+And that's where "Wishbringer" came from; it came
+from the plastic rock.
+
+CGW: Ok, let's move on to "Trinity". Where did
+that idea come from?
+Brian: Actually, I had the idea in '83, when I
+was working at Analog and writing adventures
+there. It's an idea that I'd had in my head for a
+long time. When the chance came to do it, I took
+the plunge.
+CGW: Was there anything that set of the specific
+train of thought that brought you to "Trinity" and
+what would happen in the game?
+Brian: I've read a lot about that in the past, and
+I've always been interested in that subject. When I
+started working on the game, I amassed a pretty
+substantial library on the history atomic bomb and
+nuclear weaponry in general. In the course of
+writing the game, I also did some original research.
+I went to the Trinity site myself, visited Los
+Alamos and a lot of museums, and I talked to a
+couple of people who were actually there. So a lot
+of the stuff that happens in "Trinity" is pretty accurate. I think it's the first interactive fiction that
+attempts to re-create a real place and not just simulate a made-up place.
+CGW: And that's all in the New Mexico section
+of the game?
+Brian: The Kensington Gardens are relatively
+accurate, too, except for the location called "The
+Wabe". Every other location there is correct and in
+the right place. I hadn't seen it before I wrote
+about it, but I have seen it since. That part was
+written based on maps and photographs.
+
+CGW: How long did it take you to do "Trinity"?
+Brian: It was started in May of last year ('85)
+and finished in June of this year. A little over a
+year.
+CGW: How much of that time went into the design, and how much went into the programming of
+it?
+Brian: As usual, most of it was programming.
+That's usually the case. I'd say that 90% of the time
+is programming, and the other 10% is creative. Our
+development system is still very programming intensive. It doesn't do a lot for you. It does some
+things, but there's still a lot you have to do for
+yourself. It's Quite a bit of drudgery.
+CGW: What was the most difficult part of the
+game to write?
+Brian: The hardest part was in the fantasy world:
+the giant sundial, and the shadow moving across.
+There's all sorts of factors involved there in moving
+that shadow and having it in different rooms, and
+the doors opening and closing, and then having you
+be able to control it. That was very tricky do.
+CGW: Did you map everything out before you
+started the coding?
+Brian: I usually do, although not all the designers do. When you're making it all up, it's easier to
+do that. The first thing I did was sit down and
+make a map of Trinity site. It was changed about
+50 times trying to simplify it and get it down from
+over 100 rooms to the 40 or so rooms that now
+comprise it. It was a lot more accurate and very
+detailed, but a lot of that detail was totally useless.
+So I tried to boil it down to what was absolutely
+needed. That map that comes in the package is
+made from geologic surveys and blueprints and is
+completely accurate.
+CGW: Why did you want to write a game as depressing as "Trinity"?
+Brian: Well, it wasn't a pleasant experience, I
+can tell you that. It's not easy to sit down and write
+that stuff. As I said, I've talked to some people
+who were there, and I've read a lot of books by
+people who were there, and the one thing they all
+say about it, the one common theme, is that it was
+inevitable. That if we hadn't done it, someone else
+might have. And they also say that that's not the
+only thing that's inevitable. History has a lot to
+teach us. And that's the point of the game. Because
+when you're the Wabewalker, and going through
+the game, you're very literally creating the Book of
+Hours, you're writing your own history.
+CGW: So what statements are you making with
+"Trinity"? Do you have a personal statement to
+make?
+
+Brian: I wanted people, when playing the game,
+to feel their helplessness. Because that's what I felt
+when I was reading and talking to these people and
+seeing these places. You could just feel the weight
+of history on you. Going to Trinity site and being
+there and realizing what this place means. I just
+wanted people to feel that weight on them when
+playing the game. Have it crush them in the end,
+because that's what I got out of my studies and research.
+CGW: There are a couple of spots in the game
+where you have to do some unpleasant things. Why
+did you put that in?
+Brian: That was deliberate. I was amazed to see
+how many people were really bothered by the scene
+with the lizard, because it was them doing it. It's
+nice to know interactive fiction could do that,
+make you uncomfortable about killing things. In no
+other media could I make you feel bad about
+killing something. Because there's only one medium
+where I can make YOU do it, and make you feel
+empathy for a thing that doesn't exist. It's only
+with interactive fiction that you can explore those
+emotions.
+CGW: When the game was finished, how did you
+feel about it?
+Brian: Relieved. As usual. We usually feel that
+way when a game is finished, but I felt especially
+relieved. It was hard to live with that game for a
+year. But I don't want people to be scared away
+from this game. A lot of people look at the cover
+and say "Oh God, a gloomy game". It isn't a gloomy
+game, but it does have a dark undertone to it. It's
+not like it's the end of the world. But I'm glad I
+did "Trinity". It's nice to know that interactive fic-
+
+tion can do things besides give you puzzles and
+make you laugh. It can also make you think. And it
+can deal with big issues.
+CGW: Moving on to perhaps a lighter subject,
+can you tell us what you're working on now?
+Brian: I can't say very much, it's too early yet,
+but my next game will be something light. I don't
+need to do another one like "Trinity", that was a
+hard game to work on. It's a collaboration, with
+someone from outside Infocom. The new one will
+be a fantasy, and should be out in February.
+CGW: (Excitement!) Is this the follow-up to
+Hitchhiker (hope hope)?
+Brian: No.
+CGW: Awwwwwww. Will Infocom be doing one
+eventually?
+Brian: We hope to. Douglas Adams would like
+to, but he's very busy right now.
+CGW: How long have you been working on your
+current project?
+Brian: I just started it less than a month ago. It's
+a quickie, it has to be done very quickly. It's
+something that had already been developed, but was
+put on the back burner for awhile.
+
+CGW: So this will be a beginner or standard
+level game?
+We're trying to get away from genres and levels,
+I think we're going to try to make the games two
+levels, Introductory and Other. It's very difficult to
+assign a level to a game. Who can say what is standard or what is advanced? Hitchhiker's was labelled
+"Standard", but a lot of people thought it was
+"Expert" level. We haven't abandoned levels yet, but
+I think we're going to.
+CGW: And the same for genres?
+Brian: We have thrown out the genres. How do
+you classify "Trinity"? is it a fantasy? Is it sciencefiction? We had trouble classifying that. The game
+I'm working on now is completely unclassifiable.
+And a couple of other games we have in the works
+just don't fit in. We didn't like calling "Ballyhoo" a
+mystery because it's not like our other mysteries.
+People saw "mystery" on the box and thought "Oh,
+it's another of those games where you have to talk
+to characters". But it's not, it's a puzzle-oriented
+game. So we're getting away from trying to pin it
+down. We're just saying, "this is the game, read the
+description on the back to get an idea of what it's
+about".
+CGW: Brian, it's been a pleasure talking with
+you. Before you go, do you have any closing remarks?
+Brian: No, except to say what I've been saying
+to everyone about "Trinity". That it's not a funeral,
+and not to be afraid of it. It's kind of a dark game,
+but it's also, I like to think, kind of a fun game,
+too. I don't want people to be put off by the subject. But I do want people to think about what they
+see. And to write lots of letters if they're mad at
+the ending and think it should be something else. I
+love to hear from people. I hope I do.
+
+If wily enough, and if blessed with luck, you
+can attain any of these goals with Lords of Conquest (from Electronic Arts), a new computer game
+based on the boardgame Borderlands (from Eon
+Products).
+On maps depicting real and imaginary continents, you raise armies and conquer territories to
+control resources.
+Since you enter moves are entered via joystick
+and are menu controlled, the simplest way of
+learning is simply by playing.
+Twenty different one-screen maps cover parts of
+the real and imagined world.
+The list of built-in maps of Lords of Conquest
+include:
+
+LORDS OF CONQUEST
+
+by Aurelio Locsin III
+
+Name:
+Type:
+System:
+
+Lords of Conquest
+Introductory Wargame
+C-64 (Apple & Atari
+coming)
+#Players:
+1-4
+Author:
+Ted Schmeckpepper
+Publisher: Electronic Arts
+1920 Gateway Dr.
+San Mateo, CA 94404
+
+Have you ever wanted to conquer the world?
+No? Well, how about Europe or South America?
+Perhaps you have fantasized about extending the
+borders of Imperial Rome, or winning the Civil
+War for the South.
+
+Some Thoughts on the Variety of Strategic Considerations in LORDS OF CONQUEST
+
+by Jack Kittredge
+
+Lords of Conquest is, as many grizzled gamers
+know, based on the board game Borderlands, published by Eon Products. When thinking about the
+conversion we tried to make the most of the new
+medium. Besides taking care of all the picky details
+like managing pieces, counting forces, and limiting
+moves, we knew that computers excel in at least
+
+North America 1 & 2
+Shenandoah 1 & 2
+Caribbean
+World
+3 Continents (Europe, Asia, Africa)
+Africa
+South America
+Polar Ice
+Down Under
+European Wars
+Prussia
+Early Italia
+Mediterranean
+Middle East
+China
+Riverland Sea of Japan
+Borderlands
+
+If the built-in maps do not appeal to you, you
+can create and save a map or have the program
+create one at random.
+Play is conducted in yearly phases: 1) Production
+for building units and collecting resources; 2)
+Trade, available only in multi-player games; 3)
+Shipment for moving forces; and 4) Combat for
+taking territories by force.
+
+two other areas: data processing and working with
+variable parameters. The quality of the solo game
+attests to the work which went into programming
+LORDS to process large amounts of data and reach
+far down the decision tree for optimum "intelligent"
+computer play. The large number of optional parameters is our stab at keeping the game fresh and
+strategically challenging.
+THE OPTIONS
+There are a number of ways to play Lords of
+Conquest, each of which gives you an entirely different experience.
+
+During the Production phase you can build the
+basic combat unit, the weapon, which moves one
+territory at a time. You also collect resources,
+among which the horse is the most useful. Horses
+attack, defend and carry weapons up to two territories away. Horses and weapons can be ferried
+across water by boats, which can also attack and
+defend. The most expensive units to build are cities
+which increase production and are useful on defense.
+The artificial intelligence routines play a pretty
+good game. The computer player will attack territories unexpectedly and sometimes holds back on
+unit building until it can build more powerful
+units. However the computer does not use its boats
+efficiently, preferring to attack with land units.
+When you close in on a victory against a computer opponent it has an annoying habit of conceding the game with a cute message like "Uh oh, I
+have to run." However, the computer does not offer
+you the same concession when you want to surrender. Instead, it crushes you totally. The winner of
+the game sees the map colored in his image while
+listening to a short musical tribute.
+Solitaire games last about 30 minutes. Multiplayer games can last much longer. Games can be
+saved in progress.
+The manual does a thorough job of explaining
+the rules. However it would have been nice to have
+the quick reference guide (printed on the back
+cover) as a separate card. This would have saved
+much page flipping.
+Veteran wargamers may find Lords of Conquest
+too simple. However, the game offers a quick and
+pleasant break from complex simulations. Its simplicity also allows new players to concentrate less
+on mechanics and more on strategy. General gamers
+will find Lords of Conquest to be an enjoyable introduction to strategy/diplomacy games.
+
+Number of Players. The maximum game, with
+four players, is wide-open and free-wheeling. Alliances shift constantly and you have to be a master
+of diplomacy to gain and hold a real winning position. With three players, each player lives in fear of
+an alliance of the other two against him. The canny
+player will strive to monopolize some vital resource
+and use trade to reward his friends and punish his
+enemies. The 2-player game ignores trade and
+diplomacy in favor of straight strategy. Ruthless
+pressure and careful attention to details and timing
+are the order of the day. One unexpected move
+may bring about a complete reversal of fortunes.
+Playing solitaire against the relentlessly logical
+
+computer is how most people play LORDS. We
+spent a good deal of effort getting a vigorous opponent into the cpu, and I think most humans will
+lose their first few games. But AI is still a pretty
+fledgling subject, and the brain has had a good
+head start (so to speak). Humans have the ability to
+learn and to recognize important patterns of development, which the computer does not. After a
+while you will find yourself getting better and
+better. That's why we threw in the nine stages of
+difficulty - when you're winning more than you're
+losing, rachet up to the next stage and eat dust
+again for a while!
+Game Level. LORDS has four strategy levels.
+The introductory game, with only gold and horses,
+is in some ways the most elegant. The lack of variety of resources focuses play directly upon the key
+military elements: mobility and power. The basic
+game introduces the complexity of administering
+wealth in the form of Iron, Coal, and Timber, and
+maintaining balanced holdings. The advanced game
+allows sudden behind-the-lines attacks via the new
+element of naval power thus enhancing mobile tactics. Expert play expands the strategic requirements
+via introducing pre-attack shipments, which require
+increased planning and foresight.
+Chance Level. LORDS has three "chance vs. determinism" options. If your strategic tastes are deliberate and calculating, with low chance you can
+be certain whether or not you will win an attack. If
+you like a little spice, but nothing too unreasonable,
+you can choose medium chance which flips a coin
+on ties. But if you like staking everything on a
+come-from-behind surprise move that just might
+win, then pick the high chance option and hang on!
+Map Variety. The configuration of the map on
+which you play will be central to the game. You
+can play with the prepared maps, generate random
+ones, or make your own fashioned after whatever
+strategic tests you can dream up. Is water important, touching a lot of territories and separating
+them? Then boats will be crucial. Are water areas
+small and isolated from each other? Then the main
+game will be on land. Are territories strung out like
+a necklace? Then horses will be vital to an advance.
+CHOOSING TERRITORIES
+This is the "beginning game" where your basic
+strategy direction is established. It is of course important to occupy territories where resources will
+be produced but horses are especially important
+early on as they will tip the balance your way in
+the first attacks.
+I try to pick territories where I can build a city
+which would bear upon and increase the production
+of several kinds of resources. Of course I also want
+Continued on pg 26
+
+Name:
+
+Alternate Reality:
+The City
+System:
+Atari, C-64
+Price:
+$50.00
+Designer:
+Kathi Tremblay
+Publisher: Datasoft
+19808 Nordhoff Place
+Chatsworth, CA 91311
+
+by Scorpia
+There you are, minding your own
+business, going about your usual activities,
+without a care (or hardly a care, anyway)
+in the world. And just like that, everything changes. Without warning, without
+explanation, you are kidnapped by mysterious aliens. When you recover from this
+outrage, you find yourself in a small room
+with only one exit. Beyond the doorway
+lies a city unlike any you have seen before.
+Above the doorway is a panel displaying
+an ever-changing series of numbers. There
+is no other way out. You step across the
+threshold....
+So begins Alternate Reality, the most
+ambitious computer game since Time
+Zone. Planned to cover at least five games,
+all of them full scenarios in themselves, yet
+linked together to form one complete
+whole, this could be a series to reckon
+with. Maybe. The first in the group, Alternate Reality: The City, has good parts and
+some not-so-good parts.
+You start in that little room, with the
+city of Xebec's Demise in front of you. The
+numbers sliding by overhead represent the
+attributes your character will have the
+moment you step through the doorway.
+There is little in the way of choice or control here. You could end up with a very
+good set of attributes, a mediocre set, or a
+very bad set, indeed. Once through the
+door, there is no going back, and you are
+stuck with what you have.
+Your character's stats are composed of
+Strength, Stamina, Intelligence, Wisdom,
+Charm, and Skill. You also have Money
+(you get a little to start with) and Hit
+Points. Each is determined randomly when
+you step through the door. Look them over
+carefully as soon as you're out. If your
+character comes through with rotten stats
+overall, re-boot the game and create another one. If you get a decent one, save the
+game right there and make a couple of
+back-up disks.
+The best way to handle this is to go for
+high strength and intelligence, and hope
+for the best with the other attributes. All
+attributes are important, but at the very
+beginning, you are extremely vulnerable,
+and you need at least a couple of good
+scores if you want to survive. On the Apple version, the numbers (over the door)
+for strength and intelligence are
+side-by-side, so keep your finger on the key, and
+hit it as soon as you see good numbers
+show up for these two. This does take
+some precise timing, and you may have to
+try more than once, but it's worth the ef-
+
+fort in the long run.
+Once in the city, you will find survival
+difficult. Thieves and muggers will attack
+you. Other citizens will steal your money
+and possessions. Monsters (usually found
+only at night) will be after your blood.
+You will need food and water to survive
+(you get some at the beginning), and a
+place to sleep when you're tired.
+Against this, you have only yourself, a
+little money, a meager supply of rations,
+no weapons, no armor. Overall, the
+prospects are not heartening. The first
+thing to do is get a weapon; you cannot
+survive fighting bare-handed, and you
+WILL have to fight sooner or later, probably sooner. So, the moment you're out the
+door (and you've backed-up your character), head for the Smithy in the City
+Square, which is fortunately nearby. You
+should have enough to buy a stiletto, at
+least.
+Naturally, you want more money. The
+only way to get it is to kill someone or
+something. You can't beg and you can't
+steal (even though everyone else can steal
+from you). Money and other items become
+available only after a successful combat.
+So you are going to have to get into the
+thick of things practically from the start,
+whether you like it or not.
+There are three ways of killing someone (or thing): in a regular fight, by
+tricking it, or by charming it. Tricking is
+dependent on your intelligence. The higher
+your score in that attribute, the better
+your chances are, although you also need
+to take into account what you're up
+against.
+Charming, as you might expect, requires a high Charm rating. As with
+Tricking, you must consider your opponent. Unintelligent creatures, like Black
+Slimes, can't be charmed. Tricking, I've
+found, usually works better overall than
+Charming. In both cases, though, there is
+no explanation of WHY a Trick or Charm
+kills what you're up against. A trick might
+kill someone, but I haven't figured out yet
+how you can Charm someone to death.
+If your Trick or Charm doesn't work,
+you're in trouble. You immediately become
+engaged with your opponent, who gets a
+free shot at you (ouch!). At this point, you
+have a number of options, which generally
+boil down to two: fight back, or try to
+disengage. If you think you can win, by all
+means fight, but keep an eye on your hit
+points. You could end up dead very fast.
+Disengaging has its own drawbacks.
+For instance, it might not work (in which
+case, another free hit by your opponent).
+If it does work, many times whoever you're
+fighting will steal some or all of your possessions (except weapons and armor). Intelligent creatures will take money, gems,
+jewelry, potions, and compasses. Unintelligent ones grab your food and water. At
+least you're still alive. For awhile.
+Low-level characters should not be
+running around at night or in the rain.
+There are too many dangerous monsters
+out there at those times. If it's night, sleep
+
+at an Inn. If it's raining, sit in a Tavern
+(one you know is open 24 hours) or stand
+around in one of those empty rooms until
+the rain stops.
+There are many citizens of Xebec's
+Demise you'll want to avoid fighting at the
+start. Warriors, Fighters, Gladiators, and
+Knights, for instance. Knights are especially deadly; they have potent swords,
+take a lot of damage, and are very hard to
+hit. They, however, will have no trouble
+hitting YOU, and after two or three shots
+from them, you can kiss your character
+goodbye.
+Noblemen should also be avoided; they
+have magic swords which can do pretty
+stiff damage, as well. Thieves can also be
+tough customers. It's best to stick to
+Commoners and Couriers until you've gone
+up a bit in the game.
+Ok, so here you are, fighting, tricking,
+charming, trying as best you can to stay
+alive. What for? Good question. The whole
+game is designed around two points: (a)
+completely mapping the city and (b) getting your character up to at least tenth
+level so it can survive in the next scenario,
+The Dungeon. That's what The City is all
+about. There are no other goals, just map
+and survive.
+And mapping is a pain. A REAL pain.
+Although a map comes with the game, it is
+very incomplete. You have to fill in the
+rest, and believe me, it's hard work. For
+one thing, one step in the game does NOT
+equal one square on the map. In the Apple
+version, one map square is equal to about
+six steps (this may vary among different
+versions). Just imagine going along, carefully counting your steps, and halfway
+through you run into an encounter.
+ARGG!!!
+What's even worse, is that after an
+encounter your position isn't the same as
+it was before. The program arbitrarily
+moves you a ahead or behind from where
+you were before the encounter. So, many
+times you are forced to re-trace your
+steps. This is definitely a game for the
+dedicated cartographer.
+But wait...there's MORE! Many of the
+guilds and other places of interest in the
+game are behind hidden doors or secret
+passages. These, of course, are not obvious.
+Therefore, you must also test each wall as
+you come to it, by trying to walk through
+it. Fun, huh?
+Speaking of Guilds, there are twelve of
+them (the docs may say 14, but that's an
+error, there are only 12). In The City, if
+you have an Apple, Atari, or C-64, you
+will NOT be able to join any of them. It's
+not built into the 8-bit computer versions
+(whatever the docs may say). Guilds are
+worthwhile for two reasons only: 1) the
+very first time you visit one, one of your
+attributes will be increased (absolutely
+free!) and 2) you can have cursed items
+uncursed (for a stiff price). Make sure you
+check the uncursing prices when you visit
+a Guild; should you pick up cursed
+weapons or armor, you want to know
+where the cheapest place is and get there
+
+as fast as you can.
+To help you out a little, here is what
+you can expect to find in the four city
+quadrants (so you'll know where to look,
+and when to stop looking in a particular
+area). NW: 2 Guilds, 5 taverns, 2 Inns, 1
+Smithy, 1 Bank, 1 Healer, and 3 Shops.
+NE: 4 Guilds, 5 Taverns, 1 Smithy, 4
+Shops, and 1 Dungeon Entrance. SE: 2
+Guilds, 2 Taverns, 1 Inn, 1 Smithy, 5
+Shops, 1 Dungeon Entrance. SW: 4 Guilds,
+3 Taverns, 4 Inns, 1 Bank, 1 Healer, and 4
+Shops. City Square: 1 Smithy, 1 Bank, 2
+Shops.
+The Taverns add up to one more than
+noted in the docs; that is because there are
+two Mom's Bars (back-to-back but separated by a wall). The Shops also add up to
+more, because some are duplicates. For
+instance, there is a cluster of shops, all
+called Merchant's Grotto. I've counted
+each entrance as a separate Shop.
+All these places have different prices
+for their services or merchandise, so it does
+pay to shop around. At the start, the best
+place to sleep for the night is the Lazy
+Griffin Inn; just head north along the
+Main Street, keeping to the west side of
+the avenue, and you'll find it. Later, when
+you've done some more exploring, you'll
+find others that are even less expensive.
+The cheapest tavern is called "The
+Tavern", and can be found (eventually) in
+the north wall, although locating the way
+in is not easy. However, they have the
+lowest prices on food packets and water
+flasks, so this is a good place to stock up
+when you have some money. Remember
+that the bill of fare in the taverns changes
+hourly, so if they don't have what you
+want, wait around awhile and try again
+(wait around OUTSIDE...see below!)
+One thing you MUST be careful of is
+staying until closing time. While some
+taverns are open 24 hours a day, others
+are open for business only during certain
+hours. Should you happen to be in a tavern at closing time, not only will you be
+unceremoniously kicked out, you will NOT
+be allowed in that tavern, or any other,
+ever again. Ridiculous, but that's how it is.
+And don't buy too many rounds for the
+house, either, or you'll be kicked out for
+spending too much money (you figure it
+out, I can't).
+Banks are good places to store your
+spare cash, when you finally have some.
+Rates and risks vary from bank to bank.
+It's best to start with a low-risk account;
+the interest isn't terrific, but your money
+is safer that way. Remember that banks
+aren't open 24 hours a day, so keep some
+money with you at all times.
+Healers are not easy to find, there are
+only two, their prices are high, and they
+aren't always in when you call. Also note
+that paying for any service automatically
+raises the rates. Thus, if you happen to be
+both poisoned and low on hit points, the
+cost for healing will go up after you've
+been unpoisoned. Unless you have a fair
+amount of money, Healers aren't too
+helpful. This is a big drawback when
+
+you're just starting out, as you can't afford a Healer's services. If you've been
+badly hurt in a fight or two, the only way
+to heal up is to stay at an Inn for the
+night.
+I haven't yet found any difference
+among rooms in regard to regaining hit
+points. A night on the common room floor
+appears to work as well as a private room
+with bath. What does seem to make a difference is time of day. You heal faster
+sleeping at night than in the daytime.
+One thing you'll certainly want is a
+compass, which shows you in which direction you're facing. This is invaluable when
+moving around at night (or in the rain) or
+walking through inside passageways. Buy
+one as soon as you can afford it.
+Eventually, you will begin to find potions. There are at least 52 of them in the
+game. Some are helpful (healing damage,
+raising attributes), some are neutral
+(water, milk, fruit juice), and others are
+bad news (poisons, lowering attributes).
+You don't know what you have until you
+drink it. Potions come in a variety of colors and flavors, but different potions could
+have the same color. A white potion could
+be milk, or it could be poison. The actual
+contents of the flask are randomly determined when you open it.
+One of the worst potions to drink is
+the potion of inebriation. This makes you
+very, very, drunk. You can't see straight
+or walk straight, and you will be subject to
+momentary blackouts. No tavern will let
+you in, and you can't sleep it off at an Inn.
+The only way to get back to normal is to
+visit a Healer and have him clean you out.
+Potions are not something low-level characters should mess with, unless you have
+the character backed-up.
+In time, the game becomes boring.
+You've mapped the city, you know where
+everything is, you've visited all the Guilds:
+there is nothing left but killing monsters.
+So you stand at night in front of a Healer's
+shop (precautionary measure) blowing
+away anything and everything that shows
+up, and guzzling potions in between. This
+is not much fun. In fact, it's downright
+monotonous.
+This is probably the blackest mark
+
+against The City: it has no sub-goals,
+there isn't anything else for you to do once
+the place is mapped out except fight. Of
+course, you ARE preparing for the scenarios to come, yet you would expect a
+little more from this game, which has some
+very nice touches of its own. Certainly
+more than just hack and slash, which is
+what it all comes down to.
+Graphics, on the Apple, are not very
+good. All the exterior walls are white with
+red splotches, and not pleasant to look at.
+Many of the pictures of people and monsters you encounter have a good deal of
+red in them, which makes it hard to see
+them or distinguish them from the walls.
+Perspective (3-D, you-are-there) however,
+is quite well done, and does give you the
+feeling that you're walking around in a
+real place.
+The City supports one or two drives,
+and is very smart about that. It checks for
+a second drive on boot-up, and whenever
+you are prompted to insert a disk, it will
+also check both drives for it. Further, the
+program can distinguish among the boot
+disk, the city disk, and your character
+disk, so there is no danger that the wrong
+one will be written on.
+Saving can be done at almost any
+point, except combat, but this ends the
+game. Restoring is automatic upon bootup, and your character is removed from
+the character disk at this time. Therefore,
+if your character dies, or if you boot without first saving, your character will be lost.
+Always have at least one back-up of the
+character disk handy, just in case. By the
+way, you can have up to four separate
+characters on one disk.
+Overall, I have mixed feelings about
+Alternate Reality: The City. On the one
+hand, they've made it very hard to get off
+to a good start in the game unless you're
+lucky (or have played before), the mapping is unnecessarily difficult and tedious,
+the sound on Apple versions can't be
+turned off (I know one person who finally
+disconnected his speaker, he couldn't
+stand it any longer), and in the later
+stages, the game becomes a dull succession
+of combats whose only purpose is to raise
+your character's level.
+On the other hand, there IS much to
+explore and find, and many places that
+seem to have no purpose may become important later on as more scenarios are
+added. The turning of day to night and
+back again (with a sun that actually rises
+and sets), the passage of time in hours,
+days, months and years, clear skies and
+rain, are all good touches, giving a feeling
+of reality (no puns intended) to the game.
+And there are many factors beneath the
+surface that affect your character in subtle
+ways, which you may or may not discover
+as you go along.
+Bottom line: Recommended, with
+reservations; a good game for people who
+enjoy mapping or have a lot of patience...it's not for everyone.
+Copyright 1986 by Scorpia, all rights
+reserved.
+
+CONQUEST
+
+Continued from pg. 21
+
+to pick territories so that they help me defend my
+other holdings. Because territories bear on one another, a compact position is much easier to defend
+than one spread out all over the map.
+Finally, I consider my position in the first play
+sequence. Am I Lead Player and thus have the first
+attack? Or am I at the end of the line where I will
+have to survive several attacks before getting aggressive? If I attack early, I can afford to be spread
+out more, figuring I can consolidate my position by
+
+I almost always attack if I can. By doing so I
+expand my holdings, bolster defenses, and possibly
+acquire new resources. Since the attack possibilities
+are visible to all, there should be no surprise element. However, the maps are varied enough and
+the shipping-into-an-attack moves are complex
+enough so that many people will not see a weak
+spot in their defenses until it is too late.
+Since
+the support of others is often necessary for a successful attack, diplomacy is vital in LORDS. Seeing
+what other players need, and what they fear, and
+offering ways to help them in return for their help
+It is also wise not to
+is the name of the game.
+bring too much strength into a position that you
+can't defend. After an attack in which I had to
+bring a lot of force to bear, I often use my second
+attack to consolidate instead of penetrating further
+into opposition territory.
+DEVELOPMENT
+
+taking over territories from opponents. If I attack
+late I need to pay special attention to picking, so
+that I can defend my territories and stockpile by
+controlling adjacent territories.
+TRADING
+Trading is one of the most important parts of
+the game. Generally it is advantageous to you because it quickly enhances your position. But you do
+not want to provide an immediate opponent with
+the weapon, horse or boat which will soon be
+rammed down your throat. I try to analyze my
+trading partner's needs carefully, and offer him a
+deal which will subtly work to my advantage. If
+I'm clever I don't make it so obvious as to kill the
+exchange. I figure that trade benefits both sides,
+and those who don't trade will inevitably fall behind.
+SHIPMENT
+A key shipping move can often tip the power
+balance of the game. Bringing fighting forces to
+central spots for defense and possible attacks is
+usually smart. Horses and boats are very powerful
+in shipping because they give you mobility. I like
+to make sure mine are kept in flexible positions,
+especially when armed with a weapon.
+
+Boats are highly useful, especially if accompanied by a weapon and/or horse. If your territories
+lie along water and if a weaker player's territories
+do too, a boat may well be your best early goal.
+With it you can make sudden, brilliant raids deep
+into his territory, often even seizing the crucial
+stockpile.
+Unless you develop your resources you will be
+left far behind your opponents. The usual question
+is "guns or butter?"; i.e. whether to immediately
+make a weapon, or whether to make a city instead.
+A weapon is more powerful in a fight and is mobile. Also, since production does not always happen
+you may have to wait awhile for your city to benefit you. Nevertheless, I figure it is usually advisable to build a city if I can double several useful
+items. For one thing, there is some moral odor attached to the player who makes the first weapon,
+unless sorely besieged. In addition, the city's ability
+to increase production is of continuing value year
+after year. Most importantly, cities are the path to
+the win -- so I'm that much closer to the ultimate
+goal!
+Jack Kittredge is the designer and co-programmer of the C64 version of Lords of Conquest.
+
+Battlefront
+Name:
+Battlefront
+System:
+Apple, C-64
+# Players: 1-2
+Price:
+$40.00
+Designers: Roger Keating
+Ian Trout
+Publisher: Strategic Studies Group
+1747 Orleans Ct.
+Walnut Creek, CA 94598
+
+Well, the boys at SSG sure fooled me. After
+their very successful releases, Carriers At War and
+Europe Ablaze, the word was that their next release
+would be an American Civil War game titled The
+Road To Appomatox. When I saw the cover of Battlefront, I knew right away that this was not your
+ordinary Civil War game; not with an American
+Sherman tank rolling through the ruins of some
+European town straight towards a band of waiting
+Germans! No, that's right; Ian Trout and Roger
+Keating managed to finish their World War II
+Corps-Level game before the Civil War title and
+Battlefront made its debut at Origins '86 in Los
+Angeles.
+Battlefront, as I mentioned is a Corps level game
+covering ground combat during World War II. Not
+exactly a small topic! The way it is able to cover
+such a vast array of combat situations is that it is a
+true game kit as well as a game. In the now expected style of SSG, the "design your own" scenario
+aspects are at least as important as the pre-built
+scenarios. Battlefront gives you the framework
+within which to build almost any combat situation
+that occurred in World War II at the level of one
+Corps per side.
+The game package includes one disk (with the
+game on one side and scenario data on the other); a
+48-page book which includes the rules, examples of
+play, and scenario design data; and two sets of
+six-by-eight laminated cards with scenario information
+and details of the various menus in the game. The
+components are very well done; my only complaint
+is with the cover art on the package. All I can say
+about that is "Yuck!"
+Well, let's put the album-style package away
+(please!) and take a look at the game. Roger and
+Ian have taken a great stride towards demolishing
+two of the long cherished gripes about computer
+wargames; that they lacked a realistic "point of
+view" and that computer wargames could not hope
+to compete with boardgames since the player could
+not make changes to the basic system in a computer
+game where he thought it appropriate.
+More on the scenario design later, the "point of
+view" question is really at the heart of this game.
+You play a Corps commander about to face a com-
+
+by Jay Selover
+
+bat situation. Your Corps consists of up to three divisions, each of which contains up to four regiments. You also have several independent battalions
+which you can attach to any of your divisions and
+you have the word of your air force buddies that
+they will be there when you need them. The units
+which move and fight on the screen are actually the
+component battalions of the regiments in your
+Corps, but you can not actually touch them directly. You will be telling each division commander
+what you want each of his regiments to accomplish
+during a turn, but then you must sit back and
+watch how your subordinate units decide to carry
+out your orders. This game really has the proper
+perspective of the role that you play in your army,
+as frustrating as that can be when you watch one
+key battalion move somewhere you didn't really
+want them at all.
+The System
+
+Battlefront uses a scale of about one kilometer
+per hex (this can vary with the scenarios), and each
+turn is six hours (there are three daylight turns and
+one night turn per day). And, of course the unit of
+maneuver is the battalion. The battlefield can vary
+with the scenario up to 39-by-28 hexes, scenarios
+can be up to sixteen days long (seven is average for
+the provided scenarios), and up to fourteen different unit types. All of this may seem a bit fuzzy,
+but that is because the system can be adjusted to
+alter so many of the basic parameters.
+The four scenarios provided with the game give
+an excellent indication of the diversity of the program. The first one covers the German airborne invasion of Crete. The second covers part of the action at Stalingrad. Actually, it covers the attempt
+by two German Panzer divisions to drive through
+the Russians and relieve the besieged Von Paulus in
+
+the city. The third scenario takes you half way
+around the world, to the small island of Saipan
+where the Americans must land and take the island
+stronghold from some pretty determined Japanese.
+Finally, the last scenario is Bastogne; you guessed
+it, General "Nuts" McCauliffe keeps the Germans
+(hopefully) from capturing this critical road juncture during the Battle Of The Bulge. These scenarios appear to be selected as much as anything to
+demonstrate the flexibility of the system to cover
+everything from the frozen steppes of central Russia to the steamy tropical jungles of the Pacific.
+The game itself is completely menu driven, and
+the menu layouts do bear some striking similarities
+to SSG's previous offerings. When you get down to
+the play, though, one big difference becomes apparent. This is not a pseudo-real time game where
+the action just goes along until you request an interrupt. This a game with real turns. Before each
+turn, the players are given an opportunity to check
+the situation, look at the current status of their
+forces, and issue new orders for the upcoming turn.
+After each player is finished, the computer takes
+over and completes the turn, moving and executing
+combat for all of the units.
+The point of view of the player as Corps commander is rigidly adhered to in the limitations
+placed on the types of orders that the player can
+issue. Basically, you have the ability to assign objectives but not to get in and meddle with the tactical execution of the battle. During the "Orders
+Phase", you can call up each of your divisions separately and assign a few items at the divisional
+level. You can order a move by the divisional
+headquarters, assign a portion of your limited air
+support to that division, and you can assign any of
+your independent battalions to that division for the
+upcoming turn. Then, you can go in and look at the
+status of each regiment in the division. The display
+
+will show the condition and location of each battalion in the regiment, but you can not talk directly
+to the battalions. Instead, you give a general order
+to the regiment, and each of the battalions will
+carry it out to the best of their abilities. Even the
+allowable orders are very much in character. You
+have four options but what the four options are
+will depend on the contact status of the regiment.
+A regiment which is not near any enemy units get
+a very different set of choices from those that are
+heavily engaged. The movement orders give a good
+example of the perspective of the game. A regiment
+which is given a movement order is then given an
+objective. Objective hexes are pre-designated in the
+scenario design and represent important landmarks
+or goals of the historical combatants. Thus, you order a regiment to move to Bastogne, and then it is
+up to the individual battalions to each select the
+most efficient way to get there. Another example is
+the "support" order; when you give this order to a
+regiment, any battalions which are within two
+hexes of an enemy will dig in and any uncontacted
+battalions will move up to support their buddies.
+But again, you have no direct control over how any
+one of the battalions will move.
+The Play
+So, how does it feel to sit there, one step removed from the actual fighting and watch your
+computerized minions try to execute your plans?
+Pretty good, actually! The game can be extremely
+frustrating, but it is the accurate portrayal of your
+role as Corps commander that causes the frustration, not the game mechanics.
+The game itself does take quite a while to get
+used to. The documentation does not help much.
+It's better than a lot of what we have seen in computer games, but it does not contain any of the
+specifics that I like to see. The first seven pages of
+the rulebook contain a "walk through" of the first
+turn of the Saipan scenario, and the rest of the
+rules pretty much explain the functions and capabilities of the various menus. After that, you are
+pretty much on your own. Expect to lose a few
+battles before you begin to figure out how to really
+use your forces effectively. One big lesson to learn
+real quick is that your units represent men, not
+machines. Leaving a regiment on the line once it
+gets really tired is the quickest way I've found to
+get it ground into dust! Another good lesson is that
+you don't just go and order assaults by every unit
+that happens to be close to the enemy! There are
+some real good orders like "probe", "prepare", and
+"support", that can make all the difference between
+a well orchestrated attack and a banzai charge. Oh,
+and how about one more good lesson; learn the caContinued on pg. 50
+
+The Atari Playfield
+
+by Gregg Williams
+As Monty Python's Mary, Queen of
+Scots said, "I'm not dead yet." That's also
+the status of the venerable Atari 800,
+though I fear the end is near. It's been two
+months since I wrote my last column, so
+I've got a veritable deluge of games to talk
+about. Here goes.
+Super Boulder Dash
+In 1984, Peter Liepa and Chris Gray of
+First Star Software created (to my
+knowledge) the first home computer video
+game good enough to make it--unchanged--into a coin-operated video
+game. The game play and graphic pyrotechnics of Boulder Dash (the Atari 800
+version, of course) were so good that First
+Star licensed it to some company for coinop use. I actually saw the coin-op version
+once and the graphics were identical.
+Boulder Dash was an instant classic on
+the scale of Lode Runner; but, designed for
+a machine with more horsepower (an Atari
+vs. an Apple II), it was far more exciting:
+fast scrolling playfield, scintillating diamonds, good sound effects, and a personable little character called Rockford, who
+tapped his foot impatiently when he got
+tired of waiting for you to make a move.
+Boulder Dash had 16 caves and four
+bonus caves, each of which could be played
+at five skill levels. In each cave, Rockford
+had to get a certain number of diamonds,
+then get to an exit door before time ran
+out. Easy? Are you kidding? There were
+things that got in the way: boulders, fireflies, butterflies, enchanted walls, and
+amoebas, each of which represented both a
+danger and, sometimes, an opportunity.
+Some caves were straight reflex games,
+others were puzzles. For example, some
+caves had no diamonds in them at all; the
+solution is to drop a boulder on a butterfly, which caused it to explode and change
+into diamonds. The caves were cleverly
+designed, and they changed somewhat
+from level to level, often necessitating different strategies. Unfortunately, the game
+did not include a construction set, which
+would have been easy to do and a lot of
+fun.
+In early 1986, Electronic Arts released
+Super Boulder Dash, and I said, "Oboy, a
+construction set!" Unfortunately, no--but
+it's still a great buy. You get a two-sided
+disk that contains the original Boulder
+Dash on one side and 20 new screens on
+the other. The graphics are still impressive, and the design is one of the best I've
+ever seen. One suggestion: EA gives hints
+
+on how td solve each screen; use them if
+you need them, but try to do without
+them first--one of the joys of this game is
+discovering what works.
+Atari 800 Buys
+To make things even more exciting,
+EA has reduced the list price of most of its
+Atari 800 games, including Super Boulder
+Dash, Archon, M.U.L.E., Pinball and Music Construction Sets, and Seven Cities of
+Gold--all of these are classics and great
+
+bargains. One place, Tevex (800-5541162), is selling them for $12 each. Software Discounters of America (800-2257638) usually has good prices as well).
+Strategic Simulations, Inc. (800-4430100, x335) is closing out two fine games
+at good prices. Cytron Masters, by Dan
+Bunten (of M.U.L.E. and Seven Cities
+fame), is a capture-the-flag combat game
+that gives you simultaneous play in its
+two-player mode. No turns on this game-you play as fast as you can move your
+joystick, and it's a lot of fun! It's selling
+for $19.98. Fortress, though written in
+BASIC, is still worth it. It's a simple game,
+distantly related to Go and Othello, but
+it's hard to master. One very interesting
+point is that true AI (artificial intelligence) algorithms in the computer opponents make them get better the more they
+play--this is very spooky to watch, but it
+does happen. It's selling for $17.48, and
+SSI claims a 14-day money-back guarantee--so you should give these games a try.
+Short ST Reviews
+I apologize for the lack of space for ST
+reviews. Pretty soon, this column will be
+
+nothing but ST reviews, though, so please
+be patient. Here are some of the games I've
+been looking at.
+Rogue, from Epyx, is a randomized 26level dungeon game, essentially a soupedup version of the game that's been on
+minicomputers for years. The graphics are
+gorgeous (love that ST color monitor!),
+and the gameplay is okay but repetitious
+after a while; also, the GEM window interface gets in the way from time to time.
+Be prepared to get killed dozens of times
+before you figure out how to stay alive.
+The Pawn, from Rainbird, is an fantasy adventure game with highly detailed
+pictures attached to some (but not all)
+locations. It had occasional grammatical
+errors. The parser got confused several
+times in some rather inexcusable ways.
+Different locations have the same name,
+and the program does a lengthy access for
+the graphic image, even if you are playing
+the game in text-only mode (this makes
+moving across the map slow and tedious).
+I also found the scenario indistinguishable
+from those of countless other fantasy adventures.
+The Activision Little Computer People Discovery Kit is an odd entertainment-mostly for children. When you boot the
+disk, the program shows you a 3-story
+house that is inhabited by a little video
+man and his dog. He writes you letters,
+plays simple games, watches TV, builds a
+fire, even (discretely) goes to the bathroom. You have to feed your LCP (as he's
+called) occasionally, or he turns green (no,
+he never dies--I tried). It's cute and well
+done, but the genre really has more potential than is used here, and I hope someone "fleshes out" the idea someday.
+For those of you who like golf, Accolade's Mean 18 is really well done. It's a
+golf game that simulates three famous
+courses, St. Andrews, Augusta, and Pebble
+Beach, and even lets you design your own.
+It has tons of options and simulates both
+the hitting and the trajectory of the ball
+well.
+Next Month
+Unfortunately, I've had to save the
+best ST game for next month: Activision's
+Hacker II, by Steve Cartwright. It's stunning visually, and the plot is even better
+than the original: you remotely control
+three robots smuggled into an enemy office
+building, and you have to find and escape
+with a secret document. It looks very good,
+but I'll have more details next month.
+Until then, remember--things always take
+longer than they take.
+
+I OVER THERE
+
+by Leslie B. Bunder
+Hello and welcome to another edition
+of 'Over There'. As is usual, I've got a
+good selection of the latest news, views
+and gossip coming out of England, as well
+as competitions which you can enter.
+Competition
+Here we go again, it's competition
+time!! Up for grabs this issue is the chance
+to win a copy of the latest game from CRL
+called Cyborg. This game is good looking
+
+plays real mean which makes it a real
+challenge. I have five copies of the cassette
+version for the C-64/128 to give away. All
+you have to do it think up something that
+is very funny about what the letters CRL
+stand for, the funniest suggestions win a
+copy of the game.
+Address your entries to 'CRL Competition' at the address given at the end of
+this article. Good luck.
+News... Views... Gossip
+To celebrate the fact that 'Star Trek'
+is 20 years old, Beyond Software of England are all set t release a computer
+strategy game based on the TV series. This
+project is one of the largest ever undertaken by an English software house. Beyond Software is well known for its excellent strategy games such as 'Lords of Midnight' and 'Shadowfire'. Star Trek is being
+designed by Mike Singleton (who wrote
+'Lords of Midnight') and is being programmed by some ex-members of Denton
+Designs who wrote 'Shadowfire'. The game
+will incorporate speech synthesis. It will be
+released initially for the C-64/128, Atari
+ST, Spectrum, and Amstrad. Versions for
+other micros such as the Amiga and Apple
+are being considered.
+The mystery surrounding the computer
+game version of The Hunt For Red October has been solved. Argus Press Software
+will be bringing out a computer version
+around Christmas time. The game will be a
+submarine simulation/strategy game.
+Commented Peter Holme of Argus: "We
+are very pleased to have the computer
+rights and we plan something very special
+for its release."
+Also set for release from Argus, though
+not yet confirmed, is the home computer
+
+version of the arcade game Pac Land.
+Talking of arcade games, Gauntlet is set for
+release from U.S. Gold for the C-64, Amstrad and Spectrum.
+An official computer version of Trivial
+Pursuit is all set for release from Domark.
+Versions for the C-64, 8 bit Atari, Amstrad and Spectrum will be released.
+Dragon's Lair, the hit arcade game of a
+couple years ago, has now been converted
+to run on home computers by Software
+Projects. It will run on the C-64, Amstrad
+and Spectrum.
+Remember the excellent Way To The
+Exploding First from Melbourne House?
+Well, the sequel, entitled Fist 2, is set for
+release shortly and would appear to be
+quite stunning. There will be over 100
+screens of continuous scrolling and you can
+control your warrior with over 20 joystick
+generated moves (C-64, Amstrad, Spectrum).
+Mastertronic, the budget software
+house, is bringing out a computer version
+of Flash Gordon for the C64/128. It
+sounds quite interesting. Be on the lookout
+for some of the newer budget titles from
+Mastertronic; they are quite stunning (e.g.
+Kik Street 128 and Finders Keepers).
+Keep Those Letters Coming
+It's really nice to receive letters from
+you folks out there in the States. If you
+wish to write me about any aspect of the
+English Gaming World, please feel free.
+Write to: Leslie B. Bunder, 50 Riverside
+Close, Cuckoo Ave., Hanwell, London W7
+1BY, England. If you wish to receive a
+personal reply be sure to enclose two international reply coupons. I look forward
+to hearing from you.
+
+-
+
+-
+
+-
+
+_
+
+AMIGA PREFERENCES
+
+by Roy Wagner
+More Of The Same, But Better
+Archon II: Adept from EA is a worthy
+sequel to it's excellent predecessor Archon.
+Where Archon was a strategic and tactical
+struggle between Light and Darkness,
+Adept is a conflict between Order and
+Chaos. The powers of battle are conducted
+by four Adepts. Each Adept has available
+a full range of spells (Summon, Heal,
+Weaken, Imprison, Release, Banish, and
+Apocalypse).
+As the game begins, it is four against
+four in a "world" with five distinct elements (Earth, Water, Air, Fire and Void).
+Each element affects the conditions of
+combat. Each Adept is able to summon
+four different Elementals or four different
+Demons to face its enemy in the field of
+battle. The Adepts themselves may also
+enter battle. Combat is always one-onone. The object of the game is for one side
+to occupy six power points, four of which
+change location from turn to turn.
+Archon and Adept are similar in some
+respects to chess, but go beyond it with
+each pieces capture resulting in an
+"arcade" like battle on a separate screen.
+For those not much into this latter aspect
+of the game, you can select a "cyborg" op-
+
+tion in which the computer resolves the
+individual battle and you can just concentrate on strategic moves. (If you feel
+like a little arcade action, you can briefly
+override and take control of an individual
+battle.)
+Both games are controlled with a joystick in Port #2 for one player against the
+computer. With two players, a joystick
+must be used in Port #1. There is no option to use a mouse. There are three levels
+of player handicapping which make this
+game much easier to play against the computer or with an adult playing a child.
+Both of these games look very complex
+when one first looks at them, due in most
+part to the number of various different
+player pieces involved. After a few games,
+these come to be better understood and
+one can concentrate more strategy, which
+is the major element of each game. These
+games on the Amiga are well done and enhanced somewhat from earlier versions for
+other machines. They don't take advantage of using menus or mouse control. If
+you are interested in a challenging strategy game, I recommended both Archon
+and Adept.
+
+is a disappointing omission. Unless you
+remember or write down previous scores,
+each new game is just that, a NEW game.
+The challenge of trying to BEAT a previous score is missing without the vanity
+board. It would have been better to leave
+out the two player option in lieu of the
+scoreboard.
+Also since you can "ONLY" play this
+game and not run anything else on your
+Amiga, the startup sequence is rather
+awkward. Rather than going directly into
+the game, you must click on two icons before things get started. Once a game has
+been started there is no way to restart the
+the game.
+
+Go Ahead - Lose Your Marbles!!!
+Marble Madness from EA gives you an
+extremely popular arcade game for your
+Amiga. This game hit the arcades in the
+Spring of 1985 and became a favorite of
+many of the software artists at Electronic
+Arts. Not content to see their quarters disappear so quickly and knowing the capabilities of the home computer, especially
+the Amiga, the challenge was there to
+equal it. The contract was signed for the
+rights to do the official version of the arcade game. The challenge was met and it
+resulted in a game the equal in thrills and
+action to the original.
+The game takes place in a three dimensional tiled world of sloping surfaces
+with uphills, obstructions and other moving things to block your movement of a
+marble through a GOAL at each level.
+Each of the six levels become more challenging. Each has its own musical theme in
+stereo and distinct "personality".
+The graphics and action are outstanding. The game play is great. One or
+two players can "run" the course at the
+same time. A mouse, joystick, or two types
+of trackballs can be used by either player.
+The game action is somewhat slower with
+two players, but not that bad. There are
+eight levels of difficulty, though these seem
+to only vary the amount of time that one
+has to complete the six levels. The marble
+can even be given an extra burst of speed
+by pressing the button on the controlling
+device.
+This games nearly fills the 880K Amiga
+disk. Probably due to there being no remaining space, the game does not save the
+"top" scores. For a game of this type, that
+
+After several months playing various
+games on the Amiga, I went into a commercial game arcade. What surprised me
+the most was that the same "great" games
+of a year ago did not look anywhere near
+as impressive. I went in particular to take
+a look at Marble Madness and that too
+was a lesser match for the version on the
+Amiga. The graphics were nearly identical
+in resolution and quality, but the
+"physical" action of the marbles and various other elements of the game appeared
+more realistic on the the Amiga version.
+For arcade action, Marble Madness is
+highly recommended.
+Another Form Of Madness
+Mind Walker from Commodore (but
+done by Synapse), is true madness of the
+ultimate form. This is game is the most
+challenging game currently available. It
+more fully uses the features of the Amiga
+than any other game. In many respects it
+is a bizarre cross between Adept and Marble Madness. It is strategy, it is arcade and
+it is MADNESS.
+You are a physics professor that has
+gone mad from years of detailed work. You
+are lost in your own internal world of your
+mind. Your personality is a four way split
+of a Human, Wizard, Spriggan, and Water
+Nymph. In these four forms you must
+wander in the Mind, the Brain and the
+
+Subconscious in order to find and piece together your Sanity.
+You begin in the Mind. Your goal is to
+trace a path of coherent thought from one
+crystalized thought to a flashing square.
+This path can only be traced using a single
+being of your personality over each type of
+terrain particular to that body form. When
+you change terrain, you must change body
+form. This is done by finding a "Pyramid"
+under which you cycle through each body
+form. Once you have completed a path you
+must find a square with a "Tube" on it, to
+get you to the next level. But this is not at
+all easy to complete. There are several obstacles to interfere with your success.
+Throughout the area of the mind are "bad
+thoughts" that attack you, if you do not
+escape their domain or destroy them with
+your "Fractal Ray". Also there are certain
+screens that are "Booby-Trapped" and
+only good thoughts can help you escape
+their hold on you.
+The mind is a vast three dimensional
+area of multiple levels and terrains. Assisting your movement is a large map of
+your current and surrounding area. Even
+more mind can be displayed, if necessary.
+This "map" screen will show you the locations of thought crystals, pyramids, tubes,
+and your path. It also displays the domains of each body form.
+Once you have a path of coherent
+thought, an area of complete thought is
+created. This "unlocks" the tubes and the
+passage to your Brain. Once in a tube, you
+fall down a long passageway with transparent green doorways to the physical
+brain floating towards you. You must
+catch one of these doors between your two
+hands which are visible on the screen using
+your joystick. Strangely, the joystick
+movements seem physically opposite your
+logical expectations. Beyond the green
+door is your brain, a maze of static neurons emitting sparks of synaptic impulses
+and "vicious viruses" that attack your
+body form and drain your strength.
+Your goal in the brain is to find the
+container of your "Shards of Sanity".
+There is no visible map here, but rather
+the sound of pounding and an increase in
+temperature as you near your goal. Once
+you have the container of shards you must
+return to the entry tube so that you may
+escape to the Subconscious, the final level.
+You may defend yourself against virus attacks with a thought reflector that rotates
+around your body form. The neurons are
+also dangerous when firing, but often you
+may be forced to go through them as they
+often grow around the escape tube.
+In your Subconscious, the seven most
+recent shards of sanity are displayed. You
+must place these correctly into an area
+that contains forty-two locations. You use
+the mouse to place the shards. Once all are
+correctly placed you return to the Mind
+once again to continue your quest to complete your sanity.
+
+You may only return to the mind when
+you have correctly places ALL seven
+shards. This is rather difficult at first,
+when there are forty-two possible locations
+for each shard. But assistance is available
+as Uncle Sigmund is present in the subconscious. He will show you where a shard
+goes, at a cost of game points.
+If not apparent from the discussion of
+this game so far, This game is very complex, but it's presentation is outstanding.
+The "music" and sounds of the game are
+excellent. You are missing a lot if you do
+not hook this game up to an external
+stereo system. The graphics are very good.
+I only wish that the mind map were displayed quicker since I found that I needed
+to switch screens between the mind and
+map quite frequently. The manual for this
+game is extremely well written and colorfully illustrated.
+The games has all the "necessary" options that I like to see in a game. It has
+three preset games wherein the terrain of
+the mind and the brain are always the
+same. And there is also the option to randomly generate a new game. You may vary
+the difficulty of any game. You may save
+eight games (an absolute necessary in this
+
+game). Games are saved only by a letter id
+(A-H). I much prefer the option to "name"
+or identify my saves. Also a FAME screen
+displays the top twenty scores with a three
+initial identifier. You may select not to put
+your score on the list also. This game is
+highly recommended as an very sophisticated arcade type game.
+Recommendations
+With the gift giving season nearly
+here, I offer the following to be worthwhile
+presents:
+Action Arcade:
+MARBLE MADNESS (EA)
+Best Implementation:
+MIND WALKER (COMMODORE/SYNAPSE)
+Interactive Fiction:
+Any Interactive Fiction from INFOCOM
+Sports Simulation:
+MEAN 18 (ACCOLADE)
+Combat Simulation:
+ARCTIC FOX (EA)
+Best Simulation:
+FLIGHT SIMULATOR/JET (subLOGIC)
+Home Utility:
+DELUXE PRINT (EA)
+
+SCORPION'S TALE
+
+A Mind Forever Voyaging
+As Told By Scorpia
+Ah, November! My favorite month!
+Bare trees, cold winds, long dark nights;
+the perfect time of year to get cozy with a
+warm computer and some good adventure
+games. But don't let me keep you here by
+the door...step in, settle down by the fireplace, and Fred will pour you something to
+take the chill off. Hmmm. That vacation
+trip to London didn't seem to do you
+much good. Had you going round in circles, eh? Well, it doesn't matter. I mean,
+you didn't really think you were an actual
+person, did you? Surprise!
+A surprise indeed, to find that you are,
+in fact, a computer simulation and not a
+real person. Your entire life has been lived
+out, not in the physical world, but within
+the circuitry of a computer system. PRISM
+- Perry Sim - the first truly successful experiment in artificial intelligence.
+And successful not a moment too soon.
+The world is in bad shape, and getting
+worse by the minute. To deal with this sad
+state of affairs, a Plan has been proposed,
+
+a Plan that calls for bold and decisive actions. It sounds good but: will it work? No
+one knows. Those who back the Plan are
+sure it's the solution, still there are some
+who aren't quite sure.
+So, Perry Sim gets a job. A computer
+simulation of the world ten years hence
+will be created, based on putting the Plan
+in action. Perry's task is to enter that simulation, and report on the results. Very
+simple.
+Of course, it isn't going to be quite so
+simple as all that. Yet, A Mind Forever
+Voyaging (AMFV) is unlike any other Infocom adventure. There are hardly any
+puzzles to solve until almost the very end
+of the game. No treasures to gather, no
+bottomless chasms to cross, no locked
+
+doors to open. More than anything else,
+AMFV is an electronic novel, in which
+you, as Perry Sim, observe the Plan's results as they unfold through the years.
+However, don't get the idea that you
+just sit there and watch, although you'll
+be doing a lot of that. Perry DOES have
+an assignment, after all, and there are
+certain things he must record. Finding a
+few of the places on the list may take
+awhile, even with the cute map that comes
+with the game. It doesn't show you everything, so some exploring is necessary.
+Fortunately, there are no mazes in the
+game (yay!), so mapping is quite straightforward.
+And there are some other things Perry
+must be familiar with: the various connections he has, called Modes. Communications Mode, for instance, allows him to
+view various areas of the PRISM Project
+installation, such as the rooftop, the
+maintenance core, and Dr. Perelman's office, among others, as well as giving him
+access to the World News Network.
+Interface Mode lets Perry interact with
+some of the minor computers that control
+things such as the life support systems of
+the installation, the traffic in the real
+world, and the computer that runs the
+simulations he will enter.
+In Library Mode, Perry has access to a
+number of interesting files including data
+on the Plan. There is also a Sleep Mode
+(yes, even computers, it seems, need rest
+from time to time!). To get through the
+game successfully, it is necessary for Perry
+to know about all of these things and how
+to work with them. There is plenty of time
+between simulations, so use it wisely.
+Keep in mind also that Perry lives in
+this world. It's the world he grew up in,
+back when he thought he was a human
+being. He has a family here, as well as a
+job (fortunately, his job is being a writer,
+so he has all this free time to run around
+the city making recordings). Rockvil is a
+perfect simulation of reality. What happens inside the computer can also happen
+outside, where Rockvil actually exists.
+This is what makes the simulations of the
+future so shattering.
+Part 1 is pretty simple and straightforward. Perry enters the 10 year simulation, records everything on his list, and
+then "returns" with his buffer full of data.
+Keep in mind that the buffer has a limit,
+so don't run around with the recorder going all the time. Just use it where you have
+to and turn it off in between. If you don't
+get everything the first visit, you'll be sent
+back to record anything you missed.
+Well, the world ten years up the line
+looks pretty good, huh? Dr. Perelman and
+his associates are certainly excited over the
+
+results. However, this also leaves you with
+nothing much to do at the moment. Boredom strikes. What's a sentient computer
+to do? Snoop around, of course. Take a
+peek at the Simulation Controller. Oho!
+It's been quietly chugging away on its
+own, and now has a 20 year simulation
+ready.
+This is Part 2, covering simulations for
+20-50 years ahead. It is much like Part 1,
+in that you are still walking around observing the changes through the years and
+making recordings of what you see and experience. However, you will quickly notice
+that the further ahead in time you go, the
+nastier the world becomes. There are many
+changes, none for the better, and several
+items on the old list aren't available any
+longer. The Plan is turning out to be a lot
+worse than anyone expected.
+Which brings up the major problem of
+the game. The people backing the Plan,
+especially Senator Ryder, claim that
+Perry's recordings are fakes. They aren't
+going to let anything stop them now. Especially not "simulated data" from a
+make-believe person.
+And so we come to Part 3. At last,
+Perry gets a chance to show he can do
+more than just watch, although again,
+that too is important. Things get off to an
+unpleasant start when the PRISM installation is taken over by the National Guard
+(one guess who's behind that). Then Ryder
+storms into Perelman's office, delivers a
+vitriolic diatribe (charming fellow), and
+stomps out again, with Perelman dragged
+along by the soldiers. Hooboy!
+If I were you, I'd be feeling real nervous right about now. Ryder is certainly
+up to something, and whatever it is, it's
+nothing good. If you wait too long, Perry
+Sim will just be history. Better keep an
+eye out around the installation. You never
+know who you might see! And don't forget
+about Interface Mode..there ARE some
+things you can fiddle with yourself.
+
+Ok, you've managed to overcome this
+threat, but you can't keep this up forever.
+Somehow, you must put an end to Ryder
+and his schemes once and for all. Now, if
+you could prove to everyone what Ryder is
+really like, show his true colors to the
+world, that would do the job. Better
+hurry, though, because time is running
+out.
+Whew! So much for Ryder and his
+grubby Plan. The world will be a much
+better place without it. And now comes
+the reward. Oh yes, it isn't over yet! So
+many times, a game ends with a brief
+"Congratulations, you saved the universe.
+Rah rah" message, sort of taking the edge
+off your achievements. After all the hard
+work you put into finishing an adventure,
+you want something a little snazzier, some
+real recognition for your efforts.
+Well, while there may not have been
+too many puzzles to solve here, you really
+have saved the world from a nightmarish
+future. And that accomplishment merits
+something very special. Computers, after
+all, are people, too. You've just proved
+that.
+So, what is this terrific endgame? Ah,
+you'll just have to play the adventure
+through to find out! But, believe me, it's
+well worth it! Perry Sim, ever and always,
+a mind forever voyaging.....
+I see by the invisible clock on the wall
+it's that time again. Before we close the
+doors, tho, a special hint for all you Bard's
+Tale players out there. From my mail, it
+seems that a lot of folks are having some
+problems getting into Mangar's Tower.
+They get the Onyx Key from Kylearan, go
+dashing madly off to Mangar's gate....and
+they STILL can't get in! Well friends, that
+Onyx Key is only for Mangar's front door,
+it's NOT the key to the gates! The only
+way past that gate (for now, you may find
+another later) is to pay a visit to the sewers, level 3. And remember, there are no
+big neon signs that say "Mangar lives
+here".
+That about does it for this issue. As
+always, if you or any of your IMF force
+are....err...oops!...AHEM...as always, if you
+need help with an adventure game, you
+can reach me in the following ways: On
+Delphi: visit the GameSIG (found under
+the Groups and Clubs menu). On GEnie:
+stop in at the Games RoundTable (type:
+Scorpia to reach the Games RT). On the
+Source: send SMAIL to ST1030. By U.S.
+mail (remember to enclose a self-addressed
+stamped envelope if you live in the United
+States!):
+Scorpia P.O. Box 338 Gracie Station
+New York, NY 10028
+Until next time, happy adventuring!
+Copyright 1986 by Scorpia, all rights
+reserved.
+
+Macintosh Window (cont.)
+
+Continued from pg. 15
+was capable of animation this good.
+Next comes the sound, which is Silicon
+Beach's best effort yet--and that's saying
+a lot. Eric Zocher, VP of Silicon Beach and
+their sound specialist, may know more
+about Macintosh sound than anyone else
+alive--including the Macintosh designers-and he's gone all-out to make this his
+best work yet. The sound effects for Dark
+Castle were actually recorded in a studio
+using the talents of the person who was
+the voice behind Fred Flintstone, and
+they're marvelous.
+And finally, Dark Castle is filled with
+lots of little touches that show it's one of
+the first steps toward what Silicon Beach
+likes to call "interactive cartoons." When
+your on-screen character falls a little too
+far, he will spin around in a circle (with
+stars above him), then shake his head as if
+he's groggy. When he walks off the edge of
+a cliff, he doesn't immediately fall; first, he
+looks down and sees that there's no ground
+below him, then falls, a la Wile E. Coyote.
+Perfect!
+And as icing on the cake, Silicon Beach
+has decided not to copy-protect Dark
+Castle. Marketing an 800K game presented
+a problem: should they distribute it on one
+800K disk (convenient for Mac Plus own-
+
+but making it impossible for old Macintosh owners to use), or distribute it on
+two 400K disks (making life great for old
+Macintosh owners, but requiring disk
+swaps for Mac Plus owners with no external drive)? In the end, they just decided to
+trust people and let them make their own
+working copy of the game onto whatever
+size of disk they like. Hurrah for common
+sense!
+ers,
+
+Corrections And Acknowledgements
+In my August review of Flight Simulator, I implied that the only possible reason for Sublogic to replace the Mac's standard menu-handling software was to ease
+the translation of FS between different
+computers. Although that is certainly a
+valid possibility, it has been pointed out to
+me that another reason they might have
+written their own menu software is that
+the Mac's takes control of the machine:
+virtually nothing else can take place while
+a menu is being held down. As you may
+know, flying continues in FS even while a
+menu is in use. I stand corrected--but I
+still don't know why they did it. Do you?
+If so, send your answer to: Why Did They
+Do It?, 10 Downing Street, London, England.
+
+My other correction is to my September/October review of Race Car Simulator.
+In it, I listed four pre-designed tracks that
+I said came on the disk with RCS. As Dom
+DeLuise said in Blazing Saddles, "Wrong!"
+The tracks I listed actually come in the
+form of screen dumps in the manual. The
+tracks on disk are completely different.
+And for acknowledgements, I'd like to
+thank Ezra Shapiro, columnist for Byte
+magazine, for his insights into how Surgeon might be used in the medical field.
+I'd like to especially thank David Whiteman, a senior-year medical student at the
+University of California at San Diego, for
+his excellent and extensive critique of Surgeon's accuracy.
+Keeping In Touch
+
+I encourage your comments--and
+thank those readers who have already
+written for their suggestions. You can help
+me make this column as good as it can be
+by writing to me at: 4568 Georgia St. #2,
+San Diego CA 92116. Or you can reach me
+at the following electronic addresses:
+MCI Mail: fboosman
+BIX: frankb
+Until next month, keep playing those
+games!
+
+by Bill Oxner
+
+Name:
+Chessmaster 2000
+System:
+Most
+Price:
+$39.95
+Publisher: Software Country
+9713 Santa Monica Blvd. #204
+Beverly Hills, CA 90210
+
+The King is dead. Long live the King! The
+crown has been passed in the world of personal
+computer chess programs. It happened in Mobile,
+Alabama, in July of this year. Chessmaster 2000
+(C2000) won the Personal Computer class of the
+United States Open Computer Chess Championship.
+The competition, sponsored by the United States
+Chess Federation, pitted 18 programs in a threeday, round-robin style tournament. C2000 emerged
+the winner, defeating programs running on super
+computers, dedicated chess-playing machines and
+PC programs from the US, Europe and Asia. It
+became the only off-the-shelf program to ever win
+this event.
+Chess addicts may be satisfied knowing only the
+raw power of the program, yet C2000 has much
+more to offer. It begins with a slick, professional
+package. Included is an excellent booklet containing
+a brief introduction to chess rules, a history of the
+game, a library of 100 classic games and a selection
+of chess problems. The 100 games are a nice touch.
+The games are stored on the program disk and can
+be replayed (move by move) and analyzed. The
+quality of the documentation is first-class.
+C2000 is a menu-driven program. There are almost too many options to list in a short review. In
+the Playing the Game Menu you can select as your
+opponent C2000, another human or autoplay. Next
+is the level of play. There are 12 levels, ranging
+from 60 moves in 5 minutes to 40 moves in 6000
+minutes. The latter is recommended only for
+play-by-mail games unless your boredom threshold is
+extremely high. The more time that C2000 is permitted, the more moves ahead (plys) it will plan.
+There is a further option allowed (Easy Mode)
+where C2000 will "think" while it waits for you to
+move. This option alone sets it apart from most
+computer chess programs. The next option allows
+you to set the style of C2000's play. It can be set to
+
+play Normal (mixes best and random moves), Coffeehouse (more random) or Best (always best
+moves). If you find you are losing too often you
+can "brain-damage" the program by setting it for
+Coffeehouse.
+C2000 has perhaps the largest "opening book" of
+any PC chess program, a claimed 71,000 moves.
+Most classic openings, such as the Ruy Lopez, seem
+to go about seven moves deep before the book is
+exhausted. The book can be set On or Off.
+You may choose to play the white or black
+pieces and can switch back and forth during play.
+If you are bored you can force C2000 to move instantly rather than wait for it to complete its
+thinking. If you make a mistake or want to analyze
+a line of play you can delete as many moves (both
+sides) as you wish. Moves deleted can also be recalled.
+Screen options are equally good. The board can
+be displayed in 2 or 3 dimensional representation.
+Screen colors may be changed. The time clock and
+move display are optional. You can rotate the board
+(90 or 180 degrees) for a different perspective. You
+can display captured pieces, list all moves made so
+far, or have C2000 display what moves and countermoves it is thinking about. You can "ask" C2000
+for a hint and it will suggest what it considers your
+strongest move. Teaching mode will display all
+possible moves for a chosen piece. Sound is optional. This feature allows you to leave the computer and still be alerted when C2000 has made its
+move, yet another example of the excellent quality
+built into the program. Finally, you can ask C2000
+to display the line of play that it is predicting
+(when it made its last move), whether it thinks it is
+ahead or behind and how many plys it searched
+before making that move. These are all features
+that add an extra dimension to playing the game
+and cannot be found in such numbers in any other
+PC chess program.
+The game can be used to solve chess problems or
+
+analyze lines of play. You can set up the board
+piece by piece, make moves and then instantly return to the original situation. You can save a current game to disk at any time and any number of
+games can be stored. Classic games can also be
+loaded and replayed. Moves can also be sent to a
+printer.
+The analysis options are very detailed. You can
+play a game, store it to disk and then ask C2000 to
+analyze every move for one or both sides. It will
+show what it feels was the strongest move and give
+a "score". The score represents C2000's analysis of
+the overall game situation at that time using piece
+counts and positions. Analysis can be displayed on
+the screen, sent to a printer or stored in a disk file
+that can be read by any word processing program.
+It should be obvious by now but C2000 also
+handles the more mundane requirements of a good
+chess program. Castling, capturing pawns en passant
+and pawn promotion.
+In addition to technical details and options,
+computer games also have a subjective "feel". C2000
+has a professional quality from boot-up to mate.
+The pre-game menus are clearly labeled and easy to
+utilize. The graphics are superior. During many
+hours of play (IBM version) not a single bug was
+
+detected. The developers claim three years of effort
+went into creating C2000 and the final product
+demonstrates that attention to detail.
+Your reviewer is a good chess player. I found
+that I could hold my own and defeat the program
+up to about level four. In all honesty I feel the
+program would probably beat me consistently at
+higher levels. The program is very "solid" in its
+play, it simply doesn't make errors. In contrast to
+other chess programs it is also very alert on defense. Victories, even at level two, were hardfought contests that went 50 or 60 moves. It seems
+to have a bit more "imagination" than other programs, although the day is still far off when a
+computer program will sacrifice a queen (as Bobby
+Fischer did) in order to mate in ten moves. One
+great feature of the program is that it will resign
+when it sees a hopeless position, it does not force
+you to grind out an inevitable win.
+I wish I could find something negative to include in this review but I can't. Even the price
+($39.95 for IBM) represents a good value. Chessmaster 2000 is the finest chess program I have ever
+encountered. It is powerful, flexible and fun to
+play. I feel it will be a standard for years to come.
+It gets my absolutely highest recommendation.
+
+ROMMEL
+BATTLES FOR TOBRUK
+Title:
+Rommel: Battles For Tobruk
+System:
+Atari, Apple, C-64
+Price:
+$40.00
+Designer:
+Frank Chadwick
+Publisher: Game Designer's Workshop
+P.O. Box 1646
+Bloomington, IL 61702
+
+by M. Evan Brooks (c) 1986
+Rommel is GDW's latest release in the computer
+wargaming market. The simulation covers the four
+major battles for Tobruk (Brevity, Battleaxe,
+Crusader and Gazala). The computer permits one to
+play either British or Axis or utilize a two-player
+option. Unfortunately, the computer does not
+normally play itself (this can be a valuable learning
+lesson); however, by timely saves of the game and
+resetting the options, the computer can be forced to
+play itself, although the mechanics thereof are
+somewhat clumsy.
+The designer, Frank Chadwick, is a boardgame
+designer of repute. His previous design efforts are
+among the best in the boardgame field, e.g. A
+House Divided, Operation Crusader, Fall Of
+Tobruk, 8th Army.
+Rommel is extremely detailed, with options
+available of fatigue, supply, limited visibility and
+air strikes. One may choose how many of these
+options to utilize; each adds realism to the
+simulation, but at a cost of playability. The basic
+problem is that a game may be very detailed and
+still playable; however, Rommel is rarely playable,
+and with the multitude of wargame designs
+available, this reviewer does not think that Rommel
+will receive a favorable reception.
+The graphics are primitive, and not state-ofthe-art. The game was first shown in an early
+design stage at Origins '85 (the National Wargaming
+Convention). Even then, this reviewer had
+reservations about the graphic representation. Four
+
+strategic maps are available (German positions,
+British positions, both positions and terrain). The
+tactical map shows only a portion of the playing
+area, and it is here that orders are inputted. The
+tactical map may be scrolled by joystick or
+keyboard; however, an unpleasant "flicker" effect is
+created and scrolling is limited to vertical and
+diagonal, not horizontal. GDW claims that this is
+because Rommel is one of the few computer
+simulations to use a true hexgrid, but the overall
+effect can be tedious. Turn resolution is
+accomplished on the strategic map; both movement
+and combat occur by amorphous pixels moving and
+having combat. This review may be saved, with a
+full game's saves becoming a virtual docu-drama.
+While this is a nice touch, the basic primitiveness
+of such resolution is questionable.
+Even more important is the computer artificial
+intelligence. Depending upon the degree of
+complexity and options chosen, the computer may
+take anywhere from 3-15 minutes in order to
+decide how to act. This does NOT include
+resolution, but merely the computer deciding upon
+its strategy. As the programmer points out, in a
+two-player version, this is not a handicap. But, the
+vast majority of wargame simulations are played
+solitaire. Given that, the computer response time is
+totally inadequate.
+Most of the time is spent with the artificial
+intelligence determining the front line. The
+programmer, Mark Miller, stated that Rommel takes
+a fresh look at the situation each turn. The program
+
+does not use a decision-tree branching analysis.
+This reviewer is not really certain of the advantages
+in Rommel's approach; suffice it to say that the
+time delay outweighs any increase in realism.
+The programmer noted that Rommel was
+composed of 38,000 source lines and 13,000 data
+lines. This is an extremely long program, using
+virtually both sides of the Atari disk version (for
+comparison, Microprose's Kennedy Approach is c.
+17,000 lines in its entirety). Thus, there is a lot of
+information contained in Rommel; the flaw is that
+most gamers will not have the patience to dig it
+out.
+The documentation is voluminous. However,
+there are two omissions: (1) player hints are brief,
+at best and (2) a bibliography is lacking. Mr.
+Chadwick has stated that the sources mainly used in
+developing the game were the official German and
+Australian histories as well as information he had
+gleaned from many prior design efforts in the
+boardgaming field. The map insert is extremely
+detailed and reminiscent of board wargames.
+Although GDW denies it, Rommel has the
+appearance of a board wargame adapted for the
+computer as an afterthought, and this appears to be
+Rommel's primary failure.
+
+Fatigue and visibility options add increased
+realism. The supply option is among the most
+detailed ever in a computer simulation, as are the
+air strikes. Supply can be traced from each corps
+HQ to its subordinate units; in the longer scenarios,
+this will drive one's strategy. This is correct -- the
+Desert War was a conflict of logistics; long periods
+of relative inactivity except for logistics acquisition
+were followed by short intensive combat which
+ended as the logistics chain became overextended.
+Rommel does an excellent job of recreating this
+aspect of the war.
+Just as important are the Corps Tables. These
+portray enemy/friendly status. The most interesting
+facet of Rommel's limited visibility is that the
+enemy Corps Table is, by necessity, incomplete; in
+effect, it becomes the player's G2 (intelligence and
+enemy order of battle). Only those enemy units
+adjacent to or previously in contact with one's
+forces will be revealed, and much of the
+information shown may be dangerously out of date.
+But such is the life of the commander!
+Air strikes simulate tactical bombing raids. One
+must determine sorties and target prioritization,
+while keeping range data and changing battlefield
+conditions in mind. Bombing raids mistimed are
+
+worse than useless; they can cause friendly
+casualties or even support an enemy counterattack.
+However, their proper use may well retrieve an
+otherwise doomed position.
+Victory conditions are similar for each scenario.
+Generally, control of key terrain (especially
+Tobruk) coupled with a favorable combat kill ratio
+determine the victor. The German player must
+realize that Tobruk may often be unattainable; in
+that case, his tactics will be limited to forcing large
+British casualties. Similarly, the British player must
+examine the victory conditions and avoid the
+historical mistake of reacting piece-meal. Coherent
+strategic plans coupled with tactical expertise are
+the keys to victory.
+Rommel permits multi-stacking in hexes. This
+will allow a proper `schwerpunkt deployment as
+well as maximum defensive positions. However, the
+player must carefully examine the hex to insure
+that he is aware of all units therein. Also, unless
+one is careful, horrendous traffic jams may be
+created that delay tactical implementation.
+Overall, Rommel is an extremely detailed
+simulation. But the detail clutters playability to an
+unconscionable degree so that Rommel becomes an
+exercise in frustration. The designer and
+programmer were very helpful and cooperative in
+answering any questions this reviewer had. Their
+assistance is deeply appreciated, and this reviewer
+wishes that this review would be able to repay
+them in kind. But Rommel's flaws will doom it to
+the back of most gamer's shelves.
+GDW's previous computer simulation,
+Chickamauga, was favorably reviewed by Computer
+Gaming World (Jun-Jul 85). That review noted
+Chickamauga's success as being two-fold: physical
+implementation coupled with the design modelling
+the battle. Not all reviewers concur, and this
+reviewer feels that Rommel fails for the same
+reasons as Chickamauga, only more so. Physical
+implementation and user friendliness are
+inadequate; these failures are of a sufficient
+magnitude to deter all but the most hardy from
+delving into the game.
+This is a shame; it is apparent that much design
+time and effort went into Rommel. More was
+attempted than in most simulations. But the lack of
+response time by the artificial intelligence coupled
+with the graphics cannot save Rommel from itself.
+Undocumented feature: Rommel has a feature
+not mentioned in the documentation, which may
+prove educational for the user. At any point one is
+in the option screen, pressing the "Shift-R" keys
+will allow the player to review the computer's move
+and modify it as one wishes (the programmer calls
+it the "ultimate cheat" key). Once this option is
+selected, it may not be turned off..
+
+BRONZE
+DRAGON
+
+Name:
+Bronze Dragon
+System:
+Apple II family
+1-5
+#Players:
+Designers: Dan Schnake
+Adam West
+Publisher: Commonwealth Software
+821 S. State Avenue
+Indianapolis, IN 46227
+
+by Johnny Wilson
+
+Sir Plene Bonum swaggered into the dark tavern.
+His practiced eye recognized eight potential enemies and his tactical intuition moved him to a position where his back was to no man. He hoped,
+anyway, that the giggling waitress who was gathering two tankards of ale for Captain Brawney of the
+local guard wouldn't try any stealthy maneuvers
+with daggers. He cast a wary eye toward the very
+old wizard who seemed to stagger, almost reel with
+fatigue down the stairway and hoped that the old
+geezer wouldn't zap him with a "Shatterglass" spell
+once he got up the nerve to approach him for information. A mesmerizing bosom hypnotized him
+for a moment as a voluptuous blonde waitress
+stepped up to the bar beside him. "Excuse me," he
+tried an uninspiring conversational gambit, "I'm
+new in town and I was wondering if you could tell
+me about the Parchment of Power."
+The goddess in waitress garb turned sad eyes
+toward Sir Bonum and whispered, "Don't fight the
+zombies unless you must." The waitress of wonder
+glided away in order to serve the town blacksmith.
+The blacksmith had obviously overheard the knight
+errant's query because he offered the unsolicited
+information that those zombies were tough. Yet, the
+most interesting news came in a loud, authoritative
+voice from Captain Brawney, "The stupid paper
+won't even hold together. It ain't worth it, nohow!"
+Such are the clues, red herrings and encounters
+that one is able to gain in the Dragon Village Pub,
+even before a party gets ready to embark upon an
+adventure in Bronze Dragon (BD). BD is a new release in the fantasy genre which looks visually like
+an offspring of the ubiquitous Eamon adventures
+(it's a text game); plays swiftly by means of a menu
+similar to the commands in Phantasie (no parser
+problems); entails character generation evolved
+from a Wizardry type system; and offers more plot
+lines than any other game in its genre. The raison
+d'etre for BD rests in the detailed background of
+the campaign (with 13 plots to choose from), the
+ability to personalize characters by means of acquiring artifacts which really affect events rather
+than simply adding to booty, and the awareness that
+each character's actions have significance (it's possible for one's alignment to change for better or
+
+worse). BD has enough opportunities for "hack and
+slay" gaming without being totally dependent upon
+such a strategy. Indeed, there are "good" monsters
+like lions and unicorns which are costly to attack.
+The mechanics of BD are straightforward. It
+comes with two disks and the player must make a
+third using the BD utility (a character disk). After
+creating and saving a roster of characters, the
+player outfits each character and gathers a party.
+The potential races and character classes offer no
+real surprises. Humans, elves, dwarves and halflings
+make up the genetic pool for heroes and heroines.
+Knights, assassins, ninjas, elders and wizards make
+up the placement categories for those who want to
+graduate from the mundane to the heroic.
+Once the party arrives at the site of the adventure, the game progresses by means of a numbered
+menu. These options are: 1) Rest, 2) Fight, 3)
+Search, 4) Look, 5) Diversion, 6) Advance, 7) Retreat, 8) Use Object, 9) Inventory or 0) Leave. The
+`Search' command brings about a Search sub-menu
+which allows the character to search for objects,
+search creature, search for secret doors, or search
+for traps. The 'Diversion' option is unusual, but
+effective. This option gives everyone else in the
+party a +1 to hit on the next turn and allows assassins to assassinate, but draws the monster's attention
+to the character doing the diverting. 'Use Object'
+allows the character to attempt to unlock an item,
+use an item on a creature (how else would you eat
+or drink?), examine an object, use on one's possessions (connect two items, poison a blade, etc.), or
+use in the room (catch all command). The
+`Inventory' command enables one to put the proper
+object in hand, determine character status, get rid
+of an object (erasing it from the module forever),
+give an object to another character or monster, or
+give money.
+In addition to this menu and its sub-menus, each
+character class has its own special command menu.
+Pressing the space bar toggles these menus into
+place. Knights may choose the "Swordplay" option
+which adds +1 to the "To Hit" roll for every two
+skill levels of the knight and also maximizes sword
+Continued on pg. 55
+
+BATTLEFRONT
+Continued from pg. 29
+pabilities of your units and exploit their strengths.
+This one can be a bit tough, since the scenario descriptions tell you things like the identity of your
+units (mechanized infantry, assault guns, tank destroyers, etc.) but do not give you any specifics on
+the movement and combat capabilities of the individual battalions. Still, it is not a good idea to send
+your regiment of foot infantry in against a solid
+
+line of armor battalions in the open! If all of these
+lessons sound pretty familiar, well they should.
+Battlefront does a pretty good job of rewarding
+proper strategies and blasting away poor ones. The
+problem to be overcome is the common feeling
+among gamers that "If I've got a unit, then by gosh,
+it's gonna do some fighting!" The sooner you learn
+to look beyond the simple symbols on the screen to
+take in the full picture of the battle with consideration to fatigue, supply, available air support, and
+your overall objectives; the sooner you will be a
+successful Corps commander.
+The above mentioned were obviously recognized
+by the designers, and were obviously incorporated
+into the computerized opponent. The computer can
+
+play either side (or both) in any scenario, and provides a very credible opponent. Don't be ashamed
+to play your first few scenarios with a considerable
+handicap for your side.
+Designing Your Own
+
+Here we come to one of the key features of
+Battlefront, and also to one of the hallmarks of
+SSG's games. The game contains a "scenario creation" utility that allows you to create a scenario to
+cover virtually any ground combat that took place
+in World War II. Pretty big order? Well, yes, but
+when you can modify almost every parameter that
+defines a scenario, there is really very little limitation to what you can do. Undoubtedly, the biggest
+problem with designing particular scenarios will be
+that you will need accurate data for your scenarios.
+This part of Battlefront is really more a "game
+design kit" than simply a way to modify scenarios.
+Let's start with terrain. You can specify the size of
+the map; from 13-by-7 to 39-by-28 hexes. The
+terrain in each hex can be defined individually.
+The number of possible terrain types is unlimited,
+because you define the effects of all terrain. There
+are fourteen different terrain icons, so this is the
+maximum number of different types of terrain you
+can put in a scenario, but each of those fourteen
+types can be anything you want. Take that light
+green icon. Label it "light woods" and give it minimal cover for direct fire and make the "movement
+points to enter" fairly low for both foot and motorized units. Or, call it "Amazonian jungle" and
+have it cost ten movement points for foot infantry
+and impassable to vehicles! Each terrain icon can be
+given a name and different movement parameters
+for foot vs. motorized units and different combat
+modifying parameters individually for small arms,
+heavier caliber direct fire weapons, and artillery.
+The treatment of terrain should give you an idea
+about the open ended capabilities in designing your
+own scenarios. In addition to creating a custom
+map, you can generate the combat units in all
+shapes and sizes. Each battalion in the game can be
+given different movement and combat capabilities,
+range, weapons effectiveness, fatigue, and experience. Also, the headquarters units of the divisions
+can each be rated for leadership, administrative
+effectiveness, and supply capabilities. Finally, the
+scenario itself can be designed with a host of special features. You can designate the terrain objectives for each side, the length of the scenario, the
+victory points to be earned for each enemy strength
+point destroyed, and many other factors which can
+make each scenario unique.
+One of the biggest headaches that people complained about with Carriers At War and Europe
+Ablaze was the amount of time that it took to ac-
+
+tually input all the parameters needed to do your
+own scenarios. Although it may look like things
+will be just as time consuming with Battlefront,
+that is really not the case at all. The main reason is
+that even the very biggest scenario that you can
+design will have no more than sixty battalions on
+each side. This really made a big difference when I
+went to input my own scenarios; what had taken
+several evenings can now be done in a few hours.
+Actually, the toughest part of designing your own
+scenarios will be obtaining the required accurate
+background information on the battle that you plan
+to simulate. But then, that has been a major problem for all game designers since the hobby started.
+And, I am sure that we can look for help in this
+area to Run 5, the SSG magazine which has been
+published to support their games.
+Final Thoughts
+So far, I have not mentioned the execution of
+the combat routines in Battlefront. Unfortunately,
+it is a little tough to judge the appropriateness of
+the combat execution, since the documentation with
+the game tells us very little about how combat is
+actually resolved. For instance, the fatigue of the
+units in combat obviously affects their performance, but we can not tell whether the program
+
+might overstate or understate the importance of fatigue in the overall combat equation since we never
+see that equation. And judging the importance of
+any one component in combat by watching the
+outcome of combats in the game is pretty tough
+since each combat situation has so many independent variables which impact the outcome. In defense of the designers, I must say that the combat
+results do look pretty believable, and there is no
+doubting that Roger and Ian have tried to factor in
+as many parameters as possible. As one last example
+of the amount of detail in this program, it keeps
+track of the ownership of each hex on the board;
+whose units were the last to pass through it. Then,
+in the movement routines, the computer adjusts a
+unit's movement rate depending on whether it is
+traversing friendly or enemy hexes.
+Battlefront is a very good game which does an
+excellent job of putting the player into an authentic
+combat role: that of a Corps commander. The four
+scenarios provided are a good showcase of the
+game's capabilities, but the real value of the game
+is in its ability to be tailored by the player. If you
+are willing to do a little research, Battlefront can be
+used to recreate just about any Corps level action
+from World War II. That's a lot of game to get for
+the money!
+
+PEEK (cont.)
+Split-screen animated graphics give
+both an overhead view and a golfer's
+eye view of each hole. IBM ($49.95).
+Reader Service #9.
+Ellicott Creek Software
+30 Chestnut Ridge Lane
+Tonawanda, NY 14150
+THE ADVENTURE OF THE VATICAN CAMEOS: A text-based interactive novella based upon a story mentioned by Dr. J. Watson. The program
+utilizes a menu entry system to ease
+input. There program has a 13,000
+word vocabulary and over 60 locations.
+YOU CAN WIN A $1000 IF YOU ARE
+THE FIRST PERSON TO SOLVE
+THE ADVENTURE (details will be
+made to registered owners). The game
+is NOT copy protected. Apple, IBM,
+C-64 ($32.95). Reader Service #10.
+Hi Tech Expressions Inc.
+2699 South Bayshore Dr.
+Suite 1000A
+Coconut Grove, FL 33133
+1-800-848-9273
+CARD WARE, HEARTWARE, PARTYWARE, JINGLEDISK: Four programs that allow you to design and
+print your own greeting cards. CardWare is a birthday greeting card and
+all occasion card maker. HeartWare
+allows you to make romantic love
+notes and greeting cards. Party Ware is
+a design kit for party paraphernalia
+such as party notes, hats, banners,
+placemats, games, etc. JingleDisk is a
+holiday card maker. All four products
+also allow you to make a disk greeting
+card, complete with music, that can be
+played on a friend's computer. PartyWare costs $14.95, the others are
+$9.95. Apple, C-64, Atari 8 bit, IBM.
+Reader Service #11.
+Overt Strategic Simulations
+P.O. Box 66424 Dept. 112
+Los Angeles, CA 90066
+WORDFUN!: Wordfun combines trivia
+with three word games to provide an
+educational game for any age group.
+The game includes thousands of words
+in phrases to be deciphered. IBM.
+Reader Service #12.
+Performing Arts Software Inc.
+320 N. Brazil Ave.
+Indianapolis, IN 46219
+BASEBALL FANATIC: Here is a stat
+baseball with a few of new twists. Five
+play levels allow you to select the degree of "action". Selecting the 'Super
+Slugfest' option will result in a game
+with something like 30-40 hits.
+'Slugfest'= 24-30 hits. 'Pitcher's
+Duel'= 8-15 hits.' Average Big
+League'= 16-23 hits. Pot Luck= the
+computer secretly selects a level. Unlike most stat games, in BF you play
+the game one pitch at a time. Mix up
+your pitches, fool the batter, outguess
+the pitcher. Finally, there is a Scoreboard Watcher feature that allows you
+
+to replay games very rapidly. After
+selecting the teams and number of
+games to be played, just sit back and
+watch. IBM (Protected $39.95; Unprotected $49.95). Reader Service #13.
+Simulations Canada
+P.O. Box 452
+Bridgewater, Nova Scotia
+Canada B4V 2X6
+OPERATION OVERLORD: A simulation of the 1944 summer battle for
+France. Computer can play either side.
+Players have the viewpoint of the Theatre Army commanders for the invasion, breakout, and defense of Fortress
+Europa. Under direct control of the
+players are such responsibilities as determining strategic goals, planning of
+operations, supply situations, operational orders to combat units, and the
+assignment of air power. The computer
+handles such considerations as individual tactical actions, movements, and
+engagements of land and air units.
+Apple, IBM ($60.00). Reader Service
+#15.
+Strategic Simulations
+1046 N. Rengstorff Ave.
+Mountain View, CA 94043
+ROAD WAR 2000: A 'strategic adventure game' reminiscent of the 'Road
+Warrior/Mad Max' movies. The game
+
+follows a futuristic scenario of a postnuclear attack age where survival depends on a good set of wheels, and the
+ability to anticipate which human
+skills, tools and supplies are the most
+valuable in a world where civilization's
+normal infrastructure has broken
+down. As a gang leader in this world,
+you will be given the task of finding
+eight scientists who are crucial to the
+survival of the world. Apple, C-64
+($39.95). Reader Service #16.
+Tee-Kay Software
+P.O. Box 23771
+Columbus, OH 43223
+GENRAL: A two player modem game
+that simulates a campaign in an
+imaginary 19th-century war (infantry,
+artillery, and cavalry). Players fill the
+role of division commanders. This realtime game requires two CP/M-80 or
+IBMpc computers communicating via
+modem or cable at 300 baud. Each
+player controls an army of 26 units.
+There can be action in several places
+at once, and the decision which to attend first can be critical. $50.00.
+Reader Service #14.
+
+RID #32 (Use Card at pg. 5)
+On this page a number of
+games are listed for evaluation.
+When evaluating a game consider
+such things as PRESENTATION
+(graphics, sound, packaging,
+documentation); GAME DESIGN
+(design, playability, interesting?);
+LIFE (does the game wear
+well?).
+For each game you rate, place
+a 1 (terrible) through 9 (outstanding) next to the appropriate
+number. Leave blank any game
+which you have not played
+enough to have formed an opinion.
+
+Continued from pg. 49
+damage. They may also choose to go into a 'Rage'
+which will allow them to attack at twice their normal speed, but will gradually reduce endurance to
+zero. Assassins may invoke their special menu in
+order to either 'Assassinate' (assuming that they
+have a dagger in hand and the area is either dark
+or the victim 'diverted') or "Sneak" about a room
+with a base 35% chance of not being detected.
+Ninjas get a 'Martial Arts' option with its own
+sub-menu. After choosing this option, the ninja
+may either attack, strike or defend under a certain
+discipline. Attack will do 1-10 damage on a monster covered under that discipline and Strike will
+automatically cripple a monster covered under that
+discipline. For example, a ninja trained under the
+Bear Discipline would be able to cripple a monster
+that used an encircling (bear hug type) attack using
+Bear Strike. Defend increases one's armor ranking
+
+and also makes one invulnerable under the right
+discipline (Yeti Defense would make one invulnerable to Freeze spells). In addition, the ninja can
+`Leap' within range without losing his combat turn
+or if necessary, 'Imitate Dead' (cures of poison, illusion and berserking).
+Elders (the clerics of the game) and Wizards can
+toggle special sub-menus which list the spells they
+know by choosing the 'Sorcery' options. In addition,
+Wizards can 'Cast Energy' with the damage equal to
+10 times the Wizard's skill level, but it reduces endurance to zero. Elders can 'Destroy' any 'undead'
+creature less powerful than the Elder. Further, the
+Elder has the very important option of 'Innate
+Heal' which will heal characters who have lost hit
+points beyond 50% of maximum.
+For all of its similarity to other systems, BD is
+an imaginative game with its own character. The
+variety of attack options, artifacts, monster attacks,
+and plot twists makes it a distinctive, enjoyable and
+satisfying game. Nevertheless, many will not be interested because of the lack of even simple graphics
+in this age where numerous graphics adventures
+with relatively high sophistication exist. Here, one
+must make a choice between detailed data and an
+impressive array of options or sophisticated graphics and less options.
+
+There were not many changes in position as a result of RID #30 (there is no RID #31).
+But there was one BIG occurrence. Although the numbers are small, Chessmaster 2000
+came in with an impressive 8.10 in the strategy category. It will be interesting to see
+how this program from Software Toolworks (distributed by EA) does on RID #32. On
+the adventure/action side Ultima IV continues to be the top rated game.
+
+

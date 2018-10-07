@@ -1,0 +1,2457 @@
+1
+
+July 1989
+
+Number 61
+
+Features
+Special Report: Trends in Computer Games
+
+4
+
+CGW Visits the Summer Consumer Electronics Show
+
+Air Traffic Control, Can You Handle It?
+
+11
+
+Marbles From Hell
+
+14
+
+Cinemaware's "Lords of the Rising Sun"
+
+16
+
+27
+
+Compuserve Has Your Number / Johnny L. Wilson
+
+SSI's "Overrun!"
+
+28
+
+Gary Grigsby's Modern Tactical Wargame / Buddy Knight
+
+Getting "The Scoop" On The Competition
+Spinnaker's Murder Mystery / Scorpia
+
+Departments
+
+19
+
+SSG Simulates a 'Police Action"
+
+"Sniper!" World War II Telegaming
+
+42
+
+Shogun, Samurai, and Sex / Michael Chaut
+
+A Sneak Preview of Lucasfilm's Graphic Adventure Game
+
+"MacArthur's War"
+
+35
+
+Psygnosis' "Ballistix" Is Addictive / Douglas Seacat
+
+CGW's Test Lab Rigorously Examines The Latest Joysticks
+
+"Indiana Jones and the Last Crusade"
+
+32
+
+CGW Looks At The Trend and the Hardware
+
+Wesson International's "TRACON" / M. Evan Brooks
+
+The Gamer's Guide to Joysticks
+
+Is VGA Worth It?
+
+30
+
+Taking a Peek
+Conversions Received
+Game Ratings
+CGW Hall of Fame
+Reader Input Device
+
+6
+7
+24
+24
+48
+
+Summer C.E.S.
+
+ravelling northbound
+on 1-94 toward O'T Hare Airport, your intrepid editorial staff found
+themselves enjoying the
+warmth of a mild Chicago
+day, while recounting the
+most interesting and innovative aspects of the
+Summer Consumer
+Electronics Show. Suddenly, the sky went dark. A jetliner on final approach
+had flown so low paralleling the freeway that the
+plane's shadow obscured
+the sun as it passed and
+gave us an eerie feeling
+that the plane itself was
+about to crash into us. It
+only lasted long enough to
+cause us to catch our
+breaths, but it was a
+memorable encounter in
+spite of its brevity.
+
+bat Pilot from the U.K.
+
+The Shadow of
+Your Style
+New Directions at the
+Consumer Electronics Show
+
+The Nintendo
+phenomenon has already
+lasted longer than many in
+our industry thought it would and cast a
+more disturbing shadow over the diskbased entertainment software market
+than our "plummeting" jetliner. Now,
+however, judging from the new products
+we were shown, the shadow of "Me, too!"
+Nintendo-style disk-based games may be
+passing. In general, the entire range of
+disk-based entertainment software looks
+more promising than it has for over a
+year and a half. Even as we had held our
+breaths for a brief, unnerving moment
+on 1-94, it seems that the entertainment
+software industry is finally catching its
+breath after an ominous first quarter
+and 18 months of trying to discover its
+identity.
+"More" (Multi-Player Games)
+There seems to be a renewed emphasis
+on multi-player games. Jon Freeman and
+Ann Westfall are beginning to see the
+light at the end of their "Rainbow Road"
+(working title) and Electronic Arts will
+publish it as Swords of Twilight. The fictional "universe" contains eight different
+worlds connected by a "Rainbow Road,"
+equivalent to a worm hole or time-space
+warp. These worlds have been subverted
+by evil Shadowlords (not to be confused
+with the Shadowlords in Ultima V). The
+player(s) choose from 31 characters
+(each with a unique personal history and
+graphics display), in order to defeat the villains. The "universe" is dynamic and changes according to player interaction. The
+interface allows different players (up to
+four can play simultaneously) to do different things at the same time. The handling of non-player characters is interesting in that they have "long memories"
+
+and will act accordingly if the player-characters do not treat them appropriately.
+Atomic Entertainment, a new
+developer for Activision, will offer two
+multi-player adventures before the end of
+the year. Each will support up to four
+players playing simultaneously by means
+of keyboard (two players) and either a
+joystick/mouse or two joystick combination for the other two players. The working title of the fantasy action/adventure
+(more in the Prophecy than Gauntlet
+style) is Enchanted Lands in which the
+players explore eight different realms
+(each twelve screens across by twenty
+screens down and featuring 256 color
+graphics and smooth-scrolling sprites).
+They call it a CRPG with an arcade-style
+engine, but they insist that players won't
+want to shoot everything and there is
+more free-will than in most action-adventures. Atomic is also developing a timetravel adventure, tentatively called Time
+Raft, utilizing the same basic interface.
+Another approach to multi-player
+games is Origin's Omega, a neural cybertank battlegame where players build the
+chassis and Al for a cybertank via an
+easy-to-use Mac-style interface and intuitive
+pseudocode. After the file is saved, the
+program can pit several different player's
+tanks against each other in something
+like an advanced version of the old Robotwar game from now defunct Muse
+Software.
+Many games to be released during the
+year will utilize null modem or standard
+modem connections to encourage
+human-vs.-human competition.
+Electronic Arts is importing F-16 Corn-
+
+with a Gladiator mode
+(human-to-human), as
+well as five solo training
+missions and a solo campaign game. Other EAUK products which support modem competition
+include Powerdrome
+(think of it as Ferrari Formula 1 in outer space)
+where players set-up space
+ships for seven different
+courses and Populous
+where players take on the
+role(s) of cosmic forces
+creating and ruling over
+entire worlds. Epyx offers
+a modem/null modem option for their space race
+game, Flyton 500, which
+features ten different courses and four vehicle classes.
+
+Spectrum Holobyte is
+working on a game with
+the working title Tank. It
+uses unclassified information from the DARPA database to
+recreate the maps from three different
+geographical areas: Ft. Knox (training),
+the Middle East, and Europe. There will
+be a network option for the game (in
+cooperation with a major consumer network) which can involve up to thirty different tank commanders utilizing the
+same polygon fill terrain. Also, for those
+who can't really handle the "real-time" elements of a simulation, the game can be
+played like a wargame with the player
+giving orders and sitting back to watch.
+Also, Compuserve has just announced
+a new two-on-two version of Sniper! (see
+also page 27).
+Even the dedicated game systems get
+in on the multi-player act, as Sega's new
+16-bit Genesis machine comes with a
+TeleGenesis or modem option. Also, Acclaim has built on the success of its
+remote wireless controller for Nintendo
+with a new Double-Player System
+which gives two players the capacity to
+compete against each other without untangling a mass of wires.
+Perhaps the most unique of all the
+multi-player games presented at the show
+was the Battletech Center concept from
+FASA/ESP Corp. (the principals in ESP
+Corp. are also the principals from FASA
+Corp. who created Battletech). This is an
+environmental concept where players will
+pay approximately $5.00 for a thirty
+minute experience (a 10 minute briefing
+in a futuristic Combat Information Center, followed by a 10 minute strategy ses(Continued on page 20)
+
+Taking A Peek
+
+Cinemaware
+4165 Thousand Oaks Blvd.
+Westlake Village, CA 91362
+SPEEDBALL: "Rollerball", the bloodthirsty sport of the future, finally makes it
+way to the computer. A cross between
+soccer, hockey, and roller derby, Speedball enables the player to play solo, faceto-face, participate in an eleven team
+league, or act as spectator. Acting as
+general manager, the player chooses a
+franchise and builds his team from the
+ground up. Then, it's off to the steel
+arena to compete, cheat and bully your
+way to the top. If things look bad, you
+can even bribe officials or get opposing
+players to "take a dive". IBM (pictured),
+Amiga, & Atari ST ($39.95). C-64
+($29.95). Circle Reader Service #1.
+TOTAL ECLIPSE: Players race
+against a real time clock, as they search
+through a 15 level pyramid for the ancient shrine of Ra. The shrine must be
+destroyed or an ancient curse will
+destroy the moon. This won't be a cake
+walk as this overgrown grave is chock
+full o' puzzles, traps, and the undead
+bodies of the tomb's occupants. Smooth
+scrolling 3-D graphics enhance the first
+person perspective. IBM (pictured),
+Amiga and Atari ST ($39.95), C-64
+()$29.95). Circle Reader Service #2.
+
+Cosmi
+431 N. Figueroa
+Wilmington, CA 90744
+NAVY SEAL: This action game offers
+
+garners the chance to become one of
+the Navy's elite. Players parachute from
+a transport, engage in an underwater
+speargun battle, repel down ropes, and
+fire their silencer rifles at hostile targets.
+After completion of several training sequences, the Seals face five missions of
+graduating difficulty, including underwater sabotage, hostage rescue, and
+surprise raiding of an enemy base. C-64
+(pictured) ($29.95), & IBM ($34.95).
+Circle Reader Service #3.
+
+Epyx
+600 Galveston Drive
+P.O.Box 8020
+Redwood City, CA 94063
+AXE OF RAGE: Axe me no questions,
+I'll tell you no lies. The latest action
+game from Epyx gives new depth to the
+"hack and slash" genre, as players literally chop and dice their way through valleys, caves and dungeons to the ultimate showdown with the evil Drax. The
+player has a choice of male or female
+characters to run, and up to 10 axe
+moves in each battle sequence. With 18
+different creatures to fight, all the battle
+
+moves get used. From the campy, some
+might say tasteless, box art to the
+grouchy dungeon dude in the kinky
+shorts, the game is done with a dark
+sense of humor.... would that be like
+"axe-in-cheek"? C-64 ($34.95). Circle #4.
+
+DEVON AIRE: Hidden diamonds and
+a mysterious mansion are the basics in
+this graphic adventure/treasure hunt
+game for one. The game features great
+three dimensional graphics and some
+unique monsters (killer canaries and
+mutant pig-mice). The player must
+move furniture, stack chairs, balance on
+champagne glasses, open drawers and
+search everything for the hidden jewels
+before the killer capons and ravaging rodents steal all their strength. Atari ST
+(pictured) ($49.95) & C-64 ($29.95).
+Circle Reader Service #5.
+OMNICRON CONSPIRACY: "Pigs in
+Space" would be a good subtitle for this
+humorous, graphic adventure game
+from Epyx. The player takes the part of a
+space cop on a mission to bust up an intergalactic drug ring. Flying spaceships,
+exploring taverns and temples, and fer-
+
+or two players lead selected heroes on
+this quest which spans across forests,
+deserts, temples, and multiple dungeon
+levels. the 3-D, overhead graphics and
+play system bear close resemblance to
+the arcade hit, Gauntlet. C-64 version to
+be released later this year. Circle Reader
+Service #9.
+
+Sierra On-Line
+P.O. Box 485
+Coarsegold, CA 93614
+SILPHEED: Intergalactic terrorists
+threaten the harmony established by the
+Milky Way Union, and it's up to the pilot
+of the experimental Silpheed fighter to
+set things straight. Pilots face multiple
+levels of 3-D enemies on their way to
+the ultimate conflict with the battleship
+Glore. Nice graphics and tremendous
+sound, but an arcade game system
+we've seen many times before. IBM
+($34.95). Circle Reader Service #10.
+SPACE QUEST III: The wacky exploits of Roger Wilco continue in part
+three of the Space Quest series. Roger's
+latest task: rescuing The Two Guys from
+Andromeda. The Two Guys have been
+kidnapped by the Pirates of Pestulon
+and are being forced to create second
+rate games for the disreputable publisher, ScumSoft. Sierra takes their unique
+brand of adventuring to new heights
+with detailed, animated sequences, a
+wonderfully silly storyline, and a sound
+track so stunning, it may justify the purchase of a soundboard. IBM ($59.95).
+Circle Reader Service #11.
+
+Taito
+267 W. Esplanade
+North Vancouver, B.C.,
+Canada, V7M1A5
+SKY SHARK: Taito ports another arreting out clues from a variety of unusual suspects will keep players moving.
+Resist the temptation to shoot everything that moves. (How refreshing!) IBM
+($49.95). Circle Reader Service # 6.
+
+Ishi Press
+1400 N. Shoreline Blvd.
+Building A-7
+Mountain View, CA 94043
+COSMOS: Players test their skill
+against the computer in this version of
+GO. The computer comes with 100
+levels of play, offers online hints and
+move explanations, and the board can
+be set up from 7x7 to a standard 19x19
+matrix. The game can be learned easily
+on the smaller board and then the
+player can tackle larger boards as his
+level of play increases. The game also
+features automatic replay, move recall,
+option to play black or white, and plays
+at a 15 Kyu level. If Chess is a battle,
+GO is a war. IBM ($39.95). Circle Reader
+Service #7.
+
+Microdeal
+576 S. Telegraph
+Pontiac, MI 48053
+
+SLOTS & CARDS: Pack your money
+belts and get ready for another trip to
+Vegas. This package provides five slot
+machines (multipliers, Sevens Wild, MultiBar, & Fruit Multi-Bar), four video card
+games (Blackjack, High/Low, & two
+types of Video Poker), and Keno. The
+game was designed with the aid of a slot
+mechanic from one of the major Vegas
+Strip hotels, so the odds and reel loadings have been figured just as they are
+done in the casinos. (That means you'll
+probably win just enough to keep playing till you lose!) IBM (pictured), Amiga
+and Atari ST ($39.95). Circle Reader Service # 8.
+
+Strategic Studies Group
+1747 Orleans Ct.
+Walnut Creek, CA 94598
+FIRE KING: A magical beast and its
+evil hordes have descended upon the
+land, killing the Fire Lord and holing up
+in the catacombs below the city. The
+mayor has elected you to confront the
+beast and restore order to the land. One
+
+cade hit to the PC market. In this one,
+players pilot their P-40 fighter through a
+host of enemy units including fighters,
+tanks, and battleships, in an attempt to
+rescue POW's from a highly guarded
+enemy base. A joystick jockey's delight!
+IBM (pictured) ($34.95) & C-64
+($29.95). Circle Reader Service #12.
+
+Conversions Received
+Action Fighter (Mindscape) ST
+Baal (Psygnosis) Amiga
+Bubble Bobble (Taito) Amiga, ST
+Deja Vu II (Mindscape) Amiga, JIGS
+The Duel (Accolade) C-64
+The Games (Epyx) ST
+Gauntlet (Mindscape) Mac
+World Karate Championship (Epyx)
+ST, C-64
+Mind Roll (Epyx) Amiga
+Modem Wars (EA) IBM
+Operation Wolf (Taito) Amiga
+Renegade (Taito) IBM, Amiga, ST
+Steel Thunder (Accolade) IBM
+Tangled Tales (Origin) C-64
+Where in World is Carmen San Diego
+(Broderbund) Amiga
+Where in USA is Carmen San Diego
+(Broderbund) Mac
+
+Review
+
+Initial Approach
+TRACON (Terminal
+Radar Approach
+CONtrol) is a detailed
+simulation of the world
+of air traffic control.
+There have been
+numerous other air traffic control products;
+most noticeably,
+MicroProse's Kennedy
+Approach (1985). However, that product was
+much more of a game,
+while Tracon is a very
+detailed and complex
+simulation, which could
+well be used as a training tool by actual traffic
+controllers.
+
+Can You Handle
+the
+Stress?
+
+In February of 1989,
+
+Wesson International
+released Version 1.5,
+which allows actual voice
+communication and a
+corrected compass heading (see Game Play). In
+addition, three (3)
+scenario disks have been
+released (Western,
+Central and Eastern
+United States), each
+having an additional
+eight (8) airports. Pricing
+for the sector disks is
+$19.95 for one, $32.95
+for two, and $39.95 for
+all three.
+
+Air Traffic
+Controller School
+(Documentation)
+The documentation is very complete and professionally executed. As a learning device, a tutorial tape is included which
+gives the player a basic understanding of his role. While one's
+first impression may be intimidation/terror, the program is relatively easy to learn. In fact, a one-page "Quick Reference Command"
+is sufficient for initial play.
+A READ.ME file is included on both master and scenario disks,
+and should be printed out before play. This gives needed information and a quick reference as to the heading and altitude approaches for the various airports.
+Perhaps the documentation's only real failing is that it does not
+disclose how much traffic would actually occur at different times
+in the various airspace boundaries. This would have allowed the
+player to gauge his progress against reality.
+
+Radar Display (Graphics)
+The graphics of Tracon are well done. Different airports and
+numerous center hand-off points are displayed, while the aircraft
+themselves are easily discernible. The playing screen resembles
+an actual radar screen, and with the voice-actuated commands,
+one can readily enter this "simulation world". Help-keys are easily
+accessible, and one should often use Alt-M (display map references) and Alt-F (display flight paths) in order to maximize performance. If the situation is static, the Fl 0 key will "accelerate" time.
+
+A Detailed Air
+Traffic Control
+Simulation
+
+In addition, the "+" key
+zooms perspective up to
+4X, while the "-" key
+reverses this process.
+Such zooming is essential for vectoring aircraft
+into an accurate final approach; just insure that
+one does not ignore the
+rest of the "world" while
+concentrating on a
+single plane.
+
+No Ivory Tower
+(Game Play)
+
+Game play is a misnomer; Tracon emphasizes simulation play.
+Review by M. Evan Brooks
+This is a valid distinction,
+because the product is
+so accurate. In turn, this
+accounts for possible
+criticism as a "game."
+There are certain occupations which seem fascinating to the outsider,
+but the reality yields little
+long-term enjoyment.
+For example, a blackjack
+dealer at a casino would
+seem to be an interesting job; but would you
+really like to deal cards
+TITLE:
+Tracon
+eight hours a day to a
+SYSTEM:
+IBM (CCA minimum);
+(a Mac version is scheduled)
+crowd of somewhat
+SYSTEM REVIEWED ON:IBM 386 (VGA)
+obstreperous tourists?
+PRICE:
+$49.95
+Similarly, air traffic conWesson International
+PUBLISHER:
+1439 Circle Ridge
+trollers stare at a radar
+Austin, TX 78746
+screen for eight hours a
+(512) 328-0100
+day and the slightest miscalculation on their part
+could result in massive tragedy (or even a mass firing, as PATCO
+discovered to their dismay). The "burn-out" and suicide rates for
+traffic controllers is dismally high, and their beverage of choice
+would seem to be Maalox. Tracon yields a fascinating picture,
+however. Small doses of this occupational madness can be accepted with alacrity and eagerness.
+Although the simulation may be played via keyboard, use of the
+mouse and keyboard are strongly recommended. As planes appear on the screen, one must vector them into proper approaches: overflights are the easiest to handle, since one simply
+hands them off to the next center at the proper time; take-offs
+should be carefully watched to insure no "traffic jams" develop,
+while landings offer the most challenge. One must have the
+plane descend to the proper altitude and enter the proper flight
+path; even if one does everything right, "lousy" pilots miss their
+approaches 50% of the time.
+If a landing is botched, have the plane climb to an altitude at
+least 1000 feet higher than other planes vectoring into the final
+approach and circle around, being last on the incoming traffic.
+At the same time, insure proper separation and clearance from
+other flights. A separation conflict (3 mi/1000') may easily lead to
+a near miss (1 mi/1000') or to a crash; the latter will disclose how
+many innocent individuals one has killed, terminate his employment as a controller, erase his previous records, and dump one
+(Continued on page 47)
+
+Survey
+
+The CGW Test Lab
+
+W
+
+The Gamer's
+Guide to
+Joysticks
+
+hat do you look for in a joystick? Do you want one that
+s easy to hold or one that fires fast? Do you prefer one
+that has plenty of tension in the stick action or one that
+offers more "give"? At CGW, we noticed that very few hardware
+reviewers write about how the hardware affects game play, so we
+decided to try some experiments. We tested several joysticks for
+their performance in "rapid fire" mode and raced against the
+clock (and each other) to check their performance in terms of
+left/right and up/down response. Our results are described in this
+article.
+Ergonomics: Gamers who play arcade-style games or action/simulations for hours are concerned about comfort. Epyx
+was the original leader in this field with their Epyx 500XJ joystick
+that conformed to the human hand. Mindscape followed suit by
+designing the Power Player's Joystick with a handle which can
+easily be held like an ice cream cone. These solved part of the
+problem, but they were still made out of hard plastic. Wico's
+Ergostick went several steps further and now offers a shape
+which is pleasantly conformable to the human hand, a soft pliable material that is easy to hand onto, and fire buttons placed
+conveniently at the bottom of the controller. For those who
+prefer a more stable base on their joysticks, the controllers from
+Advanced Gravis offer a very wide base out of hard plastic, but
+they also offer a foam-padded stick/grip. The Kraft and SunCom
+controllers have a traditional base and stick.
+Rapid Fire: Most arcade-style games require shooting. Since
+most of these games have no ammunition limitations, players will
+normally perform better by using continuous fire. We wondered if
+there was any difference in the rate of fire between different
+models of joysticks. On the Commodore 64/128, we used Taito's
+Sky Shark to test rapid fire (Note that these joysticks are compatible with Amiga and Atari ST, as well.). Each controller was
+tested multiple times with the same technician operating the fire
+
+button. During the test, we noticed a potential drawback to the
+Advanced Gravis controller when used on these machines.
+When in rapid fire mode, the stick will not allow the player's onscreen character (in this case, the airplane) to move backward.
+Joystick
+Bullets per 10 Seconds
+Advanced Gravis:
+46
+Epyx:
+48
+Mindscape Power Players
+47
+SunCom Tac5:
+49
+We repeated the tests on the IBM using the same software.
+None of the joysticks offered a true continuous fire mode on this
+product, but when the operator fired as fast as possible, the following results were collated:
+54
+Advanced Gravis:
+Wico Ergostick:
+42
+40
+Kraft KC3:
+On the Apple IIGS, we used Data East's Ikari Warriors to test
+the rapid fire capabilities of the joysticks. The Kraft functioned
+equivalent to its performance on the IBM compatibles, but the
+Wico suffered on the Apple.
+Kraft KC3:
+39
+Wico Ergostick:
+37
+Movement Response: Sometimes, games require fast left/right
+and up/down movement in order to cause the on-screen character to move faster. We tested the same joysticks for this response
+by using the "Velodrome Cycling" event from Epyx's The
+Games:Summer Edition. Each joystick was tested in both controller ports against all of the competing hardware.
+The SunCom Tac5 won every heat, no matter which operator
+was using it. Although the left/right and up/down response on
+this controller feels sloppy, it actually offers a very short stroke at
+the base when moving between the contacts. The other joysticks
+are presented in the order of their finish in this competition:
+Epyx 500XJ
+Mindscape Power Player's Joystick,
+and Advanced Gravis Joystick.
+On the IBM, we used the portion of Mindscape's Combat
+Course where the soldier crawls under the wire to test this
+response. The Advanced Gravis performed best in this test,
+probably because it allows users to adjust the handle tension to
+any of eight settings. We used it at the highest tension setting.
+The Kraft KC3 also performed well on this test, leaving the Wico
+Ergostick behind.
+
+1
+
+Sneak Preview
+
+S
+
+can Connery is
+the man in the
+gray suit. He is
+also the link to both
+myth and mystery in
+both the film and
+graphic adventure, Indiana Jones and the
+Last Crusade. Imagine the humor of
+Zak McCracken and
+the Alien
+Mindbenders, an expanded interface
+beyond Maniac Mansion, a plot with more
+puzzles and possibilities than the
+latest and final Indiana Jones film, and
+EGA graphics that are
+better than either
+Maniac Mansion or
+Zak McCracken. If
+such a game can be
+imagined, one has a
+very good idea of Indiana Jones and the
+Last Crusade.
+
+' Also, the designers
+added a "What is . . ."
+command which can
+be clicked on an item
+to determine what objects are "active" in a
+given scene. That
+should speed up play
+over the previous
+games. Distinctive
+from the earlier
+graphic adventures, Indiana Jones and the
+I .a.st Crusade offers
+more commands and
+special-case animation so that characters
+actually perform onscreen the actions
+that the player commands them to do.
+More importantly, in
+order to make a game
+out of a film, there
+are multiple solutions
+at various junctures in
+the game. One can
+usually be successful
+by imitating Indy's actions in the film, but
+there are more complex possibilities that
+can earn higher
+scores. Many players will want to play the
+game several times to try out all of the
+options.
+
+The Man in the
+Grail Flannel Suit:
+
+Indiana Jones and the Mything Link
+
+A Sne, Preview of Indiana Jones
+and the Last Crusade
+
+Those who have
+seen the film are already aware that Sean
+Connery plays Henry Jones (Indiana's
+father, as well as a scholar who has made
+it his life's calling to find the Holy Grail).
+As a seeker of the Holy Grail, he serves
+as the link between Indy and the myth of
+the grail. For
+those who are unaware, the "Holy
+Grail" was, allegedly, the cup which
+Jesus used for the
+wine (which symbolized His blood)
+in the Last Supper. Since the
+Bible itself does
+not harbor any
+specific traditions
+concerning the
+grail, the story is
+easily susceptible
+to imaginative
+speculation. According to tradition, the
+cup was later used
+to collect the spilled blood of Jesus at the
+cross and was kept as an artifact of
+power until it was recovered during the
+First Crusade and carried off to England.
+From that point, the grail became intertwined with the Arthurian Legend.
+Lucasfilm's movie and the graphic adventure based on it wisely eschew the Arthurian entanglements and build upon a
+new story about what happened to the
+grail. The movie uses the concept of a
+
+"Grail Diary" which was painstakingly kept
+by Connery's character over a period of
+years to advance the "mythos" surrounding the grail. The game fleshes out the
+movie property with a sixty page version
+
+of the "Grail Diary" which cross-references
+hints and advances the plot in both an
+on-line and off-line version. In addition to
+the obvious purpose of providing copy
+protection, there is a reason within the
+plot for having the diary both on-screen
+and in hard copy format.
+The familiar Lucasfilm interface has
+changed in several ways. Similar to
+Maniac Mansion, players can shift command to more than one protagonist.
+
+The game recognizes that there are two
+distinct appeals to
+the Indiana Jones
+persona and
+players will want
+to utilize both of
+them. The game
+offers players a
+reasonable
+chance to "talk"
+their way out of
+various encounters. The adventure utilizes a
+dialogue/menu
+driven conversational approach
+analogous to
+Cinemaware's Sinbad and the Throne
+of the Falcon or
+Interplay's Neuromancer with their conversation balloon interface. In "Indy," however, there are no balloons, just a selection of potential repartee from a menu. It
+works, though. The other appeal is to action and the player has the option of commanding Indy to punch his way through
+a given situation in kind of a revised
+Rocket Ranger fist fight. Recognizing that
+most players will simply use a keyboard in
+(Continued on page 22)
+
+Review
+
+MacArthur's War is the umpteenth release from SSG
+using their "Battlefront system". Well, maybe
+umpteen is a bit of an exaggeration, but
+MacArthur's War does follow the footsteps of four prior
+releases designed around the same system (Battlefront, Battles In Normandy, Halls of Montezuma and Rommel). Even
+though the Battlefront system is now three years old, with
+only minor modifications having been made through the
+series of releases, it has held up well. The game system is
+designed to place the players in the role of a Corps commander in an operational-level simulation of a battle or
+series of engagements (of up to twenty-five days in length).
+As usual with all SSG games, there is a set of editing subroutines which allow players to modify the existing scenarios
+or design their own from scratch. This scenario design
+capability is completely open-ended; one can create units in
+any of fourteen categories and change combat strengths,
+movement capabilities, experience levels, and all other operational parameters. Scenarios can include any map one
+chooses to design and there is also a graphics editor which
+allows creation or modification of the terrain icons on the
+screen (make your "hill" hexes look more like real hills if you
+want). As usual with games in the Battlefront family, purchasing any one gives you the freedom to design limitless
+scenarios on any modern combat situation.
+With the availability of such freedom to "design your own",
+why do people buy more than one entry from the Battlefront
+series? Here we get to the true differentiation between the
+games which have been released - the predesigned
+scenarios included in each. MacArthur's War includes eight
+scenarios from the Korean War, and although one could
+have theoretically created them all by looking up enough
+source material and using the scenario design utility, there is
+no doubt that few players could have produced such well-researched designs.
+The names of the scenarios will likely not be familiar unless
+one is a devotee of the topic; "Across the 38th", Taejon, Naktong Bulge, Unsan, Chongchon, Chosin Reservoir,
+Chipyong, and Imjin. They do, however, represent a good
+cross section of the actions occurring from the start of hostilities in June, 1950, through spring of 1951. Notably lacking from the selection is a scenario on the Inchon landings.
+Unfortunately, this scenario was already presented in the
+prior SSG release, Halls of Montezuma (along with another
+scenario on the Pusan perimeter), so players who really want
+to play out this battle are faced with purchase of another
+game (I would much rather have seen the Inchon scenario
+included as a "bonus" ninth scenario in MacArthur's War).
+If there is any tarnish on the spit-shine of MacArthur's War,
+it is a certain "sameness" about the scenarios which is inevitably dictated by the nature of the conflict. Let me briefly
+describe several of the scenarios. "Across the 38th": hordes
+of NKPA troops roll over untrained ROK forces. Taejon: Task
+Force Smith attempts to delay and withdraw before a horde
+of NKPA troops. Naktong Bulge: a small force of well-supported Marines tries to dislodge a horde of NKPA troops
+from Obong-ni ridge. Unsan: II Corps of the ROK gets
+chopped up by a horde of Chinese troops while hoping the
+1st Cavalry arrives. Chosin Reservoir: a small force of Marines
+holds defensive positions against hordes (and here I mean
+real HORDES) of Chinese troops. Chipyong: the U.S. 2nd
+Division holds out against hordes of Chinese and NKPA
+troops, hoping for relief from 5th Cavalry. You get the idea!
+Of course, most of the battles during this period did proceed
+along those lines; the vast numbers employed by NKPA and
+PRoC forces were the one constant factor in Korea.
+MacArthur's War uses the Battlefront system with its latest
+
+Unparalleled
+Conflict
+SSG's "MacArthur's War"
+By Jay C. Selover
+set of refinements (virtually unchanged from Rommel). The
+system uses four turns per day
+(three day turns and one night
+turn) and scales from 500m to
+8km per hex to simulate Corps
+level actions. In MacArthur's
+War, these actions involve
+U.N., U.S., and South Korean
+(ROK) troops on one side, and
+North Korean (NKPA) and
+Chinese (PRoC) troops on the
+other.
+The system sets up the player
+as a Corps commander with up
+to three divisions under his
+command. Each division can
+consist of up to four regiments
+plus four independently attachable battalions (each regiment
+itself is composed of up to four inMacArthur's War:
+TITLE:
+dividual battalions). Even though
+Battles for Korea,
+June
+1950-April 1951
+the system uses battalions as the
+SYSTEMS:
+Apple II, C-64/128
+units of maneuver, the player can# PLAYERS:
+1-2
+not directly control their
+$40.00
+PRICE:
+DESIGNERS:
+Roger
+Keating,
+maneuvers. Rather, the player isDan Antolec, and Ian Trout
+sues commands to divisions and
+Strategic Studies Croup
+PUBLISHER:
+Walnut Creek, CA
+regiments which are then interpreted and acted upon by subordinates (whose role is filled by the computer), resulting in the
+actual movement and combat of units on the map.
+As in the previous releases, the system places significant importance on factors such as supply, fatigue, and regimental
+cohesion; items which the player need not worry about administering, but which must be considered when deciding
+which troops to commit to battle and which are in need of
+rest. Such diverse factors as realistic air support, weather effects, experience levels,
+and leadership effects
+make the system quite
+capable of simulating combat on an operational level.
+Despite the tremendous
+sweep of the maneuvers
+during the first year, Korea
+has never been a "pretty"
+war and has always been
+seriously under-represented in wargaming. This
+alone makes MacArthur's War almost a "must". That the
+game is a darn good simulation, is easy to learn, and gives
+you a real feeling for the capabilities and operational limitations of both sides is just an added bonus.
+
+Summer C.E.S.
+
+(Continued from page 4)
+
+sion among team
+members, and
+climaxed with an intense 10 minute firstperson battle experience in the cockpit). Each cockpit has
+about $27,000 worth
+of hardware tied up in
+three proprietary computers plus one
+Amiga system to run
+the display screens in
+a full 256 color
+palette. The game surrounds the player in a
+sophisticated version
+of Activision's MechWarrior game.
+FASA/ESP Corp.
+hopes to place 170
+Battletech Centers
+across the country.
+The product has already been licensed
+for distribution in
+Japan.
+
+"I Can See Clearly Now"
+(Graphics)
+On the Amiga front, Taito began
+releasing its personal computer versions
+of coin-op games with actual graphic files
+from the arcade versions. Now, Melbourne House is guaranteeing identical
+Amiga versions to several of their coinop hits. These games will require a
+megabyte of RAM, but can accomplish
+the feat because the coin-op games were
+built for their sister company, Arcadia
+Systems, to run on Amiga boards
+within the coin-op cabinets. By the end
+of summer, Rick Davis's World Trophy
+Soccer and Magic Johnson's Basketball
+(similar to the recently released Magic
+Johnson's Fast Break Basketball) will be
+released.
+On the IBM PC and compatible front,
+the industry is moving toward heavy use
+of VGA graphics. Data East's ABC Monday Plight Football license,
+Broderbund's Wolf Pack (WWII Submarine Simulation), Accolade's Conspiracy, Sublogic's UFO, and
+Mindscape's Star Trek V: The Final Fron
+tier all utilize beautiful VGA graphics (see
+page 32 for other VGA products). Most
+companies are still backwardly compatible with CGA being the lowest common denominator (Hercules
+Monochrome in other cases), but VGA is
+rapidly becoming the high end in entertainment graphics.
+Another graphics trend seen at the
+show is the use of digitized images or live
+models. Activision contracted for permis-
+
+well. Strategic
+Simulations, Inc. is
+busily preparing
+Curse of the Azure
+Bonds, a CRPG sequel to the novel
+(Azure Bonds) and
+the pen-and-paper
+module based on the
+novel. The game adds
+the Paladin and
+Ranger classes and allows characters to be
+transferred from Pool
+of Radiance and/or
+Hillsfar. By the year's
+end, SSI will add
+David Landrey's War
+of the Lance (a fantasy wargame set in
+the Dragonlance
+world), Sword of
+Aragon (a fantasy wargame with role-playing flavor), and
+Dragons of Flame (an
+action game from
+U.S. Gold, but not
+Heroes of the Lance II).
+sion to digitize images from the film in
+their Die Hard and Ghostbusters II action
+games, Accolade used over 500 digitized
+images for their Conspiracy: The Deadlock Files espionage adventure, and
+Dynamix used live models, props, makeup, etc. to set up their unique look for
+the story portion of David Wolf—Secret
+Agent. The combat sequences in
+Origin's Windwalker (Moebius II) are
+based on work with live models and
+some of the static faces are digitized versions of faces from ancient papyri.
+
+Good Vibrations (Sound)
+Owners of PC Compatibles will be
+thrilled to know that there is considerable
+support for several sound formats. Almost every publisher we spoke to was
+supporting the Ad Lib board and Covox
+Sound Machine. In addition, many companies were supporting the Innovation
+board and most top line products supported the Roland MT-32. Several
+programmers stated that they wanted to
+support "every board out there," but that
+it was not always practical. Access
+Software has developed a remarkable
+software process, Real Sound, which is
+very effective on several compatibles
+(depending on speaker placement), but
+almost doubles the code required on the
+downside.
+
+License to Sell
+Licensed products continue to be
+popular. Activision has a first-person
+military simulation from FASA's BattleTech system, entitled Mech Warrior and
+involving some strategic planning, as
+
+Film and television licenses continue to
+abound. In addition to Mindscape's Star
+Trek V The Final Frontier (an adventure
+game with action sequences), Taito has
+developed Rambo III (an action game
+similar to Gauntlet in the first two missions and a tank game in the third, but
+with more puzzles to be solved than their
+previous games); Broderbund is marketing Domark's Licence To Kill (an arcade
+game with six levels; Activision has Die
+Hard and Ghostbusters II (heavy action
+emphasis in both); Microillusions has
+successfully duplicated the feel of the
+Hanna-Barbara cartoon shows with
+Scooby Doo (four adventures with
+graphics and interface reminiscent of
+Maniac Mansion, Jonny Quest (a linear
+adventure game using a series of miniquests), and Flintstones (an interactive
+cartoon with large characters that look actual size); Lucasfilm was demonstrating
+Indiana Jones and the Last Crusade in
+both its graphic adventure (see Sneak
+Preview on pages 16 and 22) and action
+game formats; and Intracorp has
+prepared Superman and Miami Vice
+(both with eight levels of arcade action)
+for mid-summer release on the Atari ST.
+Cinemaware isn't working from a
+license, but their '50s era "B" horror flick
+adventure It Came From Out Of The
+Desert is somewhat a parody of the "B"
+movies of that time, particularly "Them"
+and "Invaders From Mars". Ken Melville, a
+professional screenwriter, wrote the
+"screenplay" for the game. His effort
+shows (Good plot & subplots).
+Book licenses can also be popular. In-
+
+terplay will ship the IBM and Amiga versions of William Gibson's Nebula awardwinning Neuromancer this summer and
+Intracorp says they have inked a pact for
+computer game rights to Tom Clancy's
+Cardinal of the Kremlin. Brand-name
+licenses seem strong, as well. Spectrum
+Holobyte should have Vette! ready by
+Fall. Vette! is a 3-D driving game where
+players race a Corvette through the busy
+(and extremely detailed) streets of San
+Francisco. Mindscape licensed the Harley Davidson brand for Harley Davidson: The Road to Sturgis. Our sources
+tell us that the "Harley" folks' image of
+themselves is not equivalent to that of
+popular culture. Some of the sequences
+in this action game with an adventure
+wrapping were taken from actual events
+at biker rallies, but had to be changed because the "Harley" folks didn't like the
+image.
+
+"Back In Time"
+As usual, adventure games figure
+prominently in the mix of products which
+were shown (or discussed). Three games
+currently under development involve time
+travel: Broderbund's Where In Time Is
+Carmen Sandiego?, Activision's Time
+Raft, and Interplay's Mean Time (not
+shown). Three games involve the Arthurian legend: Sierra's Conquests of
+Camelot (from scriptwriter Christy Marx of
+Teenage Mutant Ninja Turtles fame),
+Spirit of Excalibur from Melbourne
+House (the same basic interface and
+graphics from War In Middle Earth, but
+with more depth promised), and
+Infocom's Arthur: The Quest for Excalibur (using the Journey style).
+Other adventure games to surface in
+the next six months include: Avalon
+Hill's Legends of the Lost Realms (a
+CRPG on the Mac in which players travel
+through an 84 level maze to recover five
+missing magician kings); Broderbund
+hopes to release Dark Heart of Uukrul
+and Michael Cranford's Centauri Alliance
+before the end of the year; Kyodai will
+ship the action/adventure Ancient Lands
+of Ys with its 100 hours of gameplay by
+Fall and has a PG-Rated mystery game
+called Murder Club (which combines
+graphics and text elements) which should
+release very soon; Interplay plans to capture the Apple II with 128K market with
+their hi-res graphic CRPG which utilizes a
+combat system similar to Champions and
+250 off-line paragraphs similar to Wasteland, Dragon Wars; Accolade will ship
+The Third Courier (an espionage game
+by Ivan and Carol Manley which develops
+character attributes by creating a character history) and Don't Go Alone (a contemporary horror adventure where characters cannot die, but can go crazy and
+scientific formulae are used instead of
+
+spells); Origin's Knights of Legend is
+potentially the deepest CRPG we have
+seen to date (even competitors noted
+this) and their Space Rogue tries to hit
+both the flight simulator market (the
+designer worked with Ned Lerner of
+Chuck Yeager's Advanced Flight Trainer
+fame at an earlier point) and science fiction fans; and Epyx has adapted Robert
+Moranes, a French super spy game, into
+Project Neptune (called Undersea Commando).
+Perhaps the most unique adventure
+game we saw was Lucasfilm's Loom.
+Brian Moriarity, designer of Trinity and
+Beyond Zork for Infocom, has developed
+a game with a musical interface,
+philosophical storyline, imaginative environment, intriguing mythos, and
+fabulous graphics by Mark Ferrari (fantasy artist who executed many of the
+Cthulhu materials for Chaosium). The
+radio play, which is packaged with the
+game and introduces the game's story
+and universe, is fabulous.
+
+Overbooked
+Of course, one never counts on the
+flight being overbooked. Not only was
+
+our return flight to Orange County overbooked, but so was this issue of CGW.
+So, next issue we will continue our Consumer Electronics Show coverage with
+notes on Sports and Military Simulations.
+
+(Continued from page 16)
+
+Indiana Jones and
+the Last Crusade
+the action sequences, the designers have optimized all the action
+interfaces for the keyboard.
+Perhaps, it is most significant that players have a chance of winning the game with a rating even more efficient than Indy's actions in the movie script. Some will wonder how there even is a
+game in a product based on a movie script. The designers admit
+that about 80% of the plot elements from the film are in the
+game, but note that only about 20% of the puzzle elements in
+the game came directly from the movie. The Games Division
+believes that there are actually better endings than the one utilized the movie script and the project team feels that the game allows a better chance of attaining those optimal endings. In fact,
+the designers suggest that players will be able to get a higher
+score by solving the mental puzzles placed throughout the game.
+The graphics to this game are an improvement over previous
+graphic adventures from Lucasfilm. Both Indiana Jones and the
+Last Crusade and Loom (a fantasy role playing adventure from
+Brian Moriarity to be released in the Fall) utilized hi-resolution
+graphics on the IBM for the first time in a Lucasfilm graphic adventure. The graphics use a 16 color EGA palette, but the
+dithered effect used by the artist offers a feeling that there are
+more colors utilized. Further, the three-dimensional oblique overhead view utilized in the catacombs is magnificent. The character
+icon meanders through the tombs and the screen is dark except
+for the small portion of the oblique-view screen which lights up in
+proportion to the light from Indy's flashlight. The effect is very effective, as is the top-down view of Castle Brunwaldt's interior.
+The game play, except for the endgame, flows at a leisurely
+pace with nice humor (Don't miss the plaques and books in the
+ancient library!) and intriguing puzzles. We liked the puzzle which
+used a combination of three statues much like a Rubik's Cube in
+order to open a passageway. We also liked the humor surrounding the puzzle in the Berlin Airport.
+The endgame, with its climactic scenes in the Grail Temple, utilizes time constraints with no possible saves. This simulates Indy's
+dilemma in the film and does it effectively.
+It is interesting to note that on at least one occasion the game
+includes a scene that was edited out of the movie. When, on the
+Zeppelin, Indy says to his father, "I didn't think they would fix the
+radio so soon", the scene to which Indy refers, (his "destruction"
+of the radio), was removed from the film. Only players of the Indy
+computer game get to see this scene.
+Indiana Jones and the Last Crusade is a project which offered
+significant risk to Lucasfilm. Previous games based on films, with
+the possible exceptions of The Three Stooges, Who Framed
+Roger Rabbit? and Aliens, have experienced significant sales resistance because they did not advance the motion picture experience. If ever a company tried to move beyond the movie itself
+and add to the enjoyment of both film and game, however,
+Indiana Jones and the Last Crusade certainly has.
+
+Game Ratings Chart
+
+The Categories
+Strategy (ST): Games that
+emphasize strategic planning
+and problem solving.
+Simulation (SI): Games based
+on first person perspectives of
+real world environments.
+Adventure (AD): Games that
+allow you to take your alter
+ego through a storyline or
+series of events.
+Role-Playing Adventures
+(RP): Adventure games that
+are based on character
+development (usually
+involving attributes).
+Wargames (WG): Simulations
+of historical or futuristic warfare
+from a command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+
+Be it known to all gentle persons that the named games on
+these rolls have been well spoken of by our readers over a
+goodly period of time. Therefore they have been enshrined
+in the CGW Hall of Fame as games of renown
+and worthy of play by all
+
+Review
+
+A
+
+s I crawled through the window and prepared to launch
+an assault on my opponent's
+back, the only sound to be heard
+was my own heartbeat and the distant clicking of my computer keys. /
+slipped quietly around the corner,
+slinking cat-like until / spotted his
+unsuspecting figure silhouetted
+against the window. There he was,
+a brightly illuminated
+upper case letter. I
+opened up with my
+semi-automatic rifle and
+the enemy fell backward, an obscene fountain of crimson gushing
+from his chest. His letter
+was reduced to lower
+case and its luminosity
+faded. My radio
+crackled as a hostile
+message assaulted my
+ears. The screen printed,
+"RA3: Sneaky dog!" A torrent of verbiage escaped
+me in response. I rapidly
+typed "/RA 3 Turn about,
+you know, fair play!" The
+radio crackled again,
+"RA3: What would you
+know about fair play?"
+printed on my monitor
+screen and brought a
+chuckle to my throat.
+
+Players type in commands for their
+men using "/xx" commands like /MO
+for "Move," /SI for "Sight," /FI for
+"Fire," and /EV for "Evade." The object of the game is usually to survive
+while wreaking havoc upon the
+enemy. In "Patrol" scenarios, one
+must have his men touch the
+opponent's baseline (Victory Point
+by Johnny L. Wilson
+Area) and return to his own
+baseline without being
+destroyed. In "Infiltrate"
+scenarios, one squad
+tries to get past the
+enemy's baseline, while
+the other tries to stop
+him. Naturally, one
+wants to "waste" as
+many of his opponents
+as possible while keeping his own casualties to
+a minimum.
+The program determines line of sight (LOS)
+and does not allow the
+opposing player's men
+to appear on the screen
+until they are visible to
+one's own men. Even
+though the terrain is
+marked by ASCII characters, players will learn
+how to use stone walls
+(o), exterior walls (#),
+TITLE:
+Sniper!
+hedges (n) and rough areas (@ and &) to their
+SYSTEMS:
+Compuserve Information Network
+Sniper!, Compuserve's telecommunications
+advantage. These terrain features not only af# PLAYERS:
+1-2
+version of the popular TSR board game (manfect LOS, but they also affect the potential for
+PRICE:
+$12.50 per hr. 1200-2400 baud;
+$6 per hr. - 300 baud
+to-man combat in World War II), does not
+hitting and causing damage. Some of the
+DESIGNER:
+Steve Estvanik
+seem, at first glance, like it would be as intermore experienced players on the system (D.J.
+PUBLISHER:
+Compuserve
+esting or addictive as it actually is. Initially, the
+II and Leinafets, for example, watch out for
+Columbus, OH
+use of text characters to simulate a game map
+them) actually play solo games in which they
+and counters caused me to feel like I was playing a public
+switch sides back and forth in order to scout machine gun posidomain version of a board game translated to the computer.
+tions and potential sites for ambushing opponents.
+Once I started to play, however, I discovered a new universe of
+Although the game is addictive, challenging, and stimulating as
+gaming. Since, in Sniper, players compete against what Dan Bunit now stands, one of the best points to on-line games is that
+ten calls the "Real I" (human intelligence), as opposed to "Al" (arthey can be revised without having to send an update to every
+tificial intelligence), there are plenty of surprises. Since the
+player. Once the software at the mainframe is updated, everyone
+mainframe computer back in Columbus handles the "stack" of orplays the new version.
+ders, there is seldom any lag time, players are almost constantly
+entering commands. Because of the way the mainframe handles
+Here are a few of the changes which this reviewer would like to
+the "stack," there is no real advantage for users at higher baud
+see implemented. First, since the game is keyboard driven, it
+rates over the lower baud users (this problem occurs in Islands of
+would be nice to have a "Repeat last action" macro. This could
+Kesmai and other telegames from time to time). Further, since
+save lots of keystrokes. Second, it would be nice to order units to
+the "/RAdio" command allows players to communicate with each
+fire immediately upon sighting the enemy. The problem is that
+other, there is a camaraderie that develops (especially among
+once soldier #6 sights one or more active enemy units, a
+regular opponents). Indeed, some players will use the "/REcon"
+separate /DS ("Display Sighting") command must be typed in
+command to scout prospective opponents by observing a game
+before one can know where the potential target actually is. Third,
+prior to playing them and several players will "debrief' at "Steve's
+it would be very helpful if players could define macros for the
+Saloon and Salad Bar" (the meeting area for the game) to dismost used commands ("Move," "Sprint," "Sight," and "Fire") rather
+cuss tactics, dispense congratulations, or fling insults after the
+than having to input the three keystrokes plus unit number plus
+games.
+direction each and every time an order to given.
+In addition, the intensity of each game is enhanced by the fact
+that players earn rank points for each mission they play and
+Sniper! on Compuserve is a fascinating social experience and
+these points apply toward a promotion. Whenever a player enters
+stimulating competition. It has certainly changed this reviewer's
+the "saloon," he is identified by rank. This makes it simple to find
+mind about "real-time" games (I used to hate them!). Now, inan opponent at roughly the same skill level as oneself. It also ofstead of being a quiche-eater (see CGW #56, p. 35), I'm ready to
+fers an incentive to play well (and play often). The most effective
+take command on a "real-time" battlefield. Now, where's that
+players are listed in an on-line Hall of Fame which further inModem Player's Challenge Guide (An On-Line Directory of Opcreases the incentive to perform well.
+ponents for Telegamers provided by Compuserve)?
+
+Sniper!
+
+Telecommuting to War
+
+Review
+
+Buddy Knight is a 1981 graduate of
+the U.S. Naval Academy, Annapolis, MD. As a reserve naval officer, he is currently employed as a
+weapons systems quality/reliability
+assurance engineer for a major
+defense contractor. He disclaims
+any use of classified U.S. documents in preparation of this review.
+
+B
+
+reathing hard, you peer
+over the rubble in front of
+
+depressions in the ground, which
+can slow you down at the most inopportune time.
+
+Command and Control
+As in the real world, plans rarely
+survive first contact with the
+enemy intact. However, it is
+paramount that the commander
+have a firm idea of how he is to
+employ his forces so as to maximize the use of the (relatively) few
+orders available. Complicating this
+is the fact that, while all units
+have radios, they can randomly be
+made "Out of Command/Control",
+simulating the effects of enemy
+jamming and the fact that things and people
+just get confused at times.
+
+Strategic Simulations'
+Simulation of Modern Warfare
+
+you toward the opposing
+hill. The shelling has finally
+stopped, and the sound of enemy
+armor is getting louder. Your own artillery's
+counterbattery fire sails overhead, piercing the
+sky with a sound like ripping silk.
+
+By Buddy Knight
+
+Just as losing your head can have a disastrous
+personal effect on you, losing an HQ can result
+in turning the tide of a battle. When a formation HQ is destroyed, all units in that formation
+are transferred to computer control for the
+remainder of the scenario. Then, they execute
+orders according to the computer's battle plan,
+not yours. For this reason, it is wise to protect
+you HQ's. Should an HQ which also has subordinate HQ's under it be destroyed ALL of the
+subordinate HQ's will be out of command/control, although their subordinates will not be affected. This prevents the subordinate formations from utilizing the All-Units mode.
+
+Suddenly, the tanks and APC's appear from
+the trees, racing toward you and your men.
+Grabbing the radio microphone, you lean
+against the muddy wall of your foxhole and
+order the anti-tank units to fire while your
+second-in-command calls in the assault helos.
+
+The Battle Begins!
+The scene described above could have occurred in any of the world's trouble spots of the
+past couple of decades or might yet happen in
+the Europe or Mid-East of the 1990's. Now, wargamers can try their own hand at a modern
+land warfare simulation fought at battalion/regimental-level. In Overrun!, players experience the fine art of command and control.
+The game system itself is derived from the Panzer Strike/Typhoon of Steel system, with
+modifications made due to the technological adTITLE:
+vances of the past 50 years. Additions include
+SYSTEMS:
+helicopters, reactive armor, HEAT vs. Kinetic Ener# PLAYERS:
+PRICE:
+gy weapons, thermal sights, and non-line of sight
+DESIGNER:
+weaponry. Forces are available from the U.S., the
+PUBLISHER:
+U.K., France, West Germany, Israel, Iraq, Iran, the
+Arab states, the Warsaw Pact, and the Soviet
+Union. Combat may be simulated for the '56, '67,
+'73, and later Arab-Israeli conflicts as well as near-future
+European conflict. With some effort, almost any land battle in the
+past 35 years, either real or hypothetical, can be simulated. The
+game, which comes with a disk for each theater of operations
+(Europe and the Middle East), is a feast of detail and delight for
+raw recruits to wargames and veteran garners alike.
+The game scale is small, with each icon representing either a
+single vehicle or a single squad/team and each turn representing
+one minute of combat. The units available are varied and
+numerous. SSI has resisted the temptation of loading the game
+up with only the latest and greatest in killing machines. Each
+side, whether Red or Blue, has an assortment of platforms and
+weapons ranging from WWII holdovers to those being fielded in
+the next few years.
+The battlefield is represented by a map consisting of up to 3600
+squares in a 40 x 90 layout. This grid of squares, each of which
+denotes a 50 yd. x 50 yd. area, can contain any of 60 terrain
+types. Also, combat can change the terrain. Weapons fire can
+change a building to either a burning building or a pile of rubble.
+Trees and fields can be set afire, with the appropriate effect on
+field of view and movement. Finally, artillery can create large
+
+Advances!
+
+Overrun!
+Apple II, C-64/128
+1-2
+$49.95
+Gary Grigsby
+Strategic Simulations, Inc.
+Mountain View, CA
+
+Overrun! reflects many of the advances made
+in modern warfare since WWII. Gary Grigsby
+has incorporated helo-borne assaults, improved
+artillery systems, armour advances, air defense,
+and Anti-Tank Guided Missiles (ATGM's) into a signal package.
+
+Air Assault: Helicopters have changed the nature
+of the battlefield. Serving as transports or roving
+marauders, these deadly craft can turn the tide in
+a battle. In OVERRUN!, a variety of different helos
+are available, including the new Soviet HAVOC attack chopper. Each helo can be armed with a wide range of
+weapons. Transport helos, such as the HIP of HUEY, can
+transport infantry squads and teams. There is no provision, however, for the airlift of vehicles.
+Fire Support: The Overrun! system allows off-map artillery to
+change states, reflecting the improvements in fire-control and firedetection. Each off-map artillery unit can be in one of four states:
+Off-Map, Destroyed, Relocating, or counter-battery. The relocating state simulates the act of physically relocating a unit to
+prevent successful counter-battery fire on the part of the enemy.
+Counter-battery fire may be ordered to attack an opponent's offmap artillery.
+Armour: New advances in armour are reflected by the rating of
+each unit in terms of its resistance to either an Armour-Piercing
+(AP) or High Explosive-Anti-Tank (HEAT) attack. In addition,
+penetration is randomly adjusted to simulate striking the armour
+at an angle, which would increase the effective thickness of the
+armour. Reactive armour has also been included for some
+vehicles.
+Air Defense: Both Anti-Aircraft Artillery (AAA) and Surface-to-Air
+Missile Systems (SAMS) are provided to defend against enemy
+
+helos. The AAA systems are all self-propelled. SAMS are provided
+in both the mobile and (Afghan admired and Soviet feared) handheld variety.
+ATGM's: Overrun! contains all of the major ATGMS currently
+held by the armies represented. Proposed systems, such as the
+Fiber Optic Guided-Missile (FOG-M) are also supplied to gaze into
+the future. ATGMs may be used for anti-armour or assault purposes.
+Overall, these new features to the Panzer Strike system allow
+the electronic warrior to simulate the
+problems encountered by today's combat
+commander.
+
+Retreats!
+Even though Overrun! is a superb simulation of modern land warfare, several "shots"
+appear to have missed the target. The first
+and foremost of these is the documentation, which is atypical of SSI. Some of
+these are:
+1. Nowhere is the player told that helos
+will automatically shift to Fly Slow in order
+to fire. The fact that this occurs also contradicts the combat penalties listed for the various helo states.
+2. Although FOG-M is said to be able to attack vehicles beyond
+the line-of-sight, the rules do not cover the criteria and adjustments for this capability.
+3. Entire units are missing from the Order-of-Battle (Marine
+squad, LT-MG, and 60mm Mortar).
+4. In the organization table for the Blue Mid-East force, the
+Marine Co and the LAV SPT PLT are mixed, effectively eliminating the LAV SPT PLT from the documentation.
+5. Blue Mid-Est formation 31, the LAV-AT PLT, does not exist in
+the software.
+8. Depending on whether you are in the European or Middle
+Eastern Theater, the M60A3 may or may not have thermal sights.
+9. The Hummer is not available in Europe!
+As for game play itself, the following problems may be noted:
+Artillery: The human player can only change the state of his offmap artillery in all units mode and only when unit "0" is also an
+artillery piece. This is not in the documentation, and greatly handicaps you when playing the "Breakthrough at Neukirchen"
+scenario.
+Unit Fire Control: In the game, the fire control characteristics
+are tied to the platform and not the weapon system mounted
+upon it. This results in some severe limitations.
+With the air defense rating of a unit tied to the platform the
+player is prevented from constructing a Bradley-based ADATS
+unit (which is what the Army is currently buying) or placing
+Stingers on helos (which is also a contemporary effort). This
+restricts the player to only creating unit variations which do not
+change the overall nature of a unit (such as from an APC to a
+SAM platform).
+Typing the fire control rating to the platform also results in the
+complete exclusion of FOG-M from the European Theater since
+no FOG-M platform is made available.
+Reactive Armour: The game allows small arms fire to eliminate
+reactive armour boxes. While reactive armour would be affected,
+to a degree, by small caliber, rounds the equal weight given to an
+M-16 and a 120mm gun is not realistic.
+Command and Control: As in Panzer Strike, once a formation
+HQ is destroyed, the rest of the formation is on their own. While
+this may (or may not) be true of Soviet, Warsaw Pact, and some
+
+Arab forces, it can hardly be considered fact among western armies. In actual combat, command and control would be re-established by the next unit down in the formation's chain of command. A much more realistic method would be to have a random
+delay before control was re-established, rather than jut chopping
+off the head.
+Movement: Units in a formation will slow down if other members of the unit are fired upon. While this is realistic when units
+are closely grouped, it occurs here no matter how dispersed the
+formation is. One APC does not slow down just because another
+APC 2000 yards away takes some fire.
+Tanks being given individual orders do this
+even less. I had an ABRAMS killed while
+repositioning it because its partner was
+giving covering fire and receiving fire itself.
+It should have taken cover like I ordered it
+to at full speed (it was not heavily suppressed).
+Missile Fire: Missiles can only be fired on
+the third pulse. This is my most serious objection to Overrun!. Limiting the time of
+firing totally negates the incredible utility of
+these weapons, especially ATGMs, by allowing the direct fire units to clobber the missile units. As a turn is supposed to simulate 60 seconds, it is unrealistic to assume that target acquisition and weapons loading
+take forty of those sixty seconds. A good ATGM team can fire
+very quickly indeed (or else they DIE)! A ATGM-equipped vehicle
+such as the M-901 ITOW, with its two ready rounds, can easily
+fire sooner than 40 second after target selection, not to mention
+the abilities of the Apache or Cobra! This, in my opinion, should
+have received more attention, even if it had meant delaying the
+release of the game. Finally, the SONGSTER gun/missile system
+of the T-64B and T-80 is not provided, although it is probably
+deployed.
+Optics: Overrun! incorporates the advancement of thermal
+sights. However, not enough units have them (compared with the
+data to be found in standard references such as JANE'S). Nightfighting would have been nice, also, reflecting the challenges of
+the 24-hour battlefield. If the designers wanted to keep the distribution of thermal sights down in order to portray different eras,
+they could have included its selection in the construction set
+routines.
+
+Combat Support
+When I discovered the various anomalies in Version 1.0 of Overrun!, I provided SSI with a listing. They immediately set to work,
+seeking answers to my questions and investigating my findings.
+This is a credit to the professionalism of SSI's staff. Instead of
+hemming and hawing, SSI investigated each and every issue and
+provided a reply, both written and oral.
+All of the documentation problems will be corrected in the next
+production run. SSI will exchange your original documentation
+once they have the new edition in stock. Likewise, Version 1.1 of
+the software will correct most of the problems/gripes and will also
+be available for exchange by sending the ORIGINAL disks in. The
+release dates for these updates are pending.
+
+After-Action Report
+All things taken together, Overrun! gives you your money's
+worth. I would heartily recommend buying a copy. None of the
+problems addressed above keep it from being a challenging,
+rewarding, and immensely enjoyable game. Veterans of Gray
+Grigsby's other games will find Overrun! to be on, or above, the
+level of Mech Brigade, a member of the CGW Hall of Fame. Raw
+recruits to the arena of computer wargames will quickly learn the
+ropes. Overrun! has my vote for Wargame Of The Year!
+
+Game Hints
+
+S
+
+o, here we are in the middle of
+summer again (doesn't it seem
+that this year is moving by rather
+quickly?). As usual, Fred is counting the
+days to next month's annual Grue Convention, so he's a little absent-minded
+right now. Wake up, Fred!
+We have some thirsty customers here! That's better.
+And now that you're settled
+in with refreshments at hand,
+we can delve a little into a
+mystery.
+
+writing obituaries . . . provided, of course,
+the Courier stays in business (which is
+doubtful).
+At the moment, all London is buzzing
+over the murder of one Geraldine Tracey,
+found stabbed to death in her bungalow
+
+Scorpion's
+Tale
+
+"The Scoop" is a murder
+mystery, set in the 1930's,
+and based on a novel written
+by members of the London
+Detection Club (an association of mystery writers, of course,
+headed by Agatha Christie). Since I
+don't have the book, I can't say how
+closely the game follows the novel or if
+reading it will be of any help in solving
+the game. However, from the way the
+adventure is set up, it's very likely that
+reading the book wouldn't be of too
+much assistance.
+
+That's why you want to go to bed
+early on Monday night. You can't afford to miss the inquest at Brighton
+on Tuesday morning. You meet
+several important suspects and get to
+hear their evidence in regard to the
+Tracey murder. This also opens up
+some new areas to visit, as you can't
+go anywhere until you have learned
+about it while playing the game.
+
+The Apple graphics, by the way, are
+done primarily as black and white drawings, with some color on the close-up
+pictures of people when you talk to
+them. Although simple in design, the
+close-ups manage to convey a surprising amount of personality.
+
+Okay, so here you are, hot-shot crime
+reporter for the London Daily Courier.
+Well, actually, maybe not so hot-shot,
+since you were just elevated to your new
+position from the cheery task of writing
+obituaries. Things are not good for the
+Courier these days. They've been losing
+too many good stories to the rival Morning Star and its top reporter, Denis Oliver.
+You are the Courier's last hope. If you
+can bring in a big "scoop," the paper will
+be saved. If not, well, you can go back to
+
+You also need to sleep, and
+this can be frustrating at
+times. The game will not let
+you go to bed before midnight, however much you
+may want to. Since you always sleep for seven hours,
+this means you can't get up any earlier
+than 7 AM. It also means that, if you
+go to bed later, you will get up later,
+and may miss something important in
+the game.
+Characters in this game move
+around, they do not always stand in
+one spot waiting for you to show up.
+Also, certain items may or may not be
+in a certain location, depending on
+the day and time. Obviously, then, you
+will be doing a lot of running around
+hither and yon, so keeping an eye on
+the clock is of extreme importance.
+
+This is a graphic adventure, totally
+menu driven. You manipulate either a
+male or female figure (your choice) on
+the screen and use the available menu
+commands to perform actions such as
+examining objects, taking or dropping
+them, listening in on conversations (always fun!), etc.
+
+Talking to people is also menudriven and somewhat limited in form.
+You can ask what's on their mind, where
+they were on certain days, what they
+know (or think) of other people in the
+game, or you can show them an item
+from your inventory to see what their
+reactions will be. There is no way to bring
+up any other subjects or to question
+them on anything specific (new items do
+not appear on the menu as a result of
+conversations).
+
+The game is heavily time-dependent in
+many ways. Travel, for example. You can
+take trains or buses to various destinations, but they always leave on the hour,
+and take one hour to reach wherever it is
+you're going. So if you arrive at Victoria
+Station at, say, 2:01 PM,
+you'll have to wait until 3 PM
+to catch the next train, which
+in turn will not arrive at its
+destination until 4 PM.
+
+in the suburbs of Brighton. Her husband,
+as well as the murder weapon, are suspiciously missing. Hmmm.
+Nevertheless, this death is overshadowed by another. It seems the Morning Star sent a reporter to cover the
+story, and now he has just been found
+stabbed to death in a phone booth at Victoria Station. This is where the game
+begins.
+Your boss, Mr. Wrightwell, sends you off
+on Monday night to see what's going on
+at the station. This is where you first
+meet Denis Oliver, as well as the Scotland Yard man in charge of the case, Inspector Smart.
+Because of various time constraints
+(more on that in a bit), there isn't much
+you want to do here now except listen to
+the conversation between Smart and
+Oliver. After that, a quick trip home and a
+good night's rest are in order.
+
+For a game of this nature, with its
+multiple lines and dynamic aspects (those
+characters really do move around!), it's
+impossible to give any specific hints
+without giving a lot of the mystery away.
+So instead, I'll run down a list of tips and
+caveats to help you keep moving along
+(read the manual, too . . . it also has
+some handy hints).
+It is good to save the game after the inquest. You are pretty much on your own,
+then, with many options as to where to
+go next. Some avenues of investigation
+are worthwhile, others aren't. Since you
+could easily miss something interesting
+or important, it's better to have a save
+position to return to, rather than having
+to replay the game.
+In fact, you should try to make saves at
+various strategic points in the game, just
+so you aren't forced to replay from a
+much earlier position. Of course, the trick
+(Continued on page 37)
+
+Survey
+
+S
+
+ome garners want to
+have state of the art
+systems and other
+garners want to play on the
+least common denominator
+system. Most IBM software
+publishers are still supporting
+the CGA (Color Graphics
+Adapter) card as the bottom
+end of the spectrum, but the
+top end continues to expand.
+EGA (Enhanced Graphics
+Adapter) cards and monitors are relatively
+standard in the entertainment software
+market, but VGA (Video Graphics Array)
+and MCGA (Multi-Color Graphic Array)
+offer more colors (256 in the palette) and
+higher resolution than its predecessors
+(usually a minimum of 640 pixels x 480
+pixels, but VGA only provides 320 x 200
+resolution when more than 16 colors are
+used).
+The question most garners are asking
+is, "Will it really enhance my enjoyment of
+computer games that much to purchase
+a VGA board and analog monitor?" The
+answers are somewhat more complex.
+The larger color palette certainly enriches
+the artwork utilized in the game and the
+higher resolution makes IBM compatible
+games look comparable to the Amiga or
+Atari ST for the first time, but the price
+tag is relatively hefty. CGW looked at two
+multiscanning monitors, both priced near
+$700 retail (the Compaq VideoGraphics Color Monitor and the Mitsubishi XC1429C). By the time a gamer
+adds a VGA card to take advantage of
+that monitor (we looked at the Willow
+Peripherals VGA-IV card, priced at
+$699, and Video Seven Vega VGA,
+priced at $499), that can cost upwards of
+$1400 to enhance an IBM compatible.
+Further, until recently, many games
+which advertised their VGA compatibility
+actually ran in EGA mode. Now,
+Electronic Arts is supporting MCGA, a
+subset of VGA, which allows for a 256
+color palette, with approximately six
+products by the end of 1989; Activision
+has approximately seven to eight VGA
+
+Is VGA
+Worth It?
+products under development for release
+in 1989 (not all will make full use of the
+available palette, but most will);
+Microprose is experimenting with VGA
+graphics on F-15 Strike Eagle 11 and
+Sword of the Samurai, Microillusions
+will offer Questmaster 1 with VGA
+graphics by mid-summer, and Spinnaker has already released Quadralien
+and Stargoose in VGA format (they look
+great!).
+
+Monitors:
+The Compaq Video Graphics Color
+Monitor has a lower dot pitch (.31 mm.)
+than the standard IBM PS/2 Color Display
+Model (.41). Since the lower pitch (which
+measures the space between pixels)
+provides for higher resolution, the Compaq is an excellent selection for garners.
+The colors tend to be more pale than the
+Mitsubishi we compared it to, but this
+made for an advantage in viewing the sky
+in F-15 Strike Eagle 11, as we were able
+to see more of the variation in the color
+palette used in the sky. On the other
+screens, however, the colors were not
+quite as rich as those on the Mitsubishi
+monitor. There was no problem with
+ghost images due to persistence of
+screen phosphors and the inclusion of a
+tilt and swivel stand as standard equipment was a welcome bonus. (Circle
+Reader Service Card #16)
+The Mitsubishi XC1429C is a sturdy
+monitor which displays very rich colors.
+The .28 mm. dot pitch makes for particularly precise on-screen resolution and
+
+there is no trace of ghost images when the screen
+refreshes. This monitor particularly shines on darker
+palettes like the screen from
+Budokan, an Electronic
+Arts release currently under
+development. The tilt and
+swivel stand is optional.
+(Circle Reader Service Card
+#17)
+
+VGA Boards:
+The Video Seven Vega VGA board offers excellent value at a suggested retail
+price of $499. Garners who use their
+machines for Windows/386 applications,
+as well as entertainment, will find that the
+Vega VGA not only supports those applications, but is also fully compatible
+with CGA, EGA, MDA, and Hercules
+programs. Under some circumstances,
+the board supports 720 x 540 or 800 x
+600 resolution with a 16 color palette intact. We observed no visible flicker or persistent eyestrain when using this card.
+(Circle Reader Service Card #18)
+Willow Peripherals VGA-TV is unique
+in that it not only supports VGA
+monitors, but offers an NTSC output that
+enables players to run VGA color on a
+standard television monitor. This feature
+explains the higher price tag. To use VGA7V with a television requires some pin
+movement on the board itself, but once
+the adjustments are made, it works like a
+"real" monitor. The highest resolution is
+the standard 640 x 480 screen. Our only
+reservation revolves around a slight flicker due to the way the board handles interlacing. Some of us at CGW quickly became used to the flicker so that we didn't
+notice it, but others were continually
+bothered by it. (Circle Reader Service
+Card #19)
+De gustibus non est disputandum.
+(Translation: You have to decide for yourself or more literally, "With regard to
+taste, there is no argument.")
+
+Review
+
+allistix is a sport played in a tiled arena, surrounded
+by a wall of skulls. The audience is a raucous band of
+demons, skeletons, and undead. All are seeking their
+brand of excitement. It is the player's job to provide the action, maneuvering a lightning-fast mirrored marble about the
+arena, blasting it with silver balls, and avoiding obstacles
+until the perfect shot can knock the marble (termed a
+"puck") into the goal.
+
+B
+
+While the basic idea is an old one, Psygnosis has done an
+excellent job of providing a fast-paced, pure action game.
+The concept is simple, but the game and its execution are
+not. As usual for this company, the graphics are extremely
+well-rendered, fast, and engaging. The colorful and
+humorously macabre arena background scrolls quickly and
+smoothly, although it can only be spared a few glances in
+the heat of the action.
+The feel of the game is a mix of billiards, marbles, pinball,
+hockey, and similar sports. In the basic game, the player controls a small arrow, which can be moved about the game
+field. There are goals at either end of the arena, one to be
+defended and the other as a target. By pressing the button
+on the joystick, small balls are shot from the arrow in the
+general direction of the puck. Through careful maneuvering
+and aiming, it is possible to knock the puck into the opposing goal. Adding some spice, the floor tiles of the arena are
+sometimes transformed into targets, providing bonus points,
+goal shields, or other surprises. To further add to the challenge, there are 130 levels of game play (50 for the oneplayer game, 80 for the two-player version), each representing a different arena, complete with its custom
+obstacles. There are rubber bumpers, explosive mines, pools
+of acid, tunnels, and other hindrances to the player's
+progress.
+
+Doubles, Anyone?
+The one-player and two-player games offered in the program are markedly different, both in their rules and in the
+focus of the action. The one-player game most resembles
+pinball. There is no computer opponent and the player is
+forced to work against gravity and the arena itself. If left
+alone, the puck will gradually pull itself directly into the
+player's own goal. While the lack of a computer opponent
+may be initially disquieting, the realistic movement of the
+puck and the difficulty of victory over gravity soon make up
+for this. Such a manner of handling play removes any need
+for chancy artificial intelligence and allows the player to play
+directly against the arena.
+In the two-player version, there is no gravity. If the puck
+isn't fired upon, it will eventually slow and stop. Instead, the
+opponent is another human player. While there are
+obstacles in the two-player levels, they are usually evenly distributed in the arena so that neither player gains an immediate advantage. In addition, the balls must be shared between
+the two players. If one player shoots too rapidly, the balls he
+has fired will wind up in his opponent's possession. Further,
+if a player does not fire after several seconds, all his balls are
+given to his opponent. This is a good device to insure that
+game play keeps a rapid pace and, at the same time,
+rewards a player to fire carefully and not waste all his balls.
+In addition to choosing between the one and two player
+games, the player may change how the balls are fired at the
+puck. For those who find the "fire from arrow" play too easy,
+the balls can be shot machine-gun style from the goal itself,
+with the arrow becoming a target sight. This option requires
+excellent timing and more strategy. It is not quite as fastpaced as the "fire from arrow" game, however.
+
+Marbles
+From Hell
+by Douglas Seacat
+Goal Shots
+(Good Points)
+The game is extremely well
+programmed, not
+only in its look
+and sound, but
+in the way it
+feels. The action
+is fast and engaging, yet can be
+mastered quickly
+and enjoyed almost immediately. The different types of
+games offered, as
+well as the attention to detail give
+the game tremendous replay
+value. Ballistix is
+most addictive;
+playing just one
+game is virtually
+impossible. This product offers more
+nail-biting excitement and a stronger
+sporting atmosphere than most real
+sports simulations now found on the
+market.
+
+Ballistix
+TITLE;
+SYSTEMS:
+Amiga, Atari ST
+# PLAYERS:
+-2
+PRICE:
+$29.95
+DESIGNERS:
+Reflections
+PUBLISHER: Psygnosis, Ltd.
+P.O. Box 483
+Addison, IL 60101
+
+Another point in the game's favor is
+the number of options it allows the
+player to work with. The player can quite easily change the
+number of balls available, the speed of the game, the "lifespan" of the balls, the goals needed to win, and what level
+the play is started on. This allows the player to handicap himself and make the game more difficult as he learns and
+masters it.
+
+Ricochet (Bad Points)
+While game play is virtually flawless, one cannot say
+the same for the way the
+game handles levels. A
+higher number of levels
+should have gone to the
+one-player game. After all,
+in the two-player games, the fun and challenge comes from
+the opponent, not the arena. Conversely, in the one-player
+game, the arena is the opponent. Therefore, a larger variety
+should have been more important. On the same note, there
+(Continued on page 47)
+
+(Continued from page 30)
+
+The
+Scoop
+
+from you if you give them the chance,
+and rarely, if ever, will you get these
+things back.
+Another reason to have multiple saves
+is that your time to solve the murder is
+limited. If you don't manage it by Saturday afternoon, you lose. Thus, you have
+only about four and a half days to get
+everything done. When you add in the
+travel time, you soon discover that the
+four and one-half days go by very quickly.
+
+is to decide where those strategic points
+are, which isn't always easy.
+One place in the game where it is usually good to save is when you're trying to
+decide between two destinations. For example, if you're wondering whether to go
+to Southampton or Brighton. Just save
+and go to one or the other. If nothing interesting comes of it, restore and try the
+other.
+This trick is also handy when you want
+to follow people around and see where
+they are going (and if they're meeting
+someone, so you can listen in on their
+conversations ... hehe!). Speaking of
+conversations, these generally begin
+about one minute after the participants
+arrive.
+It is inevitable that you will be doing a
+lot of saving and restoring, since the first
+time you play, you can't really be sure
+what's important to follow up on (or
+
+when). Therefore, you really need to take
+good notes and keep track of where you
+actually are in the game. Otherwise, you
+can easily become confused and not realize, until too late, that you don't have all
+the evidence you thought you had.
+One thing you should always do when
+entering a new location is "Search." You
+may find something important. Even if
+you don't, come back another day and
+try again. Sometimes, an item that wasn't
+there before will be there now. Likewise,
+some items that were there before may
+not be available later on.
+Always save the game before you show
+an object to someone. There are a few
+people who will grab important items
+
+As the game progresses, you will find it
+actually splits out so that you are actually
+investigating three crimes at once: the
+murders of Johnson and Tracey, a jewelry theft, and a drug-smuggling ring. All of
+them are interconnected in one way or
+another, so you can't afford to neglect
+any of them.
+The theft is quite important, as eventually you will discover within its clues the
+one person who can identify the
+mysterious Mr. Tracey. Of course,
+whether or not he actually had anything
+to do with the murders is another matter
+(it should become obvious early on who
+Tracey is, but you have to prove it).
+(Continued on page 38)
+
+(Continued from page 37)
+
+The
+Scoop
+
+they were on a particular night, it's a
+waste to ever ask them again, since they
+are always consistent. Thus, once you've
+made the round of all the suspects, your
+future options are generally limited to
+finding out what's on their minds or getting their reactions to the various objects
+you show them.
+
+No one in the game locks their doors,
+which is very convenient for you. This allows you to walk into anyone's home
+(best when they aren't there) and snoop
+to your heart's content. It's a good way to
+find all sorts of interesting and, possibly
+incriminating, objects. Once in awhile,
+you can even search when another character is present. Don't be afraid to try.
+The game will tell you if it's possible or
+not, at no penalty to you.
+
+Another reason to avoid repeated chats
+is that they eat up precious time on the
+clock. The minutes pass with each conversation, so asking people about the
+same things only hurts your chances (not
+to mention the additional time spent in
+tracking them down again). Take good
+notes the first time you talk with anyone.
+
+The major characters always have something on their minds, and it's not always
+the same thing (major characters are
+those whose names show up when you
+ask the "tell me about someone" question). Whenever you talk to one of them,
+make sure to ask what they're thinking
+about. You can pick up all sorts of valuable information this way.
+However, once you've asked someone
+to tell you about other people or where
+
+Whenever you're in a particular area, be
+sure to take a moment and pop into any
+stores, hotels, or taverns that may be
+there. Someone could be inside. Remember, this is a dynamic game and the characters move around just as real people
+do. On the other hand, in some locations, characters may not be willing to
+talk to you. If that's the case, you'll just
+have to catch up with them somewhere
+else for a conversation.
+The game does tend, after awhile, to become rather automatic. You search each
+location as you visit it, run through the
+
+gamut of conversational possibilities with
+any characters present, and exhibit your
+collection of items, etc. The main trick in
+the game is knowing when to be where
+for what, and this is learned over time
+(and many restores) through trial and
+error. Eventually, you put together
+enough threads so that you can then
+play the game along the true path that
+leads to successful completion in the
+time allowed.
+Well, that seems to be it for now.
+Remember if you need help with an adventure game, you can reach me in the
+following ways (please folks, be specific
+with your requests; just saying "I'm
+having trouble finishing game X" isn't
+enough to allow me to help you):
+On Delphi: Visit the GameSIG (under
+the Groups and Clubs menu). On GEnie:
+Stop by the Games Roundtable (type:
+Scorpia to reach the Games RT). On The
+Source: Send SMail to ST1030. By US
+Mail (enclose a self-addressed stamped
+envelope if you live in the United States):
+Scorpia, PO Box 338, Gracie Station,
+New York, NY 10028.
+Until next time, happy adventuring!
+Copyright 1989 by Scorpia, all rights
+reserved.
+
+I
+
+Review
+
+Uponahiltop,
+The game ends when
+not far from the
+the player either dies or
+castle, you halt
+captures all 19 Castles.
+the march and consider
+Either way, at the conyour strategic options.
+clusion of the game,
+Your scouts report
+players will see a
+back, the Princess is
+montage showing their
+here!
+ratings (25 possible)
+You send your
+and depicting the batsecond with a note
+tles that they fought.
+demanding surrender.
+The character's life
+The Taira Clan refuse.
+By Michael Chaul
+literally flashes before
+With a sharp wave of
+their eyes. The ratings
+your war fan, you sigdepend on the levels of
+nal your army of solbattle skills earned, the
+diers to form into a
+number of generals
+long column. Taking
+commanded, the numyour Sacred Sword
+ber of territories
+TITLE:
+LORDS OF THE RISING SUN
+from its sheath you galSYSTEMS:
+Amiga; Soon: IBM, Atari ST
+owned, and the leaderPRICE:
+$49.95
+lop to the front of the
+ship abilities built up
+Doug Barnett
+DESIGNER:
+line and personally lead
+during the game, as
+PROGRAMMER: David Todd
+your troops in the
+well as how many
+PUBLISHER:
+Cinemaware
+Siege. "TAKE THE
+Westlake Village, CA
+pieces of the Imperial
+CASTLE!! FIND THE
+Regalia have been colPRINCESS!!" The men
+lected.
+surge towards the
+defiant gates with you
+WARNING: This secleading the assault.
+tion of the review conAs one begins to play
+tains specific hints
+Lords of the Rising
+on game play.
+Sun, Cinemaware's
+Readers who prefer a
+latest release, he/she is
+more general briefing
+thrust into war-torn
+should avoid this sec12th century Japan as
+tion.
+a member of the
+The Player should
+Minamoto Clan. The
+save the game regulargame presents the
+ly. One never knows
+player with a unique
+when a error in judgeblend of arcade action
+ment will cause the
+and strategic posloss of an entire army.
+sibilities. As the game
+Due to the fact that the
+opens, the player is
+programers neglected
+asked to choose beto provide for a
+tween an interactive ar'permanent' save game
+cade version of the
+feature, if a player utilgame or a strategic verizes the Preserve Hission.
+tory (save game) OpAs the player moves
+tion from within a prethe cursor over his batviously saved game,
+tlefield banner, the optheir original game will
+tions change in the
+be replaced, furthermessage window so
+more, if a player is
+that the banner funckilled or starts a new
+tions as a menu. Once
+rebellion from within a
+the Home Castle is entered, the player will be in the Council
+saved game, their saved game will erased from the disk. In order
+Room. Moving the cursor over the Seppuku (hara-kiri) Sword and
+to insure permanent storage within the Preserve History Option, it
+the banners hanging on the wall will reveal the choices that are
+is necessary to completely exit the game and to copy the
+available at this juncture of the game. The five banners on the
+'Savedgame' file from the Lords directory (for hard drive players)
+center wall are replicas of the banners of the other generals in
+or Reel 2 (for floppy disk players) to an additional floppy. Then
+the war: the remaining brother's banner, the Taira banner, the enand only then can the Player be sure to have a 'permanent' copy
+signs of the three independent generals, the Ronin (Note: The
+of their saved game. This gives the Player an easy method to
+Ronin generals have armies that may or may not join up with you
+backtrack. It may be very time consuming to exit out to the 'Cli
+during your campaigns. The equation is dependent upon your
+and to copy the 'savedgame' file, however, it is better than startsize, strength and overall power rating at the particular time of
+ing the game over from the beginning.
+contact and can only be learned through trial and error.).
+When sieging a castle, if you hack at a door three times (using
+When the player exits his Home Castle and selects "Prepare to
+the left mouse button) you can shoot arrows through the door
+March," he is presented with a vast map of feudal Japan in all its
+(using the right mouse button) inflicting damage and be
+splendor. The game interface allows the player to use the map to
+protected from the onslaught of enemy soldiers from the other
+move generals from one location to another, gather information
+side.
+about a specific location or general, and determine the outcome
+If you siege castles in the interactive mode, castle difficulty levels
+of encounters between opposing forces (i.e. form an alliance,
+and floorplans are determined by the skill levels of the besieger.
+demand a surrender, engage an enemy in battle, take or attack a
+Therefore, sieging a castle with a low skilled general will reduce
+city, and siege a castle).
+(Continued on page 45)
+
+Sunrise, Sunset
+
+Japanese History in Cinemaware's
+"Lords of the Rising Sun"
+
+resupply and get more men regularly. Also, try not to let them
+get much more powerful than you, they may then try to overthrow you.
+The best place to resupply your armies are at castles although
+cities and monasteries can also be helpful. Since in real life, ports
+have a higher influx of men and supplies, so do those of the
+game. Therefore, port castles are the absolute best source for
+resupplying your armies. The number of troops at a single location will determine the time it takes to resupply. The season of
+the year will also have its effect on the resupply speed as well as
+travelling costs (i.e. during the winter months, supplies will
+replenish more slowly and travelling great distances will be more
+costly in men and strength.)
+(Continued on page 46)
+
+the difficulty of the castle being taken. Once a floorplan is set, it
+remains set for that particular castle for the entire game. One particular tactic would be to use a low skilled general to enter the
+castle in a siege attempt. After an unsuccessful siege or quick
+retreat, a high skilled general could be used to go in and take the
+castle with little or no trouble.
+It can greatly enhance a Player's 'power status' to retrieve all
+four of the Imperial Regalia. The Emperor at the Palace in Kyoto
+holds the Sacred Scroll and the Sacred Sword. In order to convince the Emperor to bestow these honors upon you, Players
+should try space their visits to the Palace at least one year apart.
+The Shrine of Hachiman is located within the Castle at Kamakura
+(Yoritomo starts out with this object) and initially the Princess is
+being held within one of the seven Taira Castles, although she
+can be moved as gameplay advances.
+New generals are extremely dangerous, so always make note of
+the messages that appear in the message windows. Specifically,
+as new armies are formed. Although your own generals start out
+with a 100% loyalty to you, those not kept well supplied and
+"happy" they may be influenced away. If a general leaves you,
+they will take with them all of the property that they have acquired and own. Therefore, treat your generals well. Let them
+
+CONCLUSIONS
+As this reviewer watched the opening procession of graphics the
+only thing that came to mind is "It's really like a movie!"
+Throughout the game the designer has obviously taken
+measures to insure this 'movie like' arena. In most cases, this is
+beneficial to the gamer, however, the inability to govern the transfer troops was definitely noticed. The arcade sequences are some
+of the most realistic this reviewer has encountered. David Todd,
+the wizard programmer of the game, gives the player the ability to
+take part in sieging or attacking castles, fighting enemy armies,
+horseback pursuits, fending off would-be castle take-overs and
+
+ninja attacks. All of the arcade sequences are presently operated
+through the mouse with no joystick support. Although mouse control is accurate, joystick support
+was sorely missed; at least in the
+arcade sequences. If you are one
+who has not had a lot of dealings
+with the mouse, it will take some
+getting used to.
+An accelerated time mode is
+provided for, although this
+reviewer felt that maybe an additional level would have been
+preferable, as well as an onscreen notification that the accelerated mode was activated.
+From whispering winds to
+screaming samurai, the original
+music and sound effects for the
+game are "outrageous!" The scrolling 3-D graphics are outstanding. This reviewer felt as though he was playing an animated
+Risk game. This program's unique approach provides a different
+fulfillment to each kind of player (i.e. strategists get strategy, arcade masters are put to the test, and the people that fall in between get a little from both worlds).
+This reviewer particularly enjoyed the mixture of arcade and
+strategy elements. This mixture not only allows the player to become part of the movie as it unfolds but really lets one feel like
+he or she is participating in the story. Lords of the Rising Sun is
+highly recommended.
+
+(Continued from page 11)
+
+(Continued from page 37)
+
+Tracon
+back to DOS. While this may appear a grievous penalty, given
+the situation, it is justified.
+The mouse allows quick access to the planes. However, one will
+discover that adjusting their heading and altitude is more accurately done by keystroke. Combining both mouse and keyboard entry minizes player error.
+In Version 1.0, vectoring of aircraft was complicated by a distinction between true and magnetic north. Vectoring required a 15degree correction either left or right (depending on whether the
+scenario was western or eastern). However, Version 1.5 has corrected the radar screens to a magnetic-alignment, wherein Ox is
+now vertical (a much-appreciated refinement).
+This reviewer spent much time on the DCA scenario. The radar
+screen appeared very accurate; the Montgomery airport (GAI) is
+actually the Gaithersburg Airport, which is currently under pressure to close because of the housing developments built in the
+vicinity. Be that as it may, it yielded an additional sense of reality
+to vector in numerous aircraft in own's own "backyard", so to
+speak.
+While the game has a "pause" key, utilization of such yields an
+immediate 10,000 point penalty (the documentation refers to this
+as "cheating." This may be true, but when the phone rings, one
+answers it or pays the consequences in the "real" world.
+
+Final Approach
+This reviewer's initial impression was muted, in that the simulation appeared to be too much simulation and not enough game.
+However, repeated play has shown that Tracon can be a very enjoyable pastime. It is definitely not for the arcade set. If one finds
+intellectual challenge appealing, Tracon is heartily recommended.
+
+Marbles
+From Hell
+should have been a different set of levels for the "fire from goal"
+method of play, since it is so different from the normal mode.
+Finally, many of the levels did not seem particularly creative. A
+construction set could also have been included with the game in
+order to allow the player to make his own arenas.
+
+Final Score
+(Conclusion)
+Despite the lack of
+entirely adequate
+levels, this writer
+thoroughly enjoyed
+Ballistix and it is to
+be strongly recommended. The graphics
+and sound are great and the ability to freely alter the game options make it a game that can be played many times without loss
+of enjoyment. The game provides fast, primal, addictive action,
+well worth traveling to "Hell" to enjoy.
+
+R.I.D.
+
+

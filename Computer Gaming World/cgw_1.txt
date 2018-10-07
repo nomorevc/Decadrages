@@ -1,0 +1,2831 @@
+I
+
+NOV. - DEC., 1981
+
+VOL. 1 NO. 1
+
+Features
+THE FUTURE OF COMPUTER WARGAMING
+by Chris Crawford
+
+3
+
+TORPEDO FIRE: REVIEW AND ANALYSIS
+8
+
+by Bob Proctor
+
+ROBOTWAR: A WARGAME FOR ALL PROGRAMMERS
+
+13
+17
+
+by William Edmunds
+
+ROBOTWAR TOURNAMENT
+B -1 NUCLEAR BOMBER: A STRATEGIC MAP
+
+18
+
+by Chris Cummings
+
+AIR FORCE MISSION PLANNING BY COMPUTER
+
+20
+
+by Russell Sipe
+
+CRUSH, CRUMBLE, & CH---!
+by Stanley Greenlaw
+
+,
+
+22
+
+THE POLITICAL APPLE
+by Russell Sipe
+
+THE GREATEST BASEBALL TEAM OF ALL TIME
+
+23
+26
+
+Departments
+From the Editor
+Hobby and Industry News
+Micro - Reviews (Dragon's Eye, Eastern Front,
+
+Mind Thrust, Mission Escape, Odyssey, Reversal,
+Time Traveler)
+
+2
+2
+29
+
+From the Editor...
+
+WRITING FOR COMPUTER GAMING WORLD
+
+In recent months I have been encouraged time
+and again when I see the tremendous interest out
+there for a magazine on computer gaming. Many
+people have expressed the view that the time for a
+magazine on computer gaming is OVERDUE.
+Hopefully we have corrected that problem.
+CGW is designed to meet your needs as a
+computer gamer. Each issue will evaluate
+computer games, give advice on strategy and
+tactics, announce new products, and provide a
+forum for you, the reader, to become active in the
+rapid nationwide development of the computer
+gaming hobby.
+We hope to have a "Letters to the Editor"
+column beginning with the second or third issue.
+Please write us and express your thoughts on the
+articles presented in these pages, and/or your
+thoughts about the hobby in general. It is my hope
+that CGW will become a forum for an intelligent
+dialog between gamers, designers, manufacturers
+and retailers.
+The coming explosion in use of personal
+computers has just begun, we at COMPUTER
+GAMING WORLD are excited about being a part
+of it, and are glad that you have joined with us.
+
+If you would like to write for COMPUTER
+GAMING WORLD, we'd like to hear from
+you. Beginning with issue #2 CGW will pay 2
+cents per word (base rate). We're looking for
+micro-reviews (400 words or less), feature
+articles on popular computer games, playing
+aids, scenarios, etcetera. Feature articles (500
+- 2000 words) will have a better chance of
+being printed if you clear the subject with the
+editor before submitting it. Micro-reviews
+(500 words or less) are a good way to introduce yourself to our staff. Our biggest need is
+for micro-reviews of TRS-80 games. The
+following criteria play a part in selecting
+articles for CGW: 1.) Does the article meet our
+present needs?; 2.) Does the article reflect an
+understanding of what makes a good game.
+That is, does the writer understand game
+design and theory?; 3.) Is it well written?
+Some guidelines for reviews are: 1.) Try not
+to spend too much time in describing the
+fiction or setting of the game (readers can
+read ad descriptions as well as you); 2.) Spend
+the bulk of your time evaluating the strong
+and weak points of the game (e.g. Does the
+game succeed as a game? Was the human
+engineering of the game well handled? How
+does the game compare with other games of
+similar type? etc.); 3.) Feel free to include
+playing tips and strategy.
+Send articles to COMPUTER GAMING
+WORLD, 1919 E. Sycamore #203, Anaheim,
+Ca. 92805.
+
+HOBBY AND
+INDUSTRY NEWS
+Automated Simulations is working
+on two new games; SORCERER OF
+SIVA (FRP game with wizards and
+magic); and JABBERTALKY (A programmable word game). Both run
+on the Apple and TRS-80.
+Strategic Simulations (SSI) has
+released THE BATTLE OF SHILOH
+and TIGERS IN THE SNOW. TIGERS
+runs on the Apple. SHILOH runs on
+both the Apple and TRS-80.
+SSI has released the second edition
+of COMPUTER QUARTERBACK.
+Owners of the first edition can send
+their old diskette in with $15.00
+and get the new disk. A 1980 team
+disk is now available at $15.00. The
+1980 team disk for COMPUTER
+BASEBALL is also available at $15.00.
+
+Level-10 is offering a $5000 reward
+for finding the ALKEMSTONE(tm).
+The ALKEMSTONE is the subject
+of a computer game of the same
+name. Clues in the game will lead
+some lucky gamer to the stone and
+$5000. Alkemstone runs on the Apple
+(48K). The game will be available by
+Christmas.
+Synergistic Software's newest release
+is ESCAPE FROM ARTURUS, a
+two mode hi-res arcade game. In
+"Space Fortress" mode you defend
+the fortress. In "Escape" mode you
+pilot the evacuation ships. EFA will
+run on the Apple II (48K disk). $35.00.
+CE Software has released the fifth
+chapter of the ongoing Swordthrust
+series --THE GREEN PLAGUE. It
+runs on the Apple (48K disk) and
+costs $24.95.
+
+SSI will be releasing SOUTHERN
+COMMAND (Roger Keating's game
+on the Arab-Israeli War of 1973) in
+mid-November. Their NAPOLEON'S
+CAMPAIGNS 1813 AND 1815 should
+be out in December.
+Avalon Hill Microcomputer
+Division's latest projects are
+COMPUTERFOOTBALLSTRATEGY
+(based on the popular board game),
+DRAW POKER, GUNS OF FORT
+DEFIANCE (War of 1812), and
+DNIEPER RIVER LINE (which will
+include counters and a mapboard).
+All should be available in 1981.
+SSI has paid Task Force Games an
+undisclosed amount of money in
+settlement over the similarities
+between SSI's WARP FACTOR and
+TFG's STAR FLEET BATTLES board
+game.
+
+The Future
+of Computer
+Wargaming
+By Chris Crawford
+without really changing the game. Victims of this
+delusion see the wargame as defined by its
+incarnation in boardgames, and the computer as
+merely a variation on the standard.
+Personal computers have swept into society
+with a suddenness that has taken many wargamers by surprise. Wargamers are curious about
+the obvious possibilities of applying personal
+computers to their hobby, but as yet most have
+been reluctant to spend the one or two thousand
+dollars necessary for a personal computer. Right
+now there simply aren't enough wargames
+available for personal computers to justify the
+expense in the minds of most wargamers.
+However, everybody agrees that the future holds
+great promise of fabulous wargame experiences.
+The questions bedeviling everybody in this
+marketplace concern the future availability of
+computer wargames. Will there be an adequate
+quantity of wargames available for personal
+computers? Will these wargames be of high
+enough quality? What brands of computers will
+have the best selection of wargames available for
+them? This last is a particularly important
+question for the consumer, for the buyer who picks
+the wrong computer will find himself passed up by
+the bandwagon, left with an expensive and
+useless computer.
+I will begin to answer these questions by
+addressing an almost universal misconception
+about computer wargames. Most wargamers feel
+that a good computer wargame will be just like a
+good boardgame, with the computer somehow
+making it better. The computer is viewed as a
+device for boosting the power of a wargame
+
+A similar miasma impeded the development of
+the automobile at the turn of this century. The
+automobile was seen as a horse-driven carriage
+with no horses and an engine attached to the
+wheels. Indeed, it was called a "horseless
+carriage". This insistence on seeing the new
+technology in old terms resulted in its misapplication. The driver was seated on a high bench
+so he could see over the heads of the non-existent
+horses. The size of the wheels, the center of
+gravity, and the lack of wind protection were not
+suited for the higher speeds that the vehicle could
+develop. It took years of use before people began to
+think of the machine as an automobile instead of a
+horseless carriage. As the new attitude took hold,
+the vehicle began to change and show its true
+utility. Now the automobile is very different and
+quite indispensable.
+Personal computers will follow a similar path.
+They are now treated as extensions of or
+variations on existing technologies. As time goes
+by, we will see them used more and more in their
+own right. Thus, wargames on personal
+computers will not be just like boardgames. There
+are of course attempts to produce boardgames on
+computers, and these attempts are just as silly as
+the early attempts to build mechanical horses. A
+computer wargame must be optimized to take
+advantage of all the strengths of the computer. At
+the same time, it must avoid the weaknesses of the
+technology. They will necessarily be very different
+from boardgames.
+
+Special Capabilities of Computers
+Five special capabilities of personal computers
+will distinguish computer wargames from their
+boardgame cousins. First, the computational power
+of the computer will allow it to replace the human
+as game executor and permit the human to concentrate on his real role of game player. In the process,
+combat results tables, terrain effects charts, and
+other such impediments will be eliminated. The
+computer will perform more extensive and more
+realistic calculations to execute the same
+functions without the human's intervention.
+Second, the computer will allow us to have (at
+long last) true limited intelligence wargames.
+Many boardgamers have difficulty appreciating
+the importance of this capability. Indeed, the full
+intelligence required by boardgames is so taken
+for granted that many boardgamers resent the
+limited intelligence features of computer wargarners, feeling that they are being cheated out of
+their birthright. Limited intelligence applies not
+only to unit positions and strengths, but also to
+terrain effects, movement speeds, logistics effects,
+and the effects of weather. At present, applying
+limited intelligence to such factors is regarded as
+theoretical. Times will change.
+Third, the computer will give us good solitaire
+games. The difficulties of gathering acceptable
+players for a game have long held back wargaming as a hobby. The computer will provide a
+challenging and intelligent opponent at the time
+of the human's choosing.
+Fourth, the computer allows real-time play. At
+present, most people associate real-time play with
+arcade games. They therefore turn up their noses
+at the concept. Real-time play is both more
+realistic and more challenging than turnsequence play. It directly solves the problem of
+simultaneous movement that has never been
+adequately solved with boardgames. It also
+provides a reasonable and realistic simulation of
+tactical combat. Tactical combat does indeed
+involve decision-making under time pressure.
+Wargames that do not include this element fall far
+short of simulating tactical combat.
+Finally, computers allow telecommunications
+links for playing games over the telephone lines.
+At present there are not enough subscribers to the
+computer telecommunications networks to make
+such games practical, but within five years, it
+should be economical and practical to play games
+with far-away friends over the telephone lines.
+What then will computer wargames of the future
+look like? I will not make specific predictions for
+the years ahead, the computer revolution is
+
+evolving too rapidly to permit simple extrapolations. I will define the forces which in my
+opinion will have the greatest influence on the
+development of this industry. The reader must
+draw his own conclusions from these pages.
+
+Hardware: Is It Powerful Enough?
+The first major factor in the evolution of
+computer wargames is the hardware. Wargames
+are complex systems. Are these little computers up
+to the task of handling a real wargame? There are
+two ways to answer this question.
+The first way is to measure throughput, a
+quantity which specifies the overall computational power of a computer. My judgement is that
+the throughput of any of the four major machines
+on the market (Apple, Atari, PET, and TRS-80) is
+entirely adequate to the task of handling a regular
+wargame. Even a 16K system with cassette only
+has enough throughput to handle a good
+wargame. My latest game, EASTERN FRONT
+1941, is evidence of what can be done. The game
+will run on a 16K ATARI 400 with only a cassette.
+I daresay that it is the best wargame currently
+available, better even than games requiring 48K
+and a disk. (Please indulge me my vanity, but I
+really think it's true.)
+There is little difference in the throughputs of
+competing machines. That is, two machines with
+the same amount of RAM and similar peripherals
+will have about the same throughputs. Thus,
+throughput is not a limiting factor, nor is it a
+factor that distinguishes between machines.
+The second way to judge hardware power is to
+look at input and output ("I/O"). A successful
+computer must not only calculate the progress of a
+wargame, it must also communicate the progress
+of the game with the user. This applies to both the
+input from the user and the output to the user. An
+analogy might convey the importance of I/O.
+Suppose you were invited to play a special
+wargame, a wargame so special that you would
+not be allowed to enter the room in which the
+wargame would be played. Instead, you would be
+required to wait outside a closed door. Referees
+would pass slips of paper under the door
+describing the progress of the game. You would
+type your orders onto another slip of paper and
+pass this under the door to the referees. You would
+never be allowed to see the game itself. Sound
+silly? Dull? This is precisely how a wargame on a
+text-only machine like the PET or the TRS-80
+would proceed. These machines would communicate
+with the user with only two devices: a screen
+capable of printing characters only, and a keyboard.
+The Apple can go further. Using an Apple is like
+
+having color snapshots of the game slipped under
+the door. This helps a great deal. The Atari can go
+the furthest. Its graphics allows you to see the
+game's progress with the greatest clarity. Using
+an Atari is vaguely like watching a color television
+monitor showing the game's progress. It is still not
+as good as being in the same room, but it is
+certainly more than adequate.
+Thus, while all the major machines have
+enough throughput to handle wargames, only the
+Apple and the Atari have the graphics capabilities
+to adequately depict the game. This does not mean
+that wargames cannot be done on PET and
+TRS-80. I have written wargames on both machines.
+The restrictions that these machines place on the
+wargame designer are so prohibitive that few
+designers will put up with the machines. Most will
+concentrate on the machines that give them more
+flexibility.
+
+Programmers: Are They Good Enough?
+Once we have found a powerful computer we
+must have programmers to write wargame
+programs for it. Do we have such people? In my job
+I work with professional programmers working on
+personal computers. I have met hundreds of such
+programmers and have developed a good feeling
+for their characteristics as a group. I can say with
+sad certainty that the average programmer is not
+sharp enough to write good wargame programs.
+Very few programmers in this business are bright
+enough to handle the task. Most programmers
+work in BASIC, a language for beginners. Even
+among programmers producing commercial
+software for personal computers, fluency in
+assembly language (the most powerful language)
+is rare. It is impossible to fully realize the power of
+a personal computer without using assembly
+language. Very few programmers have any idea
+what software human engineering is, much less
+
+how to implement it. Very few know how to obtain
+high-quality graphics on personal computers.
+Finally, very few understand the principles of
+algorithm creation. I have yet to meet a single
+programmer who has fully solved the mathematics of a hexgrid for computer use. I know the
+problem is soluble, for I solved it some years ago,
+and I know that it really isn't very hard. Nobody
+has put their mind to it. I can summarize my
+characterization of computer wargame designers
+with one sentence: almost all are amateurs. This
+will be a major factor impeding the development of
+computer wargames.
+
+The world is not devoid of good programmers. I
+know many good programmers personally. Few of
+these programmers are writing software for
+personal computers. In order to motivate these
+people to write wargames, wargamers must
+provide adequate financial returns. Can the
+wargame marketplace do this? I think not. At the
+moment, the wargame marketplace is too small to
+attract good programmers. A good programmer
+can earn $30,000 to $40,000 per year in industry.
+The same programmer can work on a program for
+6 months and earn perhaps $5,000 to $10,000
+royalties with it. A salary from industry is certain
+and immediate; royalties for wargames are uncertain and are paid about a year after the work is
+finished. No matter how you look at it, the
+computer wargame marketplace is not worth the
+effort for talented people. There are, of course,
+fools like myself who produce wargames anyway.
+The monetary return is not a primary factor for
+such people. Fools like this are rare.
+The computer wargame marketplace will
+improve in the coming years. More and more
+wargamers are buying computers, and they are
+willing to pay for good wargames. This will
+improve the profitability of wargame programming. We should therefore see some improvement in the numbers and quality of wargame
+programmers. The process will take several years.
+Another factor is at work: piracy. Piracy is the
+unauthorized duplication of a product. Software
+piracy is easy to do and frequently committed.
+Many computer users are quite righteous about
+piracy, making up a wide variety of excuses to
+rationalize their theft of an author's work. I will
+not preach about the ethics of piracy, for honest
+people don't need sermons and dishonest people
+don't listen. I will not discuss the legality of
+piracy, for the laws are impossible to enforce. I will
+instead discuss simple cause and effect. If users
+consistently rip off authors by using their
+
+products without properly paying them for their
+efforts, authors will stop writing software.
+The effect is not black and white. One pirate will
+not bring the industry crashing down. Even widespread piracy will not kill the industry. Widespread piracy will have four effects: First,
+software will be more expensive because software
+sellers will try to recover their costs on fewer sales
+with higher prices. Second, software will be more
+expensive because software sellers will burden it
+with a variety of anti-piracy devices. You the
+consumer will pay for these protection schemes.
+Third, software will be less usable and enjoyable
+because the protection schemes used will probably
+interfere with the operation and use of the game.
+Fourth, fewer games will be available because
+fewer authors will be motivated to write programs
+when they cannot earn a good return for their
+efforts. As an author, I can accept the low royalties
+I make on my programs because there is always
+the satisfaction of knowing that I am making
+people happy when they play my games. But when
+I discover that people cheat me by stealing my
+games, my anger cancels the satisfaction. Nobody
+likes being ripped off.
+You may not agree with this reasoning. Perhaps
+you feel that programmers are overpaid prima
+donnas. Perhaps you feel that wargame
+companies rip you off so many times that a little
+turnabout is fair play. Perhaps you feel that one
+little copy won't hurt. Whatever your reasons, you
+must agree that you as a wargamer want something from programmers: wargames. They won't
+do it unless you motivate them. You must offer
+them adequate money to motivate them. To make
+matters worse, you are in competition with other
+people who want the services of programmers:
+small businessmen, educators, arcade game
+freaks, and many more. These people are willing
+to pay good money, lots of it, for the services of the
+good programmers. Wargamers as a group can
+provide a decent marketplace for programmers in
+the future. If the group is poisoned by pirates,
+programmers will shun it for more profitable
+markets. It therefore behooves the wargaming
+community to stamp out piracy before it takes
+root.
+A final aspect of the marketplace is the machinedependency of the market. Software written for
+one computer will seldom if ever run on another.
+Thus, availability of wargames for one machine in
+no way helps the owner of another machine. There
+is a good stock of wargames available for Apple
+computers right now. The TRS-80 has a small
+collection of wargames. The PET has very little.
+The Atari has a small and rapidly growing collection.
+
+Conclusions
+Where is the computer wargame headed? Nobody
+knows. The hardware we need for good wargames
+is here. We don't have enough good programmers
+to write good wargames, but market forces may
+induce more good programmers to enter the arena
+--- if piracy doesn't poison the market first.
+Which machines will dominate the computer
+wargame industry? The PET and TRS-80 are out
+of the running. The Apple II dominates the market
+at present. However, the greater power of the Atari
+and its rapidly growing user base indicate that it
+will challenge and probably pass the Apple within
+a year or two. It is inevitable that the Atari will in
+its turn be replaced by an even newer, even more
+powerful machine. It takes about two or three
+years from the introduction of a machine for the
+cottage software industry to produce an adequate
+stock of software. Thus, the next generation machine
+will not be a significant market force for at least
+two years, and more likely three.
+This is as far as I will take you. Beyond this, you
+must draw your own conclusions.
+
+Torpedo Fire:
+Review and Analysis
+TORPEDO FIRE is a game of submarine
+warfare for an Apple II with 48K and 1 disk drive.
+The game is on a self-booting disk and requires
+Applesoft BASIC in ROM. Although basically a
+game for 2 players, it can also be played solitaire.
+It might be more appropriate to call it a game of
+anti-submarine warfare since a solitaire player
+commands the surface forces and tries to prevent
+the computer (as sub-commander) from sinking
+ships in the convoy. TORPEDO FIRE is a
+historical simulation, a wargame -- you won't need
+fast reflexes to play. It's a battle of wits between
+the commander of a submarine and the commander of the escort force guarding a convoy.
+Like all SSI games, TORPEDO FIRE comes in
+a box with a rulebook and playing aids --reference
+cards, plastic coated plotting sheets and grease
+pencils. Of these, the rulebook is the most
+important; you have to read it to learn how to play.
+The reference cards are very useful; the plotting
+sheets can be a help but aren't needed to play. All
+components are of high quality.
+The game covers all of World War II, at least it
+does if you are willing to create your own
+scenarios. Specifications for subs and escorts from
+Germany, England, the United States and Japan
+are built into the game, but there is only one
+ready-to-play scenario. You can create additional
+scenarios and types of ships by using a program
+called the "SSI Shipyards."
+TORPEDO FIRE is strictly a tactical game.
+Neither side is bothered with the possibility of
+
+Bob Proctor
+
+running out of fuel, torpedoes or depth charges.
+There is no tomorrow; points are given only for
+damage done today. Obviously, this leads both
+sides to press the attack more than might be the
+case in real life, but it also tends to ensure that
+every game will have a definite conclusion.
+Where boardgames use a single mapboard which
+gives both players an identical view of the battle,
+computer wargames can show each player something quite different. In TORPEDO FIRE, the
+submarine commander gets a view "through the
+periscope" while the escort commander sees a map
+which is a composite of sonar, radar and visual
+sightings. Although I will mention some faults
+that keep this game from being perfect, I want to
+make it clear at the start that TORPEDO FIRE
+is an excellently conceived game. Fortunately, its
+faults do not keep it from being fun and exciting,
+nor do they keep it from being the best simulation
+of a confrontation between submarine and destroyer presently available. However, there is
+room for improvement.
+
+THE GAME SYSTEM
+Each turn of TORPEDO FIRE represents 60
+seconds of "real" time. Before the turn starts, both
+players must give orders to their ships. As with
+other SSI games, each gets a turn in front of the
+computer, the other moves away so that he cannot
+see the monitor screen. It is during this order
+phase that the players use their radar and/or
+periscope to view the battle. They may call up a
+
+status report for each ship to inspect damage,
+confirm orders, check on the reloading of torpedoes, or whatever. Each side has a secret
+password to prevent the enemy from peeking at
+their status and orders.
+Once all orders are entered, movement and
+combat are conducted simultaneously during the
+Computer Activity Phase. Every 3 seconds, the
+computer recalculates ship positions and checks
+for collisions between ships and orders to fire
+weapons. Depth charges which have been dropped
+explode as they reach the depth for which they've
+been set and torpedoes may detonate as they hit or
+pass close by a ship. At this point, both players
+may watch the monitor while the computer prints
+a list of messages that describe the action:
+COLLISION CHECK AT TIME = 0
+
+COLLISION CHECK AT TIME = 3
+COLLISION CHECK AT TIME = 6
+COLLISION CHECK AT TIME = 9
+TORPEDO AWAY
+TORPEDO AWAY
+COLLISION CHECK AT TIME = 12
+COLLISION CHECK AT TIME = 15
+TORPEDO NARROWLY MISSED F3
+F3 SUNK BY TORPEDO!
+15 VP'S AWARDED TO UNDERWATER SIDE
+COLLISION CHECK AT TIME = 18
+and so forth .....
+Other SSI games have been criticized for the
+long time taken by the computer. In TORPEDO
+FIRE this phase begins with the warning, "This
+will take 1 - 5 minutes." This estimate is very
+accurate; I've timed it from 40 seconds for 3 ships
+to 7 minutes for 14 ships with 8 torpedoes running
+and a dozen or so depth charges sinking. Usually
+it takes a minute to a minute and a half. Waiting
+doesn't seem tedious since there are messages
+appearing on the screen constantly. When it does
+take longer than 2 minutes, it's because an attack
+
+is underway and then this phase becomes the most
+exciting part of the game!
+After the computer has simulated 60 seconds of
+time, there is a brief search phase while the
+computer determines who can see what and then
+it's time for orders again.
+
+GETTING STARTED
+The first time you play, TORPEDO FIRE will
+probably seem awkward. There is ample information available but the game makes you work for
+it. This is quite deliberate. It would be very easy to
+have the computer tell you the exact bearing and
+range of every enemy ship you can see, but would
+that be realistic? Judging these two factors
+through a periscope, was one of the skills a new
+submarine skipper had to learn. So it is here.
+There is a "Torpedo Data Computer" to help
+you calculate an intercepting course for your
+torpedoes, but results depend entirely on your
+estimation of the enemy's course, range and speed.
+Likewise, the destroyer captain will have to learn
+to visualize ship movements up to several minutes
+ahead and to develop an effective technique for
+dropping a pattern of depth charges.
+Ship handling can be a real challenge and it's
+not at all unusual for surface ships to run into each
+other in the first few games. Unfortunately, such
+collisions always result in both ships sinking with
+full victory points awarded to the enemy. I
+consider this an unrealistically heavy penalty, but
+it does encourage good seamanship.
+To help the escort commander, there is an
+"execute" command which allows him to preview
+his orders before they are actually carried out.
+Each escort in turn can be made to move in slow
+animation across the map. Depth charges are
+marked with large black asterisks. If a mistake is
+
+discovered, it's still possible to revise orders for
+any or all ships. My only complaint is that you
+can't preview the convoy's move unless you've
+given it orders, which you can only do every 6
+turns.
+The use of sonar is another fine art. The slower
+the escorts go, the better able they are to maintain
+contact. But then, too, the more time the sub has to
+put a fish into a tanker. A good tactic to use when
+you have two or more escorts is to keep one almost
+stationary to keep a fix on the sub while the orders
+run in at high speed to attack. It is NOT a good
+idea to attack at low speed. You'll know where
+your enemy is, but you'll also get the stern blown
+off your destroyer!
+
+GRAPHICS
+TORPEDO FIRE's use of graphics is well
+thought out. Positional information is presented
+with high-resolution graphics and status information is presented in text. This approach contributes much of the "feel" of the game.
+Visually, the graphics are fields of blue with
+white grid lines to help the viewer judge distance
+and bearing. The escort player's maps view the
+battle from overhead with each type of ship distinguishable by a different "deckplan". The view
+through the periscope, on the other hand, has
+perspective. The grid lines converge in the
+distance and ships appear smaller as they get
+further away. Again, each type has a distinct
+profile, both from broadside and at an angle.
+When seen bow on or stern on, it is harder to
+distinguish ship types but it can be done at close
+range. In order to make it easier to judge range and
+direction the periscope does not give a water-level
+view. This would put most ships on the horizon.
+Instead, the 'scope appears to be 50 to 100 feet tall.
+This sounds unusual, but I quickly got to where I
+didn't notice it at all. A lower vantage point would
+obviously be more realistic but wouldn't convey
+enough information.
+There is one aspect of the graphics which could
+be improved. If you point the periscope north
+(bearing 0 degrees) and see a ship coming directly
+at you, you will see the ship bow on. So far, so good.
+However, if you now pivot the 'scope so that it
+points NE (bearing 45 degrees), the ship is still in
+your field of view but it no longer appears to be
+coming at you! Instead of bow on, the profile is
+now seen at a 45 degree angle. This can be really
+confusing and it offends my sense of realism; a
+subjective matter, I admit. The problem could be
+solved by comparing the ship's course to the
+bearing from the ship to the periscope rather than
+the direction the periscope is pointing.
+
+WHAT'S A SIMULATION
+According to Webster, a simulation is
+something which has "a superficial resemblance" to something else. Almost every
+computer game simulates something; we can
+tell them apart by what they simulate and
+judge them by how well they do it. An auto
+racing game, for instance, may simulate
+driving on a famous race track. A stock
+market game, on the other hand, would simulate investing. They might both be good
+simulations, but one would develop good
+reflexes, the other good judgement.
+A wargame is a kind of HISTORICAL
+simulation and should therefore bear a
+resemblance to historical events. Since a
+good game requires some freedom of choice,
+the ideal historical simulation drops you
+back to a certain point in time and lets YOU
+make the important decisions which determine events from there on.
+Even though historical simulations in the
+form of computer games are very new,
+they've been around for years in other forms.
+The last 10 years have seen tremendous
+growth in the sales of board games and many
+of these are historical simulations. Let's look
+at some of the characteristics that can be
+used to describe a game based on historical
+events.
+The SUBJECT may be military, political,
+economical, sociological, or any combination
+of these. Games on military history predominate, probably because they've been around
+the longest. Professional soldiers have been
+using them as a training tool since the 1820's.
+As people in other fields discover their value,
+games which model other aspects of history
+will become more common.
+The SCALE of the game is like the scale of
+a map. Does it show the major features of a
+large area or a small area in greater detail?
+To use a military example, a game could
+portray the conditions which face a private in
+combat, those which face a general leading
+an entire army, or the leader of a nation
+conducting every aspect of the war. Generals
+call these three levels; Tactics, Strategy, and
+Grand Strategy, but gamers use many
+different terms to describe each scale. To give
+one example, if one turn in the game represents one minute of "real" time, it will be a
+tactical game because it would take forever to
+Continued on page 32
+
+The sub-commander can also use radar to get
+oriented. It gives a typical "scan", a circle with a
+white "second hand" sweeping 'round and 'round.
+The ships appear as blips -- you can judge range
+and bearing but not type. Radar is particularly
+useful at night because it then has greater range
+than eyesight and so will reveal ships which will
+not appear through the 'scope. On the other hand,
+radar sometimes will not show a ship that you can
+see quite clearly! Radar on both sides show false
+blips about 10% of the time. I find it both amusing
+and appropriate to be wargaming in an imperfect
+world.
+
+THE FEEL OF THE GAME
+The great joy of a computer game is the absence
+of what I call "bookkeeping". There are no pads
+and pencils, no counters to move, and no dice to
+roll! The processes of resolving combat and determining radar and sonar contacts are all hidden
+within the computer. Experience with the game,
+playing a variety of situations, is the only way to
+learn how effective and dependable your weapons
+are. Of course, it's unlikely that a person would be
+given command without some knowledge and,
+with this in mind, the rules contain several examples
+of probabilities. For instance, an escort moving at
+5 knots will, with the worst possible luck, still be
+able to find a sub within 1000 yards. These
+examples may not mean much to a first-time
+reader but they do when you go back and study
+them after you've played a couple games.
+
+TORPEDO FIRE will reward a player who
+plans ahead and who calculates relative ship
+positions precisely. For instance, if a torpedo
+comes within 150 yards of a ship there is a chance
+it may detonate (due to magnetic exploders). The
+closer it comes, the greater the likelihood of an
+explosion. While I can't give you any percentages,
+my experience indicates that accuracy pays big
+dividends.
+Depth charges always go off when they sink to
+the depth for which they were set. The problem
+here is that you have no idea how close they were
+to the sub. To help players learn this, there is a
+"Beginner's Option" which can be selected with
+any game. If you choose it, the computer will tell
+you by how much you missed every time a depth
+charge explodes if it was within 250 yards of the
+sub. The trick is to drop a pattern that guarantees
+at least one will be close no matter how the sub
+twists and turns.
+
+THE INTRODUCTORY SCENARIO
+When you boot TORPEDO FIRE, you are
+presented with a menu of five choices. Until you
+
+are ready to design your own scenarios, only one of
+these choices will get you started on a game; the
+Introductory Scenario.
+In this game, a German U-boat attacks a
+British convoy. The convoy has 3 ships -- a
+freighter, a tanker, and a freighter in line -- and is
+flanked by destroyer on each side. The sub has just
+been detected directly astern of the starboard
+escort. It is in a good position to close in and put
+fish into the tanker or the rear freighter. If the sub
+can sink both, it wins since they are worth 30 and
+15 points respectively and the U-boat is only worth
+40. The more patient sub commanders will use all 4
+bow tubes to "make sure" of the freighter and then
+go deep and wait out the depth charge attack for a
+15 to 0 victory. This is a good training scenario for
+both sides. Once you feel you've got it all down pat,
+though, you're going to want variety.
+
+THE SHIPYARDS
+The Shipyard program is not of the same high
+quality as the game program. While it does what it
+was designed to do, it's not very forgiving if you
+make a mistake. It begins by asking you what
+period of the war this is, what nationality the
+ships are, and how many ships there are. While it
+usually checks to make sure you've given a valid
+answer, there is no cross-checking. You can enter
+the wrong combination of "valid" answers and
+not discover it for some time. If you do, you may
+have to start all over, which means re-booting the
+disk. If you spent 10 minutes entering data for a
+new scenario, you'll just have to do it again!
+Next, you enter the starting position for each
+ship and change any other data such as speed,
+course, point value, or damage. Rather than ask
+about each item individually, all of the ship's data
+are displayed and you are allowed to make
+whatever changes you want. This is a two-edged
+sword and there is a warning in the program about
+being careless. If you create an invalid field in the
+ship's record, you probably won't discover it until
+the game program "crashes"' because it can't
+process the field. If this occurs, you'll have to go
+back to the Shipyards and use the "modify
+existing scenario" option.
+
+Once you finish entering a scenario, you must
+give it a name and write it on a disk. TORPEDO
+FIRE has its own Disk Operating System which
+would be fine if it were complete. It doesn't check
+for duplicate names and if you give it one, it
+doesn't erase the old file before it writes the new
+one on top of it. Net result: unreadable file; enter
+your scenario again and give it a unique name this
+time. "Wait a minute," you say, "If I wanted to
+change a scenario why don't I use the 'modify'
+option?" Well, that works as long as you're
+changing the data for one or more ships, however,
+it won't let you add or delete ships. It sounds like
+we have to delete the scenario and start all over if
+we want to do that, right? Only half right. You can
+start over again, but you can't delete a scenario!
+Nor can you transfer scenarios from one disk to
+another without re-entering them.
+All of this would be forgivable if you could use
+Apple DOS to delete or copy but, as I'm sure you've
+guessed by now, the format used by the game isn't
+readable by either 13 or 16 sector Apple DOS. As
+an off-shoot of this, the disk you save your
+scenarios on must be formatted by the game before
+you attempt to save the scenario. If you try to write
+a scenario on an unformatted disk, you will lose it!
+One other piece of advice to those of you who will
+be creating scenarios for TORPEDO FIRE: if
+you want to start a ship with some damage
+already done, be sure to reduce the Total Damage
+Points field as well as Current Damage. The
+reason for this is that victory points are based on
+the difference between the two. Unless you want
+points to be awarded for damage which occurred
+before the scenario began, this difference must be
+zero.
+
+THE COMPUTER AS OPPONENT
+A hallmark of SSI games is their sophistication in computer opponents and TORPEDO
+FIRE is no exception. Otto Von Computer (him
+again! I thought he went down with the Bismarck
+... must have been rescued by a U-boat) is a skillful
+and unpredictable enemy. He will launch torpedoes from varying ranges and angles, surface to
+use the deck gun at night (if no escorts are close by)
+and go ever so slowly to avoid sonar detection
+when the hunters get near.
+In all solitaire scenarios, the computer places
+the submarines at random. Thus, you can't take
+any unfair advantage because you know where
+the sub will start in a 2 player version of the same
+scenario. In one scenario I created, a tanker plays
+the role of the carrier SHOKAKU returning to
+Japan after being damaged in the Battle of the
+Coral Sea. With the help of a single destroyer, it
+must try to evade a single American sub which
+
+stands between it and home. The computer does
+not seem clever enough to always place the sub so
+that it has a chance at the target. I don't know if
+this is due to the 12 knot speed of the carrier or
+lucky course changes, but twice the sub has
+apparently never been able to get into firing
+position. Of course, of the four times when contact
+has been made, I've lost three.
+
+CONCLUSIONS
+TORPEDO FIRE represents the leading edge
+in computer wargames as of early 1981. Although
+extremely well conceived, the concepts could have
+been better implemented. It's easy to think of
+things that would be nice to add to TORPEDO
+FIRE. There is no provision in the current game
+for escorts which are too small to torpedo or have
+wooden hulls (and thus won't set off a magnetic
+exploder). For that matter, the submarine captain
+should be able to set the torpedoes to run shallow
+or deep and choose between contact and magnetic
+exploders. Other possibilities would be to add the
+ability for cargo ships to maneuver independently
+and fire guns, to set a maximum depth (the
+bottom) for submarines, or to allow for the effects
+of choppy versus smooth seas.
+More importantly, it would be interesting to
+play the submarine side in a solitaire game. The
+novelty and "you-are-there" feeling of the
+graphics for the submarine player make it, in my
+opinion, much more fun for the solitaire gamer.
+The only justifiable reason to leave this out would
+be the difficulty of programming good tactics for
+the surface ships. Perhaps this is the reason; if not,
+I think SSI missed a bet by leaving out this option.
+I certainly wouldn't object to seeing it in an
+improved release of TORPEDO FIRE.
+
+ROBOTWAR from Muse Software is a computer
+game for the Apple II which pits robots against
+each other in a struggle to the death. All robots are
+equipped with the same hardware. The only
+difference between robot combatants is the program
+you write which determines how your robot will
+respond on the battlefield.
+The software package includes a diskette and a
+75 page manual which covers everything needed
+to create your own robot. The diskette has five
+robots with simple routines, ready to do battle
+against each other or to challenge any robots
+which you, your friends or family design.
+The battles take place on a square field with
+walls 260 meters on each side. You observe the
+battle from directly above the battlefield where up
+to five robots can compete at one time. The
+computer keeps track of all damage sustained by
+the contestants and displays it as a percentage on
+the right side of the screen. When damage exceeds
+100% robots are destroyed and removed from the
+battlefield until only one robot remains.
+The program you write runs in the robot's
+on-board computer. This computer contains 34
+registers, ten of which control or monitor specific
+robot functions like speed and position. The robots
+can move in any direction by inputing horizontal
+and vertical speed to the appropriate speed
+registers. Robots have a maximum speed of 25
+meters per second and accelerate at four meters
+per second.
+The robots are equipped with a gun and radar
+which can be turned in any direction. When a
+direction is loaded to the radar register a radar
+beam is emitted. The returned beam represents the
+
+range and is stored back in the radar register. The
+range can then be moved to the shot register to fire
+the gun.
+If a shell hits or explodes near a robot, the robot
+will sustain damage. Damage, however, does not
+degrade the performance of the robot. Damage
+accumulates until the robot's limit is reached and
+is then removed from the field. Robots can also
+sustain damage by running into walls or other
+robots.
+The robot programs are written and entered into
+the computer using a text editor. The robot
+language is similar to a very limited BASIC which
+makes it easy to learn. When you finish entering
+and editing your program it is assembled and
+translated into robot object code. The assembler
+checks for errors and prints a message indicating
+the type and location of any errors found. Once
+assembled the robot can be put onto the
+battlefield. There is also a test bench which is
+useful for finding bugs. It allows you to step
+through the program, an instruction at a time,
+while displaying the robot's registers.
+The game comes with five preprogrammed robots
+of simple complexity. They are Target, Scanner,
+Mover, Random, and Bottom.
+Robot Target is just that. He does nothing.
+Scanner is programmed to sit and scan for other
+robots. When he spots one he will continue to fire
+as long as the target remains in his radar sight.
+Mover is like Scanner except when hit he
+executes a movement routine which moves him to
+another random place on the battlefield.
+
+My next robot was designed to deal directly with
+Bottom. I needed to knock Bottom out, take his
+place, and improve his routine. And thereby was
+born Bottom Killer or BK for short.
+BK moves toward the bottom of the field,
+searching below him for other robots. Once at the
+bottom the SIDE routine looks left and right to see
+if Bottom is down there. He then moves along the
+lower wall like Bottom, but with his radar facing
+forward twenty-five degrees. If a target is spotted
+the FIRESCAN routine fires a shell and then
+moves the gun to a new angle in an effort to keep
+the radar and gun trained on the target.
+
+Random moves in a random direction pointing
+his radar and gun in the direction of travel.
+Bottom is the most sophisticated of the supplied
+robots. His program moves him straight down to
+the bottom wall and then has him move back and
+forth between the left and right edges. As he
+moves his radar and gun are pointed straight up.
+After watching the robots battle each other and
+observing the pit falls of the designs, I started
+forming a strategy for my first robot. Mover
+scanned 360 degrees and sometimes missed targets
+because he increments his radar in thirteen degree
+steps. I figured, from a corner a robot would be out
+of the way and only have to scan 90 degrees.
+Hence, my first robot, Coward.
+Coward heads for the upper left corner with his
+radar scanning a narrow path in front of him to
+avoid running into other robots. Once set in the
+corner Coward didn't scan very fast because I had
+to step the radar only four degrees in order to
+assure spotting all targets. I tried two damage
+routines and neither was very effective. By the
+time Coward could accelerate he would take two
+hits and usually took another before he got up into
+the corner.
+Despite these short comings, Coward could
+usually defeat all but Bottom. Bottom would move
+to the left side and hit Coward once. Coward would
+exercise his damage routine and just get set when
+Bottom would come over and hit him again. This
+would continue with Coward seldom getting a
+shot off.
+Bottom could beat the other robots in a one-onone battle because he had a major advantage
+which the other robots didn't. Because he moved
+constantly, he didn't need a damage routine when
+hit. Other robots seldom got more than one shot off
+at him, and it usually missed.
+
+The angle in the FIRESCAN routine is computed
+using the speed of BK and the range to the target.
+The actual speed is not really important. It is used
+because it gives the direction BK is moving.
+Direction is important for determining if the angle
+is to be increased or decreased.
+Angles can be computed with a linear function
+because for small angles the cosine is fairly linear.
+The angles don't become large unless the range is
+small, but a close range accuracy is not as
+important because the target occupies a larger
+field of view.
+BK proved very successful against the supplied
+robots and Coward. Still, he is only an improved
+Bottom which leaves him vulnerable for the same
+reason. BK was quickly destroyed by a less
+sophisticated robot built by a friend because he
+knew where to find him.
+I next wanted to create a robot which would
+move continuously. In doing so he would follow a
+circular pattern. George would be difficult to lock
+onto since he would be moving and wouldn't
+follow a straight line path.
+The circular path is in reality an octagon,
+turning 45 degrees every third time through the
+SCAN routine. In order to compute the vertical
+and horizontal speed I used the first ten memory
+registers to store a sine function table. Dividing
+the heading by 45 will produce a direction between
+zero and seven. Putting this direction in the index
+register and adding one will allow you to read the
+appropriate register for vertical speed. The contents
+of this register is then multiplied by the last
+known range to a wall and stored in Speedy
+(vertical speed control). The horizontal speed is
+then found by adding two to the index register
+which is the same as adding 90 degrees to the
+heading.
+The damage sensor in the SCAN routine ignores
+near hits by adding five to the damage and
+comparing it to the damage level stored during the
+TURN routine. When a hit is detected a check is
+
+made to determine if George is still moving. If so
+he makes a premature 45 degree turn. If not, then
+he has run into another robot and a close quarters
+search is made. The heading and range of the
+shortest radar range is stored and used at the end
+of the search for the KILL routine.
+Another new feature of George is in the FIRE
+routine. When a target is spotted the gun is
+brought to bear and a shot fired. Then the range is
+stored in register P and a counter, Q, is set. These
+are then used by SCAN routine to continue firing
+blindly in the general direction of the target while
+the radar continues to scan.
+The defensive aspects of George are good, but
+his offence is lacking. His fifteen degree increment
+of the radar misses a lot of ground. I had to add a
+section to the end of the TURN routine to direct the
+radar at 90 degrees to the direction of travel or the
+whole center would go unnoticed. BK will beat
+George, but George will last a lot longer than any
+other robot. If his radar scanning could be
+improved he would be a tough robot to beat.
+These are the robots I have developed thus far. I
+will now cover some facts I have discovered about
+the robot computer along with some new ideas I
+may include in future robots.
+The Robot Computer
+It should be noted that floating point numbers
+can be stored in most memory registers as
+demonstrated by the trig table in robot George.
+The memory registers will also hold numbers
+greater than 1,024. I had the A register over
+256,000 before terminating one experiment.
+The index register will hold only integers between
+0 and 25. Numbers outside this range will be
+converted back into it. Contrary to the example
+given on page 20 of the instruction manual, loading
+27 to the index register will produce a one which
+will then use the contents of the A register.
+Loading 26 will produce a zero and use the
+Z register. The index register can also be used for
+finding the integer of a number if the number is
+positive and less than 26. That is what I did at the
+end of the SCAN routine of George.
+The Aim register is similar to the index register.
+You can load any number you like, positive or
+negative, and it will be converted to a heading
+between 0 and 359. This makes computing angles
+simple since you won't have to worry about an
+angle being out of range.
+Scanning presents a major problem. Since the
+robots have no way of detecting the direction from
+which they are hit, they must scan everywhere to
+find the enemy. For a 360 degree scan this can be
+
+very time consuming. Bottom has one way of
+overcoming this problem, but as a result he is
+predictable and thus easy to find and destroy.
+Coward demonstrated that a four degree
+increment seemed to pick up all targets. This is
+fine for ranges greater than 200 meters, but if you
+are scanning a wall twenty meters away it is
+wasteful. By using an inverse function of range,
+similar to the BK FIRESCAN routine, you can
+develop a scan which would increase its increment
+as the distance to a wall decreases. This should
+improve the time it takes to perform a thorough
+scan.
+My most recent robot Test is an experimental
+robot which uses such a scan routine. He also has
+a new fire routine. The fire routines used by
+Scanner and Mover are short but too fast for the
+delay required for the gun cooling period. If you
+watch closely, when they are locked onto a target
+their radar flashes twice for each shot fired.
+Instead of running through the same code twice to
+fire a shot I use the time to check for movement by
+looking left and right of Aim. Aim is trained on the
+last sitting of the target and is used as a reference
+point to direct the radar in a search. Once spotted,
+Aim is repositioned if necessary and a shot fired.
+The routine looks long but Test fires as rapidly as
+Mover and can follow, with his radar and gun,
+targets that do not move too fast. Of course Test is
+not yet a complete robot as he still needs a
+movement and damage routine.
+I hope I've stimulated your imagination since I
+would like to see other robots, for it is through
+competition that we will build better ones.
+ROBOTWAR (Muse) requires an Apple II with
+48K and Applesoft in ROM. The price is $39.95.
+
+COMPUTER GAMING WORLD'S
+
+ROBOTWAR
+TOURNAMENT
+We at COMPUTER GAMING WORLD are
+impressed with Muse's ROBOTWAR and
+want to thank Bill Edmunds for introducing
+the game to us. Not only is it an excellent
+game, it can also be played by two or more
+persons geographically separated. This
+makes it somewhat unique among games for
+today's microcomputers. For these reasons
+COMPUTER GAMING WORLD (in cooperation with Muse Software) announces the
+FIRST COMPUTER GAMING WORLD
+ROBOTWAR TOURNAMENT.
+You are cordially invited to put your best
+ROBOTWAR robot to the test. There is no
+entry fee. There will be a trophy and official
+ROBOTWAR T-shirt for the winner. T-shirts
+will also be given to runners-up. The T-shirt is
+to be worn by the designer, not the robot.
+
+1) Send your robot program (source and
+object codes) on a diskette to COMPUTER
+GAMING WORLD, 1919 E. Sycamore #203,
+Anaheim, Ca. 92805. Mark your package
+"Attention Robotwar Tournament".
+2) Include a brief description of the robot.
+What is it designed to do?
+3) Only one entry per person.
+4) Be sure to include return postage if you
+want your diskette returned.
+5) Include T-shirt size (S, M, L, XL) and color
+(Blue, Yellow, Tan) in case you are a winner.
+6) Entries must be received by January 20,
+1982.
+7) Winners will be announced in Issue # 3
+(Mar-Apr 1982).
+The actual structure of the tournament will
+be determined based on the number of
+entries. If possible a round robin type tournament will be used. COMPUTER GAMING
+WORLD assumes no responsibility for
+damaged or lost diskettes.
+
+B - 1 NUCLEAR BOMBER:
+A Strategic Map
+
+CHRIS
+CUMMINGS
+
+In Avalon Hill's B-1 NUCLEAR BOMBER, you
+fly a B-1 bomber deep into Russian airspace, drop a
+one megaton nuclear warhead on your target and
+return to Greenland. Naturally the Russians will
+try to stop you.
+As the bomber gets deeper into Russia the radar
+picks up MIG fighters and SAM anti-aircraft
+missiles as they are launched from the defense
+complexes at you. The radar gives a constant
+update on the approaching interceptors as they
+close in. They are armed with tactical nuclear
+warheads.
+B-1 NUCLEAR BOMBER is a fun game. It has
+much of the intensity of flying the critical mission
+into hostile airspace. The game has no graphics
+and describes the action to you in words.
+The game, however, is limited in both technical
+correctness and uses some shallow gaming
+techniques.
+Minor details bothered me about the game. The
+game bomber travels at 4500 KPH regardless of
+altitude. The real B-1 can go Mach 2 only at high
+altitude. At sea level it is subsonic. Also the SRAM
+range is unaffected by altitude when the real
+SRAM's range is reduced from 100 miles to 35
+miles as you get closer to the ground.
+
+requested but if you have no idea where you are or
+what to expect you're in for a short and most likely
+unsuccessful flight. To correct this flaw we
+provide a strategic map for B-1 NUCLEAR
+BOMBER. A quick study will show that there are
+better routes to take than just flying straight at
+your target. It also shows that Murmansk is the
+easiest objective while Volgograd may be the
+toughest.
+You enter the map from the upper left. The
+starting point is about 3000 KM out in a direction
+along a line drawn through MOskva and
+LEningrad.
+KHar'kov shows up twice on the map. The game
+program puts it at about 52N 52E when the city is
+actually at 50.00N 36.15E. To fix the location
+change program line 55 DATA ..., KHAR'KOV,
+8850, 7450, ...to , KHAR'KOV, 7850, 7450,...(in
+Apple II version). If you plot the cities from the
+program data, this change moves the city of
+KHar'kov much closer to its actual location.
+B-1 NUCLEAR BOMBER is written in BASIC
+and loads in a 16K machine. Since it is in BASIC it
+executes slowly. Some autopilot turns can take a
+minute or more to execute with no activity on the
+screen.
+
+These technical flaws are understandable in a
+game program but because of them there is no
+penalty for flying low. The entire game strategy is
+reduced to flying on the deck until you get close
+enough to a defense complex to blow it to bits with
+a Phoenix air-to-ground nuclear strike.
+
+The good thing about being in BASIC is that the
+original program can be easily accessed and
+modified to include more realistic action and flight
+performance. It seems that the more improvements I make to the program the harder it is to
+reach the target. The more "realistic" it gets the
+"smarter" the Russians get and the more I get shot
+down.
+
+If you blow up five or six defense complexes on
+your way in, you can waltz back after your strike
+without incident.
+
+Maybe flying a nuclear bomber into Russia at
+treetop level is not as easy as it seems to be.
+
+Also, once a missile/fighter is launched you get
+constant updates such as "MIG-31 intercept in 326
+seconds." If you alter course even 180 degrees and
+fly right at him at 4500 KPH the intercept time
+stays the same. There is no way to outrun a
+pursuer or any penalty for flying right at him.
+
+Regardless, B-1 NUCLEAR BOMBER from Microcomputer Games, Inc., a division of Avalon Hill
+Game Co. will bring hours of fun, especially to the
+war monger who has always wondered what it
+would be like to sit in the cockpit of a sophisticated
+flying machine and drop a nuclear load on the
+"enemy".
+
+The biggest flaw with the basic game seems to
+be the lack of a map of Russia. Flying blind into
+Russian airspace is foolish. The navigational
+computer gives range and bearing to any place
+
+Air Force
+Mission Planning
+by Computer
+by Russell Sipe
+
+It is 6:45 am, October 8, 1983. Captain Greg
+Boyles stands next to Squadron 223's flight planning
+station (FPS), selects a riverbend on the map and
+presses the digitizer to it. CAMPS (Computer
+Aided Mission Planning System) plots a flight
+path from Captain Boyle's airfield (R-113 just
+north of Seoul) to the riverbend. The color monitor
+displays the plot, amount of fuel used, selected
+altitude, and other necessary information. Boyles
+shakes his head in slight annoyance when he sees
+that his projected path takes him through a zone
+of medium threat (projected on the monitor by a
+yellow blotch). Looking to the west of the riverbend
+he had intended using for a navigation point he
+selects a nearby road intersection. Touching the
+digitizer to the map Boyles watches CAMPS replot
+his course. This time CAMPS tells him that his
+new plot is completely in a safe zone. Satisfied
+with this leg Boyles goes on to plot the next three
+legs of his flight which brings him to the east end
+of a lake. Just across the lake is his target - Koksan
+airfield. There's no "safe" path now. Boyles thinks
+to himself as he keys into the computer the path of
+his bomb run. For the next three minutes his plane
+will fly through red "high risk" and yellow
+"medium risk" zones. Following his attack run,
+during which he will drop 24 "500 lb." bombs from
+his F-4, Boyles will fly to a road intersection
+several kilometers north of the Koksan airfield.
+Having plotted a course through the worst of the
+danger zone Boyles plans his next four legs to
+carry him through "safe" corridors back to R-113.
+Selecting a new option from the CAMPS menu of
+functions, Boyles thinks to himself how much
+better the CAMPS system is (with it's terrain
+effects features) than the old manual method
+(which lacked any terrain masking effects). For
+several days he had been flying within three
+
+kilometers of a particular SAM (Surface to Air
+Missile) site that, thanks to CAMPS, Greg knew
+could never hit him if he flew at 500 feet or lower.
+This was so because CAMPS showed him the
+masking effect of a particular ridgeline north of
+the SAM site, an effect which couldn't have been
+seen by just looking at his navigation chart.
+The monitor flashes a message that it is ready to
+continue his flight plan. Now Boyles zeros in on
+that three minute selection of his flight in which
+he will be exposed to the greatest danger. Calling
+up a series of charts Boyles asks the computer for
+the specific locations of his threats during those
+three minutes. CAMPS tells him that two SAM
+sites, one 12 klicks southeast of his IP (initial
+bomb run point), and one 8 klicks north of his IP,
+will combine to give a 52% probability of kill on his
+F-4. Since he will be too far from the range of the
+stand-off jamming planes, he decides to see what
+the effect of both his self protection jammer and an
+escort jammer would be on the SAM sites. CAMPS
+processes his request and returns a new kill probability figure - 28%. "That helps" thinks Boyles "but
+a flight with a 28% kill probability will play hell
+with my insurance rates and on what the Air
+Force pays me..." -- jolted back to reality and the
+problem at hand Boyles requests CAMPS to tell
+him what would happen if ARMs (Anti-Radiation
+Missiles) were fired at the SAM sites. The answer
+-8% kill probability. "That's better", Boyles thinks
+to himself and orders the computer to print out his
+flight plan while he looks around the OPS room for
+his squadron commander to request the escort
+jammer and ARM attack.
+What may sound like a computer game that we
+will be playing in the near future is, in reality, a
+
+computer based software package that the U.S.
+Air Force is presently field testing. The system,
+which is known as CAMPS (Computer Aided
+Mission Planning System), is being developed by
+Comarco Incorporated of Anaheim, California.
+According to Woody Woodbury, Advanced Programs
+Director at Comarco, CAMPS is in an advanced
+
+development stage and is projected to be operational
+in one to three years.
+In 1977 several branches of the military conducted
+a test, the EWJT (Electronic Warfare Joint Test),
+at Nellis AFB outside of Las Vegas. EWJT showed
+the need for a mission planning system which
+could take into account known enemy sites as well
+as the effects of terrain around those sites. The
+offspring of the EWJT was EWTAP (Electronic
+Warfare Tactics Analysis Program). In 1978, after
+some involvement with the Navy, Comarco was
+contracted by the Air Force to develop a system
+similar to EWTAP know as EPASS (Experimental
+Penetration Analysis Support System). Now
+known as CAMPS, the system is designed to be
+used by squadrons to assist in planning
+air-to-ground missions. The entire operation (which
+runs on a Convergent Technologies micro-computer using a digitizer and touch command menu),
+was designed to be portable, rugged, and usable by
+pilots without computer training (a pilot can learn
+to use the system in minutes if necessary).
+CAMPS is an improvement over manual mission
+planning due to its consideration of the effects of
+terrain on the performance of enemy weapon
+systems. Presently only the radius of known installations is used by planners, with no consideration
+for the effects of terrain. CAMPS utilizes the
+terrain features around an enemy site to project a
+true "radius". By flying at lower altitudes aircraft
+not only can elude ground-based radar, they can
+also make use of the natural lay of the ground to
+mask themselves from enemy fire. This terrain
+analysis can be crucial in dense enemy environments.
+In the above example of fictionalized future warfare
+between North and South Korea, Captain Boyles
+used CAMPS to tell him where the safe corridors
+were, based on the terrain around known enemy
+weapon sites.
+When the CAMPS system is initially set up,
+terrain and other important features are entered
+through the use of the digitizer board. Then all
+known enemy weapon installations are entered
+into memory making the system operational. As
+new sites are discovered and old ones removed or
+destroyed the data file is updated. CAMPS is
+designed so that a pilot can plan his entire mission
+in ten minutes or less.
+The pilot enters basic information such as:
+aircraft type; ordinance loaded on each "station"
+of the aircraft; desired speed and altitude for each
+leg of the mission; and the latitude/longitude
+points (through the digitizer) of the various navigation points. Most of the data may be stored in
+memory and can be "called up" rather than
+
+Continued on page 34
+
+by Stanley Greenlaw
+Most wargamers are familiar with "The Playboy Winner's Guide to Board Games" (Playboy
+Press) and "The Complete Book of Wargames"
+(Fireside) by Jon Freeman. The author of these
+two excellent surveys of the gaming hobby is also
+very active in the computer gaming field. His
+name can be found in the credits of many Automated Simulation Games. One of his latest
+projects along with J. W. Connelly is CRUNCH,
+CRUMBLE, AND CHOMP!, (The Movie Monster
+Movie Game).
+CRUNCH, CRUMBLE, AND CHOMP! lets you
+be the alter ego for the movie monster of your
+choice as you devastate one of four famous cities
+by burning buildings, crushing bridges, as well as
+eating people, cars, and other assorted moving
+things. The "Feature Creatures" (pre-generated
+monsters) are Goshilla, Kraken, Arachnis, The
+Glob Mechismo, and Mantra. Each being similar
+to well known movie monsters. Or if you prefer to
+be monsterous in a different way than the feature
+creatures you can create your own. To create your
+own you choose a carcass such as "Sea Monster",
+"Robot", "Brontosaur", or one of 6 other types.
+Then you give to that carcass monsterous abilities
+such as breathe fire, stomp, atomize, etc. Each
+ability is payed for with "Crunch Points" of which
+a limited number are permitted per carcass type.
+With this "Create your own" feature you can
+create anything from a dragon (brontosaurous
+carcass with flight and fire breath) to a giant
+tomato (to roll through the town crushing
+buildings, rolling over and eating people as well as
+leaving a web-like trail of tomato paste behind).
+This is a game for your wildest fantasies.
+Speaking of fantasies, which of us hasn't at one
+time or another wanted to strike back at the
+bureaucratic institutions that have mistreated us?
+Remember the time the Post Office delivered your
+copy of Time magazine and there were three
+articles clipped out? Remember when the I.R.S.
+told you that you had to pay a tax penalty because
+you didn't report the $10.00 you were awarded by
+the state disability board in consideration of your
+career ending accident which occurred when the
+phone company dropped a telephone pole on your
+car? Now you can strike back to your heart's
+delight. For with CRUSH, CRUMBLE, AND
+
+CHOMP! you can take your monster into the heart
+of Washington, D. C. and crush the I.R.S. to
+rubble, or burn the Post Office to the ground, or
+atomize the Justice Department. Not to mention
+all the mean things you could do to the Pentagon,
+White House or Capitol Building.
+If you prefer you can take your destructive urges
+to New York City and ravage Wall Street. Then
+again you can terrorize San Francisco and
+surrounding areas (how about eating everyone in
+Marin County). Or you can try your oversized
+talents in the legendary testing ground of the
+great monsters, Tokyo. The fact that the game is
+set in actual cities and most of us are familiar with
+at least one of them makes the game more
+interesting than if the game were set in an
+abstract city or some lesser known city like
+Sheboygan.
+CRUSH, CRUMBLE, AND CHOMP! follows
+the pattern of several other Automated Simulation games in that the game is played in semireal time. As the alter ego to the monster you enter
+your command at the keyboard. Unlike arcade
+games which have a perfect correlation between
+player time and screen time, CRUSH, CRUMBLE,
+AND CHOMP! regulates activity so that your
+monster will only accept your orders when it has
+finished executing it's previous orders. With this
+type of design you must be careful what orders
+you give. Nothing is more frustrating than commanding your monster to turn around and in the
+several seconds that it spends executing that
+command watch your intended victim run harmlessly away while a helicopter, tank, and national
+guard unit come up on your blind side and
+pulverize you.
+The bottom line in CRUSH, CRUMBLE, AND
+CHOMP! like so many games is your score. You
+score points according to the objective you select
+for your monster. You can choose to run a
+balanced scenario in which you get points for just
+about everything you do. Or you can choose to run
+a killer monster which gives more points for
+killing human units. Other objectives are
+"Combat machine", "Destruction", and
+"Survival".
+Continued on page 34
+
+That's what a broadcast style commentary on a
+game of PRESIDENT ELECT might sound like.
+Strategic Simulations has brought us another
+winner in this exciting new political election game
+by Nelson G. Hernandez Sr. With PRESIDENT
+ELECT we all can be what Henry Major
+Tomlinson called FDR, a "Happy Warrior of the
+political battlefield".
+
+Th e Po litical
+Apple
+by Russell Sipe
+Walter: "So at 10:42 PM here on election night,
+Nov. 5, 1984, Ronald Reagan has won his second
+term of office in the most remarkable landslide
+since Nixon beat McGovern in 1972. From our
+computer projections, we anticipate that Ronald
+Reagan will carry every state except Minnesota
+and the District of Columbia. He will thus gather
+525 electoral votes to 13 for Walter Mondale. The
+popular vote is projected to be 55% for Reagan, 44%
+for Mondale, and 1% for Libertarian candidate Ed
+Clark. Dan, we've seen the landslide developing
+all evening, beginning with the stunning victory
+of Reagan in Massachusetts, what do you think this
+election shows us?"
+Dan: "Well, Walter, this election with very few
+exceptions has given us little to be surprised about.
+The computer predictions that our network did
+back during the Democratic primaries showed
+that Walter Mondale never stood a chance against
+Ronald Reagan. Even with the stagnant economy,
+a negative view of America abroad, a 10%
+inflation rate and 10% unemployment, Reagan had
+a pre-campaign lead of at least 4% over the closest
+Democratic challenger, Henry "Scoop" Jackson.
+Mondale was 7% behind. I think it is safe to say
+that the demographics for 1984 have made it
+extremely difficult for any Democratic candidate
+to challenge the incumbent Ronald Reagan."
+Walter: "Thank you Dan, and that's the way it
+might be, November 5,1984, this is Walter saying,
+Good Night."
+
+PRESIDENT ELECT is SSI's simulation of the
+campaign for the presidency. In PRESIDENT
+ELECT you can replay any of the presidential
+elections from the Kennedy-Nixon contest of 1960
+to the Reagan victory of 1980. Or, if you prefer, you
+can set up a fictional contest between candidates
+for any of the elections including the 1984 contest.
+The game has a data file for 21 Democrats, 22
+Republicans, and 2 third party candidates.
+The Republicans are represented by: John
+Anderson, Howard Baker, James Buckley, George
+Bush, John Connally, Phil Crane, Robert Dole,
+Gerald Ford, Alexander Haig, Orrin Hatch, Jesse
+Helms, Barry Goldwater, Jack Kemp, Paul
+Laxalt, John Lindsay, Richard Lugar, Richard
+Nixon, Ronald Reagan, Nelson Rockefeller,
+William Scranton, Jim Thompson, and Lowell
+Weicker.
+The two third party candidates are Ed Clark
+and Barry Commoner.
+You are not limited to 1984 if you want to do an
+a-historical campaign. You can take any election
+from 1960 on and run any candidates in that
+historical context; or you can run the historical
+candidates in an election but change the historical
+contexts; or you can run non-historical candidates
+and change the historical contexts as well.
+For example what would happen if Lyndon
+Johnson had ended the Vietnam War and had
+decided to "seek a second term as (our) president?"
+What would happen if Robert Kennedy hadn't
+been shot and had run against Richard Nixon in
+the 1972 election? What would happen if two "big
+winners" like Lyndon Johnson (`64) and Richard
+Nixon (`72) were to go against each other?
+You can also cross party lines and run candidates of the same party against each other. For
+example, if you run Jimmy Carter (as an incumbent Republican) in 1980 against Ted Kennedy
+you will get, in most replays, a game that has the
+flavor of the 1980 quest for the Democratic
+nomination.
+When running candidates of the same party
+against one another you should designate the
+more conservative candidate as the "Republican"
+and the more liberal candidate as the "Democratic" candidate. How can you tell which
+
+candidate is the more liberal of the two? That's
+easy. The candidates are rated for social,
+economic, and foreign policy views. From the
+ratings on these three views an overall rating is
+assigned to each candidate. These ratings run
+from 0 (extremely conservative) to 100 (extremely
+liberal). Each candidate is also rated for speaking
+ability, magnetism, and poise. Those candidates
+that rate high in these latter three measurements
+will tend to do better in debates and on the
+campaign trail.
+But what if you want to run a candidate not
+contained in the computer's data file? A candidate
+who, like Jimmy Carter before the start of the 1976
+presidential campaign, is not well known
+nationally but who you feel can solve the nation's
+problems. Someone that has a tremendous vision
+for our country, someone like yourself. What can
+you do? Never fear for you can run ANY candidate
+in PRESIDENT ELECT. For candidates not
+contained in the program you can prepare a data
+file. If you enter the name of a candidate for
+President not in the game's stored memory files
+you will be given the opportunity to answer a
+battery of 20 questions based on 1980 issues to rate
+that candidate's political views. Then the newly
+rated candidate can, on the one hand, take on the
+best the other party has to offer, or on the other
+hand, take on your next door neighbor (assuming
+he or she has been rated).
+The game itself is made up of nine weekly turns
+running from labor day to election day. The
+players of the two major parties each begin with
+the same amount of money (29.5 million dollars)
+which must be used for the various campaign
+activities such as advertising, campaign stops,
+and overhead. Third party candidates begin with
+considerably less funds. The format of the game
+leaves room for multiple strategies. Do you spend
+your money early in hopes of building early leads
+that your opponent can't overcome? Do you save
+most of it for a big push during the final weeks? Or
+do you opt for a balanced spending strategy that
+will stay about the same throughout? The answers
+to these questions will often make the difference
+between a narrow victory and a narrow defeat. In
+one election replay John F. Kennedy won New
+York by only 400 votes out of over seven million
+votes cast. Would one more Nixon visit to the state
+have thrown it to the Republican player? Who
+knows.
+One very interesting element in PRESIDENT
+ELECT is the possibility of the candidates to
+debate one another. If the candidates agree they
+can debate as often as they wish. Once they decide
+on the number of questions to be asked (2 to 6) the
+
+computer will set up the debate, toss the coin to
+select which candidate answers the first question
+and ask the question. For example, the question
+might be: "What measures do you propose to
+prevent the social security system from bankrupting sometime in the future?" Rather than
+answering the question directly, the player determines what percentage of the candidate's time
+will be spent discussing the relevant considerations, stating his own position, contrasting his
+position with his opponent's, attacking his
+opponent's position, and killing time. After the
+second candidate gives his or her responses to the
+same question a series of rebuttals follow. These
+are dealt with in the same manner as the main
+question. In the rebuttals, time must be divided
+between emphasizing his own position, criticizing
+his opponent with witticisms and/or moral indignation, implying that the opponent is uninformed,
+and killing time.
+In replays in which only two questions were
+asked, we found that in most cases the debate
+could be won using the unorthodox procedure of
+allocating 50% of the time allowed in one of the five
+areas and 50% in another area. The debate could
+often be won on intangibles by this method.
+However, if you increase the number of questions
+to 4, 5, or 6 this procedure will rarely work. So, if
+you want a realistic simulation, use at least 4
+questions in a debate. But, if you're strictly out to
+win, and don't give a hoot about simulation, get
+your opponent to agree to a two question debate
+and try the 50/50 ploy on him. Remember that
+your candidate's speaking ability, magnetism,
+and poise are figured into a debate.
+The rulebook does a reasonably good job of
+suggesting possible strategies in your campaign
+spending. One should not, however, be misled by
+the rulebook's statement that national advertising is the least effective means of swaying votes
+in individual states. While the statement is true, it
+can mislead a player to spend very little on
+national advertising, spending it instead on
+regional and state advertising. Our replays have
+shown this to be an ill-advised strategy. A healthy
+national advertising budget will attack on all
+fronts and create havoc for your opponent if he
+isn't putting similar amounts into national advertising. In several replays of some of the closer
+elections players who had healthy national advertising against opponents who tended to let
+national advertising slide found a ground swell of
+support developing for their candidates by the
+sixth week that was often insurmountable.
+From one viewpoint it's too bad that computer
+game companies have been forced to use elaborate
+DOS protection techniques on their games. With
+
+that protection it becomes impossible, for the most
+part, to dig into a game's design in order to see
+what makes it "tick". Garners tend to not only
+enjoy playing games but also enjoy analyzing the
+game design. Did the designer succeed in his
+game/simulation, how could it be improved?
+There are over a dozen board games on the eastern
+front of WWII alone. Why so many? Because game
+player/designers have studied the old games and
+feeling that the old games could be improved upon
+have designed new games on the same subject. It
+is through this means that the state of the art in
+game design is advanced. We don't know the
+internal rules and formulas for PRESIDENT
+ELECT. Therefore the designer within us is
+frustrated. Has Mr. Hernandez correctly factored
+in the demographics of a particular election year?
+What if my view of the political demographics of
+1984 are different from his. It is very difficult to
+look into this matter. However it is not impossible.
+Although we cannot look into the internal
+structure of the game, we're not prevented from
+looking at the structure in a round about way.
+Let's take the 1984 election fictionalized in our
+introduction as an example.
+A variety of campaign possibilities for 1984
+were set, each surrounding Ronald Reagan as the
+Republican candidate versus either Walter
+Mondale or Henry "Scoop" Jackson. The contexts
+were changed and the results are shown in the
+table on this page.
+THE 1984 LABOR DAY ELECTION POLL
+INFL. UNEM. GNP WRLD. REPUBLICAN -%7
+9
+13
+13
+7
+9
+7
+9
+13
+7
+9
+7
+9
+7
+9
+13
+
+7
+9
+13
+13
+7
+9
+7
+9
+13
+7
+9
+7
+9
+7
+9
+13
+
+2
+-2
+-4
+-4
+2
+-2
+2
+-2
+-2
+2
+-2
+2
+-2
+2
+-2
+-2
+
+5
+2
+1
+1
+5
+2
+5
+2
+2
+5
+2
+5
+2
+5
+2
+2
+
+REAGAN
+REAGAN
+REAGAN
+REAGAN
+Reagan
+Reagan
+REAGAN
+REAGAN
+REAGAN
+REAGAN
+REAGAN
+Reagan
+Reagan
+Reagan
+Reagan
+Reagan
+
+61
+56
+54
+51
+56
+53
+57
+52
+51
+55
+51
+46
+50
+44
+48
+49
+
+DEMOCRAT -%Mondale 39
+Mondale 44
+Mondale 46
+Mondale 49
+Mondale 43
+Mondale 47
+Jackson 42
+Jackson 47
+Jackson 48
+Jackson 45
+Jackson 49
+MONDALE 53
+MONDALE 49
+JACKSON 55
+JACKSON 52
+JACKSON 51
+
+INFL=Inflation rate: UNEM.=Unemployment rate: GNP=Relative
+strength of the GNP. "-4" is a recession. "-2" is stagnation. "2" is on the
+border of a healthy economy: WRLD.=Relative evaluation of our world
+situation. "1" is very negative: "2" is negative. "5" is neutral. World situation
+is based on the assumption that the U.S. is at peace. Candidates whose names
+are in all caps are incumbents.
+
+In early attempts to run incumbent Reagan
+against Mondale, Reagan had Mondale beat
+before the campaign began. Only with a terrible
+record (13% inflation and unemployment coupled
+with a recession and a horrible world situation)
+did Mondale even stand a chance. This might lead
+one to think that Hernandez has programmed
+VERY conservative demographics for 1984.
+Henry Jackson (a more conservative Democrat
+than Mondale) was next to run against Reagan.
+Reagan again had the upper hand, but by a
+smaller margin. Again the 1984 demographics are
+shown to be conservative. However look what
+happens when we begin to play with the question
+of incumbency. In all but one situation in which
+the Democrat is the incumbent in 1984, the Democrats have the Labor Day lead! So incumbency
+would seem to be more important than conservative demographics. Both situations where the
+economic and world situation is pretty good
+(7,7,2,5) the conservative incumbent has a huge
+lead, 61% - 39% for an incumbent Reagan and 55%
+-44% for an incumbent Jackson. A less conser-
+
+Continued on page 34
+
+THE GREATEST BASEBALL TEAM
+OF ALL TIME
+
+Table-top statistical baseball games
+are nothing new. "APBA Baseball",
+"Strat-O-Matic Baseball" , and more
+recently Avalon Hill's "Major League
+Baseball" have provided thousands
+of garners the opportunity to replay
+great (and not so great) teams of the
+past.
+Now "Stat" baseball players can
+enjoy the same realistic baseball
+without having to shuffle through a
+half dozen or more charts ("Where
+did the'Stealing-home-when-the-pitcher-is-arguing-with-the-first-base-umpire'
+chart get off to?); or flipping/
+throwing a lot of the cards/dice to
+determine the outcome; with the
+touch of a key the result is given.
+Strategic Simulation's COMPUTER BASEBALL and Avalon Hill's
+MAJOR LEAGUE BASEBALL are
+"Stat" baseball in the finest tradition (the latter being a compuversion of the popular board game
+mentioned above). Both versions
+will compile the box score for the
+game and have the capability to
+keep season statistics. For MAJOR
+LEAGUE BASEBALL Apple users
+can use the "G" command to store
+the game results on a utility disk
+and keep season stats. SSI will
+
+release a "stat compiler" for COMPUTER BASEBALL sometime in
+1982.
+MAJOR LEAGUE BASEBALL contains the stats for all the players of
+the preceding season. COMPUTER
+BASEBALL contains 26 teams that
+played in 13 great World Series of
+the past. SSI should have a disk for
+the 1980 teams for COMPUTER
+BASEBALL available by the time
+this issue of COMPUTER GAMING
+WORLD comes out.
+Both games have the capability of
+entering your own teams (be they
+Little League teams or famous
+major league teams of the past).
+COMPUTER BASEBALL has the
+capability of entering the players
+directly while MAJOR LEAGUE
+BASEBALL required the use of the
+board game version as well as the
+ability of your computer to edit text
+files.
+
+Not long ago the staff at CGW came
+across an interesting book entitled
+COMPUTER SPORTS MATCHUPS
+(by Julian E. Compton with Bruce
+M. Nash; published in 1981 by
+
+Tempo Books; $2.50 paperback).
+The book contains the results of
+computerized replays of the great
+sports teams and individuals in a
+variety of sports. Of special interest
+to us is the eight team "All-Time
+Baseball World Series". Eight
+teams were selected as the greatest
+teams in baseball history. A tournament was played to determine the
+greatest team of all time. The 1927
+Yankees won the tournament.
+COMPUTER GAMING WORLD
+would like to see what the results
+would be if many people replayed
+that same tournament using
+COMPUTER BASEBALL or
+MAJOR LEAGUE BASEBALL (computer version). We have included the
+stats for the first four teams in this
+issue. We will include the stats for
+the second four teams in our second
+issue (Jan-Feb 1982) and we will
+print the results of the tournaments
+in our third issue (Mar-Apr 1982). If
+you want to replay the "Greatest
+Baseball Team of All Time" Tournament follow the instructions
+given on the next page.
+
+THE GREATEST BASEBALL TEAM
+OF ALL TIME TOURNAMENT
+To participate in the GBTOAT tournament you
+must replay seven complete World Series. The
+stats for the first four teams are given in this issue.
+The stats for the other four teams will be given in
+issue #2. To guarantee that your results are included
+in our tournament summary issue #3, the results
+of your replay should be in our hands by February
+10, 1982. Each series should be a best of seven with
+pitchers being rested according to the following
+formula: 1) Starters must have 4 days rest between
+starts; figure in appropriate travel days. 2) Relievers
+must rest according to the number of innings
+pitched. Less than 2 innings = no rest. At least 2
+but less than three = 1 day. At least 3 but less than
+4 = 2 days. Any reliever who pitches 4 or more
+innings requires 3 days rest.
+Miscellaneous notes: 1) Do not use designated
+hitters; 2) Line scores of each game are preferred
+but not required. Final scores for each game are
+acceptable; 3) If you wish, send Batting Avg.,
+Home Run, and RBI leaders for the various series;
+4) The teams in the second bracket are: 55 Dodgers,
+36 Yankees, 34 Cardinals, and 76 Reds.
+
+MICRO - REVIEWS
+DRAGON'S EYE
+Each computer gaming company has areas in
+which they excel. One area in which Automated
+Simulations excels is their satisfying portrayal of
+individual combat. From the Temple of Apshai on
+we have seen them develop software that gives us
+exciting hi-res battles. In DRAGON'S EYE they
+have carried this strength to new heights with the
+striking eye level view of combat between your
+character and a host of fantasy monsters. The
+graphics are very nice and the battle actions are
+pleasing. This is one of the few games that
+graphically treats individual combat to the point
+that you must combine combat moves into a
+logical pattern to prevail over your opponent. For
+example, a player with a scimitar might enter a
+rapid sequence of orders that will cause his
+character to leap forward 6 steps, bring a
+smashing downward blow upon the monster's
+head, parry, duck, then back away. If this tactic
+doesn't work he may try the same sequence with a
+chop (across the waist) as opposed to the smash
+(head to toe). It is almost certain that a thrust
+(straight into the monster) will not bring good
+results because the scimitar is not made for
+thrusting.
+But let's not get ahead of ourselves. There are
+some things that the player must do before he gets
+into battle with all sorts of menacing monsters so
+dastardly disdainful (get used to it, that's how the
+rulebook is written). The Dragon's Eye is a magic
+amulet that is the key to the power of evil in the
+Seven Provinces. The player's task is to search
+through the Provinces seeking treasures, dispatching monsters, and hopefully finding and
+returning the Dragon's Eye to Fel City before 21
+days have past. Although the exact point system
+isn't given, you will receive points for killing
+monsters, finding treasure, avoiding death (which
+can occur more than once in an adventure), and
+finding the Dragon's Eye.
+The typical activity for a day might include
+examining the immediate area in the morning,
+moving to a new area, examining it, fighting a
+monster, resting up from the battle, further examining the area again, and if the sun hasn't already
+set for that day moving on to another region.
+Sounds like typical fantasy role-playing right?
+That's what DRAGON'S EYE is for the most part.
+The strategic map that governs movement
+
+between the several regions in each of the
+provinces is similar to maps in other fantasy roleplaying (FRP) computer games. However, the
+lines drawn between the regions are not becoming
+to the visual effect of the map and look a little like
+a schematic diagram.
+In the final analysis it is the individual combat
+system of DRAGON'S EYE that sets this game
+apart from others of similar type. It is very well
+done, challenging to play, and fun. If you like FRP
+style combat this is the game for you.
+DRAGON'S EYE, by Automated Simulations,
+runs on the Apple II (48K with Applesoft in ROM)
+or the PET (32K Cassette) computers.
+Daniel Hockman
+
+EASTERN FRONT
+Before dawn on June 22, 1941, Hitler unleashed
+what he called "the largest military assault in
+history". Following the preliminary air bombardment, three million German and other Axis
+soldiers crossed the Nazi-Soviet treaty line
+beginning the now famous "Operation Barbarossa".
+Hitler envisioned another blitzkrieg type campaign
+which would knock Russia out in four or five
+months. What he got was four years of very hard
+fighting, the defeat of his armies, and the eventual
+fall of his Thousand Year Reich.
+The Barbarossa Campaign has always been a
+very popular subject for traditional board wargames.
+Now this incredible campaign can be played on
+your Atari 400 or 800 computer. With EASTERN
+FRONT Chris Crawford (see his article on "The
+Future of Computer Wargaming" in this issue),
+has designed what is, to this date, the most
+impressive computer wargame on the market.
+Atari has been telling us how advanced the
+graphics on their personal computer are. Chris
+has SHOWN us. EASTERN FRONT utilizes
+human engineering elements to provide us with a
+complex yet highly playable game (no mean feat
+for a wargame). The entire Eastern Front of World
+War II is represented by a map which covers about
+ten screens of area. The player uses a joystick to
+move the cursor in any of the four cardinal
+directions. As the cursor reaches the edge of the
+current map the entire map will scroll in the
+direction of the cursor move until the cursor is
+stopped or the edge of the whole map is reached.
+Movement is equally simple. The joystick is used
+to line the cursor up on a unit (infantry or armor).
+The player then indicates (again using the
+joystick) where the unit is to move and who to
+attack. Keyboard interaction is limited to the
+"Start", "Option", and "Space Bar" keys; the
+"Start" key to start the game, the "Option" key to
+play the game with a special beginners option,
+
+and the "Space Bar" to execute orders after
+movement is entered.
+The rule book, while not as "slick" as those put
+out by other computer game companies, is well
+done. Following loading instructions, Chris gives
+us an overview of the map and units. Traditional
+wargamers will recognize sections such as
+Movement, Zones of Control, Combat, Logistics,
+Seasons, Hints on Strategy and Tactics, and
+Designer notes. Most sections are divided into
+"Historical background" and "Mechanics".
+Chris mentions in the rulebook that the feature
+of which he is the most proud, in EASTERN
+FRONT, is the artificial intelligence. He has reason
+to be proud. The computer plays the Russians and
+plays them very well. The unique thing about the
+artificial intelligence feature of the game is the
+fact that the computer is thinking and planning
+it's move while you are entering yours. When you
+hit the space bar to end your order entering phase,
+the computer immediately begins the execution of
+the turn on the basis of the moves it's been
+considering. Thus the longer you take to enter
+your move the more "considered" the move by the
+computer. Can you think of a more effective way to
+speed up slow players?
+If you own an Atari personal computer you owe
+it to yourself to have this game. If you are
+considering the purchase of a personal computer
+but haven't decided on which one yet, take a look
+at this game at your local computer store, it will
+make you look twice at the Atari system.
+EASTERN FRONT runs on the Atari 400 or 800
+personal computer. The disk version requires
+32K and costs $29.95. The cassette version requires
+16K and costs $26.95.
+Stanley Greenlaw
+
+MIND THRUST
+MIND THRUST is a game played between you
+and the Computer. The goals are straightforward
+1.) To remove all opposing playing pieces, or
+2.) To be the first to create a continuous chain of
+your pieces across the width of the board.
+Play consists of alternate turns during which
+one may add a piece or attack abutting opposing
+pieces. The opponent may defend against an
+attack. The contest arises from correctly choosing
+which opposing pieces to attack or which of your
+pieces to defend. A successful defense is as important as a successful attack but is made more
+difficult by rules which make the allowable points
+of defense fewer than the available points of
+attack.
+MIND THRUST gives you two options at the start
+of the game. You may choose which side of the
+
+board you prefer and whether you wish to begin
+first or let the computer do so. The first option is of
+little consequence. The second is much more significant. My experience was that if I started I almost
+invariably won but it was a much different story
+when the computer started the play. We were
+pretty well matched when "She" started first. An
+interesting feature, which permits a bail out if
+going got tough, is the ability to switch sides at
+any point in a game and as many times as you
+wished. The rules called it 'Legalized Cheating'. It
+may sound like a panacea but fortunately, it isn't.
+The play for this article was done on a TRS-80
+Mod III 16K unit. Compatibility with the tape was
+good but you Mod III users will notice that the tape
+loading signal of two asterisks is not two is
+asterisks. While the one on the right does the
+expected the left asterisk becomes a rapidly
+changing run of characters. Also, on the board,
+where an up arrow would appear on the screen of a
+Mod I it becomes a beginning bracket symbol ([) on
+your screen. This causes no problem.
+The program in itself is very well done, it moves
+nicely, says the right thing at the right time, and
+gives a nice clean ending when you choose not to
+continue play by returning you to a default start so
+your machine is ready to go to something new. The
+rules and plays of MIND THRUST are easily and
+quickly learned making it an excellent home
+demonstration game to make believers out of
+those non-garners and non-computerists that may
+drop in.
+The information booklet is very well done and
+the packaging is excellent. I look forward to
+acquiring additional items from this manufacturer.
+MIND THRUST runs on the TRS-80 (Levels I,
+II, or III) computer.
+Barbour Stokes
+
+MISSION ESCAPE
+In MISSION ESCAPE you play the role of a star
+commando who has escaped the cell on an
+Imperial security station. Like the legendary Luke
+Skywalker and Hans Solo you flee from level to
+level fighting imperial storm-troopers, robots, and
+drones as you attempt to reach the tenth level and
+escape.
+Don't be fooled by the arcade type screen that
+you see when you play the game. While reactions
+and coordination are important in MISSION
+ESCAPE the most important factor in the game is
+strategy. You and your enemies are limited in
+firing lasers and missiles only at certain angles.
+Fire can only be made at angle increments of 45
+degrees. Strategy in MISSION ESCAPE involves
+
+lining up enemy units on 45's and 90's, blasting
+them away, and still ending your turn not lined up
+in a surviving enemy's 45's or 90's. This takes real
+strategy especially at higher levels of the security
+station where you will be facing more than two
+dozen enemy units at a time. In addition to the
+strategic element, MISSION ESCAPE forces you
+to think fast. Your turn lasts until three orders are
+entered or ten seconds pass, whichever comes
+first. He who thinks or acts slowly will die.
+Strategic tips are pretty well covered in the
+rules. The most important thing to remember is
+that the enemy will always shoot before it moves.
+Therefore if you end your turn out of line with any
+enemy unit you know you will not be hit that turn.
+Another point to keep in mind is that while units
+that are at 90's are easy to identify (i.e. directly N,
+S, E, W of you) those on 45's are much more
+difficult to spot. Developing your sense of angles
+will lead to higher scores.
+A nice feature of the game is that the five
+highest scores are kept on file and displayed on the
+screen after each game (just like the coin-operated
+arcade games). If you want to clear the high scores
+for any reason you can do so by hitting the "C" key
+when the disk is booting. The only problem with
+the game is that the units are so small that on a
+small T.V. (which lacks the resolution of a
+monitor) it is a slight strain to distinguish units
+and calculate the 45's.
+MISSION ESCAPE is one of a handful of games
+to combine arcade features with what is in reality
+a strategy game.
+MISSION ESCAPE runs on the Apple II (48K)
+computer.
+Graham Masters Jr
+ODYSSEY
+ODYSSEY was the program that sold me on an
+Apple computer. At that time, the graphics were
+the best I had seen on a computer game. ODYSSEY
+and its predecessors, "Wilderness Campaign" and
+"Dungeon Campaign", are still very good programs, although ODYSSEY is undoubtedly the
+best (as well as the most time consuming) of the
+three. Neither ODYSSEY or "Wilderness
+Campaign" can be mastered in a single setting,
+and unless you get killed off quickly, both will take
+a while to complete.
+ODYSSEY requires careful tactics with money,
+people and food. Food consumption depends on
+party size. Enough people are needed to carry all
+the goods, but too many people eat too much food.
+If you have too many people, you will spend all
+your time feeding them, rather than gathering
+
+money and treasure. Usually, forty to fifty people
+make a good party size throughout most of the
+game. Before leaving the first island, it is best to
+have between sixty and ninety. •
+There is also strategy involved in bargaining.
+Everything is negotiable, but if too low a price is
+offered, the merchants get insulted and take the
+item off the market. A good rule of thumb is to offer
+half the asking price or half of the retail price,
+whichever is lower. I am generally able to buy food
+packs for 4 Quadroons . If you offer the same price
+twice in a row, the merchant will often stop
+bidding, so it is best to increase your bid by 1
+Quadroon each time.
+Another consideration is what should be carried.
+I can say that everything has a use, although it
+may not be apparent at first. Shovels are used for
+avalanches and certain kinds of doors, for example.
+As a hint, do not leave the first island without
+enough helmets for everyone. A common myth I
+have heard is that magical items have no use
+except on the first island. In fact, several (at the
+very least), do have uses later.
+ODYSSEY is relatively bug-free, with two
+notable exceptions: excess people and too many
+kinds of possessions cause problems. If you have
+over 127 people, you will find it impossible to enter
+towns or die of starvation without stopping the
+program. The possessions bug only occurs when
+you have over 39 different kinds of possessions
+and you finish the game.
+ODYSSEY runs on the Apple II (48K diskette,
+integer) computer. $30.00
+Deirdre L. Maloy
+REVERSAL
+Dan and Kathe Spracklen, who wrote the
+computer chess program Sargon, now introduce
+Reversal, a computerized version of Othello. In
+case you don't know how Othello is played,
+the object of the game is to trap your
+opponent's pieces between two of yours. Those
+pieces are then turned over and become
+yours. This goes on until all 64 squares of the
+board are filled. The pieces are then counted and
+the player with the most pieces wins. This, of
+course, makes it a true strategy game as there are
+no random factors.
+When the program is loaded, it asks whether you
+want to play against the computer, play against
+another person with the computer as the monitor,
+or custom set up the board. One flaw is that if you
+reply incorrectly to this question, the program
+aborts to machine language and you have to
+reload. Next you choose the strategy level at which
+
+the computer will play; beginner, intermediate, or
+advanced. Then you choose the amount of time the
+computer will take to decide on its move. This can
+be anywhere between 2.5 seconds at level 1 to 30
+minutes at level 9. It next asks you whether you
+want to be black or white. (Black moves first.).
+The program switches easily between text and
+graphic displays. The Hi-Res graphic display
+shows the current board, the number of pieces are
+shown with faces. The expression on these faces
+changes through the game to show the status of
+that player. The leading player's pieces are
+grinning; the losing player's are frowning. For
+those who feel this is silly, the faces can be
+eliminated. The cursor can be moved through all
+the legal positions by using the right and left
+arrow keys. When you find the position you want,
+you press the return key which places your piece at
+this position and flips the appropriate pieces. This
+feature greatly speeds up the game as compared to
+earlier computer versions.
+In case you find the move you just made was
+unwise, it can be taken back by pressing CRTL, B.
+The last piece played is then removed and all the
+flipped pieces restored to their position prior to the
+move. If you wish, you may continue backing up
+until a proper position is reached. If you are unsure
+as to a good move, you can ask the computer for
+help. The computer will suggest a move. If you
+would like to see past moves, you can do so by
+switching to text which shows the past moves in
+standard chess notation.
+Othello is a classic strategy game. This is an
+accurate adaptation for the computer with various
+features to enhance the game. Reversal plays
+quickly and easily, the graphics are good, and the
+computer can be hard to beat. It is excellent and I
+recommend it.
+Reversal , by Hayden, runs on the Apple II (32K
+diskette-$34.95; 24K tape-$29.95).
+Bob Boyd
+
+TIME TRAVELER
+TIME TRAVELER is a text oriented game in
+which you are sent back in time to find 14 rings.
+Each ring is hidden in a different time period from
+1350 B.C. to 1942 A.D. and has a special power
+that you may use once you possess that ring. There
+is a limit to the number of rings you may carry at
+one time; the others are dropped off at the Time
+Lab for victory points.
+The program begins by telling you where each
+ring is by time era. You decide which ring you will
+seek first, and you are sent to that era. On
+arriving, the program will ask which of two
+political factions you want to join. You may
+
+change sides at any time, but doing so costs
+points. Then it's off to find where the ring is
+hidden. A text map of the area indicates houses,
+fields, armory, treasury, and other possible
+locations. Amidst the tasks of gathering allies,
+weapons and gold, you may find yourself taxed,
+chased by guards (regardless of whose side you're
+on), and possibly even imprisoned or slain.
+However this does not present a problem as the
+time machine will send you off to another era at
+full strength to seek out the next ring. As long as
+you keep at the game, you should win out in the
+end.
+After several false starts, I began to understand
+how to win the game. I fear that, after a person
+develops a strategy, the game will quickly become
+a series of stale replays. There are no differences
+between eras other than the name of the era and
+its political factions. A little flavor in the sayings,
+or the signs might have helped. I soon tired of
+seeing "KEEP OFF THE GRASS" everywhere.
+Documentation is ample; five pages including
+time periods, general rules, commands with
+explanations, and descriptions of the rings with
+their powers. One ring, "escape", was missing
+from the list, and the 'booting' instructions for
+Apple are inaccurate. Mine booted straight from
+the disc. The disk is in all probability more up to
+date than the booklet. I would recommend that
+you try this game several times before deciding
+whether to buy it or not.
+TIME TRAVELER runs on the TRS-80, Pet, and
+Apple II computers. $24.95
+Terry Romine
+
+SIMULATION Continued from page 10
+play out a whole battle one minute at a time.
+On the other hand, if a turn represents one
+year then the game probably deals with
+Grand Strategy over a fairly long time.
+The SCOPE of a game is the way in which
+the simulation is restricted to certain events.
+Every game has limits because no game can
+cover everything; the game designer usually
+established them early on. The most obvious
+limits are time and geography. Say you're
+simulating the invasion of Europe in 1944,
+you have a choice of beginning the game with
+the Allies committed to a landing in
+Normandy or you can start earlier and let the
+player choose the site. Similarly, you can end
+the game when the Allies are securely ashore
+or continue until Germany has surrendered.
+
+Continued on page 34
+
+SIMULATION Continued from page 32
+Geographically, you can show just the
+beaches (even a single beach) or all of
+western Europe. These choices are obviously
+related. If you choose a time period of 18
+hours on June 6, you needn't show more than
+the region near the landing. If you choose to
+show the rest of the war then you'll have to
+have most of Europe on the map. Scope and
+Scale are related in the same way.
+Another characteristic is the EMPHASIS.
+This is the designer's idea of what was
+important about the events being portrayed.
+The idea is to model the important things in
+detail and make the less important factors
+abstract. In this way, the players don't waste
+too much time making decisions which will
+not influence the outcome.
+One final caution: when reading a review
+of a game, stay alert as to whether the
+simulation or the game system is being
+evaluated. A good game system is fun while a
+good simulation is realistic. Some games do
+well in both areas while others emphasize
+one area over the other. An astute reader
+knows his or her own tastes.
+
+AIR FORCE Continued from page 21
+having to start from scratch each mission. For
+example, if a pilot normally carries the same
+ordinance, he can enter the information once and
+store it, calling it up each time he flies a mission
+needing that weapon configuration.
+CAMPS' forte is its ability to pinpoint danger
+and predict the results of attempting to surpass
+the danger through ECM (Electronic Counter
+Measures) or direct attack. CAMPS will give, upon
+request, kill probabilities for any point along the
+flightpath, at any altitude and at any speed. In
+this manner the pilot can tailor his flight to follow
+the course of least danger. Where he must fly
+through danger, the pilot uses CAMPS to plan his
+counter measures.
+The Air Force isn't the only branch of the service
+that is interested in CAMPS. The Army is looking
+at CAMPS as a possible system to use with their
+AH-64 Apache attack helicopters. The Marines (at
+Quantico, Virginia) are using CAMPS as a training
+device. The Marine version of the program has a
+random number generator which interacts with
+the kill probability numbers of the student's proposed
+flight path. If the "die roll" calls for it, the student
+is shot down, leaving him to answer to his
+instructor.
+
+It is interesting to note that while Comarco uses
+Convergent Technologies hardware for the field
+version of the system, CAMPS (in a modified
+version) exists for the Apple II computer. Who
+knows, next year we may see an Apple II version
+of CAMPS available from Comarco, Incorporated.
+How about it Comarco?
+
+CRUSH Continued from page 22
+Bob Boyd (Shattered Alliance and Reversal
+reviews) has a strategy which he claims gives him
+scores in the thousands although he admits the
+strategy makes for a slow game. The Sea Monster
+carcass is used. Of the 170 Crunch Credits allowed
+to the carcass, 120 are used for very fast regeneration. Decrease the strength of the carcass and
+you get back 15 points. Use 60 points on hard
+armor. The objective is survival and the city is San
+Francisco. Game strategy involves staying in the
+water far enough away from shore that no landbased units can harm you. Grab helicopters as
+they fly by and eat them. If you are famished, get
+close to land, grab a meal or two and retreat back
+to the bay. The only thing that can really hurt you
+is the Mad Scientist. When he appears
+immediately dive and come up off the screen in
+another map portion. When you return he will be
+gone.
+If you have enjoyed other Automated Simulation games you will not be disappointed in this
+one. It has the traditional Automated Simulation
+game mechanics, improved graphics, and a
+highly entertaining theme.
+CRUSH, CRUMBLE, AND CHOMP! runs on
+the Apple II (48K) or TRS-80 (32K diskette, 16K
+tape) computers.
+
+POLITICAL APPLE Continued from page 25
+vative incumbent Mondale would also have a
+comfortable lead of 53% - 46%. In all scenarios
+where neither Reagan nor the Democratic
+candidate has the advantage of incumbency
+Reagan had the Labor Day lead.
+What our polls reveal to us is that the 1984
+demographics are fairly conservative but that
+incumbency is probably the single largest factor
+in voter popularity. We now can agree or disagree
+with these findings and decide for ourselves if the
+PRESIDENT ELECT is accurate as a gaming
+simulation. On the other hand we can ignore the
+accuracy question all together and simply enjoy
+the game. After all, who knows how the voter's
+mind really works, right?
+
+SWORDTHRUST 2 --"The
+Vampyre Caves"
+SWORDTHRUST 3 --"The
+Kidnappers Cove"
+SWORDTHRUST 4 --"The
+Case of the Sultan's Pearl"
+In addition to games mentioned
+elsewhere in this issue the following
+games have been received by CGW.
+Most but not all of these will receive
+more detailed attention in future
+issues.
+Adventure International
+Box 3435 Longwood, FL 32750
+ADVENTURES 10-11-12: These
+three adventures which come on
+one diskette are part of a continuing unconnected series of text
+adventures put out by Adventure
+International. Adventures 10 and
+11 together make up SAVAGE
+ISLAND. Adventure 12 is
+GOLDEN VOYAGE. Available on
+the Apple II and TRS-80 computers. $39.95.
+PLANETOIDS: Al's version of
+the popular arcade game. Available on the Apple II and TRS-80
+computers.
+Avalon Hill Game Company
+(Microcomputer Games Division)
+Baltimore, MD 21214
+EMPIRE OF THE OVERMIND:
+EOM is a text fantasy adventure
+game utilizing standard two word
+commands. The game includes a
+beautifully imprinted epic poem,
+"Rhyme of the Over-Mind", which
+gives clues for the adventurer.
+Apple, Atari, TRS-80. $30.00
+TANKTICS: Designed by Chris
+Crawford (see his article in this
+issue on the future of computer
+wargaming). Tanktics is a computer game of armored combat
+on the Eastern Front. The game
+includes a playing board and
+counters. TANKTICS runs on the
+Apple, Atari, Pet, and TRS-80
+computers.
+C E Software
+801 73rd St.
+Des Moines, IA 50312
+SWORDTHRUST 1: The beginning of a series of text adventures
+in which characters develop and
+can go from adventure to adventure. #1 is the master diskette
+needed to generate fantasy characters. Disk #1 also includes adventure #1: "The King's Testing
+Ground". Look for more detailed
+treatment on the whole series in
+issue #2 of CGW. The series runs
+on the Apple II (48K with Applesoft in ROM) computer.
+
+SWORDTHRUST 5 --"The
+Green Plague"
+WALL STREET: A game of
+high finance in which players
+play the stock market. Players
+must try to gain inside market
+information in order to best know
+when to buy and sell. But the
+information doesn't come free.
+The daily stock prices can be output to a printer. Apple II (48K).
+Hayden Book Company, Inc,
+(Computer Software)
+50 Essex St.
+Rochelle Park, NJ 07662
+BATTER UP!!: A microcomputer baseball game for the TRS80 (16K tape) computer. Three
+levels of play.
+BACKGAMMON: Hayden's
+version of the ancient boardgame. "Brutus" is the preprogrammed player. TRS-80, $10.95.
+BLACKJACK MASTER: A
+Blackjack simulator/tutor/game
+that teaches, evaluates, and tests,
+betting strategies for blackjack.
+BLACKJACK MASTER is not a
+harmless little game to entertain
+you. It is a serious program that
+can help you develop and evaluate
+a system for winning at Blackjack.
+TRS-80, $29.95.
+GRIDIRON: Subtitled "A Microfootball Game" GRIDIRON is a
+real-time version of football. As
+the play develops on the screen a
+step-by-step description of the
+play is printed at the bottom of the
+screen. TRS-80, $12.95
+ROYAL FLUSH: Competitive
+poker solitaire. Played alone or
+against any number of players,
+ROYAL FLUSH uses 52 cards
+and a 5x5 playing board. The
+object of the game is to achieve
+the highest possible score by
+arranging 25 cards randomly
+dealt. Pet and TRS-80
+(tape). $14.95.
+Hayden Book Company, Inc.(books)
+ANDROID DESIGN: Written
+by Martin Weinstein, ANDROID
+DESIGN is a book on practical
+approaches for robot builders. It
+examines what an android is,
+what you can expect it to do, and
+how this will translate into the
+design requirements. $11.95
+(paperback), 248 pgs.
+
+Muse Software
+330 N. Charles St.
+Baltimore, MD 21201
+CASTLE WOLFENSTEIN: A
+game of action-adventure that
+attempts to bridge the gap between
+arcade-type games and the more
+complex adventure/fantasy games.
+CASTLE WOLFENSTEIN puts
+the player in the role of a captured
+Allied soldier during WWII. You
+must escape the castle (hopefully
+with the war plans for Operation
+Rheingold). Success means a promotion. Failure means recapture
+or death. Apple II (48K), $29.95.
+Programma International, Inc.
+(A subsidiary of Hayden Book Co.)
+AUTOCHECKERS: HIRES version
+of "American" checkers. Apple II
+$19.95 (disk).
+CLOWNS AND BALLOONS: HIRES
+arcade type game in which acrobatic
+clowns leap and burst balloons.
+The sound routines are a lot of
+fun. Apple II (32K integer), $19.95
+(disk).
+GUIDED MISSILES: A real time
+HIRES shooting gallery simulation
+for two players. Each player mans
+a missile turret, aims and fires
+at the targets flying above. Apple
+II (16K machine lang.), $19.95.
+MICRO INVADERS: Programma's
+version of the popular arcade game.
+An exciting game. Apple II (48K
+machine lang.), $19.95.
+Strategic Simulations, Inc.
+465 Fairchild Dr.
+Mountain View, CA 94043
+CARTELS AND CUTTHROATS:
+A highly realistic business simulation in which you play the role
+of a corporate president. Your job
+is to guide your manufacturing
+company in the direction that will
+provide the highest profits. Not
+only a good game but also an
+excellent teacher. A nice feature
+is that the game can be played at
+the office (or wherever) with the
+computer owner entering the moves
+and giving the printed results to
+the players the next day. Apple
+II (48K), $39.95.
+
+

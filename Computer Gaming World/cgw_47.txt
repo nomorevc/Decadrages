@@ -1,0 +1,4521 @@
+May 1988
+Number 47
+
+FEATURES
+Scorpion's Bite
+
+7
+
+An Editorial on CRP Games / Scorpia
+
+Inside the Industry
+
+8
+
+News, Notes and Quotes
+
+Ultima V
+
+12
+
+Becoming a "Warrior of Destiny' / Scorpia
+
+Trust and Betrayal
+
+18
+
+"Have I Lied To You... Recently?" / Regan Carey
+
+Panzer Strike
+
+22
+
+SSI's WWII Construction Set / Bob Proctor
+
+The Future of Computer Role-Playing
+
+24
+
+"Dungeons & Dragons" Co-Creator Muses / Dave Arneson
+
+Journal of Computer Game Design
+
+26
+
+Game Design Insights / Chris Crawford
+
+Wasted In The Wasteland
+
+28
+
+A "Hot" Adventure Game from EA / William "BM' Kritzen
+
+Echelon
+
+31
+
+Voice Actuated Fire Control for C-64/128 / Hosea Battles
+
+The Train: Escape To Normandy
+
+32
+
+A New Accolade Adventure / David M. Wilson
+
+The Rumor Bag
+
+34
+
+Ruminations, Rumblings, and Rumors from the
+Resident Rummy
+
+Scorpion's Mail
+
+38
+
+Personal Answers From Your Poisoned Pen Pal / Scorpia
+
+Maniac Mansion
+
+40
+
+An Appointment With Terror / Charles Ardai
+
+Soko-Ban and Tetris
+
+42
+
+Two Titles From Spectrum Holobyte / Roy Wagner
+
+Origins Awards 1987
+
+44
+
+Vote For Your Favorites
+
+Ports Of Call
+
+46
+
+Down To The Sea In Ships / Roy Wagner
+
+DEPARTMENTS
+Taking A Peek
+Letters
+Reader Input Device
+CGW Hall Of Fame
+100 Games Rated
+
+4
+10
+55
+55
+56
+
+TAKING A PEEK
+Activision, Inc.
+2350 Bayshore Parkway
+Mountain View, CA 94043
+
+C-64, and IBM ($37.95, $34.95).
+Circle Reader Service Card #1.
+
+RAMPAGE: The "monster mash"
+doesn't have to be a "graveyard
+smash" any longer. Activision has
+licensed the Bally Midway coin-op hit
+where players control an animated
+giant gorilla, lizard, or wolf in climbing metropolitan skylines, swatting
+helicopters, stomping innocent bystanders, bashing cars, and devouring helpless humans. If the monsters
+are not successful before time and
+energy runs out, a metamorphosis
+occurs which transforms them into
+helpless people who can be consumed by the other monsters. Apple,
+
+Broderbund Software, Inc.
+17 Paul Drive
+San Rafael, CA 94903-2101
+WHERE IN EUROPE IS CARMEN SANDIEGO: This product is
+the latest in an incredibly successful
+series. The mechanics are essentially
+the same, but the interface has become friendlier because of the online data base. This release comes
+with a special edition of the Rand McNally Concise Atlas of Europe,
+published especially for this product.
+Apple, C-64, IBM ($44.95, $39.95).
+Circle Reader Service Card #2.
+
+Cosmi
+431 No. Figueroa St.
+Wilmington, CA 90744
+CAVERNS OF KHAFKA: This arcade adventure game is part of
+Cosmi's "Celery Software" line of bargain priced software. From $5.95$7.95 each, these games should
+provide plenty of "bang for the
+buck." This one is a treasure hunt
+built around an ancient Egyptian
+mythos. Atari 8-bit, C-64 ($5.95).
+Circle Reader Service Card #3.
+MONEY BAGS: How do current
+events affect the world of international finance? Do you have what it takes
+to be a successful "arbitrager" in the
+international currency markets, stock
+markets, commodities markets (gold
+and lumber), and world bond
+markets? This simulation offers four
+
+(Continued on page 6)
+
+TAKING A PEEK
+(Continued from page 4)
+levels of difficulty and fast-paced
+decision making. Similar to Inside
+Trader, the game uses the function
+keys for a fast, clean interface. IBM
+(no price). Circle Reader Service
+Card #4.
+Electronic Arts
+1820 Gateway Drive
+San Mateo, CA 94404
+BARD'S TALE III: Tarjan, the Mad
+God, should be a familiar name to
+veterans of the Bard's Tale adventures. This time, adventurers must
+face the psychotic "deity" himself in
+order to release their world from
+ruin. This sequel adds auto-mapping, two new spellcasting classes
+
+CONVERSIONS
+RECEIVED
+For the Apple:
+Strike Fleet (EA)
+
+For the Atari 8-bit:
+Sons of Liberty (SSI)
+Video Title Shop (Datamost)
+
+For the C-64/128:
+Blackjack Academy (Microillusions)
+Hunt for Red October
+(Datamost)
+Panzer Strike (SSI)
+Patton vs. Rommel (EA)
+
+B-24 (SSI)
+Defcon 5 (Cosmi)
+Superstar Soccer (Mindscape)
+
+(Chronomancers and Geomancers),
+and more animation than ever to an
+already successful adventure formula. Apple ($49.95). Circle Reader
+Service Card #5.
+
+INTELLITYPE: Shouldn't there be
+a typing tutor for adults? After all,
+there are typing tutors which blast
+spaceships and race automobiles in
+order to teach typing skills to
+children. Couldn't someone create
+such a program to appeal to adults?
+Moses Ma accomplished just that
+with this program. Using artificial intelligence routines and an actionpacked (never flagging) storyline, this
+one offers lots of incentive. It may
+not be strictly a game, but it is interactive. Amiga ($49.95). Circle Reader
+Service Card #6.
+
+Front Runner Software Co.
+P. 0. Box 435
+Collinsville, CT 06022-0435
+CAMPAIGN PROMISES: This
+game could well be called the
+"Monopoly" of presidential election
+games. Up to six players have to
+land on the right states (color-coded
+by size) in order to build campaign
+organizations. Election results
+depend on a combination of campaign promises (from a list of vague
+and general ones, just like a real life
+platform), organizational effort, and
+luck. In addition, the game allows for
+random use of 25 "dirty tricks" from
+rumored mob connections through
+accusations of plagiarism. IBM
+($40.00). Circle Reader Service Card
+#7.
+(Continued on page 52)
+
+SCORPION'S BITE
+An Editorial on the CRPG Genre
+by Scorpia
+
+n
+
+a previous article (June-July '87), I
+commented on the current state of
+computer role-playing games (or
+CRPG's for short), with the emphasis
+primarily on the lack of the role-playing
+element in most of them. This time, we
+will look at another important factor,
+game balance as it relates to combat.
+
+I
+
+It is a sad fact that many CRPG's are
+not well-balanced. At one extreme, the
+party has a very difficult time getting
+started; at the other, they become so
+powerful that they can blast away anything in their path with little trouble or
+thought. Typically, it is only in the midportion of the game that all its elements
+function in harmony.
+Assume a standard party of six, fresh
+from the creation utility. They have no
+weapons, no armor, and very little gold.
+Pooling all the funds available may be
+enough to get the frontline fighters halfway equipped, but certainly not in any
+really satisfactory manner.
+This miserliness usually leads to the
+practice of "muggee", where the player
+creates a number of extra characters,
+whose sole purpose is to give their
+money to the actual party, then vanish
+forever from sight. After a sufficient number of these ephemeral nobodies have
+come and gone, the party has enough
+gold to equip themselves properly.
+When players feel forced into actions
+like these, something is definitely wrong.
+Remember, we aren't talking about
+magic items and goodies (which may
+not even be for sale), just ordinary
+armor and weapons. For far too long,
+too many designers have worked under
+the mistaken idea that it should be hard
+for the player to get started in the game.
+There is no reason for this to be so,
+particularly as many adventure groups
+walk out to face some very nasty encounters right from the beginning.
+Anyone who has ever started a group
+from scratch in Bard's Tale I or Might &
+Magic (to name only two) knows all
+about this. Monsters frequently come in
+multiples, with several types mixed
+together. This is not something an illequipped, low-level group needs. It is
+not a challenge, but torture and frustration.
+
+Each combat is a struggle, followed by
+a quick saving of the game (and perhaps a back-up of the save, as well) so
+that the miniscule progress gained isn't
+lost in the next fight. After this procedure has been followed enough times,
+the party finally advances to the point
+where the mages have some decent offensive and defensive spells, fighters
+have good weapons and armor, and the
+player can at last begin to enjoy the
+game.
+Compare that to a game such as Ultima IV, where the monster groups are
+carefully scaled to the adventure party. A
+beginner need not fear being overwhelmed by powerful or numerous opponents. Encounters are tough but fair,
+enough to make the fight challenging
+and dangerous, but not necessarily fatal.
+Later, as the party becomes stronger, so
+do the monsters, but always in the same
+balanced fashion.
+One reason this worked so well in Ultima IV was the limit on both monsters
+and characters. A character reached
+level eight, and that was it. Additional experience brought no further benefits of
+any kind. In the same manner, balrons
+and daemons were the most powerful
+monsters, and a high-level group could
+handle them, although not without
+some difficulty. Of course, hack-andslash was not the primary emphasis in
+this game, merely one element of the
+whole.
+Most other CRPG's, however, allow for
+unlimited advancement of characters.
+True, as the characters reach the upper
+levels, more and more experience is required, but enough combats will provide
+it. Thus, as the game reaches its late
+stages, one of two things happens:
+either (a) the group is now so strong
+that they can literally wipe out most opponents in a round or two; or (b) the
+monsters keep getting stronger and
+stronger until they are almost impossible
+to kill, and each encounter with such
+creatures often leaves several party members dead or in other unpleasant circumstances.
+This often results from the "more is better" philosophy, in which designers, for
+lack of anything better, cram hundreds
+
+of monster types into the game. This is
+downright silly, and adds very little to the
+adventure. There are, after all, only so
+many ways a monster can attack. After
+weapon/tooth/claw/spelt/poison/paralysis/
+level drain/petrifaction/madness/aging
+there isn't much else they can do to you.
+Therefore, most of these monsters
+tend to be nothing but more powerful
+versions of earlier ones, masquerading
+under different names. They are simply
+harder to hit and harder to kill, and have
+several attack modes instead of one.
+This is not necessarily bad, if the number of monster types is restricted, but
+too often designers just keep sticking in
+"new" monsters until they run out of
+room or can't think of any more to add.
+When this is combined with a large
+number of dungeon levels, as is often
+the case, the game starts turning into
+runaway hack-and-slash, particularly as
+the frequency of encounters in CRPG's
+of this nature is also high. Combat then
+overshadows everything else.
+Why does this occur? Why is it that
+many otherwise-well-conceived games
+degenerate to this low level? Primarily because the designers forget about the
+overall objective of the game, and never
+seem to consider the optimum level of
+experience the party needs to overcome
+the major adversary.
+Consider your typical CRPG goal,
+which is almost always "destroy the evil
+wizard" (which is not, after all, a bad
+goal). The nefarious mage Bubu is
+placed at the bottom of a dungeon or
+top of a tower or some other
+hard-to-reach location. Having done this, the
+authors then go merrily on their way,
+constructing dungeon level after dungeon level, populating them with all
+manner of weird and bizarre creatures,
+and forgetting all about poor Bubu.
+There is no doubt that Bubu has been
+forgotten. From my own experience,
+from comments made by CGW readers
+and others, one fact stands out: that
+when the party finally reaches Bubu,
+90% of the time he turns out to be a
+wimp. He is nowhere near as difficult to
+despatch as all the monster groups
+ahead of him. Werdna? Mangar?
+Mondain? Minax? Lagoth Zanta? These
+were all duck soup compared to what
+the party fought through to get to them.
+Thus, going through all those endless
+encounters makes the characters so
+powerful in relation to the evil wizard
+that the final showdown is often anticlimactic, and ultimately unsatisfying.
+What should be the biggest, toughest,
+
+(Continued on page 52)
+
+INSIDE THE
+INDUSTRY
+News, Notes and Quotes From the Computer Entertainment Industry
+Computer
+Entertainment
+Industry Shines in
+1987 Excellence in
+Software Awards
+At the Spring Symposium
+of the Software Publishers
+Association, held at the
+Claremont Hotel in
+Berkeley, California, the
+1987 Excellence in Software
+Awards were presented.
+These awards, like the
+Academy Awards for the Motion Picture Industry, are
+selected by a vote of representatives of the software industry itself. As such, they
+may represent a different
+perspective than that of the
+consumer (even as many
+Oscar winners are more critically than commercially successful). Nevertheless, the
+awards do present a
+yardstick to measure a
+product's achievement by.
+The first presentation was
+for Best Packaging. The
+nominees included: 4th &
+Inches (Accolade), Ancient
+Art of War at Sea (Broderbund), Designasaurus
+(Britannica), Dondra: A New
+Beginning (Spectrum
+Holobyte), and Sub Battle
+Simulator (Epyx). Ancient
+Art of War at Sea (with the
+painting used on the cover
+of Computer Game Forum
+#2) was the winner.
+The award for Best
+Graphics went to Adobe Illustrator (Adobe Systems),
+but California Games
+(Epyx), Deluxe Paint
+(Electronic Arts), Falcon
+(Spectrum Holobyte), and
+
+Shadowgate (Mindscape)
+were also nominated.
+From a field of nominees
+which included Deluxe
+Music Construction Set
+(Electronic Arts), Falcon
+(Spectrum Holobyte), Jam
+Session (Broderbund),
+Shadowgate (Mindscape),
+Test Drive (Accolade), and
+World Games (Epyx), the
+Best Sound award went to
+Jam Session. This was to
+be the first of three awards
+for the popular music
+program from Broderbund.
+Nominees for the Best Action/Strategy Program included: Ancient Art of War
+at Sea (Broderbund),
+California Games (Epyx),
+Deep Space: Operation
+Copernicus (Sir-Tech), Falcon (Spectrum Holobyte),
+and What They Don't Teach
+You At Harvard Business
+School (Reality Technologies). The winner was
+Falcon.
+The list of products
+nominated for Best Adventure or Fantasy/Role-Play-
+
+ing Program was impressive. In addition to the winner, Sierra's Leisure Suit
+Larry in the Land of the
+Lounge Lizards, the
+nominees were: Beyond
+Zork (Infocom), Maniac
+Mansion (Lucasfilm Games),
+Pirates! (Microprose),
+Shadowgate (Mindscape),
+and Wizardry IV: The
+Return of Werdna (Sir-Tech).
+There appeared to be
+something of an upset in
+the Best Technical
+Achievement category. Of
+the five nominees, only
+Chuck Yeager's Advanced
+Flight Trainer (Electronic
+Arts) and Falcon (Spectrum
+Holobyte) came from the
+entertainment side of the industry. Against Letraset's
+Image Studio, Microsoft's
+OS/2 for the PC and Windows/386 for the PC, the
+prospects for an entertainment product's victory
+seemed remote. Spectrum
+Holobyte's Falcon was the
+victor, however.
+The competition for Best
+Simulation Program was a
+
+dogfight between Electronic
+Art's Chuck Yeager's Advanced Flight Trainer,
+Spectrum Holobyte's Falcon, Microprose' Gunship,
+Epyx' Sub Battle Simulator,
+and Accolade's Test Drive.
+Falcon emerged victorious
+once again.
+The nominees for Best
+Entertainment Program
+were: Ancient Art of War at
+Sea (Broderbund), California Games (Epyx), Chuck
+Yeager's Advanced Flight
+Trainer (Electronic Arts), Falcon (Spectrum Holobyte),
+Jam Session (Broderbund),
+and Leisure Suit Larry in
+the Land of the Lounge
+Lizards (Sierra). The surprising winner was Jam Session.
+An analysis of the awards
+indicates that products with
+Macintosh versions had an
+edge in most categories.
+The final tally with regard to
+entertainment products indicates that Falcon and Jam
+Session walked away with
+three awards each and that
+Broderbund garnered more
+awards as a company (four)
+than other entertainment
+companies.
+Computer Gaming World
+Editor Russell Sipe and
+CGW Adventure Game
+Editor Scorpia were each
+nominated for an SPA Excellence in Journalism
+Award. But, alas, the award
+for "Best Review" went to
+Bob Lindstrom of A+
+Magazine. Bob also beat out
+Editor Sipe and Assistant
+Editor Wilson to win the
+President Elect 1988 Tournament hosted by SSI last
+June in Chicago. Hey, Bob!
+Lighten up—Ok!?
+
+MICROPROSE
+WINS
+REPRIEVE IN
+WEST GERMANY
+It was good news/bad
+news for Microprose
+Software on the eve of
+their court hearing in the Administrative Court of
+Cologne where the company would appeal the ban
+from marketing Silent Ser-
+
+CHICAGO
+YOUTH SOCCER
+TEAM WINS
+MINDSCAPE
+CUP
+On February 27, 1988,
+an all-star team composed of youth soccer
+players from Chicago
+defeated a similar team
+from Cleveland by a score
+of 4-1 in the final match
+of a double elimination
+tournament. Teams from
+as far away as Baltimore,
+Dallas, and San Diego participated in the tournament.
+Mindscape president and
+CEO Roger Buoy
+presented the Mindscape
+Cup to the team on
+February 28. At the
+brunch, Buoy vocalized
+the company's support in
+promoting youth. The
+CEO stated, "Mindscape is
+dedicated to supporting
+
+vice. On that night, the
+Federal Office for Examination of Harmful Publications
+(BPS) removed the ban. The
+good news is that this
+means that Silent Service
+may once again be advertised and sold in West Germany. The bad news is that
+Gunship and Airborne
+Ranger are still recommended for ban and that
+the company lost the option
+of making the Silent Service
+case a test of the BPS procedures. Now, without a
+banned product, no appeal
+can be made in the court
+system.
+With the Gunship hearing
+set for June 9, 1988, the
+West German distributor of
+Gunship was able to place
+some advertisements in
+magazines. With no hearing
+date set for Airborne
+Ranger, magazines will not
+accept advertisements for
+the product because they
+could be forcibly removed
+from sale if a ban went into
+effect while the magazine
+
+and promoting youth
+sports, and I'm a firm
+believer that soccer is an
+exceptional way to bring
+young people together."
+At the same brunch, the
+executive reaffirmed the
+company's commitment
+to sponsoring the
+Mindscape Cup.
+
+was "on sale" with advertisements for a banned
+product. Microprose hopes
+that the BPS will settle the
+Gunship question on June
+9th. On the two previous
+hearing dates, the BPS simply postponed their decision
+and left the product in limbo.
+Microprose insists that the
+company respects the German government's desire to
+protect its youth from offensive publications. However,
+the company is fighting the
+ban because, according to
+Mike Harrison of
+Microprose, "BPS guidelines
+effectively prevent banned
+products from being sold to
+adults. Once a product is
+banned for sale to youth, it
+cannot be advertised in any
+German medium and may
+be sold only in retail establishments with an adultsonly entrance." Further,
+"The BPS uses questionable
+criteria and procedures in
+evaluating products for possible banning."
+
+"What do you want
+in your computer
+game?" My answer:
+Fog of War, yes ability to understand
+and control my purchased game and
+knowledge of why
+and how things
+work - absolutely! If
+you are unwilling to
+provide such information. I say to you,
+"Tough!" (It's only a
+game.)
+J. Dale Hight
+Los Angeles, CA
+
+"Hole"y Controversy
+I don't know what version of World
+Tour Golf the Wilsons play, but the
+IBM version comes with 22 complete courses, not just an assortment of holes. WTG also uses much
+higher resolution graphics than
+Mean 18, if fewer colors. For the
+IBM, I think WIG is qualitatively
+equal to Mean 18, but the 22 courses and computer opponents make
+WTG the better value.
+Jeff Petraska
+New Boston, MI
+According to Paul Ritchie, one of
+the programmers on WTG, early
+versions of the game had a
+peculiar oddity. The copy protection which was on-disk worked
+such that if a drive operated slightly differently than IBM standard,
+the program would think that a
+demo disk was running, so it
+would only offer the first two holes
+of each course. The Wilsons played
+the game on a clone with one of
+those old disks. Hence, the confusion.
+
+Icy Comment, Eh?!
+I'd like to see a stat-based hockey
+game and more modern naval combat for the Apple II series. Please encourage!
+John Heffernan
+Port Monmouth, NJ
+We'd like to see that too, eh!
+
+Foggy Article Breakdown
+Regarding Newberg's Fog of War:
+
+"Fog of War:" Remarkable! Continue the series, please.
+W. G. Dunn
+Berkeley, CA
+We are in the process of gathering
+responses to the opening round of
+discussion. Stay tuned.
+
+Costly Observation
+Do you realize it costs more to subscribe to this magazine than it does
+to subscribe to: The New Yorker,
+The Sporting News, Harper's, Atlantic Monthly, Rolling Stone, A+, Incider, Personal Computing, New
+England Journal of Medicine, any
+number of comic books, on and
+on? The only periodical I can think
+of - off the top of my head - that's
+more expensive is The Wall Street
+Journal! C'mon, give your subscribers a break! One month, just
+one, list a bigger discount rate!
+Dennis Owens
+Old Town, ME
+Frankly, we find our magazine
+more interesting than the New
+England Journal of Medicine. Of
+course, we could raise the price to
+equal the Wall Street Journal if
+you'd like.
+(Continued on page 37)
+
+Ultima V
+
+all by harsh laws ("Thou shalt speak the truth, or
+thou shalt lose thy tongue"), and the three
+Shadowlords spread fear and evil throughout the
+world as Blackthorn's agents.
+
+Ending the Inquisition,
+Beginning the Expedition
+
+Becoming a
+"Warrior of Destiny"
+by Scorpia
+
+L
+
+ong years have passed since the Avatar
+
+walked the lands of Britannia; years in which
+a restless figure haunts a lonely ring of
+stones, waiting for a call. Hope springs eternal, but
+as the quiet months roll by, even the strongest
+hope can dim. Perhaps, indeed, all that
+went before was only
+a dream, a dream
+whose bright edges
+are slowly beginning
+to fade. Then, one
+night in the dark
+hours before dawn,
+the summons comes.
+Light floods the room,
+radiating out from the
+Codex symbol floating
+overhead. Britannia
+calls at last for her
+Avatar, but it is a
+Britannia much
+changed and not for
+the better .. .
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Ultima V: Warriors of Destiny
+Apple II
+Solitaire
+$59.95
+Lord British
+Origin Systems
+Londonderry, NH
+
+Ultima V - Warriors
+of Destiny, picks up
+the story several years
+after the Avatar has
+left Britannia. The
+complete details are in
+the documentation
+and program itself
+and are certainly must
+reading before actually starting play. Briefly,
+Lord British has
+vanished on an expedition into the newly-discovered Underworld below the
+surface and his sovereignty has
+been usurped by one Blackthorn, a would-be Avatar with
+his own ideas on promoting
+public good.
+
+Blackthorn's reign, as might
+be suspected, has not turned out to be for the
+good of all. In fact, matters have deteriorated to
+the point where some of your old friends, Shamino
+and lolo, take it upon themselves to summon the
+one person who may be able to set things right
+again, the true Avatar of Britannia. So, you step
+through into a land now filled with suspicion and
+tyranny, where the eight virtues are enforced upon
+
+There is a lot to do in this one: first dealing with
+Blackthorn and the Shadowlords, then voyaging
+through the Underworld to discover the fate of
+Lord British. Fortunately, you won't have to do this
+alone. All your old companions from Ultima IV are
+still around and they are ready and waiting to join
+you on this double quest. You won't have to ask
+them to come with you; all of them are eager to
+take up the old trail of adventure once again. Your
+biggest problem will be in deciding which ones to
+have along, because party size has been reduced
+to a total of six.
+You do not have to have played Ultima IV to play
+this adventure, but it helps.
+If you have played the earlier game, your Avatar
+character, regardless of previous profession in Ultima IV, has gained magical power. This is true
+even if you start out with a newly-created one.
+Transferring your Avatar over from IV, though,
+does get you off to a better start in the game.
+Naturally, some changes will be made in the
+transfer (your character stays on the IV disk and is
+merely copied over). Don't expect to get a full 8thlevel character, though. Experience points from the
+Ultima IV character will be divided by 10, so that
+one with maximum points (9999) comes over with
+999. Thus, your Ultima V character becomes 5th
+level. In addition, the Strength, Dexterity, and Intelligence numbers will be halved. This is not as bad
+as it sounds, since in V the maximum for any of
+them is 30, and there are many opportunities in
+the game to build them up to that figure.
+Another change is in the matter of professions,
+which have been boiled down to three from eight.
+The only ones left are: Fighter (which includes the
+former Paladin, Ranger, and Shepherd classes),
+Bard (including the Tinker class), and Mage (including the Druid class). Thus, Julia the Tinker is now
+Julia the Bard, Jaana the Druid is now a Mage,
+and so forth. This also means that Dupre and
+Shamino are now mere Fighters and have lost
+their magical abilities.
+
+Speaking of Clues
+Ultima V plays much as the previous game: information is gathered by visiting the various towns
+and talking to the inhabitants. Most of the towns
+and villages are, however, surprisingly underpopulated. Compared to IV, some of them seem to be
+almost deserted. Skara Brae, for example, is practically a ghost town. [Ed.: It suddenly occurs to
+some of us that many people are probably
+wondering why the town of Skara Brae exists in
+both the fantasy world of The Bard's Tale and Ultima IV and V. The reason for this crossover rests
+in the person of Roe R. Adams III. If that name
+sounds familiar, it is because he is one of the
+
+designers of Wizardry IV: The Return of Werdna.
+Actually, Roe did consulting on both The Bard's
+Tale, and Ultima IV; in addition to writing the
+storyline for Wizardry IV. His gamer's alter ego is
+the famous "Hawkwind" of the Ultimas and that
+character hails from Skara Brae. So, the city exists in more than one game.]
+Other places have a few more people, but overall
+the number of people to talk to (aside from merchants, who only buy and sell) is much reduced
+from Ultima IV.
+On the other hand, this also means that a given
+individual may have a lot say about different
+things. Obtaining one scrap of information from
+someone doesn't mean he doesn't have more to
+tell you. Talking more than once to people is a
+definite necessity.
+As before, conversations hinge on keywords that
+you pick up from the initial remarks a person
+makes. Pencil and paper may be needed to note
+down likely keywords, as people are much more loquacious than they used to be and talk in whole
+paragraphs (occasionally, several in a row). If
+you're not careful, you could easily miss an important word or two.
+All eight towns, the three castles of Virtue
+(Lycaeum, Serpent's Hold, Empath Abbey), the
+castle of Lord British, Codex Island, three of the villages (Paws, Cove, Buccaneer's Den), and most of
+the shrines are in roughly the same place as they
+were in the previous game.
+New places include: the three tiny villages of
+East, North, and West Britanny, which have
+sprung up around Lord British's castle;
+Blackthorn's island, complete with castle; several
+lighthouses (which can be entered); and a number
+of small keeps (miniature castles) and huts scattered throughout the world.
+The moongates are still there, although they
+operate a little differently now. After sunset, all
+eight gates open, and remain open until a little
+before dawn. By noting the moon positions on the
+screen, you can easily determine where a gate will
+take you, although you may have to wait awhile for
+the right moon phase to get to a particular place.
+The drawback to using the gates is that they appear only at night. All towns, and some villages,
+lock up for the evening after sunset. Therefore,
+using a moongate to travel also means spending
+the night camping outdoors. This can be
+dangerous, since monsters (although far fewer
+than previously) still roam the land and might ambush your group while asleep. Fortunately, you
+can designate one member of the party to stand
+watch and a wise player will do so.
+Dungeons, of course, are still with us, eight in all.
+This time around, they function primarily as conduits to the underworld, each one leading to a different spot of that vast, underground area. The
+secondary purpose of the dungeons is to provide
+experience for the party members since there
+aren't quite so many monsters on the surface.
+However, getting into the dungeons will not be
+
+all that simple. After the Avatar left, the Council of
+Mages decided it would be a good thing if all the
+dungeons were sealed off and that is exactly what
+they did.
+Thus, you cannot just go waltzing into them. You
+must first find the way to open them up again.
+Even before that, you have to find the dungeons
+(one of the few things not on the map that comes
+with the game). Still, previous experience with Ultima IV will tell you that the logical place to look is
+among the mountains, and that is where they are.
+As before, each dungeon is
+eight levels deep. Also, each has
+a ladder at the bottom level
+that leads to the Underworld.
+This is not an area to visit with
+a low-level group. It is full of
+lakes, rivers, swamp and, most
+especially, mountains. It is obviously an easy place to become lost in, when you recall
+that it's the same size as the entire surface world.
+
+Enormous
+Differences
+The magic system has been completely redone.
+You still need to purchase reagents to cast spells,
+but now you can buy (at stiff prices) those elusive
+components nightshade and mandrake, although
+if you know when and where to look, you can also
+find them growing wild in the outdoors.
+For the rest, spells are divided into eight "circles",
+each circle corresponding to the spell-caster's
+level. Thus, a first-level character can use only
+spells of the first circle; a
+second level character can cast
+spells of the first and second
+circles, and so on, up to level
+eight (which is the highest level
+obtainable for a character).
+Many of the spells will be
+familiar from Ultima IV, but the
+naming system is quite different, structured around syllables that are strung together
+to make the spells. For instance, "Mani" is the standard
+healing spell. This restores 130 hitpoints. There is a more
+powerful spell, "Vas Mani," that restores all hitpoints. Similarly, "In Lor" is the standard light spell
+which provides a small amount of light for a short
+period of time, while "Vas Lor" provides more light
+for a longer period of time. A detailed spell guide
+comes with the game, showing the spells, effects,
+and reagents needed. To cast a spell, all that is
+necessary (aside from properly-mixed reagents) is
+to type in the first letter of each syllable of the
+spell. The program will do the rest.
+Combat has changed enormously from the previous games. First (and guaranteed to bring
+cheers), you can now strike at a monster from any
+
+angle, not just the four cardinal directions. A targeting system is in effect, using a large cross-hair on
+the screen, which is manipulated by the arrow (or
+letter) keys onto the desired target. The program
+also remembers which character is targeting which
+monster. If the opponent isn't killed by the first
+strike, the cross-hair will automatically appear on
+the same opponent on that character's next turn
+(it can, of course, be moved if you want to target a
+different monster).
+Distance weapons now have
+limiting factors. Slings, for example, do not go as far as
+bows, bows do not go as far as
+crossbows, and crossbows do
+not go as far as magic bows
+and axes (which can reach
+anywhere on the battlefield).
+There is a variety of hand
+weapons and shields available.
+Some hand weapons, such as
+morning stars and halberds,
+can reach two squares instead
+of one. Spiked shields can be used not only for
+defense, but as a weapon, too. The limitation here
+is strength. All weapons require a certain minimum
+strength to be wielded.
+This also applies to armor. Minimum strengths
+are necessary to wear different types. However,
+don't be in a hurry to deck everyone out in plate
+mail, because the weight of the armor affects
+which weapons you can use. A character who can
+use a halberd in leather may be
+unable to do so in chain mail.
+Therefore, choices which
+balance armor protection vs. offensive abilities must be made
+and they are not always easy
+choices to make.
+One major difference from Ultima IV is that weaponry and
+armor are no longer restricted
+by class. Any character can use
+any weapon or wear any armor
+if he or she is strong enough.
+This includes magic bows and
+axes (axes being by far the best), as well as plate
+mail,
+Ultima V also features more in the way of goodies
+than previous games. Rings of Protection,
+Regeneration, and Invisibility (this one is really
+neat!), mysterious potions, scrolls of magical spells,
+magic keys (to open magically locked doors),
+amulets of turning. These and others will be found
+throughout play to help you along on your quests.
+
+Monstrous Similarities
+Monsters, alas, are pretty much the same old
+crew: orcs, ettins, trolls, slimes, gremlins, bats,
+dragons, daemons, etc. Many of these will also be
+found in the Underworld, which sports (by my
+count) only three new monster types, which is very
+disappointing. I had expected many more original
+creatures to be roaming around down there.
+
+At the same time, daemons and wisps have a
+new power, which is extremely nasty: the ability to
+possess members of the party and turn them
+against you. When this happens, the daemon or
+wisp vanishes from the screen, and the possessed
+character turns and starts hitting other party members.
+Sea monsters and pirate ships continue to make
+ocean voyages somewhat perilous. The serpents,
+with long-range fireballs, and the pirates, with cannons, are especially dangerous and should be
+avoided whenever possible. Sharks are not much
+of a problem if you have distance weapons and
+spells, but squids and seahorses have their own distance weapons and can be quite formidable.
+
+"Ultima"te Improvements
+Since you start as an Avatar, there is no need to
+prove yourself as in the previous game. Yet, the
+program is still watching you, although in a more
+subtle fashion. It is possible for you to steal horses
+or food, or lie to people, without losing your status
+as an Avatar. However, such un-Avatar-like behavior has its own drawbacks, and you may be unable to finish the game if you do the wrong things.
+As there is no Hawkwind this time to give you any
+hints, you will have to decide from the actions of
+those around you whether or not you are doing
+the proper actions.
+The graphics in the game are much improved
+over Ultima IV. The detail is finer, the range of motion greater, and there are many little niceties,
+such as waterfalls; ticking clocks (look close
+enough, you can even tell the time!); movable
+items (such as chairs and barrels); curved
+coastlines; lighthouses that actually work at night,
+sweeping the area with their beams; little pools of
+light around lamps in towns and villages; and
+many more.
+Time is important in the game. Some events will
+only happen at certain hours and you might miss
+them if you aren't in the right place at the right
+time. This is also true in regard to the townspeople
+and villagers. Merchants open at a particular hour
+(not the same for everyone), go to lunch, close up
+at night, and so forth. Non-merchants can usually
+be found in particular places at particular times.
+Fortunately, you don't have to go rooting around
+in obscure corners to find them.
+One other feature that will bring smiles of relief to
+all is the ability to save in the dungeons, as well as
+other places. No longer is it necessary to plow
+through an entire dungeon in one sitting. You can
+stop anywhere and come back again later. Also,
+once a dungeon room has been completely
+cleaned out of its unfriendly residents, they will not
+regenerate; the room stays empty.
+
+Poisonous Tales
+Yet for all that, Ultima V is not without its flaws.
+The combat system can be very irritating in the
+length of time it takes to kill monsters, especially at
+low levels. One would expect that no more than
+
+one or two swipes with a longsword would be
+enough to put away something as trivial as a giant
+rat, but this is often not the case.
+
+might guess this to be the case, those who have
+not played the previous game might not figure this
+out right away.
+
+Many times it will take several blows, ranging in
+effectiveness from "barely wounded" to "lightly
+wounded" to "heavily wounded" to "critical" and
+finally to "killed". Combat therefore becomes something of a long-drawn-out affair, which is exacerbated by the number of times the characters miss
+their targets.
+
+Combat tends to be somewhat glossed over. The
+manual doesn't tell you that you could hit your
+own party members in hand-to-hand fighting, and
+much of the material is a bit vague. The Quick
+Reference Card lists armor and weapons (but not
+magical ones), showing weight, attack value, and
+defense value, but does not show what the minimum strength is to use any of these things, nor is
+it mentioned anywhere that heavy armor may
+restrict the character in regard to usable weapons.
+It also leaves you to figure out on your own that attack values for weapons are maximums only, and
+that they can do far less damage than is listed on
+the card. And finally, nothing is said about the fact
+that any class can use any weapon or armor, subject to strength limitations.
+
+Even worse, when engaging in hand-to-hand
+fighting, there is a very large chance that a blow
+will go awry and strike another member of the
+party. The closer the monsters are, the greater this
+chance becomes. While it is realistic to assume
+that one member might hit another on occasion, I
+found these occasions far too frequent, particularly
+as the front line is composed of fighters, who
+would be expected to know how to handle their
+weapons in close quarters.
+Horses are another problem. The program simply
+does not remember about them. If you leave your
+horses in a town, go out, then come back in
+again, they will be gone, forcing you to either acquire new ones or do without them. Always bring
+your horses into a town or village, and always
+leave with them.
+One puzzling aspect of the game is the use of
+secret doors and passages that lead to nowhere
+and nothing. For example, there are two secret
+doors in Skara Brae, each leading to a little plot of
+land otherwise unreachable. However, there is
+nothing at all to be found on either of them, and
+you can wait through an entire twenty-four hours,
+but no one will show up.
+These and other doors are by no means easy to
+find; you really have to search for them. Yet, they
+have no real purpose. One or two might be considered as red herrings, but there are just too
+many of them for that. It seems as though there
+were supposed to be people or objects of importance in these areas that were never put into the
+game, that were somehow overlooked or forgotten. It gives Ultima V a certain unfinished look, as
+well as aggravating players who may spend fruitless hours looking for something or waiting for
+someone that doesn't exist.
+The manual, while nice, omits some important information. It does not mention that holing up in
+the outdoors (or dungeons) does not always restore hit points and magic points. Sometimes the
+party is rested after camping, sometimes not.
+Since resting is the only way to restore magic
+points, this ought to have been in there. Also,
+sleeping for the night in a bed in town will not restore any points, unless you've actually paid an innkeeper for the room.
+Nothing at all is said about experience levels, or
+how high a character can advance in the game (it
+happens to be level eight, as before), or how much
+experience is needed to go from one level to the
+next. In addition, the manual does not mention
+that going up a level means gaining a new set of
+spells. While those who have played Ultima IV
+
+Another fact that is not mentioned is how to find
+secret doors in castles, towns, and some dungeon
+rooms. On the walls where a secret door exists, is
+a very tiny red dot. Unless you're looking for it, this
+dot is very easy to miss. An extremely observant
+player might notice one, but it is more likely that it
+will never be noticed (secret doors in dungeon corridors, however, will always be revealed by the
+magic mapping gems).
+Perhaps the most glaring omission in the
+documentation is the lack of a warning to those
+who have only one drive. If you are playing Ultima
+V on a one-drive system, always, always wait for
+the program to prompt you when it's time to swap
+disks. If you try to anticipate and put the disk in
+too soon, you will cause the game to crash. Let
+the game tell you when to exchange disks, and
+you will have no problems (many thanks to Roe
+Adams, who found this one out the hard way on
+his Apple //c).
+On the plus side, the cloth map is beautifully
+done, and shows the locations of all towns, villages, and shrines (except one), as well as Codex Island, Blackthorn's Island, Buccaneer's Den, etc.
+Only the dungeon locations, as noted earlier, and
+the keeps and huts, are not displayed.
+The runic alphabet has been expanded, with symbols for all letters of the English alphabet, including Q, U, and V. On the screen, it is sometimes difficult to distinguish certain runes, especially if the
+figures are close to one another in configuration,
+but with practice reading them is not too hard. As
+there are parts of the game where reading the
+runes is a must, keep the alphabet handy.
+Ultima V comes on four double-sided diskettes
+(l), supports one or two drives (checks automatically for presence of the second one), and also supports the following music boards (on 128K Apples): Mockingboards A&C; Sound I & II;
+Sound/Speech I; Phasor; and Apple Midi Interface
+(with Midi synthesizer). [Ed: Lord British let us
+view the game with the Midi Interface in use and
+the soundtrack was awesome.]
+
+(Continued on page 54)
+
+HAVE I LIED TO
+
+YOU ...
+RECENTLY?
+Chris Crawford's "Trust and
+Betrayal: The Legacy of Siboot"
+by Regan Carey
+
+he
+
+only thing that is really predictable about
+Chris Crawford's game designs is that he will always produce something that is a step beyond
+the level of games currently out there. So it should
+come as no surprise that his latest effort doesn't fit
+into any convenient category.
+
+T
+
+Trust & Betrayal
+opens with the
+ominous warning "Persons who play this
+game without reading
+the rules and the novella are wasting their
+time!" What's more, it's
+a valid warning. It takes
+time to appreciate all
+that goes on in this
+game—and it is the subtleties that really make
+it interesting.
+A novella, authored by
+Crawford, accompanies
+the game. While it is
+not the level of science
+fiction that wins Hugo
+Awards, it does provide
+relevant background
+and a wealth of clues
+on the inner workings
+of the designer's plot
+when he built the game
+system. The game can
+ha installed on a hard
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Trust and Betrayal
+The Legacy of Siboot
+Macintosh
+Solitaire
+$49.95
+Chris Crawford
+Mindscape
+Northbrook, IL
+
+disk, but it has a "key disk" copy
+protection scheme.
+
+The Shepherd is Dead!
+Long Live the Shepherd!
+
+The location is Kira, a moon that
+orbits a planet named Lamina. Now,
+Lamina has seven sapient races sharing its surface
+and they don't always get along with each other. All
+seven races are also present in a small colony on
+Kira and they don't always get along with each
+other, either.
+The novella tells of the escalation that led to a
+rather unfortunate thermonuclear exchange down
+on Lamina. On Kira, the only thing that prevented a
+continuation of the hostilities among the races on
+
+Kira was the intervention of Siboot. Through careful
+negotiation, appeals to common sense, and the introduction of a rudimentary telepathic language that
+permitted better interspecies communication, Siboot
+led the Kirans to peace and understanding. Siboot
+became the first Shepherd.
+Each succeeding generation has added to the
+knowledge of the telepathic language, called Eeyal.
+Feslym, the Fourth Successor of Siboot the Founding Shepherd has just died. It is now time for all the
+acolytes to compete with one another to determine
+who is best qualified to take over leadership, as the
+new Shepherd. In playing the game, you take the
+role of Vetvel, a young male Jomkar, who is his
+species' acolyte for the position of Shepherd. You
+are a generally nice guy with intelligence, wit, and
+wisdom. Sure.
+As there are seven races, so there are seven
+acolytes. Kira has a small population, so you are
+well acquainted with your rivals. In fact, most of
+them are your friends. Your best friend is Skordokott, a Tayran that looks like a carnivorous penguin. Kendra is a rather flighty Klast who bears a
+striking resemblance to a seahorse. Another good
+friend is Wiki, representing the feline Ripi. The rather
+superior Gardbore is a Frem and looks like an
+aardvark. The most human-looking of the group is
+Zubi, the female Srol. Locksher, the Lokweel, is
+simply a mass of furry wrinkles with eyes and a long
+nose.
+The spectrum of relationships between the
+acolytes varies from love, through disinterest, to outright hatred. You are generally liked by most. This
+can get a little tense, however. For instance, two of
+your best buddies, Wiki and Skordokott, dislike each
+other intensely. Further, the interrelationships
+change through out the game as actions speak
+louder than words. If you play as a dedicated selfish
+lout, you can migrate into everyone's bad books.
+Equally, it is a major pleasure when you can win
+another over to close friendship.
+
+An Aural Fixation
+Each being on Kira has three auras--tanaga (fear),
+katsin (trust), and shial (love). The Shepherd must
+have all three in perfect balance, and maximized at
+level eight. How do you gain power in auras? By
+combat, of course.
+The auras have distinct relationships to each other.
+Fear conquers trust; trust conquers love; and love
+conquers fear. If you think it sounds like the old
+paper, scissors, and rock game, you're right. When
+you win over another's aura in the nightly astral
+competition, you gain one level of whatever aura
+you defeated.
+Now, this creates some interesting tactical
+problems. If you need to gain a level in a particular
+aura, you must defeat the same aura. Therefore,
+your attack is telegraphed and easy to defend
+against. So, you outmaneuver your opponent—he
+thinks that I think that he thinks, so . . . .
+This is complicated by daytime interaction between
+the acolytes. Every morning, each acolyte wakes up
+with knowledge of one aura level of each of the
+
+other acolytes. This valuable intelligence is bartered
+back and forth during the day to parley up your
+store of knowledge about your opponents. The
+more you know by nightfall, the better you are
+prepared to prevail in the nighttime competition.
+Nevertheless, there is a cost to gaining this useful
+information. You have to trade for it and whenever
+you tell one acolyte about another acolyte's aura,
+you are technically betraying that person. Of course,
+you're not supposed to betray your friends—especially if they find out about it!
+Sometimes, however, you find that one or more of
+your friends have betrayed you! Well! Now you can
+betray them, right? So, onward it goes in an escalating spiral worthy of the Laminans that wasted their
+original world in self-righteous politicking.
+
+Eeyal Come Back Now, Hear!
+Another twist is that each race speaks a different
+language. Therefore, all communication must take
+place in a telepathic language that is represented in
+the game by a graphic, icon- based language called
+Eeyal. This language was Siboot's great contribution
+to peace and love on Kira and skill in Eeyal is the
+mark of a good Shepherd.
+Each concept in Eeyal is shown as an icon. For
+those beginners that haven't mastered the meanings yet, simply clicking on any icon will bring up an
+English translation. However, it really doesn't take
+long until the translations are unnecessary. Like any
+well designed icons, these are intuitive. The syntax
+of the language is simple and straightforward.
+As an icon is selected, representing an action like
+"tell" or "ask", the menu of possible icons is
+automatically adjusted to provide only those choices
+that would be appropriate. A popular theme in
+science fiction is that it is hard to lie in telepathic
+communication. This is the case with Eeyal. Your
+choices for communication are selected from a
+menu that only permits truth to be said. You simply
+cannot speak nonsense or lie.
+The sensitivity of the menu choices to context and
+current levels of character knowledge makes communication in Eeyal reasonably straightforward. The
+skill in this game is knowing what to say, to whom,
+and when. You won't get bogged down in the "how"
+of speaking Eeyal.
+An important part of communication are the visual
+clues that come from watching a person's face.
+Crawford incorporates this by providing a stylized
+face with appropriate expressions on-screen. As
+there are over thirty different facial expressions possible, some of the communication is quite subtle.
+
+Artificial Flavoring Added
+The game keeps track of your actions, and uses
+them to adjust the reactions of your opponents accordingly. Among the greatest achievements of this
+game are the different artificial personalities
+developed by Crawford. Once you play a few times,
+your fellow acolytes start to assume the mantle of
+reality. You will develop your favorites, and the way
+
+you treat them will be reflected in the way that the inhabitants of Kira treat you.
+There are other personalities
+to be dealt with, as well. Walking
+down the street, Vetvel can
+come face to face with his old
+teacher, or be pestered by the
+hero worship of an aspiring
+youngster. These meetings are
+presented as stories, sometimes
+quite lengthy ones, that you can
+react to by selecting from four
+possible responses. Some of
+these episodes are designed to
+refine your relationships with
+others or simply clarify your own
+personality. Some are purely introspective. Sometimes your actions during an encounter can
+affect your standing in the game.
+Just in case you start to take
+the game too seriously, several
+of the random events involve
+Chris himself. These encounters
+are rarely straightforward. More
+often they are vehicles for the
+Crawford sense of humor. Chris can be seen lurking
+in alleyways, or loitering in a zoot suit to the sounds
+of a big band. You haven't lived
+until you have been buzzed by a
+flying Chris Crawford who
+misspells messages to you in
+sky writing. Behind the whimsy,
+however, there is usually some
+good advice on game play.
+Don't talk back to him, however.
+After all, he is the designer and
+he doesn't take kindly to disrespect.
+
+The Bottom Line
+It is possible to have unrealistically high expectations of a new
+game, just because it is a Chris
+Crawford design. T&B is a case
+in point. It is a step forward in
+game design. The artificial personalities are good enough to
+make game play insidiously habit-forming. The context sensitive icon-based language is a technical
+achievement and deserves praise.
+Continuing the theme of Balance
+of Power, Trust & Betrayal provides
+a mechanism to make players think
+about the nature of conflict. It exhibits the innovative thinking that is
+the hallmark of Chris Crawford.
+However, little things disappointed
+me. The graphics are interesting, but
+not superior. The opening sequence
+of screens presents some fine animation, but then uses text that is 24 and
+36 point Times font. If the game is
+run on a system that doesn't have these fonts installed, the graphics are outshone by singularly
+
+rough text. The animated graphic sequences during nighttime aural combat lose their appeal after one showing. I guess I expected better.
+Like "Rommel vs. Patton", the
+sound is definitely ho-hum. It doesn't
+contribute to the game in any way.
+With more and more software coming out that utilizes digitized sound,
+garners are becoming a demanding
+audience. If sound doesn't add to the
+game by enhancing communication
+or by providing entertainment,
+leave it out.
+Picky. Picky. Let me put these complaints in
+perspective. Trust & Betrayal is an extremely challenging and entertaining
+piece of software. It is a fine piece of
+game design and definitely not
+boring. Just don't expect excitement.
+This is the kind of software that I play
+with when I need an interesting puzzle and some intellectual effort, not
+when I want adrenalin flow.
+While I won't nominate it for the
+game Hall of Fame, I would definitely
+say that Trust & Betrayal deserves a
+place in your software collection.
+
+ILLUSTRATION #1: Most game interaction takes
+place on this type of screen. The lower right shows
+that Zubi has just turned down a proposed by Vetvel. The left margin shows Eeyal icons that Vetvel
+could use in response. The stylized face shows that
+Zubi is suspicious. Her love and trust for Vetvel are
+pretty low and her fear of him is relatively high.
+ILLUSTRATION #2: It is mid-morning on Day One
+and Skordokott has just made a deal with his friend
+Vetvel. Skordokott told Vetvel about the level of
+Locksher's Shial in return for Vetvel's info on
+Locksher's Tanaga. Now Vetvel is proposing a
+similar exchange of information about Kendra.
+Skordokott's expression is scheming, and his love of
+his friend is high. The left column is empty of Eeyal
+icons because the player has yet to press the "do it"
+button and actually put the deal to his friend.
+ILLUSTRATION #3: At any time in the game, Vetvel can check on his current state of knowledge
+about his fellow acolytes. With this screen, he sees
+that Kendra is at Skordokott's house and Gardbore
+is on his way there, too. Wiki is visiting Locksher,
+and Zubi and Skordokott are at their own homes.
+He also sees that Kendra's Katsin is at level 6,
+Gardbore's Shial is at level 8, and so on. As the day
+passes and info is traded, Vetvel will build up his
+knowledge of his rivals' auras and use that information to plan his nighttime combat.
+
+PANZER
+STRIKE!
+By Bob Proctor
+
+'though Panzer Strike (PS) at first reminded
+me of earlier SSI games, especially the
+popular Kampfgruppe, once I started to play
+I found myself comparing it with Avalon Hill's
+popular board game, Squad
+Leader. Even though PS is
+played on a computer and SL
+on a board, this comparison is
+inevitable. Both simulate small
+unit combat in Europe in
+WWII. Both have interesting
+detail—units represent individual vehicles and guns with
+realistic ranges, armor thickness, speed and so on. Both
+have flexibility—you can play a
+small scenario in 15 minutes or
+a huge one that takes days.
+Best of all, both have variety—
+different victory objectives, different nationalities (even Finns
+and Belgians!), and infinite
+combinations of terrain. This is
+what it takes to keep a game
+popular for over ten years.
+Panzer Strike is the first computer game that even approaches Squad Leader in
+variety and interest; if you enjoy
+SL then you should buy Panzer
+Strike ASAP.
+I Whoa! Go read it
+again - that's review number one! Notice I'm
+Name:
+PANZER STRIKE
+not saying that Panzer Strike is a comSystems:
+Apple, C-64/128
+puterized version of SL. It's a different
+# Players:
+1-2
+Price:
+$49.95, $44.95
+game system with both pluses and
+Designer:
+Gary Grigsby
+minuses. The computer makes it
+Publisher: Strategic Simulations Inc.
+much easier to play than any board
+1046 N. Rengstorff Ave.
+Mountain View, CA 94043
+game, even with highly detailed
+ammo limits and command limitations, but it lacks the breadth of the Squad Leader
+system (no rules for amphibious or airborne assault, for example). PS has a
+design-your-own-scenario routine that emphasizes speed and convenience but does not give you complete control
+over every variable the way SSG's Battlefront system does. There's no way to create new terrain or
+weapons for example, but then there are a LOT of
+choices already here. It will keep you playing happily until something better comes along no matter
+how many years that takes.
+
+For the Rest of Us
+It's easy to understand the historicity of games
+that portray famous events and use a map that is
+recognizably the place where these events happened: a game of D-Day on a map of France, for
+example. Such games reenact the events of many
+months and the outcome has a clear effect (well,
+usually) on the course of History.
+Games like Panzer Strike, that deal with smallunit tactics, are historical in a different way.
+They attempt to portray how a relatively small
+group of men, armed with various kinds of
+weapons, can accomplish some simple task. An experienced player will develop a complex "tactical
+doctrine" which can be applied no matter what the
+quality of the troops, the type of weapons available, the type of weather and terrain present, or
+the type of goal to be reached. If the game is realistic, the methods that work best will be similar to
+those used by the successful commanders of the
+period. They will also have to be modified as new
+weapons and new techniques change the face of
+battle.
+Panzer Strike succeeds very well in this regard. In
+a Campaign game, you can command a small
+force through the entire 7 years of WWII, upgrading your equipment to match the enemy. You will
+need a balanced mix of weapons and units to
+meet a variety of situations. Are you facing a small,
+mobile tank platoon or entrench infantry backed
+by artillery? Are you trying to capture a crossroads
+or hilltop, or just get around the enemy and get off
+the map?
+The morale and skill of your troops are at least as
+important as their weapons. PS rates both of these
+factors separately. While skill changes only between scenarios (more on campaigns in a bit)
+morale ebbs and flows during battle. Units under
+fire begin to collect "suppression points" which will
+eventually cause them to retreat or rout if
+neglected. Getting them into cover helps, as do
+other friendly units, but it is the rallying effect of
+HQ units that restores morale quickest. If a unit
+does break, it is controlled by the computer and
+may continue to fight independently.
+
+What's in the Box?
+The game comes with two double-sided diskettes, two manuals, and a start-up card. One disk
+side is a scenario builder. The others are game
+disks, each containing a different front: East, West
+and North Africa. This is an ingenious way to get
+all of the data needed for Europe onto 140K disks,
+as well as allow for different weather and terrain.
+So North Africa, for example, pits the Germans
+and Italians against the British, has sand instead of
+wheat fields, and favors you with duststorms instead of snow. Gee thanks.
+North Africa can also be awkward to play since it
+is on the opposite side of the scenario disk (immaterial if you only have one disk drive). You can
+and should make copies of all disks; there is no
+copy protection. (Apple owners will need a bit-
+
+copier since SSI uses a non-standard DOS.) To discourage people from playing with illegal copies,
+you are required to answer trivia questions based
+on unit data about once per game. Examples are:
+"What is the front turret armor of the French Char
+B1S?" or "What is the cost of a Finnish ski
+squad?". All of the answers can be found in the
+Briefing Manual so as long as you have the
+documentation replying is easy. The idea seems a
+reasonable compromise and is unobtrusive; some
+people even thinks it's fun! My manual had several
+blank pages, including some of the needed
+answers, so make sure yours is complete.
+
+Ready in the Ranks!
+The Rule Book is 50 pages long and very
+complete. Fortunately, you don't have to read much of
+it to begin playing. After about four pages of introduction, you can skip to the tutorial and start playing. The game is very similar to others by Gary
+Grigsby in that each turn (representing one minute
+of time) is divided into an Orders Phase and a
+Combat Phase. Each Combat Phase is broken into
+3 pulses and many sub-pulses so that movement
+and combat are, in effect, simultaneous. The Orders Phases are normally skipped and action is
+continuous unless you hit the "0" key, which will
+cause the game to enter an Orders Phase at the
+end of the current turn. Scenarios are either 30 or
+60 turns long and you can end them early but not
+extend them.
+The map is laid out using squares instead of the
+more familiar hexagons. This is perfectly acceptable since the computer allows for the fact that
+moving diagonally means a longer distance than
+moving to an adjacent square. It also means there
+are 8 possible facings instead of 6. Each square is
+50 yards on a side and the east-west dimension of
+the map is always 60 squares, or just under two
+miles. The vertical dimension can be any multiple
+of ten from 10 to 60. There are two screen views:
+10x20 squares, called "Tactical" and 20x40, called
+Strategic. The Z key toggles between the two. I
+use the latter to get the big picture when giving orders but I like to switch to the smaller one for Combat. The nice large squares make it easier to spot
+the unit being attacked.
+There is quite a variety of terrain in PS. There are
+five levels from 0 to 4. Level 1 is normal ground
+level. Swamps, rivers and depressions are lower
+than this; rough and slope are level 2; hilltops are
+level 3. Most features, like forest, buildings and
+roads, can be either level 1 or 3. There are no
+multi-level buildings, so no good way to simulate
+fighting in larger cities. You can create a beach or
+a wide river but there are no boats and no rules
+for amphibious assault. The three terrain sets—
+European Summer, European Winter and North
+African—give a different look on-screen and also
+allow for regional and seasonal differences. Thus
+the boggy European swamp is much more passable when frozen and becomes an African oasis
+further south.
+Each unit on the map represents a single vehicle,
+gun or squad of men. There is an incredible
+
+variety of units as you can see from this table.
+There is some duplication because the minor Axis
+countries use a number of German weapons, but
+even there a German Tiger tank costs less and is
+available sooner.
+The USA is notable by it's absence. There are
+plenty of American-made tanks and guns in the
+British list, but only common ones. Several
+varieties of tanks and infantry weapons like the
+bazooka are absent. A
+pseudo-American force
+could be put together for
+either the Western or
+African front, but not
+with the same realistic
+detail as other nations'
+forces.
+
+Aim!
+Scenarios come in
+several types. An Assault
+scenario begins with both sides in prepared positions. One side will always be designated as the attacker and will have a force that is 2 or 3 times
+larger than the defender. A Pursuit scenario is a
+more mobile situation where neither side has had
+time to dig in. The attacker will have a stronger
+force, but only about twice as big. A Meeting
+Engagement is a Pursuit scenario where both sides
+are attacking and have relatively equal forces.
+The mission of both attacker and defender can
+also vary. As attacker, you might be trying to capture a piece of
+ground (Clear),
+destroy enemy
+units (Engage), or
+exit off the far end
+of the map
+(Bypass). The
+defender has corresponding Hold,
+Engage, and
+Delay missions.
+Victory conditions
+are measured by
+points (a unit's VP
+= build cost) with
+bonuses and multipliers. For example, an attacker with a Bypass mission loses
+double points for each unit destroyed but gets 5
+times the points for each unit exited off the far
+edge. If the defender has a Delay mission, these
+factors jump to 4 times and 10 times or if the
+defender is trying to Hold a crossroad then there is
+a 100 point bonus for doing that.
+There are 7 historical scenarios included in the
+game:
+Although the scenarios offer good variety, most
+people who buy PS will spend more time playing
+scenarios generated on the spur of the moment.
+Many games have had "Design Your Own" features
+but PS breaks new ground in generating interest-
+
+(Continued on page 53)
+
+he
+
+current state of role playing,
+whether utilizing the computer or
+not, may be summarized in the
+phrase, "hack and slash." Even pen and
+paper games do not tell
+players how to set up adventures. Campaign building instructions are minimal, at
+best. After a dozen years,
+there is still no decent set of
+introductory rules for role
+playing games (RPGs), nothing to meet the needs of a
+novice. In spite of all the
+space that RPGs take up in
+the shelves of game stores
+across the country, there is
+still a lack of quality.
+
+T
+
+message comes up that "You need a
+key!" Perhaps, I have the wrong key. So,
+I try all of them and get the same message. "Rats!" I mutter, "I must have
+
+than the thrill of discovery. Indeed,
+beyond the parser problem, we have an
+expression of one of the most significant
+problems in most CRPGs today. Role
+playing should not be held
+captive by the "If it moves,
+kill it" syndrome.
+
+The Future of
+
+Computer
+Role-Playing
+
+Therefore, even though I
+believe that computers will
+never replace a decent Dungeonmaster at anytime in
+the foreseeable future, let
+me state that I do believe a
+good computer role playing
+game (CRPG) can still accomplish a lot. By this I
+mean that a good CRPG
+could: 1) teach lots of
+people how to play RPGs;
+2) teach players how to set
+up their own campaigns/quests; 3) supply
+reasonably interesting situations while doing this teaching; and 4) give instruction
+about using role playing in
+games. Yet, we have not
+seen CRPGs accomplish
+this.
+Perhaps an examination of
+how RPGs and CRPGs interacted in, the past can point
+the way towards a mutually
+beneficial future. For example, computers were
+doing "find your own adventure" text games long
+before publishers filled the
+shelves with these books.
+These books did what the
+computer "text" games
+could not do, provide more
+words to describe events.
+"Text" games could not go beyond the
+bare bones messages. Words take up a
+lot of programming space! Books are
+also able to include artwork or neat
+maps. This makes the books more
+graphically appealing, but what about
+the computer games?
+
+The Co-creator of "Dungeons and
+Dragons" Assesses the Genre
+
+One major marketing ploy on behalf of
+computer games is "the thrill of discovery." Yet, is it always a thrill? For example, when my character takes a key
+in his hand. I hope that it will open the
+door that he is standing in front of. The
+
+David L. Arneson
+missed one . . ." Off I go, killing guards
+and searching rooms. Later, I "accidentally" discover that the proper command
+to use a key was to "Operate" the key,
+not use the key to "Unlock" the door.
+Silly me.
+No, this little tidbit was not in the "rule
+book." No, I did not feel any "thrill" at my
+discovery of the proper command word
+to use. The aroma emitting from the
+corpse-filled corridors of the castle
+seemed more accurate. Thus, in my
+book, we have more the stink of the feet
+
+Good Graphics
+or a Good Game?
+Another common problem
+in CRPGs may be an emphasis in glitz and glamour
+rather than substance. If it is
+pretty, the assumption is
+that people will buy it.
+Whether in the print media
+or in computer games, this
+seems only too true. Ask
+any sales or marketing
+department. The question
+is, however, do these beautiful graphics really add anything substantial to the
+game? Seldom is this a consideration by the publisher.
+Today, the adventurer's
+figure moves across the
+screen in an incredible sixteen color, three-dimensional masterpiece. It took
+hours to program and uses
+lots of memory space on
+the disk. Too often in the
+rush to get the product out
+the door, the programming
+was sloppily done and the
+figure took up more space
+than was expected. Time is
+always short, however, so . .
+.. Of course, the figure
+moving across the screen is
+the information being conveyed to the player. Now, a
+one color figure with limited
+animation conveys that information in a lot less program
+space. The additional
+memory could be used to
+further enhance the game itself. Unfortunately, such an
+attitude does not sell games.
+
+Frankly, computers crunch numbers
+beautifully. They can form intricate
+patterns in less time than you can
+read this sentence. Words and pictures
+take up a lot of memory, so shouldn't
+designers have computers do what they
+are good at instead of what they are less
+adept at.
+
+Morale Check
+In any given battle, our surrogate warriors will beat each other to a pulp until
+
+one side or the other comes out on top.
+If the player wins, loot is gathered,
+wounds healed, and experience points
+gained. If the nasty Nazis (or supply your
+own villain) win, they just vanish back
+into the nether regions that spawned
+them.
+
+I
+
+n Dungeons and Dragons, there is a
+rule called "Morale." This deals with
+the situation where creatures see that
+they are going to get killed. Then, they
+pack up their claws and scamper off into
+the shadows rather than be slaughtered.
+It is a pretty basic and simple rule.
+Each creature has a certain courage
+rating. Then, when losses reach a certain percentage, a die is thrown. If the
+courage number is exceeded, the critters
+take off. The same procedure is used for
+large numbers of human troops and adventurers.
+Players don't like it. They, and the
+referee, consider it to be one more number to keep track of. Besides, you don't
+get any experience points when the bad
+guys run away. Of course, a "good"
+referee (speaking of efficiency, not alignment) will still award the players points,
+even though such an event is not specifically mentioned in the rule book(s). On
+the computer, working such an equation into the program should be no
+problem at all. It also ought to be able
+to award partial points, even if the
+goblins did run away. Most experience
+points should come from the treasure,
+anyway, not in killing the monsters.
+Of course, some players won't like it
+when their "friends" leave them to face
+the music. "Well, tough noogiesl" Nonplayer characters would have their
+morale affected by the Charisma of their
+leader. This, in turn, could be affected
+by the leader's "Reputation" which would
+be an evaluation of how well that leader
+has been in the past.
+A
+Another problem would involve
+division of the spoils. Max of
+Marysport may be better with a sword
+than Felix, but will Felix really just hand
+his new magic sword over to Max. No!
+Felix's actions will be based on Group
+Loyalty or Personal Loyalty. This may
+sound like a complex problem, but it is
+one a computer can crunch numbers to
+handle. The Group Loyalty evaluation
+would be a numerical estimate of how
+successful the group has been to that
+point, which indicates how likely it is that
+there will be more loot in the future. The
+Personal Loyalty quotient would be a
+numerical calculation which determines
+how much the NPC likes the group's
+present leader.
+
+Fortunately, CRPGs are becoming
+more interactive. In days of yore, one
+delved into the dungeon's depths. Then,
+CRPG emerged into open country and
+villages. Today, they are vivid animated
+graphic spectacles. Yet, players must still
+hack and loot again and again in order
+to gain experience.
+In general, characters in CRPGs only
+develop their fighting techniques or
+learn more spells. A character's alignment is represented only by
+occasional comments from the
+computer to
+"Not be such a
+goody two
+shoes." A
+character's
+profession is
+still
+Fighter/Magic
+User/Cleric/Thief.
+Players get to
+name their surrogate robot . .
+. er . . . adventurer, assign a
+few numbers, and give the character its
+marching orders. Whoopee! .. .
+Many players and reviewers have
+reflected on this robotic mentality.
+Another deficiency is games that overemphasize "Combat Mechanics." When
+major player decisions revolve around
+whether Marfeldt the Barbarian will use
+his #3 Axe or #7 Mace to deal with
+monsters, it hardly seems like role playing (rather "roll" playing).
+Hope was expressed that Ultima IV
+would break new ground. It did give the
+character more depth and new text
+games have given the characters more
+choices. Unfortunately, rather than
+being harbingers of a new age, these
+games have stood pretty much alone as
+quirks instead of trend setters.
+Today, many new games claim to be
+the "cutting edge." Among them are
+Strategic Simulations, Inc.'s Advanced Dungeons and Dragons and
+Electronic Arts' Wasteland. Each will
+shortly be released. Both are touted as
+being "state of the art." Each does contain "new" features.
+In the SSI product, a new feature to
+CRPGs is that of NPC character alignment and objectives. NPCs will actually
+leave the party, due to alignment or because their "personal" goals have been
+achieved. In other areas, AD &D will
+only be a refinement of existing features.
+Better graphics, more magic spells, etc.
+will be available, but the product will
+
+turn out to be a cross, in many respects,
+between Questron and Wizard's Crown
+presented in a new setting.
+Wasteland promises to provide something quite different in the area of NPCs,
+
+skills, and information gathering. Mike
+Stackpole, who assisted Alan Pavlish in
+the design, has an extensive background as a respected designer of RPGs
+and scenarios. Thus, he is well qualified
+to add aspects of "Live" RPGs to CRPGs.
+Wasteland contains some of the best features of Ultima IV mapping and Bard's
+Tale combat. In the game, characters
+have skills, but the only way to improve
+them is to use them. Also, NPCs will
+refuse to march off to death and glory
+like little robots. Beyond this, Wasteland
+contains a vast amount of information.
+It is the 200 paragraphs of text in the accompanying booklet that set it apart. It
+looks like players will really be able to
+communicate with the creatures of Wasteland. All this and graphics, too.
+Where is character development taking
+place in CRPGs? Each of the newer
+games mentioned brings in a significant
+addition to the CRPG scene. Will there
+be more improvements, additions, and
+expansions? Or are we still dealing with
+quirks?
+Only tomorrow will tell, but it would be
+nice to see all of these RPG features in
+the same game! That would be a real
+step forward. Then again, maybe that
+would make it too much like the real
+thing.
+
+ABSTRACTS FROM
+THE JOURNAL OF
+COMPUTER GAME
+DESIGN
+
+r
+i
+s
+C
+
+Crawford is a game designer
+who has attempted to be on the
+cutting edge of game design from
+his early Eastern Front to his most
+recent Trust and Betrayal: The Legacy
+of Siboot. As editor of The Journal of
+Computer Game Design, he is attempting to engage other designers in a colloquium concerning the present state of
+and future directions for game design.
+JCGD is published six times per year
+and costs $30 per year (The Journal of
+Computer Game Design, 5251 Sierra
+Rd., San Jose, CA 95132). In this issue
+of Computer Gaming World, we will be
+abstracting from issues #4 and #5 of
+JCGD.
+
+Blowing My Siboot-Horn
+by Chris Crawford (Author of Eastern
+Front, Legionnaire, Balance of Power,
+Trust and Betrayal, and others)
+
+T
+
+he fascinating thesis of this article
+
+is that designers need to take
+more pain to place characters into
+computer games. Crawford distinguishes
+between the "cardboard" caricatures in
+earlier games and his current definition
+of a character. "A good character is
+somebody with whom I can have a rich
+emotional interaction. A good character
+has a distinct personality that I can get
+to know, and will behave in a manner
+consistent with that personality, even if it
+isn't always predictable." In challenging
+his fellow designers toward that end,
+Crawford enumerates two distinct and
+"gigantic" problems to be solved: artificial personality and a language of interaction. Though Crawford feels that Trust
+and Betrayal comes closer to accomplishing the task of realistic character development than earlier games, he
+admits that his solutions are "pioneering" and "clumsy."
+Crawford prefers the term, "artificial personality," to the more common, "artificial
+intelligence." The latter deals with
+academic problem solving, according to
+the designer, but the former " . . . is concerned with the capturing of human nature in algorithmic form, and is more
+properly treated as lying in the field of
+
+the arts rather than the sciences." He explains that his current artificial personality module uses seven invariant personality traits (e.g. integrity, gullibility,
+desire to be liked, pride, etc.), three
+relationship variables (love, trust, and
+fear), and three short-term moods (shortterm versions of love, trust, and fear).
+Using 1,100 lines of Pascal, Crawford
+wrote a set of equations that determined
+the character's emotional response to
+any possible interpersonal event. Then,
+the character would choose, depending
+on his personality, mood, and relationship, a behavior.
+Though this is complex, the second
+problem is even more so. Recognizing
+that any given English word has a significant amount of emotional baggage
+that comes along with it (e.g. A brick is
+hard, massive, and red, among other
+possible characteristics), he contends
+that "Language does not exist in isolation from reality." As Crawford notes,
+"We live in an immensely complex world,
+and short, simple words such as 'brick'
+carry much of that complexity with them.
+When you see something called a brick
+in a regular text adventure game, you
+know it isn't really a brick; it should
+more properly be called 'the thing you
+throw through the window in the log
+cabin to get inside,' because that is the
+true operational reality of the thing, and
+its ONLY reality in the text adventure."
+Most games use a sub-set of English,
+restrict the vocabulary to a few thousand
+words, keep grammar and syntax to
+sixth-grade level, and make the game environment very simple. This often
+creates a frustration for the player because it distorts the image of the game
+world by suggesting traits that do not
+exist. Crawford's solution in Trust and
+Betrayal was to create a special-purpose
+language for the game. This language
+uses icons as words and allows the
+player to build graphic representations
+similar to a sentence diagram by clicking
+on icons. Direct objects are always to
+the right of the verb, indirect objects are
+underneath the verb, etc. These icons
+are presented on the screen after
+Crawford's "inverse parser" has already
+
+examined the player's situation and
+determined all the possible words that
+the player could choose for that position
+in the sentence. This system, which involves a single boolean expression
+which would print over an entire page in
+length, eliminates the possibility of
+semantic mistakes and useless expressions. Crawford notes that there are only
+80 words in the entire language, but
+points out that each word is fully operational and the full vocabulary defines a
+complete social system. He estimates
+that it took two full months to get the inverse parser routine working smoothly.
+
+Multi-Player Games
+by Dan Bunten (Author of Computer
+Quarterback, Cartels and Cutthroats,
+M.U.L.E., Seven Cities of Gold, Robot
+Rascals, and the forthcoming Sport of
+War)
+
+I
+
+n this article, Bunten chronicles his ef-
+
+forts in trying to write the Monopoly
+or Clue of the computer game field.
+He expressed his frustration at the lack
+of success that multi-player games had
+received to this point, pointing out that
+his own best-seller was Seven Cities of
+Gold—a solo game. Yet, he truly
+believes that the computer offers more
+advantages than board games. Among
+others, he lists animated playing pieces,
+adjustable maps/gameboards, bookkeeping and refereeing assistance, algorithms more complex than a die roll, and
+handicapping. He also listed disadvantages: difficult interfaces, abstract
+playing pieces, inaccessibility of actual
+computers, and screen size which forces
+players to examine "status screens" and
+reduces the ability to keep secret information.
+Sport of War is one approach to solving some of the logistics problems listed
+above. It uses modems to connect two
+human opponents, solving the problem
+of moving the computer, finding a 'computer literate' opponent, and allowing
+hidden information. The idea of the actual game is that each player is in a
+mobile command center (comcen) from
+which they are directing small armies of
+robots. The objective is to either score a
+"knockout" by disabling the player's comcen or take enough terrain and inflict
+enough damage to "win on points." The
+display may look like that of a solo
+game, but the player is forced to remember that there is a human opponent at
+the other end of the telephone line.
+Players can even communicate across a
+"chat line" as they direct their forces, fly
+drones, fire missiles and repair damage
+for 15-30 minutes. Bunten believes that
+
+(Continued on page 49)
+
+their credit and it's been a while since you've been
+to the barber, hasn't it?
+You start the game with four pre-generated
+characters or create four characters of your own.
+Each character is rated for strength, intelligence,
+luck, speed, agility, dexterity, charisma, skill points,
+rank, constitution, money, sex and nationality.
+Each characteristic enables you to do certain
+things.
+
+by William "Biff' Kritzer
+
+T
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+he moisture dripping from the subterranean
+cavern's ceiling echoed eerily in the shrouded
+distance that loomed ahead of Hell Razor and his
+battered party. Retracing their path back up to
+the surface was out of the question as long as An- gela Death
+was still unconscious.
+Snake Vargas had
+used his
+medical
+skills to stabilize her
+condition
+but time
+was the only
+healer for Angela now.
+Until she
+came to, no
+one dared
+go forward
+or back.
+After all,
+Angela's perception and
+climbing
+skills had
+gotten them
+this far. Hell
+Razor
+vowed to
+build up his own skills so this
+Wasteland
+wouldn't happen again.(If
+Apple II, C-64 (soon)
+Solitaire
+they got out of this mess
+$49.95
+alive!)
+Alan Pavlish
+Electronic Arts
+San Mateo, CA
+
+Wasteland is Electronic
+Arts' new interactive role play-
+
+ing game based on a pseudo Road Warrior future, set in the southwest deserts of a postholocaust United States. The player directs a party
+of Desert Rangers, out to protect survivors and
+rebuild some semblance of society. While undergoing this often arduous task, you come upon
+several situations that hint at sinister goings' on
+that are beyond the scope of your original assignments. It's up to you to then follow the various
+leads to a fitting conclusion, or death. It's rough
+out there! Dozens of monsters, machines and
+criminals are just waiting to add a few scalps to
+
+Intelligence is the most important because it allows the characters to learn invaluable skills that
+are necessary to complete the various tasks in the
+game. Strength helps in opening closed doors,
+moving obstacles, hitting people, etc. Killing
+monsters gives you experience points as in most
+role playing games. At certain experience point
+levels you get promotions. Each promotional level
+gives you two intelligence points that can then be
+cashed in to gain skills and raise skill levels. For example, with two intelligence points you could add
+two skills such as assault rifle and picklock, or you
+could raise your skill levels on forgery or medical
+from two to three. This is the heart of the character generation system and having the proper mix
+of skills is absolutely necessary to overcome the
+many obstacles and problems in the game. The
+various other characteristics affect combat,
+negotiating ability, physical task solving, etc. The
+party of four the computer gives you initially is a
+well rounded group that I used to finish the game,
+but you have the ability to customize your own
+group if you like.
+
+E
+
+xploring dangerous catacombs was not
+Hell's idea of a good time, but being a
+Desert Ranger was not the safest of jobs in this
+post-holocaust world. Hell, along with Angela,
+Snake and Thrasher had volunteered to solve the
+mysterious deaths in the region and the trail led
+into a cyborg ambush hundreds of feet below the
+Las Vegas country club. Fortunately, Angela's Ke
+vlar vest had stopped the killer cyborg's spray of
+bullets from penetrating and killing her, but when
+she awoke she would be bruised and sore. If
+Thrasher's Uzi hadn't jammed on his first shot the
+party probably could have gotten by without
+much damage, but Snake's AK 47 stunned the
+metal monster long enough for Hell's well thrown
+grenade to finish it off "There really is safety in
+numbers down here", thought Hell. This comforting thought was quickly dispelled as the echoes
+of a Slicer/Dicer rang out up ahead. "Grab Angela
+and let's blow!", snapped Hell to no one in particular. "I'll give back cover, Snake, take point.
+Let's move, now!"
+Each player-character can carry up to thirty items,
+including weapons, ammunition and armor. These
+can be bought, sold or traded as players see fit.
+Matching the proper tools with the proper skills is
+important. The ability to use assault rifles doesn't
+help much if you're using a submachinegun. The
+types of useable weapons cover a wide range.
+There are pistols, rockets, submachineguns, laser
+weapons, grenades and other modern weapons in
+your arsenal and they all come in handy. To finish
+the game your crew will probably be using some
+
+heavy weapons. These don't come cheaply, in
+terms of money or blood.
+
+Ramming
+
+his last clip into the NATO assault
+rifle, Hell had a glimmering thought of how
+lovely the desert must be right now - hot, radioactive and full of mutant lizards. Maybe it wasn't so
+bad down here after all! Just then, Hell heard
+Snake's cry of despair. Turning quickly, he saw a
+glittering hulk of metal towering over Snake, its
+laser tipped arms locking in on the ravaged
+party. As they scurried for cover, Hell heard the
+reassuring chatter of Thrasher's Uzi. "Unjammed
+at last," Hell thought, moments before a stream of
+bullets threw him against the crumbled remains
+of the sewer wall. Darkness drowned out the
+party's cries and shouts as Hell drifted down into
+the first rest he'd had in weeks.
+This is a bloody game. You'll meet a wide variety
+of nasties out there, ranging from radiation rats to
+mutant metal monsters. Knowing when to gun
+and when to run will keep you alive, for a while.
+You'll also be interacting with many non-player
+characters. With the proper charisma or skills, you
+may even get some of them to join your party.
+There is room for three more in addition to your
+original four and there is safety in numbers in this
+game. Don't count on finding solitary monsters
+out there, they travel in packs and you should too!
+Once your party is assembled it's out into the
+great unwashed desert. The first community you
+visit should be Highpool, a nice quiet little community that should get your party acquainted with
+the surrounding countryside and its inhabitants.
+There you'll pick up the first pieces of the puzzle.
+There are several courses open to you at all times
+and there is always more than one way around
+every puzzle in the game, so you're not locked in
+to any particular order of missions, except in the
+broadest sense. You will need certain items to get
+to different stages of the game, but there are always several ways to get what you need. It is a
+great feature that makes the game move swiftly. In
+fact, the 80-100 hours it takes to finish the game
+really do move along rapidly. I spent many nights
+awake until 1:30 or 2:00 AM before grudgingly
+powering down to await the next day's session.
+Wasteland uses a paragraph system to flesh out
+the clues given by NPCs in the game. It really gives
+a nice depth to the plot. These paragraphs are
+printed in a booklet which is included with the
+game and they save plenty of disk space without
+sacrificing plot depth. It's a nice hybrid that you will
+probably be seeing in most games of this genre in
+the future. Also, if you decide to peek at the
+paragraphs out of order, there is a false subplot
+hidden in them that makes it very difficult to cheat.
+In fact, when finished, the paragraph book is
+"must" reading.
+I like the fact that there is no magic or food to
+deal with in this game! You don't have to scrounge
+around for food every twenty minutes and you
+need not spend time thumbing through a book of
+arcane magic to find the right spell to throw.
+Those features may add atmosphere to some
+
+games, but it is refreshing to play a game that concentrates on being skillful enough to disarm an
+alarm, instead of putting monsters to sleep.
+If you like sophistication in your simulations, grab
+this one. Its ease of play, richness of plot, problem
+solving requirements, skill and task system, and
+graphic display all make this one of the best
+games I've ever played. It wins my vote for "Adventure Game of the Year."
+he desert really is quiet and peaceful at sunset, reds and purple blend into a cool black,
+hiding death below the ground.
+
+Desert Ranger
+Survival
+Handbook:
+1. Don't be in a hurry to waste
+everyone you meet. Some of those
+unruly looking characters can really
+help by joining your party.
+2. Always make sure you have
+plenty of ammo. When you run low, get more.
+AK47s are great weapons, but clubs are just as
+good if you're out of ammunition.
+3. Try to get your party to have all the skills between them. You'll need almost all of them to
+solve the game. Also, you can never have too
+many members with medical skills.
+4. Practice makes perfect, if you try a skill that
+should work but it doesn't, keep trying. Eventually
+it will and your levels will go up with
+successful use.
+5. Write down everything anyone
+tells you. You'll need the clues they
+give to solve problems downline.
+6. When low on constitution, go
+into the deepest part of the desert
+to recover. No one will bother you
+out there while you're healing. Just
+be sure you have plenty of water
+with you!
+7. Be careful of diseases and radiation sickness. Doctors are expensive and your
+medical skills only work for wounds. Radiation suits
+are worth their weight in gold!
+8. Go everywhere, clues are hidden in the least
+likely spaces.
+9. Save the game often! It's easy to die and you'll
+be restored to your last save when the game restarts. Back up your disks! The game writes to disk
+whenever you enter a new location, so keep that
+in account when venturing into unknown territory
+with a depleted party.
+10. Use the print utility on the key disk to keep a
+list of personnel and their skills. It makes it easy to
+quickly see who should be attempting various
+tasks.
+
+REACHING
+THE UPPER
+"ECHELON"
+
+screen). This adds to the excitement
+by offering the thrill of flying a
+model plane by remote control.
+
+The graphics are vector-like and
+very good for an 8-bit game. The
+RPV, C-104, and enemy ships are
+easily distinguishable and there are
+plenty of items of interest (rivers,
+roadways, mountains, alien structures, and artifacts) to keep one
+stimulated. Exploration is exciting.
+You never know what you will find
+and no two artifacts are alike. Certainly, a feeling of depth is portrayed
+in the game and a zoom feature allows players to take close looks at
+objects, structures, or artifacts.
+Game play and screen update are
+slowed when many objects appear on
+the screen. However, the trade-off is that
+pirates will not attack the player if the
+area contains many objects, so this may
+be a good time to take a breather from
+those attacks. When there are too many
+objects on the screen for the game to
+progress at the pace the player desires,
+the speed can be enhanced by turning
+off the grid which shows the outlines of
+the sectors on the screen.
+
+Access' 3-D Space Combat
+Simulator
+Reviewed by Hosea Battles
+sis is the tenth planet in our solar system. It was
+discovered in 1996; functioned as the site of
+the major battle in the Alphan War (2043); and
+has been the suspected locale of pirate activity
+since 2083. It is now 2096. A C-104 Combat Exploration Vehicle has been deployed in a patrol
+zone which includes Isis. You are the pilot of that
+spacecraft. Your mission is to find the pirate base.
+
+I
+
+This is the setting for Echelon. At first, this looks
+like another 3-D flight simulator, but looks are
+deceiving. It is a flight simulator, but it is much
+more! The first factor that sets the game apart is
+the Lipstick. An innovative fire control mechanism,
+the Lipstick fits onto the player's head like a headset. By speaking into the microphone, you can fire
+the weapons of your spacecraft. As simple as it
+sounds, weapons can be fired by simply speaking
+the word, "Fire," into the microphone. The only
+problem with the Lipstick is that the headset may
+not be adjustable enough for some and thus can
+be uncomfortable.
+The second factor that sets this game apart from
+other space combat simulators is the exploration/adventure elements. It is possible to set the
+combat option at any time during the game. You
+can set it anywhere from easy (light enemy activity)
+to hard (continuous enemy attacks). This enables
+players to adjust the game to maximize their major
+interest (i.e. combat or exploration/puzzle solving).
+Speaking of adventure game elements, players
+must explore the planet grid by grid and "flesh out"
+the Pirate Map which is kept by the computer so
+players don't have to draw a separate map (There
+is a hardcopy map included in the documentation,
+however, for those who like to be careful). These
+pirate maps are extremely important to the game.
+Each time players find an artifact (indicated by a
+flashing screen), they find a clue. The game includes a Pirate Code Worksheet and Clue Sheets
+to make this part of the game easier.
+The third factor that sets this game apart is the
+Remote Pilot Vehicle (RPV) option. This adds a
+new dimension to the game. By launching and
+controlling the RPV, you can fly your spacecraft,
+the C-104, by remote control. You can watch the
+C-104 fly under bridges, around structures, and
+over the RPV (by switching to the RPV control
+
+The manual includes a Timeline History (as well as a mini-history of the
+planetary federation and the tenth
+planet, respectively); explains every control in the game (in illustrated format);
+lists areas of interest with special structures to look for; and provides a tutorial,
+Trouble Shooting Guide, Pirate Code
+Worksheet, and Clue Sheets to aid in
+solving the puzzles.
+Game play itself is more than blowing up enemy
+ships. Each artifact you find will bear a strange symbol, followed by a map color (Blue, White, Purple,
+Red, Gray, or Green). These should be copied,
+along with any other clues encountered, on the appropriate clue
+sheet. Then, you can find the meaning of the symbols inscribed on
+structures scattered throughout the
+patrol zone. There are six patrol
+areas within the patrol zone. Each
+area consists of 14 rows by 14
+columns (196 sectors). Each sector
+is equal to 10,000 square meters or
+140 kilometers. This means it will
+take many enjoyable hours to explore the surface of Isis and complete Echelon.
+Overall, it seems safe to say that
+Echelon will be a very successful title for Access.
+Considering the fine job accomplished with
+graphics and game play on the C-64, the Amiga
+version (which is expected to be released soon)
+should be exceptional. If you like arcade action,
+flight simulation, space combat, exploration,
+mystery, and adventure, this game is for you.
+
+TITLE:
+Echelon
+SYSTEM:
+C-64/128
+# PLAYERS:
+1
+PRICE:
+$49.95
+DESIGNERS: Brent Erickson
+Roger Carver
+Bruce Carver
+Access Software
+PUBLISHER:
+
+PLANES,
+TRAINS AND
+GUNBOATS
+Hijacking "The Train" For the
+Honor of France
+by David M. Wilson
+
+d
+
+A
+
+Adolph Hitler really knows how to tick people
+ff. As if starting World War II wasn't bad
+enough, now that the Allies are bringing the
+war toward a decisive end by means of the Normandy invasion, the Germans are retreating with
+the famous French art
+collection. They plan
+to use the art as a bargaining chip in the upcoming surrender
+negotiations. To the
+'French people, of
+course, this is the
+most heinous crime of
+the entire war.
+The art treasure has
+been placed on a special train which is due
+to depart for Berlin
+momentarily. As the
+steam builds in the
+boiler, a group of
+angry Frenchmen
+stealthily approach the
+train. Their goal is to
+
+a hijack the entire
+rain and rush it to
+he Allies.
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+The Train: Escape
+to Normandy is
+another actionoriented game from
+Accolade. Players must asThe Train: Escape to Normandy
+sume the role of a resistance
+C-64/128
+fighter in the French UnderSolitaire
+ground in order to fight Nazi
+$29.95
+Artech Digital Entertainments
+soldiers, operate a steamAccolade
+powered locomotive, man antiCupertino, CA
+- aircraft guns (in order to make
+messes of Messerschmitts, junk out of Junkers,
+etc.), and bombard German gunboats with trainmounted artillery.
+Play begins at the Metz train station where the
+player will cover for his companions with submachinegun fire. This is perhaps the simplest task
+
+of the game. Players will simply spray the windows
+of the stationhouse with bullets as each window is
+illuminated with return fire. Since all shooting is targeted on the windows, the "Nazi" soldiers are never
+viewed on the screen. This made the opening sequence less than thrilling. After all, even the oldfashioned "bloodless" war movies and television
+programs showed the bad guys falling to the
+ground.
+
+Everything's Under Control
+Nevertheless, the game does get better. Once
+the train is under the control of the resistance forces, Le Duc (their leader) will call for players to
+climb aboard and operate the train. Le Duc has
+some experience with railroading, but he is injured
+and cannot run the train. He will advise the player,
+though. If one becomes too abusive with the
+brakes, for example, he will be warned by Le Duc
+to go "Easy on the brakes." If he allows steam pressure to climb to a dangerous level, Le Duc will
+prompt him saying, "Better let off some steam!" Le
+Duc will help in watching the gauges and route,
+but wise engineers will not rely heavily on him.
+After all, the man is wounded and bound to be a
+bit slow in noticing things.
+The joystick moderated interface is used to access the various controls of the train. The cab
+screen displays these controls. Moving the joystick
+either clockwise or counter-clockwise, depending
+on which is more efficient, will move the indicator
+around to the proper control. Some warnings
+about the controls should be considered. Never
+slide the forward/reverse lever while in motion. This
+will cause the gears to become stripped so that the
+train may only move in the direction it is proceeding at the time this action occurs.
+Steam pressure is a prime consideration. The
+player must keep the furnace temperature high
+enough to produce the proper amount of steam
+by accessing the furnace door and shoveling coal
+with a realistic left-right motion of the joystick.
+liberathno Blowing off steam when the pressure builds too
+treasu.Thipln high is accomplished with the steam-blowoff lever.
+If the pressure builds too high, the boiler will blow
+and disable the train. If the pressure is too low, the
+Normandyet locomotive loses speed. Keeping the proper
+balance is a constant and delicate chore.
+Believe it or not, the whistle is an important control and plays an essential part in this game. It is
+used in conjunction with the cab indicator lights.
+These lights demonstrate the direction that upcoming track switches are set. Engineers use the
+whistle to communicate to the resistance fighters
+which way they need the switches set. Since the
+heavy battles have caused some track sections to
+be damaged, players must strive to choose a safe
+route. Using the whistle is the means by which the
+labyrinth of safe track is negotiated.
+
+On Not Getting Sidetracked
+To keep things exciting, German fighter planes
+will attack the train. Players must dispatch them
+quickly or the art cargo could be damaged, result-
+
+ing in lower scores. In order to defend against
+these planes, players use front and rear mounted
+machine guns (utilizing two different screens). If
+the plane flies by the front screen, the player can
+switch to the rear screen in order to fire on it as it
+circles for another pass.
+
+the bridges, players must train the sights of their artillery onto the gunboats sitting on the river. The
+joystick moves the adjustments by degrees. This is
+the most complex part of the game and it is still
+simple compared to other action games.
+
+There is a map screen to indicate progress of the
+train as well as assist in plotting strategy. The
+same map is provided in the documentation, but
+grabbing a manual in the midst of a game is
+easier said than done. Players will want to use the
+on-screen map.
+
+The Terminal Layout
+
+As the train approaches each station, the
+decision as to whether to stop or not must be
+made. Most stations are, in fact, held by the
+enemy, but are fairly simple to capture. Advantages to capturing stations include: obtaining
+repairs to damaged locomotives, reading German
+intelligence reports, and sending messages to the
+resistance. Resistance fighters will capture the next
+bridge or station, if asked. Capturing the station is
+performed in the same manner as liberating the
+train. One must lay down a covering fire while
+one's companions enter. Asking the resistance to
+arrange for repairs is usually the best option.
+Taking out the gunboats and capturing bridges
+is a pleasure that players will want to reserve for
+themselves. Players must halt at enemy bridges or
+the game ends immediately. When players half at
+
+The graphics of the game are better on the cab
+screen than on the others, yet none of the
+graphics are as outstanding as we have come to
+expect from Accolade and the sound effects are
+pretty standard fare. The sound used for the burning furnace, for example, should be familiar to
+Apollo 18 players. It is, after all, the sound effect
+used for re-entry.
+While the game should not be taken as a serious
+simulation, it is a rousing action game. The action
+is there, but some will not like the fact that the engineering sequences take up more time than the
+normal shoot-'em-up type action game. The engineering segments, however, are an outstanding
+part of the game. They bring the game to a higher
+level than the straight action game.
+Forget about that old electric train up in your
+closet (some of the track pieces are missing,
+anyway). This game will obviously not make model
+railroading obsolete, but if offers a lot of the same
+kinds of satisfaction.
+
+THE
+RUMOR
+
+BAG
+This guy said they will have Audrey
+Meadows and the original set from the
+television show as part of their booth.
+Both projected products will be graphic
+adventures.
+
+by John Jacob
+Jingleheimer Schmidt ll
+
+t's
+
+rough keeping up with a growing
+industry, especially if you are travelling incognito. Take the recent Spring
+Symposium of the Software Publishers
+Association, for example. My editors
+stayed at the Berkeley Marina Marriott.
+My hotel reservation was lost, so I spent
+a lot of time hiding from hotel security.
+Of course, nobody ever bothers to
+check storage closets before they talk
+about deep dark industry secrets, so I
+picked up a few nice rumors.
+
+I
+
+In fact, I was trying to figure out how
+to keep my suit from smelling like floor
+wax when I overheard someone say
+something about First Row Software.
+First Row is a new player in the entertainment software business that is storming
+onto the scene with potentially hot
+properties. Take their Twilight Zone
+product, for instance. According to the
+conversation I overheard, they are planning a Friday the 13th (May 13, 1988)
+release in Philadelphia (where Rod Serling started at the CBS affiliate).
+Designed by a physician (Dr. Michael
+Breggar), Twilight Zone is expected to
+be a graphic adventure with a "super parser."
+When the listener suggested that the
+Twilight Zone license must have been expensive, the fellow with First Row said,
+"It did not come cheap!"
+It must not be too bad, though, since
+the company also plans to unveil
+another licensed product, The
+Honeymooners at the Summer Consumer Electronics Show in Chicago.
+
+I finally decided to go to the welcome
+reception, "eau de floor wax" notwithstanding. After all, some tipsy
+software executive would probably spill
+wine on me and cover up the smell,
+anyway. I had no more than placed
+some Brie on a slice of sour dough than
+I bumped into Andrew Greenberg of
+Wizardry fame. I knew that Andrew had
+created his own company, MasterPlay,
+and was getting ready to release Star
+Saga: One Beyond The Boundary. I
+knew that their key word was "playticipation" and that the game was supposed
+to be multi-player role-playing
+moderated by the computer, but I didn't
+see how it could be workable. As he explains it, the computer game master
+referees the game by directing player
+characters to "textlets" (paragraphs of information printed in separate booklets)
+according to the moves input on the
+computer (and corresponding to sectors
+on the map).
+Andrew politely brushed a lurking mop
+string off my shoulder and introduced
+me to Tod Zipnick of ICOM. Tod said
+that they were considering a hybrid
+board/computer game with regard to
+their license of Sherlock Holmes: Consulting Detective. Maybe these hybrid approaches are the wave of the future.
+I had to beat a quick retreat from the
+reception because someone had told
+several software publishers that I was
+Scorpia. After some of Scorpia's recent
+less-than-complementary reviews, that
+wasn't a safe identity to assume. I ended
+up hiding under a table in the lobby
+where some of the SPA members'
+promotional literature was being distributed. The angry publishers lost track
+of yours truly and I was just about to
+return to the reception when a pair of
+pinstriped trousers and some well-filled
+nylons stopped at the table. The female
+voice was lamenting the lack of science
+fiction role playing games on the computer and the male voice told her that
+Spinnaker Software is developing one
+
+on a grand scale. Starlords is supposed
+to be an IBM game (VGA required)
+which will offer twelve different worlds to
+explore. When I heard that the game
+was going to be VGA required, I was so
+taken aback I nearly bumped my head
+on the table and blew my cover. How
+many gamers have VGA capability?. The
+male voice also shared the fact that Spinnaker is working with American Interactive Media on CD-I projects (including
+their Sargon chess program, two as yet
+unrevealed game titles, and a Scholastic
+Aptitude Test preparation program). In
+fact, he said, Spinnaker is one of four
+authoring stations for AIM in the entire
+country.
+When I finally got out from under the
+table and headed for the broom closet
+for the evening, I noticed a intriguing
+group huddled together like U. S. Congressmen in the infamous "cloakroom."
+Personalities associated with Interplay
+Productions, New World Computing,
+and Origin Systems were "caucusing."
+Drat it all! I was just sneaking into
+eavesdropping range when I slipped on
+a leftover canape and tumbled loudly to
+the floor. The fellows were nice when
+they asked me to leave, but you have to
+be curious about what three leading
+companies in the computer role-playing
+field might be cooking up together.
+Nevertheless, I did find out that Origin
+Systems will release Times of Lore
+within the year. Designed by Chris
+Roberts, this game is completely joystick
+driven. The visual aspect is something
+like Gauntlet but there is much more
+variety and animation than the arcade
+game. The game is not as in-depth as
+the Ultima series, but a pop-up menu is
+accessed in determining actions and a
+pop-up menu for conversational
+keywords appears. Apparently, players
+will be able to simply hold down the button on their joysticks until their preferred
+action or conversational keyword is highlighted. Then, they let up on the button
+in order to make their selection. The
+game will be released on disk for U.S.
+consumption and on cassette for British
+Commodore owners. I also noted that
+this game is easily adaptable to Nintendo cartridges and follows the arcade fantasy role playing formula so popular in
+Japan.
+Later, I didn't mind it so much when
+hotel security caught me sleeping in the
+linen closet, but it really bothered me as
+my editors pretended that they didn't
+know me when I was forcibly removed
+from the hotel. Well, such is the life of
+an investigative reporter and rumormonger in a security conscious industry.
+
+I
+
+(Continued from page 10)
+computer RPG to
+date. It may be
+worth the price of
+an ST to play it! —
+Rick Gridley, Ravenna, OH.
+Dungeon Master is
+by far the best
+game I have ever
+played. — John
+Thorning, Bayonne,
+NJ.
+Several other
+readers agreed with
+your opinion.
+Unfortunately, magazine publishing is like any other business—
+higher volume means lower unit
+costs. We may eventually compete
+in price with those you have mentioned, but for now, we simply
+provide the finest quality publication we can afford to print at the
+best price we can afford to offer.
+
+"Value"d Opinion
+CGW is always a welcome arrival at
+my house. It is the only magazine I
+always read from cover-to-cover. I
+even re-read articles. CGW is getting
+better (I've been a reader since
+1984). Keep up the good work.
+Tom Chance
+Ventura, CA
+Gee, thanks . . . Ummm.., Tom,
+could you drop a line to Dennis
+Owens up in Old Town, Maine . . .
+
+Brief Comments From
+R.I.D. Cards
+Suggestions
+You should list the machine used
+for the review in the review summary
+box. — Tom Cannen, Germantown,
+MD.
+When reviewing games for the IBM
+state which graphics cards are compatible. — John Friedman, Yuba
+City, CA.
+Good suggestions. We will try
+them out in CGW #48.
+Dungeon Master
+Dungeon Master may be the best
+
+Brooks Fan Club
+The Strike Fleet review in CGW
+#46 is the best review I've seen in
+CGW. It should be used as a model
+for all of your reviews. — John
+Coombs, Salem, OR.
+I totally concur on M. Evan Brooks'
+excellent review of Strike Fleet, especially the "Minuses" and the "Might-
+
+Have-Beens". — R.F. Williams, Endicott, NY.
+Miscellaneous Comments
+I still think Rogue is a wonderful
+game. I am sad that Epyx is no
+longer selling it. — Steve Hartman,
+San Jose, CA.
+Panzer Strike illustrates that
+Grigsby has made another quantum
+leap in tactical design. Wonderful. –
+Greg McCarty, Woodbury, MN
+The CGW Hall of Fame is a good
+idea. I'm glad M.U.L.E. made the
+grade. — J. Kelso, Kelso, WA.
+Retire Seven Cities of Gold to the
+Hall of Fame
+D. Bunten, Little
+Rock, AR (just kidding Dan, actually
+the card was signed, Walter Mulder,
+U.S. Air Force Academy, CO).
+I give Microprose game high
+markes because they have excellent
+graphics, documentation, and replay
+value. — R.L. Talbert, Highland, CA.
+
+S.
+Summer is creeping up on us
+and Fred is already counting
+the days until the great Annual Grue Convention in August (to
+be held, as always, in the Dark
+Room of Colossal Cave). So don't
+worry if he seems a little absentminded; he still remembers your
+favorite and will pour it out just as
+soon as you get settled in your chair
+(right, Fred? Fred??
+FRED!!!). Sigh. Anyway,
+let's move on to talking
+about this month's subject . . . me.
+Of all the non-game
+questions that turn up
+in my mail, the mostasked is usually along
+the lines of "Gee Scorp,
+how do you finish all
+those games so fast
+(without hint books,
+too?!)?".
+Well, I hate to give
+away all my secrets
+(grin), but the answer is
+time and experience.
+Playing games is what I
+do for a (somewhat
+precarious) living; while
+most people are out
+slaving away in the real
+world, I'm sweating over
+a computer monitor,
+trying to finish a game
+before deadline time
+rolls around.
+That usually allows for
+a lot of hours, although
+sometimes game companies make my life harder by releasing titles a
+couple of weeks before
+the next issue's deadline. In the case of CGW, "next
+issue" really means two months
+from now. For instance, I'm writing
+this on a cold March evening, but
+you won't read it until May.
+Still, time alone isn't enough. This
+is where experience comes in. I've
+been playing computer games now
+for over seven years (ouch! that long
+already?), and you accumulate a lot
+of know-how over such a long
+stretch. Most of that know-how really can't be put into words; it's the experience of hundreds of hours of
+
+game-playing that gets tucked (or
+stuffed) into the brain. After awhile,
+certain things just come automatically, because you've been through
+them so many times before.
+Of course, I haven't always been
+the omniscient (heh!) Scorpia. There
+was a time in the dim, dark past
+when I, too, was a novice (yes, real-
+
+from easy. Not many computers
+were in use yet, and word of mouth
+recommendations tended to be few.
+I only knew one person who had an
+Apple and I didn't subscribe to any
+magazines yet.
+So I walked into the computer
+store one day, looked over the offerings, and made some purchases.
+Naturally, you're all
+wondering what I
+bought on this historic
+occasion. Well, not
+knowing any better (and
+having never played a
+computer adventure
+before), I snapped up
+Zork, Original Adventure (Colossal Cave),
+Wizard and the Princess, and Pyramid of
+Doom. I don't think I
+could have picked four
+harder ones to start with
+if I'd tried.
+But I was happy (when
+I wasn't yelling, screaming, and cursing at the
+screen in frustration),
+and I was certainly
+hooked. Adventure
+games were such neat
+things! Even though it
+was quite a struggle to
+get through those first
+adventures (no hint
+books in those days; no
+handy BBS to dial into,
+as I didn't have a
+modem yet), and it took
+me a long time, I
+wanted more. Let's face
+it, adventure gamers are
+gluttons for punishment
+(grin).
+
+Scorpion's Mail
+
+ly, believe it!), chortling gleefully over
+my very first computer, an Apple II+
+with 48K of memory.
+Those were the days when most
+computer games came in ziplock
+bags with hastily-printed or Xeroxed
+documentation, which consisted
+mostly of single-page instructions
+for boot-up and saving, and little
+more. "User-friendly" hadn't quite
+reached the game market yet.
+With the market still so new, it
+wasn't always easy to distinguish
+good games from bad, or hard ones
+
+After that, there was no stopping
+me; having learned from the lumps I
+took in those first games (and you
+can raise quite a few lumps from
+banging your head against the wall),
+my adventure sense gradually
+developed as I played more and
+more games, both adventure and
+role-playing (ok, I'll admit that I also
+have a certain aptitude for this sort
+of thing; that probably helps, too).
+Of course, that doesn't mean I can
+simply whip through any old game
+
+in an afternoon; unless it's a really
+easy one, it could take me anywhere
+from a few days to a couple of
+weeks or more to finish (besides, I
+don't have the luxury of taking my
+time with a game; there's always that
+deadline lurking up ahead).
+Except for the most difficult of Infocoms, the ones that usually take
+longest to complete are the role-playing games, mainly because of all the
+time needed to raise characters up
+in level; puzzles in games of this
+type are usually weak and don't
+often give me much trouble.
+One habit I developed back then,
+and which I've kept up to the
+present day, is to always read the
+documentation thoroughly before
+booting the disk. No matter how
+long or short the manual may be,
+I've read it at least twice before starting play, and I keep it handy afterwards; it saves me a lot of time and
+trouble later on.
+Mapping, however, was a habit I
+had a hard time getting into, especially when dealing with mazes. I absolutely hated the ones in Zork and
+Original Adventure, and to this day I
+still look upon mazes with suspicion
+and dislike. This feeling did not help
+when I started getting into the
+CRPG's and their dungeons.
+Wizardry, for instance. I mapped out
+part of the first level, and then gave
+it up. The only level I mapped entirely was three, and only because of
+those obnoxious pits all over the
+place. It was the same way with the
+next two in the series; I made my
+way through the levels pretty much
+on visual memory alone. Only
+Wizardry IV was completely mapped
+out to the last detail.
+But the times they were a-changin'.
+In 1983, I began writing for CGW,
+and game playing turned from
+being an amusement (or torture) to
+a job (or torture). No longer could I
+afford the luxury of blithely ignoring
+maps; if someone wrote four
+months later with a question, I had
+better be able to answer it (by that
+time, visual memory would have
+faded considerably).
+So I buckled down and really
+mapped (well, most of the time). It is
+
+still the most tedious part of any
+game, particularly in dungeons. Go
+a step, draw a line, fight the
+monsters, go a step, draw a line,
+fight the monsters . . . well, you've
+been there, too and you know what
+it's like. Sometimes I really can't
+blame people who buy hintbooks
+with maps in them; it takes a lot of
+patience to do mapping.
+Still, I've done it enough now that
+it's no longer so much hard as just
+boring, and rather automatic. With
+practice, you can almost keep one
+eye on the screen and one on the
+graph paper, fighting monsters and
+mapping at the same time without
+hardly skipping a beat.
+So that's what it all comes down
+to, folks: reading the docs, an eye
+for detail, patience (LOTS of
+patience), and playing games,
+games, games, to accumulate that
+reservoir of experience that changes
+you from a novice to a seasoned adventurer. An aptitude for gaming
+helps, of course; most people who
+don't enjoy these types of games
+usually stop playing pretty quickly. It
+has nothing to do with a game
+being hard or easy, just that it's not
+for them. That still leaves quite a few
+adventure players out there (grin).
+In a way, I've been very fortunate:
+my work is not only something I'm
+good at, but enjoy doing as well
+(most of the time!), and is also something that allows me to share what I
+know with others, which gives me
+great satisfaction. Not many people
+can say that about their jobs.
+Well, I see we still have a little bit of
+space left, so let's take a peek into
+the mailbag for a few quick questions.
+Bard's Tale I (an enlightening liquor for a minstrel's magical laryngitis):Although I mentioned something about this in Computer Game
+Forum #2, a lot of people missed it
+(judging by the number of times this
+query has shown up in my box).
+When giving a multiple-word answer
+to a magic mouth, simply enter one
+word at a time. As long as you keep
+entering the correct words, the
+program will prompt you for the next
+one.
+
+Beyond Zork (a helmet full of
+homemade hints to keep adventurers out of the hash): A lot of folks
+are having a hard time getting that
+helmet (not surprising, as this is the
+hardest puzzle in the game). The
+horse can't be moved from the
+trench and there's no way to get
+into it yourself. Ergo, there is no way
+to obtain the helmet at this spot.
+However, this isn't the only place on
+the timeline; you might be able to
+think of another area where the helmet might be found, if only you had
+some way of knowing its exact location. A friend can be helpful here.
+Return of Werdna (a bewitching
+brew to battle boredom): Some
+people have been searching
+desperately for all the witch items
+before going up into the cube.
+That's not going to work out. You'll
+have to make your way entirely
+through the cosmic cube before
+you'll have everything you need
+(figuring out how to get back to the
+witch, tho, is something I'll leave to
+you).
+Ultima IV (a salubrious salad of
+sacrificial solutions): It's interesting
+how many players are having difficulty in obtaining Avatarhood in the virtue of Sacrifice. Giving away gold to
+beggars does not help you very
+much in this case. Donating blood,
+however, will certainly help.
+Sacrifice, after all, means giving of
+oneself, not one's possessions (at
+least as far as the game is concerned).
+That seems to be about it for now;
+remember if you need help with an
+adventure game, you can reach me
+in the following ways:
+
+Until next time, happy adventuring!
+Copyright 1988 by Scorpia, all
+rights reserved.
+
+THE DOCTOR
+IS IN:
+AN APPOINTMENT WITH TERROR
+IN ACTIVISION'S MANIAC
+MANSION
+by Charles Ardai
+
+T
+
+he crickets chirp, the stars twinkle, night falls,
+
+a meteor with thoughts of global domination
+plummets to Earth, and suburbia goes on
+sleeping. Dr. Fred and Nurse Edna are the first to
+find the meteor—or does it find them? No matter.
+They're under its power now.
+
+Shop of Horrors back through Young
+Frankenstein to Abbott and Costello meet Dr.
+Jekyll and Mr. Hyde. Yet, for all its value as an
+homage, the game stands strongly on its own
+merits.
+The comic frenzy is ignited when a key left under
+a doormat allows Dave and his friends entrance to
+the mansion. From there, the pace rarely falters.
+It's not seat-of-the-pants action, but the story unfolds briskly with few awkward moments. There are
+always a handful of doors still to be tried and new
+sections of the house to be charted. The puzzles
+range from the obvious to the moderately challenging, their purpose here being merely to enhance,
+rather than to obstruct, one's passage through the
+story. Unlike many works of interactive fiction,
+Maniac Mansion spins a coherent and interesting
+tale without frustrating the player. The game is so
+successful, in fact, at sucking players into its seamless surreality that it quickly converts those who
+didn't bat an eyelash when facing Werdna in mortal combat into nebbishy Ghostbusters-in-training
+who look over their shoulders as they tiptoe past
+Chuck the Plant.
+
+Laughing Gasps
+TWENTY YEARS
+LATER . . .
+The crickets chirp, the stars
+twinkle, night falls, and a gallant teen trio sets out to rescue
+one of their own from the
+clutches of the nefarious doctor. Why was Sandy kidnapped? Who knows? All that
+is certain is that Dave isn't
+going to let some slimy
+monster devour his girl!
+
+Title:
+Maniac Mansion
+Systems:
+Apple II, C-64
+Players: 1
+Price:
+$34.95
+Designer: Lucasfilm Games
+Publisher: Activision
+Mountain View, CA
+
+So it begins, this newest opus
+from the fecund and only slightly twisted minds at Lucasfilm
+Games. Maniac Mansion is a
+blend of new techniques, oldstyle gags and enough campy
+lunacy to fill a season of Batman re-runs. Will Dave save
+Sandy from the Purple Tentacle? Will Bernard confront Dr.
+Fred's son, Weird Ed? Will Razor get out alive in
+time for her next gig with 'Razor and the
+Scumettes'? Will the nuclear reactor in the basement explode before the Meteor Police arrive? Do
+you seriously have any doubts? Just tune in tomorrow, same Bat-time, same Bat-channel.
+What's going on here? All in good time, my
+friends. First, a word from our sponsor. Maniac
+Mansion is a worthy addition to the Activision
+catalogue. Composed in the best comic horror
+tradition, it is as much a loving tribute to an all-but
+lost genre as George Lucas' Star Wars and
+Raiders of the Lost Ark were.
+Fans will have fun spotting in-jokes, like the Star
+Wars poster tacked up in the game room, and
+catching references to all the classics, from Little
+
+Best of all, Maniac Mansion not only masterfully
+navigates the pitfalls associated with adventure
+games, but also strikes the necessary and
+precarious balance between laughs and suspense
+that so many comic horror films and novels lack. It
+is not enough to be silly or to exaggerate the horrific side of things; there must be a synthesis of
+both, gasps following close on the heels of chuckles, as it were.
+Lucasfilm achieves this atmosphere through
+meticulous plotting and the insertion, from time to
+time, of 'cut scenes,' short animated sequences
+that tell players what's going on elsewhere. One
+starts as soon as the players enter the house; in
+Fred's lab, the snaggle-toothed mad scientist tells
+bikini-clad Sandy of his plans to have his new invention suck her brains out. "Help!" Sandy wails.
+"Heh, heh, heh," says Fred.
+Some of the sequences are so well executed that
+the player really gets the feeling of being part of
+the story and of dealing with an intelligent
+program. For instance, the first door on the left
+leads to the kitchen and a surprise: one of the
+maniacs in the mansion has left his chainsaw
+mixed in with the carving knives.
+The absurdity of stumbling onto a bloody chainsaw hanging on Fred's cutlery rack is balanced by
+the equally absurd, if predictable, punchline: the
+trail of blood leads up to the refrigerator and some
+broken ketchup bottles. Then, as the gag begins
+to wear thin and the chainsaw fails to attack, the
+game cuts to a scene of Weird Ed muttering to
+himself that he's hungry—and if you're the typical
+packrat, grab-anything-that's-not-nailed-down adventurer, you'll have just raided the fridge of everything edible.
+Ed heads downstairs at a double clip while you
+try to decide whether you have time to put the
+
+food back. If you run, you may well bump into a
+dead end—or into a Green Tentacle who wants to
+be a rock star, but who, more than that, wants to
+eat you. Did you pick up the box of Tentacle
+Chow along the way? The record featuring tentacle
+mating calls? No? Well, you still have two characters left .. .
+Actually, no one dies in Maniac Mansion; getting
+caught just means incarceration in a stone chamber that sports a sign marked "Seckrit Lab -."
+None of the scary scenes are really out to give you
+a coronary, either. Whether this is a
+blessing or a curse depends on your tastes. If
+you want straightforward chills, Infocom's The
+Lurking Horror may be more your speed. Maniac
+Mansion has more in common, both in tone and
+gameplay, with the old Broderbund release, The
+Castles of Dr. Creep. Were Maniac Mansion's
+adept storyline pitted against Dr. Creep's multiscreen puzzles, however, the former would win
+hands down as the more well-rounded entertainment—in all areas except music, but more on that
+in a minute.
+In Maniac Mansion, Lucasfilm introduces a new
+game mechanic. The top of the screen holds a
+graphic of the environment, the bottom a menu of
+available commands and a scrolling inventory. By
+positioning a crosshair over a command, an onscreen object or a character, you access a command line. The computer makes grammatical sentences out of your joysticking and a click of approval sets your words into action. What could be
+simpler?
+Once an action is initiated, you can either watch
+one of your three on-screen surrogates carry it
+out, or you can abort it by substituting another
+command. Should your characters split up, you
+can switch from one's viewpoint to another's via
+the 'New Kid' command. This, theoretically, makes
+it difficult to fall into tedious no-win situations;
+even if one character gets stuck, there are always
+two others to help out, or to explore different
+areas. Of course, I ended my first game with Dave
+and Syd left to rot in the dungeon and Wendy locked out of the mansion, but I have a talent for getting into scrapes like that. For the most part,
+Maniac Mansion runs smoothly, seemingly having
+been based on the same principle of 'interactivity
+without the pain' that went into lnfocomics.
+
+Let Go My Lego!
+The graphics are serviceable, sometimes better,
+sometimes worse. The villains look great (Weird Ed
+is a dead ringer for every anarchist Buster Keaton
+ever tangled with), and the rooms are all distinct
+and interestingly furnished, but our heroes—the
+player picks three out of a group of seven chums—
+look like Lego people with Charlie Chaplin walks.
+Forgivable? Yes, especially considering the quality
+of the gameplay and the story—but Defender of
+the Crown spoiled me too much to accept with
+quiet grace a bikini-clad damsel who suffers from
+the jaggies.
+A few nagging, technical shortcomings also
+
+detract from the game's impact. There should be a
+way to move all three characters at once, so that
+you wouldn't have to ferry them around one at a
+time. This would be especially helpful in the opening, when you have to drag each character to the
+mansion.
+Also, for some reason characters occasionally
+take unnecessarily long detours to get from one
+place to another (they keep walking all the way
+around the piano, for instance, and behind the furnace), which is usually just irritating, but which can
+be disastrous when a character is being chased.
+Then there's the issue of the vocabulary, which is
+adequate only because 'USE' can mean anything.
+There were times when I would have killed for
+more commands, not to mention for the option of
+typing in the name of an object rather than trying
+to position the over-sensitive crosshair accurately.
+Worst of all, barring an uninspired, standard-fare
+cacophony at the start of the title sequence, the
+game has virtually no music. A few sound effects,
+yes, like the crickets and the sounds of water in
+the faucets, static on the radio and the ticking of
+Fred's grandfather clock, but that's not music—
+and even the sound effects are few and far between. Why couldn't Lucasfilm have gotten John
+Williams to write a theme? I would even have settled for the Liszt used in Dr. Creep.
+On the other hand, Maniac Mansion does have
+its share of good points. The documentation is
+entertaining and the size of the mansion alone
+guarantees that you won't soon run out of things
+to see. When the characters speak, their lips move.
+The movements are not synchronized but, heck,
+Lucasfilm can keep that effect on file in case they
+ever write a tribute to kung-fu films. The characters all have unique personalities and skills which
+come into play during the game, and each possible team has different puzzles to solve—only if
+your team includes budding novelist Wendy, for instance, will the typewriter two flights up come in
+handy. The fact that events proceed in realtime is
+also nice, as is the internal consistency: when Ed
+moves from one room to another, it takes him as
+long as it would you and he has to open all the appropriate doors on the way.
+The best point of all, of course, is the top-notch
+scripting and programming. The story betrays a
+genuine affection for the genre that comes
+through in every encounter and, my gripes aside,
+the interface is one of the most comfortable ever
+devised.
+
+Veni, Vidi, Verdict
+The verdict, then, is thumbs up, with very few
+reservations. Maniac Mansion is a clever and imaginative game. It is also a successful stylistic experiment. A little toning up will, no doubt, make
+the format a popular and long-lived one.
+Maniac Mansion should have a enviable future.
+We need more like this one. Are you listening,
+Lucasfilm?
+
+PUZZLING
+ENCOUNTERS
+Two Titles from Spectrum
+
+HoloByte's International Series
+by Roy Wagner
+
+S
+
+pectrum HoloByte has imported several new
+games for the US market. Two of these are
+somewhat similar to non-computer shape
+puzzles, but totally new from anything currently on
+a computer. These games are
+very simple in concept and
+play, but also addictively challenging.
+
+Samurai
+Warehouseman
+Soko Ban comes from Japan.
+It is similar to the classic 15-puzzle where you have a square 4
+by 4 frame with fifteen square
+tiles in it. Your object being to
+move the tiles about into a
+Ned final pattern. This game
+takes its start from this idea,
+but carries it quite a bit farther.
+Each game screen shows an
+overhead view of a warehouse
+floor plan
+with several
+walls and
+rooms.
+Scattered
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+DESIGNER:
+PUBLISHER:
+
+square
+crates. One area of
+Soko Ban
+the floor plan is
+C-64/128, IBM
+marked with
+1-4
+ASCII Corporation
+squares to identify
+Spectrum HoloByte
+where all the crates
+Alameda, CA
+should be stored. You are represented
+on the floor plan as a small figure (a "soko ban,"
+Japanese for "warehouseman").
+Your object is to move the
+crates to their storage location.
+However, you are only able to
+push the crates. Walls, doorways, and other crates makes
+this process challenging. It is
+quite easy to push a crate into
+a position where it is trapped.
+For this situation, the game will
+let you go back one position,
+but only if you do it before making any other
+moves.
+
+You must plan several moves ahead in order successfully complete each level. The game comes
+with 50 progressively more difficult levels. When
+you complete a level, your score takes into consideration the number of times you pushed each
+crate and the time taken to move them all to the
+storage locations. The top three scores are saved
+to a "vanity board." At higher levels, there is less
+margin for any wrong moves. You must plan your
+every move.
+The game is very flexible and will let you begin at
+any level. If you have hopelessly trapped yourself
+or have no chance for successfully completing a
+level, you can press a key to begin that level again.
+The game also comes with a construction option
+that will let you build your own screens.
+There is a tournament option that will let up to
+four players challenge the time to complete one or
+more levels. The first player to complete the level
+sets the time for the others to beat. You can even
+set a time limit for each level, which does make
+things even harder.
+The opening game screens are quite nice on the
+C64, but somewhat less spectacular for the game
+action screens. These latter screens look better on
+a monochrome IBM compatible. However the
+game is still very playable and very addictive. Show
+this game to anyone. Then let them sit down and
+try it. You will have a distracted visitor for as long
+as they have time. Some stay even longer.
+Verdict: The game is pure and simple, very playable and mentally challenging.
+
+From Russia With Love
+Tetris comes from Russia.
+The concept was invented by
+a 30-year-old Soviet researcher and programmed by
+an 18-year-old Moscow student. Brought to the US,abouthe the
+are
+concept was reprogrammed
+sevral
+for MS-DOS and also ported
+to the C64. Like Soko-Ban,
+Tetris is simple in concept,
+simple to play, and a unique
+design. It is similar to the
+shape puzzles where you have
+a frame and several pieces of
+varied patterns created using squares. Your object
+being to fit all the pieces back into the frame once
+they have been removed and shuffled.
+The game begins, on the C-64, with a "vanity
+board" of the top fifteen scores. On the IBM version, one views the outline of the U.S.S.R. when
+choosing speed and levels. Either way, you initially
+pick from ten speed levels which act as a scoring
+factor (the higher speed level, the higher points
+scored). You can also select to have music or
+sound effects during play.
+The play screen shows an empty rectangular
+frame, 10 squares by 20 squares. The rectangle is
+on a background graphic screen. There is only
+
+one graphic for the C64 version, but one for each
+level with the MS-DOS version. There are six possible shapes made by using four squares in various
+combinations.
+Randomly, one of these shapes will appear at the
+top of the frame and begin to descend. You are
+able to move the shape left or right and to rotate
+the shape in 90 degree increments as it moves
+downward. Your object is to
+position the shapes at the bottom of the frame to fit
+together with no gaps between shapes. For each solid
+layer of shapes you complete,
+the stack of shapes disappears below the frame. You
+must prevent the stack of
+shapes from reaching the top
+of the screen where it will end
+play.
+You score for the number of
+layers you complete and
+receive more points for doing
+it at speed levels where the
+shapes are descending at a faster pace. As you
+complete a certain number of lines, the speed
+level is increased. Once you have positioned a
+shape for placement, you can send it to the bottom of the frame for higher points.
+
+The play screen shows your current
+points and the next shape to appear.
+This can help you plan your moves.
+After a little play it is rather easy to
+quickly rotate and position each piece
+and drop it into place. Your challenge
+then becomes the ever increasing
+speed level.
+It is disappointing
+to note that the
+very nice graphic
+image screens
+from the IBM version were not included with the
+C64version.Oth
+minor options were
+also left out of the
+C64 version. The
+two graphic
+screens for the C64
+version, though in
+monochrome, are I-nice and the missing features do not distract from the basic game.
+
+Verdict: Tetris is deceptively simple and insidiously addictive. It is certainly worthwhile.
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Tetris
+C-64/128, IBM
+Solitaire
+$34.95 (IBM)
+$24.95 (C-64/128)
+Alexi Paszitnov
+Spectrum HoloByte
+
+to CGW readers. Note that "Adventure
+Gaming" refers here to whole spectrum of
+gaming, not just role-playing games.
+
+to the Academy and send the copy to us
+(CGW, PO Box 4566, Anaheim, CA
+92803). We will extend your CGW subscription by one issue for participating in
+the poll. Non-CGW subscribers can get
+$2.00 off a CGW subscription by sending
+the copy of their ballot with a subscription
+order.
+
+We encourage your participation but
+realize there may be some resistance to
+the $2.00 "poll tax". So here is the deal.
+Send in for the ballot. Photocopy your
+completed ballot, return the original ballot
+
+It is not necessary to vote for CGW as
+"Best Professional Adventure Game
+Magazine" in order to receive the credit.
+However, we would be pleased to have
+your vote.
+
+Origins Awards 1987
+Printed below is the ballot for the 1987
+Origins Awards. Sponsored by the
+Academy of Adventure Gaming Arts and
+Design, the awards will be selected this
+year by you, the gamers. Unfortunately
+the Academy will charge you $2.00 to
+vote (postage and handling). Categories
+15 through 18 should be of direct interest
+
+"Down To
+The Sea In
+Ships!!
+by Roy Wagner
+
+with each ship's location marked. A different
+colored marker is used for each company. On the
+map, a number of markers represent the wind
+strength (on the Beaufort scale). For the player,
+these wind markers only represent a randomized
+and unavoidable obstacle (wind effects your travel
+time).
+Several "gadgets" (buttons identified with icons
+and text) can be selected via the mouse. "Action"
+starts or stops the simulated passage of time.
+"Globe" lets each shipowner determine the global
+location, route, and ETA (Estimated Time of Arrival) for their ships. "Office" takes you to your office to review and modify your financial transactions. "Broker" is used to buy and sell ships.
+Withsoundfeagl trmpshi'
+
+horn, a load of cargo is lowered to the
+dock signifying the arrival of cargo into
+another port of call. Tramp ships carry whatever
+cargo that might make a profit for the owner.
+About 20% of the world's
+shipping is done by tramp
+ships.
+Ports of Call from Aegis
+attempts to bring a simulation of this life to the
+home computer. The
+simulation is based on actual data from the
+maritime world. Real life
+factors have been greatly
+simplified to provide a very
+playable game. It is not
+necessary to graph all the
+parameters or make complex economic calculations
+to enjoy this game. It can
+be easily played by
+children eight or older. All
+players must play at the
+same degree of difficulty
+(Beginner, Expert, Genius).
+The only conspicuous difference between these
+levels is the time allotted
+for "manually" entering or
+leaving port.
+
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+One to four shipowners
+may participate. The game
+plays well in both solitaire
+and multi-player modes.
+You start off by registering
+the fleet owner's name and a
+Ports of Call
+name for your shipping company.
+Amiga
+Then, you select a home port
+$49.95
+Rolf-Dieter Klein and Martin Ulrich
+from a list of twenty-eight world
+Aegis
+wide ports. The home port
+Los Angeles, CA
+selected will influence some of
+your background operating expenses. You are provided with a starting capital of $5
+million from which you must buy ships and pay for
+operating expenses.
+After all the players have provided the information
+above, a "World Simulation Display" (WSD) screen
+will appear. This screen shows a map of the world
+
+In Port
+At the beginning of the simulation, each player
+must visit the "Broker" to buy at least one ship.
+This selection brings up a very nice graphic screen
+of an elevator lobby, followed by the elevator
+panel. The "Consulting Division" on the first floor
+is always closed, but does advise you of what is
+available on the other floors. The second floor is
+the "Sellers Market" where ships that have no
+mortgages may be sold. Floors three to five have
+"Low Cost", "Pre-owned," and "High-Tech" ships for
+sale, ranging in price from about $1 million to $60
+million dollars. Low cost ships must be paid for in
+full, while the higher priced ships have mortgages
+that require a deposit of 40 to 50 percent. A
+graphic rendition and detailed information is
+provided for each available ship. This includes the
+ship's cargo and fuel capacity, engine horsepower,
+maximum velocity in knots and fuel usage, and
+cost per day in operating expenses.
+Also shown on the WSD screen is a small bar
+chart representing the relative assets (accumulated
+possessions) for each shipping company and an
+elapsed time indicator. As it changes with the passage of time, ship and wind markers move about
+the world map. After awhile, one marker will blink
+indicating that some specific action must be taken
+for a ship.
+At the beginning and each time you enter a port,
+the "Captain's Cabin" screen is displayed. Here you
+will see a view of the port from your porthole. On a
+chalkboard will be some factual information pertaining to the port. In another area, the status of
+your ship will be shown. This includes the money
+in your bank account, the condition of your ship,
+and the fuel in your bunker (tanks). From a clipboard you select various orders to perform. These
+include: repair, refuel, charter, lay up, and load.
+Selecting "Repair" brings up a screen that indicates the current percent of your ship in good
+shape, the cost per percent for repairs, and the
+total maximum cost to fully repair your ship.
+"Refuel" brings up a screen showing a cut away
+view of a fuel bunker with markers at 25%, 50%,
+75% and 100% and your current fuel level. The
+price per ton of fuel, tons bought, and dollars
+spent are also displayed.
+
+Selecting "Charter" brings up an option screen
+that displays a list of ports and cargoes. Clicking
+on a specific port and cargo will display the distance, in nautical miles, to that port and the rate
+(dollar value) paid for shipping that cargo. After
+considering daily operating expenses, fuel costs
+over distances at various speeds, travel hazards,
+and potential new cargoes at your destination port,
+you must determine what you think would be the
+most profitable selection. The real success of the
+game is based on this strategy and the ships you
+have bought.
+If you cannot find an economically viable cargo,
+you can select "Lay Up" which lets you specify the
+number of days (up to 99) that you wish to remain
+anchored in safe waters outside the port, waiting
+and hoping that the laws of supply and demand
+bring higher cargo rates.
+Some cargoes will specify a certain number of
+days in which the delivery must be made and a dollar penalty for every day that the cargo is late.
+These deliveries are usually quite difficult to make
+on time, but they can still be quite profitable due
+to the high rate being paid for the shipment. Pay
+close attention to the days and distance for these
+shipments.
+
+Casting Off
+Once your cargo has been loaded, you are ready
+to cast off to sea. At this point, somewhat of an "arcade" element enters the game. You can pay for a
+tug's help ($2000 - $9000) or attempt to steer by
+hand. Sometimes, the tugs will be on strike and
+you will be forced to steer by hand so you had better put in some practice. The manual option
+brings up a very nice aerial view of the port. A
+mouse controlled navigation control panel is displayed to provide forward or reverse acceleration
+and left or right rudder. A speed indicator shows
+your actual speed. On the aerial view, you will see
+your ship and where you must exit the port.
+Manual steering can be quite challenging at first,
+but becomes fairly easy with some practice. The
+design is different for each port, though it never
+changes for a specific port. Some ports are very
+easy, some very difficult. This part of the game
+reminded me of a miniature golf course with it's
+varying designs for each hole. If you hit the dock,
+you will end up having to pay for damage repairs
+and tug fees.
+Leaving port is usually far easier than entering
+port. A lot of programming and screen design
+work went into this segment of the game. Some of
+the easier ports are: Singapore, Buenos Aires,
+Lima, Monrovia, and Cape Hope.
+After leaving a harbor, a screen will display information on your destination, freight on board, distance to travel, and time limits, if you have one. A
+variable display (slider) of speed will display the
+tons of fuel used and the days to reach your destination at each value of knots. If you plot this
+curve, you will find it to be somewhat optimum to
+select a speed a few knots down from maximum.
+
+This will take longer, but your fuel usage will be
+much less. So you must determine the tradeoffs of
+fuel consumption versus fixed operating expenses.
+Of course, if you have a time limit, it may be advisable to select the maximum speed possible.
+
+Out At Sea
+Once at sea, your challenges are just beginning. You
+must periodically "Stop Action" and click on "Office" to
+visit your office. You may not
+think you have a reason, but
+if you don't, you will find that
+someone has dipped into the
+till and taken around
+$250,000. Other reasons to
+visit your office are to check
+on your income and expenses, possessions, view a nice
+graph of the value of your
+property, check your bank accounts, note ship details, view
+a ranking list of other players, raise or payoff a
+mortgage, obtain or repay credit, or change your
+home port (which costs a flat $1 million). Each of
+the four shipowners have a different office screen.
+Many random events occur while at sea and require "hands on" control of your ship. Icebergs and
+reefs may be encountered and displayed as an
+aerial view. Your stopped ship will be shown with a
+safe exit point identified. You
+must power your ship
+through the danger. Take it
+slow and easy and you
+should make it. You might
+also be required to do a rescue pickup. This is pretty
+tough to successfully accomplish.
+Another instance requiring
+your manual control will be
+when radar spots another
+ship on a collision course
+with your own. Actually, the
+safest maneuver is to immediately put your ship into
+full reverse and try to steer
+clear. What seems to be a bug in the program will
+trigger a radar situation when you are in lay up.
+Since you are in the outer road of "safe" waters
+outside of port, this situation could actually occur,
+but it would be very unlikely that you could power
+up your engines in time to escape from such a
+situation.
+Other occurrences are: clearing rats from an
+agricultural shipment ($10,000), canal fees
+($70,000), and pirates (loss of entire cargo). A
+storm at sea will give you the option of sailing
+round or attempting to pass through at risk to
+damage to your ship. Before you leave port, you
+might be asked to carry a confidential cargo for
+$10,000, $50,000 or $100,000. If you do, your
+ship may be stopped for inspection and receive
+
+subsequent penalties. In most instances, it does
+seem that "crime" pays.
+
+Bringing It Into Port
+This game has some excellent graphics done by
+R.E. LaBarre and Jim Sachs.
+Jim is one of the top Amiga
+graphic artists and previously
+did the artwork for Defender
+Of The Crown and Arazok's
+Tomb. The digitized sounds
+are excellent. The manual is
+well written, though it does
+not define all the shipping
+terms used in the game. The
+game play is certainly challenging and it will take some
+very good decision making to
+be able to buy yourself a $60
+million super high-tech ship.
+
+Bumping The Dock
+The requirement to periodically visit your office
+
+got to be a major interruption of game play, especially when playing alone. I would have gladly paid
+someone to watch the office while I was busy sailing the seas. The periodic tug strikes which required manual docking maneuvers can also get
+somewhat frustrating. Leaving port is fairly easy,
+but entering a docking berth can be very difficult.
+With only 512K, the program is very disk access
+intensive. It would even access the disk again if the
+same option was selected. With more memory, the
+various program segments remain in memory.
+Since a player is often controlling several ships, it
+would have been nice if the ship's name and current money in the bank were displayed on every
+screen requiring an economic decision, but it is
+not.
+
+Sailing Home
+Ports of Call provides plenty of challenge without
+being bogged down with lots of economic details.
+The game has a "Save" game option, but it was
+very hard to drop anchor and come back at
+another time. I always wanted to set a course to
+just one more port of call.
+
+The Journal Of
+Computer Game
+Design
+(Continued from page 26)
+the modem approach may yet suggest
+hope for the future of multi-player
+games—even if it is through the back
+door.
+
+Modem Games
+by Rob Fulop (Author of Rabbit Jack's
+Casino for Quantumlink)
+After some personal notes, Fulop
+defines two different environments
+or modem games. One type is
+the direct connect environment (as in
+Sport of War) and the other is the network game (as in Rabbit Jack's Casino
+on Quantumlink or Islands of Kesmai
+on Compuserve). He states a positive
+preference for the latter and that, of
+course, is what he designs for. The most
+interesting part of the article dealt with
+design considerations. "Multi-Player
+
+modem games probably offer the
+greatest opportunity for innovation. The
+question you must ask yourself is, 'What
+is a good game that can be played by as
+few as two people, or as many as
+5,000?" From this point, Fulop notes
+three basic problems with modem game
+design proposals that he has encountered. The first problem is overly
+ambitious designs. This may be avoided
+by limiting the game concept to that
+which can be expressed in one sentence. Second, support issues are often
+not addressed. Trivia games, for example, might require developing
+hundreds of new questions every week.
+The cost of data creation and maintenance for this project would have
+been prohibitive. Third, there are often
+no realistic budget considerations.
+Modem games take longer to alpha test.
+Most designers fail to take development
+time into consideration.
+
+An Alternative to
+Copy Protection
+by Jeff Johannigman (Associate
+Producer at Electronic Arts)
+
+nitially, Johannigman estimates that
+for every copy of a game sold, two to
+ten copies are given away. He goes
+on to suggest that, particularly in the
+MS-DOS world, " . . . it's impossible to
+create an effective copy-protection
+scheme that works on all clones." He further suggests that disk-based copy
+protection is ultimately undesirable.
+Therefore, he advocates a packagebased theft protection. The advantages
+to such protection are: 1) it allows users
+to back up their disks, especially onto
+hard drives; 2) does not require
+knowledge about DOS arcana to
+develop said protection; and 3) it can be
+a creative extension to the game environment.
+
+I
+
+The article listed several guidelines for
+package-based STP (software theft
+protection).
+Plan the STP components far enough
+ahead for the publisher to be able to research, design, manufacture and implement them.
+Plan the STP components as an intrinsic part of the game design.
+
+(Continued on page 51)
+
+The Journal Of
+Computer Game
+Design
+
+He notes that decoder wheels must be
+taken apart to be photocopied.
+The interface should be user-friendly,
+but with minimal feedback.
+
+(Continued from page 49)
+
+STP should allow users to play enough
+of the program to be an incentive to buy.
+
+(Examples cited included the item
+cards in Robot Rascals, cross-street
+reference and map in Amnesia, and
+decoder wheel in Captain Goodnight).
+He suggested that the "What is the x-th
+word on the y-th line of page z of your
+manual?" approach adds nothing to the
+fiction of the game or value of the
+product.
+
+Make the program's implementation of
+security checks difficult to crack.
+
+The actual cost of the STP components should be less than 50 cents
+per package.
+STP components should be difficult to
+replicate.
+He notes that text can be sent via bulletin boards, but graphically based STP
+cannot.
+Color coding makes traditional
+photocopying more difficult.
+
+Process Intensity
+by Chris Crawford
+
+T
+
+his article attempts to define the
+
+term, "process intensity." Simply
+defined, "Process intensity is the degree to which a program emphasizes
+processes instead of data." Crawford perceives that the entertainment value of a
+program increases with the "crunch per
+bit ratio." He defines this ratio as operations per datum. Assuming that an
+operation is any process applied to a
+datum (addition, subtraction, logical
+operation, boolean inclusions or exclusions), so the more extensive the
+computations applied to a datum the
+higher the crunch per bit ratio. Crawford
+
+suggests that satisfaction comes from
+entering a small amount of data and triggering extensive responses. As an example, he cites a flight simulator. In
+flight simulators, very little data is
+entered, but many calculations result.
+Crawford notes the failure of those ubiquitous "checkbook balancing
+programs." He suggests that they were
+not used extensively because they did
+not do enough (low crunch per bit—one
+operation per datum) with each datum.
+Crawford posits that any program with a
+low cpb will fail.
+If so, why are there more data-intensive
+than process-intensive programs? Crawford suggests that many programmers
+substitute tables of data for algorithms
+in order to speed up processing. Further, he notes that data storage capacity
+has increased faster than processing
+capacity. Third, he lectures that the
+most powerful resistance to process intensity is mental laziness. Process intensity requires all those hours of working
+with equations. Since the work is indirect, one is not quite certain how it will
+look. Data intensity is, according to
+Crawford, the path of least resistance.
+
+TAKING A PEEK
+(Continued from page 6)
+Logical Design Works
+780 Montague Expressway Suite
+403
+San Jose, CA 95131
+CLUB BACKGAMMON: Here is
+the gambling strategy game where
+you do not have to trust the computer with your dice rolls. The game
+comes equipped with a pair of dice
+and players can enter the results of
+their dice rolls as one option in this
+sophisticated simulation of the
+popular boardgame. Apple, C-64,
+IBM, Atari ST, Amiga, and Apple IIGS
+($29.95, $34.95, and $39.95). Circle
+Reader Service Card #8.
+Mindscape, Inc.
+3444 Dundee Road
+Northbrook, IL 60062
+BLOCKBUSTER: At first glance,
+this game looks like a simple clone
+of Arkanoids, but the game has
+more creative potential than that.
+The game allows for 48 userdefinable screens and provides a
+Screen Designer (construction kit)
+with the product. Play is essentially
+the same as Arkanoids, but the
+game itself seems more flexible.
+Amiga, C-64, IBM ($29.95, $39.95).
+Circle Reader Service Card #9.
+Polarware, Inc.
+1055 Paramount Parkway Suite A
+Batavia, IL 60510
+DINOSAURS ARE FOREVER:
+The latest release in the "Electric
+Crayon" series of computerized coloring books features 26 different
+dinosaurs and the capacity to create
+calendars, posters, and banners
+based on their efforts. Apple (with
+128K) and IBM ($29.95). Circle
+Reader Service Card #10.
+subLogic
+713 Edgebrook Drive
+Champaign, IL 61820
+STEALTH MISSION: Whether the
+player flies the F-19 Stealth fighter, X29 with its forward-swept wings, or
+the current F-14 Tomcat preferred by
+
+the Navy, this simulation offers the
+graphic excellence and technological
+realism one has come to expect from
+subLogic. The simulation offers a
+variety of missions, the features
+players are familiar with from Flight
+Simulator II and Jet, and the ability
+to use all of the subLogic Scenery
+Disks. C-64 ($39.95). Circle Reader
+Service Card #11.
+
+Strategic Simulations, Inc.
+1046 N. Rengstorff Avenue
+Mountain View, CA 94043
+QUESTRON II: Since the player
+begins the game with the aptly
+named Evil Book of Magic in his
+possession, one would be right to expect that it cannot simply be
+destroyed. Hence, the player's
+character must travel back in time
+and destroy the book by making certain that it is never created. The plot
+may sound complex, but the use of
+auto-mapping makes play simpler
+than the original game. C-64
+($39.95). Circle Reader Service Card
+#12.
+
+STAR COMMAND: From the
+designer of the Phantasie trilogy
+comes a sophisticated science fiction
+role playing game. Combat occurs
+on both the man-to-man (or is it
+humanoid-to-humanoid?) and
+ship-to-ship level and involves both
+planetary exploration and exploration
+of other structures (space stations,
+buildings, etc.). IBM ($49.95). Circle
+Reader Service Card #13.
+
+Scorpion's
+Bite
+(Continued from page 7)
+most exciting fight of the game turns
+out to be a one-sided trouncing.
+What all this means is that the typical
+CRPG features too much combat. The
+essential purpose of fighting is to bring
+the characters up to a level where they
+will be able to take on the major adversary. Once that level has been reached,
+further encounters become superfluous, and make the party too strong.
+Combat, therefore, needs to be more
+graduated and infrequent as the characters become more powerful. It is not
+necessary to actually restrict the level
+that characters can attain, but once
+they have reached the point where they
+are able to successfully fight Bubu, encounters with random monsters should
+become much more rare.
+Game designers really need to sit
+down and reassess the role and nature
+of combat in their games. More
+thought should be given to what fighting actually accomplishes, both for the
+characters and the game as a whole.
+The "every combat a life-or-death struggle" for new parties should be
+eliminated; beginners need to face
+more reasonable opponents.
+Consideration should also be given to
+keeping all party members on a par.
+Too often, only the spell-casters are effective by the later stages of the game
+with the fighters unable to do much of
+anything.
+This, in turn, means a re-evaluation of
+the monsters, both by type and number, that appear in the CRPG. Instead
+of just adding all sorts of "neato new
+creatures", designers should put them
+carefully into the game, with some
+thought as to their true function.
+It is time that authors realize "less is
+more"; it is not necessary that a CRPG
+be stuffed with endless varieties of endless monsters for the game to be enjoyable. With more attention given to plot
+and ingenuity, and less to generating incessant combat, playing a CRPG would
+become a more satisfying experience.
+Copyright 1988 by Scorpia, all rights
+reserved.
+
+(Continued from page 23)
+
+PANZER
+STRIKE!
+ing new scenarios quickly and easily. You can use
+an old map or build a new one. PS will generate a
+map with the amount of forest, swamp and rough
+you tell it to use. If you want to add a town, you
+don't need to do it square by square. Just hit a key
+and a random assortment of wood and stone structures appears near the cursor.
+Got your map? Now choose the time period and
+which side you want to play. You can pick your forces or let PS do it based on a broad hint about
+what size it should be and a preference for armor
+or infantry. If you're playing against the computer,
+the size of the enemy forces will be proportional to
+what you've selected—larger than yours if you're
+on the defensive, smaller than yours if you're on
+the attack. You can place each unit individually on
+the map or choose auto-deployment and let the
+computer do it.
+The result of all this automation is that you can
+boot the game, choose the type of game you want
+(say a medium-sized panzer force attacking in
+France in 1940 in lightly-forested terrain) and be
+playing an original, reasonably balanced scenario
+in two minutes! The computer will play either side,
+neither, or both.
+The best of all is the Campaign Game. You can
+select a small force and command it through many
+scenarios. When you win, the morale and skill
+levels of your force are increased. Losses can be
+replaced between scenarios and you can upgrade
+your units with better weapons as they become
+available (although this also lowers their skill rating
+one level). You can also choose to switch fronts so
+it is possible to fight in Poland in '39, France in
+'40, Libya in '41, Russia in '42 and so on. At the
+start of each scenario you get a summary of your
+assignment: mission, date, location, visibility. You
+then get to select extra support forces suitable for
+that time and place. These units are "on loan" to
+you and while their loss still counts in the current
+scenario, they are somewhat more expendable
+than your permanent cadre.
+While Campaigns are the pinnacle for the
+devoted PS player, you should plan to play quite a
+bit before you are successful in them. The low
+morale caused by early losses leads to further losses in a vicious circle that is hard to break. The
+size of the enemy force is roughly proportional to
+yours but sometimes you can be outclassed.
+When this happens, the mission becomes simple
+survival and you will be elated to come away with a
+draw and avoid loss of morale. These "victories"
+can be the sweetest of all!
+
+Fire!
+In spite of all of this praise, PS is not a perfect
+game. Perhaps there will be a sequel that gives us
+
+American forces and weapons so we can do Kasserine Pass or Bastogne scenarios. If there will be
+a sequel, there are a few problems I'd like to see
+fixed.
+When you're building your own scenario and it's
+time to place your forces on the map, there is no
+way to check lines of sight between squares that
+aren't on the screen at the same time. In the Orders Phase, everything works as it should. You can
+select a unit, scroll to the other end of the map,
+and use the View command to
+highlight all of the squares that
+the unit can see. In Deployment, even with a unit
+selected, View shows the view
+from the cursor's position, not
+the unit's position. When the
+screen is never more than 40
+wide and an 88 has a range of
+80, how am I going to tell what
+it can see?
+There is no chart to explain
+what the different terrain symbols mean. A few are instantly
+recognizable—forests and
+roads for example. Others, like hills and buildings,
+you must figure out by observing how they block
+lines of sight. Learning the difference between
+rough and depression or between swamp and field
+will take even longer. The only way to learn what
+they look like is to go to the scenario builder,
+choose to create a new map, and create a square
+of each terrain to see what it looks like. You have
+to do it once for Europe and again for Africa. A
+chart would be easier. I don't expect it to be in the
+manual because it will vary for different types of
+computers but a reference card makes sense. It
+would also be neat if there was a way edit terrain
+so that new types could be created, say a denser
+forest?
+There is no way to scroll the map manually
+during Combat Phase. It scrolls automatically to
+show any unit being fired at, but there are times
+when you want to watch the progress of a certain
+unit that's not being shot at. It would be nice to do
+this without going back to an Orders Phase constantly. Perhaps if we could scroll the map during
+pauses?
+A final warning about SSI's DOS (used on most
+of their Apple games), always use the "Catalog"
+command to make sure there is room on a disk
+before you save anything. If there isn't enough
+space, the system will hang. There is no warning
+and no way to recover from this. This is especially
+important if you've just spent an hour creating a
+particularly complex scenario and you don't want
+to lose it!
+
+It's A Hit!
+While you can always think of more things to
+add, there is an enormous variety in Panzer Strike.
+The ease of generating new scenarios and the
+ability to string them together in a Campaign
+game make this my favorite tactical WWII game on
+a computer.
+
+the previous game: Ultima IV demonstrated the
+need for virtue and goodness; Ultima V shows
+what happens when that goodness is taken too far
+and becomes oppressive evil.
+Bottom line: Not to be missed!
+
+(Continued from page 15)
+
+Copyright 1988 by Scorpia, all rights reserved
+
+Hail, Britannia!
+Overall, in spite of the flaws in the documentation, and some weak points in the combat and
+design, Ultima V is a game that has been well
+worth the wait. Aside from the greatly-enhanced
+graphics, the storyline is a logical continuation of
+
+"Ultima"te Gamesmanship
+Warning! Hints on playing
+Ultima V follow. Read at
+your own risk.
+
+E
+
+xperience will be difficult to come
+
+by; far fewer monsters roam the
+outdoors now. Thus you should
+start going into the dungeons fairly
+early in the game, where creatures are
+more plentiful. Make sure, however,
+that at least several members in the
+party have distance weapons such as
+bows and crossbows before venturing
+down too deep. Be especially careful of
+bats; they come in large flocks and can
+do a surprising amount of damage,
+even to those in plate mail. The best
+way to handle them is to use a Confusion spell, and let them kill each
+other.
+
+Don't trust everyone you meet; some
+people in Britannia may not have your
+best interests at heart. The less
+trustworthy will usually reveal themselves in conversation, so pay attention to
+what everyone tells you. Your old comrades from Ultima IV are reliable; others
+may or may not be.
+
+Money will be something of a
+problem at the very start; you get
+some, but not very much. One way to
+build up cash is to sell surplus
+weapons and armor. Any armorer will
+buy your used equipment, whether he
+sells those items or not. Always have
+the most intelligent person in the party
+buy or sell goods; the prices will be better.
+
+When new people join the party,
+check them out to see what they come
+with; you might have better weapons
+or armor to give them, and you can
+then sell their old stuff. Gold will become less of a problem as you start
+making your way through the dungeons; you can pick up an astonishing
+amount of things to sell very quickly.
+The most important first level spells
+are An Nox (cure poison) and Mani.
+Keep a good number of these spells
+on hand. It is cheaper in points to cure
+poison or heal damage done by opening chests than to use the second-level
+spell that opens chests safely. Also
+keep a lot of An Xen Corp (repel undead) ready. Those undead that are
+not repelled become much easier to
+kill (especially handy against skeletons).
+The Gray Por (magic missile) spell isn't
+really worth much; it does little damage
+and requires the expensive black pearl
+as one of the reagents.
+Wait until you can afford a ship
+before visiting the shrines (it will be
+necessary to visit all eight of them).
+They will send you to the Codex, and
+you can't get there without a vessel to
+cross the ocean.
+When you take a moongate to a
+place that is near the shore (such as
+Jhelom or Magincia or Skara Brae),
+camp out immediately and wait for
+daylight when you can enter the town
+or village. If you just stand around waiting, you will begin to attract any number of sea monsters to the vicinity. At
+night, when waiting for the right moonphase, camp an hour at a time to keep
+yourself safe from attack by sea creatures.
+
+If you enter a town, and find yourself
+surrounded by an air of hatred, falsehood, or cowardice, get out immediately! A Shadowlord is lurking somewhere
+in there, and you don't want to meet it.
+They are especially nasty opponents
+and cannot be killed by ordinary
+means. Even if you manage to sneak
+into town and avoid it, the
+townspeople will not treat you too well
+while the Shadowlord is around.
+Finally, if you are worried about your
+horse while sleeping in town overnight
+(and you're feeling kinky), take it to
+bed with you. Just ride straight up to
+the bed on the pillow side (actually, if
+you hitch your horse to a post before
+retiring, it will still be there in the morning, but I mention this in case you'd
+like a completely unique experience .
+. grin!).
+
+On this page, a number of games and articles are listed
+for evaluation and some general interest questions are
+asked, as well. For each game which you have played or
+article you have read, place a 1 (terrible) through 9 (outstanding) next to the appropriate number.
+
+The Computer Gaming World Hall of
+Fame honors those games that over the
+course of time have proven themselves
+to be top rated games by the readers of
+CGW. Members of the CGW Hall of
+Fame are chosen by the staff of COW.
+Once inducted into the Hall, the game
+will be retired from the current Game
+Ratings List. As a consumer you can be
+assured that any game in the CGW
+Hall of Fame is an all-time favorite.
+
+Game Ratings
+Science fiction titles rest atop the ratings list on both sides.
+"Starflight" continues to accelerate the warp drive on the Action/Adventure side and "Empire" continues its imperialistic
+dominance on the Strategy side. In the Action/Adventure
+category, Microprose has deployed "Stealth Fighter" and "Gunship" to provide air superiority for their "Pirates" title as the
+products line up in second, third, and fourth positions respec-
+
+tively. "Might and Magic" and "Bard's Tale II" continue to
+garner impressive loyalty from our readers.
+On the Strategy side, the veteran armies of "Gettysburg" must
+now get ready to withstand naval bombardment from a
+modern "Strike Fleet." Meanwhile, Abner Doubleday himself
+would be proud of "Earl Weaver Baseball" and its fourth place
+position. Also on the strategy side, SSG seems determined to
+demonstrate the staying power of its titles by placing three
+products in the top 10.
+
+

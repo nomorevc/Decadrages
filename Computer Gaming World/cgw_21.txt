@@ -1,0 +1,3223 @@
+Vol. 5 No. 2
+
+April-May 1985
+Features
+LODE RUNNER
+
+9
+
+Contest Results
+
+CARRIERS AT WAR
+Pacific Theatre WWII Game
+
+WAR IN RUSSIA
+
+16
+Bill Nichols
+18
+
+Replay of Case Blue (Part 2)
+
+KAMPFGRUPPE
+Tactical Armor in WWII Russia
+
+ROBOT SIMULATIONS
+Robot Odyssey I and Chipwits
+IBM GOES TO WAR
+The Ancient Art of War and Gato
+
+THE WORLD OF THE PLAYTESTER
+Special Game Design Coverage
+
+21
+Mark Bausman
+22
+Gregg Williams
+24
+Russell Sipe
+28
+Tom Cheche
+
+Departments
+TAKING A PEEK
+
+10
+
+Screen Photos & Brief Comments
+
+LETTERS
+
+15
+
+STRATEGICALLY SPEAKING
+
+20
+
+Strategy Game Tips
+
+COMMODORE KEY
+Hardware & Software Reviews
+
+DISPATCHES
+Special Game Design Coverage
+
+COME CAST A SPELL WITH ME
+Adventure Games
+
+SILICON CEREBRUM
+Special Game Design Coverage
+
+ATARI PLAYFIELD
+The New Atari Computers
+
+NAME OF THE GAME
+Special Game Design Coverage
+
+SCORPION'S TALE
+Suspect Hints
+
+READER INPUT DEVICE
+
+26
+Roy Wagner
+27
+Dan Bunten
+30
+Roe R. Adams III
+31
+Bruce Webster
+33
+David Stone
+34
+Jon Freeman
+35
+Scorpia
+40
+
+Rate The Games
+
+GAME RATINGS
+
+46
+
+LODE RUNNER CONTEST WINNERS
+Last August we announced our Lode Runner Contest. Over fifty screens were submitted by talented
+CGW readers. Most were excellent according to our
+two judges, Bob Proctor and Dan Stalcup. Playing
+all those entries was a challenge and a lot of hard
+work for Bob and Dan. Thanks guys!
+Prizes were awarded in four categories: Best Overall; Best Appearance; Most Challenging to Solve; and
+Most Challenging to Play.
+Messieurs Proctor and Stalcup, the envelope
+please:
+The award for the Most Artistic screen goes to. .
+John Berry of Houston Texas for his Sailing Ship
+Screen. Congratulations John. Please keep your acceptance speech within time limits.
+And next: the award for the Most Challenging to
+Solve. The envelope, gentlemen, if you please... And
+the winner is... Terry Schulz of Murrysville Pennsylvania. Congratulations Terry.
+Our next award goes to the screen that was the
+Most Challenging to Play. And the winner is... Robin Cox of Houston Texas. Come on up here to the podium, Robin, and thank all the little people that have
+
+Let us forward your request for further information you'd (Ike to receive on any
+number of products or services mentioned or advertised in this issue of Computer Gaming World.
+Clearly print/type your name/company address on one of the attached
+reply cards.
+
+1
+
+Circle the number(s) on that card
+correspond to the number(s) you'll
+find at the bottom of the ad(s)/articles(s)
+about which you'd like to learn more.
+(You'll also find these key numbers on
+advertised products in this issue's Advertiser's Index.)
+
+2
+
+Stamp and mail the card. The
+sooner it's sent, the quicker you'll
+get the literature you're after.
+
+3
+
+Why not take this opportunity to subscribe to Computer Gaming World? A
+subscription card can be found facing
+page 40.
+
+made your victory possible.
+And finally (drum roll in the background), the moment you've all been waiting for. . . The Overall
+Winner!
+This year's winner of the Best Overall Design hails
+from the Houston Load Setter's Group (a wild and
+crazy bunch of Lode Runner players). . . And his
+name is. . . STEVE VOSS for his "Friday" screen.
+Congratulations Steve! (Cut to commercial).
+Commercial: Would you like to be able to play the
+CGW Lode Runner Contest in your very own home?
+Well, now you can! Just look for the CGW Lode Runner Data Disk offer elsewhere in this magazine. You
+to can play the champions. Be the first one on your
+block to get one. But wait... there's more! If you play
+Robotwar or Cosmic Balance, there are Data disks
+for you too! (End commercial, back to program).
+Well, folks, that's about it for this year. But before
+we go, we would like to extend our thanks to Broderbund Software who provided the prizes for the contest. Steve will receive $50.00 for the best overall
+design. Our other three winners will receive games
+from Broderbund. Good night, and God Bless!
+
+Avalon Hill Game Co.
+4517 Harford Rd.
+Baltimore, MD 21214
+
+Circle 07 on Reader Service Card
+BY FIRE & SWORD: A multi-player game set in
+a mythical European kingdom in the early 10th
+century. One to six players begin as local barons,
+controlling a small area, and seeking to expand
+it through acquiring vassals and battling the other
+lords. The computer can play any of the positions
+in this game designed for up to six players.
+IBMpc and PCjr. 128K.
+INCUNABULA: Nothing less than the growth
+of civilization is the subject matter of this game.
+If you have ever played Avalon Hill's board game
+Civilization, you know what Incunabula is like.
+You begin as a small tribe facing an unexplored
+land. As your tribe increases you become a clan,
+build cities, and grow towards eventual nationhood, attaining a "basis of law" for your society.
+Warfare plays a role in the game, but not as much
+as trade and economics (just as in real life).
+IBMpc and PCjr. 128K.
+LEGIONNAIRE: The C-64 version of Chris
+Crawford's real time wargame of ancient warfare
+is now available. Legionnaire uses the same basic game system as Crawford's Eastern Front to
+produce a highly playable and realistic feeling
+game. You are Caesar as you lead your Legions
+
+PRO MANAGER: A statistics-based baseball
+simulation. You can play with last year's teams,
+great teams of the past, or key in your own teams.
+The program supports league play by keeping
+track of standings and displaying league stats. A
+powerful data base manager reports league leaders in just about any format you want (e.g. top
+3, top 10, top 10 with at least 50 at-bats, and so
+forth, individual "real" and computer league
+stats, etc.). Look for more coverage in our next
+issue. IBMpc and PCjr.
+Earthware Computer Services
+P.O. Box 30039
+Eugene, OR 97403
+
+Circle 08 on Reader Service Card
+BLACK BELT: A taekwondo
+simulation/arcade style game. A player moves up in rank as he increases his skill and wins matches. Two player
+or one player versus computer. Twenty different
+actions are available. Joystick or keyboard. Apple, C-64. $29.95.
+Game Designer's Workshop
+P.O. Box 1646
+Bloomington, IL 61702-1646
+
+Circle 09 on Reader Service Card
+THE BATTLE OF CHICKAMAUGA: The blurb
+on the box claims that Chickamauga is "the most
+accurate and realistic battle game available for
+any computer." While that remains to be seen,
+one thing is certain: this game is a strong first re-
+
+lease from a company who has gained a good
+reputation from their board and role-playing
+products. A total of 45 pages of excellent
+documentation and a four color paper map accompany the disk. There is a lot of detail in the
+game but play is easy. Review coming. Atari. $35.
+Lewis Lee Corp.
+P.O. Box 51831
+Palo Alto, CA 94303
+
+Circle 10 on Reader Service Card
+BANK PRESIDENT: This is not a game! This is
+a simulation in the real sense. We understand
+some banks have used this program to train personnel. We believe it. If you really want to experience a financial simulation, this one is the
+ultimate. As the bank president you choose product lines, deal with employee salaries, issue and
+redeem stocks and bonds, manage your investment portfolio, speculate, hedge, borrow, loan,
+and set loan rates. The only option missing is the
+option to give away place settings with each new
+account opened at your bank. IBMpc. 128K.
+Muse Software
+347 N. Charles St.
+Baltimore, MD 21201
+
+Circle 11 on Reader Service Card
+BEYOND CASTLE WOLFENSTEIN: The sequel to the popular Castle Wolfenstein. The game
+is similar to the original. In this one you must
+make your way through Hitler's bunker, find the
+
+pre-planted briefcase/bomb, take it to the Fuhrer's conference room, set the timer, and escape.
+New twists in this game are the ability to bribe
+guards, the use of a dagger to kill silently (guns
+tend to alert guards nearby). Good luck, you'll
+need it! Apple, Atari, C-64.
+Gamestar
+1302 State St.
+Santa Barbara, CA 93101
+
+Circle 12 on Reader Service Card
+ON-FIELD FOOTBALL: Another excellent arcade style sports game from Gamestar. As expected, OFF has great graphics. Play selection and
+player movement is done from the joystick. Each
+side has four players. A good beer-and-pretzels
+game. C-64 reviewed.
+Simulations Canada
+P.O. Box 452
+Bridgewater, Nova Scotia
+Canada B4V 2X6
+
+Circle 13 on Reader Service Card
+BATTLE OF THE ATLANTIC: An area movement game that simulates the struggle for con-
+
+trol of the sea lanes from North America from
+North America to England and Russia during
+WWII. The Allied player must keep the shipping
+lands open, while the Axis player must deploy
+air, surface and submarine forces in attempt to
+strangle the Allies. Computer can play either
+side, or play it as a two player game. Review coming. Apple II. $60.00.
+Strategic Simulations
+883 Stierlin Rd., A-200
+Mountain View, CA 94043-1983
+
+Circle 14 on Reader Service Card
+COMPUTER AMBUSH: The second edition of
+CA is now available on both the Apple and Atari.
+Man-to-man combat in WWII. The original Apple
+version required centuries to play, this new version is faster, much faster.
+
+CGW has a new phone
+number:
+
+714-535-4435
+
+FROM THE EDITOR:
+STOP THE PRESSES!
+
+Welcome to our Game Design Issue. Scattered
+throughout this issue are several articles dealing with
+various aspects of computer game design. Dan Bunten discusses some basic elements about the human
+need to play in his Dispatches column. Jon Freeman,
+in Name of the Game talks about the process of deciding what to design. Bruce Webster is back with more
+artificial intelligence information in his column, Silicon Cerebrum. Tom Cheche tells us what it is like to
+be a playtester, and finally, Roe Adams discusses adventure game designing in Come Cast a Spell With
+Me. Whether you are a designer or a player, we think
+you will learn much from these articles. Have fun!
+The other special note in this issue is CGW's announcement that we will be adding the IBMpc and
+PCjr to our product line (see IBM Goes To War). Now
+we know what it's like to yell "stop the presses". We
+were literally moments away from putting this issue
+to bed and going on the presses when the news broke
+about IBM's decision to drop the PCjr.
+The facts are not all in; but one thing is clear: With
+the PCjr out of the picture, the software publishers
+are going to have to reevaluate their IBM strategy.
+It will be interesting to see what they decide. It may
+turn out that the loss of the PCjr will not have as great
+an impact as one might think. On a projected sale of
+one million units last year, IBM only sold 240,000
+Juniors. We will be keeping a close eye on the IBM
+situation.
+For now, there are some exciting new IBM designs
+coming out. Read about two of them in IBM Goes to
+War.
+
+Dear Editor:
+Upon reading you review of our Dreadnoughts game (4.6, page 37),
+I noticed that there were one or two minor points that needed clearing up:
+"Like its companion game, Under Southern Skies ...." Lest there
+be a misunderstanding, there are few similarities between the two
+games. They were designed by two different people using two different game systems.
+"The player attempts to elude the famous Swordfish Squadron ...."
+Partly correct. Assisting the planes in a minor supporting role is
+the entire Royal Navy, including the Hood, Prince of Wales, King
+George V and others. They're all on the map, but hidden from the
+player. To resolve each turn, the computer moves the 20-odd ships,
+their direction depending upon where the Bismarck was last spotted.
+"There are no graphics for the tactical display ...." The accuracy
+of the statement depends upon your definition of "graphics". The
+tactical screen shows a field of dots upon which the ships (represented by numbered squares) move. Each ship also has a damage screen
+in which the placement and condition of each main and secondary
+gun are shown graphically. Austere, simple, but a long way from our
+text wargames like B-1 Bomber.
+"There is no real reason to give a visual display after every minor
+contact ...." A debatable point. The displays tell the German commander what he sees. A display with minor ships tells him what
+the ships are and where they're coming from. This is vital in choosing
+a course for evasive action. Since the ship that spots the Bismarck
+also radios its speed and heading to the rest of the Royal Navy, it
+becomes even more imperative to see the display.
+"The artificial intelligence doesn't allow the allies to fight unless
+they have numerical superiority." This is an intentional design,
+simulating the orders the Royal Navy had. Only the capital ships may
+close and engage, because they were the only ships with the armaments and armor to withstand an attack. If you want to see the proof,
+play just the tactical battle pitting the Bismarck against the cruisers
+Norfolk, Suffolk and Dorsetshire. Sending these ships to attack is suicide and bad tactics.
+"If the player follows the historical route, he will often avoid battling
+the 'Swordfish Patrol' until later in the game." Since the Bismarck
+can put into one of four ports to end the game (Bergen, Brest, Naziere
+and Ferrol, Spain),it is possible to avoid encountering the patrol
+entirely.
+It was a pleasure to read the Dreadnoughts review While it is
+presently available for the Apple II family, we will be coming out
+with a Commodore 64 version within the next two months.
+William E. Peschel
+Avalon Hill Games
+Ed.Note: The article also referred to the fact that there is a bug in the
+program by which the game occasionally deletes superstructure damage. In Mr. Peschel's original letter he contested this observation by
+our reviewer. However, later he informed us that we were correct and
+that the defect does indeed exist (our reviewer had simply been the
+first to find the bug). Mr. Peschel indicated that in months of playtesting, the bug was never reported and that, co-incidentally, Avalon Hill
+is getting ready to revamp their playtesting procedures. Good for them!
+
+NEXT ISSUE:
+SPORTS
+
+In our last issue we reported on a replay of President Elect which
+was reported in CGW 1.1 (November 1981). We were amazed at how
+accurate our replay of the then-future 1984 election turned out. We
+pitted Ronald Reagan against Walter Mondale and the results of the
+state and electoral votes were perfect. The popular vote was off by
+4%. The following letter comes from the designer of President Elect.
+Dear Editor:
+I wish to thank you for the short observation on President Elect's
+predictive abilities (at least with respect to the election just past).
+Of course, I had made the same observation myself and gotten quite
+a bit of sympathy telling people that I had shown myself to be the
+best forecaster in the country and hadn't been interviewed by any
+of the networks, major (or even minor) newspapers, or even the National Enquirer (which is into crystal ball stuff in a big way).
+Needless to say, your blurb will now be attached to my resume,
+and the more keen employers may conclude that I may be some sort
+of genius, which of course plays right into my hands... Maybe I could
+go to work for the Republican National Committee, or better yet, Rep.
+Kemp's campaign staff (I could wind up in the White House, and
+use that as a stepping stone to elective office. . . oh, excuse me, my
+latent megalomania got the best of me).
+If you'd like to make concrete suggestions on my revision, I'd be
+happy to contemplate them. . . I do have a lot of ideas I'd like to incorporate, including:
+• Vastly improved graphics, in speed and variety. Included would
+be blow-ups of each region, with text summaries of the situation in
+Continued on page 37
+
+by Bill Nichols
+
+Name:
+Type:
+System:
+Price:
+Publisher:
+
+Carriers at War
+Wargame
+Apple, C-64
+$50.00
+Strategic Studies Group
+1747 Orleans Ct.
+Walnut Creek, CA 94598
+
+Note: Carriers at War is available for both
+the Apple II (64K) and Commodore 64. This
+review is based on the Apple version of the
+game.
+The Japanese raid on Pearl Harbor
+brought America into WWII. That raid destroyed a large part of the U.S. Pacific Fleet.
+However, the American carriers were not
+present and thus avoided damage. In the
+four years that followed, the war in the Pacific was largely decided by five carrier battles. Carriers at War is a new game from
+Australia which covers fleet carrier operations in the Pacific between 1941 and 1945.
+DESCRIPTION
+In Carriers at War (CAW), players control
+naval forces and land-based aircraft in one
+of six historical scenarios. The first scenario, "Pearl Harbor", is actually a tutorial exercise for the new player. The other five
+scenarios are "Coral Sea", "Midway", "Eastern Solomons", "Santa Cruz", and "Philippine Sea". The game is played on a map of
+84 by 72 hexes with each hex being 20 nautical miles across. Unlike most computer
+wargames, CAW is not played in turns but
+instead uses accelerated real time resolution
+of movement, search, and combat. The player can interrupt the clock at any time to status his forces, review search and combat
+results, and give or change orders to his
+forces. The player's role is that of the commander in charge of a naval task group or
+
+land airbase. Because a side may include
+more than one task group or airbase, team
+play is possible with each member controlling a single task group or airbase. The computer can even be assigned forces on the
+player's side, thus teaming up with the human to defeat itself.
+The physical components of the game are
+impressive. CAW comes in an unusual "box"
+which is actually more similar to a record
+album. When closed, the folder is only a
+quarter of an inch thick. Don't let that fool
+you, though. Inside is a double-sided disk,
+a player's manual, a design manual, and
+three player aid cards. Two of these cards are
+battle maps for the scenarios, while the other
+card shows the game menus and information on configuring the game to the specific
+computer system being used. The doublesided disk contains, on one side, the game
+program (which can be backed-up once) and,
+on the other side, a scenario disk (which can
+be copied as needed).
+MECHANICS
+CAW is a completely menu-driven program. When the player is not accessing the
+menu, the game situation changes in a realtime manner. Movement, combat, and
+search all occur simultaneously. The player
+can enter the menu at any time. It is through
+the menu that the player obtains status of
+his forces, reviews battle results, gives orders
+to his task groups and air squadrons, and
+receives sighting reports. This can be an intimidating procedure, as there are more than
+thirty menus available. The menu levels are
+in places up to six deep, and it is not difficult to get lost. Fortunately, a lot of thought
+went into how the menus are structured.
+With practice, the player quickly learns how
+to move from item to item.
+The meat of the game lies in three "action"
+menus which allow the player to give task
+group orders, squadron orders, and airstrike
+orders. Task groups can be ordered onto a
+particular heading and speed, or they can be
+
+assigned a destination objective. The objective can be either an enemy base or task
+group. Once the task group has been given
+its orders, it will move under computer control until it is given new orders, or it reaches
+its destination. Task groups can also be assigned specific missions. These include
+strike, support, escort, transport, and refueling missions. A task group with an escort
+mission, for example, will move with the
+command task group and provide anti-air
+and anti-submarine protection.
+Air squadrons can also be ordered to
+ready themselves for a strike mission, with
+a squadron in ready mode being able to prepare and launch a strike more quickly than
+a squadron which is unready. A squadron
+in ready mode will however, quickly become
+fatigued. And, when fatigued, a squadron
+takes more time to prepare a strike. Fatigue
+can only be reduced by allowing the squadron to rest. Squadrons can also be ordered
+to transfer to a land base. Transfer is an
+emergency measure only and should only
+be used to evacuate aircraft from hopeless
+situations.
+The third "action" menu is the Set Strike
+Routine, which allows the player to order
+airstrikes. Airstrikes can be launched against
+port facilities, airbases, and enemy task
+groups. To launch an airstrike, the participating squadrons must first be readied. The
+length of time required to ready a squadron
+depends on the squadron's fatigue status
+and whether or not it is prepared. As soon
+as the squadron becomes readied, it will
+launch and proceed to the target. It can take
+from twenty minutes to three hours to prepare and launch a squadron.
+Squadrons will proceed independently to
+their targets unless the airstrike has been assigned as cohesive. A cohesive strike is
+necessary for the participating squadrons
+to provide support to one another, but it
+takes more time for a cohesive strike to form.
+Once an airstrike has been ordered, the
+
+squadrons will ready, launch, fly to the target, conduct their attacks, return and land
+without the player's intervention. While
+nothing prevents the player from launching
+an airstrike which will return to base after
+dark, it is not a good idea to do so.
+On occasion, when setting up an airstrike,
+the player will be given the option of conducting a strike-transfer mission. This is a
+special airstrike mission which allows the
+participating squadrons to recover at a
+friendly airbase, rest overnight there, and return to their home base the next morning.
+A strike-transfer mission essentially allows
+squadrons to conduct strikes at beyond normal range.
+Fighter squadrons which are not assigned
+to airstrikes and are not in a ready mode will
+be assigned automatically to combat air patrol (CAP). CAP is assigned entirely by the
+computer. The player must be careful to
+leave sufficient unassigned fighter squadrons to defend his task group.
+Combat occurs whenever opposing task
+groups are in the same location and when
+airstrikes reach their targets. Airstrikes may
+also attack targets-of-opportunity that they
+sight on their way to their designated target.
+The player is advised that combat is
+ocuringbyaflsh otemapdisly
+and a beeping from the speaker. Although
+faithful to the point of view of the game, the
+combat resolution display lacks flash and
+will be a disappointment to the player who
+wants to "see" his bombs exploding on the
+flightdeck of the enemy carriers. The only
+way the player can determine how much
+damage he had done to the enemy is to examine his sighting reports. There he will be
+told the approximate composition of the
+enemy forces and how many ships have been
+damaged or sunk. The sighting reports are,
+however, unreliable and frequently overstate
+the amount of damage done.
+COMPARISONS WITH "CARRIER
+FORCE"
+Carriers at War invites comparison with
+SSI's Carrier Force. The two games cover
+the same topic at essentially the same scale.
+The two games are, however, quite different.
+Carrier Force is structured with one hour
+game-turns and definite phases of activity
+giving the player more control over the details of the game activities. For example, in
+Carrier Force the player can change the
+composition of his task groups. In CAW, the
+task group's composition is established for
+each scenario and cannot be changed during
+the game by the player. Carrier Force re-
+
+quires the player to manage the details of
+arming aircraft, flying them to their destination, landing them, etc. The player is
+relieved of this bookkeeping responsibility
+in CAW but, on the other hand, is at the mercy of his computer controlled "air operations officer':
+Combat is flashier in Carrier Force. On
+the other hand, Carriers at War includes a
+bonus feature completely absent in the SSI
+game; the ability to create customized
+scenarios. CAW features a Game Design Kit
+which allows one to custom design ships
+and aircraft, create maps, and setup a scenario situation. The Designer Manual includes instructions for creating a "Raid on
+Ceylon" scenario, pitting the IJN against the
+Royal Navy in the Indian Ocean.
+WEAKNESSES
+Carriers at War is not, however, without
+its weaknesses. I have already mentioned
+that the player who likes flashy combat resolution will be disappointed. The complexity
+of the menu system, even though well designed, can result in the player getting lost
+in it. The documentation, although quite
+good, should have provided more information on the relationship between fatigue and
+aircrew efficiency. Because of this lack, the
+player will often not know how long it will
+take to prepare an airstrike. More than once
+I have found it necessary to abort strike
+preparation because the ready process
+dragged on so long that the aircraft would
+have found themselves landing in the dark.
+The need to give airstrike orders to each
+squadron individually can make for a lot of
+work in the larger scenarios. It would have
+been nice to have a feature where the player
+could simply assign a target, and the computer set up the entire airstrike from available resources. Finally, CAW uses
+high-resolution screens for both its maps
+and text, making a good quality monitor essential. The displays will be unreadable if
+an old television set is used as a monitor.
+SUMMARY
+Carriers at War is the best game available
+on World War II carrier operations. It is, perhaps, the best wargame of 1984 on any topic. Any gamer with even a passing interest
+in the Pacific War will want to add it to his
+collection.
+Ed. Note: Ultimately the question of "best"
+in this situation becomes a question of taste.
+The differences between CAW and CF are, as
+Mr. Nichols points out, significant. Our mail
+is split as to the relative merits of the two
+
+games. Some of our readers are disappointed
+that CAW does not display on-going combat
+resolution (a basic feature in CF). Others are
+delighted with CAW, especially with its scenario design option.
+While the true hard-core wargamer will end
+up buying both; for many, the question becomes which one? Our answer?. . . If you
+want to play the role of Operations Commander but still want to feel like "you are
+there", then CF will be more to your liking.
+If, on the other hand, you really want to experience the challenge of directing the course
+of Pacific carrier battles the way the Operations Commander actually would have experienced them (i.e. in a situation room
+dozens or even hundreds of miles from the
+action; getting reports and issuing orders
+based on those reports) and can live without
+actually seeing the action as it occurs, then
+CAW will strike your fancy (and you also get
+the exciting scenario design option).
+
+WAR IN RUSSIA:
+
+Case Blue Replay (PART 2)
+
+In our last issue we began a replay of the
+Case Blue Scenario of WAR IN RUSSIA.
+Here is the second half of that replay. The
+German player is Jay Selover, a contributing
+editor to CGW and well known wargame
+writer. The Russian player is Kirk Robinson,
+assistant editor of CGW and a veteran of
+numerous wargame campaigns.
+
+THE RUSSIAN — KIRK ROBINSON
+Sweat pours off my brow as I rise from the
+keyboard of our Apple II with quivering but
+as yet unbent knees. My ordeal has been
+declared officially over and the threatened
+relocation to Burbank has been avoided. A
+series of very fortunate choices and the
+limited effects of some very poor ones have
+happily led to my survival. To accomplish
+this result has demanded the use of every
+trick and stratagem which I could devise or
+borrow (read as steal).
+This being the final report on the cruel
+and vicious attempt by the Nazi forces to
+bring about the destruction of Mother Russia, I am free to report the methods and
+specific techniques used to slow the German
+juggernaught. In general, these consisted in
+simply trying to insure that the Germans
+took only those hexes which I could afford
+to loose, and did so at as high a cost as possible. To accomplish this often required new
+variations each turn, but some remained
+constant or nearly so. Chief amongst these
+was the maintenance of a defense-in-depth,
+so as to limit the possibility of a major breakthrough and all of the potential danger
+which such would present. As the specifics
+of this have already been covered to some extent and are mentioned in detail by Jay, I will
+go on to other tactics.
+The most important task was one of determining the probable direction of German
+drives and strengthening the target hexes as
+much as possible. The key to this is, of
+course, knowing which hexes are to be attacked and in which order. And, while this
+
+is often obvious from the strategic positions
+of certain units, you will hopefully recall that
+these are the very hexes that the Russians do
+not want to fall. This leads to some rather obvious problems; such as who cares how expensive you made a hex that you could not
+afford to lose.
+By far, the easiest way to defend a hex is
+to manipulate your opponent into leaving it
+alone. Anyone can defend a hex that is not
+attacked. To do this, there are two standard
+methods: provoking your opponent into attacking another hex, or in some way to give
+him mis-information (a time honored Russian tradition) which leads him into other,
+less damaging directions. Towards this latter
+end, I began the game with a very open and
+informative demeanor; telling Jay the obvious mixed with small bits of "important" information. As time went on, however, I
+gradually increased another time honored
+behavior (this time of writers and politicians)—I lied.
+Feint attacks, another and more acceptable form of military deception, proved to be
+of some utility. When attacking a unit, all of
+those attacking are disclosed to the enemy,
+so that a feint can serve a double purpose.
+Not only can you cause you opponent's attention (and hopefully some of his limited
+resources) to be misdirected, but you can exchange the nasty group of guards with
+which you attacked with an average or weak
+unit by strategic movement, which is not executed when your opponent can see it. This
+give you the threat of the units in one hex,
+and the use of them somewhere else. While
+this was done several times in our game, the
+overall effect was uncertain.
+Not a valid military tactic, but rather a
+function of the game mechanics was taking
+advantage of the fact that units with experience level under 50 could gain five
+points of experience per turn to determine
+which units would be reinforced and how
+many reinforcements they should receive. I
+would, ideally, add just enough to a unit's
+strength to sent its experience to 49 points
+
+and, while this may seem a minor thing, it
+must be remembered that experience is as
+important as strength for determining a
+unit's level of performance. Indeed, this scenario can be seen largely as the pitting of
+Russian numbers against the German's
+much greater experience levels. The one other possible way open to the Russians, is to
+build Mech units (which, like the German
+units, have an initial experience level of 70).
+This is, however, difficult to do as they demand half again as many resource points to
+build, with each point of reinforcement often being needed to reinforce endangered
+front line units.
+One rule that the Russian player should always keep in mind is to never totally abandon an entrenched position. If it has been
+out-flanked and rendered untenable, leave
+sufficient strength to so as not to fall in one
+turn. You have more manpower than the
+Germans have time!
+Another rule is to concentrate your airpower. In this game I had all of my air points
+in one airbase for most of the game, with one
+other in the north having about a quarter of
+the planes for those turns in which I would
+actively bomb the hex outside of Leningrad.
+As an added bonus to this policy, the unused
+airbase units can be used to make a part of
+your line look better defended without having to withdraw defensive points from entrenched positions. This is because there is
+no way for your opponent to identify airbases when they are stacked with other
+units. They will also come back in one or two
+turns if destroyed. A quality which makes
+them the perfect buffer unit.
+It may have occurred to some readers that
+I seem to have gone to extremes trying to
+find or develop methods of thwarting Jay's
+plans. Not so, I respond. It was Jay's ability
+to plan and execute devastating attacks
+which demanded that I misdirect these attacks when possible, and when not possible
+to make them as costly as I could.
+These tactics, however, only worked when
+I was on the defensive. There was one place
+
+on the map where Jay could always, for some
+no doubt diabolical reason, out-guess my intentions. This was the hex southeast of
+Leningrad, between the city and the Russian
+lines. I would sit back bombing and bombarding the unit in this hex as I mentioned
+that I would in the first installment of this article. Then, on the very turn in which I had
+ordered an assault across the Volkhov river,
+the worn unit would be moved out and a
+fresh one moved into its place. This would,
+of course, leave my assaulting unit to make
+a poor-odds attack across the river, getting
+itself thrashed in the process. While this did
+demand that he pull in fresh units, it further
+emphasized to me the importance of timing
+in WIR.
+The final result, according to the computer, was a marginal Russian victory. This,
+though, could be misleading as it was only
+thirteen turns into the scenario, making the
+Russian handicap of 150 points that much
+more effective. Also, Jay's more deliberate,
+a-historical attack may have given the Germans the staying power needed to survive
+the coming winter. It must, however, be
+pointed out that the Germans have a more
+and more difficult time of it, starting in January of 1943. Those objectives not obtained by
+that time may well prove beyond their abilities if the Russians have not been sufficiently
+ground-up or denied needed resources. It is
+unclear whether Jay would have been able to
+have done so in the time remaining to him,
+
+due to the increasingly deteriorating weather conditions.
+Facing the Nazi war machine in this scenario has proven to be a great learning experience and can be recommended to those
+who would like practice in defensive positions. After playing the Russians, my only regret is that it is impossible to do so in the
+solitaire version. But, for the hermits and
+recluses out there, its worth making a friend,
+if only to be able to the Russians in WAR IN
+RUSSIA.
+THE GERMAN — JAY SELOVER
+In our last episode, we played the opening
+month (four turns) of the summer, 1942
+offensive. We have managed another two
+months of play (nine turns actually) before
+the constraints of scheduling have forced us
+to stop. This was none too soon, as far as I'm
+concerned, since October marks the beginning of the end for the German war machine. At this point, I can proudly claim a
+non-victory. Whether or not I avoided defeat
+(in a strategic sense) is, I hope, open to
+debate.
+With this being the last installment of our
+story, it does not matter that my opponent
+has a connection to Computer Gaming
+World, I can bare all. My goals as we started
+the game were to make the German advance
+more broad-based and balanced than the
+historical thrust south into the Caucasus.
+My plan was to advance the front as a whole
+
+by two to three hexes, or by as many hexes as
+I could. As far as geographic objectives, I expected by turn ten to have captured Rostov;
+I hoped for Voronezh and Rzhev; and I
+thought about but didn't really expect
+Moscow. In my two practice games against
+the computer, I stopped at turn ten and had
+captured Rostov easily in both games, captured Rzhev and Voronezh each in one
+game; and captured Moscow in neither one.
+In the thirteen turns that Kirk and I played,
+I took only Rostov and failed to take either
+Voronezh or Rzhev (let's just forget about
+Moscow). From this point of view, I either
+lost or I proved that Kirk is more worthy an
+opponent than the computer.
+Based on historical considerations, my
+performance also does not look very impressive. In October of 1942, the Wehrmacht had
+culminated their breakthrough with tremendous territorial advances in the south, and
+were poised to strike at Stalingrad. However,
+in my defense, what did all of that gain them?
+My feeling is that the position of my German
+forces in the game is better for prolonging
+the war than were the historical positions.
+The only way to answer this contention is to
+finish out our game to see if I really have
+avoided the vulnerability which the Germans created for themselves.
+With this kind of prelude by way of rationalization, I'm sure that you are wondering
+Continued on page 38
+
+punch, protection, and speed to fend for themselves
+for several turns. The NATO player will be forced to
+pull units out of his line of arriving reinforcements
+to deal with their presence. Even if never dropped, the
+threat of their use should serve to keep strong NATO
+contingents tied up in rear area security.
+Doug Dery, Denver, CO
+
+STRATEGICALLY
+SPEAKING
+
+FIFTH ESKADRA
+A programming anomaly in FIFTH ESKADRA can
+be taken advantage of by the clever player. A taskforce
+or submarine with orders to Shadow will attempt to
+maintain contact with enemy taskforces in the same
+area. If two such taskforces exist, then the shadowing
+unit will choose the one with the lower taskforce ID
+number. The game begins with the Kittyhawk taskforce being shadowed by both surface ships and submarines. Using the Divide Taskforce command, these
+tattle-tails can easily be shaken off. With a little luck,
+the inevitable destruction of the Kittyhawk can be
+delayed long enough for the American player to make
+its loss worthwhile.
+Bill Nichols, Newark, CA (Designer of Fifth Eskadra)
+
+SUNDOG 2.0
+
+Strategically Speaking covers strategy game tips, including tips on wargames, sports games, economic
+and other "real life" simulations, and classic style
+games.
+DISCLAIMER: The tips printed in SS are those of
+the authors. We try to avoid printing tips the don't
+work, but we cannot playtest all, or even most of them.
+So, let the player beware.
+We encourage you to share your strategy game tips
+with others. Tips can be mailed to Strategically
+Speaking, c/o Computer Gaming World, P.O. Box
+4566, Anaheim, CA 92803-4566. 'Try to keep tips under 250 words if possible.
+REFORGER '88: Warsaw Pact Player
+Drop your parachute regiments with an eye to interdicting NATO supply units. Careful positioning of
+air drops in Worms, the hex southwest of Mainz, and
+along the northern autobahn to Seigen will create
+ZOC's that will eliminate supply units due to arrive
+in those areas on the subsequent turn.
+A drop in the evening of May 9th (turn 4) will dramatically effect NATO units hoping to restore supply
+after the disruptive effects of refugees upon forward
+units. The effects of such a drop can be maximized if
+employed in conjunction with the declaration of
+Chemical Warfare. In the planned turn of the air drop,
+you should commit all available aircraft to air superiority in order to eliminate or at least minimize the
+presence of NATO interceptors in the drop zones.
+Given the mechanization of these airborne regiments with BMD fighting vehicles, they have the
+
+they work on a maelstrom square. So, don't assume
+too much. Print a map at the end of the turn. The map
+shows all storms, fogs, etc.; you can save a spell by
+checking this first. This is especially true if there are
+other humans playing, as you will not be the only one
+"fishing" for castles.
+Most other spells in LOY have similar "reverse"
+uses, so try them out. Every clue you receive in this
+game is important, so make notes and print lots of
+maps."
+Jon F. Baxley, Softlore Corp.
+
+Since the space pirates will not attack unless cargo
+is being transported sublight between planets, the following steps will give you an enhanced ship for fighting, all the money you will need to fulfill your contract
+(500,000 credits), the locations of cryogens, and the
+best buys of goods needed to fulfill the contract — all
+within four hours of starting a new game. Slip code
+hides the specific locations for those wanting general
+tips only.
+1. Completely repair the ship at home port and locate the colony.
+2. Fly to DMKHZG system. Buy at least 15 scatterguns, a concentrator and and autoslew.
+3. Fly to FKNPX system and sell scatterguns for
+4000 credits per gun.
+4. Fly to VNQDLDC system and buy a ground
+scanner. This lets you land directly from orbit or
+travel between any of a planet's cities.
+5. Fly to several planets with multiple cities
+(FKNPX I, MDV RGNNS, orEDQQ). Visit city exchanges, carefully noting prices for common
+goods so that you can buy low and sell high.
+6. Use the system, planetary, and city teleportation devices to visit all 50-plus city exchanges.
+Ronald Wartow, Chevy Chase, MD
+
+LORDLINGS OF YORE
+One of the most important techniques in LOY is the
+use of the Necromancer's spells. Most of your time in
+this game is spent "in the dark" concerning enemy
+troops and terrain. You must therefore glean as much
+information as possible from the effects of the spells
+you have cast.
+In the early stages of the game, the Necromancer
+seems of little use since you are not too concerned
+with where the enemy is at that point. But, wouldn't
+it be great if you could discover where an enemy castle is located, without having to mow any of your units
+or spend any gold? Sounds impossible, right? Think
+again! The rules tell you that a fog spell won't work on
+castle squares. So, what happens if you try it? You're
+told by the Necromancer that his magic won't work
+there. Bingo... you now know where one enemy castle is located and can plan your strategy accordingly.
+Now, with average luck, you should be able to find
+at least one enemy castle in the first five turns by concentrating upon the center nine squares of each shire.
+Beware, though, of the one fault in this strategy: fogs
+won't work where other fogs already exist, nor will
+
+FIGHTER COMMAND: Luftwaffe Player
+Concentration of forces, intelligent raid routing and
+timing, and patience are all essential ingredients of
+a successful Luftwaffe strategy. Raids in the
+Southampton area, for example, should use Cherbourg and Le Havre as their assembly areas, so that
+11 Group squadrons based around London will have
+less chance of catching them before they return to
+base. When conditions are favorable (good weather),
+concentrate all available forces in one area by scheduling a series of raids, starting with one or two medium
+sized, high altitude "bait" bombing raids which are
+heavily fighter escorted. These leading raids will certainly be intercepted, but the intercepts may be ineffective and costly to the RAE They should draw
+most or all of the fighters and patrols based in their
+area. The second wave raids (unescorted or lightly escorted) then come in at minimum altitude and bomb
+the airfields, hopefully catching a number of squadrons refueling. This tactic can be devastating to the
+RAF when radar early warning is lacking, and equally so for the Luftwaffe when it isn't.
+Harry D. Blaker, Mason, OH
+
+OBJECTIVE: KURSK
+The German must take full advantage of his first
+turn since the Russian can only sit there and take it.
+Infiltrate! Attack his artillery. Keep his retreated units
+from being resupplied. I have seen as many as five
+Russian units destroyed on this turn alone.
+Hold the ground at the edge of gullies. Let the computer attack you at half strength out of the gullies.
+Block Russian entry hexes C and D before the reinforcements on turns six and seven arrive. It takes only
+a weak battalion-sized unit to keep an entire Russian
+Guards tank corps from entering into play. If you so
+desire and the spare units present themselves, let the
+Russian units enter one at a time and ambush them.
+Keep in mind that the Russians will still get full victory points for those units which never enter play.
+The computer will often bring reinforcements right
+into the battle area in road mode, making them very
+vulnerable. Hit them with an air strike. This should
+disrupt them sufficiently so that they can not retreat.
+Then attack and destroy them.
+Experiment with splitting up German units. It often pays to take out the artillery and form separate
+units with it.
+William J. VandenBrook, Chicago, IL
+
+FIGHTER COMMAND BUG
+There is a bug in FC that allows the German player to create zero-plane raids. Taking advantage of this bug, the German
+player can create a raid with no planes, direct it into England, and thus have the ultimate decoy. To the English, the raid will be
+listed as containing about 100 planes.
+SSI has corrected the problem, also having made modifications to the radar bombing rules. You can return your old FC disk
+to SSI for a free update.
+
+A Review
+
+by Mark Bausman
+
+Name:
+Type:
+
+Kampfgruppe
+Tactical level
+Wargame
+System:
+Apple, Atari, C-64
+Price:
+$59.95
+Publisher: Strategic Simulations
+Mountain View, CA
+
+Every now and then a truly superior game
+will appear. One that provides the player
+with a tool to exercise his imagination without having to follow a complicated game
+structure. Kampfgruppe (KG) is just such a
+game.
+
+Kampfgruppe is a simulation of tacticallevel combat on the Eastern Front from the
+years 1941 to 1945. You will have available to
+you over 45 different armored vehicles with
+each rated for range, shell size, shell penetration, gun accuracy, front and back armor,
+and speed, plus, non-armored weapons and
+infantry forces. It is played on a 60 X 60
+scrolling map with each square representing
+200 yards of terrain. Orders for both sides
+are given in an Orders Phase; movement and
+combat occurs in a Combat Phase. The combat phase is divided into four sub-phases
+which SSI refers to as pulses. Each pulse
+represents 30 seconds of time and, during
+each pulse, both sides will search, select targets, fire weapons and/or move. Since the
+Combat Phase is handled completely by the
+computer, the players may sit back and ob-
+
+serve the results of their various engagements. A games normal length is 20 or 30
+turns, which requires about 2 to 6 hours, but
+you may elect to play beyond that limit and
+you may quit any time. You accumulate victory points by destroying your opponents
+units. At the end of the game, if you have
+more victory points than your opponent, you
+win.
+SET-UP
+The game comes with four pre-designed
+scenarios or you may build your own. There
+are enough features under your control to
+allow an infinite number of conditions in
+which to exercise your tactical abilities. As
+a learning scenario, I would suggest that you
+take the German side with the computer as
+Soviet, using a meeting type engagement in
+late 1942 with a German Panzer force. Let
+the computer auto-select weapons and autodeploy the forces. When selecting map options, go with no river and a level three terrain covering. Huh... what did I just say?
+First, the computer may play either or both
+sides. Second, you may chose from six
+
+different types of battles including a meeting engagement, an assault, and a pursuit.
+Third, you may chose any one of eight time
+frames and have the weapons available during that time frame. Fourth, the German
+player may chose from a Panzer, Motorized,
+or Infantry type force while the Russian may
+chose from a Tank or Infantry type force.
+Fifth, you may select the weapons you want
+to use by spending points or you may allow
+the computer to select the weapons. Sixth,
+you may deploy the forces behind your
+"Start Line" or the computer will deploy for
+you. Finally, you may elect to have a river
+on the map and you may specify a level of
+terrain covering. A level five terrain will
+give you some forests, some broken ground,
+a few hills, and a city or two to play with.
+If you prefer more open ground then select
+a level two or three covering.
+
+WEAPONS SELECTION
+After you have become more familiar with
+KG, you will want to design scenarios that
+match particular types of weapons. If you
+option not to use the games weapons autoselect feature then you will be allowed to
+chose from a list of weapons selected according to the type of battle, the time period,
+and the type of forces you want. Each type
+of battle is allocated a certain number of
+selection points which you may spend on
+weapons. A meeting engagement will give
+the fewest points while an assault engagement will give the most points. When you
+"spend" selection points, the computer will
+allocate a combat formation letter, a unit
+number for each unit, and a specific
+weapon.
+Continued on page 38
+
+ROBOT SIMULATIONS
+Tinkerer's Playgrounds
+
+Robot Odyssey I
+Robot Simulation
+Apple H
+$49.95
+The Learning Co.
+545 Middlefield Rd.,
+Suite 170
+Menlo Park, CA 94025
+Circle 48 on Reader Service Card
+
+Name:
+Type:
+System:
+Price:
+Publisher:
+
+Chipwits
+Robot Simulation
+Macintosh, Apple II
+$59.95
+Brainpower
+24009 Ventura Blvd.
+Calabasas, CA 91302
+Circle 49 on Reader Service Card
+
+Name:
+Type:
+System:
+Price:
+Publisher:
+
+Two recent products, Robot Odyssey I (for
+the Apple II) and Chipwits (for the Macintosh), have merged two gaming genres—the
+construction kit and the adventure—to create two incredibly vivid simulation experiences, the first simulating robots
+constructed from (digital) hardware, the second, from software. In Odyssey, you go "inside" a robot and connect AND, OR, XOR,
+and NOT gates to its sensors—you actually
+see the circuit work because wires with no
+signal in them are white, but electricity
+
+by Gregg Williams
+
+makes them glow orange. In Chipwits, you
+program a Macintosh-shaped robot by
+stringing together grids of domino-shaped
+pieces that represent individual statements
+in the robot's program; as the robot moves
+through a maze of rooms and obstacles, you
+can see each program step as it is executed.
+Both games are fun to play with, and both
+will keep you busy for many hours while you
+solve the "adventures" they place you
+against; however, Chipwits has some limitations that make it more suitable for people
+new to programming.
+
+Robot Odyssey I
+Robot Odyssey I (sequels are planned by
+its distributor) was designed for tinkerers
+age 13 and up. It purpose is to teach both
+specific skills (principles of digital logic and
+simulation) and general ones (problemsolving techniques). It does this by giving
+you a "robot construction kit and testing
+grounds," called the Innovation Lab, and an
+adventure for you to get through, Robotropolis. An additional three robot "worlds" interactively teach you the entire game
+without any reference to the printed manual.
+Odyssey is a world of squarish, twodimensional robots that have a thruster and
+
+a bumper on each of their four sides (for
+moving and detecting walls), a periscope (for
+seeing out of while inside the robot), an antenna (for transmitting signals to other
+robots), and a claw (for grabbing objects).
+Your on-screen character (controlled by the
+keyboard or, better, a joystick or mouse) can
+go "inside" the robot and connect inputs
+and outputs using simple logic (AND, OR,
+XOR, NOT) gates and integrated-circuit
+"chips." For example, if you hook the antenna to the left thruster through a NOT gate,
+you get a robot that moves right until it
+"hears" a signal. You can even design new
+chips that have both chips and gates inside
+them, then "burn" a copy of the finished
+chip and install it in a robot (or save it for
+later use)—wow!
+The premise of Robotropolis is that, in
+your dreams, you fall into Robotropolis and
+must find your way out. By the time you get
+out, you will have solved over a dozen problems, expended much creativity, and learned a lot about circuit design—and all this
+through experimentation and discovery, not
+(yawn) conventional teaching. The problems
+usually require you to get some object or
+move to some location past a sentry robot
+that won't let your character past; you have
+three robots and must use one or more of
+them to do the work for you (the sentry will
+let them past, sometimes with you inside,
+Trojan-horse style).
+The problems in the five-leveled
+Robotropolis start easy and end hard. For example, in level 1, the City Sewer, you get past
+a sentry robot by riding inside one of the
+three preprogrammed robots provided at the
+start of the game. In level 5, the Skyways, you
+have to "....search for a key to open the gate,
+sneak by a sentry robot, ride a giant disk
+drive to retrieve a new key, open a sonar lock
+by sending a pattern of antenna beeps, travel
+through an invisible maze, and .... push a series of eight buttons to reach the transport
+room. ...." Good luck—I'm nowhere near
+that yet, but I'm cursing as much as I do with
+an Infocom adventure!
+Chipwits
+What Odyssey is for hardware, Chipwits
+is for software. This game is for the Macintosh, but its distributor, Brainworks, should
+have an Apple II version finished by the time
+you read this; its creators, Discourse, Inc.,
+have licensed a C-64 version to Epyx. Chipwits is very similar to Odyssey in several
+ways. You have a "robot construction" area
+called the Workshop. Once you have finished
+a robot, you put it in one of eight adventures
+(called Missions) and see how it does; the
+game keeps the average and maximum
+scores for each robot/mission combination,
+and much of the fun of Chipwits is improving a robot and seeing your score increase.
+A robot stays on its mission until it runs
+out of fuel (supplied by "good" objects like
+a cup of coffee or a slice of pie), sustains
+heavy damage from "bad" objects (ElectroCrabs, Bouncers, and Bombs), or dies of old
+age. The game awards points based on the
+mission. For example, in the mission named
+Greedville, all the obstacles are "good" ob-
+
+jects, but only two add points to the robot's
+score; Doom Rooms has only "bad" objects
+that you get points for destroying, but Peace
+Paths gives you points for eating certain
+"good" things and decreases your score if
+you destroy (rather than just avoid) the "bad"
+things. When the robot is on a mission, the
+screen shows a three-dimensional drawing
+of the robot moving through the room it's in,
+a status panel, and the section of the robot's
+program currently executing. The status panel shows the values of four system variables
+(damage, fuel, distance-to-sighted-object,
+and current-key-being-pressed) and three
+"stacks" of user values (one each for storing
+move sequences, lists of objects, and numbers). The program panel also allows you to
+single- or slow-step the robot through its
+program.
+In the Workshop, the screen shows one of
+eight 6-by-10 panel of instructions and "operator" and "argument" panels. To program
+your robot, you select a domino-shaped instruction from its panel, an operator (or
+verb) for it, and sometimes an argument (or
+object); you can then move the panel to another position or rearrange the true/false arrows that lead to the next instruction.
+Everything is done with the mouse, and you
+program in pictures. For example, a panel
+with an eye above a door means, "look for a
+door (in the direction you are facing) and execute an adjacent instruction based on what
+
+you see and the positions of the arrows
+marked 'T' and 'F'." The robot's instructions
+are contained on one main-program panel
+and seven subroutine panels that can be
+called from the main panel. Each instruction
+has 23 possible operators and up to 12 different arguments.
+Chipwits is fun, but it has some moderately serious problems you need to know about.
+You can save up to 16 robots on the Chipwits
+disk, but you cannot create additional data
+disks. Since you also cannot copy the disk,
+you can never have more than 16 designs
+saved. A more serious problem has to do
+with the awkward way in which designs are
+saved: the changes you make can only be
+saved to the current robot, not to a different
+"slot" on the robot menu. Copying a robot
+to a new "slot" is a tedious, error-prone process that can take up to 64 steps. Also, the
+"Stats" menu item does not always work,
+and any trip to the Workshop erases its performance statistics, even if you don't change
+anything in the robot.
+(In another arena, ignore the unattractive
+packaging and the overinflated claims that
+Chipwits is "an introduction to the principles of artificial intelligence." It is a much
+finer product than its exterior promises.)
+The philosophical differences I have with
+Chipwits are more a cry for a more complex
+Chipwits II game than condemnation of the
+current product. At first, I thought Chipwits
+
+would be a great idea for a yearly contest
+(like CGW does with Muse's Robotwar
+game)—it could still be done, but my
+programming experiences with Chipwits
+leave me less than enthusiastic. In a word,
+the robots' programs are too simple to implement truly interesting survival strategies.
+For example, the single number stack limits
+the complexity of ideas the robot can
+"remember," and the subroutine panels can
+be called only from the main panel (thus
+making them less useful). An expanded
+Chipwits game with larger robot-programs,
+more operators and argument types, and
+more stacks (or some provision for user variables) would be a dynamite product. (Let me
+add that I speak as an advanced programmer; the product, as is, is quite appropriate
+for the beginning programmer.
+
+Conclusion
+Just as there are many kinds of adventures,
+there can be many kinds of robot simulations, of which—I hope—Robot Odyssey I
+and Chipwits are just the first.
+Both games are innovative, are easy to use,
+and give good value for the money, though
+Chipwits may be too simple for people familiar with programming. I can recommend
+both of them highly.
+Ed. Note: The publishers of Chipwits have
+recently changed their name from Brainworks to Brainpower.
+
+IBM GOES TO WAR
+by Russell Sipe
+
+Then, in a dramatic move, IBM reacted
+to the underwhelming response from the
+public by revamping the Jr. into one of the
+best buys in computerdom. IBM took their
+turkey, replace the keyboard with a real one,
+expanded to a basic 128K configuration
+and, presto... their turkey became the Phoenix rising from the ashes. The response
+from the public was positive.
+
+Name:
+Type:
+System:
+Price:
+Publisher:
+
+The Ancient Art of War
+Wargame
+IBM, PCjr
+$44.95
+Broderbund Software
+17 Paul Dr.
+San Rafael, CA
+94903-2101
+Circle 46 on Reader Service Card
+
+A combination of events including the rebirth of the Jr., the move of the computer
+game player into more sophisticated games,
+and the general domination of the pc market
+by IBM has all come together to create a
+growing and significant entertainment market for IBM. The third party vendors have
+taken note.
+
+Gato
+Name:
+Type:
+Submarine Simulation
+System: IBM(128K),
+Apple(64K),
+Mac, Data Gen.
+Price:
+$39.95 to $49.95
+Publisher: Spectrum Holobyte
+2006 Broadway
+Suite 301
+Boulder, CO 80302
+Circle 47 on Reader Service Card
+
+Computer Gaming World has been committed to coverage of the three most popular
+personal/home computers: the Apple, Atari,
+and Commodore 64. We have always said
+that if a significant game market developed
+on any other computer, we would add it to
+our "stable" of machines-covered. Since its
+release in late 1982 we have kept our eye on
+the IBMpc. However, the development of
+a significant entertainment market for it has
+
+been slow.
+In late 1983 (a year after the release of the
+IBMpc) we were somewhat disappointed
+that the PC entertainment market fell far
+short of the predictions of prognosticators.
+We hoped the release of the PCjr would
+change that. But, alas, after seeing the machine, (especially with its "chiclets" type
+keyboard) we were disappointed; and so
+was the public.
+
+And that's where we come in. As long as
+the significant IBM game titles were relatively few in number (and then almost always a translation of a game from one of the
+other three machines we cover), we did not
+feel the need to add a fourth machine to our
+coverage. However in late 1984 that began
+to change. The third party vendors were
+translating more and more of their titles to
+the IBM and we began to see significant
+computer games that were exclusively IBM
+or were being released first on the IBM (this
+being the real test of a computer's strength
+in the marketplace).
+In the period of just a few months we have
+seen the release of several significant IBM-
+
+only (or first) titles. A sampling of these include Gato from Spectrum HoloByte; The
+Ancient Art of War from Broderbund; Computer Diplomacy, Pro Manager, Barn!, Incunabula, and By Fire and Sword, all from
+Avalon Hill. In short, the era of IBM computer gaming has arrived. And we are here
+to cover it. So, IBM, we welcome you to the
+CGW line-up.
+
+The Ancient Art of War and Gato have
+been getting a lot of play time at CGW recently. (Incunabula and By Fire and Sword
+arrived just before press time, but are getting
+some attention as well).
+THE ANCIENT ART OF WAR
+Broderbund has said that The Ancient Art
+of War (TAAW) is not a wargame. That's being picky, for it is indeed an excellent wargame IBM wargamers will want to buy.
+According to Dave Murry (who, along with
+brother Barry, designed TAAW), "we wanted to make a game that would appeal to the
+general public, not just hard-core war
+gamers"; hence Broderbund's hesitation to
+call TAAW a wargame (they call it a strategy
+game). Dave goes on to say, "we wanted to
+combine action and strategy, with the emphasis on creative strategy over brute
+force." They have succeeded.
+The game is based on Sun Tzu's The Art
+of War (a title familiar to the wargamer, not
+so familiar to the general public). The rulebook provides a good overview of Sun Tzu's
+precepts as well as a useful brief history of
+war through the ages. The packaging is
+beautiful, and gives one the feeling that this
+product is a computerized version of Sun
+Tzu's work.
+There are eleven campaigns (read battles)
+preprogrammed; including such encounters as the Battle of Pharsalus, a Sherwood
+Forest scenario with you as Robin's band
+of merry men, and Custer's Last Stand
+where you are the bad guys (the U.S. Cavalry). But the really exciting thing about
+TAAW is that it is also a powerful game
+generator that allows you to set up any battle
+you chose, historical or otherwise. However, as we will see, there are some frustrations here.
+There are three types of troops available:
+archers, knights, and barbarians. In something of a rock-scissors-paper fashion, each
+of these types has strengths or weaknesses
+depending upon which opponent type they
+are facing. Knights (with their armor) are
+great against unprotected barbarians, but
+fall easily to the arrows of the archers (the
+knight not being agile enough to avoid the
+missile attacks). While the archers can put
+a devastating attack on the knights, they are
+much less effective against the barbarians
+who have the ability to "sidestep" arrows
+much more readily than knights. So if you
+have uniform squads try to match your
+knights up against enemy barbarian squads,
+
+your archers against enemy knights, and
+your barbarians against enemy archers.
+However, don't think that the tactics are
+that easy. Mixed squads are possible and a
+variety of tactical formations are available
+(again, you can design your own tactical
+formations).
+There are nine terrain types (forts, villages, hills, bridges, rivers, shorelines,
+forests, flatlands, and mountains). The program also recognizes status of terrain (such
+as home ground, near frontier, contentious,
+etc.). Squads are monitored for fatigue and
+food. Marching and fighting increase fatigue, being too far from your supply
+sources reduce food.
+The most exciting aspect of TAAW is the
+ability to create your own scenarios. You
+build the terrain, form the armies, set the
+goals, and even write an introduction to the
+scenario to be read by the player prior to
+play.
+There is a problem with creating scenarios that are based on battles which occurred
+after the age of sword and shield (i.e. in the
+age of gunpowder. All three troop types are
+capable of simulating normal unit types in
+pre-gunpower warfare (barbarians are "sort
+of" cavalry types). And archers can even do
+a fair job of simulating musketry fire. However there is no adequate means to simulate
+cannon fire. I tried creating a Battle of
+Waterloo scenario but was frustrated by the
+fact that nothing could be done to simulate
+artillery. Therefore a major aspect of that
+battle (i.e. Wellington's use of reverse slopes
+to avoid the withering effect of Napoleon's
+artillery) could not be simulated. For pregunpowder warfare, however, TAAW
+should allow you to recreate most
+engagements.
+TAAW is a one player game. You will play
+against one of eight computer opponents
+(Athena, Alexander The Great, Geronimo,
+Julius Caesar, Genghis Khan, Napoleon,
+Sun Tzu, or Crazy Ivan). Each opponent has
+certain tactical and strategic patterns of behavior that are outlined in the rulebook. Crazy Ivan is the beginner's opponent (he does
+everything randomly and somewhat inefficiently). One wishes that the game would
+have made provision for two humans to play
+against each other.
+Wargamers are constantly seeking the ultimate wargame. But, if they really admit it,
+what they demand from such a wargame is
+impossible to deliver. As for me, TAAW
+meets a lot of my expectations of an ultimate
+wargame and if it doesn't meet them all, it
+certainly comes closer than most. Great
+game!
+GATO
+Here is another winner. Gato is a real-time
+simulation of a WWII attack submarine.
+More than anything else, Gato seems to be
+a "Flight Simulator" for a submarine. Originally designed for the IBM, Gato is now or
+will soon be available for the Apple, Macintosh, and Data General.
+
+Three-dimensional object perspective
+provides depth of field and realistic offensive and evasive ship movement. You play
+the role of submarine commander. At the
+beginning of each game you are assigned
+a mission from COMSUBPAC. Missions include, among others: convoy raiding, rescue missions, coast watcher resupply, seek
+and destroy operations.
+Once a task is assigned you use a strategic map to plot your location and that of
+your assigned mission location. In higher
+difficulty levels you only see yourself on this
+strategic map. In lower difficulty levels you
+also see enemy ships and your own subtender. The subtender is important for
+resupplying and repair. A Captain's Log
+keeps track of your progress, ships sunk,
+and their tonnage.
+In game play you must make a variety of
+decisions that involve trade offs. For example, if you proceed on the surface you risk
+detection if you get too close to enemy ships.
+On the other hand, you travel much faster
+and use less fuel. Traveling submerged
+reverses the effects.
+When you find your target(s) you must develop a plan of attack. Do you drive straight
+in for a close shot or do you position yourself for a longer, less accurate, but safer attack? You must also think about the angle
+of your attack. With the correct angle one
+spread of four torpedoes can hit more than
+one ship. Get the angle of attack wrong and
+you could find yourself facing a charging
+destroyer with only a bow shot between
+yourself and the deep blue sea.
+If the enemy does detect your presence,
+either before you attack (because some fool
+junior officer messed up, no doubt) or after
+three freighters spout unaccustomed
+columns of flame, you will have to dive deep
+and avoid their sonar searches and depth
+charge attacks. Here, again, you have a variety of options: do you play dead on the bottom; or try to maneuver away, trying to
+escape the three dimensional depth charge
+patterns the enemy is using? Or do you get
+even more bold and attack the escorts?
+As much as I like the game, I always look
+for more. An important aspect of submarine
+warfare was the potential for detection by
+enemy aircraft (which could bomb the submarine or relay information on its location).
+This aspect is completely ignored in Gato.
+Another minor point ignored by the designers is the fact that WWII submarines rarely
+made a direct forward "shot" (the only kind
+possible in Gato). Torpedoes were most often fired at an angle from the submarine.
+In fairness to the designers, however, to
+have included these two features would
+have greatly altered the basic design and
+scale of the game without adding much to
+playability.
+Gato has happily married two normally
+opposing game qualities: ease of play and
+detailed strategy. Gato is a superb game that
+I will play again and again. CLEAR THE
+BRIDGE. . . DIVE! DIVE! DIVE!
+
+package LOGO (better than any other version for a computer priced under $1500).
+Priced at about $50, it's worth twice the
+price.
+
+THE
+COMMODORE
+KEY
+Roy Wagner
+COMMODORE is very serious about
+making the new C128 totally compatible
+with the C64. The C64 mode will include
+ALL things we might not like about the C64,
+but it will be all the good things the C64 is,
+and more. The 128K mode will make available 122K of BASIC programming RAM. It
+will add nearly every conceivable command
+that is currently missing to handle disk access (five times faster), sprites, colors, sound,
+and structured coding. It will include a cartridge slot that can detect a C64 cartridge
+and will use the standard Atari type
+joysticks. For anyone serious about business
+use, the CPM mode will accept the standard
+CPM 3.0 (IBM/34, Osborne, and KayPro
+disks) at a disk access rate 11 times faster
+than in C64 mode which will remain at it's
+current slow rate. I have seen the machine
+and it is GREAT!
+COMMODORE — USER FRIENDLY
+Now that Jack Tramiel has left Commodore to help (?) Atari, Commodore has expressed serious intention to support it's
+users. This has resulted in several favorable
+changes of attitude. The new C128 is such
+an example. Another is their dedicated support of user groups. This is just beginning
+with a special newsletter, buying services,
+and telecommunications network. There is
+also a $5 disk replacement policy in which
+they acknowledge that a "diskette may become damaged or worn out through continued use". They will replace the
+Commodore diskette for $5 and return it
+within 10 days. Not many companies offer
+such a deal as that. Thanks Commodore, for
+finally being good to your users.
+COMMODORE SOFTWARE
+In previous issues of this magazine, I have
+not said very much about Commodore software, as in the past there has been too much
+to say. Their early games were not much better than those available for the Atari (Sears)
+2600 cartridge game units (some even
+worse). The only really great software item
+that had come directly from Commodore
+was not a game, but rather the educational
+
+A new program just released is equally
+sensational. It is called SKY TRAVEL and
+costs about $25. It is subtitled "A Window
+to Our Galaxy", and is a home computer
+planetarium dynamically showing the location of over 1200 stars, 88 constellations (major ones, with connective lines), eight other
+planets, deep sky objects, and Halley's comet. The sky can be displayed for a specified
+latitude, longitude, time and date (plus or minus 10,000 years from January 1, 1985). The
+display can then be automatically set to
+change in realtime or up to 64 times realtime,
+giving you a changing display of one hour
+in one minute. You can view the sky from
+any location on earth. The program will also
+identify any object displayed with a brief
+description of names and facts pertaining
+to that object. You can, finally, print any
+screen display, including special star charts.
+While, this is not a game, it is a lot of fun
+and is educational. The program comes with
+a 138 page, easy to read (and understand)
+manual. I highly recommend this program
+if you're into astronomy.
+There are several new games and educational programs being released from Commodore. I will have more to say about them
+in future issues. I would surmise that the reason we see few good games from Commodore is that major game companies pay high
+royalties for good games and companies in
+general pay low royalties for educational
+games. Commodore is probably able to pay
+greater royalties for educational software,
+because good educational software sells
+hardware to schools which is good for Commodore and for us.
+APPLES AND ORANGES - THE SAME?
+I recently attended the West Coast Commodore Association conference in San
+Francisco. The two day conference covered
+all applications for the C64 and was very
+well organized. Two more major conventions are scheduled for Toronto and Valley
+Forge, PA, with one being planned for the
+Los Angeles area. I attended a presentation
+from MIMIC, the company that plans to
+soon release SPARTAN, a hardware box that
+plugs into the back of the C64 and lets one
+use existing Commodore hardware (disk,
+monitor, and keyboard unit) to run either
+Commodore or Apple software/hardware.
+It is quite impressive and well thought out
+as to the functioning of the hardware, and
+is said to be totally Apple II ( 5 and E) compatible. The price of $600 seems high, but
+there is a limited market. How many of us
+need both computers? If anything good is
+released first on the Apple, it is certain to
+be eventually made available for the C64.
+There are the few exceptions of companies
+that will not convert. (Why... we all still wait
+for Wizardry for the C64).
+I think the unit is well designed and offers
+some good possibilities. It takes up less room
+than two computers, extends the range of
+
+hardware and software available, and as a
+total package costs less than a new Apple
+IIE. The product would be ideal for schools,
+making available educational software
+released for either machine.
+(Disclaimer. This product has not yet been
+released from production, as of this writing.
+How well the production model performs
+will be determined in the next six months.
+My thoughts on this product should not be
+taken as a recommendation to buy, but rather some observations of it and it's potential.)
+IT'S TRIVIA
+TRIVIA games of all sorts are now available for the C64. Everyone claims to be the
+best, and each has some variation on play.
+The first is FAX from Epyx. Had FAX used
+joysticks, it could have been good. As it is,
+it is a key pressing contest between two players to provide the answer to a multiple
+choice question. You basically play one category, selecting from several available. The
+next is FACT TACTICS from Day Star. This
+one puts two teams against one another with
+each taking turns answering questions and
+moving around a board displayed on the
+screen. You enter your answer by keyboard.
+This game very cleverly accepts an answer
+that is misspelled or nearly right.
+The most recent trivia game which I have
+played is TRIVIA FEVER from ProLine.
+This game is very well thought out and captures the best of the original Trivia Pursuit
+board game and expands on the idea to make
+a very enjoyable game. It has seven different
+categories with each team (up to 10) choosing five categories from which to answer
+questions. (You can handicap the super player teams by letting the computer choose the
+five categories). The teams play for a point
+total in each category. Questions are worth
+from one to three points, based on difficulty.
+After achieving the required total points in
+a category, the team is required to answer
+a two point category completion question.
+Until the completion question is answered
+correctly, you are given another one on each
+turn. After having completed all five categories, the team must answer a final two
+point question selected randomly from any
+one of the five categories. Questions are all
+answered verbally and matched with a
+screen displayed answer. The players decide
+whether point credit will be awarded. The
+many Play and Handicapping options make
+this game very enjoyable. An additional disk
+of more questions from the basic seven categories and an all sports disk are also
+available.
+There are several other Trivia type games
+available, including one that uses special answer selecting controllers. There is a fine
+line that makes a question a trivia question
+rather than just a hard/impossible question.
+The thought that goes into selecting the
+questions for each game can make the game
+a winner or a loser.
+JUMPMAN MEETS THE WIZARD
+Every so often a good "new" idea for a
+game comes along. Following quickly on it's
+Continued on page 43
+
+DISPATCHES
+Insights From the
+Strategy Game
+Design Front
+
+WHY PEOPLE PLAY
+
+Dan Bunten
+of Ozark Softscape
+
+Every now and then it's useful to go all the
+way back to the beginning. No matter what
+field you're in you have some basic assumptions. In computer game design, you assume
+that people like to play games. Your problem
+is how to make them like your games better
+than your competitors'. Recently, however,
+I got interested in what made people like to
+play in the first place. I read a book by
+Michael J. Ellis (Prentice-Hall, 1973) titled
+Why People Play that impressed me so much
+I want to share some insights from that book
+with you.
+The popular view of play is that it is an
+activity which has no real value. We play
+when our work (an activity that has a value)
+is done. We play to pass the time between
+work and more work. We entertain ourselves
+with things that have no useful function in
+our everyday lives. Play is often viewed as
+an escape from the mundane aspects of life.
+A few astute observers have allowed that play
+is a useful element in the development of
+children. Some educators have found play
+to be a necessary ingredient in learning, at
+least for children. But overall, the common
+view of play relegates it to the status of a nonfunctional behavior.
+
+However, biologists, sociologists, and psychologists are not satisfied with such a simplistic definition. Play is too pervasive
+among humans and other species to be dismissed as a useless activity. Current scientific views hold that al behavior is motivated
+by some system or thing. A behavior that has
+no value to a species will eventually disappear. Evolution will encourage only those
+behavioral traits that are beneficial to the
+survival of the individual. Traits that are no
+longer useful require some energy to maintain and are thus a penalty to the species that
+keep them. Therefore, play must have a function or it would not have survived.
+The factors that motivate behavior are
+called drives. These are usually divided into
+primary and secondary drives. Primary
+drives are those that work to insure an organism's survival from day to day. Secondary
+drives are those that are not needed for survival today but are useful for success tomorrow. Recent neurologic research has
+uncovered in all "higher" organisms a
+secondary drive to maintain optimal arousal
+of sensory and cognitive systems. By its very
+design, the brain will attempt to maintain
+a balance of awareness. If there are too many
+stimuli coming in, the brain will filter some
+out. If there are too few stimuli, the brain
+will listen more intently or even "invent"
+stimuli. However, the brain will also register the various levels of stimuli as pleasant
+or unpleasant and encourage the organism
+to seek more or less stimulation as needed.
+Higher animals can generate cognitive
+events and adjust sensory input levels to create arousal. They can also act to reduce their
+exposure to arousing events. These capabilities allow the individual organism to maintain an optimal arousal level.
+This optimal arousal level is considerably
+higher than the quiescent state. Even when
+the organism has satisfied all of its primary
+needs it will still require more stimulation.
+As a survival tool, this drive to maintain an
+optimal level of arousal enables a species to
+adapt directly to conditions that require it
+to be flexible. To maintain optimal arousal,
+the animal is continuously pushed into engagements with its environment. Since only
+novel, complex or dissonant interactions
+produce arousal, the animal is in constant
+contact with the changing and changeable
+elements of its surroundings. This behavior,
+since it is not motivated by any immediate
+survival need, is defined as play.
+Play behavior has adaptive significance for
+the individual. It broadens the base of experience the individual has available to draw
+upon in meeting the challenge of new situations. The animals that survive their changing world tend to pass on their
+predisposition to play. Thus, play becomes
+an inherited trait that influences the playfulness of the species. This drive to play
+thereby becomes the fundamental learning
+mechanism of the species and the individual. Most inherited traits are automatic response patterns to specific circumstances.
+
+The truly amazing aspect of play is that it
+is not an automatic response but rather a
+drive to learn from the environment. What
+the organism inherits through its genes is
+not a solution to the problems it will face but
+rather a desire to look for solutions before
+the problems actually occur. Thus, the genes,
+do not specify how a kitten should catch a
+mouse. The genes provide a "drive to play"
+as a learning mechanism so that it is "the
+mouse which teaches the kitten the finer
+points of how to catch mice."
+Play, therefore, is not a silly non-functional
+activity but rather the way evolution has
+produced an organism adapted for change.
+Humans are by far the most flexible and neophilic (new loving) animals on earth and
+thereby require the most play. We derive
+pleasure from novel and complex interactions with our environment throughout our
+lifetimes. So when you play you are not wasting time on a useless activity. You are repeating the history of evolution and training
+yourself to maintain a flexible response to
+your environment! I hope this reassures you
+as much as it did me!
+Dan Bunten is the author of Computer
+Quarterback, Cartels & Cutthroats, and
+Cytron Masters; all available from Strategic
+Simulations. He is the lead designer of the
+Ozark Softscape group that wrote M.U.L.E.
+and SEVEN CITIES OF GOLD; both available from Electronic Arts.
+
+The World of the
+
+PLAYTESTER
+
+by Tom Cheche
+
+OK, I'll admit it. After twenty-three years of wargaming I've never
+been more involved in the hobby, never enjoyed it more, and never
+felt more excited about what I do. For the past several years I have
+been continuously busy as a playtester, enjoying the excitement and
+challenge of being on the cutting edge of the hobby.
+But don't be mislead. Playtesting is work.
+At first glance, the role of a playtester would appear to be pretty
+clear cut—to test a piece of software to see if it works, to find the
+bugs, and make sure it does what is is supposed to do. However, it
+is not that simple. The role of a playtester can vary dramatically depending on the amount and kind of input sought by the designer
+and his developer, and by the knowledge and experience the playtester brings to the product that is being developed.
+There are all kinds of garners. Some play wargames for the sake
+of the game. Others are interested in the accuracy of the game as
+a simulation of the historical event. Still others see a wargame, if
+it is well researched and executed, as a sort of living history lesson;
+an opportunity to learn about a campaign or battle. And, just as
+garners bring different points of view to a game, so do playtesters.
+On the most basic level, a playtester's job is to find bugs and obvious
+defects in the program, and in the initial stages of development this
+is the first priority. In fact, I am told there are some playtesters who
+are masters at making programs crash. They get a new program and
+attack it with a vengeance, trying to find errors that aren't properly
+trapped. Once the program has largely been debugged, they move
+on to other projects and the more subtle playtesting begins. This is
+the most obvious aspect of playtesting. It is, to me, also the least interesting and rewarding. Happily, this phase is usually over very
+quickly, in one or two versions.
+Every time a new version of the game is sent to the playtester it
+includes a new set of rules, and each time the rules must be read
+carefully to uncover ambiguities and contradictions. An important
+part of the job is to make sure the rules are clear and accurate, and
+if not, to suggest changes.
+Once a program is running relatively bug free, a more subtle kind
+of playtesting begins. The emphasis then shifts to several other priorities; historical accuracy, playability, play balance, and the quality
+of the artificial intelligence. It is once this phase begins that a playtester tends to go in the direction that his particular strengths take
+him. If I know what I will be playtesting for enough ahead of time,
+I try to read as much as possible about the subject before the playtesting begins. If not, I do the reading while the playtesting is going
+on. I also try to restrict my reading to views of the battle that approximate the scale of the game, be it tactical, operational, or strategic.
+The manufacturer may have a different assessment, but I tend to
+view myself as being a sort of creative conscious, the voice of the
+gamer. I am looking out for the gamer, airing his concerns. And it
+
+can be very gratifying to push long and hard for something in a game,
+see it in the final production version, and know that you were instrumental in having it included.
+Usually you can anticipate what the crucial actions in a game will
+be, based upon your background reading. But, occasionally, you will
+encounter something that isn't represented in the game which you
+believe should be or conversely, something included you think
+shouldn't be. Then the fun begins.
+The closer to the source a playtester works the more likely he is
+to see his suggestions show up in the game. If he only communicates
+through a person who administers the playtesting assignments, he
+can sometimes feel as though no one really cares what he has to say.
+If he deals with the person in charge of developing the game for the
+designer and has a good one-on-one relationship with the developer,
+he may be more successful when he argues for a change.
+The best case, but the most rare, is for the playtester to have a oneon-one relationship with the game designer and the developer. This
+allows the playtester to input the "gamer's view" right from the outset.
+But it doesn't always happen. There have been times when I have
+playtested a game from start to finish and never once spoke or communicated with the designer directly.
+The playtest disks that are sent out by the manufacturer are never
+accompanied by the same kind of documentation that is released in
+the final version. Playtest documentation often includes nothing
+more elaborate than a photocopy of a hand-drawn map. Sometimes
+entire sections of the rules are omitted and sent to you later. And
+those wonderful players' aids that we love to use are almost never
+included. In fact, many of those aids are created during the playtesting process. For example, during testing of Fighter Command,
+by SSI, I told the developer that in order to keep track of the status
+of the squadrons I thought a chart would be in order, and I casually
+mentioned that I had made one of my own. I was told to send it in
+so they could see what I had in mind. Well, apparently some of the
+other testers had the same suggestion, because when the final version
+came out it included a chart like the one I suggested, but it didn't
+look very much like the one I had designed. Actually, it was better.
+Sometimes a suggestion can mean the addition of a simple screen
+display. In one instance, I booted up the first version I received, the
+drive went to work, and then apparently stopped cold. I thought I
+had a bad disk. I rebooted the disk a half-dozen times, and each time
+it stopped and just sat there for a couple of minutes. Turns out the
+program was reading in a very big batch of data, which took several
+minutes. The result was the addition of a message that told the player
+to hang in thee, this is going to take a minute. This sort of input from
+the tester to the developer results in the kind of changes and additions that can mean the difference between a good game and a very
+enjoyable one.
+
+There is no dismissing the fact that being involved in this type of
+development can be very exciting. A special kind of excitement is
+created when receiving the first version of a new game. And when
+it is clear that you are working on a game that obviously is going
+to be a hit when it is finally released, it's like being in on a secret.
+You find yourself thinking thoughts like, "Boy, they're gonna LOVE
+this one." Of course, it makes it all a lot more worth while to be working on quality products. And it isn't all fun and games.
+A playtester must stay in touch with the developer. He must communicate regularly, and the written word is preferred. Telephone
+messages have a way of not getting to the right person, and often
+no matter what transpires over the phone, unless you put in writing
+you can't be certain your input got through.
+A playtester must remember that he is playtesting and not playing.
+There is a difference. Keeping pad and pencil close at hand you must
+take copious notes. Notes about anything that crosses your mind;
+a strange quirk in a screen display, a strange combat result, anything
+the program does that conflicts with what the rules say it is supposed to do. Write it all down and send it on to the developer, along
+with your comments.
+You can't let yourself get too involved in playing the game early
+on, or you may be very frustrated. On more than one occasion, I have
+gotten very involved in playing a game, only to have a fatal bug surface
+and trash the game. And don't expect a lot of sympathy. "That's the
+breaks", the developer said, "you're playtesting."
+And then, there are all the times when you would rather be out
+shagging fly balls, or maybe just playing something different for a
+change. You have already played the game more times than you care
+to count, you're getting worn thin, and you really don't feel like hitting
+it again. But the push is on, the final release is only a couple of weeks
+away, and the developer just contacted you and said he wants you
+to do the campaign game one more time, at the highest level of difficulty. We're talking work here, Bud.
+
+In fact, there are many times when I am convinced that I will never
+play a game after it has been released because I have played it so
+many times during development. Would you believe playtesting War
+In Russia for nearly a year? And I wasn't involved on that one from
+the outset.
+And you cannot know the joy that was felt when I got a phone
+call one day, months into the testing, informing me that errors had
+been found in some of the algorithms, rendering all of the previous
+results invalid. "We have to start all over again" I was told, right about
+the time I was beginning to think about wrapping it up.
+Only when the time has come to start polishing the program for
+final release can you really play it with the notion of beating the computer opponent as thoroughly as possible. At this stage you are trying
+to find out if there are any serious problems with the artificial intelligence, and exactly how well the artificial intelligence performs. In
+fact, most of the time the final stages of the playtesting process are
+devoted to tuning up the artificial intelligence.
+Human nature being what it is, I wouldn't hazard a guess as to
+the feelings of other playtesters about what they do. But for me, there
+is a great deal of satisfaction in completing a project on which I know
+I've done a good, conscientious job. And there is something else.
+There comes the time when you are told the game is ready for release and you know the project is just about over. You start to get
+a little itchy, because already you are wondering, "What's next?"
+Tom Cheche is a playtester for SSI.
+Most computer game publishers are interested in quality playtesters.
+If you think you have what it takes, contact some of the companies.
+In your letter of introduction be sure to detail your gaming experience
+(both computer and non-computer). Consider contacting the smaller
+companies as well (some of the larger companies may have a waiting
+list of potential playtesters).
+We would like to hear about your experiences in being or becoming
+a playtester.
+
+COME CAST A
+SPELL WITH ME
+
+People flock to buy the latest Infocom
+game knowing they will be delighted with
+some unexpected new nuance or adventure
+concept. No other software house can boast
+a staff like Mark Blanc, Dave Lebling, Steve
+Meretzky, Mike Berlyn, or Stu Galley. Thus
+the core of a good game is talent and creativity. The superior Infocom parser is only a minor advantage to their success. If only clods
+used that parser, no one would buy the
+games. Actually, several companies have
+marketed games with parsers that were almost as sophisticated as Infocom's, but the
+games were so boring that no one cared. But
+there is hope yet for most people to use these
+new adventure design programs.
+
+Go to the library and spend some time
+researching the period or local. It is the attention to realistic details that is one of the
+main factors that separate top games from
+the usual morass of boring programs. Dave
+Lebling of Infocom has always described
+himself as the Master of the Purple Prose.
+Anyone who doubts this has only to read the
+text in his new game SUSPECT. A person
+can close their eyes and feel one of Dave's
+rooms. The richness of his words paint ornate pictures of a room and flesh out the
+playing characters. Most new designers fail
+here utterly. They toss off brief, boring room
+descriptions and say "Isn't that interesting!?"
+
+Synapse's new game, MINDWHEEL, has
+just such a parser, but is lightyears ahead of
+its competition. The program, while still just
+a text adventure, blazes a whole new frontier
+in computer game design. Synapse refers to
+this program as an Electronic Novel ® .
+
+Likewise, a common trap that novice designs fall into is one of creating an obscure
+puzzle. TIMESHIP, Five Star's first offering,
+has many good elements to the adventure,
+but it also has a puzzle that falls into the obscure category. At a late point in the game,
+an item must be bought with a nickel, but
+there is no apparent money available in the
+game. There is, however, a change machine
+available. So where to find some other form
+of currency to put into the change machine?
+The answer lies in an ordinary book of all
+places. The player is somehow supposed to
+divine that he must "tear page out of book",
+"fold page", and then "insert the page into
+the machine." Out rolls the nickel. Now the
+author apparently intended this to be a difficult puzzle, but in fact it is logically absurd.
+Puzzles of that sort alienate players. Avoid
+this pitfall at all cost. Do not let your desire
+to be clever lead to unfairness for players!
+
+Innovative Adventure
+Designers
+Apply Here!
+
+ROE R. ADAMS III
+
+A flood of new products have been introduced recently into the market place that
+will allow the anyone to create his or her very
+own computer adventure game. Some of
+these programs have graphic capabilities,
+but most are strictly text generated. That fact
+is not necessarily a drawback, as Infocom
+has been notably successful in this genre.
+However, it is very difficult to design an interesting text adventure.
+Almost every other text adventure game in
+the last three years has been a complete failure. Why is that? Infocom claims that text adventures are more intellectual and alluring
+to the player than graphic ones. Yet surveys
+have shown that the public really prefers
+colorful animated graphics to text screens
+for entertainment. How does one explain the
+phenomenal success of Infocom, and the
+abysmal failure of every would be competitor?
+The real secret to Infocom's vast popularity, which has never been told before, is that
+their programs succeed IN SPITE of the fact
+they have no graphics instead of because
+they are only text! It is Infocom's
+extraodinyphcvesnariodg
+that makes the difference. Every Infocom
+game breaks new ground in the art of game
+design. The craft has reached the level of an
+art form, primarily because of Infocom.
+
+The game is actually in two different
+mediums. One is the traditional computer
+disk, while the other is a hard cover book
+that accompanies the disk. The player is required to read the book first, study the marvelous graphic illustrations, and catch all the
+tricky clues buried within the book. While
+most of the game is standard adventure fare,
+the program really focuses around novel
+road blocks. The road blocks are strategically placed so that you must solve them to continue. Each roadblock involves a logic word
+game: guess the meaning of a riddle, finish
+the last line of a poem, or most amazingly,
+divine a long series of fill-in-the-blank words
+to complete a love sonnet. Each of these puzzles is new and fresh. While clues abound in
+both the game and in the hard cover book.
+The sonnet is, by far, one of the most difficult challenges seen in a long time. The
+game structure is truly module, with the
+road blocks serving as sentries baring entrance from module to module.
+MINDWHEEL affords the player more intellectual challenge than the usual adventure
+game. The blend of disk and book draws the
+player deeper into an involvement with the
+game, thus offering a greater sense of realism and participation. What a breath of
+fresh air this game is!
+Two important aspects stand in the way of
+most would be designers: atmosphere and
+puzzles. Do not settle for mediocracy when
+you create a game. Carefully think out a
+general storyline or setting for an adventure.
+
+Many readers of magazines like GAMES
+are puzzle freaks. They practically swim in
+a sea of mental agility and challenge going
+from word to picture to logic puzzles. If even
+a fraction of those skills were applied to
+designing a puzzle in an adventure game,
+the level of design competency would rise
+multifold.
+The lesson to be learned is that innovation
+and creative abilities account for almost
+everything these days in game design. Years
+ago, it was the programmers that mattered
+most, as it was so technically difficult to produce one of these programs. Today, with the
+automatic authoring systems, nonprogrammers are equally able to write a high level
+computer adventure game. The opportunity
+even exists to create adventure games which
+might even be commercially saleable. The
+important thing to remember is that creativity and originality are the yardsticks by which
+your efforts will be judged, not the flash of
+your programs.
+Designing a game can be one of the most
+rewarding things you have ever accomplished. The ohs and ahs of your friends will
+give you an immense satisfaction. Who
+knows you might be the next Steve Meretzky.
+
+a hex map, with the Ogre entering on the south (narrow) end, marching north, destroying the CP, and heading south to escape off the
+same end by which it entered.
+The game's simplicity makes it an easy one with which to do artificial intelligence (AI) experiments, especially if you let the computer
+control the Ogre. Let's look at a simple way in which the Ogre can
+"learn" to play a better game.
+The Ogre has to choose a path from the south end of the board
+to some point within striking distance of the CP. Since it can only
+move up to three hexes each turn, it must choose (each turn) the hex
+on which it wants to stop. It needs a simple evaluation function, f(hex),
+to choose which hex is best. The simplest evaluation function is:
+f(hex) = kdist(hex,CP)
+where
+
+THE SILICON
+CEREBRUM
+HOW COMPUTERS LEARN
+
+by Bruce Webster
+
+My last "real" column was in issue 4.1, which should give you an
+idea as to how badly I've been neglecting this column. Actually, it's
+not all my fault — the editor has had to bump my column a few times
+due to lack of space — but, by and large, I am responsible for the
+column's infrequency.
+That should change now. I've given up full-time software development for the time being and gone to full-time writing. It was not an
+easy decision to make, but it was a necessary one. And it means that
+I can now spend more time in software exploration, that is, in writing
+programs to test out different ideas — such as those found in this
+column.
+
+Back in issue
+
+4.1,
+
+I was deep into a discussion on heuristic search
+
+techniques, having looked at three breadth-first algorithms, each one
+more informed than the last. I concluded that column with the promise that we would "take a harder look at the performance differences
+between BFS (breadth-first search) and MIBFS (more informed BFS)
+and see if smarter really is better." You see, I had stumbled across
+problems with MIBFS which suggested that BFS, though less "intelligent", might really be faster and consume less memory. However, when I sat down to write this column, I ran into another problem.
+You see, it's been over a year since I worked with those algorithms,
+and, well, I've forgotten just what it was I discovered. When I figure
+out what it was, I'll write about it. While I'm doing that, you can
+track down issues 3.4, 3.5, and 4.1, so that you can remember (or learn)
+what I was talking about.
+In the meantime, let's talk about something else. What's a major
+difference between a human opponent and a computer? Well, the
+human learns from his/her mistakes or successes, while a computer
+usually pushes ahead regardless of how things are going. However,
+computers can "learn" in some simple (and not-so-simple) ways.
+We're going to see how that can happen.
+Let's look at a simple example, based loosely on OGRE, a very successful SF wargame from Steve Jackson Games (with a computer
+version coming out from Origin Systems). In OGRE, one side defends a command post (CP) with many different units: GEV's (hovercraft), infantry, artillery, and several types of tanks. The attacking
+side, whose mission is to destroy the CP, has only one unit: a massive
+cybernetic tank known as an Ogre. The entire game takes place on
+
+kdist(hex,CP) = 25 - distance(hex,CP)
+In other words, for all the hexes within the movement limits, pick
+the one with the highest value of f(hex). This will move you directly
+to the command post...providing you're not blown up first. A good
+defender can usually destroy an Ogre which is coming straight in,
+so our computer needs to be a little more intelligent. Let's expand
+our evaluation function:
+f(hex) = kdist(hex,CP) - defend(hex) + attack(hex)
+We've put two new terms into f(hex). The first, defend(hex), is simply the sum of the attack points (firepower) that the defender can
+bring to bear on that hex. The second, attack(hex), is the sum of the
+attack points of the defending units that the Ogre could attack from
+that hex. As before, we pick the highest f(hex) for all the hexes within range (which is why we subtract the defend term).
+O.K., we've expanded our evaluation function, but we need to make
+
+one more adjustment. You see, we're not sure what comparative
+ranges of values the three terms have, nor have we defined their relative importance. The answer: add a weighting value to each:
+f(hex) = w1x dist + w2 x defend + w3 x attack
+We can now set wl, w2, and w3 to reflect how much weight to give
+to each term. (Note that w2 should be negative, since we're now adding all the terms together.) As before, we pick the hex with the highest
+value as our destination for this turn. Choosing different values for
+the weights will result in different strategies for the Ogre. A high
+hi will cause the Ogre to go straight for the command post; a high
+w2 will result in a very cautious Ogre; and a high w3 will lead the
+Ogre to aggressively attack the defending units.
+Starting School
+Let's say that we've got the game working, using the evaluation
+function developed above. We have some standard set of weights
+(w1,w2,w3)that we use throughout each game. We find that the computer plays well at times but, because of its predictability and singlemindedness, can be maneuvered into some nasty situations. How
+can we help it to learn to play better?
+One way is to let the computer itself decide which weights are best.
+At the end of each game turn, after both sides have moved and fired,
+look at the relative success of that turn. Did the Ogre destroy the
+CP? Did it take significant damage? Did it damage or eliminate other defending units? We can then use the answers to those questions
+to modify the weights. If the Ogre is taking too much damage, then
+increase (in magnitude) w2 so that the Ogre will shy away from heavily
+defended hexes. If the Ogre successfully attacked one or more
+defenders, increase w3. If the Ogre destroyed the CP, then increase
+all the weights to reinforce their "correctness." If, instead, the Ogre
+
+was destroyed, then decrease all the weights to make other adjustments more significant.
+You'll notice a few things from this approach. First, the Ogre's
+strategy will change during a game, depending upon how things are
+going. Second, you can have the Ogre develop different sets of weights
+for different opponents. How does the computer recognize different
+opponents? Well, you could just have the human enter his/her name,
+but the human can always lie, so that isn't completely reliable. A better
+(and more general) approach is to see what units the defender selects
+and how he/she deploys them. The Ogre can then pull out a set of
+weights developed for that defense.
+Enhancements
+This approach is not, of course, perfect. One real problem is that
+the set of weights you have by the end of the game is biased towards
+the end of the game and may not work too well at the start of a new
+game. What we really need is not a single set of weights, but several
+sets, one for each phase of the game. For ExF1r1JsThis might be the
+"feel the enemy out" set, with an emphasis on caution and attack
+and little weight on heading for the CP The Ogre would continue
+to use that set until some key event, such as the passage of so many
+turns, or after some amount of damage is inflicted or taken. Then
+another set would be chosen, depending upon the circumstances,
+such as an "edge your way around" set, a "push for the CP" set, and
+so on. Again, different sets of weights can be developed for different
+defenses.
+A yet-more-complex method involves what we'll call scripts. Let's
+say we're starting a new game. The Ogre selects its starting weights
+(w1,w2,w3) and a starting script. The script is simply a list of adjustments; each adjustment contains three values to be added to the three
+weights. After each turn, we add the next set of adjustments to the
+weights. The result is that the weights (and, as a result, the Ogre's
+strategy) change during the script.
+How do we create the scripts? Well, since this column is about
+learning, we'll let the Ogre create them for us. Start a script as all
+O's, which means that the weights would not change at all. Then,
+instead of directly adjusting the weights to reflect success or failure, we go back and adjust the script. If the success/failure is a minor one, we can just change the script entry for the previous move.
+If it's a major one, we can propagate the changes back several moves.
+By connecting scripts with different situations (such as "opening
+game where defender has lots of GEV's"), we can, indeed, have our
+computer opponent "learn".
+Conclusions and Warnings
+We've talked about some very simple learning techniques applied
+in some very simple ways. We need to recognize that learning takes
+time and practice. Your computer program is not going to become
+a top-notch OGRE player overnight (if, indeed, ever). There are, of
+course, short cuts. For example, you can give the computer a head
+start by directly creating weights and scripts yourself. And, if you're
+the computer's main opponent, you are going to be learning as well,
+so that the computer's improvement may be hard to notice.
+
+Whenever I predict what I will talk about in the next column, I
+am usually wrong, so I am making no promises as to what you will
+see next. I would like some feedback on my column: what you like,
+what you don't, and what you most want to see. I've gotten some
+nice comments over the years, but generally you've been a quiet lot,
+which makes me wonder if this column is being read by anyone. If
+it is — and if you want to continue —please let me know! Feel free
+to contact me directly: Bruce F. Webster, 6215 Thorn St. San Diego,
+CA 92115. By bulletin board: (619)286-7838 at 300/1200 baud. By Compuserve: 75166,1717. By MCI Mail: 138-5892.
+Bruce is the author of Sundog from FTL.
+
+deliver, that too will be incredible. But,
+Tramiel (as founder of Commodore International) has done the incredible before, so all
+Atari-philes have their fingers and joysticks
+crossed.
+
+Atari
+Playfield
+THE NEW ATARI COMPUTERS
+Fantasy Comes True?
+
+David Stone
+
+A few issues back (August 1984, Vol. 4.4),
+I used the Atari Playfield to lament and
+writhe in public at trade paper speculation
+that Jack Tramiel, Atari's new owner, was
+planning on coming out with an Atari IBM
+clone. In that column, I scowled at companies whose contribution to computer gaming was to go with the pack, applauded
+Apple for making an exciting computer like
+the Macintosh NOT IBM compatible, and
+fantasized that it would be wonderful to hear
+that Atari had announced a computer with
+advanced gaming capabilities that no other computer on the market today could
+touch.
+Well, if you have been reading the papers,
+you may already know that at the Winter
+Consumer Electronics Show, Atari revealed
+my fantasy computer and promised delivery
+in mid-April of this year. CGW staff was in
+attendance for the unveiling of new Atari
+line of computers that includes incredible
+features, incredible prices, and an incredible
+promised-delivery date. And, if Tramiel can
+
+Gaming and The New Atari ST's
+The new Atari computers are the Atari
+130ST and 520ST. The specs on these
+machines are impressive. And, the most important question to us is, "Is the ST line going to be good for gaming?"
+All features of the machines indicate a resounding "YES!"
+First, at the heart of the ST's is the same
+16/32 bit microprocessor used in the Apple
+Macintosh (the Motorola 68000). One of the
+big differences though between the ST and
+Mac is that the ST delivers color. For gaming
+applications, this powerful processor can
+mean high-speed, smooth-moving multicolored (512 colors) graphics and animation.
+Atari has built onto the ST operating system (modestly named the MS, for Tramiel
+Operating System) two major features for
+display and memory control: the GEM
+(Graphics Environment Manager) user interface developed by Digital Research and
+something called a GSX graphics kernel.
+The GEM is basically a memory management system that will enable game programmers to design and manipulate display
+features such as pop-up menus (like the
+Mac's pull-down menus), windows, icons,
+a real-time clock, and a mouse controller
+with two buttons. To game players these features will hopefully mean that games on the
+ST will be easier to learn and play.
+Instead of an ANTIC chip (the one that
+enables player-missile graphics in the
+400/600/800/1200's), the ST's will use a GSX
+graphics kernel. This feature will allow game
+programmers to design and manipulate
+complex multicolored screens in a variety
+of ways. Games produced on the ST system
+could easily contain the most visually exciting graphics and animation ever produced
+on a personal computer.
+The 130ST comes with 128K RAM while
+the 520ST has 512K. When you consider that
+your favorite Atari game takes up less than
+64K, you'll realize that memory will not be
+a problem. If anything, programming code
+may get sloppy as programmers wallow
+around in all that RAM.
+On-board ROM in both ST's is 192K. This
+is massive when you compare it to the 800's
+10K ROM. The ST's also have a side slot for
+add-on ROM cartridges. This will be an important consideration for third-party game
+manufacturers seeking the higher degree of
+copy protection that a ROM cartridge offers.
+Other important features of the ST's that
+indicate that they are designed for gaming
+are the two joystick ports. One of the ports
+is being specially configured to accept a
+mouse.
+The ST's have three graphics and text display modes and a built in drawing software.
+As with the all computer graphic modes, the
+finer the resolution, the fewer the colors
+available. The Intense Color Display (ICD)
+
+mode offers resolution similar to the current
+(i)Graphics 8 mode, except the ICD offers 16
+colors instead of just one and a screen area
+of 320 by 200 pixels. The High Resolution
+Color Display mode gives you four colors on
+a 640 by 200 pixels. And, get this, the Monochrome Hi-Res Display produces 640 by 400
+pixels. These modes, combined with the
+speed of the 68000 microprocessor, should
+lead to the most impressive game graphics
+ever produced on a personal computer
+system.
+In the sound department, things look
+(sound?) pretty good, too. First, the ST's have
+a three-voice sound generator (the current
+Atari's have a four-voice generator). However, the ST sound chip allows control of the
+"attack, sustain, delay, and release" (these
+characteristics help us tell the difference between an oboe and a piano just by listening).
+The range on the sound chip is from 30 hz
+(like an earthquake rumble) to higher than
+the human ear can hear. This will mean
+games with both life-like music and realistic
+sounds.
+Another interesting feature is a built-in
+MIDI (Musical Instrument Digital Interface). The MIDI is like a special modem port
+that lets a computer control electronic musical instruments. The MIDI is constructed
+to an industry standard so there already exists a variety of synthesizers ready to plug
+into the ST's. The ST machines have a builtin RS232C port for connecting modems (or
+Continued on page 39
+
+The Name of the Game
+Stalking the Wild Concept
+
+Jon Freeman
+Good games rarely happen by accident; they are planned—
+designed. Many games never reach the design or blueprint stage because they lack a clear concept: a preliminary floor plan, as it were.
+Nearly all good games — and even most bad ones — start with an
+idea. Sometimes it's no more than a visual gimmick — a rotating
+planet, say, or an odd way of changing colors — but few games are
+actually designed around so simple a device. The normal starting
+point is the subject of the game: taxes, the stock market, pirates,
+planetary colonization, pinball, war in space, war on the Eastern Front
+in WW II, war in the Age of Sail, dungeon exploration, fantasy chess,
+a repeatable murder mystery.
+Nowadays, publishers are looking for a high concept: an idea that
+is both simple and intriguing. Like a good ad, it should, in a few words,
+communicate its essence and immediately interest a game player
+— and buyer. "Computer pinball" is a high concept (at least if you're
+a pinball fan). Alien Garden and Yar's Revenge were not.
+A good topic (or high concept) is not guarantee of a good game;
+nor is it absolutely essential. Perfectly good games have been made
+of perfectly awful ideas, but why start with a handicap? It's easier
+to do an interesting game about pirates than about a pencil factory.
+The Habitat of the Species
+Contrary to popular belief, good game ideas are not hard to come
+by. Aspiring writers are forever being urged to "write about what
+you know." Similarly, game concepts are readily drawn from subjects you know or like. Eric Hammond turned his enthusiasm for
+basketball in general — and two of the sport's premiere practitioners,
+in particular — into One on One. Bill Budge produced two successful
+computer games out of his fondness for pinball. Elements in games
+as disparate as Archon and Ultima were inspired by experiences in
+the Society for Creative Anachronism.
+Books and movies are, of course, a gold mine of ideas. It's a short
+step from old monster movies to the basic idea behind Crush, Crumble & Chomp!. Consider using your favorite genre — mysteries,
+science fiction, historical romance, soap opera, whatever — as game
+material. On the other hand, if you can't tell Robert A. Heinlein from
+Robert E. Howard, Glory Road from Damnation Alley, or Forbidden
+Planet from Planet of Horrors, your notion of a "sci-fi" game will
+probably make me gag. (Head for Hollywood, instead, where ignorance of the field is not considered a liability, and turn your idea
+into a TV script.)
+Nor are you limited to generalities. You can't very well steal your
+favorite novel, lock, stock, and denouement (since authors are picky
+about things like that), and haven't you ever thought about transplanting a favorite character from one book into the setting of another
+(e.g., Robinson Crusoe on Mars or A Connecticut Yankee in King Arthur's Court)? Rewriting the ending? (Aren't the best, most involving
+games rather like books with an infinite number of possible endings?) Writers have been making hay of this kind of thing for centuries; there's no reason you can't do the same.
+A primary source of good game ideas is an obvious — in most cases,
+too obvious — one: other games. No, I'm not suggesting cloning; I'm
+talking about inspiration, not plagiarism.
+Pick a few games at random, and play around with them in your
+head. If you spot a flow, "fix" it, and see what happens; if you find
+a feature or technique you really like, try to imagine it in a different
+game. Change the characters or setting; add features or expand the
+
+context; reverse roles or goals; interchange parts from different
+games; add a computer element (not just an opponent) to a board
+game. Instead of picking up dots, put them (or something else: pipes,
+tracks, stripes) down, or have them change color or shape when you
+pass over them; instead of dying, have something else happen when
+you are caught by the computer's icons, or chase them, for a change.
+These are elementary examples, commonly used, but most games
+stem from just such simple roots. Ka-Boom is obviously just Avalanche with personality, but what is Missile Command if not an
+elaborate version of the same basic principle with a change in plot
+and scene? Isn't Defender (et al.) basically Space Invaders rotated 90
+degrees with the roles reversed?
+The principles are obvious, and with a little imagination you can
+certainly come up with something more novel and interesting. In
+fact, you must: many of the "easy" ideas are taken, and the market
+is more demanding than it used to be.
+The Observer Observed
+Fortunately, your game concept has to satisfy only two judges: (1)
+you and (2) everybody else.
+Designing games should be as much fun as playing them, but nursing one from concept to finished product is no easier than taking
+care of a newborn. If you're not sold on the idea to start with, it will
+end up being worse than operating a drill press day after day. (According to Dune, fear is the mindkiller; but so is drudgery.) If you
+don't like what you're doing, construction pays better (generally),
+and you can let the contractor worry about selling the finished
+product.
+Knowing whether anyone else will like your idea does not require
+consulting Jeanne Dixon. Except for gimmicks, which are almost
+impossible to evaluate (since nobody knows in advance whether hula
+hoops or pet rocks — or videogames with flying hamburgers — will
+sell), all that's required is honesty and common sense.
+Bring Your Binoculars
+An amazing number of people who don't know one end of a joystick
+from the other are convinced they can come up with the next arcade
+hit. This is unlikely. You are not going to come up with a good arcade
+game if you have no feel for what makes an arcade game good. On
+the other hand, if you play nothing but arcade games, text adventure
+fans will probably sneer at your first foray into "their" territory. If
+you don't know the difference between a mongoose and a mangonel,
+or mustard greens ad mustard gas, you should not put much faith
+in that half-baked idea you had for an historical simulation.
+Popular taste is not all that difficult to gauge. When in doubt, measure your latest brainstorm against such handy yardsticks as movies,
+TV, bookstores, magazine racks, and your last fifteen conversations.
+People are interested in sports and soap operas, cars and money,
+robots and flying saucers, fantasy and suspense; and the proverbial
+sex, drugs, and rock and roll are as popular as ever. The 30 Years'
+War (the announced subject of SPI's first computer game a few years
+back) is not a hot topic. As entertainment, most "educational games"
+rank just ahead of hunting whales, clubbing baby seals, and anorexia
+nervosa. If you can't come up with any better ideas, get yourself a
+partner who can.
+Games are meant to be enjoyed. By people —lots of people, if you
+want to make lots of money. Remember, you don't have to sell out,
+but you do have to sell. It's the name of the game.
+
+neck, you really shouldn't remove it.
+Talking to people is another good way to
+pass the time. Ask everyone you meet about
+everyone else; some interesting information
+can be picked up in this fashion. Of course,
+you'll have to make some allowances for personal prejudices, but generally, most of the
+people will be fairly honest with you.
+
+SUSPECT
+
+As told by Scorpia
+Come in, come in! My, you're looking a bit
+tired today. It must be from all that hitchhiking you've been doing. Settle in, and Fred
+will pour out something refreshing for you.
+However, don't get too comfortable; I'm
+afraid that you're going to be busy again very
+soon. It seems you're on the verge of being
+arrested for murder.
+It's a little bit unpleasant being a Suspect,
+isn't it? The police are busily collecting evidence against you, and you don't have much
+time to prove your innocence. Ah, but let's
+go back to the beginning here, and take
+things one step at a time.
+It starts at a costume ball being held by
+Veronica Ashcroft on Halloween evening in
+the luxurious Ashcroft mansion. Maryland's high society has gathered for an evening of fun and frolic, dressed in outlandish
+costumes, and seemingly without a care in
+the world. Of course, there are all sorts of
+things going on under the surface, and you,
+as a journalist, hope to pick up some choice
+bits for your paper. Murder is the last thing
+you'd expect here, so naturally one is committed. . . and the killer has thoughtfully
+framed you for the deed.
+However, don't panic (oops, wrong adventure!). With a little bit of help, and some careful evidence-gathering on your part, we
+might get you out of this jam. For instance,
+have you noticed the weather? It's a stormy
+night out there, with heavy rain falling (a perfect night for murder). You might want to
+keep an eye on the weather from time to time
+during the evening; it could be useful later.
+Certainly, you will want to make a VERY
+thorough examination of the scene of the
+crime. Don't overlook anything in the office;
+although an item might seem to be trivial, it
+may have an important bearing on the case.
+However, while Veronica may not look too
+pretty with your lariat wrapped around her
+
+Speaking of the people in the game, you'll
+notice they move around a great deal. This
+adventure has the most activity of any game,
+and you may get side-tracked into following
+harmless people to and from the bathroom.
+You have better things to do, so don't waste
+time shadowing everyone; choose with care.
+One nice thing about being inside is that
+you can unlock doors and windows (no need
+to go hunting around for keys). Use this ability to your advantage, and make sure you
+map the entire layout of the ground floor.
+Don't worry about the upstairs; that's not
+open to the public, and there is nothing important up there. The outside is not important, either; the barn, while enticing, is
+locked up, and you can't get in.
+Make sure you go into all the rooms. Some
+of them are empty, some have red herrings,
+but others contain important evidence (even
+if it doesn't look important). You can't afford
+to overlook anything; you MUST have all the
+evidence, or you won't be able to get a conviction. Also, from time to time, you might
+want to drop into the Ballroom for a few
+minutes, to see what's going on there. Events
+are happening in this game, and timing is
+crucial. Being in the right place at the right
+time can open up new areas of investigation
+for you.
+Sooner or later, the body will be discovered (you may want to be on hand when
+Veronica is found), and the police summoned. Once this happens, you have to move
+quickly. The detective assigned to the case
+is not especially bright, but Sergeant Duffy
+is no fool. However, all your communications with the police must be done through
+the detective, and he can be useful to you in
+having various objects analyzed (it's amazing how little interest he shows in your requests). That's about all he's good for, really,
+until the time comes to make the arrest.
+You will also need to present some evidence to him after he arrives (if you can find
+him; he moves around a lot, too). If you don't
+give him some other things to think about,
+Sgt. Duffy will be after you with the handcuffs, and that will be the end of the game.
+While you're at it, you might want to show
+some of the items you've found to several
+other people, too (before showing them to
+the detective, or you'll never see them again);
+you may get some interesting reactions from
+them.
+Once the detective has some material that
+incriminates someone else, you can breathe
+a sigh of relief and continue collecting more
+evidence. At one point, it will be necessary
+to do a little breaking and entering, but don't
+let that worry you; no one ever asks where
+or how you got your evidence (which is just
+as well).
+
+The end will come in the Ballroom. Eventually the detective will make his way there,
+and just hang out, "weighing the evidence".
+It's up to you to tell him who to arrest; if you
+don't, the game will simply go on and on indefinitely. Even though you have given him
+all the evidence necessary, he won't take the
+initiative (some detective!). Remember he
+has to have ALL the evidence, or you won't
+get a conviction.
+Now, for a final word (or several): the entire game hinges on a critical point. Until
+you have figured out what that is, you won't
+get very far, because you probably won't
+recognize evidence when you come across
+it. I'm not, of course, going to say what the
+critical point is; I'll just tell you that seeing
+is not always believing. Strange things can
+happen on All Hallows Eve! Especially with
+a devious murderer running around! But
+I'm sure that, in spite of it all, you'll come
+through in the end (besides, I know you've
+always wanted a Pulitzer Prize!).
+Before closing up the Tale for this month,
+I'd like to answer some questions that keep
+popping up in the letters I get. These questions are not related to solving adventures;
+rather, they are personal questions that some
+of the more curious among you ask from
+time to time. There are three of them that are
+asked the most, and they are:
+"Do you really play all these games yourself?" Yes! Each and every one of them, and
+others besides. Every game that has been
+covered in the Tale, I've played through to the
+end. And I don't use hint books of any kind.
+"I'm embarrassed to ask this but, err, are
+you male or female?" Amazing how often
+this one gets asked. So, for all of you who are
+wondering, I am very definitely female!
+(And those of you who sent letters with a
+heading of "Dear Sir" or "Dear Mr. Scorpia", don't let it worry you! It's happened before, and I've learned to live with it).
+"How about doing a column on the (insert
+title) adventure game?" Well, I'd like to oblige,
+but I have to keep in mind the adventures
+that are popular, and have the widest distribution. From the letters alone, Infocom
+games are asked about the most, followed by
+the Ultimas. All other adventure games
+come in a very distant third. That's why I
+concentrate on the Infocom games. However, if another adventure gets really popular,
+I'll do a write-up on it.
+If you have an adventure game question or
+three (it's perfectly all right to ask more than
+one question at a time!), you can reach me in
+the following ways:
+On CompuServe: GO GAM-310
+On the Source: SMAIL to ST1030
+US Mail (enclose a self-addressed stamped
+envelope):
+Scorpia
+PO Box 338
+Gracie Station
+New York, NY 10028
+That's it for this issue; see you next time,
+and happy adventuring!
+Copyright 1985 by Scorpia, all rights reserved.
+
+LETTERS (cont.)
+
+CROWTHERS & WOODS
+
+each state, and much more color variety (right now I have 25 colors-6
+shades for up to four candidates, plus the white undecided).
+• Overhauling of the entire campaign process, completely deemphasizing campaign finances, which are almost irrelevant anyway
+in a national race, and concentrating more on which issues to stress,
+how positive or negative the campaign rhetoric will be, and voter
+blocs (abstractly). Additionally, incentives will be added to states
+which are pretty much decided one way or another, thus preempting
+(I hope) Verdun-like struggles for key states (it's unrealistic as hell
+to visit California ten times each week for several straight weeks,
+yet, this type of thing happens, often in the industrial Midwest). I
+am going to try to include, albeit abstractly, the indirect effect of congressional races ...
+• Scrapping the debate routine and starting over, adding graphics
+for immediate feedback on points scored or opponent's points neutralized, elapsed time, and a large variety of attacking or defensive
+debating strategies (with a running clock, so you'll need to think fast).
+Further, a variety of debating formats.
+• A multitude of available data, so you can take as long as you like
+to craft an "ideal" (no such thing) strategy. . . including primarily
+a host of polls on who's ahead and how people feel about various
+things (candidate credibility, strength on particular issues, opinions
+on who won recent debates, etc).
+• Scenarios from 1900 -1988, with an improved way of determining conservative vs. liberal ratings (again, using graphics), and issues
+pertinent to the election being recreated. By the way, debate questions
+will also be pertinent, though there will be no debates prior to 1960
+scenarios.
+• Layered rules; in other words, the option to add or delete timeconsuming chrome features.
+• Slightly improved election night routine. Obviously, faster. Also,
+one where you don't need to press any keys unless you want to key
+in on a particular state...the whole thing will run until someone wins
+(which won't take so long unless the players choose the slowest
+option).
+• Better documentation. . . this is key. The original rules were
+slapped together in about two nights, believe it or not, and my "rough
+draft" was printed with almost no editorial changes or comment!
+I'll be more careful next time! And less coy about how things work.
+• Optional printouts of virtually everything except graphics. I
+received several requests for this.. .
+So as you can see, I've got a pretty nice package in mind, certainly
+a two-sided disk and possibly requiring 64K and (maybe as an option)
+two disks, one for game data—polls and stuff eat up RAM and SSI's
+disks are, due to write-protection, read-only, so the data has to go
+somewhere.
+Thanks again for your remarks in the January issue; it may make
+me a few bucks and, more importantly, build up my prestige. . . do
+you think I should send your comments to Jesse Helms?
+Nelson G. Hernandez
+Ed.: You would not want to forward any comments we might have
+for Jesse Helms.
+Seriously, we DO have a suggestion for PE that we feel strongly about.
+We would like to be able to play PE without the onus of incumbency.
+If you added an option that would disenable the formulas that figure
+the advantage/disadvantage of the incumbent party or candidate, players could compete directly with each other. They set themselves up
+as the candidates (through your political rating routine) and each stand
+a more equal chance of winning (since the question of incumbent party
+would not be in the way). We realize this would not be as historically
+accurate, but then again, how many of our readers will actually run
+for president?
+
+Dear Editor:
+The "Commodore Key" column in your December issue made the
+mistake of most chronicles of adventure's history—the assumption
+that Crowther's inspiration for the first adventure game was Dungeons & Dragons. While researching a book on the subject last summer, I spoke with Crowther and Woods. Crowther said he wrote the
+original version in 1967 or '68 (he didn't remember exactly), which
+predated Gary Gygax's role-playing game by several years.
+Interestingly, Crowther says he did previously play a game with
+a similar theme, Mirkwood (named for a locale in J.R.R. Tolkien's
+Lord of the Rings. It was devised by a friend and never available commercially. An amateur spelunker, Crowther was also influenced by
+his experiences mapping Kentucky's Mammoth Cavern for the National Parks Service. (Now you know why caves and the need for
+map-making are so common to adventuring.) He wrote the game "to
+entertain my children" while working at a research firm in
+Cambridge.
+Don Woods says he never played Dungeons and Dragons until after
+rewriting and expanding Crowther's game around 1975. He's now
+at Xerox's Palo Alto Research Center.
+The book — From Apshai to Zork: The Legend and Lure of Computer
+Adventure Games — will be published by Simon & Schuster this
+spring. I've also enclosed a copy of QuestBusters, my monthly newsletter devoted to adventures and role-playing games.
+Shay Addams
+
+Ed. Note: "QuestBusters, The Adventurer's Newsletter" is a 12 page
+monthly newsletter apparently produced on a Macintosh. At $15.00
+for twelve monthly issues, the price is a bit steep. However, Addams
+seems to know his subject and a lot of information is contained in each
+issue. For information on QuestBusters, contact The Addams Expedition, 202 Elgin Court, Wayne, PA 19087.
+
+I happen to like the German Panther and
+Tiger Tank. If I wished to play a game which
+used both the Tiger and Panther tank I
+would set up a scenario in which I was the
+German player, in a German assault, in
+Late-43, with a Panzer force. From the
+weapons list I would then chose the Panzer
+to get the Panther tank and the Heavy Panzer
+to get the Tiger tank. Additionally, I might
+add some tank destroyers or recon units. A
+little hint here. If you chose an Engineer
+company the troops will be armed with
+Flamethrowers, which make an excellent
+anti-tank weapon. The variety of combinations is endless and if you get tired of German forces then you can let the computer be
+the Germany and you take the Soviet side.
+DEPLOYMENT
+After selecting the parameters, the game
+will move into a one-time Deployment
+Phase. I usually start this phase by scrolling
+around the map and getting a general idea
+of the terrain. If I don't like the terrain, then
+I may change it by replacing existing terrain
+with what I want. If I had used the autodeploy feature then my units would already
+be deployed on the map and trucks would be
+loaded with infantry and weapons. By not
+using auto-deploy then I would determine
+the starting locations and load the trucks
+myself. When completely satisfied with map
+and forces, I then exit the Deployment Phase
+and the game begins by setting a visibility
+level and moving to the first players Orders
+Phase.
+ORDERS
+In KG, orders may be given from the "Map
+Mode" or the "Units Mode". There are 22
+unit mode orders available. Some of the orders are only for individual units while others
+may apply to the entire combat formation.
+COMBAT
+To give you an idea of Combat in KG I
+would like to do a short re-play of a scenario in which I played the German and the
+computer was the Soviet. The battle was a
+meeting engagement, in late-43, with a Panzer force. I chose the late-43 time frame because the Germans had the Panther medium
+tank which the Russians had not yet countered. .8 (Ed. note to author: You bully!) I
+chose a force consisting of two Panzer companies, one tank destroyer company, and one
+recon company. I saved 6 selection points
+which gave me some victory points. The objective of the meeting engagement was a
+road, flanked by woods, with some hills
+nearby.
+The computer gave me the usual "A" combat formation with headquarters, trucks,
+Hummel artillery, Wespe artillery, 88Flak
+anti-tank guns, and a SIG33 assault gun. My
+"B" formation was a Panzer company of PZIVG Tanks, with 0 as the Headquarters and
+
+1 thru 3 as the individual units. I had a total
+of 16 PZ-IVG Tanks. I had chosen to play a
+small battle. If I had chosen a large battle I
+would have had twice as many Tanks. My
+"C" formation turned out to be the Panther
+Tanks. My "D" Formation was the tankdestroyers and the computer gave me Marders. I changed those for Nashorns with their
+longer range and higher penetration rating.
+My final unit was "E" with my SK231 armored cars. They represented my recon
+ability.
+I was later to find out that the Russians
+had chosen the KV-IC as their heavy tank
+and the T34/76C as their medium tank. They
+also had some T-70 tanks, some heavy machine guns, some 76 anti-tank guns, some
+82mm mortars, and some infantry. After
+deployment, the battle was on.
+My initial move orders required three
+turns to achieve and I encountered no enemy units during the movement. My initial
+placement involved putting the artillery and
+headquarters units on the top of a hill just
+Northwest of the objective square with the
+remainder of the force on lower levels of the
+hill. The soviet forces became visible on turn
+four as they emerged from the woods and attacked my hill positions. The computer had
+made a mistake in bringing its forces out of
+the woods too far from my position. My artillery opened up and I had set the Panthers
+to maximum range so they started firing
+also. By the time the T34's had closed to
+range, they were already hurt. My artillery
+and Nashorns were able to suppress the larger
+Russian tank forces thereby reducing there
+search and hit capability. At one point a
+company of 10 T-70's rushed my 88Flak
+guns. My guns took their toll but the tanks
+were able to get all 8 of my 88's. By turn 20,
+I had reduced the Russian force to one heavy
+machine gun, a few 76's, and an 83 millimeter mortar. I had lost the last of my PV-IVG
+tanks to an ambush by the Russian 76's. The
+armored cars, and most of the Panthers were
+also smoldering wrecks but I inflicted more
+damage than I took and the computer
+declared me to be the winner.
+
+SUMMARY
+At $59.95, KG is on the expensive side, but
+it is well worth the cost. The computer intelligence seems good when on defense or
+pursuit but it's single minded desire to destroy the enemy makes it easy prey in a computer assault scenario.
+SSI tells us that they are currently testing
+a new game based on the KG system which
+would involve combat on the Western
+Front. I will be watching for that one.
+Ed. Note: Feedback from some of our readers indicate that this could become SSI's most
+popular game to date. Beyond the Western
+Front game to which Mr. Bausman refers, SSI
+is also working on a modern armor game
+based on the Kampfgruppe system. It looks
+like Gary Grigsby has given us another
+winner!
+
+WAR IN RUSSIA (cont.)
+what (if anything) I accomplished in the second half of our game. Well perhaps a few
+excerpts from my official War Diary will give
+you an idea: "attack from Bryansk gets six to
+one odds but doesn't force a retreat." "northeast of Bryansk, a 5:1 does nothing." "North
+of Stalino, I get 10:1 odds but the defenders
+are just one cavalry division." "Near Rzhev,
+a 3:1 gets nothing." "Two 5:1 attacks, but neither takes a hex." It goes on and on like that.
+It was perhaps not all that bad, and we did
+manage a few interesting things, but most of
+my attacks did not capture hexes. A prime
+reason for this was the "entrenchment technique" which Kirk used; the other reason
+was Kirk's able generalship and his ability
+to predict from turn to turn where the
+weight of my attacks would fall. The "entrenchment technique", as Kirk explains it
+to me, involves using a very weak unit behind
+your front line. As this unit just sits there in
+supply from turn to turn, it will be able to entrench to higher and higher levels. When the
+front line is pressed, a good unit can move
+in with the skeleton unit. Then, when all of
+the good divisions are transferred into the
+skeleton unit, they automatically have the entrenchment level of the unit into which they
+moved. Kirk basically keeps a small fraction
+of his army constantly busy digging enough
+trenches for all the rest of his army. I never
+seem to attack a hex that is not well entrenched. And you don't know frustration
+until you've tried to knock the Russian army
+out of their trenches!
+Trenches and initiative; these are the two
+concepts of WIR which have made lasting
+impressions. You may remember that the
+first installment of our story ended with a
+German advance of two hexes by an armored unit to a spot northwest of Voronezh.
+I also had an infantry unit advance one hex
+so that the armor was in contact with the rest
+of my forces. Well, on Turn Five, the computer made Kirk the "first player" in the tactical movement segment. (Each turn, there
+is a 5-10% chance that the Russians will
+move first in the turn, with the chance increasing as the war progresses). Turn Five
+just happened to be one which was selected,
+and so Kirk's forces were moved first. He attacked the infantry unit behind my armor
+and forced it to retreat; this put my armor out
+of supply and isolated. Further, I had plotted
+a one hex retreat for my armor to join the infantry unit, as I felt that the armor was too
+exposed and wanted to reinforce the infantry behind it. Instead of joining my infantry,
+my armor unit found itself attacking the Russians which had just cut it off. The attach
+was resolved at one-to-one odds and, of
+course, did not move the Russians; this was
+not at all how I had planned for things to go
+on this turn! I am not sure what can be done
+about the initiative question, I guess that the
+moral is just that the Russians will be given
+the first move only whenever it can do you
+the most harm (this was the only turn in our
+game for which they received the first move).
+
+ATARI (cont.)
+
+Turn Six was spent getting my cut off armor back in touch with my forces. They
+came through the ordeal at about 70%
+strength and about a 40% fatigue level. That
+was better than I had feared they might suffer, and this was because we got them back
+in supply quickly. Turn Seven marked the assault on Rostov which captured the city. Kirk
+had put hardly anything there, and we took
+it easily at 8:1 odds on our first assault. Kirk
+obviously hoped that I would pursue a
+southern strategy, and presented a very weak
+front down there while building reinforcements north of the Donets between
+Voronezh and Stalingrad (poised to cut off
+my advance). Actually, I consider it a major
+accomplishment that I resisted the temptation and maintained my force almost completely in supply throughout the game. It
+would have been very easy to follow the
+historical path of easy initial victories and
+advances into that southern wasteland.
+Within the time frame of thirteen turns, my
+position might have looked very good, but
+mortgaging the future of the Third Reich to
+look good in October did not seem like the
+right way to play it.
+
+other special device). This feature has been
+standard on business micros for several
+years. For on-line gamers, this means oneless interface device to purchase. There's
+also a built-in parallel interface port for output to a printer.
+Now, how much would you pay for a computer with all of these features? But wait,
+there's more.. .
+A disk drive port for plugging in 3.5 inch
+disk drives for disks that can store up to
+500K.
+A hard disk interface port (to connect to
+the new Atari 10 megabyte hard disk drive).
+A TV modulator and monitor jack.
+A color, high-resolution monitor jack
+(R.G.B. Analog)
+A monochrome high-resolution monitor
+jack
+A keyboard that features an eighteen key
+numeric keypad, editing keys and ten function keys.
+Built-in BASIC or Logo.
+The announced price for the 130ST is less
+than $399 and for the 512K less than $599.
+Even though these prices do not include a
+monitor or disk drives, they do seem so incredibly low that one must ask if Atari can
+deliver the ST's at anywhere near the price.
+After that, the question that faces every
+new computer announcement must be
+raised: will third party developers create
+software for the new line? Perhaps, since the
+ST's and the Mac use the same central
+microprocessor (the Motorola 68000), developers will try to serve both markets at
+once (just as many create Atari, Commodore,
+and Apple versions of the same program
+since all three use a version of the 6502 chip).
+What About The One I Just Bought?
+If you have recently invested in one of the
+Atari XL computers, you may be disappointed to learn that the new ST line is NOT compatible with the 400/800 or the XL's.
+However, if you are familiar with the questionable "success" of the Apple III, which
+has an emulation mode to allow it to run Apple II software, you might reach the same
+conclusion that I have that "maintaining
+compatibility" is a good way of hamstringing the new computer's design and of telling
+third party software developers that there
+is no need to design software for the new
+machine.
+Just because the new line is not compatible
+with the old one does not mean that Atari
+is abandoning those of us with heave investments in our Atari computers. Atari will
+continue its family of 6502-based 8-bitters
+with the new 65XE and 130XE personal
+computers. Atari says the XE's are
+
+Turns Eight through Twelve had quite a
+bit in common. They all had three to five
+German attacks at various points from the
+north-center (Rzhev) to the south-center (between Voronezh and Rostov). We averaged
+one or two hexes captured each turn, but all
+of the Russian positions had been backed up
+by units on entrenchment duty, and therefore the Russian line was never in danger of
+any large scale breach. A few of our attacks
+were not well considered and resulted in low
+odds, but the majority achieved between 2:1
+and 7:1 odds. Unfortunately, entrenchments
+reduced not only the chance of a retreat, but
+also the defender's casualties, so that I cannot be certain as to how the balance of the
+losses were going.
+
+I did get one breakthrough, but it occurred
+on the last turn that we played. After the
+game, Kirk explained why he wasn't too concerned about it, and I am inclined to agree
+that it did not amount to much of a threat.
+Still, it was nice to see an attack north of
+Kursk get 7:5:1 odds and take a hex. Then,
+both of my attacking armor units advanced
+and made second round attacks to the north.
+They attacked one of the few hexes which
+had yet to be "pre-entrenched", and got a
+16:1 attack which cleared a second hex into
+which they both advanced. This put them
+only two hexes south of Moscow, without
+any entrenched hexes in front of them. Unfortunately, they were not connected to the
+rest of my line, and they had sliced between
+two very strongly held Russian hexes. That
+left two strong forces on the flanks of my advanced, all set to close around me. What
+would have happened is anyone's guess, but
+somehow I doubt that I was suddenly on the
+way to a quick and easy victory!
+
+10%compatiblewh40/8,12XLand
+600/800XL computers. (This is an interesting
+claim since these computers are not even 100%
+compatible with each other). However, a
+great degree of compatibility is likely, since
+first analysis indicates that the 65XE is essentially an 800XL in a new case.
+The 65XE will reportedly sell for about
+$120 — the same low price as the 800XL.
+
+And, the 130XE, which is basically an 800XL
+with 128K RAM, will sell at an especially attractive price —under $200.
+In addition to 65XE and the 130XE, Atari
+has announced the 65XEM and a 65XEP
+personal computers, plus a variety of
+printers (dot matrix, color, and daisy wheel)
+and an 80 column color monitor that will
+be compatible with all Atari 8-bit computers.
+The M in the 65XEM stands for Music.
+The machine is billed as a super music maker that you will be able to hook-up to your
+audio system. This machine will have 64K
+RAM, eight independent voices, and
+changeable music features. The output from
+the special chip in the XEM is supposed to
+be virtually indistinguishable for music
+made by acoustical musical instruments.
+Whether games will be created to take special advantage of this machine will probably
+depend a lot upon third party developers.
+The 65XEP portable is designed with a
+shoulder strap, a built-in 3 1/2 inch disk
+drive, and a built-in 5 inch monochrome
+monitor. The suitability of the XEP for
+"games on the go" is questionable, given the
+tiny size of the monitor and its lack of color.
+Finally, to help us keep everything straight
+when it comes to buying peripherals and
+software, Atari is color-coding everything
+and supplying wallet-sized reference cards
+for in-store shopping. The XE line will be
+red; the ST will be blue. This strategy is undoubtedly aimed both at aiding consumers
+and at convincing retailers that consumers
+will be able to come in and accurately select
+appropriate hardware and software without
+the need to talk with a knowledgeable
+salesperson. This is important, as many
+general merchandise and discount department stores (like Penneys and K-Mart) have
+been stung by their inability to move computer goods which require a knowledgeable
+sales staff. These retailers are now shy (or
+at least, a little bit wiser) when it comes to
+carrying a new line of personal computers.
+The Future
+As for the XE's: Atari's announcement to
+stick with us is perhaps the best news of all.
+In case you haven't noticed, lately more and
+more third party manufacturers have slowed
+development of software for the Atari computer, fearing that it was about to take a cottage by the sea with the Texas Instrument's
+99/4A and Coleco's Adam. News that Atari
+is fully supporting its old line may give some
+of the wary game developers the impetus to
+jump back into Atari's software market. Let's
+hope so.
+As for the ST's, if the Atari can produce
+the ST's with all the features that they announced, and if the new machines aren't
+plagued with hardware bugs and glitches,
+and if retailers carry the line, and if the price
+is as low as Atari says it will be, and if thirdparty manufacturers develop software for it,
+and if we consumers (garners and nongarners) buy the ST's, then Atari may survive. And, maybe, just maybe, Atari will regain its position as the leader in the world
+of computer gaming.
+
+There were 336 RIDs turned in by press
+time for this issue.
+Newly rated games and updated game ratings are listed with bold type in the table
+on page 46. The breakdown buy machines
+was: Apple — 40%; Atari — 37%; C-64 —
+20%; IBM— 3%.
+GAME RATINGS
+The Game Ratings Table includes games
+evaluated by our readers. For a game to be
+included in this listing it must first have
+been offered for rating in our regular R.I.D.
+rating system. Games offered for evaluation
+are those covered in the magazine, those
+having a good sales record during the time
+of evaluation, or those which were previously rated and we think need updating. Once
+offered for evaluation, the game must have
+been evaluated by a sufficient number of
+readers to be included in the results. Any
+game not evaluated by at least 10% of the
+respondents was not included in the results.
+Games were rated on a scale of I (terrible)
+to 9 (outstanding). Respondents were asked
+to consider such things as PRESENTATION (graphics, sound, packaging,
+documentation); GAME DESIGN (design,
+playability, interesting?); LIFE (does the
+game wear well?)
+MAJOR OVERHAUL OF R.I.D. IN
+PROGRESS
+A major overhaul of our R.I.D. rating system begins with this issue. Some of the
+games on the R.I.D. chart are old and out
+of date. Others have not been rerated for a
+long time. So the first step in our renovation
+is to re-rate a lot of the old games and drop
+a lot of others from the list altogether. The
+R.I.D. results on page 46 are the last ones
+to appear under our old system.
+The renovation will be in two phases.
+R.I.D. #19 institutes phase one. We are asking you to re-rate a large number of games
+that are already on the list but need updating. At the same time we will delete a number of old games from the next listing of
+R.I.D. in June-July.
+In phase two, we will be creating a database of all past R.I.D. scores that will be updated each time a game is re-rated. The
+resulting score will be a composite of that
+game's performance over all R.I.D. ratings,
+not just the current rating. We feel forced
+to do this in light of recent wide fluctuations
+
+in scores of several re-rated games. We feel
+this composite score will give you a more
+accurate appraisal of the game's value (larger samples make for more accurate results).
+RID #19 (Use card provided)
+On this page a number of games are listed
+for evaluation. Use the guidelines above for
+game evaluation (i.e. PRESENTATION,
+DESIGN, LIFE). For each game you rate,
+place a 1 through a 9 next to the appropriate
+number. Leave blank any game which you
+have not played enough to have formed an
+opinion.
+
+A
+
+COMMODORE KEY (cont.)
+profitable success are clones of the original
+game which are usually less of game, less
+of a success, and certainly of less value to
+the buyer who thinks he is getting just as
+good (or better) according to this new game's
+advertising, but for a lower price. Buyer
+beware!
+However, sometimes there comes a game
+that truly expands on the originality of the
+first and adds a significant number of additional new features that make this game,
+though similar to the first, worthy of consideration and buying. A recent example of
+this game is WIZARD, from Progressive
+Peripherals and Software. (It's a small company, so you will not see the game in many
+large mass-marketing stores.)
+WIZARD has great similarity to one of my
+all time favorites. .. JUMPMAN. It has ladders and ropes and moving objects to avoid.
+The wizard runs, jumps, claims and falls.
+You have 40 screens at different selectable
+or random levels of play. And now for the
+extras... the wizard has two possible objectives on each screen. He can gather three
+types of treasure items (like the Jumpman
+bombs) for points or get a key and take it to
+a lock, allowing you to go to the next screen.
+This latter action will give you bonus points
+for early completion of the screen. Once you
+get the key, the wizard is given a certain number of spells (FREEZE, FIREBALL, INVISIBILITY, TRANSPORTABILITY, etc.) These
+can be used against the various things that
+keep you from easily gathering the treasure
+items. In addition to jumping, the wizard
+can also duck to avoid moving objects. Play
+action is enjoyable and very similar to that
+of Jumpman.
+The big extra feature is that this game has
+a construction option that lets you very easily create your own screens. My nine year
+old son was playing the game and I left the
+room. When I came back, I found that he had
+found the construction option and had built
+a very involved and good looking screen
+without reading the very extensively written
+manual. That was impressive!
+In addition to Wizard, there is a WIZARD
+EXPANSION program that has 40 more
+screens. Half of these were created by users.
+Additional screen building capabilities have
+also been added. If you liked JUMPMAN,
+this one will keep you jumping too.
+COMING UP NEXT ISSUE
+Next issue I will be discussing the "tools"
+used by game programers. The software and
+hardware items available to help design,
+write, and debug programs. I will also discuss some of the game construction software that is available. If you have any
+questions, comments, or suggestions pertaining to this column, send them to me using the mailing address for this magazine.
+I am also available as ROY W on PLAYNET
+(the National home computer network for
+Commodore 64 owners).
+
+R.I.D. was prepared with the help of SPEED STAT by SoftCorp International, Westerville, OH 800-543-1350
+
+See page 40 for details on the Reader Input Device
+
+

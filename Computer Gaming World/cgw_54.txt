@@ -1,0 +1,4412 @@
+December 1988
+
+Features
+Don't Tread on Me!
+
+8
+
+Accolade's "Steel Thunder" Reviewed / Wyatt Lee
+
+The Emperor's New Clones
+
+12
+
+Tips from a Designer of "Empire" / Mark Baldwin
+
+"Stealth Mission"
+
+14
+
+Sublogic's Flight Simulator Reviewed / Brad Bombardiere
+
+Roses and Thorns for Rosella
+
+19
+
+Scorpia Reviews "King's Quest IV"
+
+Interview with Roberta Williams
+
+21
+
+The Force Behind "King's Quest"
+
+"Manhunter: New York"
+
+24
+
+Scorpion's Tale Offers Hints
+
+Point / Counterpoint on "Pool of Radiance"
+
+28
+
+SSI's Adventure Reviewed
+Tracie Forman Hines / Ken St. Andre
+
+"Starglider II"
+
+31
+
+Rainbird's Action Game / Frank Eva
+
+Banzai Strike Line
+
+32
+
+SSI's "Typhoon of Steel" / Evan Brooks
+
+The Color of Magic
+
+36
+
+EA's "Sentinel Worlds I: Future Magic" / Scorpia
+
+"Battles In Normandy"
+
+42
+
+Strategic Notes on the SSG Game / Joe Sherfy
+
+Leadership in the American Civil War
+
+44
+
+Notes on the SSI Games / Major David S. Stevens
+
+"Decisive Battles of the ACW: II"
+
+49
+
+SSG's Second ACW Game Reviewed / Jay Selover
+
+"Dragonlance" Invades The Computer
+
+54
+
+SSI's "Heroes of the Lance" / David M. Wilson
+
+50th Issue Contest Winners
+
+69
+
+The Master Scavenger Hunters Revealed
+
+Departments
+Taking a Peek
+Letters
+Video Gaming World (Katz, Kunkel, Worley)
+Reader Input Device
+CGW Hall of Fame
+Game Ratings
+
+4
+6
+64
+71
+71
+72
+
+Number 54
+
+Taking A Peek
+
+Access
+545 W. 550 South
+Suite 130
+Bountiful, Utah 84010
+HEAVY METAL: This is not a rock
+music drum simulator. Instead, players
+advance in rank while commanding one
+of three weapon systems in this modern
+land combat action game. The player
+plots strategy on the battle map screen,
+then undergoes the test of fire in a
+M1A1 Abrams, a XR311 Fast Attack
+Vehicle, or an ADATS Air Defense AntiTank System. Anyone for Officers Training School? C-64/128 ($39.95). Circle
+Reader Service #1.
+
+Accolade
+550 S. Winchester Blvd
+Suite 200
+San Jose, CA 95128
+RACK'EM: Players can "Hustle" up
+some action anytime of day or night
+with this billiard simulator. The game
+plays snooker or four different variations
+of pool. Control the strength, aim and
+english on each shot against a live opponent or the computer, while learning
+the real color of felt. IBM/Tandy ($39.95)
+C-64/128 ($29.95). Circle Reader Service #2.
+GRAND PRIX CIRCUIT: Players compete against world class drivers, each
+with his own characteristics, on a variety
+of tracks around the world. After selecting a driving team and car, players must
+qualify before venturing onto the tarmac. Then it's "Gentlemen, start your en-
+
+gines." IBM/Tandy ($39.95) C-64/128
+($29.95). Circle Reader Service #3.
+JACK NICKLAUS GREATEST 18
+HOLES: You don't have to leave the
+19th hole to play Jack's greatest 18 in
+this challenging golf simulator. Players
+select the appropriate club, allow for
+wind conditions, slice or hook, and control club speed while trying to stay in
+bounds and out of traps. Putting must
+allow for breaks in the green. One to
+four can play and Jack will join your
+group if you like. IBM/Tandy, Apple IIGS,
+Amiga ($49.95) C-64/128 ($29.95).
+Circle Reader Service #4.
+
+CEED
+13221 Edina Way
+Poway, CA 92064
+CROSSWORD PUZZLE GENERATOR: You'll never be at a loss for
+(Continued on page 66)
+
+Letters
+
+64K machines, but we, as garners, have
+become jaded by unfulfilled promises.
+. . . [Stellar Crusade] is as close to
+my idea of a "perfect" wargame as I
+could come to at the time. In effect, I
+created the game I had always wanted
+to play. The immersion in detail that I associate with the best of the board wargames is coming to the computer world.
+
+Stellar Rebuttal
+As the designer of SSI's Stellar
+Crusade, I would like to respond to
+recent criticisms of the game. I will
+begin with a bit of general gaming
+philosophy, then move on to address a
+few specific questions.
+This was
+my first
+attempt at
+a "professional"
+game
+program.
+Over the
+years, I
+have
+played
+many of
+the
+popular
+game
+programs
+available
+for home
+computers.
+Some of these games have been very
+good, but almost all have been "thin."
+Like many of my age (31), my introduction to the world of gaming was through
+the vehicle of board wargames. All of my
+personal favorites in that genre have
+rules documents which make the
+average person not familiar with those
+types of games recoil in horror. As one
+of my friends once put it, such games
+are "too much like work." I realize that
+not everyone out there in computer land
+has my taste for complete immersion in
+detail, but some of us (and apparently
+most of those who have reviewed the
+game) enjoy complexity.
+If there is any major failing in Stellar
+Crusade, it may well be in the packaging and not in the rules. One reviewer
+has stated that "Stellar Crusade's complexity level demands a warning label . .
+. ." Perhaps this is true, in a way. But
+part of the problem here is that most of
+the games which in the past have been
+touted by sales/packaging people as
+being rich in detail have, in fact, been
+less than detailed in execution. This is to
+be expected from programs written for
+
+In the August '88 issue of CGW, Stellar
+Crusade was reviewed by Hosea Battles.
+I have to admit that your reviewer's comments on the lack of documentation of
+the research function in the game were
+essentially correct. We should have
+caught this in our review of the rules
+manual. All copies of the game
+produced after the appearance of your
+review include an expanded README
+file on disk which describes research, as
+well as some additional documentation
+on other game functions. I am a bit confused about the comment in that same
+review that "[the manual] never clearly
+explains the economic principles of the
+game . . . ." The manual does state the
+basic operations of raw materials and industrial production. This is reinforced by
+prompts, cautions, and notes on the
+economic function screens. Players will
+find that assimilating and integrating all
+of this information will require that they
+become very involved in the game. Experimenting with different colonization
+and industrial strategies in an attempt to
+exploit the rather complicated "economic
+principles" of the game is part of the fun
+for those of us who like games that
+others feel are "too much like work." All
+of the information needed for this is, in
+fact, given in the manual and on the
+screen. For those who don't mind taking
+a bit of advice, the program gives concrete, dynamically calculated suggestions which will help in acquiring an understanding of the economic side of the
+game.
+The original rules manual for the game
+was, in fact, much longer than that
+which was originally published. Some
+have suggested that the game would be
+much easier to learn using the original
+manual. This might not be the case.
+The primary difference between the
+original and published manuals was a
+rather tiresome list of menu trees and examples in the original. While it might
+have been useful in some ways, most of
+the information deleted from the final
+version of the manual is easily available
+on the screen. Twenty minutes of random fiddling with the menus will teach
+players all there is to know about them.
+If the information were not available on
+screen, it would have remained in the
+manual. The decision to shorten the
+manual was taken in order to avoid
+obscuring the basic principles of the
+
+game with masses of information on
+program mechanics. The program
+mechanics are well detailed within the
+program itself.
+Finally, I would like to reassure those
+who have expressed concerns about my
+use of the term "aborigines" to describe
+the indigenous populations of some star
+systems. Please consult your dictionaries. I did. The term does not, in
+general, apply to any specific racial
+group. Within the context of the game,
+aboriginal populations are assumed to
+be exploited. This may not be the way
+we'd like things to be in the future, but
+history and current trends suggest that
+those without the strength to resist subjugation will continue to be exploited.
+Believable futures cannot exist in a historical vacuum. For what it's worth to
+the people who worry about my "racist
+attitudes," one of my greatgrandmothers was named "Shining
+Meadow" (American Indian). My ethnic
+heritage is quite mixed and I am offended by accusations of racism. From
+my association with the folks at SSI, I
+suspect that they aren't very pleased
+about the "neo-Nazi" label, either.
+Norman C. Koger, Jr.
+Huntsville, TX
+
+Ed: We pointed out the dictionary
+definition of the word, "aborigine," in
+our original answer to Mark Brown's
+letter (CGW #52). Be it hereby resolved
+that all further references to indigenous
+native populations use the term "autochthonous."
+
+No Fooling
+I just read the
+review of The
+
+Fool's Errand
+by Alan
+Roberts in the
+October '88
+issue, and I
+was dismayed
+by his putdown of what
+he calls the
+"button pushing" puzzles.
+Those puzzles were among the best and
+most original puzzles in the game!
+Roberts implies that the only solution to
+them is trying every possible combination by trial and error. In fact, each button affects the starting word or phrase
+according to a hidden rule, such as
+"Remove all A's" or "Replace any T with
+an E followed by a space." The player
+must deduce those rules and then use
+(Continued on page 59)
+
+Review
+
+he
+
+very mention of the
+M-1A1 tank conjures
+up images of cost overruns, technical failures, inefficiency (four gallons of fuel
+to the mile), and a vulnerability to Soviet anti-tank
+shells. The General
+Dynamics M1A1 tank has
+had one of the most checkered pasts in the procurement process and has
+probably received more bad
+press and congressional opposition than any other
+military vehicle.
+
+T
+
+Don't Tread
+On Me!
+Accolade's "Steel
+Thunder" Modern Armor
+
+Steel Thunder is an intriguing simulation of
+modern armored combat
+from Accolade. The
+quality of this program
+suggests that modern
+tanks are getting a bad
+reputation and the
+scenarios invite the
+player to decide the
+issue for himself. In fact,
+the technical accuracy of
+this program will surprise
+those who think of Accolade as simply a
+publisher of action
+games. Until Steel
+Thunder's release, Apollo 18: Mission to the
+Moon has probably been
+the company's most
+reality-based product.
+The care taken with
+Steel Thunder may be illustrated by the length of
+the manual. It is 43 full
+pages (as opposed to
+the 22 in Apollo 18) and
+contains enough facts,
+figures, diagrams, and
+hints to move the player
+well on his way to promotion and success. In addition, the product includes a keyboard overlay to
+simplify play.
+
+Profiles in Tonnage
+
+by Wyatt Lee
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+The Soviet forces are well-represented, with a good
+mix from those old T-55s and T-62s to the modern vehicles with
+125mm guns, BMP-2s (the most modern armored personnel carriers with their 30mm autocannons), BTR-70s (light-armored infantry carriers—no BTR-80s, but they are still deployed in limited
+numbers), Shilkas (self-propelled anti-aircraft vehicles), Gaskins
+(reconnaissance vehicles with SAM launchers), and SAU 152s
+(self-propelled 152mm guns). The omission of the 2S7 selfpropelled 203mm gun or 2S4 self-propelled mortar might be
+something of a disappointment to modern armored warfare enthusiasts, however.
+United States forces include the: M1A1 Abrams tanks, M60A3
+updates of the Patton series, M3 Bradley fighting vehicles, and
+M48A5 Patton medium tanks. The control panels of each of
+
+Steel Thunder
+C-64/128
+1
+$29.95
+Tom Lough!),
+Accolade
+San Jose, CA
+
+' these vehicles have been
+meticulously modelled and
+offer a distinctive look with
+operational gauges, dynamic
+toggle switches, and functional indicator lights in the appropriate places. Perhaps of
+greatest significance, is the
+modelling of the effect of
+gun stabilization systems on
+all but the M48A5 Patton.
+This system has been part of
+the U.S. edge in armored
+vehicles up until the Soviets
+started including it on newer
+T72s and T80s.
+
+Even better than the
+mix of vehicles, however,
+is the way that Loughry
+has graphically implemented the various
+tanks. When the player
+first sees another vehicle,
+it appears as a miniscule
+black square. As the
+player's tank closes on
+the other vehicle, it appears as an identifiable
+silhouette. These silhouettes are not only important for identification
+of friends and foes, but
+also provide important information on target
+facing and direction of
+movement. As the player
+becomes more proficient
+in recognizing these silhouettes, he gains an advantage in being able to
+load the most efficient
+type of ammunition
+against that particular target as early as possible.
+Loughry programmed
+this feature by taking the
+time to study lead miniature tanks used in table-top battles. By examining
+these miniatures from several different angles, he was
+able to provide these recognizable silhouettes.
+
+Devil Coaches and Hell Wagons
+
+In Steel Thunder, players take the viewpoint of commander of a modern tank. Although the simulation's design allows the player to view the landscape and action from three
+angles (driver, gunner, and commander), the perspective of play
+is definitely that of command. The commander is given the mission briefing at headquarters, selects his equipment and ammunition with regard to the mission and expected opposition,
+and selects a three-man crew (driver, gunner, and loader). Available crew members are selected from a roster that offers a letter
+grade from A (best) to D (worst) in three different facets of their
+assignment. Drivers are graded in driving speed, maneuver
+speed, and evasion speed; gunners are rated on day accuracy,
+night accuracy, and aim speed; and loaders are rated on reload
+speed, switch (types of ammo) speed, and fatigue. Crew selec-
+
+tion is not simply chrome, but offers significant impact in the
+game.
+Tanks have had a tremendous shock value in land warfare ever
+since their first major impact on a battle at Cambrai (in World
+War I). At Cambrai, demoralized infantry called the tanks, "devil
+coaches." In modern combat, the propensity for tanks to catch
+fire and metamorphose into smoldering rubble may merit the
+term, "hell wagon." The scenarios included in the game have a
+tendency to emphasize shock value and suicide missions as opposed to highly coordinated combat team missions. This is
+probably the weakest part of the reality being simulated. Many of
+the missions would seem better suited to infantry. For example,
+ambushing a light armor convoy of trucks, BTR-70s, and a BMP2 would be accomplished more effectively with infantry. Once
+the enemy is in the center of the ambush, there needs to be
+someone to close
+the trap. How can
+you do that with
+one tank? Another
+scenario involves
+destroying an
+enemy mortar post.
+Wouldn't it be better to use artillery
+against that position? In fact, the
+only armored
+vehicle in the
+simulation that
+would be likely to
+get an assignment
+like these would be the M3 Bradley, not technically a tank.
+
+Rumbling "Rambo" Raiders
+Nevertheless, if one is willing to accept the questionable
+military doctrine in the scenarios, the missions can be thrilling
+and exciting. In this way, the missions become more Rambo
+than reality, but still have plenty to commend them. The missions take place in three different theaters of operation: Cuba,
+Syria, and West Germany. The graphics do a good job of portraying the different terrain styles (although the West German
+scenarios may allow the ranges to be too long for those broken
+landscapes) and the landscapes scroll by realistically, depending
+on tank speed, direction, slew rate (how fast the turret or miniturret turns) and viewpoint. The commander's viewpoint offers
+the farthest range of view and this is logical, since his position
+on the turret is physically the highest. Also, the sound effects for
+the incoming and outgoing shells are continuous, effective, and
+useful (noise indicates proximity). Particularly satisfying is the
+graphic depiction of explosions and the reduction of enemy targets to rubble. Once they are reduced to rubble, the "rubble"
+stays at that location. This helps in identifying one's position on
+the battlefield and direction of enemy movement.
+Each mission has a primary target which is circled on the briefing map (accessed by pressing the "9" key). The commander
+chooses the best route to the objective by placing "X"s on the
+map as checkpoints and ordering the driver to proceed to those
+checkpoints. The briefing map can be accessed at any time and
+will show the present position of the player's tank. This is extremely helpful. On missions that require a deep penetration behind enemy lines, it is usually possible to skirt the edges of the
+map and avoid enemy contact until one is in proximity of the objective. Simply order the driver to go straight and switch to the
+commander's viewpoint (farthest range) in order to stay out of
+contact until it is necessary to close on the enemy. This is
+cautious and ultimately effective, but consumes a significant
+amount of time and fuel, so many players will eschew this in
+favor of direct advances.
+
+Once the player has determined to engage the enemy, it is
+best to switch to the gunner's viewpoint and utilize the thermal
+site (which allows the gunner to see the targets through smoke,
+fog, or darkness) to zero in on the target. At this point, it is extremely important to have the right ammunition loaded. This is
+where the loader's reload and switch speed is vital. Reload speed
+is significant because there is a lag time after one fires a shell
+before one is able to fire the next shell. The lag time is proportional to the loader's reload speed. The loader's switch speed
+determines how long it takes to switch types of ammo. For example, one doesn't want to waste armor piercing (APFSDS)
+shells on BTR-70s or BMP-2s, so it may be necessary to switch
+to high-explosive anti-tank (HEAT) shells. Players are advised to
+pay particular attention to the ammunition effectiveness chart
+provided on page 33 of the manual. This information may
+provide the difference between a
+successful mission
+and a failure.
+Depending on
+range, there is a
+lag time between
+firing the shell and
+observing the explosion. The
+simulation has
+taken care to
+model authentic effectiveness ranges
+and realistic angles
+of trajectory. This means that players will need to learn to "lead"
+the targets in order to be effective, not simply center the sights
+and fire. This offers both realism and challenge. In 1973, Israeli
+forces avoided this problem and extended their maximum effective range by deducing the narrow passes and gaps which Arab
+forces would have to move through. By night, Israeli infantry
+would place sticks in these areas and Israeli armor would aim
+their main guns until they could hit those sticks regularly. In this
+way, they were able to extend their range to ca. 4,800 yards.
+Steel Thunder commanders have to zero in the old fashioned
+way, so the gunner's.
+If the situation gets tough, U.S. armor has an ace in the hole.
+The thermal site enables the gunner to make target acquisition
+in spite of smoke, while there is no certain knowledge of a
+Soviet counterpart to this technology. This means that the U.S.
+vehicles can put up a smoke screen and get away. This is a useful strategy in the game, if the commander doesn't wait until his
+smoke mortars are hit (usually the first damage taken) to utilize
+them.
+
+Thundering Heard
+Steel Thunder is the first of an expected barrage of armored
+combat simulations to reach the market (Avalon Hill is expected
+to release M-1 next year and don't be surprised if Spectrum
+Holobyte and Digital Illusions release a tank simulation in
+1989). There is much to enjoy about the game: fast-moving
+graphics with features that assist game play, effective sound effects that enhance play, and a potential for fast-paced action. It
+is to be expected that future simulations will take standard
+military doctrine more into account and offer more precise
+mechanisms for aiming, loading, driving, etc. However, Accolade has: 1) paved the way for future tank simulations, 2)
+proven that the company is serious about developing more than
+action games, and 3) published a challenging game all in one
+bold stroke. As the commanding officer tells the player after a
+successful mission, "Congratulations! They never knew what hit
+them."
+
+Strategy
+
+Tips
+
+Everything
+You've
+Always
+Wanted to
+Know About
+
+*but were afraid
+to blast!
+by Mark Lewis Baldwin
+
+Empire
+'Wargame of
+the Century"*
+ark Baldwin is the co-designer
+of Empire: Wargame of the Century. He took Walter Bright's
+VAX-based game and enhanced it for
+use on personal computers in three different formats. The result: Empire has
+become CGW's highest rated strategy
+game and has won CGW's 1988 overall Game of the Year Award.
+M
+
+In this article, Mark shares some
+strategic principles which may be of interest to would-be conquerors.
+This was getting too easy! In order to
+stop the Krellan conquest of the planet,
+you and your team had landed three
+dekals earlier on Spion Kop, the capital
+city of Sassania. Your small team of
+specialists were placed there to do what
+the Alliance, with its overextended resources, could not do directly. That is, unite
+the independent city-states of the planet
+before a similar team of Krellans accomplished the same. Now, three dekals
+have passed and everything is still going
+by "The Book." Over 35% of the planet
+is under your control and you haven't
+met anything except local resistance.
+Something is wrong. It is too blasted
+
+easy!
+You think back to the initial days of the
+invasion. Sassania was already established as a beachhead when you arrived.
+"The Book" was specific about your initial steps . . .
+
+On establishing your beachhead, it is
+vitally important that one reconnoiter
+the continent and surrounding waters.
+For security reasons, as well as delivering the team quickly and quietly, normal geological scans of the planet will
+not be available. Make up for this discrepancy immediately! To that end, it is
+recommended that initial production be
+that of a fighter unit. Use this fighter
+
+unit for your initial quick reconnaissance.
+As soon as your first fighter unit is
+completed, change your production to
+armies. These are your bread and butter. You cannot conquer anything
+without your armies. Further, although
+that first fighter is infinitely valuable,
+the second is virtually useless until you
+have expanded the united territories a
+great deal.
+That was the easy part. Quickly, you
+had explored the large island you had
+found, discovering two more city-states.
+It was, then, an easy matter to send
+your armies to include them in your Empire. That was just the start, "The Book"
+said more . . .
+
+The unification of a planet can be
+broken up into three phases. The first
+phase, known as the "Growth Phase,"
+occurs from the initial establishment of
+the beachhead until contact with
+enemy forces occurs. The second
+phase, "Contact Phase," occurs while
+you and your enemy are establishing
+the lines of battle. The third and final
+phase of unification, the "War Phase,"
+occurs when one force decides to commit most of its resources to the destruction of the other.
+Ah, the three so-called phases. Don't
+those dunderheads at Star Fleet HQ realize that war is never so simple? They
+probably never held a M-23473 blaster
+in their hands in their lives. If they did,
+the cost of synthetic feet would probably
+skyrocket!
+
+Your primary task during the "Growth
+Phase" is to build your industrial base
+as large and as quickly as possible. If
+
+you have a stronger industrial base
+than your enemy when you enter the
+"War Phase," his defeat is assured. Most
+planets you will encounter in your star
+sector are mostly water with small continents/large islands scattered
+throughout. As such, your principal
+means of transportation is water. Get
+transport ships under construction as
+soon as possible. It takes time to build
+them and you will want them available
+as soon as your local land mass has
+been unified. So, get the construction
+started. While waiting for your
+transports, use your fighters to explore
+the waters near you. Find targets for
+your transports before they are finished
+so that they will not be wasted on exploration of their own.
+Two strategies have been developed
+on usage of the transports during the
+"Growth Phase." The first strategy suggests that the transport be sent to the
+next independent land mass and its entire complement of armies to be unloaded. This frees the transport to immediately return for more armies.
+Meanwhile, the armies left behind can
+explore the new land mass, meeting
+and defeating all adversaries while supporting each other. The second strategy
+is more risky, requires a higher
+transport/army ratio of production, but
+can achieve much more spectacular
+growth. What one does under this
+strategy is to keep all armies on board
+the transport until an independent city
+is found on the coast. Then, you invade
+the city using just enough armies to
+capture the city. Once captured, the city
+should be used to produce new armies
+that will be used to subjugate the rest
+of the island/continent. Meanwhile, the
+transport is continuing to a new island
+and repeating the process with its
+remaining armies. This strategy allows
+
+to expand faster than the first, but
+places you in a much more spread out,
+hence weaker defensive position until
+all the cities in-between your capital
+and the frontier have been unified.
+
+before. She was brilliant in the game
+that the two of you had previously
+fought. That was what was bothering
+you. Where was she?! In trying to find
+her, both you and "The Book" concur.
+
+You had outsmarted "The Book" this
+time by combining the two strategies,
+but your rush to unification seems silly.
+There has been no enemy to worry
+about. In fact, there has been no contact with Krellan controlled forces at all!
+
+Information is your second highest
+priority during the "Growth Phase." It is
+critical to find all you can about the
+planet and your enemies as soon as
+possible so that you may plan accordingly. Fighters are good for local reconnaissance, as well as acting as an
+early warning system. To explore
+beyond your locally controlled territory,
+however, destroyers are the answer.
+They are cheap to build and move
+faster than any other vessel. Start construction of them as soon as you are
+able and send them out to explore.
+What is the layout of the planet? Where
+are its cities? Where is the enemy?
+These are the vital questions they must
+answer for you?
+
+you
+
+It is assumed that you have been
+directed to unify the planet because the
+Krellans, under the command of Henri
+Zae IV, have already started an "Operation Big Brother" on the planet. This is
+your actual opponent. Depending on
+the actual rank of the Krellan commander, he may or may not have control over his/her own forces. Lowerranked Krellans are subject to control of
+special computers designed for just the
+task you are involved with. Two
+programs are known to be used,
+labeled by Star Fleet Intelligence (Ha!)
+as "Standard" and "Expert." There are
+rumors that a new and more sophisticated program is under development.
+While both are sophisticated, their tactical abilities are much stronger than
+their strategic abilities. They are also
+predictable. Star Fleet Intelligence
+(Double Ha!) has managed to extract
+copies of the programs and have made
+them available in trainers. Study their
+actions well on the trainers. You will
+not only learn how they execute a conquest, but you may also learn a few
+unification tricks.
+Some known advantages of the "Expert" versus the "Standard" program
+are: 1) more intelligent control over industrial production, 2) more aggressive
+use of transports, 3) more efficient use
+of aircraft carriers, along with their assigned aircraft, 4) more active use of
+capital ships, 5) coordination of ships
+into fleets, and 6) better utilization and
+allocation of armies. Since Krellan
+programming techniques are different
+than those in the Alliance, it has been
+difficult to extract and analyze the differences. Therefore, this is only a partial list.
+Your most serious problem will exist if
+the Krellan commander has authority
+to make his/her own decisions. In that
+instant, all bets are off. You will be
+working against a complete unknown
+(unless you have met the Krellan
+com-mander in combat before) and must
+use the utmost of your skills to defeat
+him/her.
+That part of the answer you knew.
+Kadma Pztlam was on the planet somewhere. And you had tangled with her
+
+Contact reports are starting to come
+in. You have finally found Kadma to the
+west. One of your destroyers found the
+city of Isandlhwana in enemy hands. Unfortunately, it was immediately sunk by
+enemy fighters. Fortunately, one of your
+newly completed cruisers and a
+transport happen to be nearby. Won't
+Kadma be surprised when you return
+with your transport flanked by a task
+force to protect it.
+Once contact has been made with
+enemy forces, the "Contact Phase" has
+been initiated. During the contact
+phase, it is recommended that minimum forces be used against the enemy
+unless a major weakness is seen in
+his/her defenses. Most of your resources
+should still be expended in capturing independent cities. Although an enemy
+city is worth twice what an independent city is worth (because its capture reduces the enemy's production at
+the same time it increases yours), the
+cost of capturing such a city is normally a magnitude greater than capturing
+an independent city.
+
+Although you wish to invest minimal
+forces in contact with the enemy, you
+also desire the enemy to invest as
+much as possible in trying to hit you.
+So, utilize quick tease strikes and feints
+to cause your enemy to invest large
+resources in defense and ineffective offense.
+Hairy Neubats' Guano! A report has
+just come in from the transport Jervis
+Bay. Hundreds of Kilobids east of our
+first contact with the Krellans, she has
+just been attacked by an enemy
+destroyer and is now sinking, taking all
+five armies aboard down with all hands.
+How did they slip that destroyer so far behind our lines? Now, just to stop that
+
+one destroyer, I have to change the orders to half a dozen ships and aircraft.
+What a waste of resources!
+At least, we got our own licks in. The
+invasion at Isandlhwana turned out better than expected. One enemy cruiser
+was destroyed while it was in port and
+the cruiser Siano Maru was effective in
+giving our land forces additional protection. It will certainly cost Kadma a great
+deal to get that city back!
+
+Be aware that once contact has been
+made, it is highly likely that enemy
+ships have infiltrated your own lines. It
+is now necessary to sanitize your
+unified areas of enemy forces and insure that no new forces sneak in. Such
+forces are not only dangerous to unescorted transports, but they force you to
+drain a much larger force to track them
+down. A pattern of fighters and
+destroyers on patrol duty can effectively
+defend large open areas of water and
+thus, prevent enemy intrusions. Be
+aware that your fighters will normally
+be unable to detect enemy submarines.
+This is why you need destroyers in
+coordination with the fighters.
+This is also the time you should be infiltrating your own destroyers and submarines into enemy waters. Knocking
+out enemy transports can bring your
+enemy down to its knees faster than
+any other technique. If he cannot invade you or cannot support his own infrastructure when you hit him/her, the
+war is all but won.
+At this time, you should also be
+preparing for the final "War Phase." Bat
+tleships and carriers can take a great
+deal of time to construct, hence they
+should be started long before they are
+needed. So, plan and balance out your
+city production accordingly. Also, since
+you are going to start losing transports
+more frequently to enemy attacks,
+match transport production, as well.
+In addition, this is the time to start to
+reorganize your city production. Those
+cities well-protected and far away from
+the front lines should be used to build
+fighters and large ships. The rationale
+for building fighters is that they can be
+moved up quickly to the front lines. The
+rationale for building large ships behind
+the lines is that you will not be forced
+to retool in order to build other kinds of
+forces because enemy forces just appeared nearby.
+Things are settling down to a slugfest,
+now. Your beachhead at Isandlhwana
+has been able to hold out while you've
+been taking a task force past the island
+for an end run to hit the continent behind it. If you can cut them off, the Krel(Continued on page 63)
+
+Review
+
+Stealth Mission
+Sublogic Unveils Their
+"Stealth" Simulator
+by Brad Bombardiere
+This one's for all of us who "feel the need . . ." the
+need for speed! Mach 2 with our hair on fire,
+that's how we'd like to spend our weekends. Unfortunately (or perhaps, fortunately), the military doesn't
+rent out fighters for the
+weekend. Of course, it's
+doubtful that most of us
+could afford the rental
+charge (much less the
+damage waiver) on a $20
+million aircraft. So, to fulfil
+our fantasy of flight, we
+turn to flight simulators.
+Well, strap yourselves in
+and fire up your computer for another Mach 2
+fantasy, because there is
+a new kid on the block.
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Stealth Mission
+C-641128
+1
+$39.95
+Steve Setzler
+Sublogic Corporation
+Champaign, IL
+
+Sublogic, those guys
+who wrote the book on
+computerized flight have
+released Stealth Mission,
+a simulation that allows
+would-be pilots to fly one
+of three different aircraft:
+the F-19 Stealth Fighter,
+the X-29 Swept Wing,
+and the F-14 Tomcat.
+Each offers different flight
+characteristics and the
+missions have been
+designed to emphasize
+the strategic aspects of the game more
+than anything else.
+
+Each pilot expecting to fly the vicarious
+skies of Stealth Mission should begin with
+the documentation. Unfortunately, this
+material lacks the technical support one
+would expect from a game that seems to
+be so sophisticated. The data provided for each of the
+aircraft was sparse, at best. It is obvious that these are
+top secret weapons systems, but the average public
+library lends itself to providing more information than
+the manual contains. In fact, the manual vaguely
+describes weapons and their characteristics in a sum
+total of only two pages (plus diagrams) and there is almost no information on what type of weapons you are
+up against. For example, there is really no pertinent
+data on types of anti-aircraft missiles a pilot might have
+to face. All of this type of information would have made
+the game both more interesting and easier to play. Fortunately, the information on navigation and other
+characteristics of flight was helpful.
+After the start-up screen, players have the option of
+
+choosing the type of mission preferred from various
+types. These types include objectives located in the
+mountains, around ancient ruins, or at sea. There is
+even a mission that is essentially a marathon bomber
+run. The problem is that these missions are virtually
+generic. Sublogic does not specifically mention either a
+theatre of war or a possible war. In fact, the only mention of enemy strength in the manual involves some
+general notes about MIGs. In other words, the manual
+leaves players strictly on their own to figure out the
+best strategy to use in the different scenarios.
+Next, the game asks players to choose the jet and
+weapons to be used. This reviewer recommends that
+no matter which plane is selected, players load each
+given aircraft with as many Mavericks as possible. The
+F-19 is the least maneuverable, but it is, of course, almost invisible to radar. The X-29 is extremely
+maneuverable, but has the least amount of weapons it
+can carry. The F-14 is not only fast, but it has medium
+maneuverability, great range, and carries a tremendous
+amount of weapons. Matching the type of aircraft to
+the type of mission is an extremely important consideration with regard to success in this game.
+At this point, players can throttle up and take off. The
+difficulty is that the controls are sluggish, at best, and a
+lag time of nearly half a second is so annoying that it
+makes dogfighting almost impossible. If, however, the
+lag time in Flight Simulator II was not perceived by
+players as annoying, this one will not either. It is essentially the same. This reviewer is bothered by the fact
+that the lag time leads to a severe oversteering
+problem. There are two ways to get around this
+problem. One way is to hit Control-F. This eliminates
+all of the scenery and allows the computer to speed up
+(Continued on page 16)
+
+made taking a quick scan of vital information somewhat difficult.
+
+Stealth Mission
+(Continued from page 14)
+the animation. This, in turn, makes the controls more
+responsive. The other way of getting around the sluggish controls is to achieve
+lock-on, then, hit Shift-G.
+This automatically levels
+and centers the aircraft. It
+is also a great way to get
+out of those suicidal
+maneuvers that we all
+simply must try from time
+to time.
+The game's graphics display is a mixed bag. The
+cockpit graphics lack the
+attention to detail that
+many of us have become
+accustomed to in other
+flight simulations. The instruments were somewhat confusing in their placement on the control panels and this
+
+Outside the cockpit, however, the scenery graphics
+are fantastic! Instead of the usual 3-D stick figures,
+mountains and other scenery are filled in. One of the
+most exciting aspects to this is flying through the
+canyon in the ancient ruins campaign. Additional visual
+effects involve the different views available. Pressing the
+right key gives pilots the ability to see their aircraft from
+any angle. Pressing Function-7 allows a given pilot to
+see a "missile's eye view" as it homes in on its target.
+Another amazing viewpoint is observing the aircraft
+from one side or the other as the pilot ejects, his
+parachute opens, and he gently drifts to earth. In addition, Sublogic has made Stealth Mission compatible
+with its full line of scenery disks. Of course, there is a
+price to pay for such quality, especially on a machine
+with limited memory like the C-64/128, and that price is
+paid in the lag time.
+Since Sublogic wrote the book on flight simulators,
+consumers expect quality graphics, attention to detail,
+and interesting situations from those products. Therefore, even though this game doesn't really offer the intensity that one could expect from other recent flight
+simulations, the potential buyer must weigh the
+abstract nature of the scenarios and somewhat slower
+pace against the graphic excellence and technical
+quality of the Sublogic line.
+
+"
+
+:
+
+Review
+
+hen you first open the package of this game,
+you may feel a little startled and possibly
+hesitant: it comes on nine 5.25" disks or four
+3.5" disks. Further, if you install the game on a hard
+drive (highly recommended), it will eat up about 3 meg
+worth of space (make sure you have room!). So, you
+might think that this is some incredible epic adventure
+that will take months of playing time.
+
+W
+
+Actually, most of that space is used for graphics. They
+are very pretty, full-screen and beautifully detailed.
+Many of the screens also have animation, which has
+both good points and bad ones. The animation adds a
+nice touch, but slows Rosella's movements by a large
+factor whenever she's in an animated screen.
+The game begins, in fact, with a very long animated
+sequence (you can skip this later on) explaining just
+how Rosella came to be in a strange land dressed as a
+simple peasant girl. Boiled down to essentials, King
+Graham is dying and Rosella can cure him by obtaining
+a special fruit. However, she also has to help the good
+fairy Genesta, the only person who can send her back
+to her own land. Genesta herself is dying and only a
+special talisman, stolen by the evil witch Lolotte, can restore her. Thus, Rosella must find the magic fruit and
+get the talisman from Lolotte before she can return
+home to save her father.
+Rosella starts on the seashore, where she is left pretty
+much to her own devices. Genesta doesn't tell her very
+much about the land or indeed, anything else. Rosella
+must find out everything for herself. The first thing to
+do is walk around the area, which is only about 30 loca
+lions or so, to see what's there (the area wraps around
+at the edges in most places to the north and south).
+Movement is done with the arrow keys. One touch on
+any key sends Rosella in that direction and another
+touch on the same key stops her. Rosella will, therefore, continue to walk automatically unless she comes
+to an obstacle or reaches the next screen. Beyond this,
+keyboard input is used to accomplish actions, such as
+"get lamp." There is also a set of function keys for often
+repeated commands, especially save and restore.
+
+Walk-thru On The Mild Side
+Warning: This section of the review contains
+specific hints related to "King's Quest IV" and
+should be avoided by readers who would prefer to
+complete the game without assistance.
+Watch out for the weird trees and the ogre hut. If you
+walk into a screen with strange trees, leave immediately
+or that will be the end of Rosella. The ogre hut and surroundings should also be avoided for now or Rosella
+will end up as dinner. It's a good idea to save periodically, in case you run into trouble.
+You should visit Lolotte early on in the game. She
+doesn't especially trust you, but for her son Edgar's
+sake, is willing to give you the benefit of the doubt by
+sending you on little quests to bring her certain items,
+one at a time. Therefore, much of the game is taken
+up in solving puzzles to obtain these items.
+Many of the puzzles are based on old fairy tales (a
+Roberta Williams "trademark"). So, if you're up on
+those, you may have a little easier time of it in some
+situations. Most people know about kissing frogs, but
+that's just one of several in the adventure.
+
+King's
+Quest IV
+Hints and Harangues for
+"Rosella"
+by Scorpia
+Some of them
+are also not too
+fair. For instance, one object Rosella
+needs is a bridle.
+Finding this can
+be a frustrating
+experience,
+since it is not
+visible on the
+screen, and you
+would never
+know it was
+there unless you
+had Rosella
+search every possible spot on the
+screen. There
+are no clues at
+all to this, therefore you might
+not even search
+very long, if at
+all. And as the
+location itself is
+not easy to
+reach (you have
+to so some swimming, among other things) it makes the
+situation that much more exasperating.
+Another irritation is all the climbing
+around that has to be done. Early on,
+you'll probably find the secret door that
+leads to a winding staircase. As you
+might expect, one wrong step and Rosella falls to her death. That's bad enough,
+but what you don't know at the lime is that there's no
+need to climb the stairs until after evening has come
+(and you've done some other things as well), meaning
+many people will make the tedious trip at least twice, if
+not more.
+There are other staircases to climb (also winding), as
+well as a whale's tongue (probably the hardest climbing
+sequence in the game). Saving often is the best thing
+when you're in one of these situations. That's especially
+important inside the whale, as you have only a limited
+number of moves before Rosella is overcome by
+noxious fumes.
+
+Review
+
+You will also have to sit
+through some tedious
+animation in the dwarfs
+house. This is a puzzle in
+the game, the solution to
+which is rather sexist, although obvious. When
+the dwarfs come in (after
+you're done), Rosella
+stands there as a dwarf
+enters, walks to the
+fireplace, gets a bowl of
+soup, walks to the table,
+and sits down. The next
+dwarf enters, walks to the
+fireplace, gets a bowl of
+soup, walks to the table,
+etc. This happens seven
+times and there is no way
+around it. Save the game
+when this is finished so
+you don't have to go
+through it again.
+After nightfall, you'll find
+ghosts in the old house in
+the graveyard. They appear one at a time and
+each has to be satisfied
+with something before the
+next one shows up. Once
+you've figured out what
+do to for the first one,
+you know pretty much
+what needs to be done
+for the rest of them, so
+solving this puzzle becomes pretty much a matter of boring repetition.
+Getting back to Lolotte,
+the first thing she wants is
+a unicorn. There's one roaming around the meadow,
+but it's rather shy, so you'll have to make friends with it.
+Then you need the infamous bridle so you can ride the
+unicorn. Among other things, it will be necessary to get
+the pole from the fisherman, as well as taking a long
+swim, before this task can be accomplished.
+Still not entirely satisfied, Lolotte will send you to get
+a hen that lays golden eggs from the ogre. You'll need
+to have found the troll cave (which is hidden)
+beforehand. It also helps to snoop carefully around the
+house once you're inside, but save first in case you
+walk into the wrong room. This is probably the simplest
+sequence in the game.
+Speaking of the troll cave, it's a dangerous place.
+Even with light, you don't see very much. The graphic
+effect is very nice, but if you're not extremely careful in
+there, Rosella could fall into a chasm. The best thing to
+do is watch the edges of the light and move slowly. If
+there's a troll around (his appearance is random), get
+out and try again later. Save often.
+Somewhere in all this you need to take some time
+out to find the fruit that will restore King Graham.
+There are a number of things you must do before you
+can obtain the fruit, among them dealing with the frog.
+What you need is in plain sight in another screen, although easy to miss if you don't look carefully. You'll
+
+also have to solve the Pan riddle as well; the minstrel
+can be helpful with that one.
+Now Lolotte sends you out after Pandora's box. This
+is a tough one. You'll have to make it past the weird
+trees (if you've mapped, you probably know the spot)
+to the weird sisters. You shouldn't have too much
+trouble avoiding their clutches if you move carefully
+and don't get too close. They have something you
+need later on, so you'll have to work out a trade of
+some kind. Just don't be too nice to them (they are
+evil, after all).
+You will also have to get into the mysterious crypt in
+the graveyard (you've been wanting to do that for
+awhile, I'll bet). There's a key somewhere, although obtaining it will take awhile; there are a few things you'll
+have to do (more than once) before you find it.
+Unfortunately, after you give Lolotte the box, she
+doesn't quite keep her word to let you go (you didn't
+really expect her to, did you?). Instead, she locks you
+into a room in the castle. Luckily, you have a friend
+who provides you with a means of escape, but that isn't
+quite enough. After all, Lolotte might come after you,
+and she might not be too charitable the next time. Besides, you still have to get the talisman so you can help
+Genesta and get back to save your King Graham.
+Once out of the room, you come to (did you guess?)
+a winding stone staircase. Negotiate this carefully, and
+also be careful what rooms you walk through. Lolotte
+had all your items taken away, and you'll need to find
+them before going further.
+What to do about Lolotte when you finally reach her
+is not very hard to figure out; there aren't many things
+that would work in this situation, after all. Her big death
+scene is a trip to watch, and rather funny (if you can imagine a funny death scene).
+However, Rosella isn't done yet. She still has to get
+the talisman back to Genesta, and she'll have to take
+the long way to do it. There's also a couple of other
+things she might want to do on the way back to make
+things tidy, as well as pick up a perfect score.
+The actual ending, like the introduction, is all
+automatic; you just sit back and watch. Rosella is
+returned home, King Graham is saved to rule many
+more years, and all's well that ends well.
+
+Tell-tale Part
+King's Quest IV is not your typical adventure game.
+Some puzzles are clever, others merely tedious. The
+storyline is wrapped and connected with cinematic
+touches which utilize sparkling graphics and surprisingly good music (I'm told this is especially true with one
+of the new sound boards from Ad Lib, Roland, or IBM!).
+Garners who demand constant interactivity will probably become impatient with these cute cameos, but many
+will be pleased.
+Bottom line: Excellent graphics, good music, uneven
+puzzles, and deliberate pace. The overall impression of
+the game is more gentle and non-violent than most adventure games. So, the bottom line is that it's a matter
+of personal taste.
+Copyright 1988 by Scorpia, all rights reserved.
+
+C
+
+GW met with Roberta on a
+recent public relations tour. She
+was travelling throughout the
+country demonstrating King's Quest IV:
+The Perils of Rosetta and autographing
+copies of the game and photographs.
+CGW: Was the original Adventure the
+first computer game you ever played?
+Roberta: Right, I mean, if you don't
+count Pong. We had a Pong machine
+before we bought our Apple. In fact, I
+played the original Adventure before we
+had our Apple. Ken brought a terminal
+home from work and would use a
+modem to hook into an IBM mainframe
+down in L.A. somewhere. We would play
+it and our moves would be printed out
+on hard copy. That was a long time ago.
+I usually just say that I played the
+original Adventure on the Apple because
+it is so difficult to explain.
+CGW: As both a female designer and
+a female game player, we wonder what
+the original attraction of Adventure was
+and why you liked playing it.
+Roberta: I've always been a book
+reader. I love books more than anything,
+almost, especially in the fantasy area.
+When I played Adventure, it was words
+and it was like reading a book. You
+would get these paragraphs about what
+you had done, but I could talk to it and
+it could talk back to me. I felt like I
+could manipulate the story and that was
+better than a book.
+CGW: Why there aren't more women
+involved in the hobby?
+Roberta: The only answer I can really
+give, and I see it all the time with kids, is
+that you put a computer in front of a
+boy and they automatically go toward it
+and get comfortable with it. Girls need a
+little extra push. Even today, you have to
+say, "Don't be afraid. It's okay." They're
+better than women, though, but I still
+think girls are mostly uncomfortable with
+technical things. Even if you go into a
+stereo store, what do you see? Mostly
+men and boys looking at them and the
+women standing back saying, "Can we
+get help?" Don't you think that's true,
+kinda'?
+CGW: That brings up a related question. You've set up a situation in the
+"King's Quest" series where two characters, one male and the other female,
+seem to have an equal chance to inherit
+the throne. In fact, you've veritably set
+up the sequel to follow the boy in King's
+Quest V, but you chose to follow the girl
+in King's Quest IV. Is your intent to involve more women, even as Mixed-Up
+Mother Goose was an attempt to involve
+young children in computer gaming?
+Roberta: Yes, I designed King's Quest
+
+IV with that in mind. I figured that men
+and boys would accept a female heroine
+and think it was okay. Then, possibly the
+women and girls would notice it and become attracted to it.
+
+They had never seen it before and the
+parser understood everything they typed
+in. I'm very pleased with that. Beyond
+that, they're getting a little bigger, which
+I've got to stop.
+
+Yes, with the children, too. However,
+this was also true with Mixed-Up Mother
+Goose. In Mixed-Up Mother Goose, you
+have a choice as to whether you are a
+girl or a boy. Originally, I designed the
+game where you were going to be a
+boy, but I said, "I can't have that!" So,
+now it asks if you're going to be a boy
+or a girl. Then, all of a sudden I realized
+that if you were going to be a boy or a
+girl that it ought to look like them. Now,
+they can choose color of hair or even
+
+CGW: Is it true that Mystery House,
+your first design, was inspired by Agatha
+Christie's Ten Little Indians?
+Roberta: Yes, as well as the game,
+Clue.
+CGW: Is there was any direct literary inspiration for the King's Quest series?.
+Roberta: Well, as a kid, my all-time
+favorite
+reading
+
+Interview with Roberta
+Williams
+Designer of the "King's Quest"
+Series
+color of skin.
+CGW: Besides the fact of a female
+protagonist, what do you think will bring
+the women and girls to the game? The
+music? Animation?
+Roberta: Hopefully, all of it. The game
+is certainly more colorful and prettier
+than games that I'm used to. The animation is more like what you would see in
+an animated cartoon series. It should
+feel more comfortable to them because
+the music is more interesting.
+CGW: What about violence? Is there
+going to be any violence that would put
+them off?
+Roberta: Not really. The only violence
+in the game is at the very end and then,
+it's unintentional. You don't mean to
+commit violence, but you do.
+CGW: Besides the obvious differences
+of improved graphics, sound, and
+memory capabilities, what would you say
+is the biggest difference between your
+recent designs and your earliest design,
+Mystery House?
+Roberta: The storyline. I'm really trying
+to develop a sophisticated storyline.
+Even in King's Quest I, there wasn't
+much of a storyline. I'm trying to
+develop the plot more and be more sensitive to characterization and why characters do what they do. Also, I'm trying to
+do better in understanding what people
+type in and why. With this game, I
+watched a person sit down and play it
+for an hour without ever typing in something that the game didn't understand.
+
+was fairy tales, literally, fairy tales. I don't
+know why but I read every fairy tale I
+could get my hands on. I read them and
+re-read them.
+CGW: So that's why there's, at least, a
+cameo by fairy tale characters in each
+game?
+Roberta: Apparently.
+CGW: Besides the introductory and
+final wrap, what cinematic effects have
+been added to King's Quest IV?
+Roberta: The way we change screens.
+We have a dissolve, wipes, iris in, and
+iris out. Those are all cinematic approaches. Of course, the use of music
+to create an atmosphere and the use of
+more dialogue to have conversations
+with characters. Dialogue may not be
+cinematic, but I think it is.
+CGW: As the author, what is the most
+satisfying aspect of the King's Quest IV
+story to you?
+Roberta: I like the heroine, Rosella. I
+guess because she's a part of me that's
+coming out. I really identified with her.
+Sometimes she's delicate, but she's
+strong, knows what she wants, she's not
+afraid to do what she has to do. She's
+courageous. It was fun for me to do a
+female character.
+CGW: Is there a love interest for Rosella?
+Roberta: Well, let's just say that the
+possibility exists for a love interest that
+could be developed in a future game.
+
+Game Hints
+
+Warning: Although "The Scorpion's
+Tale" is a warm and comfortable
+tavern of the mind with a nice cozy
+fire of vibrant images, our resident
+storyteller conjures up
+illuminating hints
+about games. If the
+gentle reader eschews
+hints, let him beware.
+Ah, it's Christmas time
+again! Fred has his
+shrunken head garland
+on the wall, snow is drifting past the windows, a
+cheery blaze burns in the
+fireplace, the Christmas
+Tree Monster blinks its
+lights in the corner, and
+all's right with the world.
+Then again, maybe all's
+not right with the world,
+if the date happens to
+be 2004 AD.
+
+This is very important, since the number of locations you can travel to are
+rather limited. In most cases, for example, you can't go to a location until
+
+As Told by Scorpia
+
+Manhunter: New York,
+from Sierra, is a wickedly
+humorous and bizarre game set in
+the near future. Strange aliens that
+look like flying eyeballs (called orbs),
+have invaded and taken over the
+city of New York. The resident
+population, or what's left of it, is
+restricted to Manhattan and a small
+part of Brooklyn. In addition, by
+order of the orbs, all humans must
+wear only brown robes as clothing.
+
+blinking yellow squares). Hitting the
+"Enter" key takes you there immediately.
+The first day, you track a mysterious
+person who sets off an explosion at Bellevue Hospital. Trekking
+(tracking?) on over there,
+you discover a rather
+gruesome corpse. There
+will be several other unpleasant bodies to view
+as the game progresses,
+so get used to it now.
+There's nothing like
+protruding tongues and
+upturned eyes to make
+your day Having seen all
+there is to see at Bellevue, you continue tracing the path of the unknown bomber, which
+takes you to a bar in the
+Flatbush section of
+Brooklyn. Before you
+can do anything else in
+this bar, you'll have to indulge in a little knife throwing.
+Most of you know by now how I
+feel about arcade stuff in adventure
+games (boo! hiss! bah! humbug!),
+and, unfortunately, there is a fair
+amount of it here. On the other
+hand, the authors have added a feature to the game, for which I can forgive the arcade sequences.
+In the knife throwing, you try to get
+four knives safely between the
+fingers of an outstretched hand. A
+small knife appears on the screen,
+moving slowly back and forth. At the
+right moment, you hit return, and
+hope the knife hits the table and not
+a finger. Should you make a mistake
+and allow the knife to draw blood,
+you will undoubtedly lose your head
+(the authors are really into blood
+and gore).
+
+For secret reasons of their own,
+the orbs choose certain human individuals to become manhunters.
+Guess who's just been chosen to be
+a manhunter? Right! Of course, you
+haven't the faintest idea of what
+being a manhunter is all about or
+why they picked you. Maybe it's better that you don't know (ask too
+many questions, and you might be
+sent to Chicago . . .)
+In any case, you get a neat little
+computer called MAD (Manhunter
+Assignment Device) to help you,
+and then, you're off on your first assignment. They all begin the same
+way, with an orb floating into your
+apartment to tell you what it wants
+you to investigate (by the way, keep
+the manual handy; you have to
+enter a word from it each time you
+play).
+
+you have already learned something
+about it, usually (although not always)
+through MAD tracking.
+
+Then, you get out MAD and do some
+tracking. The computer shows you the
+vicinity, plus a little revolving square with
+a T in the middle. This is the person
+whose movements are being tracked.
+You watch where they go and what they
+do until the tracking ends for one
+reason or another.
+
+Travel, by the way, is extremely fast.
+Whenever you want to move from one
+place to another, a map of Manhattan
+(and part of Brooklyn) comes up on the
+screen. A small blue and red sphere is
+moved around the map with arrow keys
+or a joystick until it's over the area you
+want to go to (available areas show as
+
+However, there's no need to reach
+for the restore key. After you watch
+your demise, the authors appear on
+the screen, dressed in regulation
+brown robes. Sometimes, they have
+a snide remark to make, sometimes
+they will give you a clue. Either way,
+they back you up to just before
+whatever it was that killed you, as
+many times as you need it. If there
+has to be arcade sequences in an adventure game, this is a good way to handle
+them. Once you manage to throw the
+knives properly, you can play the video
+game in the corner (I recommend using
+the arrow keys to manipulate the little
+figure rather than a joystick.).
+Now, you'll be able to visit Coney Island. Sorry to say, though, you won't be
+able to ride the Ferris wheel or the
+parachute jump. All that's available are
+
+three (oh no!) arcade games: break the
+balloons with darts, knock the kewpie
+dolls off the shelf, and toss a ring
+around a bottle.
+What's it all about? Well, that's where
+watching the screen carefully comes in.
+This game is extremely visually oriented;
+clues and parts of clues can be
+anywhere, and it's up to you to make
+the necessary associations. There is, for
+instance, a subtle connection between
+the video game and Coney Island which
+is not readily apparent. Remember, practically everything you come across is important in some way.
+Two other locations to visit today are
+Trinity Church and a public restroom in
+Prospect Park. You can look around the
+church, although there isn't much you
+can do there right now. As for the
+restrooms, well, what does one do in
+them (aside from scrawling graffiti on
+the walls?).
+You'll know when you're finished for
+the day when the orbs send an override
+to MAD, and request one or more
+names from you (this is how each of the
+first three days end). Let's hope you
+have all the names they want. If you've
+been messing around a long while and
+the orbs don't contact you, this is a hint
+that you haven't done everything that
+needed doing. Travel around to the
+various locations and see if you can
+figure out what you may have missed.
+Day two begins with the orbs wanting
+you to investigate a break-in at Grand
+Central Station (now, of course, closed).
+There are three people to track, and it's
+vital that you follow all of them. It can
+be a little tricky to get the tracker on the
+right people, but it can be done.
+Of the several places to visit today, the
+worst by far is Central Park. The park is
+now a minefield, and travelling through
+it is, well, dangerous. You have the MAD
+tracker to help you, but even so, you will
+probably end up as manhunter mush
+several times if not more. The tracker
+can give you the general direction in
+
+which to go, but figuring out the precise
+direction from several close together is
+not easy (this part of the game I could
+have done without; it was on the tedious
+side). There's no trick to this, just careful
+observation along with trial and error.
+The night club is only slightly better.
+You can't get in the front door, but
+there's a convenient alleyway you can
+sneak into. Unfortunately, you aren't
+alone. There are four nasty punks you
+have to get past, one at a time. The first
+two throw knives, the third hurls Molotov
+cocktails, and the fourth has some sort
+of weird gun (he's the fastest and the
+hardest to overcome). The process of
+getting past them is the same for all
+four: jump the low ones, duck the high
+ones, and get close enough so you can
+knock out the punks (pow!). They get
+harder as you go along, but if you are
+killed along the way, you only have to
+start again with the current opponent.
+You aren't forced to start over.
+Once inside the nightclub, save the
+game. So, if you get tossed out before
+obtaining what you need, you won't
+have to do the alley again. Remember,
+you didn't kill those punks, just knocked
+them out.
+There's not much to do at the Deli .. .
+you can't get anything from the
+machines, and given the menu tacked
+to the bulletin board, that's probably just
+as well. Still, like all the other locations,
+this one too is important.
+I see I forgot to mention the apartment. This is one place you have to
+figure out on your own; you don't track
+anyone to it. Mainly this requires a name
+(a full name). MAD's other ability (aside
+from tracking) is to give you addresses
+of people's homes. The catch is that you
+have to know the full name first.
+Now, improve your cultural background with a trip to the Museum of
+Natural History. Hmmm . . . well, maybe
+not, since all the exhibits were removed
+awhile back. Oh, well, at least, you know
+the route to take from MAD . . . make
+
+sure you take it exactly, because your
+supply of door openers is extremely
+limited. One mistake and it's time to restore.
+Day three gets off to a cheery start at
+Greenwood Cemetery, where you can admire the view of an orb impaled on a
+spear stuck into a grave. After you've
+had your fill of that, you might want to
+visit the theater, where the wall safe is
+easily found, but not so easily opened.
+Guess you're missing something, huh?
+Maybe it's at the pawnshop. All you
+have to do is pick the right badges from
+the display. Simple, eh? Do be careful
+that you don't end up losing your head
+again, though. It looks much better attached to your shoulders.
+Once you've done that, there are a few
+puzzles to solve. Don't worry, if you get
+crunched, the designers will pop in with
+a helpful clue for you (I waited the whole
+game for them to pop up one time
+saying "No one expects the Spanish Inquisition", but they never did).
+There's another apartment to find, by
+the way. You've seen (or should have)
+both halves of the name this day, so it
+shouldn't be hard to locate the place.
+What you need to do there is another
+matter; just don't be taken in by the obvious.
+Now, it seems you're at rather a loose
+end, since there's nowhere else to go (at
+least it looks that way). Of course, looks
+can be deceiving. What you need, of
+course, is a name. One might even say
+the name. You got half of it a long time
+ago and most of the rest of it, too, for
+that matter.
+This leads you to the final area, complete with computer monitor. Go ahead,
+log in . . . you won't learn anything if
+you don't! Most important here is to
+note the locations of the four sites .. .
+you should know what all of them are.
+Also note that you have a certain
+amount of control over them. Not
+much, but enough.
+
+The final day begins with you tracking
+. . . yourself. Hmmmm. Not too good.
+What are you going to do about this?
+Well, now is the time for a nostalgic revisit to some places you've been to
+before, particularly to any places where
+not much went on before.
+
+your life difficult (or short, if you aren't
+careful). As you have no weapons, all
+
+Don't worry about roaming the corridors (what corridors? That's for you to
+figure out! grin), you're supposed to be
+caught. This leads to the last (well, kinda
+sorta) of the arcade sequences in the
+game, something along the lines of
+Jumpman. There's lots of climbing and
+hopping around, so save often.
+Before long, you should find yourself
+comfortably ensconced in an orb
+spacecraft. Why not save the game and
+fiddle with the controls to find out what
+they do? Then, in no time at all, you're
+on your way. Where? Well, there is a
+rather tedious maze to negotiate first.
+After that, you should know where to
+go and what to do. I recommend starting with the one place you haven't been
+to, since after that you're going to have
+someone on your tail, thereby making
+
+is a clever game that requires you to really look at the screen and remember
+what you see. Note-taking is helpful, in
+case you forget later on what you saw
+where (or even that you saw it). Nothing
+is pointed out to you directly, and there
+is no "look" command. Everything that's
+there is there in front of you on the
+screen. You just have to be sharp
+enough to see it and make the mental
+connections where necessary.
+Well, I see by the old invisible clock it's
+about that time again. Remember, if you
+need help with an adventure game, you
+can reach me in the following ways:
+
+you can do is avoid the pursuing ship
+while you get on with the business at
+hand.
+Success! Ummm . . . maybe yes,
+maybe no. The ending is in tune with
+rest of the game, namely twisted (heh).
+You'll just have to experience it for yourself.
+In spite of the arcade sequences, this
+
+On Delphi: Visit the GameSIG (under
+the Groups and Clubs menu). On
+GEnie: Stop by the Games RoundTable
+(type: Scorpia to reach the Games RT).
+On The Source: Send SMail to ST1030.
+By US Mail (Enclose a self-addressed,
+stamped envelope if you live in the
+United States): Scorpia, PO Box 338,
+Gracie Station, New York, NY 10028.
+Until next time, happy adventuring!
+Copyright 1988 by Scorpia, all rights
+reserved.
+
+Review: Point & Counterpoint
+
+Mirror Images in a
+"Pool of Radiance"
+
+In 1975, I started
+the "revolt" against
+
+Dungeons and
+Dragons with my
+game, Tunnels
+and Trolls. My
+opinion, then and
+now, is that D &
+D is too complicated. With a
+simpler system,
+one can get to
+the essence of the
+fantasy role-playing experience
+more quickly and
+experience more
+adventures. In the
+years since 1975,
+D & D has
+metamorphosed
+into Advanced
+
+Dungeons and
+Dragons and a
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Pool of Radiance
+C-64/128, IBM
+1
+$39.95
+Keith Brors
+Strategic Simulations, Inc.
+Mountain View, CA
+
+Two expert adventurers have differing
+perceptions of SSI's Pool of Radiance.
+
+Point
+
+It's Only D & D,
+But I Like It!
+by Ken St. Andre
+
+en
+
+St. Andre is the designer of Tunnels & Trolls, the pen
+and paper adventure game (soon to be a computer
+game), and was one of the designers of Wasteland. In
+this article, he tells us what he likes about another designer's
+game, Pool of Radiance, the first "Advanced Dungeons and
+Dragons" scenario from SSI.
+
+K
+
+You're going to be outnumbered . . . all the time! You're going
+to face incredible odds, but you'll get to like it, even if those
+monsters fight hard and show no mercy! I've been spending
+every spare moment trying to clear the monster-infested slums
+of Phlan, somewhere in the "Forgotten Realms." It was hack and
+slash computer fantasy role-playing at its finest. I am beginning
+to see how the system works and I'd like to talk about the game
+from a design perspective. It may be predominantly one man's
+opinion, but it is, at least, an experienced opinion.
+
+merely complex
+rules system has
+grown into a
+labyrinth of truly
+Byzantine
+perplexity. With
+my "less is more"
+fetish, you might
+think I'd hate
+SSI's A D & D
+product, but you'd
+be wrong.
+As far as I can
+tell, George MacDonald insisted
+that SSI faithfully
+incorporate an
+authentic A D &
+D system into
+
+Pool of Radiance
+(actually, I think
+they've fudged the system a bit in the player's favor, but it
+needed it). It's okay with me, though, for one simple reason.
+That is, the computer keeps track of all the rules and the player
+interface is beautifully transparent. That gives one the real feel of
+playing Advanced Dungeons and Dragons without needing to
+have all of the rulebooks close at hand. Frankly, this has proven
+irresistible to me.
+Regardless of what rules system may be used, however, any
+game rises or falls on other factors. First of all, the game world
+must have internal consistency. Phlan, the environment where
+the game is played, has that. Of all the other CRPGs on the
+market, Pool of Radiance has about the best excuse for groups
+of people wandering around and killing monsters—They are
+reclaiming a city that had been lost to the forces of darkness centuries before. There is no world-threatening wizard to overcome—
+just a simple case of us against them.
+Secondly, the game has to have repeatable elements that will
+keep the gamer's interest. Pool manages this with personally
+designed character icons that move during the combat scenes.
+Because I was able to choose what my little fighters, clerics, and
+wizards look like, I never get tired of seeing them on the screen.
+(Continued on page 60)
+
+Review
+
+A
+
+s sequels go, they generally lose some of the flavor and
+excitement that was generated by their predecessors.
+Fortunately, this is not always the case in the software
+world. In the continuing evolution of three dimensional modelled
+graphics, Rainbird Software has continued to build upon the
+experience gained from Starglider
+I and its wire-framed vector objects by keeping pace with the
+present industry benchmark of
+color-filled vector generated
+objects.
+
+Starglider package, specifically for ST single sided drive owners,
+is an audio cassette containing the musical score.
+As is the case with most titles issuing from the United
+Kingdom, the documentation, complete as it may be, lacks the
+most important information: How to succeed at game play, the
+^ philosophy being that the player is
+expected to learn by trial and
+error. Other than the fact that no
+real hints are given on succeeding at Starglider II, the game has
+no real weak points! However, a
+by Frank Eva
+few suggestions are in order, that
+The historical background of
+- may facilitate a more ideal
+Starglider II takes up where its
+method of play. First of all, even
+predecessor left off. It is your basic Star Wars
+though there is optional joystick control, the
+premise, in which you, as the last hope of
+use of the mouse is preferred. The basic
+free civilization, must do battle with the overproblem here is the fact that most joysticks
+whelming odds against you. You must atcome with only one trigger button, or a comtempt to push back the evil Egron empire
+bination of buttons that accomplish only one
+and save Novenia and all other free worlds.
+task. With new joysticks entering the game
+The Egron war machine has devoured planet
+play market, perhaps we will someday see
+after planet in their quest for absolute
+computer programs that remove the major
+domination. They must be stopped!
+drawback to the use of a joystick: the number
+of available functions is just too limited. Both
+In Starglider I, the player was confined to
+joystick modes can be equally frustrating. The
+the vicinity of the planet Novenia, his vehicle
+"one hand" mode forces the player to issue
+lacking the ability to leave the planet's atmosacceleration and deceleration commands in a
+phere. In the sequel, it's possible, with the
+method similar to firing weapons systems,
+newly perfected "star drive", to leave Novenia
+and
+this can actually be damaging to game
+and travel to other worlds. Possible,
+play. Whereas a quick tap of the fire button
+nay.... necessary; for the Egrons are constructcauses the current weapon to be fired, the
+ing powerful beam projectors on the seven
+player must remember to hold down the butmoons of Millway, which will be used to
+ton and push the stick forward to increase
+protect a vast space station during its conspeed, or backward to reduce speed. You
+struction. It is this space station that will be
+may find yourself holding the button down
+turned against Novenia, unless it can be
+too long when trying to fire your weapons
+destroyed first. (Shades of the Death Star in
+and instead reducing or increasing your
+The Empire Strikes Back!).
+speed.
+TITLE:
+Starglider II
+SYSTEM:
+Amiga, AU,, S r
+As previously mentioned, Starglider II features
+The other joystick mode forces the player to use
+1
+# PLAYERS:
+PRICE:
+$44.95
+three dimensional modelled graphics. It also has a
+the SPACEBAR to fire weapons! Now, if you hapPUBLISHER:
+Rainbird
+Software
+patterned, full perspective, scrolling landscape.
+pen to own a joystick that attaches to your work
+Menlo Park, C A 94025
+This is also an enhancement of Starglider I, since
+surface with suction cups, and provides a fire butthe original provided no real landscape, whatton on the control stick, this method will be a valusoever; merely objects scattered over a dark and dismal plain.
+able option. However, if you don't, you will find the weapon
+However, should you find the patchwork landscape a distraction,
+firing sequence very awkward.
+there is a key function to disable it.
+The best alternative is to use the mouse. Since this is already a
+one hand device, your other hand can be used to issue specialHas the use of three dimensional modelling been improved,
+ized commands from the keyboard. The mouse, with its standard
+over previous releases? Undeniably, yes! As an example, I point
+two button configuration, is the perfect tool for flying the Icarus.
+to the "walkers", reminiscent of those in the opening scenes of
+You can bank left or right simply by moving the mouse in that
+Star Wars: The Empire Strikes Back. They move with a fluidity
+direction. (A "mouse pad" will help to limit the desk space rethat has been heretofore unseen in computer games. Also, the
+quired). Also, changing altitude is accomplished by moving the
+use of color renders these animations more real and life-like
+mouse forward or back. And finally, changing speed is acthan ever before.
+complished by holding down the right button, while simultaneously moving the mouse forward or back. The left mouse
+button fires the currently selected weapon.
+New to Starglider graphics are the energy bolts that you can
+In Starglider II, you must learn to control your speed. New atfire at your opponents; they are no longer mere lines drawn on
+the screen, and then erased. They are now actual objects, resemtack patterns your enemies have devised will frequently leave
+you flying in circles, since some of them like to get you from the
+bling elongated two dimensional diamonds.
+rear. So, slow down and analyze these patterns, thus saving
+The feeling of actual flight has also been improved. The land
+energy.
+and space stapes are redrawn with such precision and speed,
+Who will like Starglider II? Certainly the arcade fan, for the realisthat Starglider could very easily be referred to as a "mini-flight
+tic air and space combat, but also the ardent adventurer, for the
+simulator".
+exploration of some sixteen planets and moons making up the
+An ST with a single sided drive will not be able to access the exSolice System, the closest star cluster to the Novenian system.
+cellent soundtrack and the digitized sound effects. Instead, comSince this includes most computer game players, I would imputer generated sounds replace the very real crashes of stereo
+agine that the only person who would not enjoy Starglider II is
+digitized thunderclaps, and explosions, etc. A nice addition to the
+one who likes only text adventures! Starglider II is a good buy!
+
+Starglider II
+
+Review
+
+Banzai
+Strike Line
+Pacific Theater Combat in
+"Typhoon of Steel"
+by M. Evan Brooks
+yphoon of Steel is SSI's Pacific Theater sequel to
+Panzer Strike (cf. CGW, May 1988, No. 47, p. 22).
+While Typhoon of Steel is a stand-alone simulation, its
+mechanics and options are such that it is the Pacific mirror
+of Panzer
+Strike that so
+many garners
+have wanted.
+Here, one may
+utilize the
+Americans, the
+Japanese, and
+of course, the
+British and the
+Germans.
+Climates of
+conflict
+include the
+Pacific
+Theater, Asia
+and Europe.
+While the
+author of the
+Panzer Strike
+review (see
+above) noted
+that the system had become his
+favorite World
+War II tactical
+simulation, this
+"curmudgeonly
+critic" will note
+some other
+considerations.
+
+T
+
+NAME:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Typhoon of Steel
+C-641128, Apple
+1-2
+$49.95
+Gary Grigsby
+Strategic Simulations, Inc.
+Mountain View, CA
+
+The Philosophy
+of the
+Tactical Wargame
+
+As each unit represents a
+squad or an individual vehicle,
+abstraction, as such, is no longer a valid consideration.
+Generally, military simulations are accurate insofar as they
+reflect the mass, i.e. one can predict what 10,000 men will
+
+do in the aggregate (a division). It is much more difficult to
+predict what 10 men (a squad) will do.
+However, tactical games have always been popular, e.g.
+the boardgame, Squad Leader and its descendants, advanced squad leader (no longer a game, but rather a way of
+life). As long as the consumer realizes the inherent difficulty
+of predicting actions on so detailed a level, there is nothing
+wrong with such simulations.
+
+Typhoon of Steel:
+The Advantages
+(1) Design-Your-Own Scenarios. This feature is easily utilized; in fact, the map maker and unit designations are
+among the easiest available on the market (although one is
+restricted to the unit mix and terrain types included in the
+program data [which are
+numerous and varied]), cf. Tables 1 and 2.
+(2) Command Emphasis. One may play with limited or full
+communications. The
+former emphasizes the reality of World War II combat
+operations and the limitations of the chain of command.
+Such usage may prove frustrating, but it does give a more
+accurate understanding of the difficulties of conflict at the
+lower levels of command.
+(3) The Campaign Game. One may take a battalion-sized
+or smaller force through World War II. Updating weapons, efficiencies and morale will show the effects as early losses
+can escalate into brittle units suffering from "combat
+fatigue" (or "malingering", as General Patton would say).
+
+Typhoon of Steel:
+The Disadvantages
+(1) TIME! The game is not a quick play. In a battalionsized engagement (c. 32 squads per side), to play one hour
+of "combat" time takes around 15 hours with the computer
+playing both sides. If a human is playing against the
+machine, time can easily stretch to 30-45 hours. The pulses
+are simply too slow in their execution for a tactical simulation.
+Scenarios can be designed for play in 15 minutes.
+However, they would have to be of a skirmish at companylevel. The program mandates a game-length of 30 or 60
+turns. Therefore, only a lower unit density scenario would
+allow play to be completed within a short time period (as
+soon as the crisis point has been reached, one can choose
+to end the game and the computer will declare the victor).
+This reviewer can conceptualize operational goals in a
+simulation over a long period. However, with a product
+simulating a one-hour maximum, it becomes quite difficult
+
+to remember after a number of saves as to which ridge line
+or pillbox was the prime objective.
+(2) Terrain Types. A plethora of terrain types exist for one's
+usage. However, nowhere in the documentation is there
+any pictorial representation of such types. The documentation strongly urges the user to go through the design
+parameters in order to become familiar with the terrain
+types, but this reviewer does not think that a pictorial representation of such types would have required an inordinate
+effort. Even more confusing is that certain terrain types are
+the same!—e.g. Pacific wheat (level 3) and high grass {level
+1), Pacific clear terrain (levels 1 or 3) or stone buildings
+(levels 1 or 3). While a map recon may well serve to
+delineate the type of objective, it becomes difficult to remember them in the aggregate.
+(3) Order of Battle. Nowhere in the scenario explanation is
+an order of battle given. While this may have been done in
+order to have one experience the incomplete intelligence as
+to the enemy, this reviewer would have preferred to have an
+order of battle. It would have greatly assisted in deciding
+how to tailor one's forces in order to maximize command
+emphasis.
+(4) The Military Misconceptions. One may choose to advance his units, e.g. across an open area to a building.
+However, once the units are spotted or fired upon, they immediately slow to a cautious advance and are often
+rendered hors de combat. While this may occasionally be
+true in actual combat, it is idiocy to seek cover in an open
+area instead of rushing into a region offering both cover
+and concealment.
+Terrain is defined in terms of "cover." In military parlance,
+terrain offers "cover" and/or "concealment." Concealment
+simply reduces one's visibility; cover offers protection from
+enemy fire. Since even wheat fields offer "cover" in Typhoon
+of Steel, this apparently represents concealment rather than
+cover and should be noted as such.
+(5) Non-Interchangeability: Typhoon of Steel may not be
+readily mixed with Panzer Strike. Thus, one cannot mix Russians with Japanese in a replay of Khalkin-Gol (the 1937
+divisional-level battles wherein the Japanese were
+repulsed by General Zhukov's Far Eastern Command).
+
+Random Observations .
+(1) HISTORICITY: SSI has done an admirable job of detailing unit weapons and vehicles down to squad level.
+Typhoon of Steel utilizes 50 yards per hex with 20-second
+phases and 1 minute turns at the squad level. By comparison, Kampfgruppe utilized 200 yards per hex with 30second phases and 2 minute turns at the platoon level.
+Weapon ranges from both games are generally comparable
+(e.g. Typhoon/Kampfgruppe rifle, 500/400; SMG, 300/200;
+HMG, 900/1000; PZIV-G, 2500/2400 yards). As ranges increase, lethality decreases in an algorithm available in the
+documentation for the true grognard.
+
+On a higher level, however, historicity does not appear to
+be totally accurate. For example, the Omaha Beach
+scenario postulates a landing by the 116th infantry assault
+regiment. The scenario postulates a landing by 8 Sherman
+DD tanks. Historically, by H +5, there were 16 tanks available. On Dog White Beach, only 8 got ashore. Thus, if one
+utilizes an Order of Battle for H +60, the scenario would
+reflect Company G. Yet, the number of squads available in
+the game does not correlate with Company G's historically
+available manpower (cf. Omaha Beachhead, Center of
+Military History, 1984, pp. 44-57). Granted that liberties may
+be taken with the OB, it would have been nice to have a little more explanation as to the who, what, where and how of
+the scenarios.
+(2) Map Recon: a detailed map walk-through is a must in
+order to succeed at Typhoon of Steel. It would have been
+nice to have a hard copy option available. At the squad
+levels herein, it is incumbent on the commanders to establish "kill zones" and for squad positions to establish "fields of
+fire" and interlocking firepower schematas. In order to do
+this, a hard copy map would have been of inestimable
+value. Also, it would assist in the playing of a scenario, since
+one could note the axis of advance and the intermediate objectives and phase lines on the offensive. This would
+prevent the user from becoming bogged down in a visual information overload.
+
+(3) Command Control. Command control is essential. As
+the senior commander, one must insure survival and communications (remember, Move-Shoot-Communicate—the
+elements of sucess). If a
+subordinate commander is killed,
+he computer
+tikes over such
+formation. If
+he senior level
+filled (e.g. unit
+
+bereft of the
+user's input. He
+has been killed!
+So, take ap-
+
+optimize such usage. Given the pulse system, it is difficult to
+get the armor and infantry to move in tandem; but judicious
+use of indirect fires should yield effective results.
+In the latest issue of Inside SSI (Vol. II, No. 2), a game
+replay is offered. Lessons learned include: protection of
+leaders and MG sections, unit cohesion and durability of
+American Marine squads vis-a-vis their Japanese counterparts.
+In fact, the Japanese offer an interesting study. Rather
+than suffer rout, they "banzai" when faced with heavy losses
+and extreme suppression
+comanderis
+(similar to the "Mad Russian"
+syndrome so familiar to the Squad Leader aficionado). This
+sAim0)u,lat-he ideal for the novice gamer. Of course,
+"tactic" makes them
+the American should seek to use massive indirect fires to ef- tionsw
+fect this state and then destroy them with small arms fire
+from squads taking advantage of both cover and concealment.
+
+propriate precautions and stay alive!
+(4) Firepower: Determining the optimum tactics can be a
+frustrating experience. This reviewer has reservations concerning certain gun ratings, e.g. a 16" gun has a penetration rating of zero. Well, a direct hit by a naval 16" gun on
+even a heavily armored vehicle would ruin the crew's whole
+day.
+Combined arms tactics are essential. Therefore, one
+should practice using artillery and naval gunfire in order to
+
+Conclusions
+For the casual user, Typhoon of Steel may well offer only
+a "Storm of Indecision." However, for the dedicated gamer,
+Typhoon of Steel offers an engaging, albeit time-consuming, study of small unit actions during World War II in the
+South Pacific. This should not be surprising, given the
+game's roots in the Panzer Strike system which was
+awarded Strategy Game of the Year (see last issue).
+
+Review
+
+Deep in the dark
+reaches of space lies
+the Caldorre system.
+Ordinarily peaceful, it is now
+wracked with horrendous difficulties. As though from
+nowhere, mysterious raider
+ships appear and attack cargo
+vessels. They ask no quarter
+and they give none. They
+come not to steal, but to
+destroy; and they destroy very
+well indeed. To combat the
+menace, the Federation dispatches a squadron of interceptor ships to seek out the
+raiders and protect shipping. Yet, there is more
+here than mere raiding, much more .. .
+
+Magical,
+Mystery Future
+Electronic Arts Conjures
+"Future Magic"
+by Scorpia
+
+Sentinel Worlds I: Future
+Magic is built around the efforts
+of an Interceptor team to discover who or what is behind the
+transport raids. Aside from finding that out, the team must
+also end a dispute between two
+native cultures on Caldorre, as
+well as stop a raging fight between the farmers and the
+ranchers on Norjaenn. In between, they have to earn money
+to keep their ship in fuel and
+themselves supplied with ammunition and training funds.
+
+With that in mind, it's best to
+scrap the entire beginning
+team and start over, giving
+everyone a 20 in Comprehend. They will advance
+faster in the skills that are
+most important. These tend to
+be combat skills, such as
+using projectile and hand
+weapons. I recommend putting
+the points into projectile at first,
+and doing edged and contact
+weapons later on, with blaster not
+being built up until late in the
+game.
+Also, put a point into Recon for
+each character until the cumulative score is at least 16. The
+sooner you do this, the better off
+you'll be, as recon is very helpful
+for finding armories and other
+places in the game.
+Dexterity is also important. How
+quickly a weapon can be used in
+combat is governed by this attribute. Each time a weapon is
+used, whether an "up close"
+weapon such as a dagger, or a
+long range weapon, such as a
+shotgun, there is a period of time
+when the weapon is "not ready".
+The more dexterous the character
+is, the shorter the waiting period
+before the weapon is ready to use
+again.
+
+Recruitment
+All in all, a lot to do, although
+it's taken one step at a time.
+The first order of business is to
+create the Interceptor team of
+five. Each member of the team
+has a specific function: Medic
+(heals people), Navigator (plots
+ship courses), Computer Officer
+(works on ship programming),
+Engineer (repairs any damage
+the ship takes), and Pilot
+(moves the ship and operates
+the weaponry in ship combat).
+If any of these should die, they
+must be replaced as no one
+else can do their job.
+
+at that skill. Nevertheless, the
+number of points a character
+gets is governed by Comprehend. Those with low Comprehend will get only one or
+two points, while a Comprehend of 20 will give four
+points.
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+There is a pre-set team that
+comes with the game. You can
+use those or "reroll" if you
+prefer. Actually, there is no "rolling." Instead, you get 70 points to distribute among 5 attributes,
+with a minimum of 10 and a maximum of 20 per attribute at the
+start.
+At first glance, you might think the pre-created team seems
+well-balanced. However, this turns out not to be the case. One
+thing (among several) that the manual doesn't tell you is just
+how important it is to have a high rating in Comprehend (think
+of that as intelligence). Each time a character receives a promotion to a new rank, he or she gets a number of skill points to
+put into a variety of skills (there are 14 in all).
+Naturally, putting points into a skill makes the character better
+
+Sentinel Worlds I:
+Future Magic
+IBM
+1
+$49.95
+Karl Buiter
+Electronic Arts
+San Mateo, CA
+
+Stamina controls how many additional hit points a character gets when he or she
+advances a level. Also, in conjunction with
+strength, it determines the initial number of hit
+points a character has (the two are added
+together). Further, note that increasing stamina
+after the start of the game will also increase hit
+points. That is, for each point of increase in
+stamina, there will be a one point increase in hit
+points as well.
+
+Strength is a factor when using close range
+weapons such as daggers or energy blades; it adds to the
+damage the weapon does. It is also used, as mentioned
+above, in determining a character's starting hit points.
+Charisma is pretty much your looks and charm. While it's supposed to help you when talking to people, I didn't find much difference in their responses even with a character of Charisma 20.
+While I'm sure the authors didn't plan it that way, it seems the
+best approach to creating a team is to give them all the same
+values in all the attributes. When it seemed to me that the
+original team was advancing too slowly, especially those with low
+
+Comprehend, I started over again, scrapping the originals and
+making my own.
+
+my way so I could go on, assuming there was no other way
+around it.
+
+Everyone had a Comprehend of 20, Dexterity of 15, Stamina
+14, Strength 11 and Charisma 10. These worked much better
+than the originals. The characters went up faster in the skills that
+are important at the start, and as the game progressed, training
+raised the other attributes.
+
+Combat also has its frustrations. The team leader is the only
+one you control directly; the rest of the team fires independently.
+This is actually a very nice feature, saving you the time and
+trouble of directing everyone's shooting. Where it breaks down,
+however, is in the fact that the team members don't ever move
+independently.
+
+Improvement
+I concentrated on getting everyone's Dexterity up to 20 as
+soon as possible, since weapon use is almost instantaneous at
+that level and this can be a lifesaver in
+some circumstances. It also allows the
+Medic to heal people much more quickly,
+which can also be a lifesaver.
+This training, by the way, is available in
+the Caldorre Towers. There are three of
+them and they are all pretty much alike.
+They all have the same facilities, only on different levels. You'll have to go through
+each tower to find the various spas, as
+they're called (there is one spa for each attribute in each tower, or five spas per
+tower). Training costs 1000 credits, and
+raises the relevant attribute by one point. A
+character can train once for each level he
+or she has attained.
+One thing the manual doesn't mention
+and you may not find out for yourself is
+how to set the Medic to help a specific person in the team. This person should be the
+team leader, since the leader is always up
+front, and therefore will be the target 90%
+of the time. By setting the Medic on the
+leader (or anyone else) you enable healing
+during combat. Any injury sustained by the
+character will be restored as it happens.
+You won't have to wait until fighting ends
+to order the Medic to do healing. How fast
+this healing occurs depends on the dexterity of the Medic, another reason to get the Medic's dexterity up
+as quickly as possible. Of course, after a combat you can have
+the Medic heal anyone else who was injured; just remember to
+set the Medic back on the leader when everyone else is fixed up.
+
+Disparagement
+The game does have drawbacks. The worst of these is the very
+slow movement when the team is indoors, and long, journeys in
+the ATV (All Terrain Vehicle) outdoors. The view for movement is
+always overhead. Indoors, your team shows up individually as
+dots, green for the team leader and yellow for the rest. Other
+people (and animals) are also dots, either blue (friendly) or red
+(hostile). When the team leader moves, the rest of the team
+moves, following behind in single file. This movement is slow.
+This situation is exacerbated by the necessity for making long
+trips on foot, such as the five levels of the volcano, the three
+levels of the battle station, and the towers on Caldorre, to name
+a few. Getting anywhere seems to take forever.
+Travel by ATV is not much better. It's a little faster, but on
+several occasions you have to follow a long, long trench to get
+to some special place. The need for such long journeys escapes
+me. There are no outdoor dangers at all. Nothing will attack you
+when you're tooling around in the ATV. The only use I could
+find for the laser turret was to blast some hapless animal out of
+
+Consider the use of doors, for instance. When the leader
+moves through a door, it closes automatically again. If he runs
+into something on the other side of the door, he has to fight it
+alone, since the person behind him isn't
+smart enough to open the door so the rest
+of the team can help and he may not have
+time to turn himself around to open the
+door himself. Also, in some corridors or
+rooms, team members may end up stuck
+in a corner and unable to shoot at anything, even though there would be room
+for them if they would just move a little bit.
+The manual is not one of the better ones.
+Aside from omitting certain information
+you really should know (as mentioned
+above), there is no table of contents,
+making it hard to find specific information
+without a lot of page flipping. Also, reading
+it the first time (or even second) can be
+confusing without having experienced
+some of the game first.
+
+Encouragement
+On the positive side, the graphics are absolutely gorgeous. The pictures of people,
+places, and animals are outstanding. The
+coordination of events on multiple screens
+is fantastic, especially the orbit/landing sequences, where the event is shown on
+three screens at once with each displaying
+different views. This is the most exceptional
+use of EGA graphics I've seen yet in an adventure game.
+Music and sound effects are also surprisingly good, but they
+were too loud on my speaker (oh, for a volume control!), and I
+played the game with them turned off. On the other hand, if
+you're not up in the wee hours like I am, you might want to
+have them on. They're pretty jazzy.
+
+Judgment
+Overall, Sentinel Worlds is a series (a second game is mentioned at the end) that shows promise, although the defects in
+this game need to be addressed in future adventures. Faster
+movement is a definite necessity. So is a better coordination of
+plot elements; too much of what happens in Future Magic is on
+a linear basis, which makes the early part slow going, particularly
+as the player has no idea of what's going on.
+Bottom line: Mixed reactions on this one; recommended, but
+patience is required.
+
+Supplement
+Warning: This section contains specific hints for playing
+"Sentinel Worlds I" and should be avoided by readers who
+do not want to utilize Scorpia's clues to solve the puzzles.
+(Continued on page 53)
+
+U
+
+Strategy Tips
+
+[Ed: In June of 1984, the author had
+the pleasure of attending the fortieth anniversary of the Allied landings in Normandy. As a result, the history of that
+campaign has been of especial interest
+to Mr. Sherfy. So, when
+Strategic Studies Group
+released Battles in Normandy, he purchased a copy in
+order to get a "hands on" appreciation of what the commanders of forty years ago
+were confronted with. These
+notes are the result of his
+successes with the Battlefront system utilized in
+this game and other popular
+SSG games.]
+
+within a few hexes of a German objective (Briquebec), which lay well within his
+grasp.
+This does bring up a problem, though.
+Assume that the Allied commander
+
+of the harder ones for the Allied commanders because the Allies have so little
+room to move. The first concern for
+these forces must be to expand the
+beachhead in order to allow more troops
+ashore. Should the Allied
+commander have difficulty
+cracking the German position
+on the hills by Beauville, he
+should assign the 4th Regiment of the 6th Airborne
+Division to assault this position. This regiment is comprised solely of infantry.
+Checking the terrain chart
+reveals that infantry is best
+suited for attacking this position. It is surprising how
+many players use troops that
+are at a disadvantage to attack this position, specifically
+armor.
+
+Avoiding
+"The Longest Day"
+Strategic Notes for SSG's
+"Battles In Normandy"
+by Joe Sherfy
+
+Optimal
+Deployment
+
+Another vital point is checking one's
+divisional assets each and every turn
+and deciding where they can be used to
+the greatest effect. When units have
+taken a lot of casualties, be certain to
+pull them out of the line and put them
+in reserve. In the Omaha Beach
+scenario, Allied commanders should be
+careful not to let their armor get chewed
+up by the Germans in their forts. Instead, the armor should be saved for
+when they break out of the beachhead
+and are attacking in the open. Careful
+commanders can reassign their
+divisional armor to non-attacking regiments until the "breakout" occurs or
+simply hold them in reserve while the
+"slugout" on the beaches is proceeding.
+
+Prior to ordering troops off their landing barges (as the Allies) or into their
+coastal fortifications (as the Axis), take a
+careful look at both the objectives and
+the forces available. Access the information from the "Create" submenu and
+look at the information for the scenario,
+all of which would naturally be available
+to a given commander. Write down the
+data concerning friendly troops, including their strength, rating, and range of
+their primary weapons. It can be very
+useful, for example, to know that a
+specific artillery unit can hit a target five
+squares away. Knowing this, one can
+more effectively utilize the artillery included in a division's assets. If an artillery unit is too far away to assist in an attack with its current regiment, it can be
+reassigned to another regiment in the
+division for purposes of the current turn.
+
+Maximal Play Value
+Next, check the victory points awarded
+to each player for the elimination of
+friendly and enemy units. This helps
+commanders decide who has an advantage in a war of attrition. Also,
+though it may not be as realistic, it enhances play value to know the enemy's
+objectives. In some of the scenarios, the
+Axis and Allies have different objectives.
+It can be very frustrating to be next to
+an enemy objective hex at the conclusion of a scenario, be unaware of this
+objective, and end up losing the
+scenario by only a few points.
+In one playing of the Utah Beach
+scenario, the Allies swept completely
+around the German's right flank and
+took all of the objectives on the other
+side of the Cotentin Peninsula (Portbail,
+Carteret, Barnville). The Allied commander still lost the game, however, because he did not realize that he was
+
+wants to take a German objective which
+is unoccupied. Since the Allied commander cannot order his units into an
+objective not specified by the scenario,
+the system works against said commander and the German gets victory
+points for an unoccupied town that
+could easily have been taken by the Allies had the game system allowed him to
+move into it. Therefore, it is recommended that when a player does his pregame survey of enemy objectives, he
+alter the scenario so that any additional
+objectives are added to the list of friendly
+objectives. No victory points should be
+awarded for their capture, however, because the reward is simply keeping the
+enemy from gaining those points.
+
+Exceptional Management
+Paying close attention to the terrain is
+one of the keys to success. For example, the Sword Beach scenario is one
+
+"Supporting formations" are extremely
+crucial to success. When attacking, observe how many enemy formations the
+enemy has within supporting range
+(generally two hexes). If there are quite a
+few, it is usually better to "probe" his
+defenses prior to launching an all out assault. When attacking a battalion which
+does not have any supporting troops in
+range, however, it is usually worth gambling on an "assault" before he can
+bring up reinforcements.
+
+Beneficial Creativity
+Creating personalized scenarios gives
+one considerable insight on playing the
+game. This reviewer has developed a
+scenario of the United States troops
+landing on Sicily which has provided
+considerably more understanding of the
+game system. Those who would like to
+have a copy of the Invasion of Sicily
+scenario should send a self-addressed
+stamped envelope to: Joe Sherfy, 1201
+W. 24th #204, Austin, TX 78705. Finally, Allied commanders should not forget
+to order some Calvados for General
+Sherfy at the first cafe they liberate!
+
+Strategy Tips
+
+The Role of
+
+Leaders
+in SSI's
+Civil War Series
+by Major David S. Stevens
+
+tant role on the battle field. Their individual abilities could often make the difference between victory and defeat. A
+leader's presence and active involvement at a critical point in the battle
+could prevent a unit from fleeing in
+panic or inspire one to perform feats of
+heroism. Corps commanders were also
+known to have personally directed their
+divisions into battle. This, of course,
+sometimes lead to their untimely deaths.
+General John F. Reynolds, the senior officer on the battlefield during the first
+morning of fighting at Gettysburg, was
+killed while directing units of his I Corps.
+No one can predict what might have
+happened at Gettysburg had he not
+been killed. Likewise, General Winfield
+S. Hancock, taking over for Reynolds
+several hours later, had a profound and
+immediate effect on the morale of his
+previously disheartened soldiers. There
+are many accounts of how his presence
+renewed the fighting spirit in his men
+and restored their confidence and their
+belief in the Army's ability to carry the
+day.
+In SSI's Civil War series, the effect that
+leaders actually had on their units is
+simulated very effectively and realistically.
+However, understanding the intricacies
+of this complex game feature is not
+easy. The documentation is not as helpful in this area as one would generally
+like. To obtain a victory in these games,
+one must effectively command his units.
+In order to accomplish this, one must
+master the essential leadership concepts
+of the game.
+
+Unit Modifiers in Combat
+
+Major Stevens is currently on active duty
+with the United
+States Army. He has
+submitted this article
+based primarily on
+Rebel Charge at
+Chickamauga and
+Shiloh, but notes that
+the earlier games
+dealing with Antietam and Gettysburg are similar
+enough to be relevant
+to this discussion, as
+well.
+
+Premise
+During the Civil
+War, leaders played
+an extremely impor-
+
+Before attempting to describe the role
+of a leader, one must understand the
+mechanics of combat in this game system. There are several things that determine the combat capability of a unit.
+First and simplest is a unit's "strength" in
+terms of men. A unit with 1,000 men
+would theoretically be twice as strong as
+a unit with 500 men. Next, representing
+the experience and training of a unit is
+the measurement termed "effectiveness."
+For example, a unit with 1,000 men
+may have an effectiveness rating of
+80/80 at the start of the game, which
+could drop to 70/80 after suffering losses during the game. In this case, the
+70 indicates the current effectiveness,
+while the 80 indicates the maximum effectiveness this unit can have. In this
+game, the overall strength of the unit is
+reduced by one percent for each two effectiveness points below 100. Thus, a
+unit with 1,000 men would begin the
+game as if it were fighting with a
+(Continued on page 47)
+
+(Continued from page 44)
+
+The Role of Leaders
+in SSI's Civil War Series
+strength of only 900 (1,000 * .90, a
+10% reduction computed by (100-80)/2).
+Fatigue also modifies the combat effectiveness of a unit. As a unit moves and
+fights, it becomes tired. For every two
+fatigue points a unit accumulates, its
+strength is modified by one percentage
+point. Thus, if a hypothetical unit of
+1,000 men with an 80/80 effectiveness
+rating had 10 fatigue points, its combat
+strength would now be equal to just 855
+men (1,000 * .90 * .95). Note that all
+modifiers are cumulative. Thus, in this
+example, the unit's strength of 1,000
+men was multiplied by .90 for being 20
+effectiveness points under 100 and .95
+for having 10 fatigue points.
+Other modifiers are also considered
+when determining the fire power of a
+unit. These include the type of terrain in
+which both the attacker and the
+defender are located, the density of the
+attacker and defender, and whether the
+attacker or defender is in a column
+mode. Terrain and column modifiers are
+common sense concepts. For example,
+on would like to attack on opposing
+force that is located in the open while
+one's own force is located in covered terrain, as opposed to making an assault
+across an open field against a fortified
+position in the wood line. Tables are
+provided in the rules which list the
+modifiers for the myriad of combinations
+possible.
+
+Command Influence
+in Combat
+As the commander of an army, you
+can control the above modifiers relatively
+easily by simply using common sense.
+Two other modifiers also affect the unit's
+strength and they must be monitored
+just as closely, if not more so. They are
+the "Command and Control" rating assigned to each unit and the "Leader
+Bonus."
+In these games, a leader is assigned to
+each brigade, division, and corps.
+Brigades can be split into demi-brigades
+with the assumption that a brigade
+leader affects both units equally. Several
+brigades are grouped together to form a
+division and several divisions are
+grouped to form a corps. This hierarchical structure forms the chain of command. Each leader in this chain of command affects all units under him.
+
+Each leader has been assigned a
+bonus or proficiency rating representing
+his historical leadership ability. In Shiloh,
+this value ranges from a low of "4" to a
+high of "50" (the latter is the rating assigned to General Grant). The leader
+bonus is a direct modifier on the
+strength of the unit. Thus, if Grant is attached to a unit of 1,000 men, it will, in
+effect, assault or defend with 1,500 men
+(1,000 * 1.5). Of course, the other
+modifiers mentioned above would also
+affect the unit's final strength.
+The "Command and Control" modifier
+is also a direct modifier. It can assume a
+value between 0.5 and 1.5, which can increase or reduce a unit's strength by
+50%. Several factors go into determining
+this rating. They are: the distance a unit
+is from its brigade or demi-brigade, the
+distance the unit is from both its division
+and corps leader, and the state of mind
+value of both its division and corps
+leader.
+At the beginning of each turn, all
+division and corps leaders are randomly
+assigned a state of mind as being either
+confused, indecisive, cautious, or confident. Values of -0.3, -0.2, -0.1, and 0
+are appropriately assigned for each state
+of mind. The leader's bonus rating is
+used to increase the probability that the
+leader's state will be confident. Thus, the
+higher the bonus rating, the less chance
+there is that the leader will become confused.
+A "Command and Control" modifier is
+determined for each individual unit at
+the beginning of each turn. It represents
+the commander's influence over a unit.
+This modifier is primarily based on how
+far away the unit is located from the
+leaders in its chain of command. In
+Rebel Charge at Chickamauga, for instance, five points are accumulated for
+every square that the unit is away from
+its other demi-brigade (if divided). Five
+points are also accumulated for each
+square the unit is away from its division
+leader. For each square a unit is away
+from its corps leader, two points are accumulated (Note: These values vary
+slightly depending on the particular
+game). The resulting total is divided into
+28. The results will be rounded up or
+down to insure that they are between
+0.5 and 1.5. This quantity is further
+reduced by adding in the state of mind
+values for both the division and corps
+
+leader, with the lowest possible result
+again being limited to 0.5.
+What this all means is that each
+brigade should stay in close proximity to
+their respective division leader, three or
+four squares away at the most, and the
+corps leaders should be positioned near
+the center of the units he commands or
+near key points of action. It also means
+that leaders with high bonus ratings
+should not exposed needlessly to combat. As stated above, a leader with a
+high rating has less of a chance of becoming confused and a confused leader
+will greatly reduce all of his subordinate
+units' ability to move and fight effectively. For example, a unit obtaining the
+maximum value of 1.5 for distance factors can still end up with a command
+and control modifier of 0.9, should both
+its division and corps leaders be confused. Thus, one should not casually involve division, and especially, corps
+leaders that have high ratings; in combat. The loss of a highly qualified corps
+leader will have numerous and severe
+negative effects on the corps' ability to
+function effectively for the remainder of
+the game. Finally, before sending a unit
+into combat, one should also consider
+how the "Command and Control" rating
+will affect the unit's strength in conjunction with other modifiers.
+
+Other Effects
+Related to Leadership
+In order to perform any operation such
+as moving, firing, engaging in a melee,
+building fortifications, or changing
+modes, a unit must have the appropriate number of operational points.
+The more operation points a unit has,
+the more it can accomplish in one turn.
+The number of operation points a unit
+is allocated each turn is based on the
+"Command and Control" rating in conjunction with the unit's morale and a random number. Thus, the "Command and
+Control" rating directly affects not only
+the unit's combat strength, but its ability
+to function effectively on the battlefield.
+Each time a unit engages in combat,
+whether in the offensive or defensive
+mode, it expends one of its ammo
+points. At the beginning of each turn,
+the unit is resupplied. Again, the higher
+the "Command and Control" rating assigned to the unit, the higher the probability that the unit will be resupplied. A
+unit without ammo cannot attack and
+defends with a 70% reduction.
+A unit that is disrupted or routed cannot attack and is, in effect, useless. The
+ability of a unit to recover from disruption is based on the "Command and
+
+Control" rating and whether the unit is
+in an enemy zone of control. Rallying a
+routed unit is likewise based on the
+"Command and Control" rating, as well
+as its morale. In both cases, it is clear
+that the rating has a significant and important role toward influencing the play
+of the game. Here, the higher the rating
+is, the better the chance for that unit to
+return to service.
+
+Using Leaders Effectively
+As explained above, insuring that
+leaders maintain control of their units is
+the key to obtaining higher "Command
+and Control" ratings. These higher
+ratings, in turn, affect practically every
+aspect of the game and it can severely
+impede one's progress toward total victory if they are not taken into consideration.
+The added firepower, in terms of increased unit strength, which is obtained
+whenever division and corps leaders are
+included in an assault, makes including
+them in combat whenever possible a
+tempting strategy to follow. While this
+tactic can sometimes cause the additional casualties needed to disrupt or rout
+an enemy unit, the down side of this
+strategy is that the leader is constantly
+being exposed to fire and thus, runs the
+risk of being killed or captured. Every
+time the unit to which a leader is attached takes casualties, a probability
+check is made to see if the leader was
+one of those killed or wounded. The
+elimination of a key corps or division
+leader, as stated above, can reduce the
+combat effectiveness of many units for
+the remainder of the game.
+I have found that it is not wise to split
+up the brigade to which a division or
+corps leader is attached. This reduces
+the possibility that a key leader will be
+killed during combat. I use units with
+division leaders assigned to attack
+enemy forces that are known to be
+weaker and where the possibility of
+being outflanked is small. I also try not
+to attack with units that have corps
+leaders assigned to them, unless a flank
+attack presents itself and I can protect
+that unit from a major counterattack by
+utilizing friendly units which are nearby.
+SSI has done an excellent job at
+simulating the effects that leaders had
+on their units during that era. they have
+also captured the feeling for the difficulty
+that the generals must have experienced
+attempting to command and control
+their units in combat. In the final
+analysis, these games test one's own
+ability as an Army commander to the
+limit.
+
+Review
+
+T
+
+he period from mid-1862 through the end of
+
+1863 saw the tide slowly changing in the
+American Civil War. Especially in the eastern
+theater, Union forces began to give as well as they
+got. Were Union tactics improving? Were Union
+troops improving in quality? Or was the balance in
+the "on-the-field generalship" changing? SSG's
+latest offering, Decisive Battles of the American
+Civil War, Volume ll (DBACW-II) is your opportunity
+to explore the last question in particular. In keeping
+with their tradition of designs with "viewpoints," the
+latest puts the player onto the battlefield as the actual commanding general. It is a highly accurate and
+historical simulation, as well as a product which
+raises some interesting questions about the true role
+of the overall commander in the midst of battle.
+
+Boilerplate Special
+DBACW-II is SSG's second offering in their series
+of American Civil War titles, with this game covering
+five battles from mid-1862 through the end of 1863.
+The scenarios cover the battles of Gaines Mill,
+Stones River, Gettysburg (scenarios for Day One
+and Day Two), Chickamauga, and Chattanooga.
+The game uses brigades as the units of maneuver,
+and one hour turns. The system uses an "orders
+phase" at the start of each turn, where players can
+check the status of their army and issue orders to
+particular units and formations. Next, the computer
+resolves combat and moves all units. As usual, SSG
+gets high marks for laying bare the guts of the combat routines, so that you can get a feel for which factors have significantly greater or lesser impacts in
+combat.
+The game system places great emphasis on the
+maintenance of a proper command perspective for
+the player (another signature mark of SSG games).
+You play each scenario as the battlefield commander and the decisions made each turn are
+relevant to that position. You send orders to subordinate formations (corps and divisions), and can personally direct the actions of a limited number of actual brigades. Orders to corps and Divisional commanders will be received (or perhaps not), interpreted, and acted upon by the subordinate commanders (played by the computer), and may or may
+not work out the way you planned. The possible orders which you can give to various subordinate formations (corps and divisions) and units (brigades)
+will vary with the individual situations. Formations
+receive orders to adopt offensive or defensive attitudes and map objectives. Individual units can, on
+the other hand, generally be given more specific
+directions. Command control, sighting, and communications are all handled by the computer; and
+these are what decide how many of your formations
+and units are able to receive orders from you each
+turn.
+While the player typically maintains contact with
+most of his formation leaders and directs the specific
+actions of a few nearby brigades, one other command option exists. You can move your Army HQ
+adjacent to a specific corps HQ and take personal
+command of that corps (sometimes you simply must
+do this to keep some dunderheaded commander
+from completely messing up the battle). Of course,
+
+Decisive Battles
+of the
+
+American Civil War
+Volume Two: Gaines Mill
+to Chattanooga
+by Jay C. Selover
+while you are so engaged, you
+can usually watch as things go
+completely off course all over
+the rest of the battlefield! All in
+all, the frustration and exasperation level is quite high as you
+begin to realize how much of
+your Army's potential remains
+underutilized because you can't
+assume the classic gamer's
+perspective and move all the
+brigades together in a concerted effort.
+
+Aye, There's
+The Rub!
+So, the game effectively transmits the frustration of true command—isn't that the whole
+idea of a game designed with a
+"command perspective?" Right,
+well I guess my basic problem
+with the game then is that it
+was basically no fun being a
+1
+Civil War battlefield commander, so it's no
+fun playing the role of one! Every scenario
+starts out with starting units in position
+SYSTEMS:
+# PL AYERS:
+and with initial orders given (more on this
+crucial point anon). You plop down out of
+DE SIGNERS:
+the sky into Meade's boots and spend the
+whole game trying like hell to make your
+PUBLISHER:
+presence have an impact on the battle.
+The boys already know what to do, and
+there are just too many of them for you to run your
+personal headquarters around giving them all orders. The scenarios all tend to evolve along historical outcomes; not that this is necessarily bad—perhaps it teaches us that these battles were all destined to turn out the way they did regardless of the
+presence of the individual commanding generals. If
+that's the lesson, thanks very much but I would have
+rather read it in a book. If that's not the lesson, then
+I'm at a loss to explain my inability to achieve a
+gratifying level of involvement in the battles. Maybe
+I've missed some "trick" to successful utilization of
+"the commander" or maybe I'm just a poor leader,
+but I've played a lot of games (including quite a few
+excellent "command perspective" simulations) and I
+just don't get it. I feel the same involvement playing
+the game or just watching the computer play both
+sides.
+
+Decisive Battles of the
+American Civil War—Vol. Il:
+Mill to Chattanooga
+Apple. II, C-64/ 128
+1-2
+$40.00
+Roger Keating,
+Malcolm Power,
+and
+Strategic Studies Group
+Gaines
+
+Wald
+
+CA
+
+Any Bodies Left Breathing?
+Actually, there is one missing design feature which
+I'm sure would have raised my excitement level for
+DBACW-II considerably—a pre-battle briefing to
+determine "rules of
+engagement" a la the SimCan games. In those
+games, the commander establishes a guiding set of
+principles or battle
+doctrine establishing
+proper procedures and
+priorities when the enemy
+is encountered. The biggest problem in DBACW-II
+is that the scenarios all
+start with the battle just
+about to be joined and all
+of your forces have already been given their "standing orders" as to posture and objectives. A critical
+element of being the commander is what you tell
+your subordinates to do before a battle actually
+begins. That way, when communications become a
+shambles during the battle, you have some hope
+that your minions will continue to pursue your overall objectives. Now, in all fairness, you can do this
+with DBACWII; it's just a pain. Thanks to the excellent scenario modification and design kit included
+with the game (have I forgotten to laud this standard
+element of all of SSG's designs? As usual, their
+
+games are basically worth the price if only for the
+tremendous scenario design capabilities in these
+marvelous utilities!), you can take any standard
+scenario and create a modified version. In this
+modification, you can go in and play around with
+the standing orders of all subordinates. By doing
+this, that key division that starts the game way at the
+other end of the map can immediately make the
+flanking attack which you would have ordered the
+night before the battle, had you been the actual
+commander. Get the idea?
+
+Turn Your Radio On
+Wait just a minute now, some will say. The game
+does include a perfect mechanism to raise your involvement as commander, a "radio flag". Yes, it is true,
+the start up menu includes a couple of options—
+one places all units visible on the screen whether
+"sighted" of not, and another toggles on a radio for
+you. Playing a game with the radio allows you to
+send orders to all of your subordinates at all times,
+regardless of the actual communications situation.
+First of all, the fact that SSG included the radio option in DBACWII tells me that they realized that playing without it would not give the gamer the same
+satisfaction one is accustomed to from SSG designs
+(after all, this series is the first of their designs to
+allow anything other than a strict "command
+perspective" playing) Ed: Objection! This is calling
+for assumption on the part of the reviewer and
+does not take into consideration the rationale expressed by SSG; to wit, that the radio option is
+provided as a tutorial mode to get players accustomed to the mechanics of the game.]. Second,
+DBACWII with the radio on is now like any of the
+other "God's-eye-view" classic-boardgame-style computer games. It is all right, but not noticeably improved over them. No, SSG games are "command
+perspective" games in my book. The radio is a nice
+touch and that's the way it plays most effectively, but
+for this design to make a statement it needed to
+work as intended; as a classic study simulating Civil
+War battlefield command.
+
+Final Verdict
+Few games have ever been as difficult for me to
+review as this one. I have dragged myself back to
+the computer time and again, fought more than thirty battles (mostly solitaire, but a couple against live
+foes), and can now enjoy the relief of being able to
+put the game up onto the top shelf of my "hallowed
+archives" for awhile. Why does a game which starts
+out with so much going for it ultimately leave me disappointed? Perhaps, because it destroys our illusions
+about the impact of ACW commanders or perhaps,
+because it isn't actually realistic simulations that
+garners are looking for. Anyway, then, there you
+have it. This game is an excellent simulation of Civil
+War combat. brigades and larger formations all tend
+to behave in realistic ways. Computerized subordinate commanders adopt historical strategies and
+objectives. The results are realistic; both on the
+smaller scale of the individual brigade combats, and
+on the larger scale of the typical flow of the battles.
+Yet ultimately, I found no joy in the task of trying to
+move my men to glory.
+
+(Continued from page 37)
+
+Magical,
+Mystery Future
+Once your team is created and their ship named, the game
+begins. It's a pretty frenetic beginning, as your transport ship
+comes under attack by raiders immediately upon arrival in the
+Caldorre system. Be certain you understand how to move the
+ship, raise or lower speed, target, and fire lasers, because there
+won't be much time to learn in the middle of battle.
+I his brings up an important point: never go into battle against
+raiders alone. Always make sure your fellow Interceptors are
+there with you or you could find your team dead very quickly.
+Carefully check the Federation display and observe where the
+rest of the squadron is before rushing off to fight.
+For awhile, most of the team's experience points will come
+from shooting down raiders. This nets you 25 experience per person, plus 100 credits from the Federation. When nothing is happening in space (the raiders aren't always out there), you can
+make some quick cash by dropping off science missions. It's dull
+work, but it's safe and you get 700 per science packet dropped.
+Mining isn't really worth the effort. Rambling around in hilly
+areas in your ATV to pick up the three types of ores is not only
+time consuming, but doesn't bring much money, either. If you
+do decide to mine, always sell your ores on the other planet,
+where you'll get a little bit more for them.
+After awhile, you'll be up to where you can board raider ships.
+This is where you can experience some up close combat, for
+which projectile weapons are recommended. The only reason to
+board these ships, aside from the experience gained in fighting,
+is to raid the armories. These are always in the same place and
+always have the same items. Grab as much as you can, the tesselator if nothing else, as this will bring you 600 credits when
+you sell it. A few raider boardings, and you'll have a fair amount
+of cash for training and ammunition, as well as replenishing fuel
+supplies.
+By the way, all those odd items, such as arisian lens and
+holophones and everything else, have no purpose (that I could
+discern) aside from being sold for cash. Don't buy any in the
+general store, just sell what you have there. In fact, you can sell
+almost anything even to the weapons stores; they'll buy your
+trinoculors and tesselators, too. The only things no one will purchase are the proscribed weapons, such as long range lasers
+and AK-4700's. However, you can buy and sell ammunition for illegal weapons anywhere.
+In between blowing up raider ships and training up attributes,
+your team can pay a visit or two to the one town on Norjaenn.
+Here you'll learn about the feud between the farmers and the
+ranchers. Most of them have pretty much the same thing to say.
+The really important people are the ones who show up (in EGA)
+as pale blue dots; make sure you speak to all of them.
+Speaking of blue, be on the lookout in space for blue ships,
+and hail each one you meet. One of them is Grager's space
+yacht and you really want to talk to him. For one thing, he'll do
+some nice things for your vessel (only once, though, so there's
+no point in going back again later).
+The people in the towers are, for the most part, rather uncommunicative, and you won't learn very much from them. Caldorrians in particular will tell you nothing and most of the people in
+the bars are the same way. After awhile, this becomes rather
+frustrating.
+
+Sooner or later, you will be called upon to settle a dispute between two races on Caldorre, the Warhaka and the Koshol. This
+is actually a simple mission, involving little more on your part
+than visiting the two races. The Koshol bear an uncanny
+resemblance to, well, Aliens, but they are quite peaceful and
+generally non-aggressive. Be sure to look around in the rooms,
+you might find a few useful things.
+Some time after this, you'll hear about a distress signal from
+Borkin on Ceyjavik (an Icelandic-sounding planet where you
+make most of your science drops). You won't be able to find
+Borkin before you get this message on the Fed channel (it's a
+good idea to look at the Fed channels every so often, so you
+don't miss something important).
+Be prepared for this mission, as Borkin is deserted except for
+rampaging ice tigers. They are very nasty customers and can do
+a great deal of damage. Come well-armed and well-armored for
+this one. To save you some time, the most important building to
+explore is the control center. The rest have little in them besides
+the tigers. However, fighting tigers is a good way of building up
+experience, if you're looking to do that.
+Eventually you will find your way to an underground lab that
+leads in turn to an undersea volcano with five levels. Be
+prepared, since green dragons with acid breath are lurking down
+here (really!). They are most prevalent on the fifth level, but they
+also wander around in the upper levels.
+At the end of this trip, you'll find the first part of the explanation for the raids on the transport ships and some idea of what
+you have to do next, although what is not entirely obvious. Fortunately, you do not have to go through the volcano to get back
+out again.
+Actually, this is the time to pay a return visit to Norjaenn; you'll
+notice that some people who were there before aren't there now.
+Talking to the ranchers and farmers will provide the information
+you need to find the missing people. This, in turn, will bring you
+to the next major stepping-stone in the game, reaching the Sentinels.
+One of the things you'll learn about from them is the battle station from which the raider ships are launched. This battle station
+can be a tough place, although it will also provide you with
+some neat armor and weapons. You'll probably make several
+trips to the station (once you find out where it is and how to get
+there) before you're ready for your actual tasks there. Note that
+the battle station armories are restocked between visits, so each
+time you arrive, there is a fresh set of weapons, ammunition,
+and treasure items to take.
+Now, we come to the ending. Unfortunately, the final showdown with the chief bad guy (yes, there's one of those here)
+lacks any excitement. However, the worst is yet to come. Having
+dispatched the villain, you loot his chest of goodies (and there
+are some nice goodies in there) and hurry back to your ship.
+As soon as your team is in the ship, it leaves the battle station.
+You get a brief "Congrats, you did a good job" message, followed by your team being put automatically into cold sleep. The
+game is saved at this very point to one of your two save positions. That's it, game over.
+You don't get a chance to turn anything into cash or train
+anyone who might have gained levels while in the station. Just
+ZAP! it's all over until next time. This is one of the crudest endings since the days of the old two-word adventure games and
+considering the effort that was put into the rest of this game,
+you'd expect the authors to come up with something a little
+more elegant than that.
+Copyright 1988 by Scorpia, all rights reserved.
+
+Review
+
+T
+
+he dragon's fiery breath burned across Goldmoon's
+self, Caramon became his brother's protector and this has given
+arms. The young cleric held aloft her blue crystal staff,
+Caramon a much needed honing of his battle skills. Sturm
+source of her powerful magic, and began summoning
+Brightblade's father, a knight of Solamnia, sent Sturm away for
+forth the spell to deflect the dragon's breath away from her.
+his own safety when enemies sought to destroy the family.
+Before she could finish the spell, her lover, Riverwind, darted
+Sturm was never again reunited with his father, but swore that
+swiftly between the black dragon and herself. Without a spell
+all ideals of knighthood would forever govern his life. His skill
+to protect him, he was literally
+with the two-handed sword
+roasted alive. It was left to
+marks him as the best fighter
+Sturm Brightblade to dispatch
+in the party and a logical
+the dragon with a vicious
+choice for point man.
+slash of his mighty
+Goldmoon and Riverwind are
+broadsword.
+two young lovers who have left
+their tribe and are now looking
+by David M. Wilson
+Goldmoon knelt by her
+for a group called the seekers.
+lover's scorched and blackThe lovers hope the seekers
+ened body. As tears glistened
+can explain the strange powers of
+on her cheekbones, she raised her clerical
+Goldmoon's staff. Riverwind was sentenced to
+staff and summoned forth its most powerful
+death when he brought the staff home from a
+spell. In just a moment, Riverwind began to
+quest, but could not make it work for
+stir! Working feverishly, Goldmoon called
+Goldmoon's father, the tribal chief. With the
+forth healing spell after healing spell until
+aid of the Blue Crystal staff, Goldmoon magithe young warrior was completely whole.
+
+Heroes and Heavies
+of the Lance
+
+"I thought I'd lost you," she said in a
+hushed tone.
+After a brief healing session (faster than
+you can say Oral Roberts) the party con-
+
+tinued their quest through the musty ruins of
+Xak Tsaroth.
+—Roll Credits
+
+Scouting Locations
+Sound like one of your own scenarios?
+
+Heroes of the Lance is based on TSR's
+DragonLance game world, Krynn.(More
+specifically, it is based on the DragonLance
+game module: DL1 Dragons of Despair)
+These modules have already inspired a series
+of fantasy novels and a "DC" comic book
+based on the fantasy world. Now, courtesy of
+SSI and U. S. Gold, the fantasy moves onto
+computer disk. The player controls eight heroes
+in his search for the disks of Mishakal.
+It seems appropros for the goal in a computer
+game to be recovering disks. This time it is not
+floppy disks, but the disks of Mishakal. These circular plates of platinum contain all that our
+heroes will need to restore the knowledge of the old gods to the
+people and help fight the Queen of Darkness. Once the people's
+faith is restored, the old gods will be able to intervene on behalf
+of their followers and the balance between good and evil will be
+restored. However, the Queen of Darkness has surrounded the
+ruins of Xak Tsaroth with mercenaries and monsters, so the
+party of heroes has no choice but to fight their way through the
+ancient temple until they get to the disks. When they find the
+disks, they face the biggest challenge of their warrior careers, a
+behemoth black dragon named Khisanth who guards the disks.
+
+Cast of Characters
+The characters will be well-known to followers of the DragonLance saga. They are a well-mixed crowd. Tanis is the halfhuman, half-elven warrior whose skill with a sword is surpassed
+only by his excellent marksmanship with a bow. Caramon and
+Raistlin Majere are twin brothers who seem to be the opposites
+in this party. Raistlin is a young mage who recently completed
+"the test" which gave him his powers, but ruined his physical attributes. Because his brother was constantly endangering him-
+
+cally spirited Riverwind away from the danger.
+Tasselhoff Burrfoot is a kender, a member of
+that race of small people who have earned a
+reputation for "appropriating" anything that is
+not nailed down. Tasselhoff has explained to
+the group that the kender don't steal for
+stealing's sake, but because of their overly
+developed sense of curiosity. (They probably
+still closely watch the little man, anyway.) His
+main weapons are a combination staff and
+slingshot. The last individual in the party is
+also a little man. He carries a huge battleaxe
+and villains and monsters don't seem to enjoy
+meeting him at axe-throwing range.
+
+Each time this game is booted, players are
+greeted with a portrait of each character.
+Before play begins, the program checks to
+see if players have read the manual, utilizing
+a pop quiz (copy protection) with questions
+like: What is the strength for the character Riverwind?
+
+Stage Directions
+Players must select a marching order for their
+eight people. It is imperative to keep the mage
+and cleric id the front line. Raistlin and Goldmoon
+are free to work their magic only if they are one of the first four
+characters in line. Although your magic users should be in the
+front ranks, great pains must be taken to protect them from
+harm, especially Goldmoon. Her clerical staff is of no use to any
+other characters. Since she is the group medic, keep her alive at
+all costs.
+Personally, I like the following marching order: 1) Sturm, 2)
+Flint, 3) Raistlin, 4) Goldmoon, 5) Tanis, 6) Riverwind, 7)
+Caramon and 8) Tasselhoff. This order can be changed at any
+time throughout the game. The player controls the marching
+order, except when a hero is killed or Goldmoon is badly hurt. At
+any point that Goldmoon is in serious danger, Riverwind
+automatically races to the front to defend her.
+Combat is handled via joystick. Only the hero in the very front
+can fight. He gets all the glory and most of the wounds.
+However, players may also use magic during a combat round.
+Don't be afraid to stop a battle round and utilize a magic spell
+because to survive it will take everything that the party has.
+The attributes in the manual play more of a part in the game
+(Continued on page 56)
+
+(Continued from page 54)
+
+than is easily discerned. For instance, Raistlin is extremely weak
+and is easily defeated in any type of a physical battle. He moves
+slowly, almost walking with a limp. He doesn't jump, he levitates
+(you've got to see this). Other attributes also impact the game's
+play, since this is "hack and slash" role-playing without the paper
+and dice. No one will win this game solely because he knew how
+to handle a joystick. Each character is programmed in and it's
+up to the player to make the most effective decision in utilizing
+each character.
+The enemies are: mercenaries, Baaz Draconians (gargoyle type
+creatures) who turn to dust when destroyed; Giant spiders,
+(remember to swing that sword down); Trolls who are almost impossible to kill in a pitched battle unless a magic spell is used
+(either charm or hold person) to freeze them while the heroes
+slash away; Gully dwarfs who are scummy little nuisances and do
+little or no damage, but will remove character's deserted bodies;
+Wraiths who drain away your lifeforce (charm and slay these
+quickly); Hatchling Black Dragons (these are easily killed once a
+character who is protected by a "Deflect Dragon Breath" spell
+pursues them into a corner and swings for their legs and lower
+body); and the BIG MAMA dragon herself, Khisanth.
+The game manual advises strategic withdrawals when an opponent is overpowering a party. These strategic retreats provide
+the party with a time for healing. Also, it is good to keep in mind
+that the further a party progresses, the more monsters it will encounter.
+
+Players will eventually find their way into a room that is a complicated maze full of chasms and pitfalls. Remember that when a
+group turns, they are not moving in that direction only spinning
+on their heels. The maze is a bit complex for the average player
+and may prove to be a serious drawback to some (Hint: Don't
+turn your back on the South or you might not rise again!).
+The graphics on the ST version are extremely satisfying and
+visually appealing. Rarely does a program lend so much attention to detail outside of the title screens. Each character is
+presented in a manner consistent with the illustrations of the
+DragonLance game modules, comic books and fantasy novels.
+The sound effects are above average with appropriate grunting
+and groaning in battle sequences. The sound of sizzling
+dragon's breath sounds like a blazing campfire. Repeatedly
+wounding an enemy may produce a series of quick groans
+which is similar to someone tossing their cookies. The sounds
+really add to the flavor of the game. The theme music is the only
+exception, it just didn't seem to fit the tone of the game.
+
+Press Clippings
+Heroes of the Lance is a quality product that will leave most
+players with the strong conviction that TSR selected the right
+company to produce the computer versions of AD & D
+products. DragonLance fans are not the only group that will be
+impressed. If you like an action/strategy blend in a fantasy game,
+this product is for you.
+
+(Continued from page 6)
+
+product will not support SubLOGIC
+Scenery Disks.
+
+them to create a new readable phrase.
+I'd hate to see any sequel to The Fool's
+Errand which didn't include such a unique and fun type of puzzle.
+Steve Meretzky
+Cambridge, MA
+
+Ed: We presume that, as Infocom's
+gregarious guru of goofiness and a
+prominent game designer yourself
+("Leather Goddesses of Phobos," "Zork
+Zero," "Planetfall," and "Stationfall,"
+among others), your observation will
+bear enough weight to send Cliff
+Johnson (designer of "The Fool's Errand") happily back to include a new
+puzzle in his sequel and to offer Alan
+Roberts (our reviewer) a new perspective on the previous puzzle.
+
+Fly The Scenic Skies
+We have been swamped with phone
+calls from owners of Microsoft Flight
+Simulator version 3 concerned that the
+
+The following information is crucial for
+loading and operating Scenery Disks
+with Flight Simulator and applies to
+Europe Scenery Disk as well as Scenery
+Disks #1-#7, Japan and San Francisco.
+Although Flight Simulator's manual
+does not include any reference to
+Scenery Disk support outside a mention
+on page 75, a "readme.doc" file on the
+disk itself does explain the procedure for
+converting a Scenery Disk to a scenery
+file and loading the file to a hard disk.
+You can load a Scenery Disk in either
+of two ways: as a copy protected disk
+from drive A or as a scenery file loaded
+into the same hard disk subdirectory as
+Flight Simulator. To load the scenery
+disk from drive A, you first need to load
+Flight Simulator from the hard drive or a
+floppy drive (preferably on drive B but
+you can operate both from drive A in a
+pinch).
+When you're positioned for take-off,
+press shift-E to bring up the Scenery
+Library menu. Choose option 1 (Floppy
+disk in Drive A) or the number associated with the scenery file you wish to
+
+use. Then invoke the NAV/COM menu
+and choose selection A to set your position within the scenery area.
+This should have Flight Simulator soaring through the scenery in no time. Of
+course, if further assistance is required,
+the SubLOGIC customer support department can be reached, toll free outside Illinois at (800) 637-4983 or (217) 3598482 within the state.
+Thanks for helping to get the word out.
+Sincerely,
+Deb Israel
+SubLOGIC
+
+(Continued from page 28)
+
+Mirror Images
+
+(even if it scrolls up on the screen step-by-step as you explore).
+Finally, even though the programming is done well (except for
+the introduction, the program is in assembly language), the disk
+access time required on the Commodore forces a slower than
+optimal pace.
+
+The game is personalized for me and keeps my interest.
+By allowing the player to mix and match character heads
+and torsos to create portraits of our player characters,
+I was even able to make one that looks something
+like the real weasel-faced me. I like that!
+
+Still, no matter how many quibbles I throw into this article, they
+are only quibbles. Overall, I like this game and think the entire
+SSI design team has done a very good job. Take it from a "rival"
+designer, Pool of Radiance has my recommendation for every
+computer fantasy role-playing gamer.
+
+In fact, while I'm talking about art, SSI has put together some
+of the best art to be seen in any fantasy role-playing game. The
+colors are well-chosen for the C-64/128: bright green, yellow,
+blue, black, maroon, orange, red, and white. There is a variety of
+different walls, doors, shop entrances, buildings, etc.—more
+variety than I have seen in any other crpg, including The Bard's
+Tale series (which used to be my standard of excellence). The 3D perspective is very effective and the portraits of the monsters
+are brilliantly realized. Some, like lizard-men, have spot animation and some don't, but when they do, it is cleverly done. Nice
+job!
+The third important factor in game design is that the game
+must seem winnable and be worth doing. Every CRPG currently
+on the market seems too tough on the players. This is probably
+a holdover from the days of arcade gaming when the idea was to
+separate customers from their quarters. Killing a never-ending
+stream of monsters to build up hit points and other attributes
+gets boring after a while, no matter how good the art is. Mixing
+the monsters with puzzles to solve and tasks to accomplish
+keeps the game fresh for a longer period of time. In spite of always being outnumbered in this game, most of the combats
+seem winnable. Beyond this, a very nice touch in the combat algorithm is that NPCs in the game have morale and must succeed at a morale check or be forced to run or surrender. My
+fighters may be on their last legs, but we know we're home free
+when the foes begin to run or surrender. I love it!
+Fourth, the world of the game must hold surprises. Pool is holding up nicely. It blew me away the first time I went to a tavern in
+town. It seemed to be a one-trick place where you could play a
+simple even-money gambling game. Suddenly, I was jostled by a
+thief. When I chose to react violently, I found myself in a noholds barred tavern brawl . . . to the death! Even better, half the
+fighters in there turned out to be on my side. It was a real
+brouhaha, but we won. Then, when it was over, the watch
+showed up. One of these times, I'm going to stay and see what
+happens if we don't run away when the "cops" arrive.
+There are several other surprises that I've encountered in the
+city of Phlan. The scenario designers fairly dare the players to let
+their antisocial impulses go by challenging you to break into
+shops or the town hall at night when they are closed. The watch
+wanders around in huge gangs of mid-level fighters (much
+tougher than my beginning-level fighters) and practically dares
+you to make trouble. In addition, the training halls will allow you
+to recruit NPCs for your party, but they'll also cut you off if you
+go through too many choices. I'm still at the beginning of the
+Pool of Radiance adventure and I look forward to surprises to
+come.
+In a more critical vein, Pool of Radiance is not a perfect game
+design. Several parts of it leave me unimpressed. Even with the
+computer handling the complexity of the A D & D rules, some
+parts of the game are too cumbersome. I have wasted hours
+having my characters memorize the same spells over and over
+again. The automap function is also a big waste of time. It only
+shows you where the walls in the vicinity are, whether you've
+been there or not. This is illogical. How would you know? Part of
+the fun of this kind of game is doing the mapping involved
+
+Counterpoint
+
+It's D D
+and I Don't!
+by Trade Forman Hines
+Trade Forman Hines is an experienced adventure gamer.
+CGW was surprised to hear that she was not impressed with
+"Pool of Radiance," so we asked her to share her reasons in
+this article.
+The best thing you can say about Pool of Radiance is that it is
+real, by-the-book, Dungeons and Dragons ... the rules . . . the
+play . . . the original role-playing adventure. Of course, that is
+similar to saying that the best thing about an 8K, build-it-yourself Apple computer is that it was the first.
+In the last few years, computer dungeonmasters like Lord
+British, Andrew Greenberg, Robert Woodhead, and Brian Fargo's
+Interplay team have helped to evolve computer role-playing
+into absorbing, innovative worlds you can get lost in. Pool of
+Radiance does not accomplish this for me.
+The box says Pool of Radiance is based on the Advanced Dungeons & Dragons system. Funny—it looks a lot like Basic, or
+non-Advanced D&D to me. This battle-scarred ex-dungeonmaster noticed a number of "advanced" enhancements missing.
+Notice that the more exotic character classes like Ranger,
+Paladin, and Druid are not included. Further, the choice of
+characters is limited to the standard Fighter, Mage, and Cleric
+classes . . . just like the "basic" game.
+Moreover, advancements and spellcasting are severely curtailed, leaving players with only first, second, and third level
+spells. So, no matter how much experience a cleric might earn,
+he or she will never be able to cast the most valuable incantation of all, "Raise Dead." "Magic Missile" spells are the best a
+mage can aspire to, albeit, they are a bit more potent than
+similar spells in other games since they strike multiple enemies
+(and sometimes, friends) within a large radius.
+One area of the game is truly innovative for CRPGs: the
+player's ability to customize his or her own character icon. In
+Pool of Radiance, players not only choose their race, class, and
+sex, but also pick what they look like. When new characters are
+created, one can pick from a large assortment of character faces
+and body types to illustrate the new arrival in close-up mode. Battle icons can also be customized according to the type of armor
+and weaponry the new character wears. This feature is especially
+nice because it enables each character to be differentiated at a
+glance during battle sequences.
+Customizing characters is a great idea inspired by face-to-face
+role-playing with miniature figures. It would be nice to see this
+feature incorporated into other computer RPGs. Alas, however,
+(Continued on page 62)
+
+(Continued from page 60)
+
+Mirror Images
+even this feature has its murky points in Pool of Radiance. When
+you customize your icon, you are presented with a choice of a
+large or small icon. Good luck trying to figure out the difference,
+though. As many times as we selected first one option, then the
+other, we never did find a difference. The rule book was no help
+on this point.
+Another oddity about the character creation sequence is its apparent sexism in one area and its complete disregard for gender
+in another. Any female character automatically begins the game
+with less strength. It may be realistic, but since there is no corresponding increase in charisma (as in Basic Dungeons &
+Dragons), having female characters becomes a poor strategic
+choice.
+Players who go ahead and create female characters anyway will
+be surprised to be offered a number of bearded faces when they
+customize their character pictures. This after the rule book states
+so emphatically that the choice of illustrations is based on the
+type of character chosen.
+The documentation is excellent, but I take exception to the
+rune-wheel copy-protection. Although code-wheels are certainly
+a common form of copy-protection, this one consists of dozens
+of tiny, squiggly runes that can strain eyes to distraction.
+
+The game consists of a series of mini-quests which grow
+progressively more difficult. If you prefer puzzles and strategy to
+hacking your way through armies of orcs, however, you will
+probably be disappointed. Most of the early mini-quests consist
+of such strategic missives as "Clear out the bad section of town"
+or "Go to the woods and kill everything in there." I never heard a
+word about secret messages or people, fantastic objects or
+wandering mages.
+As time passes in the game, the world becomes more populated with fiendish creeps. Rather than run into a few more lethal
+creatures, however, players are apt to find groups of 20, 30, or
+even more orcs. Needless to say, the ensuing battle can be
+mind-numbingly long.
+During battle, you have to wait for each and every monster to
+move, even if all they are doing is guarding something. With a
+big group, a melee round can take upwards of half an hour.
+It is not even safe to stop into a tavern for some beer and a
+chat. While our party was visiting, a brawl broke out and we
+were literally trapped in the middle of the melee, a sequence that
+lasted 40 minutes—too long for a sideline event.
+Dungeonmasters (DMs) have always been the heart and soul
+of RPGs. Personally, I always found the best DMs were those
+who didn't stick by every single rule. Pool seems to have a DM
+problem—the rules and restrictions often seem more important
+than the game. Don't get me wrong—Pool of Radiance is not all
+bad. However, with so many truly outstanding adventures on the
+market, Pool of Radiance does not make my "A" list.
+
+(Continued from page 13)
+
+Everything You've Always
+Wanted to Know About
+
+"Empire"
+Ian forces should be easy to stop and
+mop up. To the northwest, however,
+things are not moving as smoothly.
+Kadma has hit your protecting fleet hard
+with battleships and a carrier. Once you
+lose control of the seas in that region,
+your land forces will not be able to hold
+out. Nevertheless, you are, even now, assembling your own invasion forces. 'The
+Book" does have some good advice in
+invading enemy-held territory, though . .
+
+The time will come when you will be
+required to invade a strongly held island/continent of the enemy. This is no
+small matter. You will need to build a
+large armada for the operation. Assemble as many transports as are available for the core of your fleet. The more
+armies you can deploy in the initial
+strike, the better chance you will have
+of overwhelming the enemy. Provide
+several heavy ships (battleships and
+cruisers), not only to protect the
+transports, but to provide shore bombardment for your invading armies. If
+the invasion is to occur outside the
+range of land-based fighters, an aircraft
+carrier is a must. Its fighters are important for scouting for the fleet, softening
+up the invasion area, and stopping
+enemy counterattacks. Destroyers
+should be used to scout around your
+fleet, acting as both an early warning
+system and protection from enemy submarines just waiting for a juicy
+transport or carrier to sink.
+Upon landing your armies, send your
+transports back immediately to carry
+additional armies to support the invasion. Be sure to escort these returning transports so they don't fall prey to
+enemy submarines. Keep the pressure
+on the enemy and soon he/she will be
+falling back on all fronts. Once this has
+happened, his/her doom is sealed and
+the war becomes a simple mop-up action.
+Things are going better, but at what a
+cost. The incursion to the northwest has
+been turned back and, all along the
+front, Krellan supported forces are in
+retreat. Kadma Pztlam will be working in
+the pleasure houses after the Krellan
+Command gets done with her. They do
+not appreciate commanders who fail!
+What! New combat reports are coming
+
+in from the east! Invasion fleets are
+reported outside the cities of Dupplin
+Moor, Shijo Nawate, Ypres, and Blenheim. What is happening? These cannot
+be Krellan-controlled forces! They aren't.
+Those foul-smelling Zaldrons have
+
+decided to initiate their own Operation
+Big Brother. More enemy fleets are
+being reported and all your forces are
+tied up fighting Krellan half a world
+away!
+New reports! Zaldron transports are
+now outside your home city of Spion
+Kop. You have no forces to stop them.
+Explosions can now be heard in the distance and the sky is lit with the macabre
+beauty of multi-colored power rays. As
+you destroy "The Book" to prevent it
+from falling into enemy hands, you
+wonder if the Krellan pleasure houses
+may have room for one more employee.
+
+Video Gaming World
+
+Video Gaming World
+12 month period ... The Nintendo Power Set, available at
+most retail outlets, is a complete
+system for high-energy players.
+It comes with everything to get
+started, including the Nintendo
+Control Deck, two game controllers, the Zapper light gun,
+and the Nintendo Power Pad.
+The two-sided vinyl pad
+measures 38" by 37" and plugs
+into the #2 controller socket,
+where it affects on-screen game
+action by the player standing or
+pressing on the red and blue
+colored circles. The Power Set
+comes with a three-game
+cartridge including: Super Mario
+Bros. (played with the regular
+controllers), Duck Hunt (for use
+with the Zapper light gun), and
+World Class Track Meet (controlled by the Power Pad). Track
+Meet includes a 100 Meter Dash,
+Long Jump, 110 Meter Hurdles,
+and Triple Jump. The events are
+combined in a special Olympics
+format for multiple players. Victory depends on the ability to
+control pace, as well as coordinate speed, and timing. Other
+games available for the Power
+Pad are Dance Aerobics and
+Super Team Games. The Power
+Pad's smoking hot play
+mechanics come with a warning:
+It may be hazardous for persons with heart, respiratory,
+back and joint problems, high
+blood pressure, or pregnant
+women.
+
+by Bill Kunkel, Joyce
+Worley, & Arnie Katz
+
+Video
+Gaming
+World's
+Newswire
+-Compiled by Joyce Worley
+Sega is going head-to-head
+with Nintendo this Christmas,
+with their own version of the arcade hit Double Dragon. The
+Sega version has a two-person
+cooperative play option and 64color arcade translated graphics
+... The "Atari Advantage Collector Promotion" is a bonus for frequent buyers. The gamer picks
+up a free poster and catalog
+from a videogame retailer, then
+attaches a proof of purchase
+seal from each game pack he
+buys. When enough are accumulated to earn a prize, the poster
+goes back to Atari for redemption. Five games gets you a free
+"Atari Advantage" T-shirt and fifteen games nets a free game
+cartridge (for any Atari system).
+Twenty-five games gives the consumer a special reduced price
+on Atari hardware (the 7800 system for $25 or choice of either
+an XE system or disk drive for
+$50), plus a chance to win a
+seven day expense paid trip for
+two to the Atari headquarters in
+California . . . Mickey
+Mousecapade (Capcom USA,
+for NES) sends Mickey and Minnie through a fun house, across
+the ocean, into a forest, onto a
+pirate ship, and into a
+mysterious castle, as they seek a
+missing friend. Obstacles include: falling spiders, wizards,
+scorpions, and pirates (who
+heave skulls at the pair of mystified mice). The game is
+designed for younger players in
+particular, but is suitable for
+adults, as well .....More than 50
+million Othello games have been
+sold world-wide," says Robert
+Holmes, Senior Vice-President of
+Acclaim. Rob went on to explain
+that people in 106 countries
+flipped their wigs over the classic
+"Reversi" game and now, it's
+coming for Nintendo ... WWF
+Wrestlemania, (Acclaim), featuring Hulk Hogan, Randy Savage,
+Andre the Giant, and other WWF
+
+fighters, lets Nintendo players
+use bodyslams, headlocks, dropkicks, and other maneuvers to
+recreate WWF battles ... Tengen Inc. (a subsidiary of Atari)
+has signed a licensing deal with
+Mirrorsoft of England for Tetris.
+The license covers all video
+home formats, including the
+NES. Players rotate and flip
+moving blocks as they fall down
+an on-screen shaft, to form unbroken rows. Developed by two
+Soviet programmers, the mental
+skill game intrigued computer
+games in both Europe and
+America, as well as copping
+numerous "Best of the Year"
+awards . Sega's Shinobi is a
+19-round martial arts war
+against street thugs, commandos, and Ninjas, fought against
+realistic backgrounds. The
+landscapes include: warehouse
+districts, mountainsides with underground fortresses, and an
+
+oriental palace. The attackers
+have swords, bombs, guns, and
+steel boomerangs, but the
+Shinobi hero wins secret Ninjutsu powers as the game progresses. This "Ninja magic" can
+freeze the enemy in his tracks,
+make the gamer's on-screen surrogate fly through the air, or
+cause lightning to strike the
+enemy. Still more ominous is the
+magic that commands eight miniature Ninjas to burst from your
+(on-screen) body to fight and
+subdue your foes . . . Business
+Week magazine chose Nintendo of America as one of the
+best companies in the world. In
+an article called, "The Global
+1000—The Leaders," the journal
+of business news ranked the
+entertainment company as
+#321. The companies were
+rated on price/earnings ratio,
+return on equity, sales growth,
+profits, and total assets over a
+
+Batter Up!
+For some reason, sports
+games have been among the
+weakest entries on both the
+Sega and Nintendo systems.
+Bases Loaded is a distinct improvement on most of the team
+sports videogames we've seen
+so far (including Nintendo's
+own Baseball cartridge), but it is
+still far from the ideal simulation
+of the national pastime.
+Bases Loaded resembles
+Hardball (Accolade) with its emphasis on the pitcher vs. batter
+confrontation. The problem is
+that it is not nearly as successful
+in realistically depicting that interaction.
+The brute fact is that it is too
+hard to hit the ball. The perspective employed for pitching/hitting
+(either a shortstop or second
+
+baseman's viewpoint, depending
+on whether the pitcher is left or
+right-handed) simply does not
+allow the player at bat to easily
+gauge the ball's position vis a
+vis the plate. The ball is easy to
+track as it leaves the pitcher's
+hand, but about halfway to the
+plate, the depth of field collapses
+and the ball seems to hang brief
+ly in mid-air before appearing
+suddenly in the
+catcher's glove.
+The scene is further confused by
+the fact that the
+on-screen umpire
+calls strikes by
+punching his
+right fist into the
+air. However,
+since the umpire
+wears a dark blue
+suit and stands
+against a similarly colored background, all that's
+visible is his
+pumping white
+fist, which, of
+course, looks just
+like the ball. As a
+result, when the
+ball would be called a strike, the
+ball (which is actually the
+umpire's hand) seems to leap
+into the air at the last second.
+It isn't just mere mortals that
+find the batting tough, however,
+even the computer-controlled
+team can be struck out almost
+at will. During one inning, ;this
+reviewer struck out the side on
+nine pitches—all of them
+thrown at slow speed right
+down the middle of the plate.
+Moreover, no pitch was faster
+than 72 mph (the speed of each
+pitch is displayed on screen).
+This boils down to games that
+take far too long to play (one
+nine inning contest took almost
+75 minutes) with way too many
+pitches thrown. This is unfortunate because it destroys much
+of the game's excitement and,
+even more disappointing since
+Bases Loaded portrays
+on-the-field action, especially infield
+play, quite well. Again, there are
+exceptions, but once the ball is
+hit, this game's excitement level
+rises dramatically.
+Bases Loaded uses a multipleviewpoint play mechanic. So,
+when the ball is hit, the perspective shifts to an angled overhead
+view of the relevant portion of
+the field. The graphics are attrac
+five in both modes, but the onfield view is superior from a
+gameplay point of view. The individual player animation is very
+nice.
+When a ball is hit into the cavernous outfield (they could hold
+
+a rock festival in right center
+without greatly disturbing play),
+an overview diagram of the
+diamond is displayed so that the
+user can track and, if desired, ad
+vance his/her baserunners.
+There are several annoying
+flaws in Bases Loaded that almost ruin the game. On balls hit
+to outfield, the field scrolls from
+the infield back. The problem is,
+
+TITLE:
+Bases Loaded
+SYSTEM:
+Nintendo
+# PLAYERS: 1-2
+PRICE:
+$44.95
+PUBLISHER: JaIeco
+
+the defensive player has no idea
+where his outfielders are so can
+only guess which one is under
+his/her control.
+There's a tendency for fielders
+to begin running in random patterns once the ball is hit. This is
+especially annoying when, for example, the shortstop breaks
+toward third base on a ball hit
+up the middle. There is also a
+pick-off play, but no real reason
+for one since there's no stealing.
+In fact, the player at bat can't
+even set the length of his/her
+baserunners' lead.
+Most annoying, however, is the
+game's pretense at offering
+strategic options. Twelve teams
+are available, each containing
+non-existent players, most of
+whom have no statistics or
+ratings in any skill areas. So,
+there isn't a dime's worth of difference between them. The sole
+statistic offered to the user is the
+pitcher's ERA, but this is meaningless. The only thing that really
+matters is how fast and accurately the pitcher throws.
+This game is a mixed bag. It
+has attractive animation and
+good graphics combined with a
+very intensive hitter-pitcher
+simulation. However, the frustrations frequently threaten to overwhelm its virtues.—Bill Kunkel
+
+Start Your
+Engines
+R.C. (radio controlled) Pro-Am
+is a compelling, innovating approach to car racing
+videogames. Because the player
+isn't pretending to be inside the
+car, the designers were able to
+
+TITLE:
+R.C. Pro-Am
+SYSTEM:
+Nintendo
+# PLAYERS: 1
+PRICE:
+$29.95
+DESIGNER:
+Rare, Ltd.
+PUBLISHER: Nintendo
+
+do away with the over-used
+pseudo-first-person perspective
+seen in games like Enduro
+(Sega), Mach Rider (Nintendo),
+and Pole Position (Atari). Instead of watching the action
+from behind the wheel of their
+vehicle, the user views an idealized version of what the radiocontrol racing fan sees: a
+smoothly scrolling, angled overhead perspective of the four-lane
+track.
+The result is an enormously
+satisfying contest in which the
+player guides his/her remote control pick-up truck (complete with
+antenna receiver) against a trio
+of computer-guided drones over
+32 different courses. In fact, the
+game's major weakness is the
+lack of a two-player mode.
+Its strengths, however, are
+legion. The player's driving skills
+are really put to the test as
+he/she maneuvers around puddles, oil slicks, squalls, pop-up
+metal barriers, deadly skulls, and
+other vehicles. Meanwhile, the
+player must attempt to pick up
+the various bonus objects: roll
+cages, zippers, missiles, bombs,
+and ammo.
+The flimsy instruction booklet
+fails to mention what these items
+actually do, but some are obvious. Missiles are fired from the
+
+front of the vehicle while bombs
+are dropped from the rear.
+Others are less clear in their purpose. After countless play sessions, it's still unclear what a "zipper" is or how a roll cage is useful to a radio-controlled car.
+There is no such problem in
+figuring out how the weapons
+work: if you can't outrace 'em,
+you blow 'em up. Demolished
+vehicles
+reconstruct themselves quickly, but
+precious time is
+lost in the
+regeneration. The
+missiles are more
+valuable than
+bombs, of course,
+since you must be
+in front of the targeted vehicle in
+order to employ
+the bombs, while
+missiles can be
+fired at the drones
+up ahead.
+The major
+bonus items are
+the Turbos (which
+increase acceleration around turns), Engines
+(boost top speed), and Sticky
+Tires (provide superior traction).
+Also crucial are the bonus letters. If a player spells out "Nintendo," the pick-up is replaced by a
+faster four-wheeler. A second
+spelling of the company monicker allows the user to trade up to
+an even faster off-road vehicle.
+The play system used is
+delightfully simple and very
+reminiscent of the control
+mechanic employed in real radiocontrolled racing. The "B" action
+button serves as the accelerator
+and the control pad steers the
+vehicle while the "A" button fires
+any weapons (or, if no weapon is
+available, beeps a horn).
+
+R-C Pro-An-is sounds and
+graphics are just fantastic and
+help make this the best game of
+its kind ever produced in any
+electronic game format. Even
+the scoreboard is gorgeous.
+Each win, place, or show is represented by an on-screen trophy of
+some sort (including golden
+wrenches, loving cups, and
+statuettes).
+Players who put a great
+premium on realism and are
+bothered by the idea of "picking
+up" things like engines and tires
+on the fly must take warning.
+There are many such surreal
+touches in this game. For
+players in search of a super
+racing simulation, R-C Pro-Am
+fills the bill perfectly.
+—Bill Kunkel
+
+Taking A Peek
+
+words with this interesting puzzle generator. The player can design his own puzzles, modify an existing one, or try to
+solve one of the 40 that are provided on
+disk. Devise a puzzle based solely on
+politics or some other equally "virtuous"
+activity. IBM with graphic adaptor Circle
+Reader Service #5.
+
+CRL
+Scorpion
+19 Harbor Drive
+Lake Hopatcong, NJ 07849
+ALIEN DESTRUCTION SET: Players
+choose from four different missions in
+this group of action games. The
+documentation consists of an audio cassette that sets the background for each
+game and gives tips on how to succeed.
+Ready, set, die. C-64/128 ($29.95) Circle
+Reader Service #6
+BLACK SHADOW: Attractive
+graphics enhance this action game in
+which the player must destroy the "death
+asteroid". Top down view and smooth
+scrolling add to the impressive feel of
+the product. Documentation comes on
+an audio cassette. Amiga ($34.95).
+Circle Reader Service #7.
+DESERT RATS: The only thing you
+can't change in this historical simulation
+of WWII desert warfare is the "gerbil" insignia of the "desert rats". Players
+choose from one or two player option,
+scrolling maps, and six scenarios to
+recreate all or a portion of the desert
+campaign. IBM ($39.95). Circle Reader
+Service #8.
+
+Interplay Productions
+1575 Corporate Drive
+Costa Mesa, CA 92626
+NEUROMANCER: Based on William
+Gibson's cyberpunk novel, this role-playing adventure game combines great
+graphics with a soundtrack by DEVO.
+Players use a variety of skills to break
+into government and corporate computer systems. That could never happen
+in real life, though. Apple II ($44.95), C64/128 ($39.95). Circle Reader Service
+#9.
+
+Lyric Software, Inc.
+6 Beach Plum Drive
+Northport, N.Y. 11768
+UNDER THE ICE: Players control
+either NATO or Soviet subs in this
+detailed, submarine combat simulation.
+Multi-scenarios; radar; infra red detection; active and passive sonar; tor-
+
+pedoes; cruise missiles; jammers; they're
+all in this future WWII! game. Time can
+be compressed or speeded up depending on the situation. You'll really feel the
+chills of future warfare down under the
+ice. Atari ST, IBM ($39.95). Circle
+Reader Service #10.
+
+Atari 520 ST ($39.95). Circle Reader Service #11.
+
+Maxis Software
+953 Mountain View Drive
+Suite 113
+Lafayette, CA 94549
+
+VISIONS OF AFTERMATH: THE
+BOOMTOWN: One to sixteen can play
+this post-holocaust, survival simulation
+which allows the player to customize the
+world and tailor the environment.
+Rebuild civilization, conquer society, or
+just survive; you'll find new meaning for
+the words "Home, Sweet Home."
+IBM/Tandy ($39.95) Circle Reader Service #12
+
+SKYCHASE: Full stereo sound and
+smooth wire-frame animation highlight
+this joystick driven, jet simulator. Players
+choose from six different jets, or fly a
+lightening fast paper airplane against
+human or computer opponents.
+Fighters can be customized as can the
+computer. Side by side view screens and
+joysticks keep both players locked on
+the screen, not the keyboard. Amiga,
+
+Mindscape
+3444 Dundee Rd.
+Northbrook, IL 60062
+
+Psygnosis Ltd.
+1st Floor, Port of Liverpool
+Building
+
+($39.95). Circle Reader Service #14.
+
+Wesson International
+1439 Circle Ridge
+Austin, TX 78746
+TRACON: An incredibly detailed, air
+traffic control simulation that will keep
+
+Pier Head, Liverpool
+Merseyside, U.K. L3 1BY
+CHRONO QUEST: The player must
+find a time machine, hidden in a
+chateau, then travel forward and back in
+time to track down his father's murderer
+in this graphic adventure game. Beautiful graphics and icon-controlled play
+make this interesting product worth a
+second look. Time travel, anyone? Atari
+ST, Amiga ($44.95). Circle Reader Service #13.
+
+Titus Software
+20432 Corisco St.
+Chatsworth, CA 91311
+OFF SHORE WARRIOR: Players battle opponents and the elements in
+futuristic, missile-armed speedboats.
+Maneuver between rocks and hard
+places while attempting to overtake and
+vaporize the other boats. Weekend water
+skiers, watch out! Amiga, Atari ST, IBM
+
+you glued to your screen. Created by a
+FAA manager and professional controllers, this program plays like an ATC
+trainer. "Players" adjust traffic loads,
+weather and pilot ratings as they run
+any of five different cities. You win by
+not losing! IBM ($49.95). Circle Reader
+Service #15.
+
+Contest Results
+
+Scavengers of
+Significa!
+The 50th Issue Trivia Contest Results
+The entries for CGW's Scavenger Hunt were so excellent, they
+even surprised us. Since we received two perfect responses and
+a couple of near-perfect responses, it seemed ludicrous to try for
+a tie-breaker. Our philanthropic playboy publisher has decided to
+dig deep in his wallet and pay a $100.00 first prize to both:
+William N. Moes of Defiance, Ohio and Alan Mandell of DeSoto,
+Texas.
+In addition, the second prize (a two year complimentary subscription to CGW) goes to Kenneth Helms of Fort Wayne, Indiana. Unfortunately, Ken missed question #41 and that was an
+extremely difficult question. The question asked, "What is the current name of the game reviewed on page 12 of CGW #30?"
+When the game was reviewed, its name was American Dream,
+but the name was later changed to Managing for Success.
+Third prize (a one-year complimentary subscription to CGW)
+goes to Steve Wadsten of Livonia, Michigan who only missed
+two questions.
+One surprising response was in regard to question #1: "What
+is the score of the Dodger baseball game in issue 5.3?" The expected answer was Brooklyn Dodgers 2, New York Yankees 0.
+However, several readers correctly pointed out that the SSI advertisement on page 6 had the Yankees ahead by a score of 2-1.
+Alan Mandell suggested that the screen was difficult to read, " . .
+. but with the pitchers involved [Ed: Don Newcombe is listed on
+the screen], it had to be the Dodgers leading the Yanks by a
+score of 2-0."
+Question #4 was one of the hardest to answer. Vince
+DeNardo's first issue as Art Director was technically CGW 5.5.
+However, he was not listed as such during the next four issues
+(#25-29). He was listed as "Graphics Coordinator" during that
+period and not referred to again as "Art Director" until #30. Congratulations to those who discovered the first time he was listed
+in 5.5 and apologies to those who were tricked into thinking it
+was #30.
+Question #9 had two correct answers. Respondents could
+have answered either CGW 3.3 or 3.5 as the debut of
+Electronic Arts. 3.3 mentioned the formation of the new company in Hobby and Industry News and 3.5 had a feature article
+on "Trip Hawkins' Dream Comes True."
+We liked Robert Thurman's perceptive answer to Question
+#16, "What do Douglas Adams, Isaac Asimov, Jerry Pournelle,
+and Roger Zelazny have in common?" We were merely looking
+for the observation that all of these famous science-fiction
+authors contributed to the article on the future of computer
+games in CGW #45. Thurman observed a more technical
+relationship: "All are sci-fi writers who have had their work transferred to computers. Doug Adams co-wrote Infocom's
+Bureaucracy and had his Hitchhiker's book turned into a game.
+Roger Zelazny's Nine Princes in Amber is a computer game.
+Jerry Pournelle writes computer books. Isaac Asimov was one of
+the first sci-fi writers to convert to word processing (It did not increase his productivity, but his editors loved his spelling checker). His Robots of Dawn is a computer game."
+Those of us at CGW offer our sincere thanks to all of those
+who participated in this scavenger hunt and our congratulations
+to those who won prizes. We also offer our respectful congratulations to those who offered us more than we asked for.
+
+Hall of Fame / R.I.D.
+
+Be it known to all gentle persons that the above named games have been
+well spoken of by our readers over a goodly period of time. Therefore they
+have been enshrined in the CGW Hall of Fame as
+games of renown and worthy of play by all.
+
+Game Ratings Chart
+
+"Empire," CGW's overall Game of the Year, continued
+to conquer all opposition on the Strategy list, but has
+found a stellar opponent in "Reach for the Stars - 3rd
+Edition." Both games of imperialistic space combat offer
+multi-player capability and ease of play. "Panzer Strike,"
+winner of Strategy Game of the Year, improved its position to a solid 7.00 rating.
+
+"Wasteland," Adventure Game of the Year, continued to
+irradiate all opposition on the Action/Adventure list.
+"Pirates" keelhauled "Ultima V" to take third place in this
+rating period and "Stealth Fighter" confused the bard's
+"Detect Competition" spell to overtake "Bard's Tale Ill"
+and land in fifth place.
+
+

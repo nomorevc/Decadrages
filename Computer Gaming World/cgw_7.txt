@@ -1,0 +1,4685 @@
+VOL. 2 NO. 6
+From the Editor...
+This issue marks one year that
+COMPUTER GAMING WORLD has
+been in existence. On the cover of this
+issue we take time to do a little
+celebrating and enjoy a piece of
+birthday cake. The past year has been
+dangerous, tense, and challenging. But
+most of all, it has been rewarding. The
+response of our readers and the industry
+in general are the "power pills - that have
+kept us going when the "ghosts" of
+problems have attacked us.
+Each issue has increased quality and
+added features. This issue is no
+exception. In addition to new layout
+features, we have added another new
+column, MICROCOMPUTER MATHEMAGIC By Dr. Michael Ecker. Look for a
+regular Atari 400/800 column beginning
+in our next issue. Look for the STAR
+MAZE contest in this issue.
+
+Nov. - Dec. - 1982
+Features
+THE HISTORY OF A WARGAME DESIGN
+From Idea to Royalties
+JAPANESE STRATEGY IN
+GUADALCANAL CAMPAIGN
+How to win with the Japanese
+FOUR FOR THE ATARI
+Four Games Reviewed
+EASTERN FRONT: Scenario Options
+Historical modifications you can make
+STAR MAZE
+Review and CONTEST
+LEGIONNAIRE: Review and Analysis
+Chris Crawford's New Game
+CYTRON MASTERS FOR ATARI
+Conversion Versus Upgrade
+ANDROMEDA CONQUEST
+Strategies and Rules Modifications
+BUNGO PETE and the WONDER BEAR
+Two New Scenarios For TORPEDO FIRE
+BEYOND SARGON II
+Scenarios For Chess
+
+11
+Gary Grigsby
+18
+Stephen Van Osdell
+20
+Allen Doum
+22
+Ian Chadwick
+26
+Russell Sipe
+27
+Bill Willett
+31
+Dan Bunten
+34
+Floyd Mathews
+36
+Bob Proctor
+39
+Roger J. Cooper
+
+Departments
+Inside the Industry
+Letters
+Taking a peek
+Hobby and Industry News
+The Silicon Cerebrum
+Real World Gaming
+Microcomputer Mathemagic
+Route 80 (TRS-80)
+Micro-Reviews
+Writing For CGW
+Reader Input Device
+
+2
+3
+4
+10
+14
+16
+23
+33
+41
+46
+47
+
+INSIDE THE INDUSTRY
+by Dana Lombardy,
+Associate Publisher Game Merchandising
+
+Last time we looked at the top sellers as reported by 105
+game and educational software manufacturers. Part of that
+same survey conducted for CGW asked for the total number of
+new titles each company introduced in 1981, the first half of
+1982, and for which personal computers the programs were
+designed.
+Nearly 500 new game titles and 150 new educational titles
+were introduced in 1981. Statistics we gathered for the first six
+months of 1982 show around 375 new game titles and 130
+new educational titles have already been released —80
+percent of last year's totals in just the first half of this year.
+Some of the most prolific game publishers include:
+
+Company
+Adventure International
+Atari Program Exchange
+Instant Software
+Dynacomp
+Artworx Software
+Creative Computing Software**
+Sierra On-Line***
+(formerly On-Line Inc.)
+Commodore International
+Orion Software Associates
+The Programmer's Guild
+Sirius Software**
+Spectral Associates
+Strategic Simulations*
+Broderbund Software**
+Automated Simulations***
+Continental Software
+Avalon Hill
+Microcomputer Games
+CE Software
+California Pacific
+Computer Co.**
+Acorn Software
+Quality Software
+Synergistic Solar
+Big Five Software
+Hayden Book Company
+United Software of America
+Manhatten Software
+Datasoft*
+Avant-Garde Creations
+Muse**
+Texas Instruments
+Computerware
+Dakin 5/Level 10
+The Software Toolworks
+Discovery Games
+Krell Software
+Creative Software
+K-Byte***
+Gebelli Software
+Med Systems
+Sublogic Communications***
+Datamost***
+Synergistic Software
+Picadilly Software
+
+6 mos. 1982
+1981
+New Games New Games
+55
+36
+50
+40
+17
+16
+15
+
+38
+10
+20
+80
+6
+7
+6
+
+13
+11
+11
+10
+10
+10
+9
+8
+8
+
+12
+5
+5
+7
+15
+2
+8
+8
+0
+
+7
+7
+
+12
+2
+
+7
+7
+7
+6
+6
+6
+6
+6
+0
+4
+4
+4
+4
+4
+4
+4
+4
+2
+0
+3
+3
+3
+3
+2
+2
+
+2
+1
+1
+2
+2
+2
+2
+0
+6
+4
+4
+4
+2
+2
+2
+0
+0
+4
+4
+8
+6
+6
+4
+5
+5
+
+It should be noted that this chart does not rate the
+companies by their size. It lists them in order only according to
+the number of new game titles they introduced in 1981 and so
+far in 1982.
+What this chart does indicate is that over 50 percent of all
+new game titles were published by just 10 companies in both
+1981 and 1982. If you take the statistics from the top 30
+manufacturers, they are responsible for 81 percent of all new
+game releases.
+There is also no relationship between the number of
+releases and how many sales a firm's top game will do.
+*Indicates a company's top seller has moved 8,000 or more
+units since introduction. **Is a company whose hottest
+product has sold over 15,000 copies. ***Denotes a game with
+more than 25,000 sales since release date.
+Some companies which only released 1 or 2 titles have
+had top sellers with more than 25,000 copies sold (Infocom
+and BudgeCo), or 15,000-plus in sales (Innovative Design
+Software, Sir-tech Software, Arcade Plus, and The Cornsoft
+Group).
+Looking at the chart on what game software was designed
+for which personal computers there's a discrepancy between
+the number of new titles and amount of software published
+(500 versus 806 in 1981; 375 versus 732 so far in 1982). This is
+due to the fact that one title is often made into two or more
+versions for different machines. Also, some firms spent a large
+part of their effort converting old game titles to work on
+different computers so as a consequence, their new releases
+figures are not very impressive for 1981/82.
+The following chart on amount of software published
+shows how the personal computers divide game software
+marketed. The "other" category includes the Commodore Vic,
+IBM PC, TI 99/4A, Sinclair ZX81, Xerox 820, and a few other
+machines.
+It should be emphasized, that the market share in terms of
+percent of games made for a computer does not equal how
+many computers of that type are being sold; although there
+obviously is a relationship with how many consumers have
+those machines and the demand for games.
+No matter which personal computer you own, the large
+number of software manufacturers are going to provide you
+with a variety of games for use on your particular machine.
+Personal
+computer
+
+1981
+Game
+Releases
+
+first half
+1982
+Releases
+
+Market Share
+by % of
+Software
+
+1981/1982
+Apple
+TRS-80
+Atari
+Others
+
+231
+
+191
+
+202
+175
+
+134
+
+198
+
+229
+
+28.6/26.1
+25.1/18.3
+21.7/24.3
+24.6/31.3
+
+Totals
+
+806
+
+732
+
+100/100
+
+178
+
+Dear Editor:
+In "Software Piracy: The Slaying of a
+Hydra, - (Sept.-Oct. '82), Roe R. Adams
+III exhibits tunnel vision. Neither the
+behavior nor the realization of those
+who steal programs is unique; everyday
+there are other individuals who violate
+moral values and rules and make
+elaborate excuses.
+The " core of the problem - is not the
+cost of the software; it is the soft morality
+that accompanies the belief that others
+are not to be trusted and that moral
+codes may be violated if one feels put
+upon.
+While teaching philosophy in a
+community college, I all too often heard
+students (and sometimes colleagues)
+trying to justify unethical acts by the
+argument that someone had treated
+them unfairly. One "ripped-off" an
+employer who demanded too much
+work; another cheated in the class of a
+teacher whose standards were too high;
+a third stole from a corporation whose
+policies were abhorrent, and on and on.
+If the software publishers ask too high
+a price, there is a proper (decent,
+honest, ethical) response: don't buy the
+item. Publishers will then lower the price
+if they can or stop making the product if
+they can't.
+There are too many unanticipated
+consequences of the reasoning Adams
+and others present. Apologists for
+software theft ( " piracy" like "rippingoff is a euphemism intended to evade
+facing what that act really is) are
+teaching youngsters growing up with
+computers that moral codes are
+irrelevant to the good life. That will come
+back to haunt us all, not just the
+computer-using community. We would
+all do well to recall Aristotle's words in
+the Nichomachean Ethics of the 4th
+century B.C.:
+" States of character arise out of like
+activities. . . It makes no small difference,
+then, whether we form habits of one
+kind or another from our very youth; it
+makes a very great difference, or rather
+it makes ALL the difference.Leona Billings
+Palo Alto, CA
+ED. — Thank you for your refreshing
+letter. Refreshing in that discussions
+about the pros and cons of software
+piracy rarely produce such eloquent
+
+statements of the larger truth. The soft
+morality which you refer to is the
+outgrowth of the fact that so many
+computerists grew up in the age of
+situational ethics. Perhaps software
+pirates should stop and take note of
+the fact that ultimately moral and
+ethical codes should be based or
+transcendental realities rather than
+personal opinion.
+
+Dear Editor,
+Enclosed is a check for back issues of
+CGW. The problem with your magazine
+is that it is TOO good! I loaned out issues
+2.2 and 2.3 and never got them back.
+From now on I'll give the guys
+subscription forms.
+I hope your magazine is doing well. I
+had the fortune (?) to be managing
+editor of a small magazine for over a
+year, and I know some of the problems
+you're running into. Keep up the good
+work!
+I think you would do well to
+analyse/review the new SSI game
+" Battle For Normandy". Although I had
+to send my copy back due to a disk
+malfunction (it would not put up the
+correct characters after accessing the
+disk) everything else is magnificent.
+First, you can play against the
+computer or another person and save
+the game at any time (typical SSI stuff).
+Much more interesting are the 'what
+ifs?' You can set different parameters
+up for different strengths (supply, air
+power, sea power, etc.). This provides
+an almost unlimited method of handicapping a player. Playing a first time
+wargamer? Cut way back on your
+supplies and tactical air. It makes the
+game a challenge for both of you.
+Another major improvement is that
+the displays of unit strengths, etc., can
+be adjusted to show up for a period of
+1-9 seconds. This is a major advance in
+the field of computer gaming. It means
+that an experienced player does not
+have to suffer through. . .[a long display
+when a short peek is all that is
+needed]. . . to pick out the important
+part(s).
+SSI is indeed making major advances
+in computer wargaming. They should
+be congratulated for putting these
+
+program enhancements in a 48K game.
+Keep up the quality of CGW. I
+thoroughly enjoy each issue cover to
+cover.
+Bruce M. Johnson
+Buckeye, Arizona
+Ed. — I'm glad to hear CGW is so
+popular in Buckeye. If a few more of
+your issues are "borrowed", we may
+have to start paying you a commission
+for subscriptions from Arizona.
+Yes, CGW is doing well. It is growing
+so fast we sometimes have trouble
+keeping up. Our move to larger
+quarters and an increase in the staff
+will help us make CGW even better. We
+are a year old now and look forward to
+another great year of covering one of
+the fastest growing hobbies in the
+world.
+The character set problem you
+mention in your comments on Battle
+For Normandy is related to the 10K
+ROM operating system in the Atari
+computer (I thus assume you are an
+Atari gamer). Early Atari computers
+that have the Revision A operating
+System Cartridge will not be able to
+run SSI's Battle For Normandy until
+they are upgraded with a Revision B
+Operating System. If you have no
+immediate plans to upgrade, you can
+return your old disk or cassette to SSI
+and they will replace it with a program
+that will run on Rev. A Operating
+Systems.
+Although I would not classify the
+adjustable display in Battle For
+Normandy as a "major advance in the
+field of computer gaming", I agree
+with you that any attempt by any
+computer game manufacturer to
+make their games more "user friendly"
+is an advancement for the hobby.
+
+Computer Gaming
+World
+is moving!
+(see p.10)
+
+In addition to games mentioned elsewhere
+in this issue, the following products have been
+received by CGW. Some of these products will
+receive more detailed attention in future
+issues. Readers wishing to review any of these
+games should contact CGW.
+
+relative skill by newcomers. We liked them
+both. Both run on the Apple (keyboard
+play) and retail for $29.95.
+
+rear firing bazooka and an oil slick
+thrower. The killer cars have forward firing
+lasers. This game is somewhat unusual in
+that you steer your car by hitting the
+paddle buttons (0 for counterclockwise
+turns, 1 for clockwise turns). Apple II.
+$29.95.
+
+Automated Simulations/Epyx
+1043 Kiel Court
+Sunnyvale, CA 94086
+ALIEN GARDEN: A ROM Cartridge
+game for the ATARI 400/800 computer.
+In AG you guide your "Cosmic Critter" (it
+looks like something out of a Dr. Suess
+book) around a crystal garden. The
+"flowers" can grow, transform. or explode
+depending upon how you touch them with
+your critter. Although AG looks like an
+arcade game, it is actually a game of
+strategy. Your goal is to gain points by
+creating a multi-generation garden and
+eating your creation. Flowers begin the
+game in their first-generation form and
+can be transformed into 20+ generations.
+The more generations, the higher your
+score when you eat flowers. Atari
+400/800.
+
+FORE!: A hi-res golf game which has
+two courses, a driving range, and practice
+field. Wind direction and terrain affect
+shots. FORE! along with HI-RES COMPUTER GOLF (Avant-Garde) are the two
+most popular golf games for the Apple
+computer. In comparing them we found
+both to be good games (in different ways).
+HRCG requires hand-eye coordinated
+swings which is much more challenging
+than simply hitting a key to make your
+stroke. Some garners like this extra
+dimension. On the other hand, HRCG can
+be frustrating if you do not like the handeye sequence and/or want a relaxing
+beer-and-pretzel type game. HRCG is more for
+the involved golfer and requires several
+rounds of play to "master". FORE! is more
+easily "mastered" and can be played with
+
+ESCAPE FROM VULCAN'S ISLE, CRYPT
+OF THE UNDEAD and KING ARTHUR'S
+HEIR:
+Here are three games based on a
+common system. Using the Atari joystick
+you make your way around finding
+treasure, food, and other important items.
+All three of these adventure games involve
+travel through a variety of regions to
+accomplish your task. In ESCAPE Your
+task is to escape Vulcan's Isle. In CRYPT
+you try to escape from a cemetery. In
+KING ARTHUR you must return to
+Camelot. As will all Automated Simulation
+games, the rule books are well done. The
+games themselves will appeal to those
+who enjoy adventure games. Atari 400/800.
+
+Avant-Garde Creations
+P.O. Box 30160
+Eugene. OR 97403
+DEATH RACE '82: A hi-res arcade
+game in which you attempt to drive your
+turbocar through a series of 10 concrete
+road mazes. You attempt to outmaneuver
+and/or outgun killer robots in Death
+Squad cars. Your weaponry includes a
+
+FEDERATION: A "Defender" type
+game in which you are to wipe out
+defending forces on the enemy planet.
+You can fire lasers at enemy ships and
+drop bombs on planetary batteries. The
+screen scrolls left and right in this game
+which is played by keyboard. The
+movement of your ship is different than
+one might expect from a Defender type
+game. It is difficult to describe. Try playing
+the game before you buy if possible. Apple
+II. $29.95.
+
+ZERO GRAVITY PINBALL: A pinball
+game without the effects of gravity. Rather
+than the traditional rectangular field in
+which the ball enters from the top and you
+try to overcome gravity through the use of
+flippers, ZGP is played on a square field
+and you attempt to keep the ball from
+flying out into space. Ten flippers guard
+the right and left exits of the playing field.
+Continued on pg. 6
+
+Two force fields (keyboard activated)
+protect the upper and lower exits. As a
+game, ZGP is considerably different than
+other Apple pinball games. Apple II.
+$29.95.
+
+Cavalier Computer
+P.O. Box 2032
+Del Mar, CA 92014
+TELEPORT: A hi-res arcade game
+which can make use of a Votrax speech
+synthesizer. Without the synthesizer you
+hear music while you are playing. Teleport
+is basically a maze-chase game without
+the maze. That is, movement is allowed in
+the four cardinal directions as you make
+your way around trying to stun aliens
+without being run into by them. Once you
+stun an alien you must transport it through
+the infinity door (to its own dimension).
+Apple II.
+
+Datamost
+9748 Cozycroft Ave.
+Chatsworth. CA 9131 1
+HOW TO WRITE AN APPLE PROGRAM
+HOW TO WRITE AN IBM-PC PROGRAM
+HOW TO WRITE A TRS-80 PROGRAM:
+Three books that in reality are one. Ed
+Faulk, the author, has written an
+introductory book on programming and
+issued it in three forms, Apple, IBM pc, and
+TRS-80. Faulk takes you through
+planning, designing, coding, testing, and
+documenting your program idea. $14.95
+each.
+MONEY MUNCHERS: A maze-chase
+game by Bob Biship in which you try to
+grap money found throughout the maze.
+You compete against money munchers
+who not only wish to grab the money for
+
+themselves, but also can eliminate you if
+they catch you. At higher levels spiders
+and snakes also hinder you. Apple II.
+$29.95.
+
+Hayden Software
+50 Essex St.
+Rochelle Park, NJ 07662
+KAMIKAZE: An arcade game in which
+you use a game paddle to maneuver your
+ship back and forth firing at enemy
+bombers. From time to time, one of the
+planes will attempt to kamikaze onto you.
+Mines also appear from time to time and
+must be avoided. The best thing that can
+be said about Kamikaze is that you can win
+up to $5000 playing the game! Details for
+the CONTEST can be found in the game
+package. Entry deadline is January 15.
+1983. Apple II. $34.95.
+
+MARS CARS: In MC you attempt to
+make your way through 16 levels to the
+center of the planet Mars. Each level
+contains treasures which you must collect
+while avoiding the Mars Cars. The Mars
+Cars look like aliens and you. the actual
+alien, look like a car. You can crash
+through the barriers as you make your way
+through each level. The Mars Cars get
+more intelligent on each level as they
+guard their treasures and seek to
+eliminate you. Apple II. $29.95.
+
+THAROLIAN TUNNELS: This game,
+bought by Datamost from The Software
+Farm. places the players in the role of an
+invading spaceship pilot. The game is
+broken up into four distinct parts: Combat
+with defenders above the planet;
+Maneuvering through tunnels (avoiding
+the walls); Combat with enemy ships in a
+large underground tunnel; and Navigating
+through lasers into a docking compartment. Apple II. $29.95.
+
+KLONDIKE 2000: The Martian Gold
+Rush Game. In Klondike 2000, you
+attempt to mine gold in the mines of Mars.
+(Wouldn't it be funny if a Mars car came
+along in the middle of your mining?)
+Robots guard the gold but you can win the
+robots to your side by feeding them crystal
+chips. The player who gains the allegiance
+of the most robots will harvest the most
+gold and win the game. Solo play is
+possible, but the game is really a multiplayer game for up to four players. Apple
+II. $24.95.
+SHUTTLE INTERCEPT: A Defender
+type game in which you pilot a space
+shuttle and try to intercept and capture
+earth satellites with your space hook. You
+are hindered by meteors and a variety of
+alien spacecraft. Apple II. $34.95.
+
+FINAL CONFLICT: A game of warfare
+between robot armies. Each side programs robots and then sends them out
+onto the battlefield. The game can be fast
+and tactical or thought-out and strategic.
+You can choose from a variety of terrain
+maps or semi-design your own battlefield.
+
+Can be played by two players or one player
+versus the computer. Designed by Tom
+Cleaver (GALAXY, Avalon Hill). Apple II.
+$34.95.
+
+KING CRIBBAGE: KC is a computerized
+version of the old English Card Game. KC
+allows you to play six-card cribbage
+against your Apple computer. All rules of
+tournament cribbage are followed. There
+is a special beginners option which
+provides a simpler game. Apple II. $24.95.
+
+Energy Probes to eliminate enemy
+vessels. You must avoid contact with the
+impenetrable force field while avoiding the
+ships. Frazzle looks like an Asteroids type
+game when first seen on the screen, but is
+much different. The game has a "flavor"
+all its own. Apple II.
+
+KNOW YOUR APPLE: This product,
+packaged in an Apple II shaped box,
+introduces the Apple II to the beginning
+computerist. Separate programs (accessed
+from the main menu) teach the beginner
+basic information about the monitor.
+keyboard, disk drive, ROM, RAM, 6502
+processor, etc. Although it is too
+elementary for someone who has been
+working with his Apple for any length of
+time, it is a program that can be valuable
+to the beginner when he first sets up his
+system. It is a nice showcase program as
+well. Apple II.
+
+(no kidding!). By manipulating gates and
+headstones you seek to destroy monsters
+and protect visitors. The first level is very
+simple. Other levels increase difficulty
+(especially if you use the independent
+control option). If possible, play it before
+you buy. Apple II. $29.95.
+
+Piccadilly Software
+89 Summit Ave.
+Summit, NJ 07901
+WARP DESTROYER: A well-designed
+game of space combat that utilizes a
+number of screens and tasks. If you
+successfully make it through the hyperspace sequence you are faced with a
+series of planetary defenses (mines,
+fighters, probots, enemy base). If you
+destroy them all you go on to the next
+enemy planet and begin again. The screen
+scrolls left and right as you look out from
+your cockpit. A nice 3-D effect is achieved
+with your shots receding in the distance
+and enemy shots growing larger as they
+approach. Apple II.
+
+STAR TRADERS: A multi-player game
+of intergalactic profiteering. You compete
+other players to earn the largest profits
+from interstellar trading. The game can be
+played by from two to four players, each
+withonersp.Tgamelow
+multiple strategies and would be sure to
+make an good evening's gaming for
+several friends. Apple II. $19.95.
+The Software Farm
+3901 So. Elkart
+Aurora, CO 80014
+MONSTER MASH: An arcade game in
+which you attempt to keep monsters in a
+graveyard and mash them with headstones
+
+Muse Software
+347 North Charles St.
+Baltimore, MD 21201
+FRAllLE: A space arcade game in
+which you control a ship that drops
+
+Synapse Software
+5327 Jacuzzi St., Suite I
+Richmond. CA 94804
+
+PICNIC PARANOIA: An arcade game
+for the Atari. A variety of insects attempt to
+ruin George's picnic. You control George
+as he swats ants,. spiders, and wasps. The
+ants attempt to cart off your food. The
+wasps attempt to sting you, and the
+spiders bite and spin webs. While swatting
+insects you will also be attempting to
+move food items back onto the tables
+(you've killed the ants that were about to
+get away with the food). Points are
+awarded at the end of each round for food
+
+still left on the table or only slightly moved
+(i.e.. on the grass but not out of sight. Atari
+16K (disk or tape) $34.95
+
+PROTECTOR II: An improved version
+of Synapse's PROTECTOR. A Defender
+type game in which you must rescue the
+populace (the volcano is about to erupt)
+and move to a safe place. Then you can
+assault the enemy base. The new version
+allows you to pass in front of buildings and
+them shoot while carrying people to
+safety. Other improvements as well. Atari
+32K (disk and tape) $34.95.
+
+Sierra On-Line, Inc.
+36575 Mudge Ranch Road
+Coarsegold, CA 93614
+FROGGER: Sierra On-Line-produces
+The Official Frogger by Sega ® . Both are
+good reproductions of the coin-op game
+in which a frog attempts to cross a busy
+highway, a dangerous river, and arrive
+safely on the other side. When you
+compare the ATARI version and the
+APPLE version it is apparent how much
+better the Atari computer system is for
+sound and graphics. The Atari version is
+just like the coin-op game in sight and
+sound. The Apple version plays like the
+coin-op game, but its graphics and sound
+are inferior due to the limitations of the
+machine. The Atari version (on disk)
+requires 32K. It also comes on tape. The
+Apple version requires 48K. $34.95.
+
+CLAIM JUMPER: A nice two-player
+interactive game (solo play is possible).
+Set in the gold rush days, your task is to
+pick-up gold and take it to the Assay office:
+collect your money and deposit it in your
+bank. Unfortunately your opponent can
+and will try to steal your gold, or shoot you,
+or both. Atari 16K (disk or tape). $34.95.
+
+Shiloh. Tigers In The Snow) BEN covers
+the D-Day invasions. SSI is releasing this
+one simultaneously for the Apple, Atari
+and TRS-80 (disk and tape versions
+available. $39.95.
+
+S.E.U.I.S.: Shoot 'Em Up In Space is
+called - A Spacegamer's Toolkit" - You
+build ships from a choice of six
+prototypes. S.E.U.I.S., by John Lyon, bears
+some resemblance to John's popular
+SHATTERED ALLIANCE game. A strategic
+game sequence creates the individual
+battles that are fought by your created
+squadrons. Actual battles are fought in
+arcade type action. Apple II. $39.95.
+
+THE COSMIC BALANCE: A tactical
+space combat game by Paul Murray that is
+similar but much better than his popular
+THE WARP FACTOR. TAB allows you to
+construct your own ships. A strategic-level
+version of TCB will be released at a later
+date. Using both games, you will be able to
+set up complex campaign games with two
+or more players. Apple II. $39.95.
+
+Dynacomp. Inc.
+1427 Monroe Ave.
+Rochester. NY 14618
+
+Strategic Simulations
+465 Fairchild Dr., Suite 108
+Mountain View, CA 94043
+BATTLE FOR NORMANDY: Designed
+by Tactical Design Group (Battle of
+
+VALLEY OF THE KINGS: A graphic
+adventure game for the Atari. Actually
+three adventures in one: you must
+successfully complete each of three
+different passages to win. Along the way
+you seek treasures, keys, weapons, etc.
+Atari 48K. $29.95.
+
+WE ARE MOVING!
+COMPUTER GAMING WORLD has a new
+address! Our new mailing address which should be
+used for all correspondence except United Parcel
+Service and common carrier deliveries is now:
+COMPUTER GAMING WORLD
+P.O. BOX 4566
+ANAHEIM, CA 928034566
+Our business offices and shipping address will be:
+1337 North Merona St.
+Anaheim. CA 92805
+
+The Cornsoft Group (6008 N. Keystone Ave., Indianapolis,
+IN 46220). in association with SEGA Enterprises and Sierra
+On-Line, has produced the official FROGGER for the TRS-80
+Model I and III. According to Cornsoft, the actual Frogger
+music and sound effects have been incorporated into the
+TRS-80 version.
+Hayden Publishing Company has announced the
+formation of the HAYDEN SOFTWARE COMPANY. The
+president of the new company is Oscar Ray Rodriguez. Mr.
+Rodriguez was previously the president of American Business
+Systems.
+Hayden Software Company (600 Suffolk St. Lowell, MA
+01853) is sponsoring a contest based on HSC's first arcade
+release. KAMIKAZE. Finalists will be flown to San Francisco for
+the finals. The winner will take home $5,000. Details are
+included in the Apple II game which sells for $34.95.
+
+BOMB ALLEY, Gary Grigsby's game on Malta and the
+Mediterranean, will be out at the beginning of December. It will
+be an Apple game. Gary will begin work soon on a game for the
+ATARI 400/800 based on WWII carrier combat. Don't be too
+anxious, it will be months before we see it. He will also be
+working on his NORTH ATLANTIC SEA MODERN NAVAL
+game.
+SSI will be flooding the ATARI 400/800 market in the
+next weeks with several titles, CYTRON MASTERS (disk and
+cassette). GALACTIC GLADIATORS (48K disk), and THE
+COSMIC BALANCE (48K disk). The Atari version of
+COMPUTER BASEBALL is up in the air. Don't expect to see it
+for a while. The IBM PC version of THE WARP FACTOR has
+been delayed and will now be out by Christmas, "hopefully".
+On the other hand, the PC version of TIGERS IN THE SNOW
+should be out by December 1. It will require the color graphics
+card. 64K. and cost $39.95.
+The updated COMPUTER AMBUSH for the Apple is back
+in the production cycle — "could be out in January" says SSI
+President Joel Billings.
+Two other game projects at SSI are GALACTIC
+ADVENTURES and EPIDEMIC. GA will be a two disk
+adventure game based on the universe found in GALACTIC
+GLADIATORS. In EPIDEMIC (48K APPLE and 64K IBM PC)
+falling meteorites spread epidemics throughout the earth.
+Your job is to stop the epidemics. Look for both games in
+December.
+The Grand Stand Company (4231 Bluebell Ave.. Studio
+City, CA 91607) has released a furniture quality JOYSTICK
+FLOOR STAND. The stand is designed to eliminate wrist and
+elbow fatigue as well as improve finger dexterity. It can be
+adapted to any popular joystick. The basic wood version sells
+for $34.95.
+
+Edu-Ware Services has released the second game in their
+EMPIRE Gaming Trilogy: EMPIRE II: INTERSTELLAR
+SHARKS. The trilogy will be completed by EMPIRE III:
+ARMAGEDDON which is scheduled for a February 1983
+release. All three games run on the Apple II. Interstellar Sharks
+sells for $32.95.
+Broderbund Software of San Rafael. CA announces THE
+ARCADE MACHINE CONTEST. Purchasers of The Arcade
+Machine, a do-it-yourself arcade design package, can win
+prizes up to $1.500. Starting January 31. 1983 and every
+month thereafter through June 30, 1983. Broderbund will
+select a game designed using their TAM program as a finalist.
+The finalists will be eligible for the Grand Prize of $1,500 worth
+of software or hardware. The runner up will get $500 worth of
+prizes. Details are in The Arcade Machine documentation or
+may be obtained by writing or calling Broderbund Software,
+1938 Fourth St., San Rafael, CA 94901. (415) 456-6424.
+Broderbund has released two of its Apple games for the
+Atari 400/800. DAVID'S MIDNIGHT MAGIC pinball game (see
+issue 2.2) requires 48K (disk). GENETIC DRIFT (see issue 2.1)
+requires 32K for the disk version and 16K for the tape version.
+DMM sells for $34.95. GD sells for $29.95.
+
+CORRECTION
+In referring to the game RENAISSANCE and
+AMOK (Vic-20) on page four of our September —
+October issue, we incorrectly referred to the
+manufacturer as United Microwave Industries. The
+correct name is UNITED MICROWARE INDUSTRIES
+(3503—C Temple Ave., Pomona, CA 91768.) We said
+that RENAISSANCE, while basically a one-player game,
+can be played by two players. The game itself does not
+have a two player mode. However, through the use of a
+game utility, you can play the game between two
+humans. It simply requires that you request a "change of
+sides". In this manner the computer will relinquish each
+turn to the human players.
+
+The intimidating length of GC (294 turns) made
+playability the number one design priority. The program tells
+the players what to do and when to do it so that they can
+concern themselves with strategy instead of mechanics. The
+ease of play allows even non-fanatical players to finish the full
+game in one or two weeks without being burned out.
+GC has some obvious faults or "trade-offs" which should
+be explained. The low resolution graphics were a first for SSI
+and were accepted with considerable reluctance. A hi-res
+screen requires 8K of program memory and, with the
+mountainous data files and programming involved, there
+simply wasn't 8K to spare. To accommodate a hi-res screen,
+the larger programs would have had to have been broken into
+many smaller programs and tied together with a tedious
+chaining system. The increased chaining would have meant a
+considerable increase in player waiting time (one minute of
+chaining per turn equals five hours of chaining per campaign).
+Another "trade-off' was the language used to program the
+game. In the words of one programmer/author, "No great
+paintings were done with crayons — no great programs are
+written in BASIC. - Alas, my keyboard is crayon stained; GC was
+written in BASIC. However, it was not the author's objective to
+design a "great" computer program. It was the author's
+objective to design a "great" wargame using a well-organized
+and functional computer program.
+
+HISTORY OF THE GAME
+The idea for GC came from a board wargame. A friend
+and myself had struggled through several weeks of SPI's
+SOLOMONS CAMPAIGN. I hated the confusing rules and
+tedious bookkeeping but the concept of a campaign level
+game with interaction of land, air, ship and sub units was
+fascinating. It was clear that the computer could allow much
+greater detail in describing the ships and planes involved, while
+solving all of the rules and bookkeeping hassles.
+In computer programming there is a large amount of work
+between the initial idea and the finished product. The
+psychological momentum required to just get started can be
+the greatest problem. For six months I kept GC in my head;
+occasionally tinkering with the lists of variables and
+subprograms which would be required for the game. Finally, in
+December of 1981. these vague ideas jelled into a firm plan of
+action. It was time to take the plunge.
+Completing the first version of GC required a month of
+total immersion in the project. It took roughly a week to write
+the program out on paper, a week to exhaustively research the
+forces involved. a week to punch the programs and data into
+the computer and a week to make it all (sort of) work.
+
+Guadalcanal Campaign by SSI has in the few weeks that
+it has been out proven to be a most popular program. The
+author of the game tells us in this article the history of his
+design from conception to royalty checks.
+In board wargames the classic "trade-off" was always
+detail and realism vs. playability. In computer wargames the
+trade-off has changed; detail and realism vs. programmability.
+GUADALCANAL CAMPAIGN (GC) includes as much detail
+and realism as programmability would allow. Detail conscious
+gamers can and will site numerous examples of how realism
+was sacrificed in some areas. I am sure, however, that most
+gamers will agree that GC is the most detailed (by sheer
+volume) computer wargame on the market.
+
+Much of the credit for researching the game must go to
+Mr. Allyn Nevitt. Allyn, a close friend, is quite an authority on the
+Japanese Navy. He allowed me free use of his personal
+reference library which contained the information needed to
+rate the game's 293 ships. He also compiled a list (using
+Japanese language sources) of each Japanese destroyer that
+participated in the campaign and included their date of arrival.
+In the early weeks of January I weeded out the last of the
+"bit bugs" in the program and started to have fun with my new
+toy. The newly completed program consisted of one BASIC
+program (109 sectors long) and one data file (52 sectors long).
+As the month progressed, I added mini-games for the battles:
+Eastern Solomons, Santa Cruz and Guadalcanal. The
+additional programming required to control the mini-games
+also produced the games first OUT OF MEMORY error.
+Condensing the program solved the immediate problem but
+the memory limit brought further development of the game to
+a screeching halt.
+
+Briefly, I turned my back on GC itself but not on the GC
+game system. In about two weeks of research and
+reprogramming I was able to adapt the Guadalcanal System to
+the Mediterranean theater of operations in a game I called
+MALTA CONVOY. At last my enthusiasm for programming
+was exhausted: after two months of living and breathing naval
+history I was ready to return to the real world.
+
+FINDING A PUBLISHER
+I bought my first computer in May 1979 with the specific
+intention of designing wargames. Since that time I have
+designed several computer wargames and as my
+programming confidence grew, so did the desire to share my
+games with the world (or even cash-in on them). Unfortunately,
+I had no idea who would be interested in buying or marketing
+such a product. I knew that SSI and Avalon Hill were doing
+similar work: but they were faceless corporations in faraway
+lands.
+In February of 1982 SSI got a lot closer.
+On the 9th, I took time off work for a dental appointment.
+Upon arriving at his office, I was relieved to learn that the dentist
+was out sick for the day. I spent the remaining hours of my sick
+leave browsing the local computer merchant where I splurged
+my dental money on SSI's TORPEDO FIRE game. (Spending
+$60.00 for a game hurt almost as much as my root canal). That
+night I enjoyed several rousing submarine battles but was
+totally frustrated by an apparent malfunction in the save-gm
+routine. When one pays $60.00 for a game, one expects near
+perfection. The next day I called SSI to complain of my
+misfortune. Joel Billings, calmly and patiently explained what I
+was probably doing wrong. When that problem was solved I
+changed the subject and asked: . by the way, I design
+computer games, would you be interested. .
+In the brief conversation that followed I learned that SSI
+obtained over 75% of their games from independent designers
+and that they would be glad to look at any of the games I cared
+to submit (business had been slow despite my $60.00
+infusion). In the course of the conversation Joel mentioned:
+"We're using a customized disk operating system (RDOS) that
+uses 4K less memory (Great!) and chains three times faster"
+(Chains?)
+At the time. I really didn't know what chaining was, but I
+could tell from the way Joel talked about it that it must be
+important. I found the answer on page 171 of the Apple DOS
+Manual "To run a series of Applesoft programs without
+erasing earlier values of variables and arrays use the following
+procedure. . ." Chaining allowed me to break out of the 48K
+straight jacket that had cramped the development of my
+computer games. I could now write 100K or even 200K games.
+For two weeks I exchanged legal documents with SSI. At
+the same time I sent SSI a list describing four of my wargames.
+Having a strong feeling that GC would attract the greatest
+interest, I wasted no time in polishing the game for its first
+"showing". By the time Joel called to give GC the green light. I
+was certain that GC was a finished product — Silly me!
+
+FURTHER DEVELOPMENT
+Joel's first response after receiving the game was that it
+had lots of potential. I could tell from our discussion that he was
+enthusiastic about GC, but a couple of his suggested changes
+were real bomb shells. First, he said that I would probably have
+to switch over to hi-res graphics. Second, all SSI games must
+have "solitaire capability"
+From the start I had a bias against hi-res graphics.
+Functional lo-res graphics fit neatly into my program and were
+fairly easy for players to read and understand. Hi-res graphics
+would require breaking the large programs into many little
+
+programs with significantly increased chaining. I realized that if
+properly done, the hi-res map would look much nicer.
+However, as the graphics played a relatively small role in the
+game, I really hated to butcher the program. Luckily, after
+much analysis, SSI came to share my conclusion.
+My only previous experience at programming artificial
+intelligence into a wargame was for a modern tactical
+submarine game. For this the logic was simple: point the sub at
+the target and fire the torpedo. With homing torpedoes, I didn't
+even have to worry much about geometry (angles of intercept).
+For solitaire GC, the computer would have to: (1) decide how
+and when to form Task Forces (which ships to use & what
+mission to assign); (2) how and where to move each TF to best
+accomplish its mission; (3) which planes should be used for
+CAP or Search and which should be held back for air-strikes;
+(4) assign target priority to sighted enemy TFs and; (5) know
+when to launch non-suicidal land attacks.
+The artificial intelligence for GC was easily the most
+fascinating challenge of my programming career.
+Returning to my - total immersion " style of programming,
+I spent four sleepless nights and one lost weekend feverishly
+molding my new creation. In less than a week, GC was
+transformed from a fancy bookkeeping program into a living
+creature. Upon completing the artificial intelligence program
+GUADABRAIN, I no longer had any doubt that GC could be
+successfully marketed.
+Writing the rules to GC was two weeks of sheer drudgery
+and the undisputed low point of the whole project. It is much
+easier to tell a computer how to do something than it is to tell a
+human how you told a computer how to do something.
+Describing the human requirements for playing the game
+would have needed only two pages. Describing what the
+computer was doing when the human player was just watching
+required an extra 18 pages.
+With the completion of the rules, the game was shipped
+out to the independent playtesters. A few weeks later I started
+receiving the first playtester comments in the mail. These
+letters would inevitably start out:
+" I think your game is great. but. . .", and proceed to list
+four or five pages of suggested changes. Since I had been
+convinced the game was perfect the volume of criticism put a
+strain on my ego (especially since most of them were valid). In
+all, about 60% of the suggestions resulted in some change in
+program. Another 20% were valid criticisms that could not be
+answered due to programmability problems. The playtesters
+were, as a whole, extremely knowledgeable and their
+suggestions contributed much towards polishing the game for
+which I thank them.
+The last major change came when Joel suggested that I
+add a "short' campaign scenario to the game (Oct. 1-Dec. 31.
+1942). This would not have required any major effort, were it
+not for the fact that the disk was already full. The solution was a
+major reorganization of the data files which would allow
+Campaign I, Eastern Solomons. Santa Cruz and
+Guadalcanal to all share the same data. These changes came
+after the major playtest effort and, as a result, one minor bug
+survived after the game went on sale (CA-Quincy was sunk in
+the battle of Savo Island on 9 August 1942. however her ghost
+can be seen prowling the harbor at Espiritu Santo in the Santa
+Cruz scenario).
+After several other frantic last minute changes. GC was
+finally declared to be completed just in time for its debut at
+Origins 82 (held in Baltimore last July). GUADALCANAL
+CAMPAIGN had been the center of my life for over eight
+months: and I was now ready for some R&R (Royalties and
+Reviews).
+❑
+
+to get back to these unfinished matters.
+
+A DECISION
+MAKING METHOD
+A few years ago. while working on a
+master's degree at the University of
+Houston/CLC, I took a course on pattern
+classification — a major topic in artificial
+intelligence. The very first topic covered
+was Bayes Decision Theory (BDT).
+Simply put, BDT helps you to make a
+decision based on your current information. It does this using probabilities, risks,
+and benefits, while seeking to minimize
+the risk and maximize the benefits. BDT
+works with the following assumptions:
+(1) There are N things — w(1)
+through w(N) — to recognize. What
+these "things" are depends upon the
+application: they could be objects,
+"evnts.situations, formations, etc. I'll call these
+
+THE SILICON
+CEREBRUM
+by Bruce Webster
+
+APOLOGIES
+Before getting into this column's
+topic, I need to issue a number of
+apologies. First, I want to apologize for
+not having a column last issue. Second.
+to apologize for not covering in this
+column what I said would be last time.
+And most of all, I want to apologize to all
+of you who took me up on my rash offer
+and wrote for program listings of the
+algorithm. I really do plan to reply to all of
+you and to write the promised column.
+During the last three months, I have
+changed jobs. changed houses, and
+have been working under a number of
+deadlines which have left me little time
+for doing this column (or many other
+things). Most of the pressure should be
+off within a few weeks, so I should be able
+
+(2) There are P actions — a(1)
+through a(P) — which we can take.
+Again, what those actions are depends
+upon our situation.
+(3) There is a set of NT loss
+values —L(1,1 ) through L(P,N)— which
+represent the loss incurred by taking a
+given action when a particular event
+exists. For example, L(j,k) represents
+the danger of taking action a(j) if the
+event is w(k). The loss values are greater
+than or equal to zero, with a value of zero
+indicating no danger at all. We'll call this
+the loss table.
+Given just this much, we can quickly
+work out a scheme for choosing an
+action:
+(1) Identify the event, which we'll
+call w(k);
+(2) Look at L(i.k), i= 1 to P. and find
+the lowest value. which we'll call
+L(j,k);
+(3) Perform action a(j).
+All we're doing here is finding the least
+dangerous action given a certain event. If
+two or more actions have the lowest loss
+values, then we can use some method to
+pick one: random selection, priority, or
+another decision function. If we wish, we
+can build the priority into the loss table.
+As we have to precompute the entire
+table, it can be made certain that, for
+each event. no two actions have the
+same loss value.
+There are some variations on this
+
+method. most of which involve substituting some other function for the loss
+table. For example. we might define a
+gain table (g(P.N))where 0 = no gain and
+larger values mean more desirable outcomes. We would then search for the
+highest value, instead of the lowest. This
+really isn't that much different from a
+loss table, but you may prefer the optimistic approach. A more sophisticated
+method would be to substitute an
+evaluation function, eval (j.k). which
+uses the current game situation rather
+than a precomputed table to determine
+the gain/loss of choosing a particular
+action given a certain event.
+
+BAYES DECISION RULE
+All of this is very simple if you always
+know what the current event, w(k), is. Ah,
+but do we always know? It is one thing for
+our program to recognize that it is facing
+a given type of opponent and direct its
+actions appropriately. It is quite another
+to recognize a course of action, strategic
+formation, or some other hard-to-define
+event. That's where the tricky stuff. namely
+probability. is needed. A few more terms
+must now be defined.
+(1) We will lump all of the variables,
+etc., that might help us to
+identify the event into the
+collective term, X. Xis known
+as a feature vector.
+(2) We will use the expression
+P(a) to represent the probability
+of A, where 0.0 < = P(A)
+< = 1.0. A probability of
+zero means that A can never
+happen, while a probability of
+1.0 means that A always
+happens.
+(3) We will use the expression
+P(A:B) to represent the probability of A given that B
+exists/has occurred/etc. This is
+called conditional probability.
+Our goal, given X, is to identify the
+events with which we are dealing. The
+Bayes decision rule tells us to pick the
+event, w(k), with the highest probability.
+given X. In other words, we want to pick
+w(k) such that
+P(w(k):X) > P(w(i):X), i,k= 1 to N. i < > k.
+
+(As before, we may need a tie-breaking
+method in case there are some identical
+maximum probabilities.)
+The problem, of course, is coming up
+with a value for P(w(i):X). We are not
+entirely without help. The Bayes rule tells
+us that
+P(w(i):X) = P(X:w(i)) * P(w(i)) / P(X).
+At first glance, this appears to be even
+more of a mess, for we now have to
+come up with three sets of values instead
+of one. But this is where the "intelligence in our method is required. The value
+P(w(i)) is based on observation of the
+game. Let's, for example, suppose that
+w(i) represents a type of ship that we
+might face, and that there are three types
+of ships (1\1=3). If there is an equal
+number of each type of ship. then
+
+We're defining what percentage of a
+given ship type falls into each size
+category. so the values must account for
+all ships and each column add up to 1.
+The third value, P(X), can be computed, but we don't need to bother with it.
+Why? Well, what we are trying to find is
+the maximum value of
+P(w(i):X) for i = 1 to N. P(X),
+however, is the same for all values of i,
+so it has an equal influence on all of the
+values and is therefore unimportant.
+However, if you really want to calculate
+P(X), use the expression
+P(X) = sum[P(X:w(i))*P(w(i)), 1=1 to N] .
+
+If, however, there are five ships of type I.
+three of type 2, and one of type 3, then
+
+When you put this all together. what
+you are actually doing is finding the
+action, a(j). with the lowest associated
+risk, RU), given X. The method described
+above doesn't involve directly computing
+RU), but if you did want to compute it,
+here's the expression:
+
+P(w(1)) = 0.5. P(w(2)) = 0.3. and P(w(3)) = 0.2
+
+R(j) = sum[L(j.i )"P(w(i):X), i =1 to N].
+
+P(w(1)) = P(w(2)) = P(w(3)) =
+
+0.333.
+
+There are two important rules to
+remember in assigning these probabilities. First, the set w(1 ) through w(N)
+must define all cases. Second, all the
+probabilities must add up to 1.0, or
+sum[P(w(i)), i= 1 to N ] = 1.0.
+
+The second value, P(X:w(i)). is based
+on analysis and (possibly) test cases. A
+very simple example should help to
+illustrate. Let's suppose again that we are
+trying to recognize one of three ship
+types, and that Xis just a single variable
+that represents the size of the ship. The
+ship types may have the following sizes:
+Ship type (w)
+
+Sizes (X)
+
+I
+
+1.2,3
+2,3
+3,4
+
+2
+
+3
+
+AN EXAMPLE
+To see how this all fits together, let's
+continue with our example of the three
+types of ships. When a ship is encountered, we have to choose from three
+actions: fight, negotiate, or flee. Our
+goal is to destroy as many ships as
+possible before ours is destroyed. Our
+ship is of type 2:type I is weaker and type
+3 is stronger. Here are our attack odds:
+
+2
+3
+
+4
+
+0.0
+0.333
+0.5
+0.167
+
+0.0
+0.0
+0.167
+0.833
+
+Both
+dest.
+
+Us
+dest.
+
+2
+
+0.666
+0.333
+0.0
+
+0.333
+0.333
+0.333
+
+0.0
+0.333
+0.666
+
+If we choose to negotiate, there is a 50%
+chance that the enemy ship will not
+attack. Let's build an ad hoc loss table:
+Ship
+type
+
+2
+
+Sizes (X) P(X:w(1)) P(X:w(2)) P(X:w(3))
+0.5
+0.333
+0.167
+0.0
+
+Enemy
+dest.
+
+3
+
+Let's suppose that observation/game
+design/whatever leads us to believe that
+the ships are divided among the different
+sizes as follows:
+
+1
+
+Ship
+type
+
+3
+
+Attack Negotiate
+4
+5
+6
+
+6
+5
+6
+
+Flee
+5
+5
+5
+
+this is set up, we will always attack a
+type I ship and always flee a type 3 ship.
+We will use some sort of decision function
+As
+
+for deciding what to do with a type 2 ship;
+for now, we'll just randomly choose
+between attack, negotiate, and flee.
+A side comment: you may wonder
+why "flee" has a loss value. the reason is
+simple. Our goal is to destroy ships. If we
+assigned "flee" a loss value of 0 for each
+ship type, then we would always flee and,
+therefore, would never destroy anything.
+If, on the other hand, we assigned "attack a loss value of 0 for each ship type. we
+would always attack. This means, of
+course, that the way our ship acts during
+the game can be changed just by
+modifyngthevalus obe.Gting
+any ideas?
+We'll assume that X has the values
+defined above and that
+P(w( I)) = 0.5, P(w(2)) = 0.3. and P(w(3)) = 0.2.
+
+then build a table of what we will
+do for each value of X.
+We can
+
+X
+
+1
+2
+3
+4
+
+P(w( 1 ):X P(w(2):X) P(w(3)A nine action
+I.0
+0.0
+0.0
+I
+0.625
+0.375
+0.0
+I
+0.313
+0.562
+0.125
+2
+0.232
+0.768
+0.0
+3
+
+attack
+attack
+select
+flee
+
+(Incidentally, the values above do use
+P(X). I did this so that the probabilities
+going across would add up to 1. Had I
+not used P(X), then each row would have
+added up to P(X).)
+
+CONCLUSIONS
+When you think about it. BDT is really
+based on common sense. To identify the
+event, you pick the most likely candidate,
+(w(k)) given the pertinent information
+(X). Once you know (or have guessed at)
+the event, you pick the action (a(j)) that
+results in the smallest loss (L(j.k)). The
+challenge with BDT is to come up with
+useful values for P(w(i)) and P(X:w(i)).
+For microcomputers. there are the
+additional challenges of execution speed,
+data storage, and program size. But
+that's why programmers get paid (they
+do get paid, don't they?).
+Next issue, I hope to have the weighted
+map diagrams I promised two issues
+ago, along with a few example listings of
+the weighting algorithm. And, I hope to
+finally have my backlog of letters cleared
+out.
+
+REAL
+WORLD
+GAMING
+Dan Bunten
+
+We covered the System Definition
+Phase last time. This phase being mainly
+the mental exercise of organizing your
+thoughts about the proposed game. So,
+having rummaged around in your head
+for a while, it's now time to get some
+other parts of your anatomy involved.
+Let's get your hands dirty and your feet
+wet by beginning the Data Collection
+
+Phase.
+Depending on your outlook. data collection can be either the most boring or
+the most interesting aspect of simulation
+game design. People who enjoy taking
+the slippery and fuzzy elements of life
+and "pinning them down" with decimal
+points will love data collection. But,
+those who would rather appreciate
+nature than name it. will hate data collection. For the second group. describing
+the world in numeric terms destroys its
+magic. Those of us in the first group,
+however. appreciate the power of math
+to capture the abstractions of life in
+predictive equations. It's exhilarating to
+take the working essence of a vague
+process and capture it in a computer.
+In order to have decided on a certain
+theme for your simulation game you've
+already done some informal data
+collection. This form of data collection
+would be more properly described as
+"observation". Studying and observing
+your field of interest is so implicit to
+deciding to develop a game that it is
+often overlooked. This is because it is
+highly unlikely that you would even
+consider writing a football game, for
+instance, if you weren't already a football
+fan. Nonetheless. it is probably worth
+stating the obvious at this point.
+" Observation" must precede data
+collection. Reading about your field of
+interest. watching it being performed, or
+even participating in it are all forms of
+observation. Also. don't neglect to study
+all previous games of the type in which
+you are interested. Your intent is not to
+" steal ideas - from other games. but to
+understand how other authors have
+handled the subject—what things they
+thought were important. (Writers spend
+a good deal of time reading just as game
+developers must spend time playing.)
+
+In the previous installment of this
+column, I listed the main phases in the
+development of a game which simulates
+a "real world" field of interest. They are:
+1)
+2)
+3)
+4)
+5)
+
+System Definition
+Data Collection
+Model Development
+Programming
+Play Testing
+
+Let's assume you're reasonably
+familiar with your game's "system" and
+you are now ready to begin data
+collection in earnest. The objective of
+data collection is to quantify the
+relationships that you listed in the
+System Definition Phase. Thus. what
+things you collect are determined by
+what you are simulating. For instance, in
+a wargame the central issue is the
+resolution of combat. Who wins and who
+loses in a particular encounter will be
+determined by the relationships and
+elements you have classed as important
+
+to the outcome. In a "tactical" battle
+game you might decide that terrain at
+the defender's location is an important
+factor. Now you have to decide how
+important it is. To do that, you need
+information about the performance of
+defending troops in various types of
+terrain. The problem then becomes —
+where do you find that type of data? In a
+historical wargame there are numerous
+sources of battle narratives but little
+" hard data". So very often you will end
+up looking at what other wargames have
+done, particularly board-games. Two
+notes of caution are appropriate here.
+First, the numbers used in a particular
+game are a result of the author's
+decision as to what was important in the
+system being simulated. If you copy his
+numbers. then you must also copy his
+system definition and finally you have
+nothing but a computer version of his
+board-game (plagiarism?). Secondly,
+and perhaps more importantly, boardgames were developed to use sixoutcome random number generators
+known as dice. This required hopelessly
+arbitrary discrete probability outcomes.
+Discrete in a statistical sense requires
+that outcomes take specific known
+values. In flipping a coin, two discrete
+outcomes are possible. a head or a tail. In
+rolling a single die. six-outcomes are
+possible. Thus. board-game developers
+were forced to reduce all outcomes to
+one of six possibilities.
+However, the computer makes this
+unnecessary. It can deal with probabilities
+in almost any fashion. But. the state of
+the art in even computer games is still
+oriented to discrete probabilities. An
+example from the field of football
+simulations will demonstrate the
+limitation of "discrete" outcomes. Many
+board-game football simulations and
+some computer games have used
+discrete probabilities to determine the
+number of yards gained for a particular
+offense against a given defense. For
+instance, they might have a 40% chance
+of gaining three yards. a 25% chance of
+gaining five yards. a 20% chance of no
+gain, a 10% chance of a seven yard loss
+and a 5% chance of a twenty-three yard
+gain if the offensive is running a sweep
+and the defense is blitzing. You can
+readily see the limitation of this type of
+design. In the real world, yards gained on
+football plays just don't fall into one of
+five categories based on percentages.
+The number of yards gained (or lost) can
+take any value over a continuous range
+with some outcomes more likely. As
+opposed to the "discrete" probabilities
+mentioned above. the real world usually
+has "continuous" probabilities. While in
+board-games it was almost impossible to
+generate continuous outcomes, the
+computer is perfectly suited to the job.
+
+Continued on pg. 45
+
+usually prefer to be at Guadalcanal
+during the night so as not to be
+subjected to attack by Bettys. It would, of
+course, be wise to mix in a few combat
+missions that arrive on a day turn, so
+that the American won't start relying on
+your always being there during night
+turns only. A TF of at least the minimum
+make-up mentioned above will be able
+to handle just about any American TF
+that it encounters. The Japanese player
+should be looking to catch those
+American TFs that contain APD'S,
+DMSs, and TRs, (i.e. cargo carrying
+destroyers and transports) especially
+the TRs. With most of his TRs damaged
+or sunk, the Americans will not be able
+to win!
+I should mention, that if the American
+ships are on any kind of combat
+mission, then they will always fire first.
+Fire is not simultaneous. Ships which
+are damaged in the first round of fire will
+have reduced capabilities when they fire
+back. However, with the deadliness of
+the Japanese torpedoes, the American
+ships can get their first shot and still be
+seriously damaged or sunk by the
+Japanese return fire. You should note,
+however, that ships do not sink until the
+combat round is over. If a ship has
+sustained enough damage to be sunk, it
+will continue to fire with what guns it has
+left and then sink when combat is over.
+Also, if you send in a bombardment (B)
+mission, the Americans can slip in with a
+transport (T) mission at the same time
+and unload their supply after you have
+carried out your bombardment thus
+avoiding a surface action. It is therefore
+a good policy to leave any fast
+bombardment (FB) mission TF at
+Guadalcanal for one turn after it has
+bombarded. These TFs automatically
+convert to fast combat (FC) missions
+after the bombardment and can hang
+around the extra turn to engage in a
+surface action and still have the
+endurance to make it back to Rabaul.
+The key thing to remember is not to do
+the same thing with such consistency as
+to allow the American player to be able
+to predict your actions! Also, remember
+that a TF with an endurance of 7 or less
+will not initiate combat, so don't hang
+around with it past that point.
+There will usually be two or three
+squares where the American will stop
+his ships at the end of the move just
+before they make it into Guadalcanal.
+Look for these patterns during your
+searches, and when you feel the time is
+right, slip into one of these with a good
+combat mission and surprise him. He
+will usually do this with his TRs so that he
+can move them in and out of Guadalcanal
+when he needs supply. These squares
+will often be the ones north and east of
+San Christobal. These are also excellent
+locations for your subs.
+
+In the area of land combat, good
+advice is not to start attacking the
+Marines until you have at least 1215,000 troops. This will usually take you
+until mid-October to build up. Past this
+point, be sure to attack the Marines if
+you are fairly certain (due to the empty
+craters on a recent bombardment
+mission) that they are out of supply. In
+this case their losses will be doubled.
+Your early attacks should be made at
+levels 1, 2 and maybe 3. Do not start
+attacking at levels 4 or 5 until late in the
+game (middle to late November) when
+you are sure that you outnumber the
+Marines by odds of at least 2 to 1.
+As for the effective use of your battleships, it is strongly recommended that
+you not get trigger happy and send them
+in on combat missions. You will be
+disappointed with the long range
+results. These should be reserved
+exclusively for bombardment missions
+or possibly as escorts for your carriers.
+The Japanese CAs, Cls (light cruisers)
+and DDs are entirely capable of severely
+damaging any American TF, even if it
+has one or two battleships in it.
+Concerning the Japanese carriers,
+you should never send them out
+separately, unless it is to perhaps finish
+off a crippled American carrier. One
+possible tactic is to send out the two
+large carriers along with one of the
+CVLs. Use all the fighters from the CVL
+as CAP (combat air patrol) and send the
+fighters as escorts. The American
+carriers can put up a very powerful CAP,
+and you will be hard pressed to get
+through with enough bombers to count.
+The best advice I can give is to avoid
+prolonged engagements with two or
+more American carriers. Hit them once,
+hope for a little damage, and get the
+heck away. This will lower their endurance and put them back in the repair
+and refit pipeline for awhile. Since the
+biggest drawback of your carriers is
+their shortage of planes, you might
+consider keeping the Ryujo dedicated to
+continuously training carrier pilots.
+Following are some short suggestions
+and points that should lead to better
+Japanese play and should be obvious
+enough so as not to need further
+explanation. Only attack Henderson
+field with Bettys When there are no
+American TFs within range. Don't be
+too afraid of getting attacked by aircraft
+from Henderson field. Do try to be
+careful with your slow BBs when they
+are going in to bombard. Since they
+can't avoid getting in and out without
+being within air range, try to plan these
+missions when you feel there are few
+planes and little supply at Henderson. If
+your BBs get any kind of damage, take
+the little extra time to get them back to
+Truk. The time saved in repair will be
+
+worth it. If they are undamaged, always
+get them back to Rabaul before they
+reach 50 endurance. You might transfer
+some of your Bettys to Truk occasionally.
+This will give you the chance of getting
+more Bettys at Rabaul as reinforcements.
+After you are reinforced, transfer the
+ones at Truk back to Rabaul. You can
+build up some pretty powerful Betty
+forces this way. Never worry about B 17s
+attacking your TFs. I've yet to see one
+score a hit, and they don't decrease your
+endurance unless you're within seven
+squares of Espiritu Santo. Make it a
+habit to send some Bettys out on sub
+search about every other day turn. You
+will usually spot an American sub just
+southeast of the Shortlands.
+Guadalcanal is a great game, however
+I must offer a few minor criticisms. The
+American player should have been
+allowed to transfer planes from
+Brisbane to Espiritu Santo. This was
+done historically via Noumea in New
+Caledonia. I feel the accuracy of B17
+bombing was historically more accurate
+than portrayed in the game. This is
+based on first hand accounts from
+several former B17 pilots I know. I also
+feel that air attacks from Bettys and
+B1 7s alike should have reduced
+endurance by some percentage rather
+than knocking it all the way down to 10
+in one swoop as the Bettys do. As to
+whether American torpedoes were
+really as bad as they are in the game. I
+don't know. But it is hard to see how they
+could have been that bad. There should
+have been some provision for distinguishing carrier qualified planes from
+ground planes. If you transfer carrier
+planes off to the land, then they are
+mixed with the others and have to be
+retrained. I would like to have seen the
+ability to carry over odd movement
+points to the next turn. It would also have
+been nice if the player had to specify
+which direction his search planes were
+being sent out in so you could
+concentrate search out in the direction
+where you figured the enemy was.
+Searching, as it is, seems to be a little
+too accurate. Except for when the
+weather is bad, it is very hard to surprise
+anyone, especially it seems, for the
+American.
+
+In closing, if you're any kind of
+wargamer or armchair strategist then by
+all means, this game is a must for you. It
+is the game that I, for one, have waited
+long to see. I hope that it will receive the
+support it deserves so that more
+programmers and software companies
+will be motivated to produce games of a
+similar nature and level of complexity.
+To an avid boardgamer, this game alone
+can justify the purchase of a computer
+system.
+
+four for the Atari
+BASIC INFORMATION
+NAME:
+Attack at EP-CYG-4
+TYPE:
+Space Arcade
+SYSTEM:
+Atari 400/800 24K
+FORMAT:
+Diskette
+# PLAYERS:1 or 2
+PRICE:
+$32.95
+PUBLISHER: Bram Inc.
+18779 Kenlake Place NE
+Seattle, WA 98155
+12061 644-3425
+
+alien doum
+
+BASIC INFORMATION
+Hockey and Soccer
+NAME:
+Sports Games
+TYPE:
+Atari 400/800 16K
+SYSTEM:
+Diskette
+FORMAT:
+# PLAYERS:2 or 4
+$29.95
+PRICE:
+PUBLISHER: Gamma Software
+P.O. Box 25625
+Los Angeles, CA 90025
+
+ATTACK AT EP-CYG-4 is a two-player arcade game where
+the two players act as a team. One player is the pilot and the
+other the gunner of a flying saucer trying to destroy the cities of
+an alien world. The pilot uses his joystick to control flight. The
+ship moves up and down in direct response, but horizontal
+movement is based on momentum. The pilot's action button
+activates the defensive shields. The gunner's joystick moves an
+aiming cursor relative to the ship's position, and his action
+button fires the weapon. The weapon will not fire when the
+shields are up, however. There is a one player mode that
+combines all functions on one joystick, but that doesn't work
+as well as the two-player mode. This pilot/gunner concept
+seems perfect for a parent/child team, with the adult as pilot
+responsible for the ship's safety, while the child earns the
+points by destroying the cities. The play of the game has two
+small problems. Enemy interceptors appear at the edge of the
+screen with no warning, the same edge the player's ship must
+exit to get to the next screen. This leads to some occasional
+'surprise' collisions that steal a life. The other problem is that
+both friendly and enemy weapons ignore and may fire through
+terrain. Some screens portray mountainous areas, and it is
+disappointing that mountains do not block shots.
+The graphics of the ship and enemy interceptors are
+unexceptional. The target cities are nicely detailed, although
+the smallest buildings are too small and players might miss
+seeing them. The 'sweep' effect when the ship goes to the next
+screen is nice, but a scrolling screen would have solved the
+problem of edge collisions.
+EP-CYG-4 is a good game overall, and I have a feeling that
+the pilot/gunner concept will be around for a while. The game
+also comes with a four-color poster.
+HOCKEY and SOCCER are similar to the Atari VCS
+games on the same subject. The two games by Gamma
+Software are so similar that we will consider them together.
+HOCKEY/SOCCER are arcade style sports games for 2 to 4
+persons. Each team has three players on the (rink/field) and a
+(goalie/goalkeeper). The entire (rink/field) is displayed,
+without perspective, on the screen along with the score and the
+time remaining. The games may last 3, 5, or 8 minutes.
+
+While the (puck/ball) is in possession of one of the
+players, the joysticks control only that player or one defender;
+the other players are moved by the program and will
+(skate/run) to either block or receive a pass. While the
+(puck/ball) is free, the joysticks control all three players. The
+(goalie/goalkeeper) must stay in the (nets/goal area), moving
+up or down under control of the same joystick when one
+
+BASIC INFORMATION
+NAME:
+Shamus
+TYPE:
+Arcade
+SYSTEM:
+Atari 400/800 16K
+FORMAT:
+Disk or Tape
+# PLAYERS: 1
+AUTHOR:
+William Mataga
+PRICE:
+$34.95
+PUBLISHER: Synapse Software
+5327 Jauzz St. Suite I
+Richmond, CA 94804
+
+person controls a team. When two people are in control, the
+second player controls only the (goalie/goalkeper). There are
+additional routines for (face-offs/kickoffs) and kickins (in the
+Soccer game). The graphics are of the kind that leave George
+Plimpton flat. For those who like the arcade style sports games,
+these games fall short of what the computer is capable of.
+However, as two-player sports games, they can be exciting.
+SHAMUS is an arcade game reminiscent of BERZERK,
+with some interesting twists and vastly superior graphics.
+
+The on-screen player, the Shamus himself, wanders
+through a maze of rooms and corridors throwing knives (called
+ION-SHIVS) at enemy guards. There are four types of guards,
+and each behaves differently. Killing guards is not the object of
+the game, however. This game's version of "evil Otto" is the
+Shadow, who can be stunned but not killed when he appears to
+chase the Shamus out of a room. The object of the game is to
+kill the Shadow, and that can only be done in one place at the
+end of the maze.
+Complicating the maze are several dead-end rooms that
+the Shamus may only get through after first finding a Key that
+matches the keyhole in the room. Other objects that may be
+found are vials that are good for extra lives, and Question
+marks which may also be good for extra lives, but may
+summon the Shadow to the room more quickly.
+As the Shamus goes further into the maze the guards
+become more numerous, well over 20 in some rooms. (I've
+never had the time to count them. There might be as high as
+40.) The maze has four levels, the action speeding up when the
+level changes. You can also increase the speed of the game
+before you begin for a greater challenge.
+What sets SHAMUS apart from other games on this
+theme is the animation. The guards are all moving smoothly
+around the screen, and most of them have internal animation
+as well.
+While the action is fast, it still takes over half an hour to get
+through the over 100 rooms. The game's largest flaw is that
+there is not pause control and no place to rest for more than a
+few seconds. A second flaw is that the routine that controls the
+game's speed has a bug that can set the game speed
+incorrectly if you change the speed after having played a game.
+Despite these flaws, SHAMUS is easily the most addictive
+of the games reviewed here, ranking among the best arcade
+games for the ATARI.
+
+Eastern Front: Scenario Options
+Ian Chadwick
+
+WELCOME to Micro-Magic! In this
+column, during the forthcoming months,
+I would like to share with you some
+interesting recreational mathematics
+and computer applications which have
+been sadly neglected in our schools. I
+hope that this column will not only
+amuse and entertain you. but also
+stimulate you to think about the whys,
+hows and even the what-ifs. It is also
+almost certain to have the bonus effect
+of improving programming know-how
+— at least it has for me. I hope to hear
+directly from readers who have some of
+their own micro-magic which they might
+allow me to share, as well as superior
+programs or any other feedback you
+wish.
+
+DIGIT PREDICTION:
+One of the most popular types of
+parlor tricks is the "prediction" type. In
+this amusement, the computer asks you
+to pick any whole number, which is not
+revealed or INPUTted. Let's say you pick
+1234. You are next asked to add up the
+digits to your number. In this case,
+1+2+3+4=10. Now subtract this last
+result from your original number
+(either mentally, or if you must, on a
+hand calculator). We now have
+1234-10=1224.
+This is where the computer "does its
+stuff". It now asks you to think of any digit
+(other than 0) in the last answer (1224 in
+the above). You then enter the number
+that is left over after you remove the digit
+that you've picked. If you picked "4-,
+enter 122 when requested. The computer will tell you the digit you picked (in
+this case, 4)!
+Though the digit prediction program
+(program number one) was produced
+on a TRS-80 model 3, it is easily
+modifiable. Make appropriate modifications for your computer such as the
+'clear screen' command (CLS for
+TRS-80.HOMEforAple,tc)CHR$(23
+produces double width letters for the
+TRS-80.
+
+THE REMARKABLE
+NUMBER 153
+Take any whole number which is a
+multiple of 3 (3, 6, 9, 12, 15, 18, etc.).
+Suppose you picked 345. Take the cube
+of each digit and add the cubes:
+3*3*3=27. 4*4*4=64. 5*5*5=125.
+27+64+125=216.
+
+Now repeat this with the number 216.
+You should get 225. Repeating gives
+141. then 66: then 432; 99: 1458; 702;
+then 351 and next 153. Once it hits 153
+you will find that you keep getting 153
+because 1*1*1 + 5*5*5 + 3*3*3 = 1+
+125 + 27 =153 again!
+The remarkable fact is that no matter
+what multiple of 3 with which you begin,
+you must eventually hit the number 153.
+Program two will take any input and test
+to verify that you have used a multiple of
+3. If so, it will then calculate and display
+the numbers obtained in this process.
+Readers who are curious as to what
+happens if the original whole number is
+not a multiple of 3 are encouraged to
+modify the program to skip the initial
+test. In any case, the program terminates
+when the next number obtained is the
+same as the previous one. In the case of
+starting with a multiple of 3, it turns out
+that 153 is the only multiple of 3 which is
+the sum of the cubes of its digits, and so
+
+the unmodified program should always
+terminate with 153.
+Readers who wish to correspond are
+encouraged to write me directly. Useful
+suggestions will be acknowledged, and
+very original and especially useful ideas
+may sometimes result in several months
+subscription extensions courtesy of our
+generous editor. My address is:
+Dr. Michael W. Ecker
+COMPUTER GAMING WORLD
+Luzerne 8
+Viewmont Village
+Scranton, PA 18508
+
+Dr. Michael W Ecker is Assistant
+Professor of Mathematics at the
+Pennsylvania State University's Worthington Scranton Campus in the
+Scranton, PA area. He is known for his
+interest in problem solving and
+recreational math, as well as his newfound addiction for home computing
+— especially computer gaming.
+
+STAR MAZE CONTEST
+Get to the 16th level of STAR
+MAZE and you can win big! Sirtech Software. in conjunction with
+Computer Gaming World, is offering prizes to three lucky people
+who can reach the 16th level of
+their new space arcade game,
+STAR MAZE. The first place prize
+is $100.00 worth of Sir-tech
+products. Second prize and third
+prize are $75.00 and $50.00
+respectively in Sir-tech products.
+
+CONTEST RULES
+1. Each contestant will submit a
+map of the 16th level of Sir-tech's
+STAR MAZE game. The map should
+be of sufficient detail so it is clear to the
+judges that the contestant has indeed
+gotten to and mapped the 16th level.
+2. Tie-breaker: Some shapes
+closely associated with the two authors
+appear on a certain level or levels.
+What are the shapes and on what
+level(s) do they appear?
+3. Each entry should include your
+name, address, and phone number.
+4. Entries must be postmarked no
+later than December 31, 1982.
+5. First, second and third prizes will
+be determined by random selection
+from among the correct entries (i.e.,
+correct map and correct answers to
+tie-breaker). If less than three correct
+entries are received. places will be
+determined on the basis of closeness
+to fulfillment of the contest's requirements.
+6. All correct entries will receive a
+one year subscription to Computer
+Gaming World. To this end, please
+indicate if you are a current subscriber
+or not.
+7. Winners will be announced in the
+January-February 1983 issue of CGW.
+
+Once chosen, all the infantry or cavalry
+within that army will be identical (as
+contrasted to the Roman army where
+each legion is different). Your infantry
+opponents begin with the nearly
+defenseless Aedui to the "most feared
+infantry in barbarian Europe", the
+Helvetii. Similarly, the cavalry range
+from the helpless Auscii to the Huns.
+The Huns are nearly indestructible and
+can only be defeated with a liberal
+application of luck. The Huns were
+added to the game to give even the
+heartiest and most skilled game player a
+monumental challenge. In fact, the Huns
+did not even exist at the time of Caesar,
+as the manual explains, and had to be
+borrowed from Caesar's future in order
+to get a powerful enough opponent.
+Once you have the armies chosen, the
+computer prompts you to press the start
+key on the console in order to begin the
+game. Doing this will start the Barbarian
+attack and will intensely rivet you to your
+computer for the next half hour. You can,
+however, break away from the game, as
+there is a pause function which is
+toggled on and off by pressing the select
+key. But, before beginning the game,
+you should look over the entire map to
+locate Caesar and the enemy, and create
+your battle plan. The map board, which
+remains the same from game to game, is
+actually much larger than the screen and
+can only be seen by scrolling over it. This
+is done with the joystick. You move the
+cursor, a rectangle the size of one legion,
+over the screen in the direction that you
+push the joystick. When the cursor
+reaches a side of the screen the entire
+map scrolls across the screen to reveal
+other sections of the map.
+What you will see is a topographical or
+contour map with three colors of
+contours. These are connected lines
+which define an area and indicate the
+elevation of the ground contained within
+it. There are four elevations, ground level
+and the three heights denoted by the
+green, blue, and pink contours. You can
+read or picture the hill structure with
+these. This is vital in order to take
+advantage of height-related attack
+effects and slope-related speed and
+exertion effects. Moving across a
+contour line represents either moving
+uphill or downhill. You will also see
+groups of trees on the map. These
+represent dense forests that are
+impassable to all pieces in the game.
+The Roman legions, in pink, are
+represented by an eagle for Caesar, a
+horse's head for cavalry, and a sword for
+infantry. All pieces of similar type are
+represented by the same symbol on the
+map. The Barbarians, in blue, are also
+represented by horse heads and swords.
+The armies are placed on the map
+
+randomly different in each game. The
+Romans form one cluster and the
+Barbarian infantry and cavalry form two
+other clusters, not necessarily together.
+This represents all the information
+available before the start button is
+pressed and the game begins. Once the
+game is under way, the player can
+inspect each of his units and the enemy
+units by positioning the cursor over one
+of them and pressing the fire button.
+What you will see is;
+Caesar Men 4000 Swords 3290
+First is the name of the unit, then the
+actual number of men in the unit. The
+number of men decreases throughout
+the game due to battle attrition. The last
+number, swords, denotes the power of
+the piece. Swords will equal the number
+of men when a piece is fully rested,
+however, it will be reduced if the piece is
+tired from marching or weary from
+battle. Swords tells you the actual
+fighting ability of the piece at any time.
+When you press the start button you
+will immediately hear the sound of
+marching men. This, and the other three
+distinct sounds are not only for effect,
+they also convey vital information. There
+is a low-pitch beep which signals the start
+of a time period. In LEGIONNAIRE, all
+actions take certain amounts of time.
+These are measured in time periods. For
+example, a particular cavalry unit may
+take five time periods to move up a hill,
+or an infantry might take twentyfive time
+periods to move across flat land. In this
+way, all pieces move at different speeds.
+The marching sound that you hear is
+actually a sound accompanying each
+piece's attempt to move. That is, each
+time period that the infantry tries to
+move would cause one 'foot stomp'
+sound. The effect is that ten or twenty
+pieces all 'foot stomping' between each
+time period beep sounds like marching
+armies. With each 'foot stomp' comes
+what the manual calls 'animating'. Once
+during each time period, when you hear
+the stomp, you can see the marching
+piece be replaced by an arrow pointing in
+the direction it is trying to move. This
+arrow is quite important because it can
+tell you which of two pieces is going to
+move first. You do this by listening for the
+time period beep and then looking to see
+which piece 'animates' first. If a piece
+should attempt to move into an enemy
+piece, a battle ensues. The third distinct
+sound in the game is the sound of battle.
+simulated by a clashing swords sound.
+This is a terrible sound to hear when you
+are busy at one part of the map and the
+Barbarians have caught up to one of
+your pieces somewhere else. Of course,
+the last sound, the squeal of a dying
+legion, is by far the most heartstopping
+in the game.
+
+Your first order of business is to give
+your legions their orders. This is done by
+positioning the cursor over them and
+pressing the fire button on the joystick.
+You can then enter up to eight
+movement instructions with the joystick.
+You will see an arrow move along the
+path that you have directed ending in a
+ghost of that piece. Releasing the fire
+button gives that piece those instructions which it will now attempt to
+follow. You may change the orders of a
+piece by again holding down the button
+and then pressing the space bar on the
+console. This will erase the last
+movement given. The piece will now
+make the moves you have directed and,
+if you inspect it again, it will show, with
+the arrows, the remaining commands
+which you can change or add to. In this
+way you keep all your legions working
+towards the goals of your battle plan.
+The Barbarians are relentless and
+keep pursuing the nearest group of
+Romans. Eventually the two armies
+begin to clash. A battle is indicated by
+the clashing swords sound and a
+flashing of the defending piece. Both the
+attacker and the defender are affected by
+the attack with a reduction in men due to
+losses and a reduction in swords due to
+exertion in battle. The losses are in
+proportion to the swords of each side.
+This is affected, however, by a number of
+things. First, slope effect gives the piece
+on higher ground the advantage since
+he has better visibility and range, and
+can more easily push the defender
+downhill than the defender can attack
+uphill. Also, the attacker is given a bonus
+just for being on the attack. An attacker
+has a large advantage if the defender is
+moving. This makes a flank or rear
+attack devastating. Shock effects can
+cause a piece to retreat. That is, if a piece
+is losing badly in a battle or is attacked by
+an ominously larger enemy, he may
+break and run from the battle. Once a
+piece breaks, as Sabinus did in the story
+at the beginning of this article, he is very
+vulnerable to the rear attack as he
+scurries from the attacker.
+Usually your first directive to the
+legions is to take the high ground.
+Getting your troops there in time can be
+difficult. The speed that they move is
+determined by two things. First, the
+characteristics of the piece. Cavalry
+pieces and Caesar move at about the
+same speed, around four time periods
+per move. The infantry vary but will
+generally take about twenty time periods
+to move. The Barbarians vary widely on
+their speeds, the stronger units tending
+to be faster. The second affect to
+movement is the terrain. Moving uphill
+Continued on pg. 30
+
+slows a piece, downhill speeds it up. One
+obvious effect is that if two identical
+pieces are given orders to attack each
+other at the same time, the one moving
+downhill will attack first. A typical speed
+change for a move that normally takes
+four time periods might be, uphill
+becomes nine time periods and downhill
+becomes two time periods. Obviously,
+the skilled player of LEGIONNAIRE
+must learn to take full advantage of the
+slopes.
+Along with getting your legions to the
+high ground comes getting them there
+in enough time to rest up for the battle.
+Each piece has a different rate of
+recovery that varies from Caesar's nearly
+immediate to the slow recuperation of
+Plancus. At the beginning of a game a
+typical piece may have men and swords
+equal to 2600. After a long trek over a hill
+or two his swords may be down to 1200.
+The piece must rest for perhaps forty
+time periods for his swords to gradually
+come back to full power. You will notice
+that the Barbarian infantry will travel
+exhausting distances to reach you but
+will stop short of actual battle and wait to
+regain most of their strength. You too
+must do this unless you are still powerful
+enough after travel to attack successfully.
+Movement will never lower a piece's
+swords to the point of destruction, but it
+will make it so weak that one attack will
+destroy it. To destroy a piece you need
+only bring his swords down to zero, not
+his number of men. It is assumed that
+when his effectiveness is zero the
+remaining demoralized men scatter into
+the countryside.
+Of course, your overall goal is to
+destroy all the Barbarian pieces before
+they destroy Caesar. The player can quit
+anytime by pressing the option key on
+the console. Accidental quitting is
+protected against by an inquiry from the
+computer asking if you would like to
+continue the game. But winning isn't
+everything. You receive a score once you
+have completed the game, whether
+Caesar died or not. The score is based
+on the losses each side took. This score
+can be negative, very bad, to positive, fair
+or good. The scoring scheme seems to
+offer scores proportional to the number
+of men you take and to the power of the
+Barbarians that you engage. In order to
+have a quantitative value for any
+combination of number of Legions and
+difficulty of Barbarians I did the
+following. First, I assigned to each
+Barbarian tribe the number of their
+location in the list in the manual, one for
+the weakest up to eight for the toughest. I
+then always picked the same number for
+Barbarian infantry and cavalry. Next, I
+multiplied my score times the Barbarian
+
+number times the number of legions I
+had chosen. For a game in which ten
+legions fought against the Eburones and
+Obi and the game score was fifty, the
+quantitative score would be (10 legions)
+X (2nd set of Barbarians) X (50
+score)=1000. In a 44 game stretch
+where I recorded my scores for each
+game, my high scores averaged about
+400. My best so far is 1050 while
+commanding ten legions against the
+third set of Barbarians.
+But how do you get high scores?
+Some of the tactical hints given in the
+manual are useful. Make the enemy fight
+from the lower position. Make him tired
+by marching to reach you. Plan your
+moves to give your legions maximum
+rest. Keep your better legions up front
+and use your weaker ones for clean up.
+Try to eliminate all of the infantry or
+cavalry before the other group gets to
+you. Use the cavalry for chasing down
+weak retreating units. Use cavalry to
+counterattack downhill against an
+enemy who is himself attacking one of
+your legions downhill. Try to surround an
+enemy with forest and your pieces. Avoid
+frontal attacks, concentrate on rear
+attacks. The manual also suggests two
+overall strategies. One is to assemble on
+top of a hill and wait for the enemy to
+come to you. The disadvantages are that
+this may give the two Barbarian groups
+time to join together before they reach
+you; also, you may not be close enough
+to a hill to assemble there before they
+reach you. The other suggestion is to use
+the forests to funnel the enemy through
+to you one or two at a time.
+When I heard about people using the
+number of units they had left after
+annihilating the Germans as criteria for
+how much better than 255 their score
+was in EASTERN FRONT, I started to
+doubt my abilities as a wargamer. None
+the less, I'm going to present the strategy
+I used to earn my 1050 composite score
+in Legionnaire. I was playing against the
+Suevii infantry, a large and strong group
+that fight well but become disorganized
+easily. This meant that I had to force the
+attack and stay out of their way when
+they attacked. My cavalry opponents
+were the Menapii, a large and speedy
+group. They weren't going to be easy to
+defeat, but with my strong pieces at the
+top of a hill I should have little chance of
+being thrown off. I was fortunate to be
+very near a large high hill with a group of
+trees at the base between me and their
+cavalry. The infantry were far off and
+would pose no danger for quite some
+time. I sent my weaker cavalry,
+Labienus, to lure these infantry from my
+hill when they finally got in range.
+Crassus, my main cavalry, charged
+straight toward the oncoming enemy
+cavalry with the hope of breaking this
+
+huge mass into something I could
+handle. I had long ago found that the
+weaker infantry, Plancus and Sabinus,
+were useless in battle so I sent them over
+my hill well out of danger of attack. I then
+set up my remaining infantry on the hill
+with Caesar in the middle of a line along
+the ridge that was nearest to the forest
+below. Cicero and Galba, my next two
+strongest infantry, flanked Caesar. They
+were themselves flanked by Fabius and
+Roscius. My plan was to get the
+oncoming cavalry to chase Crassus
+around the forest below while I lured one
+or two of the horde up the hill to their
+death. Due to the game's tendency to
+keep all of a Barbarian group together
+and marching towards the nearest
+Roman legion, the cavalry dutifully
+marched after Crassus as he constantly
+circled the forest. Due to traffic
+problems, only about one half the enemy
+group would actually get around the
+forest. I'd then send Caesar temptingly
+close to one of their cavalry and lure him
+up the hill where Caesaror Cicero could
+make short work of him. I took about
+nine trips around the forest to finally
+finish off the cavalry. Because of my
+high-ground advantage, I'd suffered only
+minor losses. Meanwhile, Labienus had
+started leading the infantry horde toward
+my forest trap. These poor soldiers were
+nearly dead from their constant chase of
+Labienus. With the long rest afforded
+my troops on the hill as the slow infantry
+approached, I had good strong troops to
+attack with. I broke the infantry into two
+groups using my two cavalry to get one
+half o f them to go off chasing Crassus. I
+finished up the game by finishing off first
+one, and then the other, tired infantry
+group. I didn't lose one legion, although I
+lost quite a few men while destroying the
+infantry. My score of only 35 hurt, but I
+was proud that my plan worked.
+One of the more enjoyable battles I
+had was with only Caesar and Crassus
+against the two strongest Barbarians. My
+average score after six games was minus
+nine. But out of that there was one score
+of plus eight. The Huns are very, very
+tough. The only way to beat them was to
+start Caesar attacking down the hill
+before they even got to him so that I got
+the first strike in. Even then. I would have
+to have the height advantage and be
+clear of the second cavalry piece or risk
+destruction. I found that five Roman
+legions provided the most pleasurable
+game for me. This provides an army of
+two infantry, two cavalry, and Caesar
+against the two groups of five Barbarians
+each. Of course, the Eastern Front
+aficionados will be bragging about clean
+sweeps against the Huns in a few
+months, but I'll give a few of my scores
+for future reference and the amusement
+of the professional wargamers out there.
+Continued on pg. 45
+
+CYTRON MASTERS FOR THE ATARI - CONVERSION versus UPGRADE
+Dan Bunten
+Cytron Masters is a "half-breed - game.
+It's either a strategy game with action or
+an action game with strategic elements.
+Whichever it is, I (and my compatriots)
+initially wrote it for the Apple. As the
+game is entirely in machine language,
+and I had an Atari 800 collecting dust, I
+decided to "convert" Cytrons to the
+Atari. Sounded easy enough to me (and
+the other lunatics in my company)! After
+all, both machines have - high resolution
+color graphics " , both can do sound
+effects, both have standard game input
+devices (paddles and joysticks), and
+both use a 6502 processor. But what a
+difference a "generation" makes!
+
+to fifty separate Cytrons (robots) on a
+battlefield which includes a number of
+capturable features. In addition there are
+animated fire-fights, fragment explosions and sound effects. I hope you can
+imagine the difficulty in writing a
+computer program that handles a
+hundred " intelligent" robots while
+processing "simultaneous" input from
+two players. As anyone who has
+attempted even a simple flash explosion
+with simultaneous sound can tell you,
+the Apple can't do two things without a
+lot of effort (you have to time your clicks
+of the speaker with your graphic draw
+routine so that they take turns). It was a
+
+tough program to write.
+The Atari is the next generation
+computer (as compared to Apple) and it
+has all the features to prove it. I have
+been writing software for the Apple since
+1978 and am just now getting to where I
+know how to make it sing. However, I
+found that sophisticated effects that
+require a lot of work on an Apple can be
+done with ease on an Atari.
+Anyway, back to my story about " converting" Cytron Masters. This game is
+the result of almost eight months of
+development on the Apple and is an
+attempt to bring the - real-time challenge of arcades to a strategic battle
+game. In the two-player version (solo is
+also available), each opponent can
+constantly create and order armies of up
+
+After spending a great deal of time on
+the Apple version, I expected to just
+" duplicate" the same things on the Atari.
+(This being the tack that many Apple
+programmers have taken.) The Atari
+owners I spoke to, however, said. "It's a
+neat game but where's the color?"
+(Apparently Atari folks think you have to
+use five or six colors on a screen to
+qualify for "color graphic" - !) Also, they
+wanted to know "What are those little
+noises?" — referring to the difficult to
+achieve explosion sounds. (Atari
+explosions are deep and resonating with
+a definite force behind them!) Finally,
+they didn't like the "goofy little knobs that Apple calls game paddles. (Atari
+owners love their joysticks.)
+
+Needless to say, I decided that if the
+program was to do well as an Atari
+version, it would have to use a FEW of
+the features of that machine. But, during
+the conversion, I discovered that ALL the
+sophisticated hardware features of the
+Atari are useful! Cytron Masters uses the
+separate sound processor and fourvoices to make truly impressive sound
+effects (at least as compared to the
+Apple); it uses the Display List and
+Display List Interrupts to change colors
+on the fly. and have character graphics,
+four-color text as well as hi-res graphics
+on one screen; it uses Player/Missile
+Graphics for additional colors and fast
+animation; and most useful of all, it uses
+Vertical Blank Interrupts to allow two
+programs to (apparently) run at once!
+All in all, the Atari is a fantastic game
+machine! It does have its bad points,
+such as an overblown ( I OK) and horribly
+slow operating system, a BASIC that's
+more like Apple Integer than Applesoft,
+and a disk drive that's reminiscent to
+Apple's cassette in speed and reliability.
+But, for a game program in machine
+language that uses its own operating
+system (as Cytrons does) you can't beat
+the Atari.
+The Atari version of Cytron Masters
+was definitely an - upgrade " rather than a
+"conversion"!
+❑
+
+ROUTE 80
+THE ROAD TO TRS-80 GAMING
+Dick McGrath
+Welcome back on the Road! For those
+of you who are just joining us, ROUTE 80
+is your main highway to TRS-80
+computer gaming! Sometimes we'll
+follow the high road directly to main line
+articles and reviews of games for the
+TRS-80. At other times, we'll wander
+down some of the little-used alleys and
+pathways branching off the main
+thoroughfare, exploring such out-of-theway hamlets as peeks and pokes, bits
+and bytes, and puts and gets. But, always
+will we remain true to our main compass
+course. To provide you with more
+enjoyment from your TRS-80.
+First, let's take a look at a road map of
+where we're going in the future of
+computer gaming.
+It is, after all, the time of year for
+soothsayers to try their hands at
+predicting the future of our favorite
+pastime. Practically every new issue of
+the popular computing magazines
+carries someone's version of what we
+can expect during the next year or the
+next decade in the world of computer
+games. For what they're worth, let's take
+a look at some of their forecasts.
+Everyone agrees that computer
+games are just hitting their stride, with
+greater sophistication and complexity
+evolving with every new generation of
+software. This continual evolution is a
+necessity. Computer gamers are a
+restless lot. who are never satisfied with
+the status quo. In a constant search for
+better products, their expectations rise
+with every new purchase.
+Most of these expectations center
+around technical innovations. Sound
+effects and voice synthesis are already
+part of state-of-the-art programming.
+Future hardware will undoubtedly
+produce refinements and higher fidelity
+in sound production. Greater flexibility in
+player input can also be expected. First
+there were keyboards, then joysticks,
+and in the future. . . authentic input
+devices, including steering wheels, foot
+pedals, aircraft control columns, and
+even voice-actuated command systems.
+As hardware capabilities improve, we
+can anticipate more realistic graphics,
+including cartoon-like screen animation
+and video-disk random-access projected
+visuals. The catch-phrase that pulls all of
+this together in the far-distant future is
+total immersion. The player will be
+completely isolated from his surroundings; totally projected into a fantasy
+world of three-dimensional wrap-around
+animation. unimpeachable audio reproduction. and total interaction with the
+game environment.
+
+The more philosophical (and perhaps
+more realistic) of our crystal gazers
+reject the role of technological development as the guiding force of the future.
+They believe that the continued
+popularity of computer gaming does not
+depend as much on new technology as
+on new and imaginative uses of current
+technology. Computer gaming is here to
+stay, but just as in music, movies, and
+other art forms, public taste in computer
+games undergoes continual change.
+The successful software producer will be
+the one who anticipates each fluctuation
+in the cycle and provides imaginative
+programs to satisfy each new gaming
+fad.
+This is where the greatest disagreement exists among the experts. Where
+do we stand right now? Have
+shot-emup,facinrdestylgam
+peaked as some believe they have? What
+about the text-oriented fantasy adventures
+that they replaced? Are they due for a
+comeback, or are they hopelessly out of
+date? Several major software companies
+are staking their bankrolls on opposite
+sides of this question. What is my
+prediction? Well, the next wave of
+consumer enthusiasm will be lavished
+on a marriage of the two. . . Realistic
+simulation adventures requiring careful
+strategic planning but which also
+provide real-time interaction and visual
+display. Such games could re-create
+detective mysteries, cops and robbers
+action, fantasy adventures, tactical
+military scenarios, westerns, international
+political intrigue, or even gothic
+romances!
+
+PROGRAMS BY
+SUBSCRIPTION
+In the last issue, I described one of the
+subscription program services (Cload
+Magazine), and promised others in the
+future. Here are two more from one
+company. SoftSide Magazine has been
+providing quality programs since at least
+1980. They conveniently divide their
+publication into three segments; one
+each for the Atari, Apple and TRS-80
+computers. They also provide cassette
+and disk versions of the program listings
+printed in the magazine. They specialize
+in rather lengthy adventure-type games,
+business, utility and specialty programs.
+Each issue contains three to five
+programs for each computer. The
+cassette version is $75.00 a year and disk
+is $125.00. It is available from SoftSide,
+100 Pine Street. Holmes, PA 19043.
+The same company also produces
+Adventure of the Month. a subscription
+
+33
+
+service which provides a high quality
+text-oriented adventure every month. A
+six month subscription is $29.00 on
+cassette or $49.00 on disk. This service
+is available from Adventure of the Month,
+6 South St., Milford, NH 03055.
+I'll look at another subscription service
+next time!
+
+PEEKS AND POKES
+PARKWAY
+Let's turn off the main highway for a
+few moments and examine one of the
+side streets on our journey. The street
+sign says - Peeks and Pokes Parkway".
+The buildings here look modern and
+very utilitarian, but little used.
+Peeks and Pokes give you direct
+access to computer memory locations.
+A peek allows you to look at the value
+stored in a location, while a poke lets you
+change the value. Peeks are passive little
+things, but pokes can be dangerous! A
+poke in the wrong location can set off a
+chain reaction of undesirable consequences. Fortunately, everything can
+be set aright by simply rebooting the
+system. This, unfortunately, will also
+destroy any programs currently in
+memory. So, be careful about poking
+around in places that are unfamiliar!
+Peeks and Pokes vary from simple
+examination of a single stored value to
+complex subroutines providing fast
+action full-screen graphics and other
+esoteric manipulations. We'll occasionally wander this way and pick up some
+usable programming techniques. Here
+are a couple of simple things:
+Peeks do not work alone. They must be
+part of a command as PRINT
+PEEK (15360) or A = PEEK(15360). To
+examine a sample of memory peeks,
+type in this program:
+10 INPUT "WHAT MEMORY ADDRESS
+DO YOU WANT TO PEEK"; X
+20 A=PEEK (X): PRINT A
+30 GOTO 10
+
+Then input these peek addresses;
+293 - A value of 73 indicates a Model 111
+machine, otherwise Model I.
+14312 - A value of 63 indicates that a
+printer is ready, anything over
+127 indicates a printer is not
+attached or not ready.
+14317 - A value of 255 indicates a tape
+machine, all else indicates
+disk.
+
+Continued on pg. 44
+
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+FORMAT:
+# PLAYERS:
+PRICE:
+PUBLISHER:
+
+Andromeda Conquest
+Strategy
+Many
+Disk or Tape
+2 to 4
+518.00 to 524.00
+Avalon Hill
+4517 Harford Rd.
+Baltimore. MD 21214
+
+ANDROMEDA
+CONQUEST
+STRATEGIES AND RULES MODIFICATIONS
+Floyd Mathews
+suggest you draw straws to determine
+the order of play. Under the original
+victory objective or under the modified
+objectives discussed above, it is possible
+that more than one player could win on
+the same turn, which does give more
+incentive for forming alliances.
+Strategic planning is fairly simple in
+AC. The direction of your exploration is
+largely determined by which star clusters
+are nearest to your home world. On your
+first turn you should first identify the
+eight nearest stars and estimate the
+distance to each of them. Using all of
+your resource points, build one Echo
+ship and send it out unescorted on the
+first turn. There is a small risk that it may
+be destroyed before escorts can catch
+up with it, but it is important to get an
+early start in the race for colonies. You
+can only establish one colony per turn,
+so it is important to plan routes for future
+Echo ships so that you can reach all
+eight of the nearest stars as quickly as
+possible. If you are lucky enough to have
+eight systems nearby, and no other
+player's home system nearby. you may
+be able to win easily without ever fighting
+another player. In general, you should try
+to explore toward the corners and edges
+of the map if at all possible, not toward
+the center where you are more likely to
+encounter competition from other
+players in the later stages of the game.
+If the nearest star is only two spaces
+away. you should build a Rama fleet on
+turn two and begin attacking its system
+defenses. With luck, you should be able
+to establish your first colony on turn two
+or three. If no alien fleets were spotted o
+the tactical map during turn one. you
+might risk gambling again on turn two by
+sending out a second unescorted Echo
+ship. By turn three, you should begin
+building Rama ships. Most of them
+should be accumulated in one or two
+large fleets advancing before the Echo
+ships to scout for the easiest systems to
+colonize, to attack system defenses, and
+o intercept and destroy any alien fleets
+;before they get within striking range of
+the valuable Echo ships. A small number
+of Rama ships should be sent out singly
+or in pairs on long-range reconnaissance
+in order to probe any approaching alien
+fleets as far away as possible, and to
+possibly initiate negotiations, even if only
+for the purpose of gathering information
+about the other players intentions and
+strengths.
+
+t
+
+If you are unlucky and your home
+system is not located near eight other
+
+systems, you will not be able to win early
+in the game simply by sending out Echo
+ships. Instead you must use the more
+difficult long-term strategy of attacking
+the "early starters" and hopefully
+forming alliances with other "late
+starters". On the first turn you should
+send out one Echo ship toward the
+nearest cluster of systems. Then build
+Rama ships on subsequent turns and
+accumulate them in one large fleet. They
+should have a few single Rama ships in
+front of them to scout for good targets
+such as unescorted or weakly escorted
+Echo ships, or to initiate negotiations
+with other "late starters". If you can
+develop any strong hunches about the
+location of another home system, you
+should consider trying to win by the
+alternate victory objective. Although this
+is the more difficult way to win, it may be
+your only hope. Your scouts can usually
+identify a home system. as it has
+resources of ten, the same life form as
+most of the surrounding systems. eleven
+or more system defenses, and appears
+to be centered among and equidistant
+from numerous alien fleets. As soon as
+possible, build one Nova ship and send it
+to join your main battle fleet. When you
+attack the system defenses of the
+suspected home planet, you must do it
+with overwhelming superiority in order
+,to destroy it in one turn. For, if you fail to
+destroy it on your first attack, the enemy
+will reinforce that system- on his next
+turn, and you may never be strong
+enough to take it. On your first attack you
+must have odds of four-to-one in order to
+have a fifty-fifty chance of destroying the
+system in one turn. I recommend odds
+of at least six-to-one. which will: give you a
+66% probability of destroying the system
+in one turn. Obviously, if you have any
+loyal ally whose order of movement is
+either just before or just after yours. you
+might invite him to coordinate his own
+attack with yours in order to increase the
+chance that one of you will succeed in
+destroying the system. If the enemy
+reinforces the suspected home planet so
+you cannot get good odds. change your
+plan and hit one of the weakly-defended
+nearby systems of the same life form. He
+cannot afford to strongly defend all of his
+colonies and, if you continue destroying
+his colonies, you may be able to prevent
+him from getting eight.
+
+win by getting eight colonies, you really
+don't need allies to help you. The only
+thing they could offer you would be
+peaceful coexistence and a pledge to
+stay away from your area of planned
+expansion. But, if possible, you should
+not risk telling them where you plan to
+expand. I recommend that you promptly
+destroy any small scouting forces that
+intrude into your territory. This will
+hopefully discourage any further
+intrusions. If a very powerful fleet enters
+your domain, you should try to initiate
+negotiations via the scouting force
+which first detects it. If he does negotiate,
+you might suggest that he expand
+toward another nearby cluster, and offer
+him your pledge of mutual nonaggression and respect for his territory. Do not
+reveal any more information than is
+necessary and, of course, never reveal
+the location of your home planet. Even if
+the negotiations are not promising, you
+may be able to pick up valuable
+information from him or delay any
+further advance so you can bring up
+reinforcements and prepare your
+defenses.
+
+Your negotiations with other players
+are the heart and soul of this game.
+There are only two ways to win in this
+game, and you, negotiating strategy will
+depend on which victory objective you
+choose to pursue. If you choose to try to
+
+Whether you play straight or slightly
+slanted, ANDROMEDA CONQUEST
+can give you hours of gaming enjoyment
+with your friends.
+
+35
+
+If your home planet is in a remote
+location and you choose to try to win by
+destroying another home planet, you will
+need loyal allies to have a good chance
+of winning. You should send out many
+long-range reconnaissance parties and
+try to initiate as many negotiations as
+possible with alien fleets. If you
+encounter another player who is also in a
+remote location, it is obviously in your
+mutual interest to exchange some
+information and hopefully develop a
+long range plan for a strong allied attack
+against a suspected home planet of an
+"early starter". These negotiations will
+require a great deal of mutual trust. I
+therefore recommend that, short of
+revealing the location of your home
+planet, you show much more candor
+than in other negotiations.
+It is of course permissible to tell huge
+lies in this game and later stab your ally
+in the back. but I do not recommend it.
+Even a veteran "poker face will have a
+rough time maintaining a lie throughout
+the numerous negotiations in this long
+game. If, during a negotiation, the other
+player raises a subject that you do not
+wish to discuss, I recommend that you
+simply refuse to discuss the subject at all
+rather than lie.
+
+0
+
+BASIC INFORMATION
+NAME:
+Torpedo Fire
+TYPE:
+Strategy
+SYSTEM:
+Apple II or Apple II+
+FORMAT:
+Diskette (DOS 3.3)
+# PLAYERS: 1 or 2
+AUTHOR:
+John Lyon
+PRICE:
+$59.95
+PUBLISHER: Strategic Simulations Inc.
+465 Fairchild Dr..
+Suite 108
+Mountain View. CA 94043
+
+Tired of attacking the same old
+convoy? Here's a couple of unusual
+scenarios that you can use to spice
+things up. Both award victory points for
+getting off the map, which makes the
+game more "cat-and-mouse" than when
+points are given only for damage to the
+enemy. This results in trading some
+action for more suspense.
+I assume that you know how to use the
+Shipyard program to create your own
+scenarios or can figure it out from the
+shipyard Data Card. Don't hurry this process! Make sure that you get the data
+entered correctly as it's very discouraging to play for half an hour before you
+discover a mistake — your sub can't dive
+deeper than 100 feet or your opponent
+has a maximum speed of 180 knots.
+SCENARIO ONE — Bungo Pete
+Bungo Suido is the name of the strait
+between the Japanese islands of Kyushu
+and Shikoku and is the southern
+entrance to Japan's Inland Sea. The antisubmarine patrol here gained a reputation among the skippers of ComSubPac
+as one of the most tenacious anywhere
+in the Pacific. With a sort of grudging
+
+respect, they humanized this unknown
+enemy with a name, "Bungo Suido Pete"
+or just "Bungo Pete" for short.
+In the scenario from early 1945, a US
+sub tries to penetrate the Inland Sea. The
+US player wins if he can exit the map to
+the north, which means Y coordinate of
+10,000 or greater (you can make it
+anything up to 20,000 if you want a
+longer game). Bungo Pete wins by
+sinking the US sub; any other outcome is
+a draw. This game is best with two
+players but it can be played solitaire. Of
+course, the computer will not attempt to
+exit the sub off the north edge. Even so,
+you may find it a good opportunity to
+develop your tactics with several escorts.
+After choosing the Shipyard program,
+select period 3 (1944-1945) with 3
+Japanese escorts and 1 American sub.
+Set them up as follows:
+Ship-ID
+
+Class
+(class #1
+
+X
+
+Y
+
+El AKITSUKI
+(11
+0 1000
+E2 KAMIKAZE (31 -1000 1000
+E3 MATSU
+(41 1000 1000
+S1 TENCH (31 0 -5000 J00
+
+Course
+180
+1E0
+80
+
+This scenario is intended to be a daytime game. It is much easier for the sub
+player if played at night and this could be
+done if that person was much less
+experienced than the escort captain.
+
+GRENADIER to take up stations off the
+entrances to the Inland Sea, but these
+areas were heavily patrolled and subs
+there were forced to stay under. This
+made it unlikely that either would spot
+Wounded Bear and neither did
+
+SCENARIO TWO
+The Hunt For Wounded Bear
+
+One US sub did see her, though, and
+was the only sub that had a chance of
+stopping her. USS TRITON was on
+patrol off Okinawa and her skipper,
+Charles C. Kirkpatrick (at this time the
+youngest sub commander in the
+Pacific), had been listening to all the
+radio reports. On his own initiative,
+Kirkpatrick estimated SHOKAKU's track
+and ran at high speed on the surface to
+place himself in her path. At 3:20 PM on
+May 16, he spotted SHOKAKU and a
+single destroyer heading north at 18
+knots. TRITON only had 1 torpedo left in
+her forward tubes, so Kirkpatrick tried to
+bring the stern tubes to bear. But
+SHOKAKU was moving too fast; even
+after giving chase on the surface,
+Kirkpatrick could not catch up.
+
+On 8 May 1942, the Japanese aircraft
+carrier SHOKAKU was heavily damaged
+in the Battle of the Coral Sea. When US
+codebreakers learned that this vulnerable
+and important target would return to
+Japan by way of Truk, ComSubPac
+quickly set in motion a plan to ambush
+her. The damaged SHOKAKU was
+codenamed - Wounded Bear.The first phase was to send four
+submarines to Truk. However, Intelligence
+overestimated the damage and therefore
+underestimated her speed; Wounded
+Bear was safely inside Truk lagoon when
+the four arrived and was never seen by
+any of them. When intercepted radio
+reports indicated that SHOKAKU was on
+the move again, Pearl warned the USS
+CUTTLEFISH, then on patrol in the
+Marianas. But, the Bear didn't put in at
+either Guam or Saipan and CUTTLEFISH
+never saw her.
+At this point, it began to look hopeless.
+Pearl ordered subs DRUM and
+
+And so Wounded Bear arrived safely
+in Japan. She was repaired, remanned
+and returned to the South Pacific. Here's
+a chance to replay the meeting that
+might have prevented this. As there are
+no carriers in Torpedo Fire, you must
+represent SHOKAKU with a tanker. The
+speed and victory points can be
+modified to reflect the proper value of a
+carrier. As for the wounded part, our
+tanker will only have ten damage points
+left. This too reflects the absence of a full
+crew and damage control parties, more
+than the actual damage to the ship. The
+TRITON gets full torpedo tubes since
+there is no way to start with some empty.
+Admittedly, TRITON has had some
+things changed to her benefit. To offset
+this, the Japanese player will be
+expecting an attack.
+The object of this scenario is for the
+Japanese commander to get SHOKAKU
+safely off the north edge of the map. In
+game terms, this means a Y coordinate
+of 15,000 or more. This is worth twenty
+points. In other words, the IJN can lose
+the escort (worth only twelve points, not
+fifteen as indicated on the data card) and
+still win the game while the US player
+must sink SHOKAKU to win.
+This scenario makes an excellent
+solitaire game. Trying to escort
+SHOKAKU safely out of harm's way can
+cause nervous exhaustion. Since the
+computer may put the submarine
+anywhere, you'll never know whether it is
+ahead of, or behind you. About 25% of
+the time, a hard run north will get you off
+the board without any trace of the
+enemy. On the other hand, if TRITON is
+laying in wait, running straight north may
+result in an easy shot. If you dash north
+with your Destroyer, TRITON may slip in
+
+from the side. The longer you take to
+move north, the more time TRITON has
+to get into position. Add to this the very
+real worry that TRITON may put a fish
+into you just to get you out of the way and
+you can see why escort captains turned
+grey early. Played with two people,
+TRITON will always get a chance to
+attack.
+Here's how to use the shipyard
+program to create this scenario. Choose
+period 2 with two Japanese ships on the
+surface and one US sub. For El, the
+Japanese escort, choose number 2 — a
+HATSUHARU class DD. Give this ship a
+starting location of X=50 and Y=3500.
+Finally, modify its current speed to 18
+knots and its course to 350 degrees.
+SHOKAKU will be ship T1. Give a
+location of X=100 and Y=4200. Now
+modify all of the following fields in the
+ship data:
+Victory points
+Maximum speed
+Current speed
+Course
+Maximum damage
+Current damage
+Surface guns
+Armor class
+
+= 50
+= 18
+= 18
+= 350
+= 10
+= 10
+= 20
+=5
+
+If you're wondering why the maximum
+sustainable damage for a carrier should
+only be 10, here's the answer. If it were
+higher (and therefore different than the
+current damage) the game would award
+points as if the damage had all been
+done in the current scenario. Since we
+don't want to give TRITON points for
+damage inflicted by YORKTOWN and
+LEXINGTON pilots, we must set max
+damage equal to the current sustainable
+damage.
+The US sub should be a GATO class,
+number 2 on the list. It should be
+assigned starting coordinates of X=200
+and Y=500. The only data field that
+needs changing is course=090.
+Again, this is a daytime scenario.
+Happy Hunting!
+BIBLIOGRAPHY
+These two books are highly recommended for anyone who wants to create
+Torpedo Fire scenarios for the Pacific
+theater:
+SILENT VICTORY. by Clay Blair, Jr.;
+Bantam Books, New York, 1975.
+HISTORY OF UNITED STATES NAVAL
+OPERATIONS IN WWII, by S.E. Morison;
+Little, Brown and Co., Boston, 1949 (last
+printing 1975).
+There are 15 volumes; for this article,
+Volume IV, CORAL SEA, MIDWAY AND
+SUBMARINE ACTIONS was particularly
+helpful.
+
+BEYOND SARGON II
+Scenarios For Chess
+Roger J. Cooper
+
+The title of this article might seem
+absurd for after all, how can there be
+scenarios in chess.
+Actually there are many interesting
+ways to play chess that are not in
+accordance with the rules of the United
+States Chess Federation. The setups
+may be varied, new pieces introduced or
+even the basic objectives of the game
+altered.
+This article contains chess variants
+which I have used with Sargon // (by Dan
+& Kathe Spracken, Hayden Software).
+All these variants involve new set-ups as
+adding pieces with new powers is
+impossible without changing the
+program.
+
+POSITION — The most straightforward option is to take a position from a
+chess book or column. In choosing a
+position, consider that Sargon is
+strongest in the middle game and
+weakest in the end game. You should
+also keep in mind that positions which
+are unbalanced in material (e.g. 2 R's for
+a Q) are often the most exciting.
+END-GAME PLACEMENT — Take a
+small number of pieces (the same for
+each side). Sargon takes White. Place
+the pieces randomly on the first 4 ranks
+of each side. If a piece starts in a
+threatened square (or if K's adjacent)
+choose a new location. have used a
+K+2P and K+R+P.
+
+I
+
+16 PAWN — Remove White's Queen.
+In compensation, he receives extra
+Pawns at B3, C3, C4, D4, E4 F4, F3, G3.
+Though by the standard count of
+material, Black is up " 1 pawn" — this
+position favors White. The extra pawns
+are played as pieces that have already
+moved.
+
+PEASANT REVOLT — White starts
+with his K at E1 and his eight P's. but no
+other pieces. Black has his K at E8. a Pat
+E7 and N's at B8. C8. F8, and G8. As with
+previous variant, Black's advantage in
+the count masks White's strong
+positional advantage.
+THREE PAWN (or Szen's Problem) —
+White has his K at E1 and P's at F2, G2
+and H2. Black has his K at D8 and pawns
+at A7, B7 and C7.
+RANDOMIZED — Set up each
+player's back rank at random. If the B's
+start on squares of the same color, one is
+switched with an adjacent piece.
+B&N REVERSED — Switch your B's
+and your N's starting locations. (This
+was actually done in a tournament in
+1880!)
+BATTLE CHESS — Set up each side's
+pieces according to the following rules:
+1) All men must be set up on the
+first three ranks.
+2) Pawns may not start on the back
+rank. If they start on the third, place as
+having moved.
+3) Bishops must be on squares of
+opposite color.
+Choose the computer's side randomly
+
+after setup. (Better yet come up with list
+
+TWIN CHESS — White starts with his
+N's at A3 and H3; as at D1 and E1 and
+K's at Cl and F1 (deploy K's as having
+moved). Black starts symmetrically. Either
+K may be checkmated. If both K's are
+checked simultaneously, they must both
+be put out of check or they are
+ODS considered checkmated.
+
+-
+
+If you are consistently better
+(or worse ) than the program, you might
+want to give (or receive) odds. This is
+done by removing and moving pieces at
+the start as follows:
+1. The odds-giver receives Black
+and removes his P at F7:
+2. The odds-giver receives Black,
+removes his P at F7 and forfeits his first
+move;
+3. The odds-giver receives White
+and removes his N at B1 ;
+4. The odds-giver receives White
+and removes his R at A1 (but has his Pat
+A2 displaced at A3);
+5. The odds-giver receives Black,
+removes his Rat A8, his P at F7:
+6. The odds-giver receives White
+and removes any two of his B's or N's;
+7. The odds-giver receives White
+and removes his R at Al, and N at BI
+(displacing his Pat A2 to A3);
+8. The odds-giver removes his Q at
+Dl.
+
+of starting positions and choose two at
+random.) White's first move may not be
+a capture! If Sargon trys it, put the piece
+back and you make the first move (which
+may not be a capture).
+
+REBELLIOUS ROYALTY — Place
+White's K at E8 and his Q at D8. Place
+black's K at E1 and his queen at DII. All
+other pieces start in their normal
+locations.
+
+As one of the classic games of all time,
+chess has entertained and challenged us
+for many years. hope these computer
+chess scenarios add to your enjoyment
+of the game. 0
+
+I
+
+BASIC INFORMATION
+NAME:
+CRAZY MAZEY
+TYPE:
+Arcade
+Apple II
+SYSTEM:
+FORMAT:
+Disk
+# PLAYERS: 1
+AUTHOR:
+Ronald Meadows
+PRICE:
+$29.95
+PUBLISHER: Data Most
+9748 Cozycrott Ave.
+Chatsworth, CA 91311
+(213) 709-1202
+
+CRAZY MAZEY is a car-chase game in
+which you drive a ". . .highly maneuverable mean-machine" through a series of
+mazes collecting money and avoiding
+collisions with killer cars. The killer cars
+will attempt to crash into you as you
+make your way around the maze.
+Sometimes they will parallel your
+movement, other times they will dash
+towards you. The patterns are fairly easy
+to figure out and knowledge of them will
+come in handy. To collect all the money
+(represented by '$' signs) on a level and
+then exit that level, you will need to
+neutralize the killer cars. There are two
+ways to accomplish this: 1) Run them
+into a dead end; or 2) Cause them to
+crash into one another. The major
+challenge of the game involves carrying
+out these two tasks.
+A killer car will tend to parallel your
+movement. You can use this fact to
+cause the car to run into dead ends. As
+long as you do not move to the
+"unblocked" side of a dead-ended killer
+car, it will remain there. Causing killer
+cars to collide with one another involves
+making use of their other tendency,
+which is to move toward you when you
+are on a straight line with them and not
+moving parallel to their most recent
+path. There are many ways to use this
+technique. With one car following you
+and another heading straight for you,
+you can wait until the last second before
+you turn out of the way. Many times the
+two cars will crash head-on. You can also
+use the layout of the maze to force cars
+to crash into each other.
+
+There are nineteen levels in the game.
+Each level has the same number of cars
+as the level number. Level nineteen has
+
+nineteen cars to avoid! Even at slow
+speed the higher levels are very difficult.
+The game can be played at a variety of
+speeds from '1' (very fast) to '7' (very
+slow). If you like HEAD-ON you will find
+CRAZY MAZEY even more enjoyable.
+Daniel Hockman
+
+BASIC INFORMATION
+NAME:
+LAZERMAZE
+TYPE:
+Arcade
+SYSTEM:
+Apple II 48K
+FORMAT:
+Disk
+# PLAYERS: 1
+AUTHOR:
+James D. Spain
+PRICE:
+$29.95
+PUBLISHER: Avant-Garde Creations
+P.O. Box 30160
+Eugene, OR 97403
+(503) 345-3043
+
+The information printed on the game
+jacket bills LAZERMAZE (LM) as a
+"unique arcade action game " and in this
+case, the advertising is true. There is no
+other game on the market like this game.
+The game is based on the fiction of
+futuristic 'champion combat'. As in the
+ancient days of the Greeks and in the
+biblical story of David and Goliath, LM
+postulates two warriors competing in
+one-to-one combat, each representing
+one of the opposing parties.
+The game jacket also claims that LM is
+a game for sharp eyes and quick wits.
+This is a fair statement since LM involves
+rapidly surveying a maze of mirrors on
+the screen, figuring out the path of a
+lazer beam through that maze, determining the exit point of the beam, and
+entering the location into the computer.
+The more quickly the job is accomplished.
+the more points you get. The alien is
+placed at the exit point you select and will
+be vaporized by your exiting lazer beam if
+you have correctly called the exit point. If
+you place the alien at the wrong point
+and the beam misses him, he will lob a
+bomb over the maze of mirrors, destroying you. The only real effect of this is that
+you get zero points for that particular
+shot.
+The rules are stored on disk and are
+handled nicely. Rather than the usual
+
+printed rules or text version of the rules
+on the computer screen found in most
+games, the instructions for LAZERMAZE,
+as well as other Avant-Garde games, are
+in the form of a tutorial in which the
+gamer is actually walked through part of
+a game.
+Good eyesight and quick thinking are
+rewarded. The field of mirrors is fairly
+easy to " read" on a 13" monitor but is
+somewhat more difficult on a smaller
+screen such is often used with personal
+computers. However, the difficulty is not
+prohibitive. The faster your eyes can
+trace the path of the beam, the better
+your score will be. After the completion
+of a round you may, if your score is high
+enough, go to another round with more
+mirrors. More mirrors means more
+difficult paths. The highest level.
+Master's, places 70 mirrors on the field.
+Some of the pathways at the Master's
+level remind me of my old days in
+college registration lines — bounce
+here, there, and everywhere, hopefully
+coming out at the correct exit. '
+
+There are not many strategies in the
+game that will help increase your score.
+The game is dominated by quick
+thinking and reflexes, rather than
+strategies. However, there are a couple
+of points to keep in mind when playing.
+First, hit the numbers quickly but avoid
+the problem of striking the keys too
+quickly in succession. The second
+stroke may not register if it follows the
+first keystroke too closely. The result is
+that your first key is entered and the
+computer buzzes you letting you know it
+is waiting for the second lost keystroke.
+Second, when you get down to the last
+couple of shots of a round. the pathways
+are filled to the point that it is obvious
+what path a beam will take. You can save
+a second or two in these final shots by
+noticing the pathway gaps as well as the
+exit points of those gaps. Then you can
+hit the appropriate keys when your figure
+pops up and the computer requests the
+next correct pathway.
+LM is a different kind of game and for
+that reason alone is worth looking at. It is
+a worthy addition to the arcade game
+field.
+Stanley Greenlaw
+
+BASIC INFORMATION
+NAME:
+SEAFOX
+TYPE:
+Arcade
+SYSTEM: Atari 400/800 and
+Apple II (both 48K)
+Joystick required
+for Atari
+FORMAT:
+Disk
+# PLAYERS: 1
+AUTHOR:
+Ed Hobbs
+PRICE:
+$29.95
+PUBLISHER: Broderbund Software
+1938 Fourth St.
+San Rafael, CA 94901
+(415) 456-6424
+
+SEAFOX is a shooting gallery game
+with additions. You are in your sub trying
+to sink enemy ships as they sail back and
+forth overhead. The upper row is
+composed of merchant ships. These are
+your prime targets. The middle row is
+made up of hospital ships which you
+want to avoid hitting, and the lower row
+(which does not appear in level one) is
+made up of destroyers that can be fired
+upon but can drop depth charges on
+you. Your sub can move back-and-forth
+as well as up-and-down. Horizontal
+movement allows you to line up your
+shots on surface ships while avoiding
+depth charges. Vertical movement
+allows you to avoid, as well as fire at,
+enemy submarines.
+You can fire torpedoes upward
+(toward the surface ships) or outward
+(toward enemy subs and other denizens
+of the deep). If you hit a hospital ship
+your torpedo will reverse itself and begin
+diving toward you. It is easy to avoid
+these returning torpedoes but, since
+only one vertical and one horizontal
+torpedo can be in play at a time, the
+returning torpedo keeps you from firing
+for a number of seconds. Enemy subs
+react to you in a limited sense. If you are
+above them they climb, if you are below
+them they dive, all the while traveling
+across the screen. You can use this fact
+to your advantage when you are firing a
+horizontal torpedo at a sub (lead him into
+the shot).
+You have limited fuel and torpedo
+supplies; therefore, you are dependent
+
+upon a trained dolphin who will bring
+you more supplies. There are two
+problems with getting supplies. First, the
+dolphin follows a fairly well-established
+path. If you are not in position, you will
+miss your supplies (the dolphin is too
+fast to chase). If you miss a supply
+dolphin, one more will pass before you
+run out of fuel. The first dolphin will
+come when your fuel is in the 500-700
+range. The second dolphin will come
+when your fuel is around 100. The
+supply dolphin is preceded by a green
+sub that travels across the bottom of the
+screen. When the green sub appears.
+place yourself about in the center of the
+underwater zone. From there you should
+be able to pick off the supplies as the
+dolphin swims by. The second problem
+with getting resupplied is the giant clam.
+Most of the time a giant fast clam (fast
+clam?) will appear at the same time as
+the dolphin. It will attempt to eat the
+supplies. You must get to the supplies
+first. The clam is also worth points if shot.
+Higher levels of the game bring on
+torpedoes from the enemy subs as well
+as magnetic mines. The graphics are
+nice but there are better games in the
+Broderbund line.
+Luther Shaw
+
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+
+Computer
+Foreign Exchange
+Business
+TRS-80 models I & Ill, level
+
+FORMAT:
+Cassette
+# PLAYERS: 2 to 4
+PRICE:
+$20.00
+PUBLISHER: Avalon Hill Microcomputer
+Games
+4517 Harford Road
+Baltimore. MD 21214
+COMPUTER FOREIGN EXCHANGE
+(CFE) is a computer version of the
+Avalon Hill board game of the same
+name. The rules are the same and it
+relieves the players of all the bookkeeping required in that version. The game is
+unusual in two ways: it is available only
+for the TRS-80 and it does not allow you
+to play against the computer. You can
+play solitaire only if you play more than
+one "hand".
+Each player represents an American
+business with international assets.
+Everything in the game is measured in
+dollars and the winner is the first player
+to amass a pre-determined amount.
+Exactly how great an amount is set at the
+start of the game and is also a way of
+
+controlling the length of the game. Every
+firm will be making money, so the way to
+get ahead here is through currency
+exchange. Say you buy 1000 pesos for
+$100 on Monday. Friday you sell them
+back and only get $50. Congratulations,
+you've just halved your money! Of
+course, had you done it the other way
+'round you could have doubled it. If
+you're a gambler, you put all you can in a
+currency you think will go up. If you're
+conservative, you spread it around so
+that losses and gains balance out.
+The "world" in Computer Foreign
+Exchange consists of twenty-four cities
+in nine foreign countries. All cities are
+assigned to one of the players at random, so. with three players, each would
+begin with eight cities containing a sales
+office. The trading of cities is allowed
+and collecting all two or three cities in a
+given country means a player can buy a
+manufacturing firm in that country
+which will increase your income. Those
+who are familiar with the board game will
+be glad to know that Computer Foreign
+Exchange allows every option, including
+borrowing.
+As a teaching tool, Computer Foreign
+Exchange is a first class way to learn
+about exchange rates, exposure, and
+hedging. It is a realistic simulation that
+will provide plenty of examples. Unfortunately, the documentation is a bare minimum both in telling you how to play and
+teaching you about foreign exchange.
+Once you learn, the game dulls a little for
+the same reason most Stock Market
+games do: the "market" is fluctuating
+randomly. In real life, the people who get
+rich at currency exchange don't guess.
+Still and all, this is a decent game and
+a good program provided you have
+someone to play with. The price is right
+and it only takes 16K!
+Bob Proctor
+
+PLEASE
+TAKE TIME
+TO FILL OUT
+READER INPUT
+DEVICE
+P. 47
+
+EASTERN FRONT (from p. 22)
+
+52 Panzer Corps
+72
+44 Infantry Corps 122
+55 Infantry Corps
+77
+6 Finn lnf Corps 101
+
+33 ($21)
+38 ($26)
+39 ($27)
+48 ($30)
+
+You must also change sector 111
+( $6F)from 28 to 29 ($1C to $1 D) to avoid
+the conflict of having two units in the
+same square if you decide to include the
+39 Panzer Corps, above.
+You may also include this unit by
+changing the 255 ($FF) to 2 in sector
+118 ($76):
+27 Infantry Corps 97
+
+50 ($32)
+
+RUSSIAN REPLACEMENTS
+To reduce the Russian replacement
+rate from two combat strength points
+per turn to one, change sector 105 ($69)
+as follows:
+BYTE:
+
+CHANGE TO:
+
+121 ($79)
+122 ($7A)
+123 ($7B)
+
+254 ($FE)
+62 ($3E)
+85 ($55)
+
+FINNS CAN ATTACK
+To enable the offensive capacity of
+Finnish units, change sector 101 ($65)
+as follows:
+BYTE:
+
+CHANGE TO:
+
+22 ($16)
+26 ($1A)
+
+255 ($FF)
+255 ($FF)
+
+These bytes should originally be 42
+and 43 ($2A, $2B), respectively.
+
+TERRAIN
+To alter the terrain as described
+above, change sector 162 ($A2) as
+below. Other terrain changes are
+possible; examine the source code
+listings for a complete description.
+Unit:
+
+Terrain:
+
+Weather: BYTE:
+
+CHANGE TO:
+
+60 ( 3C)
+
+$
+
+08 ($08)
+
+Infantry Mtn/Forest Mud
+
+79 ($4F)
+
+20 ($14)
+
+Infantry City
+
+80 ( 50)
+
+$
+89 ( $ 59)
+90 ( $ 5A)
+
+25 ($19)
+
+Infantry City
+
+Dry
+
+Mud
+
+Armor Mtn/Forest Mud
+Armor
+
+City
+
+Mud
+
+12 ($0C)
+
+To change the defense ratings of
+terrain as described above, change
+sector 188 ($BC) as follows:
+
+CLEAR
+SWAMP
+
+I 11 ($6F)
+116 ($74)
+
+ROUTE 80 (from p. 33)
+
+EASTERN FRONT is an excellent
+game that lends itself well to the
+tinkering of software scenario buffs. I
+hope to create a scenario for 1942 one
+day when I have time. With luck,
+someone will get as enthused about the
+game and do it for me! The system lends
+itself very well to other wargames; a
+Western Front game perhaps. or even a
+Yom Kippur War scenario. Obviously,
+changes would need to be made to the
+core algorithms, but Crawford has
+provided us with a vehicle for growth and
+expansion should we take him up on it.
+
+EASY STREET - THE PLACE
+TO MAKE A BUCK!
+
+STAR MAZE (from p. 26)
+
+search of the jewels. Beyond the obvious
+use of thrusters to change direction,
+there is the technique of bouncing your
+ship off the blocks as in a game of pool.
+This conserves fuel. and with a judicious
+thrust at appropriate points, you can
+intentionally hit or miss certain blocks so
+as to change or not change your flight
+trajectory. Sometimes it is helpful to get
+the ship going at a high rate of speed,
+allowing it to bounce randomly around
+the maze, looking for jewels. A finger can
+be kept poised over the hyperspace key
+or the antimatter bomb key. When you
+pass a jewel you can either mentally note
+its location or stop and pick it up. When
+you find yourself hurling at high speed at
+an enemy unit you can avoid a shipdestroying collision by either hitting the
+hyperspace key (which transports you to
+another part of the maze) or you can hit
+the antimatter bomb key (which destroys
+all enemy units on the screen, ala
+
+CHANGE TO:
+1 ($01)
+3 ($03)
+
+We'll explore more of Peeks and Pokes
+Parkway in the future. You can save that
+little program if you want. We'll use it
+again.
+
+This is a neighborhood that is strictly
+for fun: with occasional prizes as well!
+This month we have a contest for fantasy
+adventure and simulation buffs. List the
+names and authors of the ten programs
+containing the following:
+Possum Hollow to Knawbone;
+Paul Bunyon's Magic Axe;
+Guide is Ingtemba Gombu;
+Double Eagle II;
+Clipper Flying Cloud;
+Guido and Fido;
+A difficult dumb waiter:
+Elder Brother Cooks, The Money
+Lender;
+9. The Ghost of Backpack Sam:
+10. Pirates, a Mongoose and a
+Parrot.
+Send your list of answers to:
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+
+Dick McGrath
+2008 Calle Miranda,
+Fullerton, CA 92633
+The winner will receive a $25.00 gift
+certificate from Joe Broderick of The
+Software Affair, 10127 E. Rosecrans
+Ave., Bellflower, CA 90706.
+NOTE: In the event of duplicate correct
+answers. a winner will be selected by a
+random drawing from among the correct
+submissions. All lists must be received by
+December 3L 1982.
+That's the end of the road for now. I'll
+see you again next issue. . .
+❑
+
+Defender).
+The high scores are saved on disk and
+the visual display for the " Highest Score
+To Date" and "Great Score" (for a score
+in the top six) is pleasing. Unfortunately
+SM has been known to erase the high
+scores from time to time for no reason.
+The disk this review is based on has
+erased the high scores three times. CGW
+has heard of other SM disks that have
+done the same thing.
+
+16 ($10)
+
+DEFENSE VALUES
+
+TERRAIN: BYTE:
+
+You can easily alter the game length to
+any time you see fit by changing sector
+170 ($AA), byte 51 ($33). It is 40 ($28) in
+the original version, I find that 52 ($34)
+turns make it more interesting.
+
+SM can be played using a regular
+joystick, an Atari joystick (in conjunction
+with Sirius Software's joyport), paddles ,
+or keyboard. The game is easiest to play
+with the Atari joystick, but regular
+joysticks are also quite good. Previously
+mentioned problems aside, STAR MAZE
+is a well-designed game that should
+provide you with many hours of
+enjoyable game playing.
+❑
+
+ROBOTWAR
+TOURNAMENT
+CGW is sponsoring its Second
+Annual Robotwar Tournament
+(using Muse Software's ROBOTWAR). Detailed instructions can
+be found in our previous issue
+(Sept.-Oct. 1982). Deadline for
+entries is DECEMBER 10, 1982.
+For more information
+call or write us:
+
+COMPUTER GAMING WORLD
+ROBOTWAR TOURNAMENT
+P.O. BOX 4566
+ANAHEIM, CA 92803-4566
+
+REAL WORLD (from p.16)
+Every personal computer on the market
+has a random number generator built
+into it which can create millions of
+outcomes over a continuous range
+(usually 0 to 1). So, why are game
+developers still thinking in terms of
+discrete outcomes and percentage
+probabilities? Maybe it's because game
+developers come from the ranks of
+game players and the "secrets" of
+computer simulation have been kept by
+scientists and engineers.
+One "secret" that can be effectively
+used in many simulation games without
+any trouble is the "normal distribution-.
+This is frequently represented as a " bellshaped curve" Numerous things in life
+fit this curve. The classic example is the
+height of adult males which ranges from
+about four feet to almost eight feet with
+the average being five feet eleven inches.
+In a normal distribution the average
+value will occur most often. Thus, there
+are more men 5'11" than any other
+height. However, each height within the
+total range has a given probability of
+occurring. If we really wanted to, we
+could derive the "discrete" probability
+for each height that can occur. Simply
+dealing with one inch increments
+between four and eight feet, we would
+have 48 outcomes with probabilities for
+each. It would be an impossible job to
+maintain tables of all possibilities, but a
+feature of normal distributions makes
+this quite unnecessary. To describe a
+true bell-shaped curve, you only need
+two numbers: the average and the
+standard deviation. With these two
+values you can recreate each probability
+in the entire range of outcomes. As it
+turns out, you can also use a random
+number generator to create normally
+distributed outcomes. Although it
+means jumping ahead a bit in terms of
+our phases of game development, here
+is a simple routine that will turn a
+uniformly distributed random number
+(each outcome in the range is equally
+likely) into a normally distributed
+random number (the average is most
+likely and outcomes taper off to either
+extreme). This little routine will work in
+either Atari or Applesoft BASIC:
+A=
+
+0: FOR I = 1 TO 12: A = A
+
+RND( I ): NEXT
+
+I:A
+
+=A-6
+
+This routine will make A a normally
+distributed random variable that takes a
+value of zero most often and very rarely
+reaches as high as +6 or as low as -6. If
+you multiply A by the standard deviation
+of your collected data and add your
+calculated average then you will have an
+outcome that fits your observed system.
+There are three major advantages to
+using normally distributed outcomes in
+simulations. First, the calculations
+
+required of your data are easily done
+(many calculators have features for
+computing averages and standard
+deviations built into them). Second, the
+variables you need to store in your
+program are considerably reduced from
+the alternative of using discrete
+outcomes. For instance, the simple
+discrete yard generator used in the
+football example above needed five
+elements per combination of offense
+and defense. Only two elements are
+needed if a normal distribution is used.
+Finally. the outcomes that you generate
+using a normal distribution will have the
+" ring of truth - to them. The average
+outcome will happen most often and the
+farther away from that point you get. the
+less likely the outcomes will be. But
+occasionally, as in the real world. a
+"really great" (or " horrible - depending
+whose side you're on) outcome will
+occur. That's as it should be.
+Normally distributed outcomes can't
+be used everywhere. For example. the
+decision as to whether a pass is
+complete or not in football is a discrete
+probability. There are, in addition. a
+number of other types of distributions
+that exist in the world. The probability a
+warrior will be killed in hand-to-hand
+combat based on his fatigue, for
+instance. would look entirely different
+from a normal curve. If. for each
+doubling of fatigue, the chance of death
+would then be quadrupled, this would fit
+what's called a power curve. There are
+numerous other types of distributions
+and curves (some of which I will cover in
+future issues given enough reader
+interest). but the normal one is the
+easiest to use and greatly simplifies your
+data collection. A normal distribution
+should be used in your game any time
+the most common outcome is near the
+middle of a range and the frequency of
+outcomes on either side of the middle
+becomes increasingly unlikely.
+As for data collection that does not fit a
+"known" pattern, just keep your
+objective in mind. You want to be able to
+
+reduce your findings down to mathematical relationships. So, if you
+discover a nonstandard pattern to the
+data that seems to fit fairly well. don't be
+afraid to use it. Often you can bypass the
+whole data collection process if you use
+a few standard "rules of thumb". For
+instance, it is someone's principle (I
+don't remember his name) that in
+business, each time a company doubles
+their production, they lower their costs
+by 15%. In a business strategy game,
+little "gems - like that can save a lot of
+wear and tear on the calculator.
+Next issue — Model Development.
+
+LEGIONNAIRE (from p.30)
+# Legions Barbarian # Score Composite
+10
+3
+35
+1050
+10
+2
+50
+1000
+5
+—27
+7
+5
+6
+2
+60
+5
+3
+31
+475
+2
+8
+128
+8
+1
+8
+12
+96
+
+There is a fine balance between
+playability and historical accuracy that is
+very difficult to reach in war game
+creation. I have two friends who play war
+games. One won't touch a game that
+doesn't have complete designations on
+each cardboard marker. He'll pause in
+the middle of a move to reflect on some
+historical incident in that game and alter
+his strategy accordingly. My other friend
+tried LEGIONNAIRE and found the
+game fascinating. When I tried to explain
+why a piece would all of a sudden
+become weak and run away from a battle
+with discussions of shock factors and
+morale, he ignored me. LEGIONNAIRE
+tends toward the latter of my two friends
+as a game that anyone can sit down and
+play without reading endless instructions
+or learning complex strategies. The
+historical gamer may be appalled at
+finding the Huns fighting Caesar, but
+he'll be more than compensated by the
+logical and realistic procedures he will
+have to adopt to successfully play the
+game. The real time action in this game
+is my favorite point. When I sit down to
+play, I know I'll only be at the computer
+for an hour at the most, and that I won't
+have to sit through twenty-minute
+brainstorming sessions between moves.
+I consider LEGIONNAIRE to be as
+challenging as EASTERN FRONT and
+immensely more playable. The only
+other Atari game I have played that is
+similar (besides EASTERN FRONT) is
+SHATTERED ALLIANCE. There is little
+comparison. Chris Crawford has shown
+what can be done on the Atari in only
+16K. Imagine what will happen when
+some programmer undertakes a
+machine code, 32K, disk accessing, full
+color, full sound. scrolling, multicharacter set, player missile graphic,
+sophisticated wargame on the Atari. It's
+coming and LEGIONNAIRE and
+EASTERN FRONT are breaking ground.
+When Avalon Hill merges their knowledge of game design with the Atari's full
+capabilities, we should see some very
+good headway made towards sophisticated, playable simulations. I have no
+complaints about LEGIONNAIRE other
+than I'd like to be able to scroll around a
+bit faster to rescue my poor distant
+legions. I hope Chris takes the
+LEGIONNAIRE format, expands the
+map, adds random terrain generation,
+moves it into the gunpowder era, and
+adds a two-player option. I think he
+should be able to give us this in a month
+or two. Don't you?
+
+WRITING FOR COMPUTER GAMING WORLD
+Almost all of the articles in CGW come from active readers of the magazine. We invite your submissions of articles, art, humor, etc. CGW pays two cents
+per word for most copy and $30.00 per page for most artwork. Artwork for less than a page will be pro-rated.
+
+REVIEWS
+
+REGULAR DEPARTMENTS
+
+The majority of articles in CGW will be reviews. These will fall into
+two categories: 1) micro-reviews of 300 to 600 words; and 2) feature
+reviews of about 1000-2500 words. Micro-reviews should contain the
+following: 1) The information which goes into the Basic Information
+Box (see this issue); 2) General description of the fiction/background
+of the game; 3) A more detailed description of the graphics,
+documentation, and above all the game design itself. Refer to
+READER INPUT DEVICE on pg. 47 to see the kinds of questions a
+review should answer; 4) A discussion of the strong and weak points
+of the game. Remember that computer garners have wide ranging
+tastes and a game which is "poison" to one may be - meat- to another.
+The strengths and weaknesses you find should be those of the game,
+not the game type; 5) A summary of the game which might suggest
+what type of computer gamer will want to buy this game and/or what
+type of gamer will want to pass it by; 6) If possible include a good
+photograph (color or b/w) of the game ($5.00 is paid if the
+photograph is printed). To get rid of monitor screen "phasing" in the
+photograph you must not use a shutter speed faster than 1/30th of a
+second.
+A micro-review cannot cover most games in detail but can: 1)
+give an overview of the game to a potential purchaser; and, if
+appropriate, 2) suggest some strategies for playing the game well.
+Any game released in the last 12 months is acceptable for a
+micro-review.
+
+CGW is always looking for other quality additions to our regular
+list of departments. If you have a column idea that you would like to
+submit to CGW please write or call.
+Several of our regular departments are written by authors who
+would like to have dialog with our readers. If you have a comment or
+idea for their column, drop them a note. Here are those who are
+looking for reader input:
+
+A feature review will do everything that a micro-review does but
+on an expanded scale. The subject of a feature length review should
+be a new game (released in the last 12 months) or one that has
+become a - standard - . When appropriate CGW will print reviews of
+books, hardware, etc. as they relate to the computer gaming field.
+
+STRATEGY AND TACTICS
+While many reviews will contain suggestions on strategy and
+tactics, we also welcome articles which are primarily strategy/tactics
+oriented. This type of article will go into detail concerning what
+techniques provide high scores or help a player better attain the goal
+of the game. In general, clues to adventure type games should rarely
+be included. Where they are included they should be in slip code (i.e.,
+shift the letters of the sentence one letter to the right or the left).
+
+SCENARIOS
+Formal and informal scenarios can be designed for some
+computer games. A formal scenario is one which uses the scenario
+designing routine of the game such as SSI's Torpedo Fire. An
+informal scenario is one in which the writer makes up an alternate
+goal for a game with success being determined independently of the
+game's stated scoring system. An example would be the "Castle
+Wolfenstein Dash" in which a point is awarded for each room entered
+minus one point for each guard killed. The Operation Apocalypse
+Campaign Scenario in 2.2 is another example of an informal
+scenario.
+
+SILICON CEREBRUM
+
+— Bruce Webster
+6215 Thorn St.,
+San Diego, CA 92115
+REAL WORLD GAMING — Dan Bunten
+108 Broadmoor
+Little Rock, AR 72204
+ROUTE 80 (TRS-80)
+— Richard McGrath
+2008 Calle Miranda
+Fullerton, CA 92633
+
+MICROCOMPUTER
+MATH EMAG I C
+
+— Michael Ecker
+Luzerne 8
+Viewpoint Village
+Scranton, PA 18508
+
+DESIGNER'S NOTES
+CGW urges game designers to submit designer's notes articles
+on their games. Contact us if you have any questions.
+
+FICTION AND HUMOR
+From time to time, CGW will print fiction related to the computer
+gaming field. Humor will be included on a regular basis if quality
+material is submitted.
+
+FORMAT
+Article submissions should be typed. The manuscript should be
+at least double-spaced and preferably triple-spaced with a one inch
+margin all around. Please try to avoid all-upper-case printing. For the
+sake of our editors, please double-check both grammar and
+punctuation. Be sure your name, address and phone number are
+typed on the first page. Include a SASE for return of unsuitable
+material.
+
+RIGHTS
+All submissions become the property of Golden Empire
+Publications, Inc., rights revert to author upon publication or rejection.
+Specifically, our purchase covers first world rights.
+
+OVERVIEW OF R.I.D. #4
+
+COMPUTER GAMING WORLD TOP 10
+
+There were 125 Reader Input Devices turned in by press
+time for this issue. The breakdown by machines owned is as
+follows: Apple (53%); Atari (34%); TRS-80 (7%); IBM PC (6%).
+Of the 22 games offered for evaluation in RID #4, 15 of them
+received enough responses to be listed. If a game is not
+reviewed by at least 20% of the user group(s) to which it
+belongs, we do not believe the statistics gathered can be
+considered significant. Please note that this 20% threshold is a
+change from the 10% threshold we used for RID #3. Games
+that were not evaluated by at least 20% of the appropriate
+group were: Computer Gin Rummy; Battletrek; Fore!; and Zero
+Gravity Pinball.
+
+Last issue we initiated the CGW TOP 10. The games on
+this list will be the ten highest rated games from the various
+RIDs. As with the regular RID list, a '% played' rating of at least
+20% will be necessary to make a game eligible for the TOP 10.
+In our last issue PURSUIT OF THE GRAF SPEE made the TOP
+10 with only '12% played'. With our new required level POTGS
+is disqualified from the TOP 10. To be fair we will include it in
+RID #5.
+
+In an effort to make it easier for you to evaluate the games,
+and because most of us tend to only take note of the composite
+score of a game, we have decided to do away with rating
+multiple aspects on each game. From now on (unless there is a
+revolt of semi-gargantuan proportions) we will only ask for and
+report a single score for each game — from 1 (terrible) to 9
+(outstanding). Therefore, even though we collected detailed
+ratings in RID '4, we will only report the composite scores.
+
+Since our hobby is changing so fast and games come and
+go more quickly than new T.V. shows, we have decided that
+beginning with this issue, the TOP 10 must be re-evaluated
+each issue along with the regular offerings for that issue. The
+ratings for some of the games in the current TOP 10 were
+based on responses from RID # 2 and RID #3.
+
+R.I.D. #5
+(use business reply card)
+GAMES
+The top rated game in RID #4 was SSI'S GUADALCANAL
+CAMPAIGN. It showed a relatively high percent played (30%)
+considering that it has only been out a few months. In
+comparison to the results of prior RIDs. RID #4 had an overall
+strong group of games. Even the lowest rated game,
+FALCONS. received a respectable 6.03 rating (the same rating
+as the 11th game of 20 in RID #3 — The Temple of Apshai).
+At 83% the game most played in RID #4 was a runaway
+—RASTER BLASTER. This "old timer" was included in order
+to compare pinball games (see pg. 48).
+
+Rate the following games using a scale of 1 (terrible) to 9
+(outstanding). In making your evaluation be sure to consider
+the following aspects of the game: PRESENTATION (this
+includes such things as graphics, sound. packaging.
+documentation); GAME DESIGN (apart from the presentation,
+is the game well designed. playable, interesting?): LIFE (does
+the game wear well?).
+
+PINBALL GAMES COMPARED
+
+Rate the following selected articles on a scale of
+(terrible) to 9 (outstanding). If the article does not interest you
+enter "0"
+
+DAVID'S MIDNIGHT MAGIC received a 7.24 composite/
+43% played rating in RID # 2. We ran some other pinball games
+so as to compare. The result? RASTER BLASTER (6.75/83%)
+and A2-PB1 PINBALL (6.59/43%) were no match to DMM.
+ZERO GRAVITY PINBALL only received a 3.88 composite in
+RID # 4 but this score must be considered suspect in light of the
+fact that it was only evaluated by 11% of the Apple respondents.
+
+

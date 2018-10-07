@@ -1,0 +1,3613 @@
+September 1989 Number 63
+
+Features
+SSI's "Curse of the Azure Bonds"
+
+8
+
+Scorpia Explores Another "Forgotten Realm"
+
+Epyx's "The Omnicron Conspiracy"
+
+14
+
+"We'd Tell You More, But . . ." / Dennis Owens
+
+SSI's "Hillsfar"
+
+16
+
+Linking Up for "Tournament Golf'
+Hints for Infocom's "Arthur"
+
+18
+
+"Name The Game" Contest
+
+20
+22
+
+SimCan's World War I Naval Combat Game / Lt. H. E. Dille
+
+SSI's "Red Lightning" Strikes Twice
+
+26
+
+Modern Warfare on the ST and IBM / M. Evan Brooks
+
+Here Comes the "Fire King"
+
+28
+
+SSG's Action/Role-Playing Game / Douglas Seacat
+
+How to Plan for a Long "Journey"
+Game Hints from Abroad / Roe Adams
+
+40
+42
+
+Win A Free 3-Year CGW Subscription / DeNardo & Sipe
+
+Departments
+
+Software Toolworks and Spinnaker Face-Off / Roy Wagner
+
+It's A "Grand [Old] Fleet"
+
+38
+
+Scorpion's Tale Offers "Roundtable" Discussion
+
+CGW's Test Lab Explores IBM Sound Boards
+
+"Chessmaster 2100" vs. "Sargon 4"
+
+32
+
+Playing a "Mean[er] 18" / Major David S. Stevens
+
+"It Takes A Thief" To Be The Best / Roe Adams
+
+The Sounds of Silicon
+
+Star Saga Two: The Clathran Menace
+Masterplay's New Adventure Game / DeNardo & Lombardi
+
+30
+
+Letters from Paradise
+Taking A Peek
+Conversions Received
+Rumor Bag
+Inside The Industry
+Game Ratings
+CGW Hall of Fame
+Reader Input Device
+
+4
+6
+6
+7
+11
+24
+25
+48
+
+Cover Art from "Curse of the Azure Bonds" 1989 TSR, Inc. All
+rights reserved. Used with permission.
+
+Letters
+
+forces received reinforcements, but only
+in the nick of time. Their salvation was largely due to the possession of a core of
+elite fighting units, well armed and supplied, supported by saturation bombardment from air and artillery.
+
+Parallel Viewpoints
+As a long-time fanatic of CGW, and
+lucky winner of the famous CGW writing
+contest (#30, p. 35), you may recall my
+name. By the way, thank you again for
+the all-expenses-paid trip to Monona, WI,
+which I won as a result of the afore-mentioned contest.
+My interest in Jay C. Selover's article on
+SSG's MacArthur's War was unique,
+since I had the honor of working with
+SSG on that project. It was my responsibility to conduct the research, create the
+scenarios, construct the maps, and write
+the articles. I knew that a review in CGW
+would be an acid test, since CGW
+reviewers always write frankly and such
+reviews carry a great deal of weight. I was
+very pleased with Mr. Selover's opinions
+on MacArthur's War and wish to offer
+some additional information which
+should interest the readers.
+Mr. Selover's comment regarding the research behind MacArthur's War is quite
+correct. I logged 400 hours of research,
+covering 40 books, over 100 actual battle
+maps, and interviews with Korean War
+veterans. The result: 10 historically accurate battle scenarios, each with several
+variants. The variants were based on
+documented and speculated 'What IF?"
+situations.
+I agreed with Mr. Selover that the first
+several months of the Korean War was
+one of a "certain sameness", but found
+that fascinating. In contrast to the vast
+number of WWII battles, most if not all of
+the Korean War battles represented in
+MacArthur's War were crucial. The outcome of a given battle could well swing
+the momentum, or result in utter victory
+or defeat. There was a sincere urgency
+and desperation, magnified by the vast
+differences between opposing forces.
+UN Forces found themselves fighting
+losing efforts early in the war, with little
+realistic chance of defeating their enemy;
+they were buying time with their blood. A
+fighting withdrawal is certainly one of the
+most difficult of military tasks, and the
+communist forces were specialists in encirclement. As a rule, communist forces
+tended to possess greater numbers, but
+lacked air support. Later in the war, UN
+
+In most battles, victory was dependant
+upon such factors as timetables, weather,
+supply and sheer luck. Having read intensely on the subject, I was awestruck by
+the accounts of individual bravery and
+self-sacrifice, depravity and barbarism. It
+was a war which, in many ways,
+developed the doctrine of modern warfare and could easily have become WWIII.
+It is amazing to me that a non-programmer such as myself could ever be involved in the production of a software
+package. I hope my good fortune will encourage other readers to do whatever
+they can to benefit the computer gaming
+industry. With any luck, CGW will always
+be there to tell us about it.
+Daniel H. Antolec
+Monona, WI
+Ed: Thanks for the information. But
+what we really wanted to know was:
+what was the highlight of your all-expense paid trip to Monona?
+
+Enthusiasm Overrun
+The fog of war is ever-present. I recently
+found that I have contributed a certain
+amount of "fog" concerning SSI's Overrun! and what will and will not be
+upgraded/corrected in future versions.
+Concerning the documentation, SSI informed me at the time I was preparing
+my review that the documentation errors
+would be corrected during the next printing of the Rulebook and Briefing Manual.
+Apparently, unknown to the individual assisting me, SSI had placed a single order
+covering the entire expected production
+run. This will, unfortunately, preclude the
+reprinting of the entire documentation in
+corrected form.
+In my review, I unintentionally may have
+worded things to imply that SSI was correcting all of the items mentioned as errors or problems in the software. For
+that, I apologize. That kind of influence
+on the part of a reviewer is rare. During
+my discussions with SSI, shortly after
+Overrun!'s release, the only items which
+were mentioned by SSI as items being
+considered for correction were the following:
+1. Missing units, such as the Marine
+LAV-AT and LAV SPT PLTs;
+2. Lack of a FOG-M platform in Europe
+(for which FOG-M was primarily
+designed); and
+3. Correcting the "bug" which prevented
+artillery units from changing states.
+
+The following items which I gave a
+"down-check" to in my review would require a prohibitively expensive re-write of
+the entire code:
+1. Fire control being tied to the unit's
+vice weapons;
+2. Reactive armour interaction with small
+arms fire;
+3. The inability for the
+second-in-command to take over;
+4. The reaction of an entire formation to
+one unit coming under fire; and
+5. The firing of missiles only on the 3rd
+pulse.
+As of this time, there are no firm release
+dates for the revised Apple/C-64 versions
+of the software. As mentioned above, the
+documentation is not expected to be corrected en masse.
+Nevertheless, Overrun! remains an
+achievement in wargaming. Both fun and
+challenging, its complexity and depth of
+detail are awesome! If you aren't sure, go
+defend the E4 or Hamadan!
+Buddy Knight
+Sherman, TX
+Ed: The article written by Buddy (COW
+#61) stated that most of the
+problems/gripes would be corrected in
+Version 1.1. The use of the term, "most,"
+was overzealous and the context suggested that an updated version was imminent. The reality is that updates occur
+on an "as needed" basis. Overrun! will
+need to sell thousands of units before it
+becomes economically feasible to
+produce an updated version.
+
+Boring Into CGW's Style
+Gentelmen [sic],
+Yours is without doubt the single most
+boring magazine I've read to date. To be
+fair, I made the huge mistake of giving
+you two chances to redeem yourselves.
+You failed horridly [sic]. Bad writing and
+an upsetting overabundance of wargame
+reviews make for serious [unreadable,
+damaged in mail] time, put 'em down for
+the [unreadable, damaged in mail] reading. I won't buy it again.
+Vance P.
+Salt Lake City
+Ed: Just in case we didn't know where
+you stood, you certainly made it clear in
+your R.I.D. article ratings [Letters (F),
+Abrams Battle Tank Review (F-),
+Napoleonic Scenario (F--), Are You
+Saved? (F), Batman Review (F-), Hidden
+Agenda Review (F-), Scorpion's Mail
+(F-), Presumed Guilty Review (F+), Fantastic Voyages IV (F), Journey Review
+(F+), and Rumor Bag (FF-)]. Garth
+Fitzmorris was so upset by your rating
+and vote to "Dump the Column" that he
+wore his bag backwards for two weeks.
+
+Taking A Peek
+
+Cinemaware
+4165 Thousand Oaks Blvd.
+Westlake Village, CA 91362
+THE KRISTAL: The player takes the
+part of Dancis Frake, space pirate, in
+this adventure/arcade game. Piloting
+spaceships, shooting down aliens,
+swordfighting, interacting with the local
+inhabitants, and piecing together clues
+to the location of the long-lost Kristal of
+Kronos will keep players hopping from
+planet to planet. The good-looking
+graphics and arcade sequences mesh
+nicely with the adventure elements.
+Amiga ($49.95). Circle Reader Service
+#1.
+
+EeeZee Systems, Inc.
+2899 Agoura Rd., Suite 550
+Westlake Village, CA 91361
+KONKERS: Billed as a memory/skill
+game for two, this unusual card game
+plays somewhat like Canfield-style
+double solitaire. Two players race to play
+cards from their hand to the play field in
+Ace to King order. Points are awarded
+for each card played, with a special
+bonus for playing the Konker card. IBM
+($39.95). Circle Reader Service #2.
+
+Omnitrend Software
+P.O. Box 733
+West Simsbury, Ct. 06092
+UNIVERSE 3: Part three of this
+popular adventure series puts players in
+the captain's seat of a Federation
+Worlds Starcruiser on a diplomatic mission to Tau Ceti III. After 50 years of
+isolation, the Federated Worlds has sent
+your ship to re-establish relations with
+the Home Cluster. All is well until it is discovered that a murderous traitor is working to thwart this vital mission. Players
+use a Breach-style interface to explore
+the world and hopefully uncover the
+Benedict Arnold among their crew. IBM.
+Circle Reader Service #3.
+
+Sport Time
+3187-G Airway Ave.
+Costa Mesa, CA 92626
+OMNI-PLAY BASKETBALL: The
+
+single most challenging job in the world
+of sports is to take an expansion sports
+team and develop it from a cellar-dweller
+into a championship club. It takes years,
+but it can be done (The NY Mets
+baseball team being the most classic example). With Omni-Play Basketball you
+are given the dual roles of General
+Manager and Coach. Conduct trades
+with the computer controlled teams,
+recruit from the minor leagues, improve
+you current roster at training camp. All
+the options are here to begin building a
+dynasty from scratch. SportTime has a
+winner here. Amiga pictured ($49.95) &
+C-64 ($34.95). Circle Reader Service #4.
+
+OMNI-PLAY HORSE RACING: From
+the touts to the tote board, this horse
+racing game offers an excellent betting
+simulation. The animation offers the
+thrill of horse racing excitement and the
+handicapping tournament allows players
+to bet heavily (and sometimes, destructively) without really going broke.
+Weather, track conditions, jockey
+records, and past performances by each
+horse add to the realism. A future
+module which allows players to buy, sell,
+own, and trade horses will be released
+soon. We bet you Pete Rose will want to
+play this game. IBM with CGA or EGA
+and joystick optional, ($49.95). Circle
+Reader Service #5.
+(Continued on page 34)
+
+Industry News
+
+alking across the main quad on
+the Stanford University campus, I
+caught the uplifting strains of
+Widor's "Toccata" emanating from the impressive pipe organ inside the Memorial
+Church. My contact was sitting in one of
+the back pews, the reflection of the
+stained glass windows giving his face a
+dithered look.
+
+W
+
+"So, what's new at Lucasfilm?" I asked in a quiet
+whisper. He pointed to the
+organ and smiled. "They're
+publishing a pipe organ
+simulator?" I asked incredulously.
+"Not exactly," he replied,
+"but the code name is Pipe
+Dream. In the U.K., it's
+marketed as PipeLine. It's a
+real-time abstract strategy
+game where the player is
+randomly given pieces of
+pipe and expected to build
+a network of plumbing
+before the sludge catches
+up with him."
+When I suggested that it
+didn't really sound like a
+Lucasfilm game, my contact reminded
+me of Ballblazer. "Unfortunately," my contact went on, "the bad news is that Loom
+won't be released until early 1990. The
+good news is that it will be a worldwide
+release, simultaneously available on
+Amiga, Atari ST, and IBM."
+"Speaking of global strategies," he continued, "New World Computing is working on a computer version of Flying
+Buffalo's card game, Nuclear War. The
+graphics should be great with animated
+missiles, bombers, explosions, and world
+leaders (with different personalities)."
+I thanked my source and excused
+myself, explaining that I was supposed to
+be on my way to the computer center.
+On my way to the computer center, I had
+to cross the student center patio. This
+wouldn't have been so bad if two jets
+hadn't flown over in a low-altitude cat
+and mouse game. I looked up at the jets
+and ran into a fellow coming out of the
+student pub. I ended up wearing most of
+his beer. He recognized me as a reporter
+for CGW (the bag over the head is somewhat distinctive). After telling me the stain
+should wash out of all but the bag, he
+asked, "did you know Accolade is close
+to releasing The Blue Angels on the PC?
+A friend told me it simulates, at least, ten
+different maneuvers and you can choose
+the position you take in the formation.
+You get multiple camera angles to record
+the action, too."
+Not about to be outdone by a mere un-
+
+dergraduate, I delved into my backlog of
+industry intelligence and told him that if
+he'd liked Panther Games' Fire Brigade,
+he should watch for their upcoming
+Fulda Gap game. Apparently, the U.S.
+Army is impressed enough with
+Panther's original product that they are
+using it to study the logistics of supply
+
+this game will have mechanical bull
+riding, "Dowse the Damsel" (a "G-Rated"
+Wet T-Shirt Contest), and "One Beer,
+Please" (where players slide beer mugs
+down the bar using a horizontal slider
+similar to the vertical slider used in Mean
+18 and Jack Nicklaus' Greatest 18 Holes
+of Championship Golf). He smiled, assigned me to a Macintosh II,
+and waved me away.
+
+The
+Rumor
+Bag
+
+I booted the machine and
+clicked onto the Appletalk
+Network used by the computer center. Frankly, I had
+never seen so many Apple
+logos in one room before. I
+checked my Email and found
+an anonymous tip about
+King's Bounty, a Christmas
+release from New World
+Computing. King's Bounty
+is supposed to be an action
+game with an adventure
+wrap. Player characters must
+recruit an army of men and
+monsters, defeat the master
+villains who hold pieces of a
+map vital to the central
+by William Randolph Greeley
+quest, assemble the map in
+order to locate the Sceptre of
+Order and rescue the Sceptre
+and may formalize a deal for a future
+as a means of saving the character's
+product (a second generation ground
+homeland. My informant told me to think
+warfare simulator to be called, 2GWS).
+of King's Bounty as a fantasy variant on
+Cinemaware's Defender of the Crown.
+If you've ever wondered whether lightnThe rest of the evening was quiet, so I
+ing strikes twice in the same place, I have
+finished my tasks and started to leave the
+an answer of sorts. Just as I was ready to
+cluster. I stopped abruptly behind a fellow
+enter the computer center, a voluptuous
+computer sciences student. This student
+blonde streaker charged out of the stuhad programmed a Spacewar clone. I
+dent center and collided with your dedicaught my breath in nostalgic euphoria.
+cated reporter ("It's a dirty job . . .). By
+Then, I broke the news. "I hope you're
+pure reflex ("Sure, Bill!), I happened to
+not planning on selling that game."
+catch her in a bear hug. She blushed the
+color of Mars when I recognized her as a
+"Oh, no," he assured me, "not unless I
+public relations person from one of the
+could find some new spin for an old idea."
+local game companies. I refused to
+release her until she told me a Silicon Val"Well, I just wanted to let you know that
+ley rumor. "Well, Infocom is going to
+Accolade is working on a game which
+release a science fiction role-playing adcombines elements of Spacewar and Arventure called Mines of Titan in the Fall.
+chon. Like Archon, there is a strategic element, and like Spacewar, there is a very
+It's menu-driven and the object is to find
+a missing city and get off the planet alive
+simple tactical system in the game. Since
+it is a science fiction game, players plot
+and rich. I can't tell you what our company is doing."
+to conquer star systems and colonize
+planets. Since it has action elements,
+I replied in my best Jack Webb impresone to two players can fight it out using
+sion, "That's all right, ma'am. I already
+simple "Up, Down, Left, Right, Fire" comknow what your company is doing."
+mands from the keyboard. The working
+title is Starcon, as in "Starcontrol".
+Entering the computer cluster, I handed
+my card to the cluster buster (i.e. com"Well, that's what I get for letting my
+puter room monitor) and he was taken
+CGW subscription slip!" muttered the stuaback by the smell of the spilled beer on
+dent, "Your column could have saved me
+my clothes. "Have you been drinking
+hours of coding. By the way, what do you
+beer or swimming in it?" Since I had
+look like under that bag?"
+done neither, I tried to take his mind off
+the issue by telling him about Accolade's
+I answered truthfully, "Sorry, there are
+Bar Games. In addition to the traditional
+some industry secrets that shouldn't ever
+air hockey and liar's dice competitions,
+be revealed."
+
+Review
+
+Curse of The Azure Bonds
+by Scorpia
+
+C
+
+urse of the Azure
+Bonds is the sequel, of sorts, to
+Pool of Radiance, although you needn't
+have played POR to play
+this game. The premise
+is simple: while travelling
+on the road to Tilverton,
+your party is ambushed
+and knocked out. When
+everyone wakes up, they
+find themselves at the Tilverton Inn, with five
+strange blue marks (the
+bonds, or sigils) on their
+arms.
+
+good at fighting giantsized creatures. At high
+levels, both classes can
+learn spells.
+Character creation is
+the same as it was in
+POR, with the exception
+of character portraits. No
+individualized pictures
+are displayed when
+camping. You do, of
+course, make up an icon
+for each character (the
+icons have not changed
+at all) and you also have
+the opportunity to
+modify any character's
+stats before play begins.
+Transferred characters
+bring their icons with
+them, though, so you
+don't have to make
+them over again.
+
+Each bond represents
+a different evil group.
+Through the bonds,
+these groups can control
+the actions of the characters. The object, therefore, is to seek out these
+five groups and discover
+the means of removing
+the bonds.
+
+Once the party is assembled, the game starts
+in the Tilverton Inn. You
+get a brief explanation of
+how and why you're
+there, after which you're
+on your own. The first
+order of business is to
+equip everyone. Do that
+before exploring the
+town or you may regret
+it later. The armory is
+just across from the inn.
+Remember to have all
+spell-casters memorize
+spells, also.
+
+Since this is a followup game, you can transfer your characters from
+Pool of Radiance and
+it's a good idea to do so.
+It will give you a
+headstart in the game.
+Characters will transfer
+over with no weapons or
+equipment, though, so
+you won't have the use
+of any of the goodies
+you picked up in POR.
+On the other hand,
+each character does receive 300
+platinum pieces (the equivalent of 1500
+gold) with which to buy weapons and
+armor at the start of the game. This sum
+is more than enough to purchase the
+best armor and weaponry for everyone in
+the party.
+If you haven't played POR or simply
+prefer to start with entirely new characters, you can create a party from scratch.
+Single-classed characters begin at level 5,
+characters with two classes start at 4/4,
+and triple-classed half-elves begin at 4 in
+all classes except Magic-User, which
+begins at 3.
+
+TITLE:
+SYSTEMS:
+REVIEWED:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Curse of the Azure Bonds
+IBM, C-64/128
+IBM
+IBM ($49.9S)
+C-64/128 ($39.95)
+SSI Special Projects Group
+Strategic Simulations, Inc.
+Sunnyvale, CA
+
+Two new classes, Paladin and Ranger,
+are available in the game. Both are worth
+having. Paladins have healing abilities
+and are under a constant "Protection
+from Evil" spell (which adds +2 to all
+saving throws). Rangers are especially
+
+Tilverton is not a very
+large town and there is
+no way you can get lost (you can automap here). Nothing much is going to
+happen until you've visited the sage
+Filani. She gives you some information
+about your bonds and seeing her sets up
+the encounter that will send you searching after the first evil group, the dreaded
+assassins called Fire Knives.
+Once you've had the major combat and
+rid yourself of the Fire Knife bond, you'll
+be banished from the town (the King
+doesn't trust you . . . but then, you did
+try to kill him, so maybe he has his
+reasons). So, you find yourself outside of
+
+Tilverton with two places to go, Shadowdale and Ashabenford.
+Either way forces you into an encounter. Heading to Shadowdale, you
+must face a band of displacer beasts. On
+the road to Ashabenford, you come
+across a flock of hippogriffs. The 'griffs
+are the easier ones to take out, so
+Ashabenford is the recommended route
+(it makes no difference, by the way, if you
+go by trail or wilderness).
+Ashabenford is a "cardboard" town. You
+can't walk around in it. You simply
+choose places to go from a menu. The
+same is true for most of the others, with
+the exceptions of Hap, Yulash, and Zhentil Keep.
+After you've healed up your wounds,
+gotten all your goodies identified, and
+trained everyone who has enough experience, it's time to decide where to go
+next to remove another bond. That is the
+general pattern of the rest of the game,
+with a few side tours thrown in to provide
+you with experience and treasure, but
+have no effect on the main action. These
+"side tours" are mini-dungeons under
+most of the towns. However, you won't
+be able to get into any of them until you
+have removed at least two bonds. At that
+time, a new command, (S)earch, appears
+on the wilderness map when you're outside a town. It should be used with care,
+as some of these caverns can be quite
+nasty.
+When four of the bonds have been
+removed (and only then), you go on to
+the final showdown with our old friend
+from POR, Tyranthraxus, in the ruins of
+Myth Drannor. This time around, he's a
+storm giant, which means, yes, more
+lightning bolts (he really has an obsession with them).
+The ending itself is, alas, rather disappointing. Unlike POR, once Tyranthraxus
+has been defeated (for good and all, finally), the game ends. You won't be able to
+go anywhere or do anything, except save
+the final position (presumably for the next
+sequel, whenever that arrives).
+Combat is just the same as it was in
+POR; nothing has been changed, although you generally face fewer opponents in any particular encounter. No
+more hordes of 60 orcs or waves of
+crazed kobolds. On the other hand,
+monsters in Azure Bonds are tougher,
+and even 5 or 6 can be quite difficult to
+defeat.
+I do have some concerns about the random number generator used in the
+game. My experience over many combats
+is that the RNG seems too often
+weighted towards the low end for characters, and towards the high end for
+
+monsters. If Azure Bonds is really using
+the tables as put forth in the original Dungeon Master's Guide, then most of the
+critters should not be hitting as often as
+turned out during play, especially when
+characters have very low AC's. An
+armor class of -5 or better is not
+easy to hit, even for high-level
+monsters.
+For instance, in the sewers below
+Tilverton, a number of Otyughs
+(nasty creatures that live in dung
+heaps) have made their home.
+While they are fairly potent, they
+still need to roll a 19 to hit AC -6
+and a 20 to hit AC -7. They certainly rolled a lot of 19's and 20's over
+a fair number of combats. This
+was also evident in combats with
+lower-level opponents as well. Between that and the difficulty the
+party often had (until they acquired
+very low THACO's) in striking, I
+wonder if the to-hit numbers are being
+calculated properly. (See pg. 46 for more
+information.)
+Graphics are a little improved over
+the first game, and many of the
+animations for attacking monsters
+are very good, except perhaps for
+black dragons, who always look as
+though they are losing their lunch
+when they strike. Character icons,
+as mentioned earlier, are exactly
+the same as those in POR.
+Speed in the game remains a
+problem. The IBM version was
+promised to be faster, but I did not
+see much improvement over POR
+in that respect. This is probably
+due to the 8 Mhz clock speed of my
+clone, as reports from players with
+high-end machines (clock speeds of
+10Mhz or better, preferably better) indicate that Azure Bonds plays, loads, and
+saves quickly at those speeds (this
+with a hard disk, of course ... playing from floppies is definitely
+slow!). Thus, if you don't have a
+fast computer, be prepared for
+long waits, especially when loading
+or saving.
+
+from you before you can journey on to
+wherever it was you were heading. So,
+don't lose your codewheel!
+In some ways, Curse of the Azure
+Bonds is a bit disappointing. Except for
+
+the two additional classes from the AD&D
+system, nothing really new has been
+added to Azure Bonds. The emphasis is
+
+still very much on hack-and-slash; there
+is no puzzle-solving at all, and opportunities for genuine role-playing remain
+
+As with POR, the game comes
+with a manual explaining game
+play and an Adventurer's Journal,
+with little paragraphs to read at
+designated points in the game.
+While it might be tempting to
+browse the entries right off, it really
+is more fun to wait until you're supposed to read them.
+There is also, as before, the infamous rune code-wheel for piracy protection. One difference is that this time, instead of typing in a complete word, you
+only enter a single specified letter. In addition, from time to time during play, an
+old man pops up and demands a letter
+
+limited.
+On the other hand, there is certainly
+potential here for adding more depth in
+future games. For example, one of the
+more interesting encounters (although,
+(Continued on page 46)
+
+Industry News
+
+Inside the Industry
+News, Notes and Quotes From the
+Computer Entertainment Industry
+Infocom's
+West Coast
+Move Stirs
+Controversy
+The dismantling of Infocom as an east coast subsidiary of Mediagenic offers
+mixed signals regarding the
+future of the storytelling
+division. To many industry
+observers, moving Infocom
+to the Menlo Park headquarters of Mediagenic was
+inevitable. The failure of
+Cornerstone, the database
+produced by Infocom,
+necessitated an infusion of
+capital. The acquisition of
+the company which was
+once synonymous with interactive fiction became inevitable. Infocom's corporate functions were assimilated by Mediagenic in a
+gradual evolution designed
+to reduce overhead and
+streamline operations. In addition, Infocom's inability to
+get new products out in
+1988, tremendous research
+and development costs in
+upgrading the development
+system, and technical snafus
+with regard to releasing MSDOS SKUs during the initial
+roll-out of new products in
+1989 took its toll on the
+viability of the Massachusetts
+subsidiary.
+Herein lies the dispute.
+Sources inside Infocom
+believe that Mediagenic
+pulled the plug just when
+the money invested in
+graphics development (admittedly, more difficult and expensive to implement than
+the original projections) had
+started to pay off. Background sources suggest that
+the entire Mac II development system is paid for, but
+except for Marc Blank, there
+
+is no real indication that it
+will be used. In addition,
+there are leaks about a completely new parser that may
+never be used. ZIL (Zork Implementation Language),
+the current development system, is functionally dead.
+However, Rob Sears
+(General Manager for Infocom), insisted that it
+would have taken more than
+two years for the east coast
+subsidiary to recoup its losses. He noted the MS-DOS
+problems and suggested
+that the consolidation might
+not have been necessary if
+the IBM SKUs could have
+been released initially. Nevertheless, he has noted that
+Duncan Blanchard, a wizard
+Macintosh programmer,
+moved to the west coast to
+join Mediagenic's Technology Group. Duncan is allegedly working on a hybrid
+technology between ZIL and
+future storytelling projects.
+Of the 24 people who were
+employed at the time of the
+east coast shutdown, twelve
+were asked to make the
+move to the west coast and
+five accepted. Of the five,
+Donald and Elizabeth Langoisey are working on a hypercard story. Donald is a
+computer artist who has
+worked on some of the
+latest Infocom products and
+Elizabeth wrote two stories
+for the Infocomics series.
+Joe Ybarra, VP of Entertainment at Mediagenic, expressed great hope in the hypercard product, suggesting
+that it would be more of an
+adventure and less of a
+simple exploratory toy (like
+Manhole and Cosmic
+Osmo). The new direction in
+the company's approach to
+storytelling products was
+made clear when Ybarra suggested, "We cannot continue, in the marketplace,
+
+living off products that take
+eight hours to learn to play
+well and up to 200 hours to
+complete."
+
+Broderbund
+to Publish
+"Distinctive
+Software"
+Gary Carlston (Broderbund Software Chairman)
+and Bill McDonagh (Executive Publisher of the Entertainment and Education
+Publishing Group) have announced a renewed commitment to entertainment
+publishing. Carlston noted,
+"We enjoy the game business. Our getting out temporarily was a result of some
+entertainment products that
+didn't fly, while we had
+products in other areas, like
+Print Shop, Carmen Sandiego, etc. that were doing
+extremely well."
+The two executives announced that they have
+signed a long term agreement with Distinctive
+Software, Inc., to jointly
+develop entertainment
+products. Distinctive
+Software is the British
+Columbia-based firm who
+developed Test Drive, Grand
+Prix, and others for Accolade.
+
+Microprose
+Acquires
+British
+Telecomsoft
+In May of 1989,
+Microprose acquired
+British Telecomsoft. In the
+past, British Telecomsoft
+
+has marketed games like
+Starglider, Carrier Command, and Guild of Thieves
+under the Rainbird label.
+Microprose plans to market
+between six to twelve
+Telecomsoft products per
+year through their Medalist
+International division. The
+products will now carry a
+MicroPlay label. At least, six
+Telecomsoft products are
+expected to appear under
+the MicroPlay label prior to
+the end of 1989.
+
+Electronic
+Arts Inks
+Lucasfilm and
+New World Pacts
+Microprose is not the only
+major publisher to make
+major waves in distribution
+of late. Electronic Arts Distribution has added New
+World Computing, publishers of Might and Magic and
+Might and Magic II, and
+Lucasfilm Games, publishers of Maniac Mansion, Battlehawks 1942, and Indiana
+Jones and the Last Crusade
+games to its lineup of Affiliated Labels.
+
+Sierra
+Responds to
+Virus Report
+The Financial Times of
+London and The Daily
+Telegraph of London have
+each reported that International Data Security, a
+London-based security consultant, has received several
+distressed calls from traders
+in the financial district. Each
+caller had been playing a
+pirated version of the first
+Leisure Suit Larry during
+lulls in their work schedules.
+Apparently, the pirate version contains a virus program that will destroy all the
+programs and data files on a
+user's hard disk. According
+to the story in The Financial
+Times, the virus had already
+struck computers in Switzer-
+
+land and West Germany.
+Sierra, publisher of the
+game in the U.S., and Activision U.K. distributor of
+the game in Europe, both
+note that the original game
+did not contain the virus.
+The problem only exists on illegal copies of the game.
+
+Origin
+Graduates
+from Broderbund
+Broderbund Software
+and Origin, Inc. have announced an end to their affiliated label agreement.
+Terming the departure of
+the publisher of the Ultima
+series as a "graduation,"
+both companies underscore
+the fact that the distribution/marketing agreement
+has worked well in the past
+and Origin, Inc. is moving
+onward toward a new identity as publisher of a full line
+
+of titles. Robert Garriott,
+president of Origin, notes
+that since his brother
+Richard, a.k.a. Lord British,
+and Charles Bueche originally worked as developers for,
+then, Sierra, and moved on
+to an affiliate relationship
+with Electronic Arts, and
+finally, Broderbund, the
+company has learned from
+the best. Gary Carlston,
+chairman of Broderbund,
+reiterated best wishes during
+a brief light-hearted
+ceremony at the recent Consumer Electronics Show and
+indicated positive feelings
+about Origin's foray into fullservice software publishing.
+
+On-Line Games
+Are Proliferating
+With the success of their
+new network game, Sniper!,
+based on the TSR board
+game of the same name,
+Compuserve now offers a
+
+four player version of the
+game. Now, two players can
+team up against their
+favorite two foes for a true
+multi-player version of the
+game. Also, the service now
+provides a directory of
+modem game players which
+can be accessed by typing
+"Go Challenge." Opponents
+who play Microsoft's Flight
+Simulator III, Interstel's Empire, Electronic Arts'
+Modem Wars, and
+Spectrum Holobyte's Falcon may currently be located
+on-line and a directory for
+EA's 688 Attack Sub is due
+to be added in the near future.
+
+Meanwhile, Prodigy (the
+joint-venture backed by IBM
+and Sears) has joined with
+Broderbund to feature an
+on-line version of Where In
+The World Is Carmen Sandiego? Each week, a mystery
+is placed on-line and readers
+who solve the case have
+their names listed on-line.
+Those with the very best
+scores are posted in the
+Acme Detective Agency Hall
+of Fame.
+
+Meanwhile, on GEnie, Air
+Warrior, the popular Macintosh, Amiga, and ST game
+designed by the Kesmai
+Corporation, has made the
+transition to the IBM world.
+The aerial combat simulation allows, at least, 25
+players to engage in highresolution graphic dogfights.
+
+CGW On-line magazines or
+news stories can be found
+on Compuserve in the
+GameSig; on PCLink,
+QuantumLink, and AppleLink as CGW Magazine, on
+Prodigy with three news
+stories per week, and soon,
+with special features on
+GEnie.
+
+The game allows players to
+choose from vintage World
+War I and World War II
+aircraft running from Fokker
+Triplanes to B-17G Flying
+Fortresses.
+
+Review
+
+gainst all odds
+and after facing
+hordes of Stardust-sniffing evil Mentants, ravenous radioactive rodents, and scaly,
+tentacled sewer-beasts
+(and those are just the
+females on this scraggly planet), you (Ace
+Powers, Intergalactic
+Star Policeman Extraordinaire, that is) have
+finally succeeded in
+cleaning up the planet
+Cron. After scouring
+every possible bar and
+cheap motel for clues,
+
+fact, you may find yourself going around and
+zapping everyone you
+meet just to see them
+disintegrate or riding
+back and forth to Cron
+just for the thrill of the
+transporter (ooh, it
+tingles!). Nevertheless,
+By Dennis Owens
+be prepared to restart
+the game if you do.
+Killing innocent
+civilians is not tolerated
+on Cron or on its
+moon and you will not
+be able to hide behind
+your badge if you are
+caught.
+There are numerous
+ways to be killed or
+have the game end,
+Omnicron Conspiracy
+SYSTEM:
+IBM
+but its designers must
+PRICE:
+$49.95
+be credited for coming
+PUBLISHER:
+Epyx
+up with several of the
+TITLE:
+Redwood City, CA
+most inventive sequences ever utilized in a
+graphic adventure in
+order to depict your
+fate after you breathe
+your last. Modern
+medicine can certainly
+work miracles, but I'm
+not sure I like the
+result.
+The manual which
+comes with the game
+is brief and exact. A
+hint section takes up
+half its space and, while it does explain exactly how to win and
+what to do in each important location, at least it does so in a
+series of steps: hints, tips, and solution.
+
+Epyx Unleashes The
+Omnicron Conspiracy
+
+after interrogating--closely—every female,
+at last, you have
+avenged your partner's
+death.
+"You done good,"
+your chief tells you.
+Then, he sighs. "Now if
+we can only find someone to help us stop
+that nut from blowing
+up the planet . . . "
+So, what did you expect, hero?
+Omnicron Conspiracy is a baffling,
+wacky, charming conundrum of a graphic
+adventure. It is chock
+full of flying, caped offworlders, blustery bad guys, green long-tongued Frugs, and Vurlonians selling insurance. Death waits at almost every turn as
+you try to solve the mystery of who killed Agent 786 and why.
+Then, you must try to deal with the consequences—and then,
+the consequences of the consequences of your actions.
+Smoothly animated and graphically attractive, the game, which
+shows us just how far graphic adventures have comes since the
+days of Ring Quest, offers plenty of opportunities for interactions
+with NPCs, whether it be trying to pick up that cute little shefly in
+the Green Tattoo Bar or trying to score some dexBoosts off the
+rude Sion (who really does tell you to "get lost, Space Pig!"
+should you be dim-witted enough to approach him (it?) with your
+badge flashing).
+Alas, however, though the action (especially around that cheap
+motel) seems to offer a lot of . . . how shall we put it . . . exploratory opportunity, Omnicron Conspiracy is strictly PG-Rateda surprise, considering the advertisements for the game being
+bandied about by Epyx.
+Still, though, the game is diverting enough and its visuals amusing enough to make the SciFi police adventure a success on its
+own terms (consisting of a sort of feckless, innocent vulgarity).
+The residents of Cron are not—usually—happy to see you.
+Even though most will let you go your own way, at least grudgingly respecting your badge and the law you represent, none will
+hesitate to tell you what they think if you get in their way. Nevertheless, most of the populace is irrelevant to your mission (to discover what Agent 786 was getting a little too close to and why he
+was making those in power nervous).
+Omnicron Conspiracy supports hard drive, joystick or keyboard
+input (both equally easy to use), and graphics displays from
+monochrome to VGA. The graphics are clever and handsome. In
+
+Omnicron Conspiracy is not particularly linear. Though you do
+need certain objects from time to time to make your job easier
+(dexBoosts or Quickheals, for example, in the evil Mentants
+temple), you can, in the course of your snooping around, resolve
+any number of your problems—like any experienced Star
+Policeman would—simply by being quick-witted, nimble-fingered,
+and brilliant of mind.
+Interactions with objects/NPCs are menu-driven. Walk up to
+them until their name appears in the box above the main screen,
+then press return. The objects you carry are used/examined/etc.
+via the function keys.
+The only drawback, if it can be called that, to the game is that it
+is, unfortunately, almost as much fun watching the background
+and interacting with the non-importants as it is actually tracking
+down the bad guys. Soaking up the atmosphere and listening to
+the tunes at the Mind Zi Tavern or the Green Tattoo is a terrific
+way to while away some time—and you never know who you
+might meet there.
+Chris Ebert, the musical wiz behind the soundtrack, did a terrific
+job with it; the music is catchy and melodic. And it is in the small
+touches, the musicians at the Green Tattoo, for example, that the
+game is the most fetching.
+Omnicron Conspiracy, because of its logical puzzles, ease of interaction, and humorous (sometimes, downright sweet, small
+touches), can certainly be recommended. It makes an interesting
+change of pace and offers an entertaining story for anyone who
+likes graphic adventures.
+
+I
+
+Review
+
+illsfar is SSI's
+
+l atest foray into
+
+caliber of design.
+While the storylines of
+each quest are interesting and promise
+much in the way of excitement, the graphics
+and implementation
+do not measure up to
+the promise. The map
+by Roe Adams
+is full of mysterious
+sounding locations,
+such as Ghost Lake,
+Wizard's Forest
+Labyrinth, Dragon
+Skeleton, and
+Shipwreck. Yet, a visit
+TITLE:
+Hillsfar
+to every place yields
+SYSTEMS:
+C-64/128, IBM
+the same looking
+REVIEWED:
+IBM
+PRICE:
+C-64/128 ($39.95)
+graphic modules with
+IBM ($49.95)
+the single secret door
+DESIGNERS:
+Westwood Associates
+in always the exact
+PUBLISHER:
+Strategic Simulations, Inc.
+Sunnyvale, CA
+same topmost NW
+corner. No attempt
+has been made to customize any of the locations to match the
+mood of the design.
+The Arena is the
+main quest module
+for the fighters. It is
+also most aptly
+dubbed "punishment"
+for other character
+types caught looting
+various locations or
+being thrown out of bars. Characters are given only staffs to fight
+with, and can purchase no armor. Magic is unavailable in
+Hillsfar, so it is a sobering sight to see your Mage or Cleric in the
+Arena, trying to duke it out with a staff against a big monster.
+The joystick controls used in fighting are very difficult to learn
+and most players will want to avoid the Arena whenever possible.
+Because of the slow response to joystick input, whole sequences
+of action moves need to be planned out before combat begins.
+In fact, much of the idle chatter in the taverns is tied up in giving
+long, detailed playing hints to the adventurer so he will be able to
+fight each of the arena opponents effectively.
+The archery field has a simple carnival type shoot. Various targets are offered and birds occasionally fly across for extra points.
+If your character has high DEX, you ought to try hitting the very
+elusive mouse that darts across the screen by shooting during
+the instant he pauses before changing direction.
+The worst aspect of this game is the travel action sequence on
+horseback between location. The player must steeplechase his
+way from place to place. Each strip of travel looks exactly the
+same as every other strip, only the obstacles shift around for
+variety. By the 10th trip, or so, it is such a dread that the player
+begins to ask, "Is this trip really necessary?" To make matters
+worse, the game implementers decided to require the players to
+travel to a specified camp outside the city in order to "Save
+Game". Yes, this is the only spot in the entire game that the
+game can be saved or restored. So, "Save Game" necessitates, at
+a minimum, two horseback strips and could require six if the character happens to be going and returning to a remote location
+where something hazardous to their health was about to take
+place (which in a RPG is very frequent).
+The bottom line is that Hillsfar is a must buy for those who
+aspire to becoming a super thief, such as Roger Zelazny's
+Shadowspawn. Otherwise, imagine the absurdity of doing Mage
+or Cleric quests without being able to cast any spells at all!
+
+The Dark Arena
+
+the TSR world
+of Forgotten Realms.
+Hillsfar is an ancient
+elven city across the
+Moonsea from Phlan,
+the gutted city which
+adventurers cleared of
+evil influences in the
+first installment of the
+series, Pool of
+Radiance. Long ago
+the elves left Hillsfar
+and it is now being
+ruled by a MerchantMage named Maalthir
+whose Red Plume
+Guards are practically
+everywhere. Step out
+of line in this city and
+you end up being
+thrown into the arena
+as sport for a
+Minotaurs.
+The module is
+designed for single adventurers to go on
+mini-quests. There are
+separate sequences
+for Fighters, Mages,
+Thieves, Clerics, and
+combo-class characters. Characters already generated in
+Pool of Radiance may be transferred into this scenario, although
+without any of their "goodies". Each quest consists of three or
+four segments that are quite linear. Even if you know from a previous "Save Game" what the next leg of the quest is, you cannot
+activate that sequence until all of the preceding segments have
+been fulfilled. In short, Hillsfar belongs to the budding genre of
+"action adventures" whereby the joystick-driven arcade action is
+as relevant to a player's success as the role playing.
+For those players who like to run thief characters, Hillsfar offers,
+without a shadow of a doubt, the best simulation of thieving skills
+ever done in any medium, not just on computers. There is something glamorous and exciting about being a thief and filching the
+ruby eye out of the idol before the hordes of fanatic worshipers
+can kill you. In Hillsfar, players are confronted with a cutaway
+view of any lock that the thief must try to pick. Each tumbler in
+the lock has its own shape and every professional thief carries a
+lockpicking set with corollary shapes on the ten double-ended
+lockpicks; 20 unique shapes in all. The player must select the
+right side of the right lockpick for each tumbler. Doing it correctly
+causes the tumbler to graphically sink in the lock—very gratifying
+indeed. Choosing the wrong pick breaks the pick, rendering it
+useless until the character can return to the Thieve's Guild for
+somewhat expensive repairwork. To simulate working under pressure, each attempt at lockpicking is timed. A burning fuse on the
+screen lets the player know how much time is left. Failure to pick
+the lock in the allotted time can trigger a variety of painful lock
+traps. The number of tumblers in each lock varies with the difficulty of the lock, from a mere 3 to an awesome 8. It should be
+noted that it takes a considerable amount of practice, probably
+over the course of a few days, to really develop the dexterity and
+spatial skills necessary to do well as a lockpicker. The satisfaction
+of ripping through a 6 tumbler lock, though, is unparalleled.
+Westwood has set a new standard for skill simulation in a game.
+Alas, the rest of the game fails to even remotely come up to this
+
+SSI's "Hillsfar"
+
+Survey
+
+The CGW Test Lab
+
+The Gamer's Guide
+to Sound Boards
+donned our smocks and locked
+ourselves in the hermetically
+sealed CGW Laboratory to bring you the
+latest info on gaming hardware. This
+month, our focus
+is on IBM sound
+boards.
+Entertainment
+software and
+gamers alike have
+long since outgrown the
+pathetic, single
+voice beeper Big
+Blue bestowed
+upon their
+machines. To get
+the full enjoyment
+out of their
+gaming software,
+many IBM owners
+are purchasing additional sound
+equipment. To
+help out prospective buyers, we've
+listed the features
+and prices of the
+five top add-on
+boards available
+for the IBM. We
+also want to give
+garners an idea of
+what industry support is like for
+each board, so we
+asked 25 of the
+top game publishers about their future plans for
+sound board support. Here's what
+we found out.
+
+Roland MT-32
+Sound Module:
+The Roland MT32 is the high
+priced, but high
+performance board on the market. Composed of eight individual synthesizers and
+a percussion sound module, this 32voice synthesizer can produce 32 sounds
+simultaneously. The synthesizer section
+contains 128 preset sounds, including a
+
+wide range of musical instruments and
+special effects. The rhythm section also
+offers variety with its 30 preset drum and
+percussion sounds. The MT-32 has MIDI
+capabilities, allowing it to interface with
+any MIDI compatible keyboard or MIDI sequencer, and the board's package includes a piece of software called EASE
+(Easy Arranging and Sequencing Environment) which aids in creating and editing
+MIDI sound data. The MT-32 is by far the
+richest sounding board tested but also
+nceagith sCGW
+bears the 'richest' price tag. You can
+drive one off the lot for a mere $550. It's
+probably a bit beyond the casual gamer's
+needs, but a perfect system for those interested in its MIDI capabilities.
+Despite its expensive price tag, the
+Roland board has relatively healthy industry support. Electronic Arts and Accolade will each release three products
+this fall which support the Roland. Further, Dynamix, Activision, and Origin
+will support the board in future releases.
+Sierra will also continue with their support and promotion of the Roland board.
+If you want to hear the Roland board first
+hand, Sierra offers an audio cassette
+featuring both the Roland and the AdLib
+boards playing pieces composed for Sierra products.
+
+AdLib Music Synthesizer Card: The
+AdLib Music Synthesizer Card, an 11
+voice synthesizer based on FM technology, offers the same basic synthesizer
+found on many keyboards. Of the 11
+voices, six can be melodic and five percussive. In an optional mode, nine simultaneous voices can be sounded. The percussive sounds, such as the bass drum,
+tom-tom, and cymbals are produced by a
+clever trick combining the use of white
+noise generation with FM synthesis. The
+package which retails for $195 comes
+with the Juke Box playback program of
+25 prerecorded songs to sample. Visual
+Composer, a sequencer program which
+aids in the composition of your own
+songs, is also available for an additional
+$50.
+Being one of the first sound cards available, AdLib has a great deal of gaming
+software support. Eighteen of the companies we queried had AdLib on the top
+of their list.
+
+Covox Sound Master PC: The Covox
+board's list of features includes the
+AY8930 Programmable Sound Generator
+(a chip similar to that found in the Atari
+ST), a direct memory access 8-bit
+digitizer, stereo amplifier, and two digital
+
+O
+
+joystick ports. The joystick ports accommodate the contact type stick
+used by the Commodore and the
+Atari. The package also includes
+two, 2.25 inch speakers. The board
+comes in on the lower end of the
+pricing scale at a reasonable $89.95.
+Industry support for the Covox
+board is fair. Those who have made
+a definite commitment to the Covox
+include Electronic Arts, Data
+East, and CapCom. Maxis, Omnitrend, and Konami are looking
+at the board as a future possibility.
+
+Innovation SSI2001 Sound
+Board: The Innovation board is the
+budget model on the market, selling for $69. The SSI2001 sound
+board is driven by the Commodore
+HMOS 6581 chip found in the Commodore machines. The chip is a
+three voice synthesizer/sound effects generator called the SID or
+Sound Interface Generator and is
+among the simpler devices used in
+the boards sampled. The sound
+quality reflects this, though you really can't beat the price.
+From our industry survey it seems
+support for the Innovations board is
+rather weak. Only one company,
+Origin Systems, mentioned support
+for this board.
+speakers, headphones, or home stereos.
+This package goes for $129.95.
+
+Creative Labs, Inc. Game Blaster:
+This spring, Creative Music Labs
+released a music development package
+called the Creative Music System (CMS),
+which contains a plug-in adapter card
+and five disks of software called the Intelligent Organ. This hardware/software
+combination enables users to easily compose complex musical pieces using up to
+12 voices, plus percussion. The user
+'plays' the keyboard and the software
+adds bass, chord, and rhythm accompaniment in real time. The software package
+also enables users to add animation and
+lyrics to any composition. This suggested
+retail on this package is $195.
+Of more interest to garners is the new,
+stripped-down version of this package
+released in June. This product, called the
+Game Blaster, includes the adapter card
+and a disk of 40 pre-recorded songs. The
+12 voice adapter card can reproduce
+sounds from a preset library of 32 instruments. It has a built-in amplifier to drive
+
+Though the Game
+Blaster is a new player
+in the field, there
+seems to be a high
+level of industry interest. Of the companies
+we talked to, the following plan to support the
+board: Dynamix,
+Cinemaware, Accolade, Omnitrend,
+Lucasfilm Games,
+Origin, and Sierra.
+Mindscape and
+Konami are considering the board but had
+not come to any
+decisions as of our
+call. Creative Labs,
+Inc. tells us they are
+doing a fourth quarter
+promotion with Sierra, featuring the
+CMS Game Blaster in the packaging of
+Silpheed.
+(Continued on page 35)
+
+Review
+
+than previous versions. The Spracklens
+continued to meet these challenges with
+Sargon III and now, Sargon 4.
+Chessmaster 2100 is the recent successor to Chessmaster 2000, both recent
+entries in the market of chess programs.
+From the humble beginnings of 2K,
+these programs have now expanded to
+being well over 100K in memory in size
+and requiring 384K to run. The game
+play of both of these programs will certainly challenge all. The features are what
+separates one from the other.
+
+by Roy Wagner
+
+The Match-Up
+Let's start with appearances. Both provide 2D and 3D displays. The PC version
+of Chessmaster 2100 provides
+monochrome, CGA, Tandy, and EGA display. The MAC display of Sargon 4 offers
+five different sets of chess pieces that are
+not very impressive by Mac standards and
+offers an editor to design your own
+pieces or enhance those provided.
+Chessmaster 2100 provides only one set
+of very nice pieces and suggests using
+Deluxe Paint II to design new pieces.
+The two-dimensional display is much
+easier to use with both versions. Unfortunately, Sargon 4's display repaints part
+of the board each time that a requestor
+window appears over the chess board. I
+found this particularly annoying.
+Chessmaster 2100's display was clean
+and quick.
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Chessmaster 2100
+Apple II, IIGS,
+C-64/128, IBM
+1-2
+C-64/128 ($29.95)
+Others ($39.95)
+Fidelity
+Software Toolworks
+Chatsworth, CA
+
+n the beginning, the noble game of
+chess could only be played face to
+face with another human player. With
+the advent of the computer, programmers sought to match human with computer. Unfortunately, this took the largest
+of computers to play but a trivial game of
+chess. With the introduction of the personal computer the challenge continued,
+but with greater success. Back in those
+early days of the "home" computer, the
+first successful entry was from Peter Jennings. He produced a commercial version a chess program that actually played
+a good game of chess in less than 2K of
+memory (actually less than 1700 bytes).
+
+I
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Sargon 4
+IBM, Macintosh
+$49.95
+Dan and Kathe Spracklin
+Spinnaker Software
+Cambridge, MA
+
+As home computers expanded with
+more and more memory to 8K, 16K and
+beyond, other programs appeared. The
+first was a significantly expanded version
+from Peter Jennings called MicroChess
+on the Commodore PET 2001. This was
+later challenged by Sargon from Dan and
+Kathe Spracklen on the TRS-80.
+MicroChess, though a good program,
+faded away. Sargon II was introduced on
+the new Apple II computer and gained in
+popularity. From that point to the
+present, many other chess programs
+have been marketed by other authors,
+each with better game play and features
+
+Chessmaster 2100 comes with 110 classic games from 1834 to 1988. Sargon 4
+comes with 107 from 1851 to 1980.
+These games can be "replayed" as you
+watch to help learn more about how the
+experts play the game. A brief commentary for each game is included in the
+manuals. The moves can be sent to a
+printer.
+Chessmaster 2100 features a multipart, animated tutorial of basic chess
+moves. Sargon 4 comes with a collection
+of 45 board positions in five categories;
+checkmates, openings, tactics, strategy,
+endgames. Text in the manual briefly discusses these setups, but they cannot be
+automatically replayed. I found the
+tutorial a nice added feature. Both
+programs will let you set up any board
+positions and save them to disk. In the
+case of checkmate problems, both
+programs will easily solve them.
+I thought it was interesting to read in
+the Sargon 4 manual that it "has an opening library of more than 68,000 unique
+positions . . . by far the largest opening
+collection of opening moves ever supplied with a commercial chess program".
+Chessmaster 2100 has a library of over
+150,000 positions. I should add that the
+packaging for Sargon 4 does claim "an
+
+opening library of
+over 145,000
+moves—more than
+twice as many as
+competing
+programs".
+For the new
+chess player, Sargon 4 offers
+"Novice" and "Easy
+Play" modes.
+Chessmaster 2100
+offers "Newcomer"
+and "Intermediate"
+modes with the option to select "Normal", "Coffeehouse" (good & poor), or
+"Best" moves. For the advanced player,
+both offer a wide variety of timed options
+from 2 seconds to an infinite time to
+decide on each move. In the case of the
+latter or for any move, you can force the
+computer to move before the time has
+elapsed.
+You can also set the depth of moves
+(ply) that the computer "looks" for each
+move. A ply represents a half move. A
+depth of 3 ply means that the computer
+looks at its next move (1 ply), your
+response to that move (2 ply), and it's
+response to that move (3 ply). With Sargon 4, you can set a maximum depth of
+20 ply. Chessmaster 2100 will let you
+input any number with no indicated maximum. The more ply the longer it must
+"think".
+Sargon 4 beeps with each move and
+you cannot turn it off on the Mac.
+Chessmaster 2100 let's you choose to be
+silent, have a bell, music, or even a
+digitized voice inform you of events. Sargon 4 only offers coordinate notation (e2e4) for moves. Chessmaster 2100 offers
+both coordinate and algebraic notation
+(e4). With both, you can play against the
+computer or it will play against itself. With
+Chessmaster 2100, it will referee between you and another human player.
+Sargon 4 will switch top and bottom displays, Chessmaster 2100 will rotate
+through all four possible positions.
+Both games offer hints for the next
+move, the option to take back one or
+more moves, verification of legal moves,
+the option to change sides, and an optional replay from a list of moves.
+Chessmaster 2100 has other nice features, including: an analysis of your
+moves, opening move practice with
+coaching, blindfold chess where the
+pieces of one or both sides are hidden
+from view, a display of captured pieces,
+and a display of threaten pieces.
+The most interesting extra with
+Chessmaster 2100 is the ability to rate
+your play. This is based on the system
+
+in a program. This
+is not to say that
+Sargon 4 is not a
+good purchase. It
+is an outstanding
+chess playing
+partner, but lacks
+the features of the
+competition.
+
+used by United States Chess Federation.
+This is only an approximate and unofficial
+rating. It is nice to have this relative
+evaluation available to provide some
+measure of ones ability.
+
+End Game (The Decision)
+When it comes down to making your
+move as to which program to buy, I
+would say that you will find the features
+of Chessmaster 2100 to be the clear winner in the marketplace. Sargon 4 has a
+long standing reputation, but that alone
+will not give you everything that's wanted
+
+I'm sure many will
+wonder how these
+programs perform
+against one
+another. A definitive answer to this
+would be very difficult to provide without a great deal of
+time to try and find a fair match of options and conditions. I tried several
+matches at very quick levels of play and
+would have to say in all fairness to both
+programs that the results were a draw.
+The beginning chess player will find
+that Chessmaster 2100 is easier to beat
+with it's "Newcomer" and "Coffeehouse"
+option and this is something every
+beginner's ego needs. There is plenty of
+growth and challenge in both of these
+games for any average chess player.
+
+Review
+
+he
+
+period between the
+end of the RussoJapanese war (1905)
+and the Washington Conferences (1921-22) was a
+renaissance for naval architecture. Lord Fisher, of
+the British Admiralty, saw the
+need for modernization
+among his large, but aging
+fleet. His advocation of scrapping obsolete portions of the
+fleet, and focusing new construction upon heavily armored, big gun ships called
+Dreadnoughts, was controversial, at best. Despite
+debate within the Admiralty,
+and arguments that such a
+course of action would
+provoke an arms race with
+Germany (which it did), Lord
+Fisher prevailed and naval
+warfare was revolutionized.
+Battleships became kings of the sea for the next thirty years and,
+although they have since relinquished their predominance to
+aircraft carriers, remnants of the battleship revolution are still in
+service today.
+Grand Fleet (OF) derives its name from that of the British Home
+Fleet, under the command of Admiral Sir John Jellicoe and based
+at Scapa Flow in the Orkney islands. The opposing German
+Fleet, called the High Seas Fleet, was based in Jade Bay, and in
+the estuaries of the Weser and Elbe rivers. Admiral Friedrich von
+Ingenohl commanded the German Fleet from the beginning of
+the war until 1915, when he was relieved by Admiral Hugo von
+Pohl. The differences between the two fleets, with regard to number and type of combatants, effectiveness of damage control, gunnery accuracy and shell penetration characteristics, combine to
+make GFs study of North Sea operations tactically fascinating.
+
+T
+
+Bracketing The Target
+To place things in perspective, for those players who are still unfamiliar with Simulations Canada's operating system for historical naval wargames (see the Long Lance review in CGW #48 and
+the In Harm's Way review in CGW #57), players assume the role
+of echelon commanders onboard the flagships of their respective
+fleets. In this capacity, players direct the formation and movement
+of the fleet element they command and issue orders to subordinate fleets or light screening forces. Only two orders may be issued each turn thus, given that the number of elements you command in a given scenario may be as high as twenty-five, judicious
+selection of what orders to send is one of the major keys to winning the game.
+The second crucial skill required for success in GF is the art of
+tactical maneuver. Aficionados of warfare in the age of sail will
+recognize a maneuver known as capping the tee, wherein a
+column of ships passes ahead of their opponents on a perpendicular course in order to bring the most guns to bear on the
+enemy at the least risk to one's own ships. In addition to
+maneuvering to cap the tee, players may wheel, column turn in
+succession or order several other divisional tactics to either
+engage or withdraw from the enemy.
+Forces are comprised of capital ship squadrons, either Dreadnought or Pre-Dreadnought class, and light squadrons, their
+largest ships being cruisers or destroyers. Capital squadrons are
+groupings of individual major combatants, each of whom may be
+detached to act independently if damaged such that they can no
+longer keep up with the remainder of the group. Light squadrons,
+however, are not represented as individual units. Instead, these
+units are treated as a group with a strength rating equivalent to
+
+Grand
+Fleet
+by Lt. H.E. Dille
+
+TITLE:
+
+SYSTEMS:
+REVIEWED:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Grand Fleet:
+Tactical Naval Combat in
+the North Sea, 1914-1918
+Amiga, Apple, Atari ST
+C-64/128, and IBM
+IBM
+$60.00
+J. Baker
+Simulations Canada
+Bridgewater, Nova Scotia
+
+the number of ships they
+contain. As such, as elements of a light force are
+damaged, its combat abilities
+are reduced until the unit is
+eventually rendered ineffective for continued service.
+Light forces are best utilized
+as scouts, to relay messages,
+to conduct torpedo attacks
+or to interpose themselves
+between attacking forces
+and main body units when
+withdrawal is desired. German light forces are more effective at the latter than their
+counterparts, due largely to
+their ability to produce
+smoke screens.
+
+Battle Stations!
+
+Seven scenarios are
+provided with the game, including three which represent the Jutland action. Two of these involve the scouting and
+main engagements, while the third takes players from the beginning to the end of this twelve hour conflict. As each turn represents two minutes of game time, but may actually take five
+minutes of real time, the complete Jutland scenario can be very
+tedious to play in its entirety. The seventh scenario is particularly
+interesting because it is based on the fictional assumption that
+the High Seas Fleet sortied in 1918 to engage British convoys
+from Scandinavia. In doing so, of course, they encounter the
+Grand Fleet, supported by an American squadron. Finally, when
+players tire of the pre-generated scenarios, a powerful scenario
+generator is included. Thus, it is easy to recreate WWI engagements that occurred in the Pacific theatre or create as many other
+fictional engagements as desired.
+
+Friendly Fire
+GE utilizes a laminated map and grease pencils to track the positions of units. But, unlike SimCan's previous releases, some
+units are often maneuvering and engaging the enemy off the
+map! This is particularly true in the larger engagements like Jutland. Therefore, unless you have a very good conceptual ability
+for spatial relationships, the best thing to do is make a larger map
+utilizing the coordinates on the one provided as a starting point.
+Another concern involves the lack of documenation provided with
+regard to "immune zones", those areas where, for a given class of
+ship, it is possible to attack the enemy with little fear of damage
+from return fire. The program provides you with a recommended
+range for the group, but does not account for the differences that
+would certainly be a factor in a group of mixed ship types. Finally,
+deadtime seems to be more of a factor in GF than it was in prior
+releases. The action is still exciting once you get to it, but it certainly would have been nice to have had some manner of acceleration (a la Silent Service) to get to that point.
+
+Returning to Port
+GE, despite some minor flaws, is a good treatment of naval warfare during this period. Whereas Battlecruiser (SSI) illustrated
+combat between individual platforms more readily, GF emphasizes
+command and control, tactical maneuver and decision-making
+based on limited intelligence. GE also allows players to modify variables such as British shell penetration and flash protection (i.e. affecting the frequence of magazine explosions) to handicap more
+experienced players and provide balance to the scenarios. Overall,
+this product is recommended for dedicated wargamers and enthusiasts of the historical period covered, but may prove too involved and time-consuming for "weekend warriors".
+
+CGW's Top 100 Games
+See Reader Input Device on page 48
+
+The Categories
+Strategy (ST): Games that
+emphasize strategic planning
+and problem solving.
+Simulation (SI): Games based
+on first person perspectives of
+real world environments.
+Adventure (AD): Games that
+allow you to take your alter
+ego through a storyline or
+series of events.
+Role-Playing Adventures
+(RP): Adventure games that
+are based on character
+development (usually
+involving attributes).
+Wargames (WG):
+Simulations of historical or
+futuristic warfare from a
+command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+
+Game Rating Chart
+
+THE HALL OF FAME
+The Games In
+CGW's Hall
+Of Fame Have
+Been Highly
+Rated By Our
+Readers Over
+Time. They
+Are Worthy Of
+Play By All.
+
+Review
+
+by M. Evan Brooks
+
+R
+
+ed Lightning is SSI's latest wargaming release. An operational
+land/air simulation of the Central
+Front in a prospective European Conflict,
+Red Lightning is the obverse to Red
+Storm Rising (the book, not the computer game). This is because Red Lightning concentrates on the land battle in
+Europe. The maritime struggle, as well as
+the battles for Iceland and Norway, impact on the simulation, but are not necessarily decisive (and demand marginal
+player involvement).
+
+palette and map background), but would
+have eased play considerably.
+
+GAME PLAY
+There are some truly interesting and innovative concepts in Red Lightning:
+brigade strength is depicted as a
+divisional subset with deployment choices
+of "forward", "rest" and "reserve" (in order
+for a unit to advance after combat, at
+least one of its subunits must have a
+"reserve" deployment); unit strengths differ markedly based on movement status
+(units having time to "dig in" utilize a
+much stronger "static" strength); the air
+war, composed of air superiority, strike,
+reconnaissance and close air support missions is easy to use; and the struggle for
+the Atlantic, Iceland and Norway merge
+with the main battle, impact upon it, and
+yet remain sufficiently isolated as to not
+overly draw the player's attention from
+the Central Front.
+
+With units representing individual
+aircraft and divisions/separate brigades,
+the player must either delay the Soviet Offensive until reinforcements can be
+brought to bear (NATO) or strive to break
+through the NATO defenses and into the
+European heartland (Soviet). Each turn
+represents twelve hours of real-time and
+the game may last either 20 or 60 turns
+(player choice), unless a decisive victory is
+achieved earlier. The map uses "
+wargame-standard" hexagons, each of which represents a 25-km distance. The entire map
+depicts a geographic region from Poland
+(east) to Benef (
+Belgium-Netherlands-France) (west) and Denmark (north) to
+Austria (south).
+
+DOCUMENTATION
+The documentation is up to usual SSI
+standards, but be certain to read the
+material carefully! There are numerous
+new concepts which require complete
+comprehension and they are mentioned
+quite cursorily in the rulebook, e.g. Victory Conditions are totally dependent
+upon morale. Morale, in turn, is dependent on battlefield conditions, casualties
+and seizure of key terrain. Know the interrelationships of these factors and what is
+critical in winning.
+The Order of Battle is included as an
+ASCII-file. The print-out runs well over 30
+pages, but it is essential to player success. Even more important, the Order of
+Battle includes all units and subunits.
+Nowhere is there a succinct listing of
+units actually appearing on the map. This
+requires extensive editing of the ASCIIfile. In order to save CGW readers some
+time and trouble, the unit order of battle
+is reprinted herein (see offer on the following page).
+
+TITLE:
+SYSTEM:
+REVIEWED:
+# PLAYERS:
+PRICE:
+PUBLISHER:
+
+Red Lightning
+Atari ST, IBM
+IBM (with 386, VGA)
+1-2
+$59.95
+Strategic Simulations, Inc.
+Sunnyvale, CA
+
+Yet, despite these appreciated concepts,
+the user interface is awkward, clumsy,
+and annoying enough to deter all but the
+most dedicated gamer from penetrating
+its secrets. "Never in the history of wargaming has so little interface led so many
+to so much frustration". The ST-version
+utilizes a mouse, which does alleviate
+some of the problem, but serious flaws
+remain.
+Each turn, the player must access the
+
+Info Menu—composed of the strategic
+GRAPHICS
+The map and units are distinctively
+colored and differing types of terrain are
+easy to distinguish. The screen displays
+an area 14 by 7 hexes (c. 4% of the total
+map area). A map card portrays the entire field, although national boundaries
+are not easily discernible.
+The Soviet Forces are portrayed in red,
+while NATO Forces utilize blue. Because
+it is relatively difficult to determine which
+units belong to what corps, however, this
+reviewer would have appreciated a differentiation of colors by nationality (e.g.
+blue for British, green for American, etc.).
+This should only be true for the player
+side (since he would not know the composition of the enemy) and could admittedly be difficult (given the computer
+
+report, political report, full hex report,
+weather report and supply net, and the
+Orders Menu—composed of air operations, special operations, para/amphib,
+and movement. Unfortunately, where the
+basic premise of Red Lightning is to emphasize corps integrity (i.e. units fight better when they are in geographic proximity
+to their corps headquarters), the user interface makes corps cohesion difficult to
+attain and maintain. Unit movement allows one to move, but there is no "next"
+key which will access the next unit in the
+Order of Battle. In fact, one must "escape" to the Info Menu and go to the
+"full hex report" in order to determine the
+location and strength of the various
+units; subunit deployment decisions (forward/reserve/rest) are made here. The
+"full hex report" procedure is time-consuming and laborious. While a "next" key
+does exist here, the subsequent unit's
+
+location is noted only by map coordinates; referring back to the map forces
+one back to the first unit accessed. Thus,
+one must use the map card or a substitute to write
+down the locations of the
+various units in
+order to utilize
+corps battlefield integrity.
+Also, as one attempts to move, it
+is important to
+determine
+strength and
+morale. But these
+features can only
+be accessed from
+the Info Menu,
+thereby compelling the player to
+do a massive escape/access/escape/access between menus in order to properly
+"play" the simulation. Movement is composed of "maneuver" and "travel".
+Maneuver is limited to two hexes of movement and is used for combat operations;
+it does not actually occur until the combat portion of the turn. Travel allows
+more flexibility, although Red Lightning
+does not allow one to retract a travel
+order once it has been executed. Thus,
+since travel orders
+are executed immediately, and utilize
+an IBM-keyboard
+movement of 1-2-3,
+7-8-9, an inadvertent keystroke can
+easily ruin a game
+turn and destroy an
+hour of play. The
+player is left with the
+key decision as to
+whether to return to
+the last saved position or simply allow
+the genesis of
+defeat to be attributable to keyboard "stumbleitis".
+SSI has dealt with
+this situation earlier
+and its civil war
+simulations generally allow one to
+retract the move, albeit with the loss of
+some operation
+points. A similar
+treatment would
+have been appreciated here.
+Air operations are
+critical, but strike
+missions are not
+well-depicted. Air superiority and close
+
+support can well be factored into the
+grand scheme of things; however, when
+one executes a strike mission, one is told
+of which unit has been the subject of the
+
+strike. The flaw is that this is by text only,
+and the strike is not shown on the map.
+Thus, unless one quickly writes down
+what units have been hit, he will have no
+idea of what has happened. Target
+analysis and interpretation are not
+facilitated thereby.
+Intelligence gathering is very important,
+although its results are limited to simple
+reporting that an enemy unit exists in a
+certain hex (i.e. no strength data is
+
+given). Granted that military intelligence
+often acts as an oxymoron, this seems an
+unfair implementation of an axiom that is
+not always true by definition.
+The side theaters
+(the Atlantic,
+Iceland and Norway) are critical
+when considering
+possible NATO
+reinforcements.
+This reviewer advocates quick reinforcement of Norway with two or
+three airborne
+brigades. They
+may well swing
+the tide. Further,
+if Norway is safe,
+the Battle of the
+Atlantic and any
+possible invasion of Iceland is rendered
+NATO-favorable. However, if Norway falls
+to the Soviets on the first turn (before
+any reinforcements have a chance to arrive—a 1-in-33 chance), this reviewer
+recommends a quick surrender and
+rebooting the simulation. Why start out
+with an albatross? Enough will be flying
+toward you, anyway.
+In gameplay, maintain corps integrity!
+Corps headquarter and artillery units not
+scheduled to
+maneuver will contribute 1/2 of their
+strengths to units
+within 2 hexes.
+NATO must take advantage of massive
+artillery defensive
+fires in order to slow
+down the Soviet
+onslaught; similarly,
+the Soviets can use
+this to crack a wellentrenched position
+by overwhelming
+fires.
+
+CONCLUSIONS
+Red Lightning has
+some interesting
+game concepts.
+However, despite
+this interest, the
+awkwardness of the
+user interface made
+the game a "chore"
+to this reviewer. The
+mouse-supported
+ST version is not as
+flawed, but the overall ease of use is
+sorely lacking in
+what is supposed to
+be software entertainment
+
+Review
+
+Fantasy
+Aflame
+SSG's "Fire King"
+by Douglas Seacat
+here's foulness afoot in fantasy land again. The Fire
+
+King, one of the four elemental Mages of power, has
+
+been murdered. The Wind Mage, Earth Mage, Water
+Mage, and Fire King used their vast powers in balance to
+keep the land in harmony and delightful bliss. With the Fire
+King's death, however, everything has
+gone wrong. In the
+town catacombs,
+where his highness's
+royal corpse lies, a
+Dark Beast has
+taken over, killing
+any who venture
+near and sealing the
+town off from outside aid or escape.
+Alas, if only a hero
+were to venture into
+the catacombs and
+save our poor town!
+Fire King is the
+newest game by
+SSG, and is in many
+ways a deceptive
+product. From all accounts the game
+would seem to be just another
+Fire King
+TITLE:
+C-64
+SYSTEMS:
+basic RPG from the cast of
+PRICE:
+$39.95
+many which have come before
+DESIGNERS:
+Stephen Lewis & Stephen Wang
+PUBLISHER:
+SSG
+it. The packaging, the blurb on
+Walnut Creek, Ca.
+the back, and the premise itself
+can easily lead a person to this
+conclusion. In truth, however, while Fire King does have
+many RPG elements, it is primarily an action game. The synthesis of action and RPG is an interesting, if not altogether
+successful one.
+In the game, the player can choose one of six different
+"heroes", each with his/her own particular blend of attributes.
+There are three of these: Armor, Strength, and Magic. While
+all three come into play during the game, it is important to
+remember that this is, despite an appearance to the contrary, an action game and, therefore, Strength is the most important characteristic. There are thousands of lurking creatures in this game, and the player that can kill the most has
+the best chance of survival. Also, since there are some very
+nice offensive spells, a strong Magical ability is vital. Armor
+isn't nearly as important in comparison; if the player can kill
+all his opponents before they even touch him, why bother
+with defense? A good choice of characters is "Shadow" who
+has strong offensive power, and good magical capabilities.
+The actual game system is a close twin to the Gauntlet arcade/computer game, since the player shoots a crossbow
+
+with endless ammunition. Enemy creatures are equally endless, arising from monster generators which must be
+destroyed to gain any respite.
+In addition to his crossbow, the Hero has pockets, each
+able to hold up to nine of the same object. There are many
+objects to be found throughout the game, such as keys
+(each time one is used, they disappear), spells, and magic
+boots. Eating food replenishes the Hero's health, and finding
+objects such as belts, helms, and wands increases the Hero's
+Strength, Armor, and Magic respectively.
+What sets the game apart from Gauntlet is a more complete Fantasy plot and some complex puzzles. While most
+RPGs have stronger plots than Fire King, it is an exceptionally detailed one for an action game. Most of the puzzles aren't
+overwhelming, but require logical reasoning and even
+(Gasp!), some note taking. This puts the game in a different
+league than the more bash-n-smash Gauntlet. There are still
+plenty of creatures to hack apart, but simply running around
+killing things won't get the player anywhere.
+At the beginning of the game, the player must explore the
+town (it's really a castle, but why be picky?) and then descend into the catacombs below to find out the secret of the
+Fire King's corpse. This introductory quest is a good starting
+point. It allows the player to learn game play, figure out a
+few rudimentary puzzles, and increase his combat proficiency. The puzzle itself is very easy, since there are clues scattered everywhere, and the documentation even provides a
+step by step guide through this area if the player is completely stumped. Once the secret has been found, the player
+must depart the town and head for the Fire King's castle,
+and into the heart of the game, where the puzzles become
+much more difficult.
+
+Feeling the Warmth (Good Points)
+The plot of the game is one of its most outstanding features. I enjoy a good exciting round with a joystick as much
+as any action-fanatic, but it seems most games of this genre
+don't even try to have a plot. They use ridiculous backgrounds and stories as convenient excuses to try out some
+new graphics or joystick maneuvers. In Fire King, it is impossible to get anywhere without paying some attention to the
+story line, as well as the various puzzles relating to the plot.
+Secondly, I think that this particular synthesis of arcade/RPG is a good idea, and a nice change of pace. While
+some games such as Fairy Tale, and Dungeon Master have
+used an action oriented interface, they were RPGs first, with
+only secondary action elements. In Fire King, the exact opposite is true. While the entire plot, and most of the puzzles
+are heavily borrowed from RPGs, the game is an action
+game first and an RPG second. When hordes of attacking
+creatures pounce on the Hero, with an endless series of
+glowing bolts firing from his crossbow, there can be no
+doubt that this is an action game. The RPG elements only
+provide a path for the action vehicle to travel.
+
+Fanning the Flames (Bad Points)
+Ironically, one of my complaints about Fire King directly relates to the synthesis which I admire. While playing the
+game, I got the feeling that the programmers hadn't been
+entirely sure which way they wanted to go. Did they want an
+action game with RPG elements, or an RPG with some action? I think they eventually decided to go with the former,
+but didn't commit themselves fully. I wish they had gone a little further in providing a solid action game first, and then
+souped it up with the fantasy plot. As it is, while the plot
+remains very good, the action game itself is lacking. The con-
+
+trols aren't entirely smooth, the enemies are very stupid, and
+there is little of the sense of fast-paced excitement which
+makes an action game fun. The idea is definitely a good
+one, but the execution falls flat.
+An example of this is the awkward way the game handles
+the "pockets". The player must stop movement, bring up the
+pocket display, choose which spell he wants to use, and
+then use it. All this goes on while the enemy monsters are
+bashing away at the player, who can lose valuable health
+points in the process. It would have been much better if the
+player could instantly hit a key to enact a spell or item,
+without the awkward interruption. There could be a separate
+key for each pocket, thus allowing the player complete control along with speed. The process the game currently uses
+wouldn't be bad in a slow-paced RPG, but in a real-time action arcade game, it is almost unbearable.
+These two smaller complaints tie in to my largest problem
+with the game, which is the overall "feel" of the product. The
+entire game just seems to have a rough edge, as if it weren't
+finished yet. The graphics are alright, but don't stand out,
+even for the C-64. Many of the color choices are such that
+some characters and items almost blend in with the background, making game play a strain upon the eyes. This
+roughness extends to the action interface as discussed
+above, the documentation, the packaging, and also to the
+save mechanism, which is very crude. None of these items
+
+are overwhelming in themselves, but together they take away
+from the enjoyment of the product.
+
+Conclusion
+All things considered, I must
+still recommend
+Fire King, although it is with
+reservations. The
+plot alone is
+enough to make
+the game a worthy product, and
+the puzzles are
+an added treat.
+However, this
+game is definitely not for everyone. Strict RPG players should
+stay away unless they also enjoy action games and action
+fanatics need to be aware that the graphics aren't the best
+available and the interface can be awkward. On the other
+hand, Fire King will appeal to those garners who want more
+intelligence and mental difficulty in their action games. Fire
+King shows much promise, and is a good game; it's just too
+bad the same thought didn't go into the action play as went
+into the great plot or Fire King would be a first rate game.
+
+Game Hints
+
+"The first step of a
+journey is always
+the longest one."
+—old Chinese
+proverb, probably
+attributed to
+Confucius.
+
+A
+TICKET TO RIDE
+Steps Along Infocom's "Journey"
+
+n this case, your
+first step is briskly
+walking to your
+nearest computer
+store and ordering
+this exceptional
+game. After that,
+your steps become much shorter as you
+carefully tread through the many byways
+of this game.
+
+I
+
+Frequent "Save Game"s are definitely in
+order here (suggested number 20+).
+When you get to the end game, you will
+send money in to the magazine to renew
+your subscription for just this one hint
+alone!
+Astrix Tours offers a rare treat for the
+jaded traveler. Instead of having to decide
+whether to go to the mountains or the
+seashore this year, go to both! Astrix
+Tours has booked you into the sleepy
+mountain town of Lavos as your first stop
+on the Journey. Be sure to stock up on
+provisions and examine the AAA guides
+(Astrix's Aerie Asylum) to be found inside
+Webba's store. Free drinks are available
+in the local Tavern where the friendly natives will beguile you with fierce stares
+and cold shoulders . . . of meat. The disreputable louse-infested fellow in the
+corner is your native guide. No expense
+has been spared (literally none!) to find
+such an experienced man who is willing
+to sacrifice his life to lead you had such a
+perilous trip. Why the last four trips he
+led never had any complaints. Of course,
+they still haven't been heard from, either.
+Without his guidance, the party is surely
+doomed to perish. With his help, you still
+have an excellent chance of messing up,
+but at least it wouldn't be his fault!
+"You take the high road and I'll take
+the low and you'll be at Astrix's before
+me."—popular song of the mountain
+people.
+Don't feed the
+roving bands of
+bandits. Be sure
+to Scout around
+wherever possible in your
+travels. If your
+eyes get smokefilled, remember
+that "Truthfulness is next to
+Godliness". Our
+
+by Roe Adams
+
+tour goes through the mineral rich
+streambeds which are quite dangerous in
+the Spring when snow is melting high in
+the mountains. Be sure to visit the bathing beauties around the pool and collect
+some of the quaint native handicrafts.
+The culmination of our first day's travel is
+dinner with your Tour Director, the
+famous Astrix himself. Despite all appearances to the contrary, he is IN. The
+party needs to learn how to see what is already in front of them.
+Day two delves into the home of the
+friendly Dwarfs. The view from the towers
+is spectacular, while the subterranean
+vaults hold many surprises for the unwary. Through the gate, a brisk stroll will
+enable the party to meet some of the
+local fauna and talking flora. Late afternoon tea is scheduled at the elf village, although the temperature may be a little
+toasty. Back to Astrix's for another fine
+dinner and spellbinding tale of high adventure.
+You must get up early for the Northern
+route, but take heart because the forest
+is fun-filled, indeed!
+If you know how to get around the natives, you can have a spiritual experience
+that you can tell your friends about for
+years. A visit to the mine digging will be
+most illuminating. Be sure to ask the old
+miner for tips on prospecting. Don't
+scare him as he is a recluse and very shy.
+Be very careful to stay to the main areas
+or it will be the death of you.
+After lunch, the Southern route winds
+through the woods. This is a good time
+for individual sidetrips. Many interesting
+places await the cautious traveler. At the
+old mill, learn to operate ancient equipment. The tattered manual reads, "Now
+you see it, now
+you don't!".
+The dilapidated
+castle is
+reputed to be
+haunted. The
+ghost's jokes
+are said to be
+earthy. Do be
+
+careful in the woods as this is a bad
+time for allergies. A must stop is
+a local tribal village where the dinner
+cuisine is four star. Join Astrix for an after
+dinner nightcap and hear his tall yarns
+about the traveling anvil salesman.
+Day four brings the seashore. Your
+party will travel to the quaint seaside
+town of Zan. Along the way inclement
+weather may speed your travel. Zan is
+famous for its Curio Shop and Tavern.
+The Tavern is a very rowdy place, so try
+to be heard but not seen. The Zan Inn
+actually achieved an unheard of 3 stars,
+but the inspector was rumored to be currently vacationing on the Misty Isle. Do
+take care while in Zan not to run afoul of
+the local authorities. The Zan jail is supposed to be escapeproof. The tour party
+has a choice of ships available to suit any
+mood, so visit the wharf area and meet
+the different Captains. Each Captain has
+something quite different to offer the discerning traveler. Costs are commensurate with services!
+Ah, the joys of relaxing on the high
+seas. Feel the zephyr winds wafting
+through your hair. Enjoy the gentle rock
+ing of the waves. A truly memorable experience! All too soon you will arrive at
+the Misty Isle where you will face one of
+the greatest challenges of your life.
+Only Astrix Tours can offer such diversity of travel vistas. Sign up now for a trip
+that you will always be glad you had
+taken. Discounts are given for large
+groups and special musing are available
+for repeat clients so that they can learn
+to maximize their adventuring. Remember, Astrix Soars!
+
+Taking A Peek
+(Continued from page 6)
+
+Conversions
+Received
+Apache Strike (Activision) C-64, IBM
+Battletech (Infocom) Atari ST
+Bubble Bobble (Taito) Apple ll
+California Challenge (Test Drive II
+Scenery Disk) (Accolade) Apple IIGS
+Caveman Ugh-Lympics (EA) IBM
+Decisive Battles of the American Civil
+War: Volume Two (SSG) IBM
+Dr. Doom's Revenge! (Paragon) C-64
+The Duel: Test Drive II
+(Accolade) Apple IIGS
+Echelon (Access) IBM
+Heroes of the Lance (SSI) C-64
+Jack Nicklaus' Greatest 18
+(Accolade) Apple IIGS
+Jack Nicklaus' Major Courses Disk
+(Accolade) C-64
+Journey (Infocom) Apple ll
+Might and Magic ll (New World) IBM
+Rocket Ranger (Cinemaware)
+Apple IIGS & Atari ST
+Shangai (Activision) Mac
+Shufflepuck Cafe (Broderbund) Mac
+Space Harrier (Mindscape) IBM
+Speedball (Cinemaware) C-64
+
+Tech-Cessories
+990 East Rogers Circle #2
+Boca Raton, FL 33487
+
+Taito
+267 West Esplanade
+North Vancouver
+B.C., Canada V7M 1A5
+QIX: Here is the personal computer
+version of the game which once kept
+many college students from their texts in
+the early eighties. MIT and other "techie"
+institutions once held a tournament to
+see who could best engage the Qix, a
+particularly nasty computer virus, in
+geometrical warfare. The player's goal is
+to encircle territory with their marker,
+entrapping the Qix in a prison of
+polygons, while avoiding the deadly
+touch of the Qix and its evil minions, the
+Sparx. C-64 ($29.95). Circle Reader Service #6.
+
+COUNT DISK COMPUTER DART
+GAME: If you enjoyed shooting darts at
+the TV screen as a kid, then perhaps
+this product has some appeal. This
+"game" package includes a 9mm Baretta replica dart gun, six darts, and five picture files. the files include a selection of
+targets including a standard dart board,
+dart baseball, an executive decision
+maker, and a shooting gallery of Count
+Disk and friends. Just load up, lick your
+dart, and shoot ol' Count Disk. These
+static pic files even support VGA
+graphics if you're willing to slobber-up
+your high-res hardware. IBM ($19.95).
+Circle Reader Service #7.
+
+Virgin Mastertronic
+18001 Cowan St., Suite A
+Irvine, CA 92714
+RISK: The classic board game comes
+to the computer, complete and with
+some new variations. Options include
+the regular game, a short game, and an
+objective-card game which gives the
+players missions to fulfill in order to win
+the game. From one to six can play. C64 ($29.99). Circle Reader Service #8.
+
+The Supercars (Test Drive II Car
+Disk) (Accolade) Apple IIGS
+Take Down (Gamestar) IBM
+War In Middle Earth
+(Melbourne House) C-64
+Where In Europe is Carmen
+Sandiego? (Broderbund) Apple II
+Zork Zero (Infocom) Apple ll
+
+(Continued from page 19)
+
+Garners'
+Guide To
+Sound
+Boards
+Coming Soon to A PC near you .. .
+Creative Labs, Inc. has announced the
+fall release of a new sound card, to be
+called the Killer Kard. The new card will
+boast the 12 voice stereo output included on the Game Blaster plus the 11
+voice output included on the AdLib card.
+It will also sport a library of digitized
+sounds and special effects, and 23 synthesized voices. It will have the ability to
+digitize sounds or speech input through a
+microphone, using DMA for speed and
+compression algorithms to conserve
+memory. And that's not all! The board
+
+will sport a speaker connection with a
+built-in amplifier, a microphone jack with
+amplifier, an analog joystick port,
+and a MIDI interface. The 'Killer
+Kard' is supposed to be out in October with the suggested retail under
+$200.
+So who's the leader in this pack?
+Well, the Roland MT-32 is definitely
+the performance leader, though the
+price tag makes it out of reach for
+most. The AdLib has the most support, due primarily to the fact that it's
+been on the market longest and its
+price is in the medium range. The Innovation is the budget choice, but
+you know the old saying . . . The
+CMS board seems the best buy, combining quality sound with strong support for a decent price. But before
+we announce a winner, we must
+wait until the release of the Creative
+Labs 'Killer Kard'. If all is as
+promised, this card may be just what
+the market demands. It's ability to
+use both the AdLib and CMS drivers,
+it's long list of features, and it's mid
+range price may find a nice market
+niche. Until then, we'll have keep our
+ears open.
+
+Review
+
+Star Saga II:
+Mankind Strikes Back
+
+T
+
+by Vince DeNardo & Chris Lombardi
+
+he ominous approach of the survey line of Clathran battle and colony ships was sweeping through the galaxy,
+identifying, classifying, and exterminating all in its path.
+Known collectively as the "Clathran Menace", it meant many
+things to many people. To most of the human race, it meant
+nothing, as they were being purposely kept in the dark by
+their "superiors", so
+as not to cause
+any undue panic.
+What good was it
+to evacuate a city
+in the face of impending disaster if
+the only road out
+of town wasn't
+finished?
+To Professor Lee
+Dambroke, Dean of
+the Department of
+Xenobiology on the
+university world of
+Harvard, the
+"Clathran Menace"
+was a matter of
+science and
+knowledge; the line
+must be breached and stopped, or
+TITLE:
+Star Saga: Two:
+the darkness of ignorance and
+The Clathran Menace
+SYSTEMS:
+IBM & Apple IIGS
+stagnation would fall over the
+# PLAYERS:
+1-6
+galaxy for all eternity.
+PRICE:
+$79.95
+To Laran Darkwatch, mystic DisDESIGNERS:
+Rick Dutton
+Walt Freitag
+ciple of the Final Church of Man,
+Andrew Greenberg
+it was a question of faith; faith in
+Mike Massimilla
+PUBLISHER:
+MasterPlay
+the ultimate triumph of good over
+Tampa, EL
+evil, faith in the Founders of the
+Final Church, and faith in their
+vision of mankind's place in the Cosmos.
+To M.J. Turner, the top pilot in the Space Patrol, or the
+whole galaxy for that matter, it was a question of pride; pride
+in the abilities of mankind to overcome all obstacles in pursuit of its ultimate destiny ... to rule the stars.
+All were impressive goals, solid tenets upon which to build
+a society and a glittering future. Or were they merely brittle
+conceits, ready to crumble at the first pressure from the
+"Clathran Menace"?
+So begins Star Saga:Two The Clathran Menace, the middle
+game of the planned trilogy from the folks at Masterplay. Just
+as Star Saga:One Beyond the Boundary took interactive
+science fiction storytelling beyond the boundaries of the genre,
+so does Star Saga:Two The Clathran Menace take us into
+dark,foreboding, and menacing territory; unknown dangers in
+an unknown future.
+As in the first game (reviewed in CGW #50, pgs. 39 & 40)
+Star Saga is an interactive novel, played through a stack of 14
+booklets containing over 50,000 paragraphs of excellent fiction. The computer program is non-graphic, the only visuals
+provided are a glossy, color map of the Galactic Arm, colored
+
+stones as player markers, and the players' imaginations. The
+computer's role in the game is akin to a dungeon master in
+live role playing games. The Computer Game Master(CGM)
+keeps track of player movement, trades, combat, and the like,
+doling out paragraph numbers as the situation requires.
+The game begins with each character (from one to six can
+play) on the edge of an unexplored section of the universe
+called the Galactic Arm, each with an individual goal to accomplish throughout the course of the game. From there the
+characters traverse the Arm, explore the unknown, discover exotic locales and uncover strange alien civilizations, in order to
+acquire new info and weaponry that will aid them on their individual quests. The real joy of the game is in discovering and
+exploring each planet, experiencing their individual societies,
+and learning their origins, history, and idiosyncrasies. Hats off
+to Sheila Greenberg for writing some terrific prose!
+Along with exploration, there is a very distinct economic
+phase in the game. The Galactic Arm is a rough section of the
+universe and even the most passive and peaceful of characters
+must be armed to the teeth. This requires the acquisition of a
+myriad of weapons, defenses, and abilities, which of course
+must be purchased, sometimes with money or goods, sometimes with blood. The galactic economy operates on the barter
+system and most planets produce a commodity that they will
+happily trade for a commodity in demand. Success in this
+phase of the game requires a bit of trader's savvy, with trading
+information becoming a valuable commodity in its own right.
+Acquiring that neat Phase Sword and Discontinuity Wave Generator you discovered on Middle Rialla will require a little (or a
+lot of) time, organization, and a trading drone. Trading drones
+travel instantly to any planet in the Galactic Arm and allow you
+to trade with its market. Drones are a must and with their help
+you can eventually build up your ship and personal weapons to
+a respectable level. The economic phase has been changed
+very little from game one. A few of the common trade items
+found in Star Saga One have been dropped and some new
+ones have been added, but the process of trading and building
+weapons and skills has been left virtually intact.
+Combat is a very important aspect of this game and is, unfortunately, completely handled by the computer. Ship and personal weaponry are both divided into six categories: three for attack and three for defense. The computer evaluates your opponent and chooses your best weapons and defenses against
+that opponent. It then gives a score for each category and
+adds them. If your total for the three attack categories adds to
+one hundred, the attack is successful; if lower, it fails. It's very
+simple, though far from perfect. There is no way to know what
+weapons will be effective against a certain opponent. If you are
+defeated in hand-to-hand combat by a Keresk, for instance, do
+you buy a Stun Field or a Phase Sword to improve your combat score? There's no way to gauge weapon effectiveness so
+players usually end up spending the time to buy both. When
+we played Star Saga One, we felt that the combat could have
+been fleshed out much more without changing the balance of
+the game too much. In Star Saga Two, there is much more
+combat than in One, and the frustrations of not being able to
+pick and choose weapons and tactics appears magnified due
+to the increased incidences of conflict. The current game also
+doesn't seem to provide the players with an opportunity to use
+non-violent skills to maneuver around opponents as much as
+Star Sage One did. (Although, if you think of the universe in
+terms of the Old West, the Bible-toting preachers of those days
+also toted a six gun or two.)
+Our group began with three players and fell to two for the last
+half of the game. It seems that a three-man game plays nicely,
+maintaining an interesting level of interaction while allowing
+the game to progress at a fairly smooth pace. As in Star Saga
+One, if a member of the play group is unable to play a session,
+the game has a suspend feature which enables you to lock the
+
+player out of the game and resume playing with the remaining
+characters. The "locked-out" character is frozen in time, relatively unaffected by the other players' actions until logged back on.
+There is a major difference in Star Saga Two from the Star
+Saga One, however. The driving force in Star Saga Two is the
+advance of the Clathran Survey Line, inexorably moving forward, sweeping up worlds, and closing off portions of the
+game to players. Everyone must eventually penetrate that line
+and, if you skip too many sessions and try to get back in the
+game, you may find yourself too far behind! The solution, of
+course, is to play every session and, in all honesty, the addiction of the game makes that fairly easy.
+Though this is a great game, our play group did find a few
+faults worthy of mention. Be warned that the game is very directive. One player felt it so linear that it destroyed the role-playing
+element in the game for him. On the other hand, it's pretty impossible to make a game with this broad a scope and not use
+some traffic copping to get people where they ultimately need
+to be. There's enough to do, and, after the Clathrans have
+been dealt with, enough time to go back and experience all the
+adventures that time necessitated skipping the first time
+around; and players will want to go back and explore further.
+That's a real testimony to the scope and power of the prose.
+After finishing Star Saga One in a four man group, I went back
+and played a different character through solitaire. What I lost in
+surprise was more than made up for in the richness of the additional experiences I encountered. It also broke up the long
+year's wait between games One and Two.
+The game pacing is somewhat uneven. Our first session had
+one player reading so much fiction that he had to skim a few
+paragraphs to keep the game moving. The next session, he
+was trading and had maybe five paragraphs to read the whole
+night. The game phases can be so distinct that it seems somewhat schizophrenic at times. This can be a problem if a few
+
+players are exploring and have lots to read while others are
+trying to move across the game board and trade.
+The game breaks into three phases. There is the initial phase
+of exploration and information gathering, followed by a long
+period of trading and building which climaxes with the successful (hopefully) breach of the Survey Line. That is followed by
+the final phase of exploration leading up to the climactic battles
+for control of the Galactic Arm. The middle phase of trading
+and building is much longer in Star Saga II than in its predecessor. The Clathrans are very tough and that damn Survey Line
+keeps sweeping forward. This is a much tougher and
+dangerous game than the first. Caveat Emptor! No quicheeaters need apply for this one.
+Despite the few faults, Star Saga Two is a wonderfully written
+and produced game that can really glue you to the computer.
+It's a dangerous game in that you can easily and unwittingly
+find yourself playing into the early morning hours, every session! It is tough, and frustrating at times, but a very refreshing
+break from standard RPG/Adventures. The Masterplay people
+have taken another step toward creating a game that truly captures the storytelling capabilities of the computer.
+How does Star Saga Two stack up against its predecessor?
+Just as "The Empire Strikes Back" was a turning away from the
+far-reaching wonders and anticipated excitement of exploring
+the "Star Wars" universe, to the darker and grimmer task of exploring self and combatting the enemy, so too does Star Saga
+Two turn in towards solving the Clathran Menace. Until that
+major obstacle is overcome, all else fades away into possible
+projections of a dark future.
+The journey you make in Star Saga Two will take you
+through more twisted landscapes and into more hostile encounters than ever before, but oh what a ride you'll experience!
+It's definitely an "E-Ticket" in computer games today.
+
+Review
+
+The Dream
+
+Linking Up for
+Tournament Golf
+
+Approaching the 1st
+tee at The Country
+Club, the host of the
+1988 U.S. Open, I
+begin to notice the butterflies forming in my
+stomach. By the time I
+reach the tee of this
+455 yard dogleg left, I
+see numerous trees
+partially obscuring
+several large sand
+traps along the left
+side of the fairway. I
+realize that if I follow
+the safer route and
+play the ball to the
+right, I could be leaving myself a difficult
+240 yard shot to an extremely undulated
+green, guarded by two
+bunkers in the front
+and surrounded by
+deep rough. From this
+distance, the likelihood
+of stopping the ball
+close to the pin would
+be minimal. In fact, failing to execute the perfect shot from this distance would mean
+a difficult third shot from deep rough or
+sand which would probably result in a
+bogey for the hole. Thus, I take aim
+down the middle and plan to draw the
+ball around the corner and toward the
+sand traps on the left. This approach, if
+performed correctly, will set up an easier
+approach shot to the green and a possible birdie. Careful not to overswing, I
+meet the ball squarely, sending it flying
+straight down the middle of the fairway.
+this is not what I had planned, but at
+least it's not sailing off to the right. Luck
+is with me though, as the ball lands and
+takes a favorable bounce toward the left.
+When it finally stops rolling, I am left with
+a simple approach shot to the green
+which I execute perfectly. All that remains
+is a testy five foot putt, which I sink easily
+for a birdie. The tournament has begun.
+Fantasy, or reality?
+
+Reality
+What true golf fanatic has not imagined
+himself competing on tour each week at
+the major golf courses around the
+country? The idea of being able to drive
+a perfect tee shot, 270 yards down the
+middle of the fairway, and follow it by a
+240 yard shot to within a foot of the pin
+for an easy tap-in eagle, can have an invigorating effect on one's psyche. Of
+course, a true hacker like myself realizes
+that such fantasies are never going to be
+a reality. Instead, I have had to resign
+myself to the armchair in front of the
+
+By David S. Stevens
+
+the ball and where to
+land it on the fairway
+in order to obtain the
+best approach shots.
+When shooting at the
+pin, one also has to be
+keenly aware of the
+slopes and contours
+found on each green.
+Landing in the wrong
+location can often
+make the difference between a birdie and
+three putting.
+
+Computer
+Sports Network
+While Mean 18 is an
+excellent golf simulation, golf is more enjoyable when opponents
+TITLE:
+Tournament Golf
+are involved in fierce,
+SYSTEMS:
+IBM
+friendly competition. If
+with Hayes Compatible Modem
+Unlimited
+# PLAYERS:
+you can get together a
+PRICE:
+$49.95
+foursome, you'll find
+Packaged w/ Mean 18 ($69.95)
+Course Disks ($9.95)
+playing a round of
+Weekly Tournaments ($2-$3)
+computer
+golf on
+DESIGNER:
+Scott Brown
+some of the better golf
+PUBLISHER:
+Computer Sports Network
+Houston, Texas
+courses extremely enjoyable. However, at
+times, finding opboob tube. There, each weekend, I can
+ponents can be difficult and simply playfantasize about my abilities while I admire
+ing against the computer can become
+others consistently executing perfect
+boring. Enter Computer Sports Network.
+shots. That was until the advent of the
+By using their Tournament Golf propersonal computer.
+gram and a modem, one can compete in
+Now, each week I find myself teeing off
+a nationwide golf tournament each week.
+on some of the most challenging golf
+One simply runs the Tournament Golf
+courses around the world and competing
+program. The program automatically
+nationally against hundreds of other
+dials and connects the user through the
+frustrated golfers for "funny money". It is
+network. In less than a minute on the
+all possible because of a company called
+average, one can access CSN's host comComputer Sports Network (CSN). They
+puter. Once on-line, one can access a
+brought together the personal computer,
+bulletin board which contains pertinent ina national computer network and
+formation about the tour and other items
+Accolade's Mean 18 to create exciting
+of interest to the players. One can also
+tournaments where one can compete
+check the results and statistics of past
+each week without ever having to leave
+tournaments, as well as the leaderboard
+the house.
+of the current tournament. There is also
+the capability of downloading golf courTips From A Would-be Pro
+ses and other programs from CSN's host
+computer to your own. Finally, one has
+Mean 18 is an award winning, three
+the option of participating in that week's
+dimensional golf simulation which has
+tournament.
+been reviewed in previous issues of this
+publication (numbers 33 & 46). The
+The golf tournaments are played off-line
+game follows the actual rules of golf and
+and follow authentic PGA rules. Four
+has incorporated nearly all the features
+rounds must be completed any time
+and challenges that one would expect to
+during the week. The only stipulation is
+find on an actual golf course, except for
+that once any single round is started, it
+maybe the weather.
+must be completed without interruption.
+To score well in this simulation requires
+In other words, if halfway through a
+that one develop a well-thought-out plan
+round you decide to turn off your comof attack for each hole. One cannot simpputer and depart the course for the day,
+ly just go out and slug away. The risks
+you will be disqualified. Since each round
+and benefits of each shot have to be
+lasts approximately thirty minutes, this
+weighed against one another. Decisions
+should not pose a problem.
+must be made as to which way to work
+(Continued on page 43)
+
+Game Hints
+
+Warning: Although "The Scorpion's Tale" is a warm and
+comfortable tavern of the mind with a nice cozy fire of
+vibrant images, our resident storyteller conjures up illuminating hints about games. If the gentle reader eschews
+hints, let him beware!
+Ahhh, autumn again! One of my favorite times of year (actually,
+any season except
+summer is ok with
+me . . . grin). Fred
+is back from the
+Grues Convention
+and ready to serve
+your favorite
+beverage. We have
+a special on ale
+this month (for
+As Told By Scorpia
+those of drinking
+age), to get you in
+the mood for a little trip through Merrie Old England
+during the time of
+knights and
+chivalry.
+
+will have himself crowned on Christmas Day at noon. That's only
+three days off, so Arthur doesn't have much time.
+Once the churchyard is deserted again, Arthur can start moving
+around. The first place he should move to is Merlin's cave outside
+the town (Merlin told him to, anyway). However, he has to watch
+out for the Invisible Knight. Any time Arthur steps into the
+Meadow, the
+Knight comes
+along and snarfs
+TITLE:
+Arthur:
+The Quest for Excalibur
+anything Arthur is
+SYSTEMS:
+Apple II (w/ 128K)
+carrying.
+Macintosh (with 512K)
+
+Scorpion's
+Tale
+
+"Arthur" is based
+on the King Arthur
+and the Round
+Table legends, of
+course. As you
+might expect, the
+game deals with
+his getting Excalibur from the
+stone to prove his
+right to rule
+England. Since, in
+legend, Arthur
+simply walked up
+and pulled the
+sword from the
+stone, a few (well,
+more than a few)
+changes needed to
+be made.
+The game has online hints, but the
+best way to play is
+with them off. However, you should bring them up, at least once,
+to read the notes. They provide some interesting background information to the game.
+Basically, Arthur must prove he has what it takes to be King.
+This involves solving a lot of puzzles and accumulating a whole
+bunch of points: quest points, experience points, wisdom points,
+and chivalry points. When he has a high enough score in each
+category, he can pull the sword free and be acclaimed King.
+It all starts in a churchyard where Arthur first tries, unsuccessfully, to pull the sword out. Merlin appears and gives him a pep talk,
+then vanishes. Soon after, the soldiers of the evil King Lot arrive
+on the scene. As there's a curfew on these days, Arthur needs to
+get out of sight, fast . . . or the game will be a short one.
+Arthur watches while Lot has his soldiers cart off the stone,
+sword and all. Obviously, Lot is up to no good here. The next
+morning, Lot appears on the churchyard steps, apparently wielding Excalibur. After giving a hyped-up talk to the assembled
+peasantry (the man definitely has a way with words), he says he
+
+REVIEWED:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Supports Mac II Color
+Apple II
+Apple II ($39.95)
+Macintosh ($49.95)
+Bob Bates
+Infocom
+Cambridge, MA
+
+Yes, it's that tired
+old thief routine
+that went out (or
+should have) with
+Zork I. Unfortunately, you'll have to
+put up with it here,
+at least until Arthur
+finds the means of
+thwarting the
+thefts. Until then,
+Arthur should avoid
+going into the
+meadow carrying
+anything of importance as much as
+possible. So, Arthur should drop
+what he's carrying
+before leaving
+town (you have to
+go to the Meadow
+to reach Merlin).
+
+At the cave, Merlin gives Arthur the
+ability to change
+into five animal
+forms: badger, owl,
+salamander, turtle,
+and eel. Each of
+these forms will be
+necessary to solving all the puzzles
+in the game. The
+owl, in some ways,
+is the best, since as
+a bird you can fly almost anywhere, including places you might
+not be able to reach in your human form without great difficulty.
+It is also a fast way of travelling from place to place.
+The only drawback is that you can't carry anything as an owl (or
+as most other creatures). Ergo, the owl form is good for scouting
+and some other purposes, but it's not an easy way to get around
+obstacles that must be passed by solving puzzles.
+After visiting Merlin (don't forget the bag!), Arthur should explore the environs past the Meadow, where he will soon come
+across the Red Knight. The Knight guards the entrance to a
+causeway that leads to an island in the middle of a lake. In order
+to get past the Knight, Arthur must give him four special objects:
+a golden fleece, the hair of a dragon, the tusk of a boar, and the
+egg of a raven. Obtaining these items forms the bulk of the
+game and the trials Arthur must pass to prove himself worthy of
+Excalibur (Arthur can reach the island in animal form, but it won't
+do him much good).
+At this point, doing some exploring (as a human and otherwise)
+is a good idea. The game has an auto-mapping feature (with
+
+separate maps for human and animal forms, by the way) but it is
+something of a pain to use on the Apple (more on that later), so
+you may want to make your own as you go along.
+Once you have a fair idea of what's where, Arthur can get down
+to the serious business of proving himself the stuff of Kings. A
+visit to the tavern in the town is certainly in order. Arthur should
+pick up some information here as well
+as an item or two.
+Don't worry about
+being kicked out;
+only one visit is
+necessary (provided
+you get what you
+need).
+Moving right along
+to the badger hole
+(could anything be
+more blatant?) by
+the smithy, a trip inside is definitely in
+order. Interestingly
+enough, the badger
+den is right next to
+the castle prison. Inside the prison (the
+means of entry is
+rather obvious), is a
+prisoner of great importance. Arthur is going to have to get the man out of the
+castle. It's the chivalrous thing to do, after all, and besides, he'll
+tell Arthur where to find something he needs.
+Of course, there's a guard to dispose of first. Arthur will have to
+be a bit physical here. Then, there's the matter of leaving the
+castle. Arthur, of course, could just fly off as an owl, but that
+doesn't help the other man much. However, poking around passageways and listening in the right place should provide the
+means of leaving, although a visit to the armory should be made
+before bidding a fond farewell to the castle for now.
+Also in the badger hole, just a quick jaunt south of the den, is
+the badger maze, full of twisty little passages, all alike. Yes, you
+do have to go through it. Sigh. Since you can't carry anything to
+drop, you'll have to think of another way to keep your place, so
+to speak. I wonder if being in this place makes you feel itchy?
+Somewhere along the line, you'll look in at the cottage on the
+moor. The poor peasant inside appears to be in bad shape. Then
+again, that's not surprising. It's not too warm in here, after all.
+Well, don't just stand there gawking, Arthur, help the poor man,
+for peat's sake!
+And let's not overlook the Kraken in the lake (even if you'd
+prefer to). Examine him carefully (just don't get too close). How
+pretty! Wouldn't you just love to have that little bauble? Too bad
+you can't carry a weapon underwater. That would help a lot.
+What can you do about this? (Ever play Zork II? Remember the
+dragon?).
+By this time, you'll probably want to do something about the Invisible Knight. So, a trip to the ivory tower is in order. Of course,
+if you joust had a key to open the door, it might be easier to get
+inside (hehe).
+Inside the tower, be sure to explore everywhere. Arthur has to
+answer a riddle (the name of the old man in the tower) and the
+clues are all there. Still, it won't be all that easy, as the name is
+somewhat concealed. I hope Arthur knows his alphabet well.
+Once that's taken care of, Arthur can pay a visit to the Invisible
+
+Knight and get back anything that might have been stolen (and
+the knight won't steal anything again). The knight also has an
+item that Arthur can use, but first . . . another riddle (riddling was
+a big pastime in those days). This one is a little easier, actually,
+and I know I can count on you to solve it pretty quickly. Arthur is
+now able to get the first of the four objects he needs for the Red
+Knight.
+Which object
+should be next?
+Well, the boar is not
+too difficult. As a
+matter of fact, Arthur doesn't even
+have to fight him (it
+would be a pretty
+uneven fight). A
+boar, you know, is a
+sort of wild pig.
+Think about a
+whole roast pig for a
+moment, and you'll
+get the idea.
+You may be
+wondering about
+the Black Knight. Arthur does have to
+defeat him in combat. It's the only way
+to get across the
+river with items in hand (animal forms can, of course, do it easily,
+but they can't carry anything). However, it's not something to try
+too early in the game, as Arthur will do better should he have a
+fair amount of experience under his belt. Save the game before
+making the attempt. If it's clear that Arthur isn't going to win, try
+again later.
+Beyond the river, as you probably knew before this, is the
+dragon (yes, the one with the hair). Dealing with him is rather
+simple, provided you've done the right things at the glade in the
+forest. Then, it's into the cave for some real fun.
+Spooks! All sorts of ghosts (including those of things you may
+have killed up to this point) start popping out of the woodwork,
+so to speak. Feeling scared? There's no need. After all, ghosts
+are immaterial.
+Past the ghosts, you will find two rooms (in different directions).
+One is the Cold Room. Brr, is it cold in here! How cold is it? Cold
+enough to make your very words freeze (now, THAT'S cold!). Too
+bad Arthur doesn't have a parka (this isn't a place to linger).
+The other room has an occupant. The occupant is a basilisk.
+Basilisks are relatives of Medusa: one look and you're stoned .. .
+literally. So, you better not look, at least not straight on.
+There's another room after that one. It's the Hot Room. Whew,
+it's hot in here! How hot is it? Hot enough to dry up your throat
+and tongue (now, THAT'S hot!). Arthur wouldn't want to stay in
+here too long, either. Now, if he could just say the magic word
+that would open the door, he'd be ok.
+And in that last room is . . . a pretty young girl? Sure about
+that, Arthur? I wouldn't be, if I were you. It's really the demon
+trying to fake you out. That's about all he can do, since he happens to be chained (the chains aren't fake) to the chair. He also
+happens to be sitting on the fleece.
+But has he got a deal for you! Just open the manacles, and you
+can have the fleece. Easy, eh? Of course, demons aren't known
+(Continued on page 45)
+
+Contest
+
+Name
+That
+Game!
+The art department was sitting around
+the other day trying to find something to
+do (the department only works one week
+a month you see). Suddenly, and without
+warning the "art department" sat up in
+his chair. "Hey, let's do another contest!
+But, let's not do those quiche eating overly easy contests the editorial department
+comes up with. Let's kick buttski!" So
+here it is.
+Here are twelve images that appeared
+on game box covers in the past eighteen
+months. Can you identify the name of
+each game? Hint, the games in question
+were all mentioned in some fashion in
+the pages of CGW.
+Submit your answers to CGW Contest
+Dept., P.O. Box 4566, Anaheim, CA
+92803. Entries must be postmarked no
+
+later than October 16, 1989. The winner
+will receive a three-year subscription (or
+three year renewal) to CGW. In case of a
+
+tie, a winner will be determined by lot.
+Look for winner's name and answers in
+November CGW.
+
+(Continued from page 38)
+
+Tournament
+
+Golf
+
+Once a round is completed, your score
+card can be turned in the next day, or
+whenever it is convenient. Score cards
+are automatically submitted to CSN's
+host computer the next time it is accessed. The score card must, however,
+be transmitted prior to starting another
+round and the final round's score card
+must be turned in prior to the end of the
+tournament, which is Sunday at midnight. At the end of the week, the one
+who has the lowest score is the winner
+and is awarded a trophy along with
+points which simulate the dollars awarded
+in pro tournaments.
+At the beginning of each tournament
+round, the "Tournament Golf' program
+checks to ensure that the correct unaltered golf course is in use and then invokes Mean 18 to begin the tournament.
+During play, it maintains a record of all
+shots. This record is also submitted to
+CSN's computer at the end of each
+round. Thus CSN is able to maintain a
+
+myriad of statistics on one's performance.
+Some of the more common statistics are:
+average driving distance; per cent of fairways hit; per cent of greens hit in regulation; average putts per hole; average
+score per round; and per cent of subpar
+holes. One's ranking in each of these
+and other categories is also maintained.
+While Accolade has developed a number of golf courses which are used in the
+tournaments, CSN has also modeled additional courses. They currently have five
+volumes, with three courses on each
+disk. Some of these courses include
+Sawgrass, Pinehurst, Cypress Point, Oakmont, and the PGA West Country Club.
+A sixth volume is in the works.
+CSN has a toll free number, 800-7274635, which can be used to obtain an
+user ID and password, as well as to order
+any of their products. No PGA qualifying
+school is required to join this tour.
+
+In The Club House
+In February 1988, CSN started with thirty players competing in their first tournament. Currently they have over 500 mem-
+
+bers competing on the tour with an
+average weekly participation of over 100.
+During the 1989 season, CSN plans to initiate a handicap system and expand to
+three different tours based on one's
+ability.
+I have found participating in CSN's tournaments to be exhilarating. Each hole
+must be carefully analyzed. Every shot is
+critical. As one begins to master the
+ability to hit the ball consistently with just
+a slight draw or fade, the desire to obtain
+extra yardage on each shot increases.
+The extra yardage obtained on a tee shot
+can often simplify one's approach shot
+and increase the probability of making a
+birdie. But an errant tee shot caused by
+the overswinging can also spell disaster.
+For those tired of competing against
+just the computer, CSN can provide plenty of stiff competition on some of the
+world's most challenging golf courses.
+That is something that neither family,
+time, nor ability would allow us to experience in "the real world."
+
+(Continued from page 41)
+
+for their trustworthiness. On the other hand, Arthur can't just pull
+the fleece out from under him. Looks like Arthur will have to accept the demon's offer.
+However . . . there's a trick involved here. If Arthur is really
+clever, he can avoid freeing the demon while still obtaining the
+fleece. The demon really is bound by the contract between him
+and Arthur, so it's very important to notice exactly what he says.
+So, at last, Arthur has everything and can go running off to give
+them to the Red Knight. There is, though, the little matter of
+waking the Lady in The Lake. For that, you should pay close attention to the poem on the inside cover of the manual (the
+manual, not the book of hours). Be aware also that you'll have to
+wait a bit before the event. It won't happen at midnight, but quite
+some time after.
+Once she's been awakened, you'll have what you need to challenge King Lot to a duel. The only problem with the duel is that,
+after all this business about being brave and chivalrous, you win
+by what is essentially a cheap trick, rather than by skill or force of
+arms. This takes the edge off the victory.
+Anyway, once you've put Lot out of the picture (no, you don't
+kill him), you can finally pull out Excalibur and be proclaimed
+King of England.
+Before closing the Tale for this issue, however, I must mention
+some problems. Arthur is Infocom's most poorly produced game
+ever. The number of disk swaps and disk flippings (the game
+comes on three double-sided disks on the Apple) is simply outrageous, even in all-text mode. When you have to change disks
+because part of a paragraph is on one, and the rest on another,
+you know something is wrong with the design. This is also sometimes necessary with a single sentence.
+The auto-mapping, while very nice, suffers from the same flaw.
+As you get further into the game, the map naturally becomes
+more detailed, and a lot of disk swapping is required as the map
+is re-drawn.
+The Apple II graphics are mediocre at best and are slow to
+come on. On the other hand, the basic Macintosh graphics are industry standard and the Mac II graphics look very nice.
+Disk access is generally slow. Your best bet is to forego pictures
+and map in order to play in all-text mode. It will speed things up
+a little, at least.
+Speaking of disk access, the Apple II version is not very bright
+in some circumstances. For example, it tells you to put, say, Side
+2 in Drive One. Then it goes looking for the disk in Drive Two
+first. Why? I have no idea, but that's what it does. Also, you have
+to be careful when restoring a position. If you put the wrong disk
+in the drive by mistake, or if you type in the save name wrong,
+the game will buzz between the drives for awhile, then tell you the
+save failed, and you'll have to do it over again. If you have a hard
+drive, I recommend using it; your life may be a little easier.
+Well, that's it for this time. Remember if you need help with an
+adventure game, you can reach me in the following ways:
+On Delphi: Visit the GameSIG (under the Groups and Clubs
+menu). On GEnie: Stop by the Games Roundtable (type: Scorpia
+to reach the Games RT). By US Mail (enclose a self-addressed
+stamped envelope if you live in the Unites States): Scorpia, PO
+Box 338, Gracie Station, New York, NY 10028.
+Until next time, happy adventuring!
+Copyright 1989 by Scorpia, all rights reserved.
+
+(Continued from page 9)
+
+Curse of the
+Azure Bonds
+unfortunately, nothing much really
+comes of it) happens in Rakshasa
+country, a small part of the Myth Drannor
+ruins. You can, if you wish, become involved in a gambling dispute between
+two Rakshasa, which leads to a "who do
+you trust (if anyone)?" situation.
+Another is in the sewers under Tilverton. A group of Otyughs will gladly trade
+you the "shiny thing" in their dung heap,
+if you bring them the choice piles of filth
+collected by some neighboring otyughs
+(this is actually a fair trade; the otyughs
+won't renege if you bring them the garbage).
+More incidents like those, but having a
+definite effect on the game, would be a
+big plus. The ability to make deals with a
+faction, or join one, or play one against
+the other, properly fleshed out, could add
+a stronger role-playing element to the
+game. The addition of a few puzzles
+would also be welcome.
+These considerations are especially important now, as the characters have
+reached (by game's end) fairly high levels,
+where huge amounts of experience are
+necessary to advance. If character transfer is to remain a part of the series (which
+I certainly hope it does), then emphasis
+needs to be placed on role-playing,
+rather than a lot of fighting. The true
+heart of AD&D is not rolling the dice, but
+the relationship between the characters
+and their world.
+Bottom line: Standard follow-up; better
+than POR in some ways, but combat still
+predominates.
+Copyright 1989 by Scorpia, all rights
+reserved.
+
+SSI Interoffice
+Memo
+Date: 8/2/89
+To: George MacDonald, Project Leader
+From: Scot Bayless, Programmer
+Subject: Scorpia's Hit Probability
+Questions in CGW's Azure
+Bonds Review
+OK, they got us. You're right. We don't
+always give the player an even break. In
+fact, there's even a place in the game
+where we boost the monsters' THAC0 and
+hinder the players'.
+The basic method for determining
+
+Azure Bonds Playing Tips
+
+T
+
+he
+
+best order for removing the bonds is
+Tilverton (Fire Knives), Yulash
+(Moander), Haptooth (Dracandros), Zhentil Keep (Fzoul/Beholder), and finally Myth Drannor (Tyranthraxus). Remember when fighting
+Drow that they are highly magic resistant and
+spells usually don't work.
+Note: the Beholders under Shadowdale are
+really there and they are best left alone. One is
+bad enough; ten or so are just a bit much (we
+won't even mention the Dark Elf Lords, Rakshasas, and High Priests).
+Tilverton: Search the Thieves Guild before
+going into the sewers; their treasury has some
+very nice items. Ditto for the Fire Knives
+hideout (Their armory has a couple of good
+swords, including a +3 Frostbrand).
+Yulash: Buy a couple of magic missile
+wands from Zhentil Keep first. Yulash is under
+siege, so try to avoid encounters with the
+marauders (as well as crumbling walls and
+sinkholes) on your way to the Pit. Do fight the
+Shambling Mounds by the cleric's body; you
+will obtain a wand of defoliation and a wand of
+lightning (stinking cloud, by the way, will affect
+the mounds).
+Inside the pit, take Alias and Dragonbait into
+the party. In the encounter with Mogion and
+company, use your regular spells (fireball does
+nicely) against the cultists to wipe them out
+fast. Try Hold Person on Magian (works about
+50% of the time) so you can kill her easily (AC 5 is not easy to hit), leaving you only the
+mounds to deal with.
+Use magic missile wands, the wand of defoliation and hack'n'slash to defeat the critters.
+After they're all down, do not end combat.
+First, heal up everyone who is in need of it (or
+at least in dire need), because you will have to
+fight three "Bits O'Moander" when you end
+combat. Each of them is a nasty super Shambling Mound of AC 0 and 140 hitpoints. Don't
+even think of running. You have to kill them.
+Haptooth: Clean out the Drow by walking
+around the village and fighting every patrol
+until there are no more. Head for the barn and
+the major encounter there. If you kill off the
+patrols, there will be fewer Drow to fight in the
+barn (the dark elves in the barn are clerics and
+
+whether a friendly character's attack succeeds is fairly simple:
+
+IF Random(20) - THAC0 +
+THAC0MOD > = - AC THEN Hit
+Enemy attacks are calculated similarly:
+
+IF Random(20) - THAC0 > =
+- (ACMOD + AC) THEN Hit
+Notice the terms THAC0MOD and
+ACMOD. These are values that our
+authors can use to alter the hit probabilities of friends and foes to account for
+circumstances like bad footing, poor light
+or whatever.
+Scorpia's observation about the Otyughs
+is, in fact, entirely correct. When you first
+
+mages exclusively). When the Drow are
+defeated, you will be able to go through the
+caves to the Red Tower. Avoid the NPC mage
+Akabar. He throws his spells with wild abandon, especially fireballs, and is likely to toast
+your entire party. He isn't evil, just stupid.
+Red Tower: You don't have to fight the
+dragons. Just be nice. Against the Dark Elf
+Lord (a toughie), F/MU's with Blink active are
+good (Fire Shield will not work). On the way
+down, it's best just to make for the next stairs;
+there isn't much in the rooms. Two traps in the
+tower: one is a note (my MU/Thief was able to
+read it safely) and the other is a trapped stairway (no way to avoid unless the note is safely
+read). The combat with Dracandros and
+friends should not be too hard. Hint: he
+generally uses a cold fire shield.
+Zhentil Keep: This will be the hardest, and
+most frustrating, battle of the game. Your opponent is a Beholder, whose powers include
+disintegration, death ray, petrifaction, and
+others. He can use four of these powers per
+round. You will have to rely entirely on saving
+throws to survive.
+This is bad enough, but he isn't alone. He
+has a troop of Minotaurs, plus a Medusa, with
+him. Thus, on the first round, you must get rid
+of them quickly so your fighters can run down
+to the Beholder lurking in the second rank.
+Then it's just a matter of hacking at the Beholder, and keeping your fingers crossed that
+no one fails a saving throw, until you defeat
+him. When it's over, heal up anyone who needs
+it before ending combat. Once again, there is
+an immediate conflict set up to take effect
+when you end combat. When that's done, you
+will be able to save the game (whew!).
+Myth Drannor: Visit the Elven Queen in the
+crypt; you will get some nice things from her.
+Watch out for Rakshasa in disguise. At the final
+encounter with the Big T, follow the same plan
+as with the Beholder: wipe out the auxiliary
+troops (margoyles and high priests in this case)
+to clear a path. Tyranthraxus is vulnerable to
+weapons and high-level spells. A high-level
+ranger can do a lot of damage to him, because
+of the storm giant body. Speed is essential, to
+prevent characters being killed by lightning
+bolts. Good luck!
+
+enter the Tilverton sewers, you get a message warning you about slippery footing
+and combat being difficult. What you
+aren't told is that while you're in there
+THAC0MOD is set to -2 and ACMOD is
+set to +2. In effect, the good guys are all
+at -2 to hit and the bad guys are at +2.
+Ouch!
+Obviously, the Tilverton sewers aren't the
+only place where probabilities get skewed.
+Like all good DM's, our authors bend the
+dice to suit the story. Of course we usually
+drop some pretty broad hints in the narrative text. So, if it looks like you're not getting the die rolls you should, odds are
+you're not.
+
+Reader Input Device
+
+I
+
+

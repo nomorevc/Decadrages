@@ -1,0 +1,4879 @@
+November 1989
+
+Number 65
+
+Features
+Lights, Camera, Action for Indy
+
+16
+
+Lucasfilm's "Last Crusade" Action Game / David M. Wilson
+
+Accolade's "Don't Go Alone"
+
+18
+22
+24
+28
+30
+
+Software Toolworks' "Cribbage King/Gin King" 32
+A New "Deal" for Card Sharks / Michael S. Lasky
+
+34
+
+Britannica Software's "Revolution '76" / Alan "the" Emrich
+
+"Decisive Battles" Gets A Face Lift
+
+36
+
+"DBACW: Volume II": A Second Look / Dr. Jay Selover
+
+Krellan Kill Zone
+Interstel's "Star Fleet II" / M. Evan Brooks
+
+Lights, Camera, Graphics for Indy
+
+72
+
+Origin's/CGW's "Omega" Tournament
+
+84
+
+Monthly Tournament Results
+
+Excerpts From a Unique New Book / Peter J. Spear
+
+"Run For Your Fife"
+
+68
+
+Lucasfilm's New Graphic Adventure / Charles Ardai
+
+Own Your Own Pro Team / Michael Chaut
+
+"The King's Quest Companion"
+
+Koei's "Bandit Kings of Ancient China"
+"Ho! Ho! Ho! Merry Christmas" / Johnny L. Wilson
+
+Elven Magic for Santa's Helpers / CGW Staff
+
+SportTime's "Omni-Play Basketball"
+
+52
+
+Origin's "Omega"
+A Cybernetic Tank Simulator / Russell S. Sipe
+
+Microprose Updates A Classic / M. Evan Brooks
+
+Christmas Buying Guide
+
+44
+
+SSI's "Sword of Aragon" / Biff Kritzen
+
+A Look at a New Horror Game / Scorpia
+
+F-15 Strike Eagle Comes of Age
+
+A Strong Right Arm
+
+40
+
+Departments
+Editorial
+Contest Results
+Taking A Peek
+Letters from Paradise
+Inside The Industry
+Rumor Bag
+Over There (A New Column)
+Game Ratings/Hall of Fame
+Conversions Received
+Reader Input Device
+
+4
+4
+6
+8
+10
+12
+14
+48
+94
+96
+
+Contest
+
+"Name
+The
+Game!"
+Contest
+Answers
+Only nine perfect entries were
+received on our
+Name The Game
+Contest from
+CGW #63 (September). Five of the nine came from
+the Midwest, two from the East
+Coast, and two from foreign
+countries. Hey, all you laid back
+readers in the West, whut (sic) happened? Gerrie Adams, our lovely
+circulation manager, picked Paul
+Butler's entry out of a hat as the
+overall winner of a three year subscription to CGW. Paul is from
+Aberdeen Scotland. Thanks a lot
+Gerrie! Do you know how much
+postage a three year subscription to
+Scotland is going to set us back!?
+Oh well! Congratulations Paul!.
+Ok, all you dudes in the West,
+lets make a better showing in our
+next contest coming up in
+November.
+
+"Name The Game"
+Contest Answers
+(See CGW #63, September,
+page 42 for the questions)
+1. Wayne Gretzky Hockey
+2. Wings Of Fury
+3. Typhoon of Steel
+4. Knight Games
+5. Modem Wars
+6. Renegade
+7. Might & Magic II
+8. Rocket Ranger
+9. Ultima V
+10. Twilight Zone
+11. Paladin
+12. Carrier Command
+
+Editorial
+
+The Good,
+The Bad
+& The
+Uncertain
+The State of the Industry: For many
+of us, there is an indelible image from
+the opening moments of the Academy
+Award winning film, "The Graduate". A
+party is being given for Dustin Hoffman's
+character, but his alienation from the
+value system of his parents is emphasized
+by a middle-aged businessman walking
+up to him and offering one word of advice, "Plastics". In the film, it is clear that
+Hoffman wants nothing to do with business/industry and that the very term
+strikes him as "plastic".
+In today's computer entertainment industry, there is an old term with new spin
+which must be dealt with, "video games".
+Dedicated game machine technology is
+significantly impacting our world. Epyx
+will cease to be a "publisher" of diskbased computer entertainment at the
+end of 1989, focusing instead on
+"developing" software for dedicated game
+machines and incidentally, software for
+other companies. Cinemaware, as noted
+in last issue's "Rumor Bag", has become
+an Affiliated Label with Electronic Arts
+Distribution, in order to concentrate
+their attention on developing games for
+new technology and NEC's Turbo Grafx
+16. In addition, Spectrum Holobyte has
+already announced its plans for developing Falcon for the Sega Genesis
+machine.
+Further, Lucasfilm is establishing a
+video games group in order to enter the
+Nintendo market. In an exclusive conversation with CGW, Lucasfilm sources indicated that, as of press time, substantive
+discussions were being held with NEC
+and "others". Also, Electronic Arts' "Initial Public Offering" specified that the
+largest portion of capital to be generated
+was for video game development. In a
+similar vein, inside sources at Dynamix
+guardedly admit that much of their current digitizing development is being conducted with an eye toward future CDROM products.
+
+What does this mean for the sophisticated computer gamer? At first, gamers
+can expect to see the disk-based software
+publishers porting their best-selling
+designs into video game versions. This
+would be the most efficient way to enter
+the market. Eventually, however, one can
+expect to see original designs which take
+advantage of the improved graphic and
+memory capacities of the newer game
+systems. Then, the disk-based gamer
+could possibly find himself/herself in the
+same "pop" cultural backwater as the orphaned 8-bit owners of a few years back.
+The State of the Magazine: To date,
+there really haven't been very many
+original video game products which merit
+the attention of CGWs readership. However, and this is a big distinction, the
+renewed emphasis and influx of capital
+seems certain to change this. Therefore,
+we will pledge to be industry watchers.
+When changes occur, we will strive to
+monitor them and alert our readers to
+those changes which will impact them.
+As of press time, however, the future of
+disk-based entertainment software seems
+somewhat uncertain.
+At present, the best course of action for
+our readers is to vote with your dollars. If
+sales figures for disk-based computer
+games seem soft, we can expect to see
+less and less great products on PCs in
+the future. If the challenging, deep, and
+high quality disk-based products sell particularly well, however, we can continue
+to expect publishers to support our
+machines in the future.
+Special Announcement: Dungeon
+Master, winner of the 1988 Special
+Award for Artistic Achievement, has been
+inducted into the CGWs Hall of Fame
+after a significant tenure at the top of the
+Reader Input Device ratings. See the listing on page 49.
+
+Taking A Peek
+
+Broderbund
+17 Paul Drive
+San Rafael, CA 94903
+WHERE IN TIME IS CARMEN SANDIEGO?: That slippery criminal genius,
+Carmen Sandiego, and her V.I.L.E.
+henchmen are on the prowl again. But
+you won't find them traipsing around
+the U.S., Europe, or the globe. At least
+not in this time. Carmen has stolen the
+secret of time travel and is now filching
+famous artifacts throughout history.
+Players track the criminals across the
+globe and over the centuries while investigating clues using the packaged copy
+of the "New American Desk Encyclopedia". A fun, educational, adventure package for all ages. IBM ($44.95).
+Circle Reader Service #1.
+
+General Quarters Software
+28631 S. Western Ave.,
+Suite 101
+Rancho Palos Verdes, CA
+90732
+
+cruiser fleets and subs, the British must
+defend the British coastline and commercial sea interests against the marauding
+Germans. One or two players compete
+in this deadly game of "hide and seek".
+IBM ($35.00). Circle Reader Service #3.
+
+MIDWAY: This simulation of the WWII
+naval battle between the U.S. and Japan
+allows players to control either side or
+play solo as the Americans. The game
+contains several different initial Japanese
+deployments, thus increasing the challenge to the American player. IBM
+($35.00). Circle Reader Service #2.
+
+Electronic Arts
+1820 Gateway Drive
+San Mateo, CA 94404
+
+PRELUDE TO JUTLAND: Players get
+a chance to control the British interceptor fleet in this game of WWI battlecruiser action in the North Sea. With
+seven battlecruisers, augmented by light
+
+INDIANA JONES AND THE LAST
+CRUSADE ACTION GAME: Players
+search a giant cavern looking for the
+Cross of Coronado, escape across a
+moving circus train, explore a Venetian
+catacomb looking for the Grail Knight's
+shield, scale the walls of Schloss Brunwald, dodge Nazis on a zeppelin, and
+survive the Grail Temple test (whew!) in
+(Continued on page 92)
+
+Letters
+
+there was a total replacement of the design
+team in mid project (a very rare occurrence.).
+As for the marketing departments, they
+might be due something of a reprieve. The ad
+agencies and marketing departments must
+often coordinate an advertising campaign for
+a particular product six months to a year in
+advance. They must also commit to the space
+in the magazines a significant time in advance. Thus, they are victimized by the delay
+as much as the consumers. In fact, they may
+actually be hurt worse, because they are
+spending more money on promoting the
+product before they can possibly recoup any.
+
+Please Release Me
+This letter was posted to CGW via the
+PRODIGY® interactive personal service.
+I read CGW and find it a good source of information. As an insider, can't you let us know
+what we can do as buyers of these games to
+get the software companies to be more realistic
+in their release dates. You may have heard this
+before, but it gets annoying. As a comic book
+fan, I experience the same thing with release
+dates on comics. What is it about marketing
+people that they have to push release dates
+that are not met. I could see it if it happened
+once in awhile, but it is now the norm for
+release dates to be a bunch of baloney!
+I also realize that some of us in our quest tor
+news about what is latest and greatest may
+cause some of the problem. This type of hype
+with no delivery or very late delivery has to hurt
+sales. It probably also leaves a bad taste in the
+mouths of people waiting forever for the likes
+of Harpoon and others. Sometimes I think the
+overhyping (if I may make up the word) leaves
+us wanting when we actually see the finished
+product. When we get it and boot up it is anticlimactic and we let ourselves in for a letdown
+because the anticipated product is better than
+the real thing. But, I digress. Again I ask, what
+can we all do to let the software people know
+that we want it to stop and that it is irritating to
+have to be subjected to this type of treatment
+which I feel shows a lack of concern for the
+buying public?
+Thomas Del Conte
+DHKJ71A
+
+Ah, the release date question surfaces once
+more. During the last two years, CGW has
+made a concerted effort to avoid announcing
+specific release dates in our editorial
+coverage. In artistic endeavors which involve
+teams of people and technical problem-solving, it is impossible to be absolutely certain
+as to when the project will be finished. Some
+parts of the project come together easier than
+others and designers/developers tend to build
+in benchmarks based on these optimal time
+frames rather than more realistic ones. We
+have tried to speak of seasonal releases
+rather than specific release dates, because
+most games which miss the projections do so
+by only a few weeks rather than a few
+months. An obvious exception is Harpoon. As
+the designers pointed out in CGW #62 pg. 42,
+
+As for what consumers can do about the
+problem, there are limited options. Writing letters is certainly one way to get a company's
+attention. Refusing to pre-order products from
+companies with poor track records in terms of
+timely releases is a more emphatic way.
+
+Degenerative Nerve
+Concerning the game Omnicron Conspiracy,
+advertised in the July issue of your magazine, I
+cannot help but express the repugnance I felt
+on seeing the ills of society turned into a game.
+As an educated adult, I can see this type of
+thing for the offal it is; however, a younger person not yet possessing mature judgment in all
+probability would not.
+Am I advocating the abridgement of your
+First Amendment rights by asking you to censor such trash? Absolutely not. Print what you
+like. I would say, however, that as advertising is
+intended to sway the judgment of your readers,
+then by the same token, I am entitled to attempt to sway your judgment by stating my
+views on what you print.
+One would expect to find advertisements for
+such products as Omnicron Conspiracy in the
+back pages of some scuzzy girlie magazine, not
+in your publication. This type of advertisement
+does a disservice to our society and exhibits a
+degeneracy of principles, morals and propriety.
+Claude Peachey
+Myrtle Point, OR
+
+Actually, Claude, we have turned down advertisements because we felt they were inappropriate for our readership in terms of tone,
+content and quality. We didn't find the tonguein-cheek science fiction adventure in question
+to be offensive. As for your concerns about
+tuming the ills of society into a game, please
+note that the ad said "You'll be tempted lour
+emphasis] with cheap booze, wild sex and
+mind-altering drugs." Temptation is not the
+same as giving in to temptation and, in this
+particular case, players would be penalized
+for taking the mind-altering drugs. As for the
+"wild' women, the extra-terrestrial appearance
+(hence, unreality) should have been obvious
+from the green-skinned "woman" in the ad.
+Detective stories have always dealt with the
+seamy underside of society, whether it be
+Dashiell Hammett and Raymond Chandler or
+
+Robert W. Parker and Dick Francis. In any
+form of art, one cannot adequately depict the
+triumph of good over evil without sufficiently
+portraying the evil.
+
+Keyboard Counterpoint
+I am a wargamer who mainly plays with
+paper and cardboard (Squad Leader, etc.). I
+purchased Bomb Alley, my first computer wargame in 1984. I loved it at first, but then I
+found the computer player to be rather a
+blithering idiot. This problem has yet to be
+solved and I can sympathize with the technological constraints.
+What I do not understand is why software
+manufacturers make it so difficult for more
+than one player to participate. With most computer wargames, the player who is not at the
+computer must twiddle his thumbs while the
+other is at the computer. This problem could
+easily be solved by using the computer to print
+all information necessary for both players and
+then, using the keyboard only to input orders
+which the players have simultaneously written
+down.
+The only game I have successfully played
+with more than one player is Cartels and
+Cutthroats. I've, in fact, played it with six. In
+Cartels, players can quickly look at their data
+without inputting any orders. After looking at
+the data, they can make decisions at their
+leisure somewhere else in the room. When
+everyone is done writing orders, all orders are
+input into the computer very quickly. This
+made for a fast-paced six player game with lit
+tle idle time for any of the players.
+
+Stellar Crusade is the only computer wargame I have found with as much detail as
+many of the boardgames I have played. The
+computer player is an idiot, and I can't play the
+game with a human because no one wants to
+play musical chairs with the keyboard. Why
+can't all the information be printed out so that
+we can take out turns simultaneously, using
+the keyboard only as an order input device?
+Chris Kolenda
+Richmond, TX
+
+We liked Dan Bunten's now out-of print Cartels and Cutthroats, too. In fact, your letter
+prompted us to wonder why print-outs of
+game positions were not a standard feature in
+computer wargames. So, we asked Strategic
+Simulations, Inc., publisher of the games you
+mentioned, why it was not. The informal survey of their development personnel indicated
+that "Although it sounds simple to have maps
+printed, there are so many different types of
+printers available that configuring our games
+to work with most of them would entail a
+major amount of work. At this point in time, it
+seems that most people are concerned with
+the best sound and graphics in their games,
+so that's what SSI is currently concentrating
+on."
+Nonetheless, CGW agrees with you and
+asks the manufacturers to give serious consideration to your suggestion. If maps are too
+difficult, then they could at least give us unit
+data.
+
+Industry News
+
+Inside the Industry
+News, Notes and Quotes From the
+Computer Entertainment Industry
+Massive Layoff
+at Epyx Signals
+End of Era
+On September 15, 1989,
+Epyx officially released more
+than half of its work force.
+Some sources indicated to
+CGW that as many as 60
+out of 76 total employees
+may have been given notice.
+The shocking layoff signaled
+major changes at the
+software publisher which had
+been specializing in action
+computer games since its inception as Automated
+Simulations in 1979. According to company
+spokesperson, Noreen
+Lovoi, Epyx plans to
+withdraw from its position as
+a full service publisher by
+the beginning of 1990. The
+company will finish developing and market the titles already announced for the
+holiday season (like California Games 11 and Ishido),
+but will focus on developing
+games rather than publishing them in the future.
+One significant factor in
+the changes at Epyx is that
+the company will concentrate on videogame
+development, particularly in
+relationship to the cartridge
+system which they recently
+developed for Atari. The
+company will still design
+some disk-based products,
+but will limit its responsibilities as publisher to, at
+most, an "affiliated
+label/publisher" role.
+Epyx had been reported to
+be in a weak position financially since its first quarter
+returns (like those
+throughout the disk-based
+software industry) were excessively high. According to Ms.
+Lovoi, the company's price
+slashing promotion earlier
+this year seemed like it was
+
+Britannica
+Changes
+"Archipelagos"
+In CGW #62, Wyatt Lee
+offered a Sneak Preview
+of Britannica Software's
+upcoming Archipelagos,
+the first product in the
+company's new "Fanfare"
+line of entertainment
+software products. The
+early look was based
+upon Archipelagos as it
+was published in Great Britain and described the fiction
+surrounding the game as it is described in the British version. When Britannica actually released Archipelagos in
+the United States, the fiction had been extensively
+modified. Now, the player is attempting to undo the major
+effects of serious pollution and save a badly devastated
+planet rather than rescue the "Dreamlands" of the British
+version. The article in the August issue of CGW does a
+good job of describing game play, but all the terminology
+utilized is relevant to the British version rather than the
+U.S. product. As pictured on this page, the packaging is
+significantly different from that pictured in the August
+issue, as well.
+
+turning this vulnerable financial position around, but unanticipated financial difficulties forced the company to
+take the current drastic action. Rumors have attributed
+the company's financial difficulty to a combination of
+significant investments in
+hardware development
+which have not paid adequate dividends and poor
+sales in the disk-based entertainment software market in
+general, but the company
+has offered no official
+description of the financial
+pressures. The company had
+just raised $8 million in new
+financing for their consumer
+electronics division (i.e. VCR
+games) during 1988, but the
+influx of new capital did not
+allow the company as much
+
+flexibility as it had anticipated.
+
+Lucasfilm
+Games
+Establishes
+Cartridge Group
+CGW learned at press time
+that Lucasfilm Games has
+recruited Greg Hammond,
+currently a producer for
+Broderbund Software, to
+head up a new projects
+group with special focus on
+cartridge-based videogames.
+According to Steve Arnold,
+General Manager of the
+Games Division at Lucasfilm, the expansion into
+cartridge based games will
+
+begin with cartridge versions
+of Lucasfilm games which
+have been hits in disk format
+and should continue into
+the development of original
+titles unique to the cartridge
+format.
+Asked if recent reports of
+inventory overstock did not
+indicate a softening of the 8bit videogame market, Arnold responded that even if
+the Nintendo market has'
+peaked (and he did not
+believe that this has been
+proven by any means),
+software publishers will certainly be able to ride the
+downhill slope profitably for
+a very long time. Questioned about the new dedicated game machines: Sega
+Genesis and NEC's
+Turbo-Grafx 16, Arnold would only
+smile and indicate that
+Lucasfilm would be willing
+to enter those markets if
+details were mutually acceptable. CGWs sources indicate
+that substantive conversations have been held with
+NEC (i.e. a deal could be in
+the works) and that initial
+dialogues with "others" have
+been established.
+
+Polarware
+Purchased by
+Texas Investors
+On September 13, 1989,
+Polarware, Inc. (publisher
+of The Spy's Adventures
+series and Transylvania),
+was acquired by Merit Acquisition Corporation, a
+Texas-based company, and
+merged with the latter's
+educational and productivity
+software division, Merit
+Software. Future games
+from Polarware will still bear
+the familiar label. Polarware
+has been publishing computer games and educational software for years, but has
+never really had the capital
+to expand. Both the software
+firm and the investment company have expressed hope
+that the merger will enable
+Polarware to expand its
+product line and market its
+software more effectively.
+
+Industry News
+
+T
+
+he paddlewheel churned in the
+muddy Ohio and the "Belle of Louisville" steamed majestically past the
+riverfront. A concrete embankment
+loomed beside us with a painted message revealing the high water line
+of a old flood. "There hasn't been
+a storm like that since," muttered
+one of my buddies from the Falls
+of the Ohio Wargaming Society.
+I couldn't resist flaunting my inside information as the worldfamous CGW gossip columnist,
+so I interrupted my companion/travel guide. "Of course," I
+lectured, pronouncing the pearls
+of computer game wisdom trippingly on the tongue, "Simulations Canada has something of
+a storm to introduce late this year.
+Malta Storm, their operational
+level World War II game is undergoing the finishing touches even
+as we speak." Then, to suit the action to the word, I followed my
+journalistic thrust with yet
+another, "In fact, they're now working on a Mediterranean Theater
+version of Kriegsmarine, to be entitled Fleet Med."
+
+no longer be publishing Light Division
+and that they intend to create a spin-off
+company in order to publish Kanev.
+"That probably means," he said, "we
+shouldn't hold our breaths for either one."
+
+The
+Rumor
+Bag
+
+"Sounds like a Yuppie vacation
+to me," muttered someone next
+to me. I couldn't allow my authoritative
+pronouncements to be undermined by
+levity, so I informed him that the company is also hard at work on Main Battle
+Tank: Middle East. Just then, my friend
+pointed and said, "There's the Candy
+Bridge. We're almost back."
+By "Candy Bridge", I presumed he
+meant "Kennedy Bridge" and I had simply
+misunderstood his southern accent. The
+skyline of Louisville looked imposing on
+the horizon, but the fiery colors of the
+sunset betrayed the amount of pollution
+in the air. One member of the group said
+he'd like to sit the entire Louisville City
+Council down and force them to play
+Sim City until they could solve some of
+the congestion and pollution problems.
+Another said he wished they could get all
+the world leaders together and make
+them play some kind of geopolitical planning simulation. I told them all the good
+news that Maxis Software should have
+Sim Earth ready in 1990.
+The riverboat docked and we headed
+for our cars. One of my friends pulled me
+over and whispered something in my ear.
+Now, that's not easy for one person to do
+when the other person's trademark is a
+bag over his head, but he managed to
+get through to me. He asked me if I
+remembered writing about Light Division
+and Kanev, two board wargames that
+were due to be converted by 3W Computer Games. He told me that 3W will
+
+eyes, so did the knowledge that
+Dynamix is already working on a sequel
+to their adventure/simulation game.
+I explained to the officers that I was the
+Rumor Bag guy, but they wouldn't
+believe me without my sharing a
+tip on a new game. "Well," I stammered, "Maxis is working on a
+new title called Robot Combat."
+They still weren't quite sure, so
+they took me over to the patrol
+car and asked me to do something with their laptop. I used
+their modem to call GEnie. They
+weren't that impressed until I told
+them that the Games Round
+Table's conferences for November
+would include designers: Ed
+Bever, Gary Grigsby, and
+boardgame guru, Jim Dunnigan.
+
+"Okay, okay," I said in a panic,
+"how about if we call the Computer Sports Network?" They
+agreed. So, I showed them how
+to access Tournament Golf and
+told them that the network would
+be using APBA Baseball in order
+to run General Manager, a major
+by Ezekiel Rutherford Beauregard
+league baseball simulation where
+players set up their teams and the
+schedule is decided via APBA
+Baseball. I also told them that the
+network would eventually be refereeing
+He insisted that I give him some new infull-scale rotisserie leagues.
+formation in exchange for that insight. I
+told him what I knew about Second
+The police officers let us go and we
+Front, Gary Grigsby's redesign of War In
+passed a city park. The "boys of summer"
+Russia for the IBM. I told him that the
+were playing softball and it reminded my
+new design allows for reinforcements; offriend about Cinemaware's TV Sports
+fers air combat that is so detailed it can
+series. "Aren't they going to come out
+handle losses of airplanes down to the inwith TV Sports Baseball?" he whined. I
+dividual plane; details land combat losses
+consoled him with the good news that
+down to the battalion or battery, gives
+they were, but then told him the bad
+leaders a resupply bonus; and simplifies
+news that we weren't expecting it until
+the handling of railroads so that players
+mid-1990.
+don't have to specifically rebuild them (if
+the player hangs on to them, the rebuild
+Finally, we arrived at the Kentucky
+is automatic).
+Derby Museum. Wandering among the
+He seemed satisfied and we got into his
+memorabilia of the fastest two minutes in
+car. He'd promised to take me to the Kensport, I imagined myself in the colors of a
+tucky Derby Museum out at Churchill
+Derby winner. I told my friend about my
+Downs. On the way, we drove through
+dream and the "Jockey Competition"
+the middle of a car chase that would put
+module of Omni-Play" Horse Racing,
+a "Dirty Harry" movie to shame. The
+due in the first quarter of next year. It's
+police cars caromed past us with their
+supposed to come in a package with
+blue lights creating a laserium in the city
+Track 3 in which you see everything from
+streets. The noise was unbelievable.
+the perspective of the horse's back. "It's a
+Probably something like Access
+good thing the computer simulation is
+Software's RealSound soundtrack for
+coming out," he laughed, "because you'd
+Crime Wave, their arcade shoot-'em-up,
+never make a jockey."
+similar in style to the coin-op game, Narc.
+"Why," I asked in all innocence, "don't
+Unfortunately, it is not a good idea to
+they let you ride with a bag over your
+be wearing a bag over one's head when
+head?"
+the police are chasing a couple of bank
+robbers. They pulled us over and had us
+"Sure," he replied, "but I don't think
+spread-eagled across the hood before
+they let the horses carry the extra weight."
+I sucked in my gut, but quickly realized I
+you could say, David Wolf, Secret Agent.
+Along with my life passing before my
+needed the computer game.
+
+Foreign Correspondence
+
+Over There
+Wargames and More
+by Paul Rigby
+
+The British are coming, as well as the
+French, the Germans, and others.
+European games are appearing on U.S.
+retail shelves in increasing numbers. We
+thought it was time to take a look at
+what is happening "over there". Our new
+European correspondent is Paul Rigby
+(Liverpool, England). In the context of
+his column, "available now" means that
+the game is presently available in
+Europe.
+(Ithough 8-bit machines are still
+popular in Europe, there have
+been a number of growing trends
+and changes since an "Over There"
+column was last seen within these pages.
+On the hardware side, the Amiga and the
+ST have an increasing user base (the latter being far more popular in Europe
+than in the US), the PC has emerged as
+a game machine, and there has been a
+relatively low infiltration of videogame
+consoles. On the software front, we have
+seen the emergence of RPGs and
+strategy games as popular game subjects
+and observed the growing strength of
+France and Germany as serious competitors in the market. In fact, the following report highlights many of the above
+trends.
+Originating from PSS, one of the UK's
+top wargame houses, comes Waterloo
+(PC, Amiga). Written by Peter Turcan
+who, incidentally, wrote Borodino for
+Atari's new software wing, Waterloo continues Peter's 3D aspect to wargaming.
+Coming with 108-page manual and a
+glossy fold-out map of the combat area,
+Waterloo uses the Borodino system of
+play. Hence, you can view the combat
+from any direction. You are able to view
+your troop dispositions and movements
+and clicking on troop "blocks" identifies
+the unit. Orders are typed in English for
+example, "Reille form a defence line from
+the west flank to La-Belle-Alliance linking
+with D-Erlon."
+You may play either Wellington or
+Napoleon, whether solitaire, human vs.
+human, or computer vs computer. With a
+variety of orders and reports, all modified
+by your supporting general's characters
+(impetuous, cautious, etc), Waterloo is
+
+an intriguing product and is available
+now.
+Continuing the wargame theme is
+Mirrorsoft's Conflict Europe (PC, Amiga,
+ST), which simulates the action during
+World War Three from a strategic level.
+You take the position of Supreme Commander of NATO or the Warsaw Pact. In
+addition to land and air strikes, you may
+call upon "special" offensive actions such
+as Special Forces and Chemical/Tactical
+Nuclear Strikes. A variety of reports are
+available including: population distribution, areas of high radiation, logistics, victory conditions and command ability, special missions (e.g; anti-satellite) and air
+missions (counter air). Also, you can communicate with the enemy, issuing threats
+and so on. Available now.
+
+Imageworks' Bloodwych (PC, Amiga,
+ST, C64, Amstrad CPC, Spectrum) can
+best be described as a two-player version
+of Dungeon Master. The people of Bloodwych fear the awakening of the Behemoth, entombed within the castle. He
+is stirring, certain to bring with him
+famine, pestilence and death. To seal the
+Behemoth within his tomb forever, you
+must find and unify the crystals of Sanguis. A maximum of two character teams
+must search the castle for hidden crystals. Although Bloodwych can be played
+solo, the two player option brings interesting questions into play. Do you cooperate with each other, compete as
+enemies or allow more subtle treachery
+to come into play? Bloodwych has a
+horizontally split-screen interface, a
+variety of character levels, magic, character interaction, minimal animation and
+sound. The Bloodwych release is imminent.
+Originating from France's Exxon (publishers of Captain Blood & Purple Saturn
+Day) comes Kult (Amiga, ST, PC) - a
+graphic adventure. The Protozorqs are a
+primitive, but powerful, mountain race.
+They worship brutal Gods who, it is
+hoped, will deliver them from their guilt
+and shame (it's a long story). You play a
+Tuner, a human with unusual powers.
+You must rescue your girlfriend who is
+being held prisoner by the Protozorqs.
+(Continued on page 91)
+
+Review
+
+cave leads to quick loss of life from running into walls,
+taking bad falls, etc.
+Once Indy gets the cross, he climbs out of the cave and
+catches a ride on the circus train. This segment is the most
+like the movie because Indy has to jump from car to car and
+avoid the giraffes' heads and the rhino's horn. He even has
+to fight a bad guy on the last car. Unfortunately, this segment is sadly lacking in challenge.
+
+The Whole Gauntlet
+For The Holy Grail
+by David M. Wilson
+
+O
+
+nce every decade or so, a hero comes along that captures the hearts and imaginations of the American
+people. Such a hero is Indiana Jones, a
+schizophrenic cross between an archaeology professor and
+swashbuckling adventurer. Now,
+once again,
+Indy makes
+the momentous leap
+from silver
+screen to
+computer
+screen in the
+multi-leveled
+Indiana
+Jones and
+the I a st
+Crusade:
+The Action
+Game.
+
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Indiana Jones and the
+Last Crusade: The Action Came
+C64/128, Atari ST,
+Amiga, and IBM
+C-64 ($29.95)
+Others ($39.95)
+U.S. Cold
+Lucasfilm Games
+San Rafael, CA
+
+Upon loading the
+game
+players will
+be treated to
+a rousing
+rendition of
+John
+Williams'
+theme song
+from the
+movie. The
+music is stimulating and the
+graphics clear and concise.
+Each level is filled with different types of scenery,objects and obstacles.
+
+The first level is a quest for
+the cross of Coronado. Indy
+must leap from ledge-toledge, rope-to-rope and over stacks of barrels as he searches
+for the treasure. Our hero quickly learns not to leap from the
+tops of the barrels because he will more than likely hit his
+head on Stalactites hanging from the ceiling. He must also
+avoid falling stalactites in this sequence.
+The most important part of level one is to pick up torches
+as you progress, since each torch will only shine for a limited
+amount of time. When the torch being carried runs out,
+players will find their hero in total darkness. Being in a dark
+
+Perhaps, part of the problem is that the bad guys on all of
+the levels are most cooperative. Those with throwing axes or
+guns will throw their hatchets or fire their guns twice and
+then, obligingly turn their back. Those without weapons
+simply allow the player to walk up and sock them. Every villain in the game can be dispatched with a single blow from
+Indy's fist or his whip. The fight segments should have lasted
+longer and been more challenging.
+Level two takes Indy into the catacombs in search of the
+Crusader's shield. The designers have incorporated a bit of
+interesting copy protection here. A series of arches with
+hieroglyphic symbols appears at the beginning of the level.
+Above the arches appears a date. Players then match the
+date on a non-reproducible grid and select the arch which
+matches the corresponding date. Players who choose the
+wrong arch can still play, however they will never find the
+shield. When the player makes the wrong choice, the program removes the shield from the maze making the level impossible to complete. Even if the player chooses the correct
+arch, but he is unable to complete the level before losing the
+amount of lives he has left, he will have to use the grid all
+over again to continue where he left off. I understand the
+publisher's desire to copy protect their programs, but the
+player who is stuck on level two of this game will be extremely annoyed by having to repeatedly refer to the chart in order
+to restart the level.
+Once into the level, players will be dodging rats and avoiding falling fireballs. Once the player collects the crusader's
+shield, he must scale the castle wall and have Indy use his
+whip to swing across from ledge to ledge. Lightning is striking regularly during this segment and will occasionally tear
+away a portion of the ledge Indy is standing on.
+While playing level three, Indy will be found on board the
+airship. There the search begins for the Grail diary that his
+father has left on board. If the player fails to collect passes
+from the passengers, an alarm will sound. Big Deal! Since
+the soldiers don't really fight, what does it matter? About the
+only important consideration is that picking up the passes
+will lead to a higher score.
+If players will go to the left and keep travelling downward,
+they should find a room with the diary and a control panel.
+Then, by reversing their path, they should be able to get all
+the way back up. Whenever Indy encounters a guard, that
+means he is more than likely heading the right direction.
+Level four is, by far, the shortest level. Since Indy's father is
+dying, Indy is pressed for time to find the grail. He must
+maneuver over obstacles quickly, but give heed to the lettering on the blocks. Finding the blocks with the odd lettering
+is the key to being able to leap across to the right spot.
+The game could have been much more. The game does little to put the player in the role of Indiana Jones. Indy is a
+good fighter, but he doesn't beat the villain with one punch
+in any of the three movies which featured him. Further, there
+are only two places where he can use his whip for swinging
+(Continued on page 56)
+
+Review
+
+"Don't Go
+Alone"
+Accolade's Terrifying
+New Adventure
+
+D
+
+by Scorpia
+on't Go Alone is a sort of computer role-playing
+
+game, with a modern-day setting. The basic objective
+is simple: go through ten levels of an old house, find
+the nasty Ancient One, and kill him. It's your typical "destroy
+the evil wizard" romp.
+You begin by choosing your party of four
+characters. Each character represents a different class (chemist,
+physicist, psychic, and
+adventurer) and you
+must have one of
+each in the group.
+Selections are made
+from a pool of sixteen
+pre-generated characters. You aren't able
+to create any from
+scratch.
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Don't Co Alone
+IBM
+$39.95
+Sterling Silver Software
+Accolade
+San Jose, CA
+
+The characters have
+the standard set of attributes (strength, dexterity, intelligence,
+etc), plus two that are
+special. One is the
+fear index and the
+other is the concentration index. Concentration is necessary to the successful
+mixing of formulas (more on that
+soon), especially the more potent
+ones. The fear index measures how
+terrified a character is. If the fear
+index goes too high, that character is
+too scared to do anything (except
+
+maybe gibber in fright).
+In addition to muscle, there is also magic. However, since
+this is a modern-day setting, the spells are called "formulas"
+and are put together by selecting components from the
+table of elements. Each character begins the game with a
+"book" entitled Chemistry Volume / and the psychic gets two
+more besides that one.
+The various chemistry books contain formulas and descriptions of their functions. Except for volume one, the formulas
+in the books are all incomplete. Instead of being written out
+in full, they appear like this: Au +??+??+Ir. You will have to
+figure out, as the game progresses, what elements belong
+where the question marks are in each formula.
+
+This can be done through a boring procedure of exhaustive trial and error; how long it takes will depend on how
+long the formula is (three or four elements) and how many
+components you already know. If you only need to find one
+element, it won't take too long (the game does not use the
+complete periodic table, which is fortunate). You simply substitute one element at a time and try mixing the formula
+until you obtain a success. All formulas are unique, so you
+can't create something else inadvertently, and you won't
+blow yourself up with a bad mixture.
+Formulas that are mostly or completely blank may seem impossible to figure out. However, this is not the case. As time
+passes in the game, the formulas change. Therefore it is important to re-read the books every now and then to see if a
+new element has appeared in a blank spot. Continuing with
+the example given above, after awhile it might suddenly look
+like: ??+0+??+Ir. The "Au" that was there before is now
+blank, but the element "0" now fills the second position. At
+this point, you know three of the four components, and can
+find the last one through trial and error. Needless to say, you
+should copy all incomplete formulas as soon as you find
+them, and fill in the blanks over time.
+The most interesting aspect of Don't Go Alone is that characters don't die. While there are monsters galore in the
+house, none of them make physical attacks of any kind. Instead, they all generate fear to varying degrees. The more
+powerful monsters are naturally more scary than lesser ones,
+thus it will be some time before you come across anything
+that can really freeze up team members. If everyone gets
+frightened out of their minds, the group is moved to a "safer
+area" to give them time to get over their fright.
+The major problem in combat is not fear, but time. You
+only have so long to defeat a particular critter. If you don't
+manage that, it will fade away, taking with it something from
+your inventory (any non-equipped item). This can lead to
+serious difficulties if the monsters start vanishing with your
+chemistry books (yes, they can nab those, too). While books
+can be found in the game, my experience is that most of
+them don't start turning up as treasure until you're way
+down in the house, say around eighth level or so. That's a
+long time to wait if you lose one or more volumes early in
+the game.
+Monsters will also take something from you if you retreat in
+combat, so running doesn't help much; you're just as badly
+off as you would be in fighting it out. Most of the items can
+be replaced without too much trouble in other combats, so
+losing a gem or spare weapon is not exactly a disaster. However, losing a chemistry volume can be bad news. So, it pays
+to save the game often, and restore if a critter has walked off
+with one of your books.
+The fighting itself is a simple procedure; you either attack
+with a weapon or mix up a formula. Only one formula can
+be ready at a time, but you can scroll through your list to
+change from one to another. The main drawback to combat
+is that only one person can fight at a time. You choose the
+active character, and he or she is the one who engages in
+combat. You can switch to another character (this is not considered an action), but still, only one at a time can do anything.
+The basic reasons for switching are concentration and
+strength. Physical fighting makes a character tired, and therefore less effective. Mixing formulas lowers concentration; if it
+goes too low, that person can't prepare any more of them.
+
+(Continued from page 18)
+
+Don't Go Alone
+Thus, switching around is necessary, especially when you
+start coming up against the tougher monsters. Strength and
+concentration are restored over time as you wander around
+the house.
+Combat, by the way,
+is relatively wellbalanced. There are
+usually one or two
+extra-tough critters
+per level, with the rest
+ranging from extremely easy to pretty hard.
+The party should not
+find itself overwhelmed or frustrated
+unless you go too far
+too fast.
+Treasure comes in four types: weapons, armor, protective
+items, and (rarely) chemistry books. Usually, something will
+appear on the screen after a monster has been defeated (not
+always, but usually). The active character is the one who can
+take it. This is where you need to be careful, because characters cannot hand off items to one another. So, if you really
+want Frank the Chemist to have the bomber jacket, make
+
+sure he's the active person. Otherwise, if someone else picks
+it up, Frank is out of luck until you come across another
+jacket.
+A character can have only one of a specific item at a time.
+For example, if Bud the Adventurer already has a meat
+cleaver, he won't be able to pick up another one. This
+makes sense; he doesn't need more than one, anyway. Also,
+as inventory space is limited, it's a good idea to dump unneeded items (extra weapons and armor) to make room for
+more important things (such as protective gems). There is a
+formula that will tell you the strength of any weapon or
+armor, so you shouldn't drop something good by mistake.
+Graphics are generally good in the game. Almost all encounters have animated monsters and some of these are extremely well-done. The blood demon, rising up from a puddle of blood on the floor, is one of the best in the game.
+Others may not be quite as spectacular, but are equally fascinating to watch. A great deal of work obviously went into
+this portion of the game and it definitely comes through.
+Movement around the house is accomplished through the
+four arrow keys, and the game has two very nice auto-mapping features. One is constant; you can see your party and a
+small portion of the level displayed above the larger, 3-D
+view of the area you're in. Thus you have two views at once,
+overhead (Ultima style) and head-on (3-D).
+The other mapping feature is invoked through a formula;
+this shows you the entire level. Of course, if you haven't
+been over much of it, you won't see very much on the map,
+either, because areas you haven't yet passed through are
+blank. This is a larger map, and the arrow keys are used to
+scroll it around while your party remains stationary.
+Exploring the house consists mainly of walking around, killing assorted monsters, and looking for the stairway to the
+next level. In my version, there were no puzzles at all, no
+mysteries to solve, and no particularly difficult obstacles to
+overcome. Special keys were needed in a couple of places to
+get through doors. Otherwise, it was generally plain (very
+plain) sailing from one level to the next.
+This is a grave disappointment, as it gives the game a very
+empty feel. There is no real substance to it. Walking along
+corridor after corridor, going through empty room after
+empty room, with nothing much to do besides fight
+monsters, soon becomes boring. There were three
+mysterious pictures that showed up in a number of rooms
+and hallways; for awhile I thought they might be important,
+but they turned out to be totally irrelevant.
+There is no way to use or manipulate anything; there aren't
+any such commands in the game. That in itself is a very
+severe restriction. A lot can be done with a limited command
+set (as Sierra's Manhunter series ably demonstrated), but
+Don't Go Alone does not seem to have any mechanism at
+all for any type of puzzle solving.
+Overall, then, the game is mainly an exercise in monstermash, although on a more limited scale than most CRPG's.
+The simple interface, very nice auto-mapping, balanced combat, interesting monster graphics, formula components, and
+unique use of fear are all pluses, but these are overshadowed by the large minus of having little substantive to
+do in the game. Essentially, this game is best for those with
+little or no experience with CRPG's.
+Bottom line: Beginners only.
+Copyright 1989 by Scorpia, all rights reserved.
+
+Review
+
+-15 Strike
+
+F E
+
+agle II (1989)
+
+an updated
+look at MicroProse's
+first best-seller, F-15
+Strike Eagle (1984).
+Although a simulator
+of the same weapons
+system, the F-15 jet
+fighter, the products
+differ radically in both
+appearance and play.
+In fact, for the oldtime computer
+gamer (i.e. one playing since 1984!), a
+look back at the
+original product will
+prove most disappointing.
+The original F-15
+was a great product
+in its day. However, it
+no longer satisfies. It
+is amazing how
+demanding (jaded?)
+we have become.
+The line-drawn opponent in the
+original game
+resembles Wonder
+Woman's invisible
+aircraft. In short, the
+classic gave the appearance of being
+"primitive" and even
+arcade-like.
+
+screen shifts to the
+launch site. If an
+enemy plane is
+taking off, the view
+shifts to the enemy
+airfield. However,
+once contact is initiated, this level may
+become very confusing and is not recommended for continued use. Level 2
+shows only actions
+that the player initiates. These levels
+may be toggled on
+and off by a single
+key-press. A potential
+problem is that users
+with older machines
+(8088) may encounter occasional
+computer "lock-up"
+in cycling through
+the graphic detail
+speeds.
+Multiple views offer
+fascinating vistas as
+to what is happening—left, right, rear,
+slot, chase, side, missile, tactical, reverse
+tactical (i.e. from the
+enemy's viewpoint!),
+and normal. The biggest problem with
+having the wide assortment of viewpoint alternatives is
+that one can become mesmerized and
+literally fly into the ground.
+
+F-15 STRIKE
+EAGLE P
+Review by M. Evan Brooks
+
+TITLE:
+SYSTEM:
+PRICE:
+PUBLISHER:
+
+Now, MicroProse
+has reworked the game, using the benefit
+of five years of computer design experience and F-19: Stealth Fighter (F-19)
+game technology, in order to bring Strike
+Eagle up to contemporary standards. F15 Strike Eagle II (F-15 II) is not an innovation, but rather an update of a "classic", a sort of "F-19 Jr." Meets "F-15+".
+
+Documentation
+Up to Microprose standards, the
+documentation is well-written and concise. Separate playing maps of the
+scenarios are included, as well as a "Keyboard Control/HUD (Heads-Up Display)"
+ready reference card. Installation on a
+hard drive is easy (with a key disk protection scheme) and play is expedited by
+using the hard disk format. Also, a joystick is strongly recommended for maximum ease of play.
+The documentation offers a tutorial and
+layered degrees of difficulty, so one may
+progress to more "realistic" levels as
+desired. However, it is important to
+remember that F-15 II is more of a game
+than a simulation—thus, even the most
+realistic level ("Ace") is playable for the intermediate gamer.
+
+F-15 Strike Eagle II
+IBM with 384K
+(Amiga soon)
+$54.95
+MicroProse
+Hunt Valley, MD
+
+Four (4) separate scenarios are offered:
+Libya, Persian Gulf, Vietnam, and the Middle East. For those having a copy of F19, the scenarios for North Cape and
+Central Europe may be "ported over" for
+additional game play. However, F-15 II is
+a simpler product----dedicated to those of
+us who found F-19 too difficult. This is to
+be appreciated, since F-19 can easily become a way of life as opposed to a
+game. For those persons desiring the additional scenarios, it seems likely that
+Microprose will be releasing them in a
+separate "scenario package" together
+with potential new "hot spots". Altogether, the documentation and play
+aids are well done and assist the user in
+easy access to air combat operations.
+
+Graphics
+Graphics are a continuation of F-19.
+For those who possess a fast machine
+and VGA, the horizon now utilizes the
+256-color palette, which shows a shading
+of the horizon by striated layers of sky for
+added realism. In addition, two (2) director levels are available—Level 1 shows
+anything happening in the theater of
+operations. If a SAM is launched, the
+
+F-15 II utilizes polygon technology in
+which objects are represented by filled-in
+polygonal shapes. This works well at a distance, but the effect breaks down somewhat at close range. Also, sometimes the
+cloud cover appears "too" substantial and
+resembles an overhanging roof. Still,
+these aspects are minor and become accepted with experience.
+
+Game Play
+F-15 II is a player's game. Unlike F-19,
+in which a successful mission required
+avoiding the enemy, here the player concentrates on air combat. Even the designer notes characterize F-15 II as a
+"Rambo in the sky". There is no stealth
+technology here. One simply takes
+names and kicks butt!
+Note: In a throwback to the original F15, an enemy plane is always flying immediately above upon take-off. Albeit unrealistic, it allows a quick kill and initial
+combat orientation/gratification.
+(Continued on page 70)
+
+Christmas Buying Guide
+
+liminal purchase orders; college students
+are encouraged to append annotated
+copies of this list to the next telegram
+home requesting funds; and offspring
+living at home should carefully tape the
+summary of each desired product to the
+mirror in the bathroom of their parental
+units in order to induce consumption of
+mass quantities of computer games.
+
+Simulations
+A-10 Tank Killer (Dynamix): Since the
+A-10 environment fairly swarms with targets and enemy threats, the design team
+at Dynamix felt like this plane would be
+the ideal subject for their first simulation
+on their new label. Digitized graphics,
+256 color VGA support, bit map explosions, cinematic external views, and
+missions with interconnected goals make
+this a distinctive product which will pump
+up gamers' excitement. Not only does A10 Tank Killer offer a realistic-looking
+cockpit, but real actors, sets, and
+uniforms were used to add to the game's
+atmosphere. The gift-giving value of A-10
+Tank Killer should continue through the
+next few years, since the game will be
+supplemented with new campaigns and
+battles through Dynamix's Simulation
+System Module?". IBM ($49.95).
+
+CGW's
+Third
+Annual
+Christmas
+Buying
+Guide
+
+F
+
+or the third year in a row, CGW's
+
+editorial staff has taken the time to
+put on our elf suits and gather
+together a distinctive hint list for our
+readers to annotate and pass on to their
+personal "Santa Claus". In general, CGW
+asked the designer(s) or producer(s) of
+each game to comment on why they
+designed this game at this particular
+time, how each game is distinctive from
+other games in the genre, and why it
+would make a good holiday gift. Since
+many of these products were not fully
+functional at the time we took the screen
+shots and interviewed the designers,
+readers should recognize that we have
+basically taken the publishers' word for
+what each product will be. The Christmas
+Buying Guide is intended to be a catalog
+of new games that should be very interesting to our readers.
+For maximum effectiveness, each husband is advised to place this article underneath his wife's pillow to stimulate sub-
+
+Blue Angels (Accolade): Accolade's formation flying simulator was developed by
+the trio of Paul Butler, Robin Burgener,
+and Rick Banks. They were interested in
+designing the product for two important
+reasons. First, they wanted to understand
+the detailed nuances of flying in tight formations. Second, it was developed as a
+tribute to Rick Banks' father, a pilot who
+died testing planes. The designers believe
+that this simulation is distinctively different because it is one of the first
+products to specifically address formation
+flying; it offers multiple options in terms
+of positions in the formation and camera
+angles; and it will offer both AdLib and
+CMS sound support. The designers
+believe that the potential hours of entertainment and excitement combined with
+educational value make Blue Angels an
+intriguing gift idea. Amiga ($44.95), C-64
+($29.95), Apple IIGS and IBM ($49.95).
+MechWarrior (Activision): According to
+John Skeel, producer/designer of MechWarrior, the idea of the game is to move
+beyond the Battletech role playing game
+
+and allow the player to experience the
+
+Battletech (licensed from FASA) universe
+via a first person, out of the cockpit
+perspective. It is the only BattleMech
+simulation and by means of outstanding
+graphics, as well as sound support for
+both the AdLib and Roland MT-32 sound
+boards, it presents a unique opportunity
+for blending action and role playing. He
+believes that the eight different "mechs"
+to command, combined with multiple missions and objectives, give the game sufficient gameplay to make it an excellent
+holiday gift. IBM ($49.95).
+M-1 Tank Platoon (Microprose):
+Microprose developed M-1 Tank Platoon
+because they had been receiving customer requests for a realistic tank simulation for several years. The use of 3-D terrain with hills, buildings, trees, roads, and
+streams, as well as the capacity for rain,
+snow, and night actions and the ability to
+command a full platoon of four tanks,
+along with supporting vehicles, infantry,
+artillery and aircraft, marks M-1 Tank
+Platoon as a simulation which respects
+its subject, rather than being a simple action game. Holidays are an ideal time for
+play and the Microprose design team
+believes that "After you've jumped into
+real tank combat with M-1 Tank Platoon,
+anything else will seem like child's play."
+IBM ($69.95).
+Tank (Spectrum Holobyte): When
+Spectrum Holobyte set out to create multiple military simulations which could be
+networked together, the development
+team decided that Tank would be the
+logical first release in the series (which
+will be entitled the Electronic Battlefield
+Series""), since modern battle tanks are
+the cornerstone of today's military
+strategy. The game's features include:
+head-to-head competition against
+another computer; topographic 3-D terrain with real slopes, mountains, and valleys; actions which include up to 32 different vehicles, as well as active air support and recon units; and provision for
+thermal and night modes. It should be a
+welcome holiday surprise for any gamer
+because it allows play on multiple levels.
+It offers everything from easy arcade-type
+action to complex strategy. IBM ($59.95).
+Wolf Pack (Broderbund): John Garoia
+of of NovaLogic, developers of Wolfpack,
+approached Broderbund with the idea for
+Wolfpack. His enthusiasm for the project,
+combined with the beautiful graphics already designed and the potential for a
+
+realistic, but fun, World War II naval combat simulation sold Broderbund on the
+idea. The uniqueness of the product
+stems from the player's ability to assume
+either side of the conflict, as either a German submarine commander or an Allied
+destroyer/convoy commander. In addition, the built-in scenario builder makes
+Wolfpack even a better value. Particularly
+with more and more gamers wanting
+simulations which take advantage of their
+VGA-capable machines, Wolfpack should
+be a colorful addition to anyone's holiday
+bounty. IBM ($49.95).
+
+Role Playing
+Hero's Quest (Sierra): In writing a
+game with the express purpose of introducing role-playing to adventure gamers
+and adventure gaming to role-players,
+Lori Cole may have created a whole new
+genre of games, Role-Playing/Adventure.
+Hero's Quest adds the plot and story of a
+graphic adventure game to the character
+creation and character building of a roleplaying game. Unique to most games in
+the adventure genre, it also allows multiple solutions to most of the puzzles in
+order to allow for replay value. Hero's
+Quest would be an appropriate holiday
+surprise for lovers of either genre. IBM
+($59.95).
+Knights of Legend (Origin): Todd
+Mitchell Porter designed Knights of
+Legend to bring forth a true fantasy roleplaying game with all the features he felt
+had been missing in CRPGs to date.
+Knights of Legend has taken more than
+eight years in development and offers a
+significant depth, particularly in the area
+of character development. It offers the
+most comprehensive combat system in
+the genre, but mixed with its menu and
+icon interface, it is destined to offer the
+fun of discovery such as role-playing
+gamers have never experienced it. The
+game will round out any fantasy gamer's
+holiday season because of the compelling drama of its story and its vivid
+universe full of colorful non-player characters. Apple, C-64, ($49.95).
+Starflight H (Electronic Arts): In reality,
+this part of the story was planned when
+the original Starflight was designed.
+Since Greg Johnson and the rest of the
+crew at Binary Systems received encouragement to continue the saga in
+
+hundreds of fan letters and the design
+team believed that both the story and system could sustain a sequel (or more),
+they developed Starflight II. Though
+there are plenty of space games and plenty of "large" games on the market,
+Johnson insists that the Starflight series
+is distinctive for the freedom it allows the
+players. Since players can express themselves through the role-playing experience, he suggests, it is a satisfying
+one for them. In addition, the unique personalities of the alien races combined
+with the custom histories make the game
+have its own special flavor. Johnson says
+that mail from Starflight players indicates
+that people really enjoy playing the game
+together. Since togetherness is part of
+what makes the holidays special,
+Starflight II is an excellent addition to the
+packages under the tree. IBM ($49.95).
+Swords of Twilight (EA): Jon Freeman
+and Ann Westphal were concerned because the standard approach to computer FRPs (fantasy role playing games)
+seemed rather clunky. With Amiga
+graphics and 68000 power, they believed
+that they could create a role-playing experience more immediate and life-like
+than anything simulated by rolling dice—
+or pretending to. Swords of Twilight, according to the designers, is distinctive because: No other game combines the action, excitement, and simple mechanics
+of Archon with a real plot, characterization, eloquent prose, sophisticated
+AI, and complex interaction. In fact, no
+other game mixes the variety, color, and
+scope of epic fantasy with real-world
+logic, ethics, and consequences. They
+believe Swords of Twilight is a great gift
+because, as a multi-player game, it also
+provides a great excuse to spend time
+with the person you give it to. Amiga
+($49.95).
+The Third Courier (Accolade): Take
+the role-playing genre and move it into
+the modern world with realistic situations,
+authentic locations, and logical constraints. That is what Ivan and Carol Manley have attempted to accomplish in this
+espionage/detective adventure from Accolade. Because of the emphasis on
+reality, the designers feel "No other
+product that we are aware of competes
+directly with The Third Courier." The husband/wife team feels that they have
+created a different game, a family
+present, that all family members can play
+and enjoy. Apple IIGS and IBM ($49.95).
+
+Windwalker (Origin): From a personal
+interest in both the martial arts and oriental philosophy, Greg Malone created
+Windwalker, the sequel to Moebius.
+Windwalker offers animated action sequences crafted after observing real
+human beings compete and detailed
+graphics based on careful research of antique materials. Those who want to give
+a present which offers a chance for the
+gamer to grow in personal discipline and
+understanding will want to consider
+Windwalker. Amiga, Apple II, C-64 and
+IBM ($39.95)
+
+Strategy
+Combots (Avalon Hill): About two and
+one-half years ago, John Huff envisioned
+a game that was more open-ended than
+other computer games he had seen. Basically, he wanted to create a game where
+computer garners could "play" with their
+machines. Like Omega (reviewed on
+page 52 of this issue), the game allows
+players to design their own combat
+robots (i.e. Combots). In Combots, however, players not only design routines for
+the basic machines, but they design
+routines for the special add-on devices,
+as well. Combots offers a flexible computer opponent where players can optimize the Al for particular scenarios and
+would be a delightful addition to a
+strategy gamer's holiday "haul". C-64
+($24.95).
+Gold of the Americas (Strategic
+Studies Group): In Gold of the Americas,
+SSG unveils an entirely different approach. In this game, players will need to
+explore, colonize, invest wisely, use
+diplomacy, and engage in both land and
+sea combat. Imagine a Reach for the
+Stars style game of conquest set in a historical era of conquest and colonization.
+Then, imagine colorful EGA graphics to
+further enhance the game experience.
+That's the colorful package available
+when garners open Gold of the Americas
+on Christmas morning. Amiga and IBM
+($39.95).
+Ishido (Epyx): Brad Fraeger (Shanghai), Michael Feinberg and Brodie Lockard developed Ishido as a "stone" game
+of abstract strategy due to their interest
+(Continued on page 76)
+
+Review
+
+ourteen seconds
+remain in the
+game. You hang
+your head in disgust
+as the referee blows
+his whistle. He points
+to your center who
+has just committed his
+sixth foul, prompting
+his ejection from the
+game. "What is he,
+blind?" You signal to
+your captain to call
+"TIME-OUT" Now,
+you're down three
+points and your star
+player just fouled out
+of the game. You
+know you have to
+send in his rookie
+reserve. Do you give
+him the green light to
+shoot? Do you make
+him give it away? Or
+maybe, just try to
+draw a foul?
+
+F
+
+Smooth As Silk
+SportTime's "Omni-PIay™ Basketball'
+by Michael S. Chaut and Matt Rosenburg
+
+up players from the
+minor leagues. Of
+course, the most important use of trading
+points is in trading
+players. In order to
+trade a player, players
+must have a base
+amount of 50 trading
+points to cover the arbitration fee. The
+"SportTime Administration" is the computerized governing
+body of your league.
+This Al driven "Administration" makes
+sure that all trades between teams are fair
+and equal. You can
+only trade one player
+at a time and you can
+only trade a guard for
+a guard, a forward for
+a forward, etc. (an unfortunate loss of
+realism). Trading may
+be expensive, but it is
+more immediately effective than using a training camp or bringing
+up rookies.
+
+It's all up to the
+player in SportTime's
+new basketball simulation, Omni-Play"" Basketball (BB). BB
+presents the player
+with the ability to be
+At the conclusion of
+the coach, the general
+a season, teams are
+manager, and the star
+awarded trading
+player in this unique
+points, depending
+five-on-five full court
+upon their records (i.e.
+basketball game which
+the winner of the
+allows for expandability
+"SBA" Trophy receives
+in the future. Further,
+50 trading points and
+through SportTime's
+the last place team
+new OMNI-PLAY Sysreceives 1200.). This
+tem, add-on option
+system gives the undermodules have been
+dogs the best possible
+designed so that the
+chance to improve
+gamer will be able to
+their team's perforTITLE:
+OMNI-PLAY BASKETBALL
+add new features to
+mance for the next
+(End-View, Side-View,
+SBA & College League Modules)
+the original program.
+season (Hint: One of
+SYSTEMS:
+Amiga,
+C-64,
+IBM
+(soon)
+Presently, BB provides
+the nefarious strategies
+# PLAYERS:
+1-2
+the gamer with the
+PRICE:
+$49.95 (Amiga)
+this reviewer used to
+$34.95 (C-64)
+ability to play in either
+improve and speed-up
+DESIGNER:
+Ed Ringler
+the SportTime Basketgame results was to
+PUBLISHER:
+SportTime
+ball Association "SBA"
+Costa Mesa, CA
+run the first couple of
+or the "College
+seasons by computer
+League" (optional) in
+without watching or
+the "End-View" or "Sideplaying the games.
+View" (optional) Modes, thus providing four really different
+When lousy records were accumulated, trading points were also
+abstracts of play. As more option modules become available this
+accumulated. Thus, giving an edge for training and trading of
+number will obviously increase.
+the team and players when he personally took over.).
+
+Kentucky Fried Basketball (The Franchise)
+Bench Mark (Coaching Options)
+As owners of a newly formed franchise, players begin with a
+twelve man roster consisting of aging veterans and young
+rookies. As the general manager, players make trades, bring up
+promising young rookies from the minors, and retire veteran
+players. Expansion teams (which all players start out with) have
+250 trading points initially. Trading points may be used to send
+one's players/team to training camp for improvement or to bring
+
+As a "coach", one calls the plays and makes the substitutions;
+decides whether or not a given player is shooting too much and
+should be taken out of the game; selects offensive and defensive
+coaching options; and can either set the line-up oneself or allow
+the computer to pick the line-up best suited for the game's most
+(Continued on page 62)
+
+Book Review
+
+I
+
+n The King's Quest Companion (published by Osborne-McGraw Hill Books,
+$14.95, and available at fine
+bookstores wherever CGW is
+sold), Peter Spear weaves
+together a variety of writing
+styles and literary types in order
+to offer game hints, background material and interesting
+fiction on the "King's Quest"
+universe (based upon the
+"King's Quest" series from Sierra OnLine. Where other books about games
+have offered straightforward walkthroughs, maps and hints, The King's
+Quest Companion offers perspective on
+the philosophy and folklore behind the
+games, in addition to the standard fare
+of hints and tips one has come to expect
+from the genre. Here are some of the
+passages which the editors of CGW
+found both interesting on its own merit
+and illustrative of what The King's
+Quest Companion has to offer to our
+readers.
+
+The King's Quest
+Companion
+Excerpts from an Intriguing
+New Book by Peter Smear
+
+Quest for the Crown
+Spear walks the reader through the
+first King's Quest adventure using the artifice of discovering "The Chronicles of
+Daventry" as told by one Derek Karlavaegen. As the wise reader will recognize in this brief section from Chapter 2
+("Quest for the Crown"), the fiction
+provides both a readable story arid the
+hints necessary to solve the puzzles.
+The only leads to the missing treasures
+the young knight had to go on were slim.
+One: the dwarf who had taken the magic
+shield had been seen disappearing into a
+hole in the ground. Two: the shapechanging witch, who had stolen the chest
+of gold, escaped on her broomstick into
+the clouds, clouds that clung to the
+peaks above Daventry, solid seeming
+masses that looked like snow-cornices,
+impossible outcroppings poised out from
+the mountains with no support. Three:
+the nameless sorcerer who had
+absconded with the mirror of Merlin had
+said it would be kept in a safe place, and
+guarded by some fearsome beast. There
+were no easy answers in those facts, but
+that was all anyone knew about the
+mystery.
+To these facts, as lightweight as fiction,
+Graham added some home-brewed observation. "My daddy used to tell me, 'Boy, if
+I have learned anything in my life, I have
+learned this; When in doubt, or in
+trouble, Pick up anything that is not
+nailed down, and, if it is, check for loose
+nails or boards. Check carefully into,
+under, above, below and behind things.
+Read everything, you might learn something. Wear clean undergarments, brush
+after meals and always remember, nothing is as it appears'."
+
+With all of this in mind, Graham took inventory of what he had. He discovered
+nothing. That meant he had to get some
+food, some gold or the like with which to
+buy things, and a weapon. He leaned forward, harder and harder, as he set his
+plans and sorted his situation. The rock
+rolled. Graham stumbled but a little and,
+as he recovered his balance noticed that
+the rolling stone had revealed a hole.
+"Well, it's time to heed some of Daddy's
+advice," he said to the trees, and looking
+into the hole, he saw what appeared to
+be a dagger. So it was, and while taking
+it, he breathed, "Thank you, Father," a
+note of respect creeping into his voice.
+"I sure hope this is an omen."
+
+A Magical Primer
+In the third chapter of The King's
+Quest Companion, Spear uses the same
+type of fictional approach to walk the
+reader through King's Quest II: Romancing the Throne. In the fourth chapter, "A
+Magical Primer", from which the following section has been excerpted, he introduces the magical spells from King's
+Quest III: To Heir Is Human. The recipe
+printed here plays an important part in
+King's Quest III.
+
+"Teleportation At Random"
+Obtain the Following Ingredients:
+1 spoonful of salt grains
+
+1 sprig of dried mistletoe
+1 smooth rounded stone of
+unusual color
+A Magic Wand
+To Prepare the Spell:
+1. Grind a spoon of salt in a
+mortar (with a pestle)
+2. Grind the mistletoe in the
+mortar
+3. Rub the stone in the mixture
+4. Kiss the stone
+5. (Recite this verse)
+With this kiss, I thee impart,
+Power most dear to my heart.
+Take me now from this place hither,
+To another place far thither.
+6. Wave the Magic Wand
+To cast this spell: Rub The Stone. In a
+blink you will disappear from where you
+are and appear in another place. This
+spell may be used as often as one wishes
+provided the stone is in your possession.
+(Note: This is a powerful and most useful spell. It has been used to avoid
+danger and peril, and legend claims that
+it has been used on occasion in the exploration of unknown lands. Be warned
+however; that which snatches away from
+one predicament can just as well deposit
+into another. The spell has been known
+to leave one where they started. There is
+one fable that talks about a poor
+bumpkin who came into possession of
+such a magic stone. Unprepared to face
+the dangers of the wilder parts of the
+world he rubbed the stone at will, poofing
+himself from place to place in search of
+wine, women and easy gold. The purveyors of luck were with him for the first
+few times or so, and the stupid boy,
+whose name was Bob Jack, flitted from
+town to beach, across mountains and
+over the seas. Then, the purveyors of
+luck seemed to say "Alright Bob Jack,
+you've won a few; now it's time to lose a
+few!" When he rubbed again, instead of
+vista, panorama or treasure, Bob Jack
+was faced with a hungry lion. Quickly he
+rubbed the stone again. Oops, he was in
+a magician's chamber and the mage
+looked not too delighted with the intrusion. Rub again quick, Bob Jack. This
+time, up a roaring stream without a paddle. Thus it went. Having used up his
+good luck, he used up his bad luck until
+he had no luck left at all and perished.
+The moral of the fable is; "Even when
+you rub things the right way, soon you'll
+rub them the wrong way, and if you do
+that too often, you'll eventually get
+rubbed out.")
+
+To Heir Is Human
+For those who want a more linear narrative of the third game in the series,
+Spear presents the walk-through of
+King's Quest III: To Heir Is Human as an
+
+interview with the protagonist, Prince
+Alexander.
+Question: You must have been scared
+that Manannan would return and catch
+you red-handed, weren't you?
+Of course I was! I may be self-taught,
+but I'm not stupid. But at that point I
+wasn't too worried that he would return
+just then.
+Question: Oh? Why was that?
+My master was a man of extremely fixed
+and regular habits. He would rise at exactly the same time each day. Likewise he
+would retire to bed each night at the
+same time, accompanied by the same
+three fingers of the same awful brandy
+that his taste favored. When Manannan
+slept, it was for precisely the same period
+of time, and when he travelled, he always
+returned at the same time. It was as if he
+were a clockwork person with gears that
+repeated himself eternally.
+Manannan kept in his house a magical
+clock unlike any I have ever read about.
+It was similar to an hour-glass in that it
+would measure a certain short period of
+time and then begin again, then again,
+and again , for as many times as you
+might count. The sorcerer kept the
+device, he would say, as a curiosity, for it
+measured the passing of time in an interval unknown to our kind. He told me
+once—why, I do not know—that it was
+created by another race, one that came
+before the human, or after; he was not
+sure which.
+Over time, I came to see the strange
+clock as a way to measure the man himself. His bath always took two measures
+of the odd time, his studies eighteen, and
+his sleep twenty-five—the same as his
+travels. It was because I knew this of
+Manannan that I wasn't worried that he
+would return just then. I knew that if I
+could keep track of time, as measured by
+the unhuman device, then my master
+could not catch me unawares.
+Manannan would not return for some
+while yet. I used what time I dared to continue my household search. From the
+kitchen I took my favorite clay bowl from
+a shelf, and a wooden spoon and sharp
+knife from the rack next to the fireplace.
+As I passed through the dining room, I
+retrieved an old cup from upon the table.
+Manannan's dining room is large enough
+for a score of people to eat, yet my
+master always ate alone under the eternal
+gaze of a stuffed moose head. I will always consider that a most curious sight.
+I took what I had gathered to my sparsely furnished room, and I hid it all under
+my bed (a cot really). I was sure the
+wizard would not search for them there,
+even if he noticed them missing. Then, I
+went to catch the cat for its contribution
+to my future.
+She was in the wizard's tower; she could
+
+have been just about anywhere, but she
+was on the third floor playing with a dead
+fly. It took several attempts, and many
+more scratches before I got her, but I
+was able to hold on to her long enough
+to take some fur. The unnameable cat
+gave me an extra scratch as she
+squirmed out of my hands, but the spell
+ingredient was mine.
+As were the fly wings. I recalled that the
+spell for flying like a fly needed a pair of
+those wings, so I took the fly to get the
+wings. Yuk, but in a good cause . . .
+saving my hide. I hid the fur and fly
+wings under my bed with everything else.
+
+Grave Matters
+A travelogue advising readers about
+venturing into graveyards is the literary
+device utilized in Chapter 7 to prepare
+the reader for King's Quest IV: The Perils
+of Rosella. The following is a brief section of narrative which includes some
+sound advice for adventurers and one of
+the many humorous epitaphs to be encountered in the chapter.
+Cemeteries change much when the sun
+is gone; what seems normal and mundane by day turns supernatural and
+ghastly by night. Then the restless dead
+haunt between the crypts and moan their
+ways between the tombstones. Zombies
+search for fresh flesh and human brains.
+In all, it is a most enchanting chance to
+experience death without ever having to
+cross over to the other side yourself.
+If you are intrigued by a darkside
+sojourn, do remember to carry along
+some protection. Garlic, religious symbols, or prayer offer good security for
+many, but if you have none of these,
+black scarabs can be obtained occasionally from witches, hags, or other magic
+users. These, too, offer sufficient protection from the undead. Prices vary from
+gold coins or simple tasks, to various
+parts of living anatomy, so do be careful
+to know the price before you agree to
+buy. In any event, heed this warning: Do
+not enter the cemetery at night without
+protection. Zombies, ghouls and ghosts
+may be fun and exciting to watch, but
+you wouldn't want to become their dinner. If you have no protection, leave
+before dark.
+Within this grave do lie,
+Back to back, my wife and I;
+When the last trump the air shall fill,
+If she gets up, I'll just lie still.
+
+Encyclopedia of Daventry
+One of the most fascinating portions of
+The King's Quest Companion is the "Encyclopedia of Daventry". In this fascinating resource Spear notes the specific
+game each encyclopedic entry refer(Continued on page 84)
+
+Review
+
+There are two
+types of Cribbage players:
+those that play the
+game and those
+that play the game
+fanatically. Cribbage King,
+Software
+Toolworks' computer card game
+package, is for the
+fanatics . . . and
+for novices as well!
+
+More Than A
+House of Cards
+Software Toolworks'
+"Cribbage King/Gin King"
+
+The game can
+be either keyboard
+or mouse driven
+and can be customized. Game
+parameters can be
+set to full games of
+121 points or
+quicker games of
+61 points. The
+documentation is
+so clear and wellwritten that it
+should be a standard by which other
+game manuals are
+judged. This is
+matched beautifully with context-sensitive online help.
+Scores accrue
+rapidly in cribbage,
+so a scorekeeping
+pegboard is always
+used. In Cribbage
+King, a 61 hole
+board is graphically
+depicted. In EGA
+and VGA modes,
+even the wood
+tones of the board
+are depicted. Since
+only one hand can
+be depicted on screen at any one time,
+however, the game design only allows
+solitaire play (human-against-machine).
+Too often, these types of games become
+predictable very quickly to the player, but
+designer Donald W.Laabs, cleverly
+created seven unique computer personalities to play against, or even get different advice from. While cribbage itself is
+best played by two competitors, Cribbage
+King can handle up to four (one human
+and three computer) and there is a menu
+to select the various computer opponents, each with a brief on-line description of their playing capabilities.
+Shark is the toughest opponent
+(natch!), but Mrs. Bass will give you a run
+for your money. Alfie is a goof and you
+can easily take advantage of him. Then,
+there is Lady Ames, Lord Ainsley, Chesley, and Reggie. So veddy, veddy British,
+
+Graphics are
+clear and crisp
+even in CGA, the
+minimum graphics
+board requirement.
+But, of course,
+EGA and VGA
+offer even more
+lifelike depictions
+of the cards, the
+pegboard and
+other artwork. The
+sound effects are
+limited to shuffling
+and scoring tones.
+Shuffle options
+allow for regular
+random shuffling
+and a replay with
+the same deck in
+the exact order
+from the previous
+game. This is as
+close as one can
+come to playing
+against another
+human opponent.
+Each can then
+take turns at the
+computer and not
+see the other's
+cards.
+
+In addition, a unique "User Supplied
+Cards" setting lets
+you enter the
+cards you are acby Michael S. Lasky
+tually dealing from
+a regular deck.
+TITLE:
+Cribbage King/Gin King
+This proved to be
+SYSTEMS:
+IBM
+# PLAYERS:
+1
+somewhat of a
+PRICE:
+$59.95
+hassle since one
+DESIGNER:
+Donald Laabs
+must carefully
+PUBLISHER:
+Software Toolworks
+19808 Nordhoff Place
+input the card
+Chatsworth, CA 91311
+number and first
+letter of each card
+suit in order to
+because, after all, Cribbage is of English
+give the computer the correct information.
+origin.
+
+Some Features Optional
+
+Each computer personality is different
+from the next and fun to play with. But
+much of the advice they offer is too
+machine-like and often calculatingly
+wrong. I found it best not to take their
+suggestions concerning which cards to
+throw too seriously. This is not to say,
+however, that novices cannot learn from
+them until they can intuitively do it on
+their own.
+
+If you don't like a particular rule, you
+can turn it off. If you don't like the sound
+and special effects (like the Las Vegasstyle shuffle and deal), you can shut
+them off. If you decide you want a different player in the middle of game or a
+different advisor, a simple touch of the
+mouse button or a function key and the
+game is made to order, once again.
+
+Cribbage King is the first computerized
+card game I've played that does not eventually bore me with the predictability of
+the computer opponents. Although it follows all the rules of the actual game
+closely and moves with the swiftness of
+mano-a-mano playing, it still offers a mar(Continued on page 58)
+
+The cut for deal goes to the low card,
+but you can even override that if you
+want. Counting of points after each deal
+is critical and if you over or undercount,
+the difference between that and the actual score goes to your opponent. This is
+the Muggins option.
+
+Review
+
+Alan Emrich is the
+former publisher of
+Fire & Movement and
+has considerable
+seniority in playtesting and managing
+conventions for the
+board wargame
+hobby. This is his
+first article for CGW.
+hen one is
+an Apple IIGS
+owner, one
+naturally laments the
+low number of "GS
+specific" games available. When one is a
+computer wargamer,
+this is doubly true.
+Fortunately, Revolution '76 alleviates
+some of this drought.
+
+W
+
+Run For
+Your Fife
+Britannica's "Revolution '76"
+by Alan Emrich
+
+Play begins with
+governmental organization. On the
+first turn, the player
+automatically constitutes the Second
+Continental Congress, so this phase
+amounts to appointing leaders to chair
+four important committee posts: Army,
+Navy, Treasury and
+Foreign Office.
+On future turns, the
+player will have the
+options of declaring
+independence, confederating the states, creating a strong executive to manage the
+war, reforming the economy, or reassigning the country's leaders.
+The second phase in each turn involves administration. Here
+you set the tax level (creating instant unpopularity) and establish
+the policy regarding Tories. You can do anything from socializing
+with to persecuting the Tories. It is usually better to prosecute
+them within the law rather than persecute them beyond the law,
+however.
+Recruiting patriotic lads is the next major activity. Since regulars
+tend to disappear each year, the new crops of militia and Continental Army soldiers are vital to the war effort. The major difference between the two is that the militia begins the game with
+pretty poor training and has limited movement, while the Continental Army soldiers have a liberal enough movement rate to
+allow players to mass the required numbers to actually win battles. On the down side, of course, is the fact that one must pay
+to raise the Continental Army.
+One must also decide how much support to give to privateers.
+These "patriotic heroes" are nefarious villains as far as British merchants are concerned, since their activities both raise the insurance rates for seafarers and get more Whigs elected to Parliament.
+The last step before actually fighting the war is dealing with the
+National Debt. One decides just how high one is willing to push
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Revolution '76
+Apple IIGS with 1.25 MB
+$49.95
+Ed Bever
+Britannica Software
+San Francisco, CA
+
+' the debt in order to
+supply the army and
+build American
+Frigates. The more
+demanded during this
+phase, the more
+ruinous inflation can
+be in the long run.
+War is fought via
+area movement in
+five areas with six
+cities to move between. Unlike the historical commanders
+in 1776, the player
+knows exactly where
+the British are, where
+they are moving, and
+what their strength is.
+It does not take long
+to get a feel for the
+size force (in Regulars
+and Militia), the level
+of training, and the
+amount of supplies it
+will take to stand a
+fair chance of defeating the hated lobster
+backs.
+
+Unfortunately, since
+each moving unit requires a general and
+only one general can
+command in a given
+area, this means the
+player must perform a
+political juggling act.
+When more than one
+group converges for
+, a decisive battle,
+some of the generals
+who must, of necessity, be removed from command may become
+alienated enough to defect to the British.
+Of course, winning battles is what the game is all about. The
+computer informs the player of each battle's outcome and automatically retreats the losing forces. The profound effects which
+the results of the war have on American and British domestic
+politics, plus America's foreign diplomacy, makes battles quintessential to winning or losing the game. Success is contingent on
+carefully selecting only battles which can be won, rather than marching to the beat of the local politicians.
+Each turn/year ends with the Diplomacy phase where the player
+sends John Adams and Benjamin Franklin abroad to woo
+France, Holland, Spain, Britain and other European Powers.
+When the war does end, on whatever note (surrender, pardons,
+autonomy, independence or expansion), a victory schedule is displayed. Added and subtracted to the status described at the end
+of the war is: current patriot morale, economic situation, strength
+of the American government, foreign support, the length of the
+war, etc.
+The "victory schedule" for Revolution '76 is extremely clear. The
+game offers depth, challenge and one thing that more games
+should have, replay value. Experimenting with new policies and
+strategies is a great deal of the fun. Revolution '76 is what IIGS
+owners had hoped to see more of when they purchased their
+machines.
+
+Review
+
+Decisive Battles of the
+American Civil War: Volume II
+Strategic Studies Group's Game System Revisited
+
+N
+
+ot
+
+too long ago, I wrote a
+review about a game and
+included the line, "Few
+games have ever been so difficult
+for me to review as this one. I
+have dragged myself back to the
+computer time and again . . . .
+and can now enjoy the relief of
+being able to put the game up .
+.. for a while." The game was
+Decisive Battles of the American
+Civil War: Volume II (DBACW2),
+which I reviewed in its Apple II
+64K embodiment (CGW #54).
+Therefore, what more cruel assignment could the editors of
+this magazine offer than to give
+me another crack at the same
+game? This time, however, I
+have been asked to look at the
+recent IBM release which includes EGA graphics. Given a
+chance to redeem myself, I must
+admit that the sheer enjoyment
+of fighting on the beautifully
+rendered battlefields of this version virtually offsets the frustration that I continue to feel about
+the player's control of his forces
+in this "absolutely true to life"
+simulation of command effectiveness (and non-effectiveness).
+
+by Jay C. Selover
+but is handled by the computer
+in terms of the actual hex-by-hex
+path to be followed.
+
+As is typical for SSG games,
+the system places significant
+(and realistic) constraints on the
+player which limit his ability to interact with his army to that which
+the historical commander was
+able to exercise. The player is personally represented on the field
+by the commander's icon and his
+orders to subordinate formation
+commanders are subject to the
+same perils faced in history (orders may not even be possible
+for some of the more distant subordinates who may have
+wandered out of command
+range). Orders are sent to Corps
+and Divisional commanders and,
+if received, will be interpreted
+and carried out by the subordinate commanders (all played
+by the computer). The subordinates will, in turn, order the
+movement and combat of the actual brigades on the map.
+The entire game system is so
+highly realistic in placing the
+gamer in the field general's
+shoes and hamstrings the player
+so effectively with his historical
+Background
+limitations that my one major
+TITLE:
+Decisive Battles of the American Civil War:
+DBACW2 is SSG's second ofcomplaint (voiced in my prior
+Volume II: Gaines Mill to Chattanooga
+SYSTEMS:
+Apple II, C-64, IBM
+fering in their series of American
+review and reiterated here) is that
+REVIEWED:
+IBM with EGA
+Civil War titles, with this game
+history is no fun. My presence is
+PRICE:
+$40.00
+covering five battles from midDESIGNERS:
+Roger Keating,
+always required everywhere on
+Malcolm Power, and Ian Trout
+1862 through the end of 1863
+the battlefield at the same time;
+PUBLISHER:
+Strategic Studies Group
+(i.e. Gaines Mill, Stones River,
+my subordinates constantly misDrummoyne, NSW, AUSTRALIA
+two Gettysburg scenarios, Chickread or ignore my orders; my foramauga, and Chattanooga). The
+mations move into position with
+game uses brigades as the units of maneuver and turns which
+the kind of slow plodding that makes you pull out your hair; and
+represent one hour. The system uses an orders phase at the start
+my troops seem to break and run at the first sound of gunfire!
+of each turn where players can check the status of their army and
+Closer to the point, and a bit more seriously, I continue to have
+issue orders to particular units and formations. Movement and
+trouble discerning the effect that the individual player has on the
+combat routines which follow during the ensuing "action phase"
+outcome of the battle. Each scenario starts with formations in
+are all handled by the computer. Then, the computer metes out
+position and with standing orders. Therefore, the battle is about
+casualties based on well-defined parameters of the firing units, tarto commence, even if he does absolutely nothing with his pergets, range, terrain, etc. Combat effects include actual casualties,
+sonal commander throughout the battle. Further, within the batlosses in morale, and eventually, shattered and routed units. In
+tle, events tend to unfold along roughly historical lines, thanks to
+addition, individual leaders from the divisional level on up can
+one's computerized subordinates.
+also become casualties or be captured. Movement is directed by
+the player in terms of objectives (victory hexes or enemy units),
+(Continued on page 54)
+
+.1
+
+Review
+
+S
+
+tar Fleet II: Krellan Commander
+is Interstel's longawaited (over 2 years!)
+sequel to Star Fleet I.
+However, this time the
+player's role is that of
+the evil Krellan aggressor—an aggressive
+alien species dedicated
+to the destruction of
+"truth, justice, and the
+United Galactic Way". Intricate and richly textured, Star Fleet II offers an interesting, albeit flawed, perspective
+of tactical and strategic
+space conflict.
+
+Torture and
+Destruction for
+Fun and Profit
+Interstel's
+"Star Fleet II:
+Krellan
+Commander"
+
+However, Star Fleet II:
+Krellan Commander is
+not really a Krellan
+by M. Evan Brooks
+simulation. Instead, the
+player takes on the role
+of a UGA (United Galactic Alliance) commander
+in a simulator. Why this
+one-step farther
+removal concept was
+utilized is not explained
+(but probably revolves
+around ethical considerations). In effect,
+NAME:
+one plays a UGA comStar Fleet II:
+Krellan Commander
+mander playing a KrelSYSTEM:
+IBM (512K)
+lan. There are options
+PRICE:
+$59.95
+Dr. Trevor Sorenson
+DESIGNERS:
+involving questioning
+and Mark Baldwin
+captured personnel (torPUBLISHER:
+Interstel
+ture is very effective)
+Webster, TX
+and destruction of entire planets (a quick way
+to achieve the Krellan
+Medal of Honor), but you don't have to
+tion lacks "Examples of Play" and "Lesfeel guilty about it.
+sons Learned". However, Interstel has
+prepared the "Tutorial Disk and Training
+Manual"—for an additional sum of
+$14.95.
+Documentation
+The documentation is extensive but incomplete. The "Krellan Battle Manual"
+provides over 140 pages of documentation. This is supplemented by an
+"Officer's Manual" and a quick-reference
+chart. It would appear, therefore, that
+these should be more than sufficient for
+play.
+However, the documentation is somewhat convoluted in nature and can be
+confusingly incomplete. For example,
+while the documentation delineates how
+to utilize the automatic targeter navigation mode, it does not clearly state the
+steps to engage it. This reviewer spent 3
+hours struggling over this before realizing
+that one had to turn the engine on in
+order to engage the targeter. Manual
+navigation is a skill that requires extensive "training", but one will have to learn
+this by trial and error. The documenta-
+
+Accessible via the main program, the
+tutorials will answer most of one's questions—both movement and combat. However, the tutorial was unavailable when
+the program was initially released and this
+reviewer does not appreciate the trend
+towards programs needing additional "enhancements" merely to understand and
+utilize the game mechanics. Some
+gamers have indicated that they have had
+no problem with the documentation.
+While such gamers are to be commended for their intuitive insights, this
+reviewer feels that if a tutorial and training manual is needed, it should be included with the main program and not
+sold as an add-on. Since the tutorial was
+still in the process of being written, many
+"unintended features" in the program will
+presumably be explained in the add-on
+manual. These include certain omissions,
+errors and outright flaws which may be
+
+fatal to game play.
+Thus, the documentation is extensive, incomplete and frustrating.
+
+Graphics
+Interstel has been
+known in the past for
+their challenging game
+play, not graphics.
+While Star Fleet II is a
+colorful product, no
+one will ever accuse it
+of being on the "envelope" of graphic
+design. The screen displays use a variety of
+colors, but the icons
+are primitive (e.g. control-type characters
+used to represent different ships on the
+radar displays as in "v"
+for a frigate, "w" for a
+destroyer). In fact, a
+"@" sign represents a
+black hole in space. It
+may be functional, but
+it's sure not awe-inspiring.
+
+Numerous menus and
+displays are available—
+main command menu,
+navigation display, engineering, planetary invasion screens, etc.
+However, even with a
+20MHz machine, the
+shift between screen displays is amazingly slow;
+Interstel attributes this
+to the many calculations/computations
+that the machine is making. This reviewer
+simply notes the slowness of execution.
+The design rationale may be significant,
+but the slow calculations impact poorly
+on the user perspective.
+
+Game Play
+Game play—the strength of Interstel
+products—is present in Star Fleet II, although a number of bugs undermine
+maximum enjoyment. The program
+should be loaded on a hard disk. The
+second disk consists of one executable
+file and virtually fills the disk. It may be difficult to read such a disk and require
+numerous attempts to back up or place
+the program on a hard drive. The compressed file reading difficulty is known to
+Interstel and they are attempting to correct this deficiency.
+However, this is but one of many flaws.
+Overall, the program resembles a Persian
+rug. Such a carpet is always made with
+(Continued on page 42)
+
+(Continued from page 40)
+
+Star Fleet II
+an intentional flaw (since nothing is perfect except Allah), but the rich texture
+and beauty of the product overwhelm the
+end-user. Star Fleet II has both the rich
+texture and beauty, but it is surrounded
+by so much cheap carpeting that one
+wonders if the end can ever justify the
+means.
+Beginning with a battlecruiser, one will
+be promoted to commander of a task
+force (battlecruiser plus four destroyer escorts) and on to admiral in charge of
+eventual planetary invasion fleets. Each
+level of command (from Altern to Admiral) consists of five missions, which in
+turn, begin at a simple level and evolve.
+However, at the lower levels, there is a
+certain sameness—destroy a starliner/warship, capture a starliner/warship. While Interstel personnel can finish the first
+three levels in an evening, this reviewer
+spent three weeks of play merely to rise
+to level three. Although one can play any
+mission (using DEMO mode), successful
+missions will not be saved for career advancement unless one starts from the
+
+beginning. Also, attempting a level seven
+invasion is made very difficult in demo
+mode, since one's legions are relatively inexperienced, unlike those that would be
+present if one had progressed "through
+the ranks".
+
+An early mission involves finding an
+enemy starbase. However, one's ship can
+only long-range scan one-quarter of a
+solar system. Therefore, one has to adjust continuously in order to check the
+potential star systems. Luckily, the starbase is normally located in an inhabitable
+system (green or cyan in color), so the
+search is somewhat limited, but the
+process can become tedious.
+The find/capture of different ships can
+also become repetitive (
+starliner-freighter/light cruiser/heavy cruiser). The
+capture of enemy warships, however, offers a definite learning experience. Save
+the game immediately after contact.
+Since enemy warships do not surrender,
+one must destroy their shields without
+destroying the ship—a delicate operation
+to say the least. Using tractor beams to
+capture the enemy vessel offers its own
+danger, as well. This reviewer captured a
+light cruiser by tractor beam (which involves lowering the shields), only to discover
+that the enemy ship still had sufficient
+strength to reduce the Krellan vessel to
+space slag.
+Certain lessons must be acknowledged.
+Occasionally, an instruction will tell the
+user to "Insert Disk 2 in Drive C". Since
+drive C is usually a hard drive, this does
+present some difficulty. However, the message is an error and can safely be ignored. More important are problems associated with destroyer escort formations.
+The "system search" formation allows a
+maximum reconnaissance of a new solar
+system. However, system search only
+works intra-system. If one places his vessels in system search and then enters hyperspace, the program will eventually
+lock-up. Do Not enter hyperspace in "system search" formation.
+When one finally achieves sufficient
+rank (Centurion) to have four escorts,
+their usefulness may be limited. While
+one can order them to disable an enemy
+vessel by torpedoes, the tendency, with
+all four firing, is for the ship to be "over-
+
+killed". One feels somewhat like the "six
+million dollar man" with a short circuit in
+his arm. Optimization, therefore, calls for
+varied orders to the destroyer escorts
+(e.g. one on hold fire, two on disable,
+one on slave to battle cruiser) and then,
+when an enemy vessel is almost
+destroyed, pause the game and quickly
+adjust orders. This is admittedly not an
+overly elegant strategy, but it does work.
+Passwords are part of the protection
+scheme. The user establishes his own
+password, but the program sometimes
+unilaterally adjusts one's password after
+four missions. Unlike Star Fleet I which
+had a Fleet Manager option to access all
+records, Star Fleet Il's "Manager" only allows one to delete a record. The "quick
+fix" is to use a password beginning with
+an early letter of the alphabet, since the
+computer merely adjusts the first letter by
+moving it eight letters up the alphabet.
+Of course, if one is unfortunate enough
+to have used a password beginning with
+the letter "s", he finds himself running out
+of alphabet and having the new password
+begin with a control-character. Hence, it
+would more than likely not be accessible
+without a corrected disk. Fortunately, this
+"feature" has been corrected on later
+releases.
+When this reviewer reached level three,
+garbage characters would appear on the
+screen in the message boxes and remain
+on the navigational maps. These errors
+do not affect the computer's play, but
+they do impact upon the player's conceptualization. Any computer game requires
+a willing suspension of belief and such errors quickly bring the player back to a
+sad reality. Finally, do not access
+planetary maps until a corrected edition
+is available. Access of such maps may occasionally engender computer lock-up.
+
+Conclusions
+Star Fleet ll is a richly detailed simulation. With consumers waiting for it for
+over two years, it is apparent that a "Rush
+to Publish" overcame any other considerations. Interstel is aware of the numerous
+problems and is working diligently to correct all of them. They will replace user
+disks with working copies. However,
+when such corrections will be finalized is
+still unknown. For this reviewer, at this
+time, the bottom line is—Star Fleet II?
+No, Star Dreck I. Fortunately, many
+gamers have either not been plagued by
+the problems described above or have
+found their way around them and love
+the product. Whatever one's feeling
+about the game, Star Fleet II: Krellan
+Commander is not quite the
+breakthrough gamers had been hoping
+for.
+(c) 1989, all rights reserved
+
+Review
+
+T
+
+he dying sun
+was drenching
+he sky with
+deepening shades of
+red as Severian the
+Conqueror sat overlooking the fortified
+city of Tetrada. His
+mount tremored
+beneath him, nostrils
+twitching, as the
+clouds of dust from
+by Biff Kritzen
+the seemingly endless, winding
+column of troops at
+his rear began blowing over them. The
+long road that had
+begun in Aladda, so
+many years ago,
+had finally brought
+them to this final
+confrontation with
+the usurping
+Lucinian IV. The big
+bay's tail swatted at
+the ever present flies
+as Severian signaled
+for his army to begin
+deploying for their
+final night of enTITLE:
+Sword of Aragon
+campment. By this
+SYSTEM:
+IBM
+time tomorrow, the
+# PLAYERS:
+One
+PRICE:
+long campaign that
+$39.95
+DESIGNERS:
+Russell Shilling & Kurt Myers
+had started with the
+PUBLISHER:
+SSI
+treacherous murder
+Sunnyvale, CA
+of his father would
+be ended, one way
+or the other, and the ground would match the evening sky with
+its own bloody shades of scarlet.
+
+A Strong Right Arm
+SSI's "Sword
+of Aragon"
+
+Sword of Aragon is a fantasy, economic, military wargame that
+challenges the player to conquer city states, manage the realm's
+economy, keep the peace, fight off marauding invasions, explore
+unknown territory, recruit and maintain armies, and, (oh yes),
+reclaim a throne wrongly usurped by a despotic tyrant who sits at
+the head of a huge army, camped behind the walls of a heavily
+fortified city. Piece of cake, right?
+The game opens with the player ascending to the throne of
+Aladda, a small city state that is trying to regain its lost glory as
+capital of the realm. The economy needs reinvigoration, the army
+needs recruits and training, and the ruler/player needs seasoning.
+The first choice to be made is what kind of player to be. The
+choices include Warrior, Knight, Ranger, Mage, and Priest, each
+giving the player a different makeup of initial forces, and establishing the costs of the different unit types for recruiting and training purposes. The unit types to choose from, typical of ancient
+warfare, are infantry, cavalry, archers, mounted infantry, and
+mounted archers. Each has different strengths, weapon and
+armor availability, and movement values. It's left to the player to
+discover the optimal weapon and armor mix for the forces he
+wants to field. Lots of combinations exist, and it's quite a challenge to maximize a force's fighting ability. Knights will probably
+field armies with strong, shock cavalry wings; warriors will fight
+with large masses of spear carrying infantry, supported by
+divisions of javelin troops; rangers will fight with large bodies of
+mounted and foot archers, outfitted with a variety of bows and
+slings; while mages and priests will contest the battleground with
+large numbers of spellcasters.
+
+Victory on the battlefield will ultimately
+go to the side that
+has the best mix of
+forces and uses the
+proper tactics for the
+situation at hand.
+This fantasy version
+of "combined arms"
+is necessary because:
+attacking fortified
+cities with foot infantry is doomed to
+failure without artillery (oops, make that
+archers and
+spellcasters) to soften
+up the defenses first;
+archers, priests, and
+mages caught out in
+the open without infantry and cavalry
+support will soon be
+shredded by enemy
+spearmen; and infantry butting heads
+with opposing
+ground troops will
+never achieve
+breakthroughs
+without shock cavalry
+to punch holes in
+the enemy lines and
+help conduct overruns.
+
+After selecting the
+' initial character and
+forces, it becomes time to take a look at the state of the
+economy. The economic subgame is an important part of successful campaigning. Troops can't be paid, trained and outfitted
+with promises. They require gold and there's no deficit spending
+in Aragon.
+Each city's economy is made up with different sectors, based on
+its geographical location. Seaports rely on trade, cities in the
+mountains depend on mining, and agriculture is the main
+product of towns on the plains. Committing money to different
+areas will increase the revenue brought in and adjustment of the
+tax rate will fill the coffers. Of course, too high a tax rate will
+cause a loyalty and popularity decrease in the city and this will
+negatively impact on production and recruitment. Careful allocation of gold will keep your city thriving and the population happy.
+Garrisons are necessary in some of the wilder terrain, and maintenance for the armies all dips into the national treasury. So a
+good warrior with a lack of appreciation for economic matters will
+find himself fighting with fewer and fewer troops. Armies don't
+march and fight on empty stomachs.
+Each city has a net economic gain or loss that it adds to the
+player's overall balance sheet. Thus, more cities conquered
+means more potential gold for the realm's treasury. The down
+side to this is that the more cities under the player's control, the
+higher the corresponding maintenance costs that must be paid.
+The above notwithstanding, the game is won and lost on the
+battlefield. Each turn is represented by a month of game time, so
+each year will see a series of campaigns launched in the spring
+and, hopefully, concluded before the onset of winter. Winter
+weather wreaks havoc on troops caught out in the open in the
+
+form of attrition. Each hex moved into will cause a loss of men
+through desertion, based on the severity of the weather and the
+terrain moved into. The sight of an army melting away before
+your very eyes is a most discouraging thing. It's too expensive to
+recruit, train, and equip an army. To have it undermined by poor
+planning and disregard for the weather is inexcusable.
+As more cities are conquered, and treasuries grow, new armies
+will be created. Some will be armies of occupation, their chief mis
+sion becoming "keeping the peace". Other armies will arise for
+conquest. These armies will be heavily laden with spearmen and
+archers, perfect for siege and conquest. The final stages of the
+game will see all theses armies coming together for one or two
+final campaigns that will make or break the player.
+As important as strategic planning is to the war effort, it's still
+
+the "push of the pike" that wins or loses the day on the battlefield. The tactical battle subgame is really the heart of the
+game. Each unit maneuvers and fights over the different terrain
+that makes up the realm: rivers; forests, hills, mountains, villages,
+and fortified towns. The player's divisions move individually and
+can force march, entrench or fire range weapons as circumstances dictate. Since the enemies vary from area to area, so do their
+battle tactics. This puts a premium on the proper mix of forces,
+and their correct deployment and use. Archers and spellcasters
+should always be entrenched and placed behind a wall of infantry. Cavalry should be positioned on the flanks or behind the
+lines, kept in reserve for the appropriate time of the battle when a
+weakened, demoralized foe can be overrun and crushed.
+Enemies entrenched in towns should be bombarded with spells
+(Continued on page 53)
+
+Computer Gaming World's
+See Reader Input Device on page 96
+
+The Categories
+Strategy (ST): Games that
+emphasize strategic planning
+and problem solving.
+Simulation (SI): Games based
+on first person perspectives of
+real world environments.
+Adventure (AD): Games that
+allow you to take your alter
+ego through a storyline or
+series of events.
+Role-Playing Adventures
+(RP): Adventure games that
+are based on character
+development (usually
+involving attributes).
+Wargames (WG):
+Simulations of historical or
+futuristic warfare from a
+command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+
+Top 100 Games
+
+THE HALL OF FAME
+The Games In
+CGW's Hall Of
+Fame Have Been
+Highly Rated By
+Our Readers
+Over Time.
+They Are Worthy
+Of Play By All.
+CGW Congratulates
+The Latest Addition
+To The Hall Of Fame,
+Dungeon Master.
+
+Review
+
+The Ploys of
+Thunder
+Cybernetic Combat in
+Origin's "Omega"
+by Russell Sipe
+hush fell over the assembled throng as they
+crowded close to the monitors before them. After
+A dozens and, in many cases, hundreds of hours of
+programming and fine tuning, the finalists were down to
+the nitty gritty.
+The tension
+could be cut with
+a knife.
+DRAGON'S creaking treads pulled
+it around for the
+final showdown.
+MUSTANG had a
+one point lead
+but DRAGON
+had him 'lined
+up'. A flash of
+light and MUSTANG was
+smashed into a
+pile of misshapen ginzu
+knives. All
+DRAGON had to
+do was outlast
+just one of the
+remaining two
+robots and claim
+the prize. But
+fate was not
+blowing
+favorable winds
+for DRAGON.
+One of the
+remaining combatants, SABOTUR, decided to
+play the role of spoiler with a
+HILL:
+Omega
+SYSTEM:
+Apple II, C-64, IBM, Mac, ST
+well aimed shot to the midsec1-?
+# PLAYERS:
+tion. The smoking DRAGON
+PRICE:
+$49.95
+DESIGNER:
+Stuart Marks
+went down. MUSTANG and
+PUBLISHER:
+Origin Systems
+DRAGON
+ended the tournament
+Londonderry, N.H.
+in a "dead" tie (literally) for the
+championship.
+The scene was in the offices of Computer Gaming World
+and the event was CGW's Third Annual Robotwar Tournament held in 1984.
+Muse Software's Robotwar was a uniquely engaging game
+back in those days. But, as with any game, time took its toll.
+Muse Software went out of business, and with it, Robotwar's
+availability.
+
+Now, the folks at Origin Systems have developed an all
+new and very excellent robot war game entitled Omega. To
+say that Omega owes its heritage to Robotwar would be almost as much an understatement as it would be to say that
+Omega has greatly improved on the idea. Omega has all of
+the good points of the earlier game plus a whole lot more.
+
+Cybertanks R Us
+In Omega, you design futuristic cybertanks to fight on
+simulated battlefields.
+You begin the game in a fictitious future as an entry level
+employee of OSI (Organization of Strategic Intelligence), the
+world's leader in military cybernetic tank development. The
+detailed 250+ page documentation is set up as your
+employee manual. The fiction of OSI is carried out thoroughly, right down to an OSI electronic mail system, which posts
+more or less humorous notes to you at the beginning of
+each game.
+There are two stages in the design of your cybertank. First
+you spend what available credits you have to buy the
+hardware that makes up your tank. This includes your chassis, fuel cells, drive system, weapons, scanners, and (if you
+can afford it) special items. One of the special items is a
+Comm-Link which allows tanks to communicate with one
+another. This opens the door to designing teams of tanks.
+The second stage in the design of your cybertank is the
+development of the tank's Al (artificial intelligence). Herein is
+the heart of the game. Inexperienced "cybertank engineers"
+will want to use the pre-designed capsule routines provided
+in the game (with such descriptive names as KillTank, BeeLineHunt, Panic, and BerserkAttack). You can pick and
+chose from these preprogrammed routines to produce a
+complete Al for your robot. More experienced cybertank engineers will want to use the full-featured Cybertank Command Language to develop more efficient routines of their
+own.
+When you have your cybertank built and programmed, you
+put it up against OSI's predesigned test tanks. There are 12
+increasingly sophisticated designs against which you will "test
+your mettle." If your tank can defeat the test tank in, at least,
+7 of 10 one-on-one battles, you will be "promoted" and
+given a larger budget. The budget is then used to purchase
+more expensive hardware (drives, weapons, etc.). The more
+sophisticated the test robot you defeat, the bigger your
+budget.
+
+Goin' Off To War
+The real excitement of Omega comes from pitting your
+designs against those of human opponents. You can take
+your design and transfer/port/modem it over to any of the
+other versions of Omega: Apple, C-64, IBM/Tandy, Amiga, or
+Atari ST. You can upload it to BBSs to fight in tournaments.
+Finally, you can upload your design to the Origin Systems
+Omega BBS and participate in the Official Origin SystemsComputer Gaming World OMEGA Tournament. Details of
+the tournament are included in the game. Deadline for submissions is January 31, 1990. Ongoing results will be
+printed in Computer Gaming World with the finals hosted by
+CGW and fully reported in the March 1990 issue of CGW.
+
+Design Tips and Ideas
+
+• The task of designing a winning Al comes down to ac(Continued on page 86)
+
+(Continued from page 45)
+
+A Strong
+Right Arm!
+and missiles before any shock assaults are ordered. The defensive value of terrain can really bolster a unit's value, so never try
+to storm a position without ample preparation, the losses will be
+too high.
+I've only just touched upon the more obvious aspects of
+gameplay in Sword, there is much more to be discovered during
+the 30-45 hours required to win the game. It's possible to
+achieve victory in the game without getting a perfect score (500
+points), so even when the realm is conquered, there's still a city
+or two to discover and take, and a lot of those monsters just
+won't take kindly to defeat, they'll keep coming back for more.
+The only negative factor one could mention about the game
+concerns the interface. Sword of Aragon fairly cries out for
+mouse support. The keyboard interface is somewhat 'clunky' at
+times. A better design, or mouse support could have eliminated a
+few unnecessary keystrokes and made gameplay somewhat
+smoother.
+SSI has really developed a winning system in Sword of Aragon
+By merely changing the unit types from, say, cavalry to armor,
+and broadening the economic sectors to include different types
+of manufacturing and trade, they could come up with a game
+based on more modern warfare. Or by changing the geography,
+they could aptly simulate the War of the Roses. The possibilities
+are really endless.
+The economic/military system in Sword is challenging and ultimately rewarding. There's still nothing like spending a winter
+quartered in a newly conquered city, running the world as you
+see fit. Ah, the Divine Right of Kings!
+
+(Continued from page 36)
+
+Decisive
+Battles
+
+Graphic Improvements
+All of the above, plus a bunch more, can be found in my prior
+review. What about the specifics of this release—the IBM version?
+First, my IBM machine is inherently much faster than my Apple,
+so the very noticeable increase in processing speed and reduced
+"dead time" was to be expected. Next, the graphics . . . ah, the
+graphics . . . This is truly what saves this version of the game for
+me and makes me willing to sit there through playing after playing, just watching the action unfold. With the curious exception
+of the Chattanooga scenario (What happened, run out of
+memory?), the maps do not have single hexagonal icons for each
+terrain type. Therefore, the player gets more of the feel of looking
+down on a true aerial photograph as he surveys the battlefields.
+However it was accomplished, the EGA graphics on the IBM are
+truly a sight to behold.
+If my prior review of this game did not put you off completely;
+you may just have to go out and buy an IBM machine so that
+you can, at least, properly enjoy the game.
+
+(Continued from page 16)
+
+had brought some of Indy's personal characteristics to the
+game instead of settling for a "cardboard" caricature.
+
+from one precarious
+place to another. Instead of becoming a
+game that features an
+Indiana Jones which
+fans can readily identify with, the game becomes just another
+search and recover
+game in which the
+character icon happens to resemble a
+familiar film hero.
+It would have been
+nice if the designers
+
+(Continued from page 32)
+
+Cribbage King
+Gin King
+velous capacity to surprise. Tournament
+mode can be turned on for printed
+scores and history
+of past scores
+broken down in
+various statistical
+forms.
+
+Some
+Restrictions
+Do Apply
+That said, I have
+only one complaint.
+The pegboard display does not completely satisfy. You
+cannot easily determine what the scores
+are from deal to deal because the it is
+
+not numbered and, because of graphics
+limitations, the display is only half the size
+of a regulation cribbage board. There
+is certainly room
+on the screen for a
+corresponding digital read out of
+
+Factory
+Incentive
+Also included in
+the package is Gin
+King. Everything
+said about Cribbage King goes equally for this welldesigned and easy-to-play gin rummy
+
+game. Customizable games and excellent
+on-line help make playing and learning
+to play as fun as it is quick.
+Two types of Gin can be programmed:
+regular and Oklahoma. The latter's first
+upcard determines the maximum deadwood allowed when "knocking" (or putting your cards down without actually
+having gin).
+Cribbage King is well worth its price. To
+have Gin King also included makes it a
+decided computer game bargain for any
+card shark.
+
+(Continued from page 28)
+
+Smooth As Silk
+crucial moment. Some of the options which "coaches" may consider are: trying to effect a steal, crashing the boards, protecting
+or setting up the fast break, working inside or outside, working
+the clock, making a quick shot, and fouling the opponent. If the
+player desires, however, the "auto" option allows the computer to
+make all of the coaching decisions so the gamer may concentrate on the play action. Pure action garners will find this a
+valuable option. Others may want to control the play action while
+having a friend set the strategies as the coach.
+
+Cheap Seats (The Basic Game)
+In the "End-View" Module, which
+comes standard with the game, the
+gamer does not actually control
+his/her team members. Instead, with
+the use of "Flow-Control", he/she
+"yells" at them. Whether it be controlled by human or computer, the
+"coach" helps players move the ball,
+set picks, develop plays and handle
+defense. "Flow-Control" allows the
+gamer to make brief split-second
+decisions that can make the difference
+between victory or defeat. It allows the
+gamer to react by passing and shooting the ball, as well as attempting to
+block shots.
+As the game loads, players see a
+glimpse of the opposing head coach and his team. One then has
+the option of viewing the Nick & Bob Pregame Show, which contains information which may lead to your team's success. If you
+select the Pregame Show, the screen blanks out and you see a
+view of the entire court with Nick & Bob in the foreground. As
+they begin to talk about the two opposing team's strengths and
+weaknesses, you will notice an odd sense of humor in these two
+men. They exchange insults back and forth and still manage to
+stay on the topic of the day's game. Their information is valuable
+and one is advised to watch their show prior to every game. They
+will identify the opposing team's star player, the best shooter, the
+best rebounder, and any other pertinent data. It has plenty of
+television-style color, as well. (The halftime show is less important.)
+As in most leagues, this game provides a definite home court
+advantage. This advantage should not be confused with the
+players' "Hot Value". This factor measures the capability of a
+player to shoot the ball at maximum potential (i.e. Are they on a
+"Hot Streak"?). This component is also measured and recorded
+by the game.
+
+Stats, Stats, and More Stats (League Play)
+In setting up the "SBA" League, the gamer can select the number of human-owned teams (1 or 2). You may also select which
+division you will play in, as well as the minutes per quarter, the
+number of games per season, and the length of the playoffs.
+In the "College" League the player will be able to recreate the
+NCAA tournament to determine the National Champion. The
+player has a choice of 64 teams that qualified for the 1989 NCAA
+tournament. There are four regions made up of 16 teams in
+each region. The teams are ranked. All teams have their actual
+starting five line-ups with their real stats from the 1989 regular
+season. The other seven players on each team do not have real
+names (they are referred to as forward 1, guard 2, etc.) and are
+ranked randomly.
+
+When the "College" League Module is loaded the player will see
+a split screen with the close-up of the tournament tree on the left
+and a miniature version of the entire tree on the right. The closeup will show the gamer their selected team, as well as their next
+opponent. The player can choose if they wish to view their team's
+or any other team's regular season's stats. As in real College Basketball, the three-point line is shorter than that of the "SBA". Injuries are for one game only, as opposed to the "SBA" where injuries can last up to 10 games. If the player advances to the next
+round, the gamer's team records are saved and the tree displays
+your next opponent.
+In both the "SBA" and "College" League Modules, statistics for
+each team are displayed at the end of each game (number of
+minutes played (MN), shots/field goals attempted (FGA), shots
+made (FGM), field goal percentage (FG%), free-throw attempts
+(FTA) and made (FTM), percentage
+scored (FT%), total points (PT),
+rebounds (RB), personal fouls (F),
+steals (ST) and blocks (BL). These
+stats are recorded and compiled into
+the team history statistics (Note: The
+"College League" Module does not
+have this team history option.). In the
+"SBA", team averages for the humanowned teams can be accessed.
+With the "Side-View" Module, the
+end-of-game statistics are enhanced giving
+the player "quarterly-points-scored" as
+well as arranging the players in top
+scoring order. Individual and team
+records can also be displayed at will.
+As stated previously, in the "Side-View" Module, the gamer controls the center. In the Amiga version, opposing centers are
+denoted by their white jerseys. The way the gamer may identify
+his center from that of his opponents is by the different colored
+stripe on the socks of both centers. The stripe matches the color
+of rest of the team's jerseys. Knowing the programming enigmas
+associated with the differentiation of the centers, this reviewer still
+felt that it was very difficult to distinguish one center from the
+other while playing the Amiga version. (In the C-64 version, the
+centers have different colored shirts.)
+At half-time, the gamer is treated to a "dazzling display" by the
+SportTime Cheerleaders if he/she so chooses. This bevy of
+beauties will perform their fast-paced exploits to a pulsating beat
+down on the arena floor. While a welcome diversion from the
+Nick & Bob show, players need only watch this display once. A
+cancel option is provided.
+You can only make the playoffs if you finish either first or
+second in your division. If you finished first, you will play the
+second place team in your division and vice-versa. If a player has
+been injured previous to a playoff game, he is not eligible to play
+until he is healed. If you happen to win your first playoff game, a
+humorous commercial will be shown. As previously stated, the
+length of the playoff series may be set at the beginning of the
+game when creating the new league. The gamer can choose a
+best of one, three or five game series.
+
+Post Game Report
+Omni-Play Basketball has a minimum requirement of 512k on
+the Amiga. It is hard disk installable and not "software" copy
+protected (although you are asked for keyword identification from
+the manual). Be sure to read the manual. A completely different
+level of the game will be discovered. The game comes standard
+(Continued on page 64)
+
+,
+
+(Continued from page 62)
+
+Smooth As Silk
+with the "End-View" and "SBA" Game Modules. Presently available
+for additional purchase are the "Side-View" and "College League"
+Modules (The retail price is $19.95 for both the Amiga & C-64)
+The "Pro League" Module is due out in January of 1990 while
+the "Fantasy League" and "Print" Modules are due by June 1990.
+(Note: These additional modules are only available directly from
+SportTime - they may be reached Monday - Friday 1PM to 4PM
+PST at 1-800-PLAY GAMES.)
+SportTime's expandability feature will also include updates to existing modules. For instance, if gamers want to see XYZ features
+incorporated into the game this will be possible through future
+releases and updates. This reviewer has been told that SportTime
+will try to keep communication with its fans through a newsletter
+called "Video League News" that will start circulation at the beginning of 1990.
+This reviewer felt that in early seasons in an "End-View" Module
+game, players seemed to commit an inordinate amount of fouls.
+As players grew in experience and their "control" (C) skill rating
+grew, this issue seemed to correct itself. This problem was not evident in the "Side-View" Module due to the differences in the style
+of game play. Upon first inspection, the "Side-View" Module
+seemed to have more "arcade type" features. This is because of
+the difference in the play interface, i.e. garners now have full control over a player. Not just to pass and shoot but also to box out
+opposing players, set picks, and call for the ball. Upon closer examination, however, there is an implied "strategy factor" for the
+gamer due to the fact that the rest of the team continues to play
+while you setup your center for different game plans. Scores in
+this game module are lower because the gamer will find that
+he/she is controlling the ball more than in the "End-View" Module.
+The special effects incorporated into the program are superlative in every way. Some of the effects available with expanded
+memory include: the swish of the net or the clank of the rim and
+backboard as a basket is scored, the rolling noise as the ball
+circles on the rim, cheers from the crowd for the home team and
+boos for the visitor when baskets are made and/or fouls are committed. The game also allows for the referee and his whistle, fouls
+and ejections, technical fouls when a player breaks the backboard, free-throw shooting, overtime, shot clock variation for different quarter lengths, the end of quarter buzzer, individual game
+and season stats for your team, game forfeits and lost trading
+points.
+For this reviewer, the level of painstaking detail put into the final
+product make this game worth purchasing alone. For instance,
+when Nick & Bob are carrying on with their Pregame Show, the
+arena organ can be heard riling the crowd in the background. It's
+so real that gamers can hear the surge of the crowd as the excitement builds in a game. The programmers have even provided for
+extra levels of cheers that can be heard when your player is
+fouled (in the home court) in a shooting situation and the shot is
+good!
+The manual was found to be extremely thorough. The game
+play as well as the real-life aspects of the game seem to be
+covered completely. Overall, this game is a must for the sports
+simulation and statistical buff as well as the multi-player game
+fan. The game also takes into account whether the player is a
+"joystick jockey" or not and allows a set-up where strategy is the
+main concern. Considering the expandability factor and the
+flexibility in game play, SportTime's Omni-Play Basketball is
+tops!
+
+Review
+
+Guerillas In
+The Myth
+Koei Reveals The
+"Bandit Kings of Ancient China"
+by Johnny L. Wilson
+
+A
+
+nd lo, Myth begat Legend and when the Legend
+had fully conceived, it brought forth History. The
+ancient Chinese myth spoke of 108 demon spirits
+set free on Lian Shan Bo mountain. The legends told of
+ostracized heroes who lived
+on the fringes of society until
+they could gain the strength
+to right the wrongs they had
+incurred and restore the glory
+of the Song Dynasty. In the
+modern era, the legendary
+deeds of these ancient outlaws were sketched so broadly on the canvas of story that
+they inspired Mao Tse Tung
+to hold his band of revolutionary guerillas together until
+they could impact the world
+with their communist coup.
+
+Something Familiar
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+PUBLISHER:
+
+At first glance, Bandit Kings
+of Ancient China (Bandit
+Kings) appears to offer the
+same interface and same
+strategic challenge as earlier
+Koei releases (Romance of
+the Three Kingdoms,
+Nobunaga's Ambition, and
+Genghis Khan). The game
+covers a period of history with which most
+Bandit Kings of
+occidentals are not familiar. In this case,
+Ancient China
+12th Century China. Also, the graphics are
+IBM
+just as colorful as those in its predecessors,
+1-5
+$59.95
+even if they are more finely detailed. In addiKoei Corporation
+tion, the game is still primarily menu-driven
+Burlingame, CA
+and offers a marvelously detailed manual
+with the highest production values Koei has
+yet put into a manual. Players must still unite provinces
+(in this case, prefectures), build a strong economic and
+military base, and handle diplomacy. In fact, players
+even end up reuniting the Song Dynasty in much the
+same way China is united in Romance of the Three
+Kingdoms and Japan is centralized in Nobunaga's Ambition. Finally, as in Genghis Khan, nearly every activity
+has its cost in attribute points.
+For those who have never played a Koei game, these
+strategy games offer seasonal turns in which the player
+controls a primary leader and must select the options
+which indicate what the prioritized activity for each con-
+
+trolled area/province/prefecture shall be during a given
+season. Diplomatic negotiation, war, economic build-up,
+military escalation or determining internal politics may
+be necessary activities in any given turn. In Bandit
+Kings, each turn is equal to a month of game time.
+
+Something Peculiar
+Yet, for every facet of the game which seems familiar,
+there seems something new. For example, even though
+the game touches base with actual history, the story line
+of Bandit Kings is so intertwined with myth and legend
+that magic becomes a vital factor. One may be able to
+peer backwards through the mists of time and
+demythologize the fireballs into flaming arrows and scorched earth attacks which assumed supernatural power
+in the minds of ancient peasants, but "magic" must be
+reckoned with in order to succeed in Bandit Kings. Also,
+where the earlier games basically offered short versions
+and long versions of the same game, Bandit Kings offers four scenarios with the same basic goal, but distinctive constraints.
+The graphics in Bandit Kings have been enhanced
+beyond Koei's earlier designs by the addition of more
+than one screen to indicate defeat and development of
+a beautiful victory/reward sequence. In Genghis Khan,
+for example, the game indicated that the player was
+defeated by portraying a screen of the player character's
+death (penetrated by a score or more of arrows in the
+world conquest scenario and facing public execution in
+the Temujin scenario). In Bandit Kings, the screens
+which tell the tale for a defeated player depict: a jail cell
+door closing upon the forlorn figure of a disgraced
+player character; an animated sequence where the conquered player character is convincingly beheaded; and
+the burning and looting barbarian hordes during the invasion of A.D. 1127. The victory sequence provides the
+player with the catharsis of having satisfying confrontations with both Gao Qui and the emperor.
+In addition to managing the economic and military affairs of the player's controlled prefectures, management
+of human resources is more important than in the earlier Koei games. Each hero (commander), including the
+player's character himself, can only command a maximum of 100 soldiers. Thus, it is exceedingly important
+to recruit and retain subordinate commanders. If the
+player doesn't keep the loyalty levels of these subordinate commanders high enough, they will often defect
+and take their soldiers with them. Timing is essential. It
+is not a good idea to recruit a "hero" to serve with the
+player's character unless the player has enough gold to
+immediately purchase the subordinate's loyalty.
+When the player's primary character builds up sufficient popularity, recruiting not only becomes a relatively
+simple task, but non-player characters occasionally appear from all over the country, begging to be recruited.
+Until this plateau is reached, however, recruiting is a
+"touch and go" matter. The player's primary hero must
+venture into town; examine the roll of prospective
+heroes; and either divine the prospective hero's
+thoughts (by paying a soothsayer) or attempting to
+recruit. Utilizing the soothsayer saves time, keystrokes,
+and popularity (i.e. "face"). If the player tries to recruit a
+hero who is not kindly disposed toward his primary character, the character will lose "face", be chided to expand,
+and become more popular.
+To further complicate the player's efforts, Gao Qui's
+
+magistrates wait around like vultures to pluck a percentage of any accumulated funds whenever the player's
+character or subordinates seem to be getting ahead.
+Much of the time, the operative principle is going to be
+"Use it or lose it!" Note that whenever support in a given
+prefecture goes over the 60 mark, the tribute demands
+become more and more frequent.
+Finally, where unification of a country or empire is the
+final goal of Bandit Kings' predecessors, unification
+takes something of a back seat to avenging wrong, vindicating personal honor, and bringing one particular
+foul miscreant to justice. Said foul miscreant is Gao
+Qui. Once a fine athlete who earned the emperor's attention on the playing field, the Gao Qui present in the
+game is a lethargic and obese (with bulbous distended
+stomach which rivals a water buffalo's) coward who
+spends his days and nights jeering at his rivals, plundering those who work diligently and seizing power with a
+megalomania that rivals his appetite for food. Any time
+the player experiences a minor misfortune, an on-screen
+caricature of Gao Qui laughs at the player's expense. Although the designers did not actually animate his fat
+sweaty jowels and rolling flab, the caricature still seems
+to take on a malevolent gleam as the game progresses.
+Before the satisfaction of trouncing this diabolical villain can be achieved, however, the player character
+must reach a plateau which did not have to be accomplished in the earlier games. The player's primary
+character (called a "Good Fellow" in the game) must
+reach a popularity of level of 250 before the emperor
+will allow him to bring the fat, sleazy coward to justice.
+Also, unlike the previous games where the player's characters could keep on playing until they were killed or
+died of old age, the character has to accomplish his task
+before A.D. 1127 when the northern barbarians invade
+the empire.
+
+Something Outrageous
+Bandit Kings offers more than any previous Koei
+product. One cannot help but be amazed at the solid research, brilliant system, and fabulous game play which
+all of these games offer. Nevertheless, even the best of
+games can be improved and the Koei interface in particular is no exception. There must be a thousand extra
+keystrokes per game session which could be reduced
+with a mouse interface. Mouse support is becoming
+more and more standard in the MS-DOS environment
+and charging through menu after menu in these games
+makes the player understand why that support is so
+popular.
+
+Second, although the present reviewer appreciates the
+fact that the combat screens feature zones of control
+(Romance and Nobunaga did not), the computer opponents in Bandit Kings are not nearly as competitive
+as those in the earlier games. In Bandit Kings, it is the
+rare unit under the computer's command that acts aggressively. Most of the time, the computer's forces sit in
+the castles and wait to be obliterated. In all fairness to
+the Al, however, the combat maps contain more hexes
+than ever before and there are more options in the combat menus. Therefore, the plethora of additional considerations creates more complex combat algorithms
+which, in turn, probably has a tendency to induce a
+more conservative computer opponent. This fact may
+present something of a sameness to the tactical combat, but it certainly assures that the opponents will use
+the terrain to full defensive advantage (something the
+opponents in the earlier games did not accomplish
+often enough).
+There was one minor feature which this reviewer found
+annoying. There is a major mechanism in the game
+where Gao Qui's minions demand tribute. The player
+has the option of acquiescing to or refusing the
+demand. If, of course, the player refuses a villain who
+happens to have a larger/stronger force than the player
+has in a given prefecture, the villain will invariably attack. If the player builds up his forces sufficiently, the
+bad guys will eventually give up. Unfortunately, no matter how strong the player's forces are, there is an annoyance feature, apart from the major mechanism,
+where Gao Qui sneaks in and forces the player's characters to pay tribute. The player has absolutely no
+recourse in this circumstance and Gao Qui takes no
+risk whatsoever in plundering the player's funds. The
+designer insists that this is an annoyance factor
+designed to motivate the player to go after Gao Qui with
+that much more enthusiasm when he can. "Paying
+tribute" is the wrong term. One has a choice whether to
+pay tribute or not (and often pays the consequences if
+one refuses). Actually, Gao Qui is raiding the player's
+treasury behind the player's back. The on-screen message which the player receives should suggest this more
+sinister activity where Gao Qui is acting in cowardice
+rather than implying that Gao Qui is acting from a position of strength. The motivation would be more clear
+and the atmosphere would seem more authentic if this
+message would change. Whatever the motivation,
+though, trouncing Gao Qui and his minions is truly a
+satisfying accomplishment with an expanded personal
+(Continued on page 93)
+
+(Continued from page 22)
+
+even though another aircraft may be a
+more immediate threat. When initial target acquisition is achieved, the targeting
+square turns oval. When it changes
+color, hit probability is very high. If a hit is
+made on a primary or secondary target,
+the computer will offer congratulations
+(e.g. "great hit!"). This reviewer would
+have liked to see a tone and lock-on
+beep (a la "Top Gun") in the targeting
+procedure.
+
+F-15
+Strike Eagle
+II
+Difficulty levels range from
+rookie-pilot-veteran-ace, but flight characteristics
+remain the same throughout the simulation. Higher levels of difficulty simply
+cause more and better enemy planes and
+air defenses and a more rapid accumulation of damage.
+Flight and combat operations are easy
+to learn. Weapons systems are fixed, and
+may be selected by key-press ("G" for
+ground, "M" for mid-range air-to-air, and
+"S" for close-in air-to-air missile). Enemy
+missile systems are of two (2) types: radarguided and infra-red homing. Chaff is an
+effective countermeasure against the
+former, while flares may be utilized
+against IR-horning threats. Based on this
+reviewer's experience, chaff is more efficient and, in most cases, will avert the
+
+threat. However, newer missile and
+homing systems require active avoidance
+in addition to flares. In any case, if one
+changes course to meet the missile at a
+perpendicular, it will normally lose target
+acquisition. The problem with this is that
+in a high threat environment, one will be
+all over the sky and lose sight of the mission.
+Targeting the enemy is a simple matter.
+For example, if the ground missile is
+selected, one may toggle between visible
+ground targets. The air option is similar,
+except that the toggle is unavailable. If an
+air threat is shown, one cannot switch,
+
+Navigation is simplified by having the
+"waypoint control" (no relation to Mr.
+Peabody's "wayback machine") already
+locked in with primary target, secondary
+target and friendly airfield. The initial
+Strike Eagle allowed one to set the
+waypoint control manually and this
+reviewer missed that option, but the current settings are easy to use and assist in
+mission accomplishment.
+In rookie levels, one begins in the air.
+At other levels, one can take-off and land
+from airfields/carriers. In order to land,
+one must "target" the airfield. This option
+was used in lieu of an ILS approach in
+order to save memory. If one is a member of the CIA school of flying (i.e. "Clod
+in the Air"), an auto-pilot option will land
+the plane by itself. Careful attention to
+this mechanism can be an excellent learning tool in learning how to land. MicroProse is to be particularly commended for
+this option!
+Historically, F-15 II is more of a game
+than a simulation; but it openly admits
+this. Thus, while the F-15 is not used in
+carrier operations, most garners "want"
+the option and so, it is available. Similarly, even though the F-15 is a two-seater
+with both a pilot and weapons officer, the
+game chooses to ignore the two-seater
+aspect. Finally, while most enemy planes
+are destroyed with one missile hit, the F15 can absorb 10-20 hits (depending on
+difficulty level) before being rendered useless and the F-15 never suffers from midair explosion. At worst, one will have sufficient time to eject unless he flies directly
+into the ground.
+
+Conclusions
+F-15 II is a gamer's game. Realism has
+been deliberately minimized in order to
+yield an entertaining product. There are
+few combat simulators that my ten year
+old son enjoys, but both he and I had a
+lot of fun with F-15 II. The only hesitation this reviewer has is concerning the
+large number of combat simulators currently available. For the dedicated
+aerophile, this may be too simplistic. For
+the neophyte, the large number of
+simulators available offers a confusing
+choice. But overall, F-15 Strike Eagle II
+is a solid package of entertainment.
+
+Review
+
+Indy Beginning . . .
+
+TRAVELS
+WITH INDY
+"Indiana Jones and
+the Last Crusade:
+The Graphic Adventure"
+by Charles Ardai
+About a third of the way through Indiana Jones and the
+Last Crusade: The Graphic Adventure (Indy: Adventure), the player finds himself in an underground
+cavern, on a narrow stone bridge There's a wooden panel
+in the roof of
+the cavern
+and he finds
+his onscreen persona, Indy
+himself, carry
+ing a longdead pirate's
+skeletal
+arm—complete with
+hook. The
+wooden
+panel is dripping water
+onto the
+bridge something fierce.
+In a moment
+of inspiration, Indy
+walks under
+the panel
+and, standing on tiptoe, teetering
+precariously,
+manages to
+jam me arm (hookTITLE:
+Indiana Jones and the
+downwards) between
+Last Crusade: The Graphic Adventure
+SYSTEM:
+IBM
+two leaky planks.
+PRICE:
+$49.95
+Then, our hero steps
+DESIGNERS:
+Noah Falstein, Ron Gilbert, and David lox
+back, uncoils his whip,
+PUBLISHER:
+Lucasfilm Games
+San Rafael, CA
+leans and casts. The
+leather arcs out before
+him, snagging the hook to the accompaniment of a brief
+John Williams fanfare. With a mighty tug, he pulls the
+wooden plug free and a column of water gushes down,
+obliterating the bridge!
+Indiana Jones, of course, takes it in stride: all in a day's adventuring. The player, however, sits there slack-jawed and
+prays that he has saved the game recently. Then, he tallies
+up all the people he absolutely has to show this to. This is
+no mere computer game. This is cinema!.
+
+Remember in the beginning of "Indiana Jones and the Last
+Crusade," when Indy finally recovers the Cross of Coronado,
+thirty years after losing it to a gang of pothunters? He hands
+the treasure over to Marcus Brody and tells Marcus how long
+he's been looking for it: "All my life." I sympathize. That's
+how I feel about a good Indiana Jones computer game. I've
+been looking for one for a long time.
+There have been many attempts to bring Indy home, starting with Atari's VCS version of "Raiders of the Lost Ark."
+Some of these were good tries (Mindscape's entertaining
+Temple of Doom arcade game adaptation, for instance) and
+some were not so good (such as Mindscape's execrable
+Indiana Jones and the Lost Kingdom), but until now none
+had the same magic as the movies.
+For Indy: Graphic, Lucasfilm decided to design the game
+themselves. Obviously, that's what it took. As both the movie
+and the game demonstrate, Lucasfilm still knows, and
+knows better than anyone else, how to do Indy right.
+
+A Passage to Indiana
+When George Lucas and Steven Spielberg sat down to plot
+out the third Indiana Jones adventure, people from the
+Lucasfilm game division sat down with them. The game
+designers were there from the start and, when either man
+came up with an idea, even if it didn't end up in the movie,
+it tended to go into the game. The result is a game
+"designed", in a sense, by Lucas and Spielberg themselves.
+Of course, the actual game designers and programmers
+deserve all the credit for bringing the game to life with astounding graphics and animation, a strong control system
+(essentially the same as was used for Maniac Mansion and
+Zak Mckraken), and quite a few original puzzles. Nevertheless, Lucas and Spielberg were at the heart of this game and
+it shows.
+Some of the puzzles in the game are better than the ones
+viewers saw on-screen. Everyone loves the scene in the
+movie, for instance, in which Sean Connery accidentally sets
+fire to the Nazi stronghold while trying to untie himself from
+Harrison Ford. In the game, though, the solution to that
+scene is not just funny, it's ingenious and it has nothing to
+do with fire.
+Similarly, in case the movie's ending didn't satisfy you, the
+game has several completely different endings. Some of
+these are as satisfying in their finality as the famous
+warehouse scene in "Raiders". Even though it means replaying the entire endgame (you cannot save the game inside
+the Temple of the Holy Grail), you'll want to try out all the
+possibilities just to see what happens. What if Indy takes the
+Grail himself? What if he gives it back to the knight? What if
+he hands it to Elsa? The player becomes writer-director.
+Throw in intensive support for the Ad Lib sound board
+and for advanced graphics cards, six disks worth of locations,
+breathtaking animated sequences, a variety of inventive
+perspectives and "camera angles," and a fine balance between exploration, puzzle-solving and action sequences, and
+this game comes remarkably close to being a better Indiana
+Jones movie than "The Last Crusade" was.
+
+Indy Morning, Indy Evening, Ain't We Got Fun
+Almost everything from the movie is in the game. From the
+(Continued on page 74)
+
+(Continued from page 72)
+
+vantage. One finds oneself cheering when there is something something remembered from the film on the screen
+and one finds oneself cheering doubly loud when something
+new appears.
+
+circus-train chase
+(here used as a backdrop for the credits)
+to the deathtraps in
+the Grail Temple, only
+one major sequence—
+the tank battle—has
+been omitted.
+Just as in the movie,
+Indy's goals are to rescue his kidnapped
+father and beat the
+Nazis and Walter
+Donovan to the resting place of the Holy Grail. Each sequence is at once both
+familiar and novel, and both facets work to the game's ad-
+
+The two substantial areas in the game are the catacombs
+under Venice and the Nazi Schloss Brunwald in Austria. The
+former is far and away the best maze sequence ever put into
+an adventure game, accomplishing something I had thought
+impossible: it makes exploring a maze simple enough to accomplish in a single attempt and enjoyable enough that one
+can go back again just for the fun of it. The latter is reminiscent of Castle Wolfenstein (if one is old enough to remember Castle Wolfenstein!) with its overhead perspective, its
+beer steins and treasure chests, and its dumber-than-Col.
+Klink guards.
+These are connected by smaller scenes in which there is
+less to do: Indy's college, Dad's house, the library, Berlin, the
+blimp, and so forth. Although the progression is strictly
+linear, you are allowed a fair degree of latitude within each sequence. Many puzzles have more than one solution and, as
+you will discover, it is virtually impossible to get caught in a
+dead end. One can lose, of course—try choosing "Throw a
+punch" when facing Hitler—but one would have a hard time
+accidentally placing oneself in a no-win situation. This is appreciated, since it frees players from pointless anxiety and allows them simply to enjoy.
+
+Indy Interest of Fairness
+In fairness, it should be noted that what players may be enjoying may be a little simpler than it seems when one is playing the game. Ultimately, the game is just two play environments and a peppering of one-shot puzzles, nestled in a
+mound of eye-candy.
+This is not a very potent criticism, though. Not every game
+has to be meat and potatoes. Candy is a pleasant change of
+pace, especially when it's served up as deliciously as it is
+here. The criticism becomes more potent only in those rare
+instances when the service isn't up to par: when you finally
+release Dad the payoff is lackluster (unlike the incredible
+graphic when you finally reach Sir Richard's tomb); and the
+final approach to the Temple drags on as you go through
+checkpoint after checkpoint. Fortunately, these are very
+much the exceptions and not the rule.
+
+music, and several nice little puzzles. Even the hardcopy
+"Grail Diary" which comes with the game is better written
+than you'd have any reason to expect it to be. It captures the
+elder Jones' lifetime of Grail-hunting with intelligence, sensitivity, and wit.
+In short, Indiana Jones and the Last Crusade: The
+Graphic Adventure offers more than any comparable game
+does in the way of sheer wide-eyed pleasure. Just about any
+gamer will find it enormously appealing. If one should also
+happen to be an Indiana Jones fan to boot, it will be a special treasure.
+
+Yes, it is true that the game doesn't really start until Indy
+gets to Venice. Yes, while it is fun to watch familiar scenes
+lifted straight from the movie, it can become tedious, as well
+(After all, if that's what you want, there's always the
+videotape.). Somehow, however, none of this detracts significantly from the entertainment the game delivers.
+It is impossible to overstate the impact of the lovingly
+detailed and abundant animation. On top of that, the game
+offers: stunning background images, John Williams' theme
+
+(Continued on page 88)
+
+Christmas Buying Guide
+(Continued from page 26)
+
+in creating challenging solitaire strategy
+games. The designers also enjoy the
+study of oriental culture in general,
+hence the inclusion of an oracle based
+on the / Ching which the player can consult whenever certain four-way matches
+are achieved. lshido offers a solitaire
+mode, a cooperative routine where
+players work with the computer, and a
+tournament option with timed moves
+where each player has an identical stone
+"deck". Ishido is a fascinating gift selection which is both challenging and aesthetically pleasing. The Mac II color
+graphics are even more impressive than
+the IBM screen pictured here. Amiga ,
+Macintosh and Mac II ($49.95), Apple
+IIGS and IBM ($39.95).
+Nuclear War (New World Computing):
+For the first time, Nuclear War allowed
+the New World designers the opportunity
+to develop a game utilizing the Amiga's
+graphic and sound capabilities. As leader
+of a nuclear power in a fictional world,
+players in Nuclear War participate in a
+unique and humorous game. Diplomacy,
+propaganda, and strategy combine in a
+game where off-the-wall incidents like
+space alien invasions, "Cattletech"
+weaponry, and others can tip the balance
+between the human players and their
+comical computer counterparts (Ronnie
+Rayguns, Tricky Dickie, and others).
+Nuclear War is the only 20 megaton
+present you can purchase which won't
+bomb this Christmas. Amiga, IBM
+($49.95).
+Sim City (Maxis): Stanislaw Lem's
+science fiction story about an exiled
+tyrant who played a planetary government simulation which came to "life"
+formed the inspiration for Sim City.
+Designer Will Wright had finished the
+game almost two years before it was actually published because it was so unique
+that potential publishers did not immediately see the game play value. With a
+combination "design your own city" editor
+and added scenarios, the game play became more obvious. Sim City is a true
+multi-tasking environment that allows the
+player to become a hybrid city planner,
+board of supervisors, and mayor/city
+council as he plays with the "editor" interface and a sophisticated simulation constantly working behind the "editor" in
+order to report fresh statistics and events
+to the player at regular intervals. Santa's
+elves had just started to ship the IBM version at press time. As CGW's Game of
+the Year 1989, Sim City is an award-
+
+winning Christmas gift. Amiga, C-64,
+IBM, and Macintosh ($49.95).
+Star Fleet II (Interstel): With the success of Star Fleet I, with game play based
+heavily on the classic mainframe Star
+Trek adventure, Dr. Trevor Sorenson
+wanted to expand the framework of the
+game to include ship-to-ship boarding sequences, planetary invasions, and significantly more detail. In the long-awaited
+Star Fleet II, Sorenson and Empire designer Mark Baldwin have incorporated
+these dream features into a complex and
+challenging gaming experience. Add to
+this the player's ability to "command" a villainous Krellan vessel with absolutely no
+guilty feelings about wasting galaxies and
+torturing prisoners in this "simulation of a
+simulation" and one has a unique kind of
+strategy/wargame. Advance looks have
+revealed some rough edges in the game,
+but the depth of the product forces any
+strategy gamer's "Santa Claus" to seriously consider it. IBM ($59.95).
+
+Action
+FaceOff (Gamestar): Until the release
+of FaceOff!, there had not yet been a
+hockey game designed specifically for the
+IBM environment. So, Mike Benna,
+Wayne Townsend, and Mike Suarez
+decided to change that. Their game features a hands-on fight mode, large sized
+animated skaters, and the Shot Cam, an
+on-the-ice/one-on-one perspective of the
+player against the goalie. For casual hockey fans, the audio-visual heat of FaceOff!
+should cause the wrapping paper to melt
+off the package. For the statisticsoriented fan, this gift idea should enable
+them to enjoy the challenge of coaching
+their team through the Gamestar Hockey
+League season. IBM ($29.95).
+Indianapolis 500 (Electronic Arts): As
+producer of Indianapolis 500, Randy
+Breen set out to model the Indianapolis
+Motor Speedway by using the same kind
+of polygon-fill graphics as those used in
+flight simulators. Where many driving/racing simulations simply put the
+player behind the wheel, Indianapolis
+500 allows eight different systems on
+each car to be adjusted and saved for
+later use; the "Instant Replay" feature
+provides six different camera angles (to
+(Continued on page 78)
+
+(Continued from page 76)
+
+view the last 20 seconds or save it for future viewing); and offers color (from 16
+color VGA to 4 color CGA) and sound
+support (AdLib, Roland, and Tandy) for
+any budget. With variable race lengths,
+plenty of chrome, and smooth animation,
+the game should be an ideal purchase
+for any motor sports fan. IBM with 384K
+($49.95).
+It Came From The Desert
+(Cinemaware): This action/adventure
+game based on the "B" movie horror
+genre was developed for two basic
+reasons. First, David Riordan
+(Cinemaware's interactive guru) was always a fan of the genre and lobbied to
+create the game. Second, It Came From
+The Desert was perceived as an ideal
+vehicle for porting into the new interactive technologies (it would translate quickly into a video format). It is distinctive because it has the best digitized sound and
+graphics to date in a Cinemaware
+product and features a story by an actual
+screenwriter. With eight arcade sequences (the most ever in a Cinemaware
+product) on three disks, this product has
+the potential to be a real holiday treat for
+experienced computer garners, as well as
+new Amiga owners who would like a new
+showcase product. Amiga ($49.95).
+Lakers vs. Celtics (Electronic Arts):
+The initial attraction for the producer of
+Lakers vs. Celtics, Don Traeger, was the
+deep, historical rivalry between the Los
+Angeles Lakers and the Boston Celtics.
+"We almost looked at it as 'team one-onone'," Traeger stated. Robert Weatherby,
+the designer, offered a simpler rationale,
+"We designed this game because we felt
+that all game players deserved a good action-oriented five-on-five basketball game
+for the IBM and compatibles." Both
+producer and designer believe the distinctiveness of the game rests in the custom
+graphics and moves for every player. The
+game should be an ideal present for the
+entire family because it's easy enough to
+play that anyone can enjoy it and makes
+a marvelous purchase for an NBA fan because, according to Weatherby, " . . . it
+lives and breathes the NBA style of play."
+IBM ($49.95).
+Their Finest Hour (Lucasfilm): Larry
+Holland, designer of Their Finest Hour,
+became involved with computer games
+like Strike Fleet and Battlehawks: 1942
+because he liked wargames. He wanted
+to be able to put the player in the middle
+of one. Indeed, he has been successful in
+
+the past and the simulated Spitfires, Hurricanes Dorniers, Messerschmitts, and
+Junkers in Their Finest Hour look like he
+has succeeded once again. Bob
+Reynolds, former WWII pilot with the
+R.A.F., told CGW that the way the plane
+handled in the computer game was extremely realistic, particularly in terms of
+fuel consumption and ability to gain altitude. As a sequel to Battlehawks: 1942,
+Their Finest Hour continues the tradition
+of offering cinematic replay features,
+detailed manuals, pilot service records,
+and marvelous audio-visual (hi-res bit
+mapped planes and AdLib support).
+Their Finest Hour is an appropriate gift
+because it offers a "hands-on" look at history wrapped colorfully in an entertainment product. Amiga, Atari ST, and IBM
+($59.95).
+The King's Bounty (New World): At
+New World Computing, the design team
+wanted a game where they could actively
+control the monsters they had previously
+only fought. In The King's Bounty, the
+team created a fantasy game which combines strategy and tactics in an fresh,
+new adventure format. As a noble, the
+player uses his power and prestige to
+raise large armies of monsters and men
+to do his bidding. The King's Bounty with
+its quest to return the Sceptre of Order
+to its rightful owner is an interesting gift
+idea for the action/adventure fan who has
+everything. Apple II with 128K ($39.95).
+Wayne Gretzky Hockey (Bethesda):
+Chris Weaver and the designers of
+Wayne Gretzky Hockey have developed
+their dream game, complete with the assistance of their hockey heroes. Hockey
+talents such as Wayne Gretzky, Pete
+Peeters, Doug Carpenter, and others
+helped to create the model for this game.
+A sophisticated statistical data base, realistic artificial intelligence routines, impressive graphic perspective and ability to
+play as coach, player coach, or player
+make this an outstanding game. CGW
+loved Wayne Gretzky Hockey on the
+Amiga and the only thing missing on the
+IBM is the digitized sound. Wayne
+Gretzky Hockey could thaw out the
+coldest Christmas morning. Amiga and
+IBM ($54.95).
+(Continued on page 80)
+
+Christmas Buying Guide
+(Continued from page 78)
+
+Adventure
+Breach 2 (Omnitrend): Tom Carbone
+and Bill Leslie, the design team for
+Breach 2 felt that Breach fans would be
+ready for an enhanced version of the
+game which would take advantage of
+today's higher resolution graphics and
+sound capabilities (supporting AdLib,
+CMS, and possibly other sound boards).
+The sequel is a more involved and
+complex strategy/adventure game than the
+original, but actually ends up being
+easier to play and more enjoyable due to
+an improved interface. While it retains
+complexity in terms of strategy, the interface makes it much more enjoyable and
+accessible than traditional strategy
+games. With challenging game play and
+an editor for scenario development,
+Breach 2 is an ideal holiday package for
+strategy/adventure gamers because it has
+potential for long life. Amiga, Atari ST
+and IBM ($49.95).
+The Colonel's Bequest (Sierra): Roberta Williams, designer of The Colonel's Bequest, has always enjoyed mystery stories.
+Since Mystery House, her very first
+game, was a mystery, this new adventure
+is something of a return to her roots. Besides the beautiful Sierra graphics and
+soundtrack we have come to expect as
+standard, The Colonel's Bequest also
+sports the distinction of having a female
+protagonist, a young college coed during
+the Roaring '20s. Mystery lovers and nostalgia fans would love to find The
+Colonel's Bequest under their tree. After
+all, isn't nostalgia part of the fun of the
+holidays? Atari ST and IBM ($59.95).
+David Wolf: Secret Agent (Dynamix):
+In David Wolf: Secret Agent, the design
+team wanted to tell a story while creating
+a piece of entertainment software that is
+accessible for the mass market. In doing
+so, the game created its own genre. With
+digitized graphics, 3-D animations, 4 complete 3-D simulations, an interactive and
+changing storyline, realistic characters
+and the new VCR Interfact", there really
+hasn't been anything like it to date. Because of the ease of play, interesting
+storyline, and incredible graphics, David
+Wolf: Secret Agent should be a gift that
+won't soon be forgotten, a high-quality
+piece of software that won't sit on the
+shelf collecting dust. IBM ($49.95).
+Mean Streets (Access): The folks at Access designed Mean Streets to take full
+advantage of two technological
+breakthroughs: 256 color VGA and Real-
+
+Sound (the company's proprietary sound
+technology which allows MS-DOS computers to play digitized sound effects,
+music, and speech without additional
+hardware). The design team felt that because many programs which call themselves interactive movies do not offer real
+character development and a definitive
+plot line, they could carve out a product
+where murder, politics, double-dealing
+and revenge are all mixed together in an
+interactive murder mystery. According to
+Access' Kevin Jones, the discriminating
+software buyer who is looking for an exciting challenge combined with the best in
+digitized sound and graphics will find
+Mean Streets to be outstanding holiday
+entertainment. IBM ($59.95).
+Star Trek V: The Final Frontier
+(Mindscape): Since several members of
+the Mindscape staff are Star Trek fans,
+there has always been a desire to create
+a distinctive game based on the series.
+The rights to the movie, Star Trek V: The
+Final Frontier, were acquired and the
+designers have developed a game which
+mixes arcade-type sequences, a flight
+simulator-style routine, and elements of
+adventure games. With photo-quality
+graphics in 256 color VGA, as well as
+AdLib sound support (among others), the
+game will make an attractive gift which
+will not only impress one's friends, but
+allow the recipients to enjoy challenging
+entertainment well into 1990. IBM with
+512K and EGA or VGA ($49.95).
+Sword of the Samurai (Microprose):
+After the success of Pirates!, Lawrence
+Schick wanted to employ the basic
+"graphic window and text menu" interface
+from that game into a role-playing experience which would introduce the culture of feudal Japan to occidental
+garners. This game would offer more,
+however, because the computer opponents would act intelligently; the
+players would fight real-time battles; and
+an atmosphere built on Japanese-style
+music and art. Sword of the Samurai is
+the game he envisioned and that makes
+it an ideal gift selection for those who
+want action, adventure, and role-playing
+all rolled into one game. IBM ($54.95).
+
+Wargames
+Napoleon at Austerlitz (Tevex): The
+folks at Tevex are used to selling games,
+(Continued on page 82)
+
+Christmas Buying Guide
+(Continued from page 80)
+
+but they were so concerned about the
+minimal number of wargame titles available on computers that they decided to
+publish their own. Napoleon at Austerlitz
+has a look reminiscent of Napoleon in
+Russia: Borodino (originally from Krentek; later, from Datasoft) and offers the
+same type of sophisticated strategy in a
+new scenario. It should be a fascinating
+addition to the "Wargamer's Holiday Wish
+List" because it is primarily a familiar system. IBM ($34.95).
+Battles of Napoleon (Strategic Simulations, Inc.): CGWs Wargame of the
+Year for 1989, this new IBM conversion
+(not pictured) should be a very welcome
+addition under the tree. Chuck Kroegel
+and David Landrey developed Battles of
+Napoleon to meet the public demand for
+a Napoleonic era computer game. The
+design is distinctive in that it is patterned
+after miniatures and actually captures the
+essence and tactical feel of Napoleonic
+warfare, particularly the interaction between cavalry, infantry and artillery. Further, unlike some design philosophies, it
+allows the player to have total control of
+all aspects of a given battle. It is distinctive from the award-winning Apple and C64 versions in that it offers improved
+graphics and a mouse interface. IBM
+owners interested in the Napoleonic era
+should welcome Battles of Napoleon as
+a gift. Apple, C-64, IBM ($49.95)
+Harpoon (Three-Sixty): When Tom
+Frisina first approached CGW with his intent to publish Harpoon, he expressed
+his desire to make the product deep
+enough that it would challenge our
+readers for a long time to come and accessible enough that it would engage
+new gamers in conflict simulations. He
+felt like the massive database of information on ships, planes, and 110 different
+weapons systems, along with expert commentary provided by defense consultant
+Larry Bond, would educate the gamers
+who played Harpoon, yet he believed that
+the simulation of modern naval warfare
+would offer tremendous entertainment
+potential, as well. The use of the Staff Assistant function, multiple levels of difficulty, and use of actual military symbology
+should make Harpoon a stimulating
+surprise for even the most demanding
+gamer. IBM ($39.95)
+Main Battle Tank: Central Germany
+(Simulations Canada): At Simulations
+Canada, the goal in game design is not
+to create glitzy graphics and incredible
+sound. Rather, the design team is composed of students of history who believe
+
+in doing extensive research and developing simulations from a command perspective out of that research. The Main Battle
+Tank series is distinctive from some of
+the earlier SimCan titles in that it saves
+the data and allows the player to review
+the scenario via a special post mortem
+feature. Main Battle Tank: Central Germany (not pictured) is the first in a series
+that will place the player in the role of a
+commander of a regiment/brigade or battalion of modern armor during a future
+combat. It is an ideal purchase on behalf
+of the gamer who wants a command
+perspective complete with the uncertainty
+of limited intelligence. Amiga, Apple II,
+Atari ST and IBM ($60.00).
+Rommel: Battles for North Africa
+(Strategic Studies Group): Rommel: Battles for North Africa may be the best application of the Battlefront system ever
+created. The desert war with all its
+vagaries is the ideal subject matter for
+SSG's system which stress command
+perspective and limited intelligence. The
+IBM version with EGA graphics and faster
+play makes the game even better. Ian
+Trout and Roger Keating expressed concern to CGW that the market for pure
+wargames seemed to be softening at an
+alarming pace. Therefore, one of the
+reasons for new IBM versions with new,
+more attractive graphics is to draw new
+garners into wargames. With both the
+beauty of the graphics and the grace of
+the system, Rommel: Battles for North
+Africa offers an ideal holiday package for
+the computer garner seeking a new challenge. Apple II, C-64, and IBM ($39.95).
+
+And To All A
+Good New Year
+Whether your holiday tradition involves
+Christmas, Hannukah, or Saturnalia, the
+computer games to be released between
+this issue's press time and the gift-giving
+season offer something of interest to any
+gamer. This year's crop looks like the
+new games will offer more substance
+than tinsel, and may be the most exciting
+hint list we've published yet. That's how it
+should be, of course, and that means
+gamers can look forward to an exciting
+new year, as well. So, in the words of a
+certain chubby elf in red pajamas (or a villainous looking fiend on a certain
+magazine cover), "Ho! Ho! Ho! Merry
+Christmas!"
+
+(Continued from page 31)
+
+The King's
+Quest Companion
+ences and, in addition to defining the
+item/individual listing in terms of the
+game's fiction, brings in a wealth of
+folklore to enrich the discussion. The following is a typical listing in the Encyclopedia which demonstrates the technique.
+Frog Prince: (KQ4) There are some interesting differences between Rosella's encounter with her Frog prince, and the
+tale that is told in this world. It seems that
+the beautiful daughter of a king was sitting under a cool tree, passing time and
+playing a game of catch with herself
+using a little golden ball. As these things
+happen, the ball this day travelled too far
+and dropped past her hands and down
+into a deep well, too far down for her to
+retrieve it. As she wept for her lost ball, a
+frog's head came out of the water and
+the creature offered to dive and bring the
+ball back to her. There were conditions,
+though—in return for the ball, the princess must accept the ugly frog as her
+companion and play-mate, and it must
+be allowed to eat from her plate with her
+
+at the dinner table, drink from her cup,
+and sleep with her in her bed. The pretty
+princess accepted the frog's bargain, but
+as soon as she held the golden ball again
+in her hands, she ran away and deserted
+the frog.
+The next day, as the princess ate with
+her family and their entire court, a small
+voice came to the door and demanded
+the princess let him in—it was the frog,
+of course. Her father, the king, asked her
+what the frog wanted, and she was forced
+to tell him of her promise to the little
+green one. The king informed the girl
+that she must fulfill all that she had
+promised the frog, and bade it join them
+for supper. She was reluctant and unwilling, but the king pushed her plate and
+cup closer to the frog so that it could
+enjoy the meal. When the meal was
+finished, the frog announced that he was
+tired, and asked the princess to join him
+in going to sleep. She didn't want any
+dirty old frog in her clean bed, but her
+father demanded that she honor her
+promise.
+The princess carried the frog to her
+room, but when it was time to get into
+bed, she picked it up and threw it against
+one of the walls of her chamber as hard
+as she could. All at once, instead of
+dying, the ugly frog transformed into a
+
+handsome young prince who informed
+her that he had been captive of a wicked
+witch's spell. Instead of being upset at
+the girl for what she had done, he asked
+her to marry him, which she did. They
+lived happily ever after.
+Most people, I suspect, recall a version
+of the tale where the princess kisses the
+frog to transform him. The first version of
+the tale, however, is the authentic one.
+
+The Final Score
+The final section of The King's Quest
+Companion, "The Final Score", offers a
+point-by-point list of how to get the maximum score in each of the King's Quest
+adventures. A final comment on the
+book itself must be that The King's
+Quest Companion is more than a hint
+book and more than a reference work, it
+is . . . well, a companion. We suggest
+that readers will get even more out of
+the fine adventure series if they play the
+games (or replay them) with this book
+beside them.
+Copyright 1989, Peter J. Spear
+Portions Copyrighted by Sierra On-Line, Inc.,
+1983-1989
+KING'S QUEST and the Names of the
+KING'S QUEST Characters are Trademarks of
+Sierra On-Line, Inc.
+
+Origin/CGW Omega Tournament
+
+Origin/CGW
+Omega
+Tournament
+Report
+AUSTIN (CGW) NIMBUS1, designed by Bob Willis of Silver Spring, Maryland
+has won the September
+Origin/CGW Omega Tournament. NIMBUS1, along with
+five other tanks, survived a
+crowded field of 39 entrants
+to reach the finals of the
+monthly tournament. Tournament officials described
+NIMBUS1 as "persistent". He
+"manages his system repairs
+very efficiently". Other
+finalists included SAMURAI
+("sneaky. Lurks in hiding
+then pounces."); SWAN
+("Cool and cautious.
+Responds well to simultaneous attacks"); TT1
+("Uses defensive tactics to
+his advantage"); CHAOS ("Extremely methodical in his
+
+stalking"); and STRIKER
+("Lives up to his name: aggressive.").
+The following are comments from Omega Author
+Stuart Marks Concerning the
+September Tournament:
+It was exciting to see all of
+the tanks duking it out
+trying to make it to the final
+round of six tanks, and even
+more exciting to actually
+see the final round. Glued to
+the computer screen I tried
+to decipher how each tank
+was working.
+The original field of 39 was
+reduced to six. At the start of
+the final round all of the
+tanks roamed around the
+battlefield trying to find easy
+prey, although none of
+those left in the tournament
+could be considered "easy
+prey". SAMURAI would hide
+behind obstacles waiting for
+his mark to come slowly
+creeping by, fire off a couple
+of shots, then scamper off
+towards a different obstacle.
+
+This was an amazing
+strategy. However, NIMBUS1
+was not impressed. Catching
+onto SAMURAI's little trick,
+NIMBUSI simply took on
+the other tanks before
+SAMURAI could get to them.
+It was indeed impressive to
+see these tanks trying to outsmart one another. Only a
+few times did finesse give
+way to a slugfest.
+During the final round,
+many an OSI employee huddled around the computer
+screen to watch the battles
+and see would be crowned
+"Champ". As laughter and excitement filled the air, not
+one person could take their
+eyes off the screen. When it
+was all said and done and
+the dust had settled,
+everyone looked at one
+another and said, "Wow!
+When is the next tournament? I can't wait!"
+
+enter the tournament is
+January 31, 1990. That is
+true, but doesn't tell the
+whole story. In reality there
+will be five monthly tournaments. NIMBUS1 has won
+the September tournament.
+Entries for the October,
+November, and December
+tournaments must be
+received by 9:00 AM on the
+28th of the month. In other
+words, the deadline for entering the November tournament is 9 AM on November
+28. The deadline for the
+January monthly tournament (in keeping with the
+printed flyer in the game) will
+be 9 AM January 31, 1990.
+The six finalists from each of
+the monthly tournaments
+will be allowed to submit
+tanks in the Championship
+Round to be held next
+February. The results of the
+Championship Round will be
+reported in the April issue of
+CGW (rather than the March
+issue as previously an-
+
+nounced).
+
+(Continued from page 52)
+
+OMEGA
+Neural Cybertank
+Design and Simulation
+complishing the tasks at hand with the least number of
+cycles. Every action you instruct your tank to perform requires time
+(measured
+as cycles).
+For example
+moving the
+tank forward
+requires 40
+cycles, turning requires
+16 cycles,
+firing
+weapon requires 40
+cycles, scanning requires 8
+cycles, executing a logic command such as an IF THEN argument requires 1 cycle. Smart programmers will realize that removing
+
+one fire weapon command will allow your tank to do A LOT
+of thinking in the same time span.
+• Getting in the first shot is often critical to winning the bat
+tie. To accomplish this Steve Cantrell (Omega playtester and
+documentation editor) suggests that you include a routine
+that stops your robot five squares from the enemy (Omega
+weapon range is four squares). The enemy tends to walk
+into your range and you can usually get in the first shot.
+• Jeff Hillhouse (Omega Associate Supervisor) suggests
+that when your tank is damaged, have it fire once. Then,
+back up a square. Have it fire and backup again. Do this
+until you reach the maximum fire range. Most rookie designers will string too many fire commands in a row. As they
+face more sophisticated robots they will find that they are
+firing on empty space. Good robots moue when hit.
+• As a variant of the shoot-backup technique, you might
+try a shot and circle technique. Be sure to use "jamming" to
+negate "scan lock" if you plan to circle in close.
+• Don't worry about saving up for the Nuke weapon. Its
+cost is not worth what it delivers. A much better "buy" is the
+quick and efficient Turbo-Laser.
+• Never assume a "scan lock" will be effective. Jammers
+and obstacles such as building and trees can cause you to
+lose the lock.
+(Continued on page 90)
+
+(Continued from page 75)
+
+To choose the correct Grail at the end, pay special attention to the inscriptions past the bridge and the painting in
+the vault.
+Hitler will sign anything you hand him short of your whip.
+Consider where his name will do you the most good.
+
+Warning: There are specific hints in this section.
+Readers who wish to solve the puzzles without help
+should avoid reading these playing tips.
+One thing which hasn't improved since Maniac Mansion is
+cursor control. You still have to fight with the crosshairs to
+get them centered on small objects. The fight's worth sticking out in two places: with the skeletons in the catacombs
+(you get the hook-arm) and on the third floor of Schloss
+Brunwald (you get a silver key off a candelabra).
+There are two "ordering" puzzles, for which you must consult the on-screen Grail Diary: the three statues and the six
+skulls, both in the catacombs. For the statues, the order to
+push is right, left, center; for the skulls it's left to right (skulls)
+equals top to bottom (musical notes).
+
+Yes, you can steal the biplane—if you're quick. Flick the six
+switches on the right, go up and click on the gauge (it will
+turn green), click twice on the 'L-R-B' dial, pull the pump
+handle three times (you'll have to click six times), go to the
+left and click on the throttle, then go back to the right and
+press the red button.
+If you're not fast enough, you'd better be prepared with
+blimp tickets! You don't have enough money to buy them—
+so, you'll have to pick a pocket or two, boys . . .
+In Brunwald, remember which guards saw you in which disguise. If they see you dressed differently later, they'll be on
+you in an instant.
+In the Temple, you don't have to spell the Name of God in
+order. Any tile whose letter is contained in the Name is safe.
+
+(Continued from page 86)
+
+OMEGA
+Neural Cybertank
+Design and Simulation
+• Special devices are not of great value to less than expert
+designers. Beginners and intermediate designers tend to
+waste valuable cycles using the devices inefficiently.
+• Despite what the documentation suggests, sitting and
+waiting is not as effective as you might think. (In the
+Origin/CGW Tournament it is a sure way to lose). Sitting and
+scanning can use as much, or even more, fuel than scanning and moving (it depends on your routines).
+
+Final Analysis
+As wonderful as Omega is — it is not for everyone. This is
+a game that will require thoughtful design work on the part
+of the player. The massive 250+ page manual will have to
+be read nearly in its entirety to get the most out of the game
+(although you can get by with less and still have a lot of
+fun). To those of us that are willing to spend the time,
+Omega will reward the effort most handsomely. Omega is
+the kind of game that is sure to develop the same kind of
+dedicated following that Robotwar had. It's release has been
+
+anxiously awaited around the offices of CGW. It is a real winner.
+The review was finished. The file was saved. The editor
+called in the gang. They crowded around the monitor as
+the editor loaded up the robots for the next battle. -
+
+(Continued from page 14)
+
+Over There
+Wargames and More
+The game displays excellent graphics
+along with some atmospheric digitized
+sound (which includes some realisticsounding "alien" speech from the
+Protozorqs). The game centers around a
+group of separate puzzles which take
+place within different rooms in the game.
+Solving each puzzle presents you with an
+object which furthers your quest. Kult is
+totally icon driven and is available now.
+Personal Nightmare (Amiga & ST—
+available now) comes from the new UK
+adventure house, Horrorsoft. You play a
+Vicar's son who returns to his home, in
+the sleepy village of Tynham Cross, in
+response to a suspicious call from his
+mother. As the son, you hear news of the
+strange behavior of your father, notice
+convenient accidents occurring, and end
+up meeting some rather unsavory charac-
+
+ters. Everyone encourages tourism in the
+village but just who invited the Vampires
+and the Hell-Hounds? Personal
+Nightmare includes 500 sequences of
+animation and 600K of digitized sound.
+The game allows on-screen graphics to
+be manipulated within the real-time
+world. It is designed under Horrorsoft's
+specially written system.
+Finally, a few snippets. Electronic Arts
+plans a scenario disk for the highly
+popular Populous which will contain a
+variety of extra worlds. French software
+house, Infogrames, has released a new
+graphic adventure - Quest For The Time
+Bird. Coktel Visions has two interesting
+games on the way, The Legend Of Djel, a
+fantasy graphic adventure with integrated
+puzzles serving as combat routines and
+European Space Shuttle which looks to
+
+be evolving along the lines of Space
+M+A+X.
+All of the above are, or will be, available
+from the following UK mail-order retailers.
+All telephone numbers included assume
+you can dial direct. If you are in any
+doubt please contact the International
+Operator.
+COMPUTER ADVENTURE WORLD,
+BANK BUILDINGS, 1A CHARING
+CROSS, BIRKENHEAD, ENGLAND, L41
+6EJ. TEL: 01144 51 666 1132.
+CASTLE SOFTWARE, 2 WILLIAM
+CLOWES ST., BURSLEM, STOKE-ONTRENT, ENGLAND. TEL: 01144 782
+575043.
+SDC, 60 BOSTON RD., LONDON,
+ENGLAND, W7 3TR. TEL: 01144 1 567
+7621.
+
+Taking A Peek
+(Continued from page 6)
+
+this action game developed by US Gold.
+C-64 ($39.95). Circle Reader Service #4.
+
+Mindscape
+3444 Dundee Road
+Northbrook, 11 60062
+AFTER BURNER: another one for the
+"Top-Gun" fan. In this action game
+players fly a F-14 Thunder Cat against a
+whole fleet of Migs. Fire the Vulcan
+20mm cannon, lock on the air-to-air mis
+siles, and barrel-roll to avoid the same. If
+they survive the early rounds, players will
+maneuver through canyons, dodge
+kamikazes, and battle flying fortresses.
+IBM ($39.95). Circle Reader Service #5.
+SHINOBI: Straight from the scenes of
+Kung Fu theater, this action game puts
+players in the slippers of a Ninja warrior.
+The cast of "bad dudes" includes a host
+of nunchuka bearing, fire breathing, and
+shurikan flinging terrorists. To survive,
+players use the usual combination of
+martial arts' moves, ninja weaponry,
+magic, and, of course, "deesapline, grasshoppa". C-64 ($34.95). Circle Reader
+Service #6.
+
+Origin
+136-B Harvey Road
+Londonderry, NH 03053
+SPACE ROGUE: This unique hybrid
+combines a 3-D flight simulator with an
+"Ultima-style" role playing adventure.
+Players earn a living as a pirate, merchant, or bounty hunter, while slowly becoming involved in adventures that involve assassination plots, intergalactic
+warfare, and all sorts of political intrigue.
+A nice blend of action and adventure
+that yields surprisingly balanced play.
+IBM (pictured), C-64 & Apple II ($49.95).
+Circle Reader Service # 7.
+
+Sierra
+P.O. Box 485
+Coarsegold, CA 93614
+HOYLE'S BOOK OF GAMES: Sierra provides the player with 18 variablyrated opponents for a "friendly evening"
+of cardplay. Six games to choose from
+(Cribbage, Crazy 8's, Gin Rummy,
+Hearts, Klondike Solitaire, and Old
+Maid), rules for each game, and
+wisecracking opponents make up a
+package designed for the whole family.
+IBM ($34.95) Circle Reader Service #8.
+
+Software Toolworks
+19808 Nordhoff Place
+Chatsworth, CA 91311
+BEYOND THE BLACK HOLE: Three-
+
+D comics, movies, TV commercials, and
+now computer games. While this
+product does sport 3-D visual effects,
+(paper glasses are included), the actual
+action game is another souped-up variation on the paddle and ball system. The
+game consists of 35 levels of this Ponglike action, and the packaging contains
+a book on the history of stereoscopic 3D. IBM ($49.95). Circle Reader Service
+#9.
+CRIBBAGE KING/GIN KING: Seven
+different computer opponents match
+wits with players in two of the more
+popular card games. Billed as the
+world's strongest computer opponents
+in each game, the package also has online hints, scenario analyzers, and a
+duplicate mode for replay using the
+same cards. "If at first you don't succeed...". IBM ($59.95). Circle Reader Service #10.
+
+Strategic Simulations
+675 Almanor Ave.,
+Sunnyvale, CA 94086
+AD&D DUNGEON MASTERS ASSISTANT, VOL. II: CHARACTERS &
+TREASURES: This utility package allows time-pressured DMs to generate
+detailed player or non-player characters
+and large treasure hoards. The program
+creates the info requested on readymade character sheets that can then be
+printed for instant use. C-64 (pictured) &
+Apple II ($29.95). Circle Reader Service
+#11.
+
+STORM ACROSS EUROPE: One to
+three players fight across Europe in this
+grand strategic wargame created by the
+(Continued on page 94)
+
+(Continued from page 69)
+
+the subordinate should try to build up the territory or attempt to conquer another one as soon as possible.
+
+dimension beyond that found in Bandit Kings' predecessors.
+
+Something Contagious
+Bandit Kings is an extremely addictive experience. In
+some ways, it is a more forgiving program than the earlier games. Where players had to continually fortify the
+front lines in the earlier games, the watchword of Bandit
+Kings is expand, expand, expand. This is often revealed
+to the player by the prospective heroes to be recruited.
+One can function quite effectively in Bandit Kings by
+settling a prefecture; building the economy until it passes the public support level of 40 (at which time one's
+efforts in the business sector begins to pay annual
+dividends in gold and food); swearing brotherhood to a
+subordinate; leaving a small garrison behind; and
+moving to the next empty (or weakly defended) prefecture. If a sworn brother controls a prefecture, the player
+can direct every month's activities. Even if an ordinary
+subordinate controls a prefecture, however, the player
+can issue general orders which will determine whether
+
+One particular advantage of having sworn brothers in
+command of several different prefectures is that once
+the player reaches the mid-game, the intelligence to be
+garnered from the sworn brother is invaluable. Normally,
+if one wants to view a prefecture which is not controlled
+by the player, it costs a full game month's worth of activity (i.e. one's entire turn). With a sworn brother controlling a territory where there isn't much action, the
+player can "spend" the smaller prefecture's activity on
+spying out the enemy. Using this method allows the
+player to both spy and attack on the same turn. In that
+manner, the computer opponent cannot usually build
+up his standing army between the time of the intelligence report and the attack (Note: It would be possible
+if the rotation happened to fall just right, but that is not
+as likely as if one spies on one turn and attacks the
+next).
+
+Something for Everyone
+(Sung to the tune of "Comedy, Tonight") "Hero and
+brother both gain a prefecture, something for everyone
+our strategy, tonight!" Pardon the play on an old comedy standard, but Bandit Kings of Ancient China offers
+the proverbial "something for everyone" except the dyedin-the-wool arcade gamer. There are only a handful of
+games that this reviewer has ever played that have
+caused him to play into the wee small hours of the
+morning without realizing it. Bandit Kings of Ancient
+China is one of them.
+
+Taking A Peek
+(Continued from page 92)
+
+Conversions
+Received
+After Burner (Mindscape) C-64
+Ancient Art of War (Broderbund)
+Apple Ile, IIC, IIGS
+Archipelagos (Britannica) Amiga
+Baal (Psygnosis) IBM
+Blood Money (Psygnosis) ST
+Curse of the Azure Bonds
+(SSI) Apple
+The Duel (Accolade) Amiga
+Falcon/Operation: Counterstrike
+(Spectrum Holobyte) ST & Amiga
+Ferrari Formula One (EA) IBM
+Gold Rush (Sierra) Mac
+John Madden Football (EA) IBM
+Manhunter 2 (Sierra) IBM, ST
+Menace (Psygnosis) IBM
+Might & Magic II
+
+(New World Computing) C-64
+Operation Wolf (Taito) IBM
+Populous (EA) ST
+
+Shufflepuck Cafe (Broderbund)
+ST, Amiga
+SimCity (Maxis) IBM
+Star Wars (Broderbund) Mac
+Universe 3 (Omnitrend) ST
+
+designer of Colonial Conquest. Armies,
+paratroops, U-Boats, strategic bombers,
+raiding fleets, and amphibious troops all
+fight over limited resources in a game
+designed to be won or lost in an evening. C-64 ($39.95). Circle Reader Service #12.
+
+XOR
+7607 Bush Lake Road
+Minneapolis, MN 55435
+SHUFFLE MANIA!: Nine different
+shuffle games (including shuffleboard,
+bowling, & curling) come to the computer in this action game that allows
+play by one or two and an option for
+tournament play. Players can establish
+handicaps, enter up to 32 people in a
+tournament, or watch the computer play
+itself. IBM ($49.95). Circle Reader Service #13.
+
+Advantage Ace
+3542 Pheasant Run Ct,
+Ste. 8
+Ann Arbor, MI 48108
+STRIKE FORCE NAVIGATOR: This
+navigational tool can be used with any
+vehicle simulation game that comes with
+a map. It can be used to plot any path
+to any target, plot intercept courses, and
+determine enemy positions. Made of
+clear, flexible plastic, the Navigator
+comes with a handle and a 360 degree
+navigational compass printed on the
+face. The price is $7.95. Circle Reader
+Service #14.
+
+M
+
+Reader Input Device
+
+

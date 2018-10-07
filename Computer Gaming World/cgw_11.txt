@@ -1,0 +1,4890 @@
+I
+
+-
+
+Jul.-Aug. - 1983
+
+Vol. 3 No. 4
+
+FEATURES
+SUSPENDED
+
+10
+David P. Stone
+
+The Cryogenic Nightmare
+
+M.U.L.E.
+One of Electronic Arts' New Releases
+
+12
+Edward Curtis
+
+BATTLE FOR NORMANDY
+
+14
+Jay Selover
+
+Strategy and Tactics
+
+SCORPION'S TALE
+
+16
+Scorpia
+
+Adventure Game Hints and Tips
+
+COSMIC BALANCE CONTEST WINNER
+
+17
+
+Results of the Ship Design Contest
+
+KNIGHTS OF THE DESERT
+Review
+
+GALACTIC ADVENTURES
+Review & Hints
+
+COMPUTER GOLF!
+Four Games Reviewed
+
+BOMB ALLEY
+Review
+
+THE COMMODORE KEY
+A New Column
+
+18
+Gleason & Curtis
+20
+David Long
+29
+Stanley Greenlaw
+35
+Richard Charles Karr
+42
+Wilson & Curtis
+
+Departments
+Inside the Industry
+Hobby and Industry News
+Taking a Peek
+Tele-Gaming
+Real World Gaming
+Atari Arena
+Name of the Game
+Silicon Cerebrum
+The Learning Game
+Micro-Reviews
+Reader Input Device
+Game Ratings
+
+4
+5
+6
+22
+24
+28
+38
+39
+41
+43
+51
+52
+
+Game Playing Aids from Computer Gaming World
+COSMIC BALANCE SHIPYARD DISK
+Contains over 20 ships that competed in the CGW COSMIC BALANCE SHIP
+DESIGN CONTEST. Included are Avenger, the tournament winner; Blaze,
+Mongoose, and MKVP6, the judge's ships. These ships are ideal for the gamer
+who cannot find enough competition or wants to study the ship designs of
+other gamers around the country. SSI's The Cosmic Balance is required to use
+the shipyard disk. PLEASE SPECIFY APPLE OR ATARI VERSION WHEN
+ORDERING. $15.00
+
+ROBOTWAR TOURNAMENT DISK
+CGW's Robotwar Diskette contains the source code for the entrants to the
+Second Annual CGW Robotwar Tournament (with the exception of NordenB)
+including the winner, DRAGON. Also included is the winner of the First Annual
+Tournament, NORDEN+. Twelve robots in all. Muse Software's ROBOTWAR"
+required to use tournament disk. $12.00.
+
+CGW BASEBALL DISK
+Contains the four teams of the All Star League reported on in 3.3 (AL West All
+Stars, Al East, NL West, and NL East); the six teams of the 1982 Winter League
+(see 3.3), the eight teams of the Greatest Baseball Team of All Time
+Tournament, and a reprint of the results of The GBTOAT tournament from
+issue 2.3. SSI's Computer Baseball Apple version required to use data disk.
+Apple version only. $12.00.
+Send check or money order to: Computer Gaming World, Disk Order Dept.,
+P.O. Box 4566, Anaheim, CA 92803-4566. California residents please add 6%
+sales tax. Allow 3-4 weeks for delivery.
+
+INSIDE THE INDUSTRY
+by Dana Lombardy
+
+It wasn't too long ago that most
+of the best-seller lists published in
+the software industry were dominated by game titles. This situation
+has dramatically reversed itself
+recently.
+Other types of softwarepersonal finance, filing systems,
+word processing, etc.—now
+dominate the best-seller lists. What
+happened to games?
+Several ideas discussed by people
+in the computer business as the
+reasons for this change include the
+following:
+There are too many games, too
+many rip-offs, and too many
+similar-designs. Consumers are
+more wary now about buying a
+game sight-unseen, and instead,
+wait for a review or to play a
+friend's copy.
+Games are too expensive. Even
+though prices are dropping, it's
+still too expensive to keep
+collecting game after game
+when you don't have the time
+to play all the games you
+already have.
+3. Games got people into
+computers, but now they want
+to do more with their computer
+systems. You'll always find time
+to play a good computer game,
+but with so much money invested in your machine, why
+not have other types of software that can really help you
+do things besides just kill alien
+bugs?
+While there are other reasons,
+these three seem to be the main
+ones suggested for the drop-off in
+game sales.
+
+That doesn't mean games are
+dying—in fact, a few "classics"
+continue to stay on the best-seller
+lists month after month, joined by a
+hot new title on occasion. But the
+day when games made up the
+majority of best-sellers may be
+over.
+While games may not sell like
+hotcakes anymore, they're still a
+very important part of the computer business. But in order to
+compete, publishers are going to
+have to offer really different and
+challenging games at more reasonable prices. And for consumers that
+can be the best news from what
+may appear to be a negative
+situation.
+So be choosy. You really do have
+influence in what types of games
+are published. Your vote does
+count—because you vote with your
+dollars every time you buy (or don't
+buy) a particular game or other
+piece of software.
+
+Readers Survey
+Here's your chance to give your
+feedback on the way you buy
+software now. Please answer the
+questions below, using the Reader
+Input Device at the back of this
+issue.
+
+2.
+
+I buy about the same number
+of computer games each
+month, but I'm more selective
+now and don't usually buy until
+I see a game.
+
+3.
+
+I buy fewer computer games
+now, but I'll still occasionally
+buy a game that I haven't seen
+yet.
+
+4. I buy fewer computer games
+now, and I'm more selective
+about which ones I buy.
+Part II
+If you checked answer #3 or #4 in
+Part I above, then check the one
+answer below that best describes
+how you're spending money on
+software now.
+5.
+
+I'm spending less money now
+
+each month than in the past on
+software, but almost all of it
+goes to new games.
+6.
+
+I'm spending less money now
+
+each month than in the past on
+software, but almost all of it
+goes to non-game programs.
+7.
+
+I'm spending less money now
+
+each month than in the past on
+software, but this is equally
+split between games and other
+software.
+The results of this mini-survey will
+be published in a future column.
+Thanks for your participation.
+
+Part I
+Check the one answer below of
+questions 1 through 4 that most
+closely reflects your current
+attitude about computer games.
+1. I buy about the same number
+of computer games each
+month—even games I haven't
+actually seen or played.
+
+Responses to the readers survey on
+this page should be made on the
+RID card at the back of this magazine. See page 51 for instructions.
+
+HOBBY AND
+INDUSTRY NEWS
+A televised "sin network" featuring gambling at
+home may provide the impetus for the widespread
+use of interactive teleshopping services such as
+videotex and teletext, according to a 3 I 4-page
+report released by International Resource Development Inc., an independent consulting firm based
+in Norwalk, Connecticut.
+"Gambling services may be the answer to get
+consumers to access teletext and videotex,"
+according to IRD researcher Dave Ledecky. "The
+average bettor receives his betting information
+from the newspaper, and then either places a bet
+at the track, at an off-track betting parlor, or with
+an illegal bookmaker. The use of teletext and
+videotex could result in one-stop gambling" notes
+Ledecky. IRD's report notes that off-track betting
+parlors already use a teletext-like system to display
+race results, and the Bell Operating Companies
+with their instant information telephone lines for
+sports and horse racing results provide a strong
+indication that consumers do accept the use of
+telecommunications to retrieve these services and
+data.
+Ledecky notes that with home betting systems,
+"bets could even be placed on events occurring
+within certain sporting events, rather that just on
+the outcome of the event. This adds great
+immediacy to the gambling. For instance, one
+could place a bet as to whether a particular
+baseball player is going to get a hit on his next time
+at bat. Of course, all this would have to be legalized,
+and that is a distinct possibility within the next few
+years. People will bet on just about anything, "says
+Ledecky. "They'll bet on the sunrise as long as it's
+easy and convenient to do so."
+IRD, in another study recently published, stated
+that and important merger is developing between
+simulators used for military training purposes and
+videogames. The study indicates that simulators
+are beginning to look more like videogames, and
+videogames are beginning to look more like
+rudimentary simulators. "Inevitably the two
+technologies will interconnect," says Ledecky.
+"Videogames will incorporate simulator principles
+in order to achieve greater real world likeness, and
+simulator designers will come to understand the
+contribution fun makes to training, and add game
+aspects to simulator training." Indeed, this is
+already occurring. Perceptronics manufactures a
+tank gunnery trainer, which the IRD report describes as follows: "It is a table top device with a
+sight, gunner controls, and scoreboard. Scenes of
+moving targets in a wide variety of environments
+are played back under microcomputer control
+from a laser-optical videodisc and presented in the
+
+sight. The gunner positions a reticule on the target
+and fires, with the number of hits and other
+aspects of his performance recorded."
+According to IRD, there have been discussions
+within the simulator industry concerning the
+possible placement of simulators in recreation
+areas on military bases, thereby transforming (in
+the minds of the users, at least) the "training" into
+"entertainment." And, as Ledecky stated halfseriously, "perhaps army recruiters should visit
+local videogame parlors to find the fighter pilots of
+tomorrow."
+SSI's August releases include: their WWI air
+game, EAGLES, in which players control up to 10
+planes per side. It will run on the Apple, Atari, and
+C-64. BROADSIDES is coming along nicely and
+should be out for the Apple in August with the
+Atari version coming at a later date. The C-64 and
+IBM PC versions of COMPUTER BASEBALL and
+the IBM version of BATTLE FOR NORMANDY
+round out the August releases.
+First Star Software, Inc. announced today that
+it will be marketing a number of entertainment
+and educational programs based on several
+Marvel characters. In its joint venture agreement
+with the Marvel Entertainment Group (a division
+of Cadence Industries), First Star will design and
+market software featuring Marvel's famous super
+heroes.
+Broderbund has announced the release of a new
+game for the Atari 400/800/1200, new versions of
+some of their popular games for the Vic 20, and
+that they were beginning to create versions of
+their most popular games for the Commodore 64.
+New for the Atari is Operation Whirlwind, which
+put the player through a series of skirmishes and
+battle actions which requires that you complete a
+different set of strategic actions for each one, until
+the last endgame crescendo.
+New releases for the Vic 20 include three
+conversions; AE, SKY BLAZER and SEAFOX. All
+will come in cartridge formats and retail for
+$39.95.
+Broderbund's entry into the Commodore 64
+market has been with the conversion of four of
+their most successful games to this machine.
+CHOPLIFTER!, SEAFOX, SERPENTINE, and
+DAVID'S MIDNIGHT MAGIC have all been
+released in versions for the C64.
+Simulations Canada has announced that it
+expects to have its first computer games ready for
+the market by late fall. There two to four titles
+included in this initial release. Those most likely to
+be included are Battle of the Atlantic, the Fall of
+France, 1940, North African Desert campaign, and
+modern tactical naval combat. The plan is to
+release them at first for the Apple II, and later to
+release versions for the Atari, IBM PC, and C64.
+
+Infocom, Inc. will introduce two new games this
+summer and fall. The first, PLANETFALL, is a
+game that explores the lighthearted side of science
+fiction by challenging players to save a doomed
+and plague-stricken planet while trying to keep a
+straight face. Steven Meretzky, author of
+PLANETFALL and a long-time contributor to the
+Infocom game development process, elaborates:
+"There are several interesting elements that make
+this game unique. One of the most important is the
+high level of interaction between the player and a
+strong second character known as 'Floyd.' "Floyd,
+an impish robot who is your constant companion
+in the game, has a well-defined personality. He's
+exuberant, funny, mischievous, and sometimes
+unpredictable. The decision to concentrate on this
+strong second character has allowed us to build
+rich detail into the personality. In addition, the
+packaging for PLANETFALL will be mew and
+different. Inside a folder-like package players will
+find such physical elements as a Stellar Patrol ID
+Card, a space diary, futuristic postcards, and other
+elements that complement the story," adds
+Meretzky. The game is due out in mid-August and
+will be on many machines.
+
+The second release, which should appear sometime in mid-September, is ENCHANTER. The
+first in a new trilogy of fantasy games that will take
+players into a world of magical powers and perilous predicaments. Co-authored by Marc Blank
+and Dave Lebling, the creative team that designed
+and and wrote Infocom's popular ZORK underground fantasy series, Enchanter is a journey into
+an environment where you use skill and logic to
+overcome "Krill," the evil warlock whose everincreasing powers have shattered the peace of
+your world. Blank—who in addition to designing,
+writing, and programming games is Vice President
+for Product Development at Infocom—comments,
+"This game is written in the ZORK tradition, but
+with new and different settings. In the ZORK
+trilogy, the emphasis is on treasure and fighting,
+while in Enchanter the focus is clearly on magic.
+During your journey, you'll explore an abandoned
+castle filled with strange and magical trappings.
+You'll uncover spell scrolls which you must learn
+to use judiciously in overcoming the many
+obstacles before you. Ultimately, you'll be able to
+use magic so effectively that the evil warlock will
+be banished forever. Another important element
+in Enchanter is the passing of game time. As the
+days pass in the story, you'll eat, drink, and sleep or
+you will reach a point where your powers start to
+fail."
+
+Corrections to News from last issue: ARCHON was
+written by Anne Westfall, Jon Freeman, and Paul
+Reiche. MURDER ON THE ZINDERNEUF was
+written by Robert Leyland, Paul Reiche, and Jon
+Freeman.
+
+In addition to games mentioned elsewhere
+in this issue, the following products have been
+received by CGW. Some of these products will
+receive more detailed attention in future
+issues. Readers wishing to review any of these
+games should contact CGW.
+Avalon Hill Game Co.
+4517 Harford Rd.
+Baltimore, MD 21214
+
+PARIS IN DANGER: A multi-level
+simulation of the 1814 campaign to crush
+Napoleon. On one level you move army
+corps around a strategic map of France
+and surrounding nations. When a battle
+occurs play switches to a large scrolling
+tactical map in which the corps are broken
+down into divisions. A review and analysis
+will appear in our next issue. Atari 48K.
+
+TAC: TAC (short for Tactical Armor
+Command) is a game of WWII armored
+combat. Each side builds a combat team
+from a roster of British, German, American,
+or Russian tanks, assault guns and tank
+destroyers. Although the documentation
+does not emphasis it, the game supports
+The Mockingboard sound board (see
+review in CGW 3.2) which really adds a lot
+to the game. TAC will be the subject of a
+feature review in our next issue. Apple.
+
+Avant-Garde Creations
+P.O. Box 30160
+Eugene, OR 97403
+JUMP JET: An arcade type game loosely
+based on the fiction of the Falklands Island
+Crisis. You are a jumpjet pilot flying from a
+Loyal aircraft carrier just off an enemy
+held island. Your task is first to defend the
+fleet and secondly to defeat the enemy by
+retaking the captured island. Various
+tactics must be used to destroy, in order,
+enemy cruisers, submarines, kamikaze
+planes, and rocket launchers. The game
+plays a bit like Broderbund's Choplifter.
+While the graphics are not as good as
+Choplifter, the game itself has more depth
+(no pun intended). Apple. $29.95.
+Broderbund Software
+1938 Fourth St.
+San Rafael, CA 94901
+LODE RUNNER: This one wins the
+"keeping the editor up late at night" award
+for this issue. Well designed (which is
+normal for Broderbund products). An
+arcade style game that requires real
+strategic planning if you are to do well.
+After the first few attempts you learn
+quickly than you had better study a game
+level before hitting the joystick to start
+your man racing up and down ladders,
+drilling passageways and solving puzzles.
+Review coming. Apple II. $34.95.
+MATCHBOXES: Remember the TV
+gameshow CONCENTRATION? Here it is
+for a computer (well almost). You are
+presented with a 36 box grid which, similar
+
+to the TV game, have symbols behind each
+"door" that can be paired up so as to gain
+points and, in all but one variation of the
+game, reveal parts of the hidden word
+behind the doors. A great family or party
+game. Atari. $29.95.
+Datasoft Inc.
+9421 Winnetka Ave.
+Chatsworth, CA 91311
+ZAXXON: The official home computer
+version of Sega's popular coin-op arcade
+game. Outstanding graphics. Not as detailed as the coin-op version (that is to be
+expected) but comes close. Atari and Apple.
+
+Dell Publishing Co.
+245 E. 45th St.
+New York, NY 10017
+THE OFFICIAL COMPUTER HATER'S
+HANDBOOK: Written by the author of
+the Preppy Joke Book and Preppy Cook
+Book, TOCHH is packed with laughs.
+Consider what might be found in the
+section entitled "Computerholics
+Anonymous—The Hell of "Devil ROM".
+192 pages. $3.95.
+Home Computer Software
+1171 Sonora Court
+Sunnyvale, CA 94086
+FAMILY BIBLE FUN: A series of disk
+programs for the Apple and Atari
+400 /800 /1200 that center on Bible
+knowledge. In the Know Your Bible
+program you can play games that test your
+
+knowledge of biblical characters, books,
+etc. Aimed at young people. This is a good
+looking set of programs for the Christian
+family that wants to use their Apple or
+Atari to learn more about the Bible. Master
+Disk is $19.95. Individual Game disks are
+$29.95 each. Some of the disks available
+are Life of Christ, Pt. I and Pt.2, The
+Prophets, Great Women of the Bible (11
+titles in all).
+Navic Software
+P.O. Box 147270
+North Palm Beach, FL 33408
+JURY TRIAL: A game for two or more
+players. The two primary players play the
+roles of prosecutor and defense attorney.
+Other players can be witnesses. The facts
+of a crime are briefly displayed on the
+monitor. The witnesses and the two
+attorneys watch carefully as the information is flashed (in the case of a two
+player game the lawyers are also the
+
+witnesses). Actual game play involves the
+two lawyers selecting the right questions to
+ask. The prosecutor wants the truth (i.e.
+correct answers). The defense wants to
+coverup truth (i.e. incorrect answers). Thus
+the game is one of remembering the clues
+and asking the right questions to get the
+kind of response (true or false). Although it
+is not as polished as games from the big
+companies, JT has potential not only as a
+party game but as a "strategy" game for
+two players. Apple. $29.95.
+Penguin Software
+830 4th Ave.
+Geneva, IL 60134
+PENSATE: When Softline put John
+Besnard's unpublished PENSATE on the
+cover of their May-June issue Penguin
+Software told John that they wanted to
+publish the game on the basis of the cover
+feature. Thus we have Pensate. Weird way
+to find a publisher, John. It is surprising
+
+that the game was not published prior to
+Penguin's interest as it is a good game. The
+human player(s) must get a single piece
+from one edge of the board to the opposite
+edge avoiding the computer pieces. The
+strategy is to predict far enough ahead to
+avoid the computer's pieces and any other
+human player's piece. It is a good game in
+the classic tradition of chess. Apple. $19.95.
+SPY'S DEMISE: Atari version of the
+original Apple game in which you, the spy,
+attempt to reach the top floor of the
+Russian diplomatic mission and capture an
+encoded message. Play involves crossing
+each floor while avoiding the guards. Each
+floor contains parts of the encoded
+message. When all parts are gathered you
+can crack the code and send the answer to
+Penguin. If you are the first person from a
+state of the USA or Canadian province, or
+other country to solve the puzzle you can
+win a Spy's Demise T-shirt from Penguin.
+$19.95.
+
+Rainbow Computing
+9719 Reseda Blvd.
+Northridge, CA 91324
+BAT-STAT: Tired of doing baseball
+statistics for your little league or softball
+team the hard way? Now, with the help of
+BAT-STAT, you can use your Apple to do
+the job more quickly. BAT-STAT is a menu
+driven program that will keep statistics for
+a baseball team of up to 20 players. Stats
+are generated for "this game" and "season"
+as well as team totals. Most standard
+categories are recorded (AB,runs,hits,
+BA,2B,3B,HR,Sac,BB,RBI). But, for some
+reason, strikeouts are not included.
+Sierra On-Line Inc.
+Sierra On-Line Building
+Coarsegold, CA 93614
+APPLE CIDER SPIDER: Apple arcade
+game in which you are a spider trying to
+make it to the attic while avoiding the
+deadly machinery in the apple cider factory
+(as well as other hungry critters. A donkey
+kong type game which supports the
+Mockingboard sound board.
+THE DARK CRYSTAL: Atari version of
+the original Apple game. TDC is Hi-Res
+Adventure #6 from Sierra On-Line. The
+game (designed by Roberta Williams—
+Time Zone) is based on the epic fantasy
+film conceived by Jim Henson of the
+Muppets. The game follows the movie's
+plot with enough differences to make it a
+challenge. As Jen, last of the Gelfling, you
+must find a shard of the Great Crystal and
+restore it before the Great Conjunction.
+The excellent documentation includes a
+four color poster. $39.95.
+Soft Images
+200 Route 17
+Mahwah, NJ 07430
+LAMP: Lamp, which is an acrostic meaning
+Literature Analysis of Microcomputer
+Publications, is a three part index to articles
+in American and international micro-
+
+computer journals. Indexed by author,
+subjects, and review categories, LAMP
+covers over 150 magazine titles (including
+Computer Gaming World). Price is $69.50
+per year in book form and $54.95 per year
+in fiche form. Bi-monthly.
+Strategic Studies Group
+Ground Floor
+336 Pitt St. Sydney
+2000 Australia
+REACH FOR THE STARS: Roger Keating
+(several SSI designs) has turned his talents
+to a new area with a game published by a
+new company. RFTS is a strategic simulation of colonization expansion and conflict in space. Using some of the same game
+design elements that work well in his
+wargames, Roger has successfully put
+together an enjoyable space game. Documentation is well done. Look for review
+next issue. Apple. $60.00 Australian.
+Strategic Simulations
+883 Stierlin Rd. Bld. A-200
+Mountain View, CA 94043
+COSMIC BALANCE II: The long awaited
+CBII (The Strategic Game) is now available.
+CBII is the sequel to SSI's popular The
+Cosmic Balance tactical space warfare
+game. CBII is an economic/exploration/
+colonization/conquest game set in the far
+future. Two players can choose between
+five scenarios or create their own. Battles
+can be fought using The Cosmic Balance
+tactical game or CBII can resolve combat
+for you. Review coming. Apple and Atari.
+$39.95.
+
+FIGHTER COMMAND: Another long
+awaited title from SSI. Charlie Merrow and
+Jack Avery (Computer Baseball) have
+teamed up to produce a stunning new
+game based on the Battle of Britain. The
+graphics are outstanding After the
+
+German player plans all his raids for the
+day, the British player does some daily
+"housekeeping". Then the program goes
+into execution mode and the game is
+played with the British player reacting to
+the German raids. The German player can
+sit smugly (or nervously) back and watch
+the British effort to counter his raids.
+Review coming. Apple. $39.95.
+NORTH ATLANTIC '86: Using the
+Guadalcanal system with improvements
+NA86 deals with a hypothetical SovietNATO confrontation in the near future.
+Along with the 232-turn campaign game
+there are two mini games. Review coming.
+Apple. $59.95.
+Swearingen Software
+6312 W. Little York #197
+Houston, TX 77088
+PICK THAT TUNE: Pick That Tune is, as
+the name implies, a game in which players
+try to guess popular tunes by listen to bits
+of each song. There are 16 different game
+variations which 1 to 10 people can play.
+Drawing from a base of 100 songs (you
+choose the catagory—pop,country,children,TV) players bit the number of notes
+that they think they will need to be able to
+correctly identify the current tune. An
+expansion disk with 100 more songs is
+available. Apple $29.95.
+Top Notch Productions
+1201 Montana Ave., Suite 5
+Santa Monica, CA 90403
+POLLYWOG: A lo-res game in which you
+are a school of twelve pollywogs trying to
+grow into adult frogs. Barriers to adulthood are creepies, killer fish, barrier reefs.
+The ultimate goal is to keep any blue
+pollywogs alive so that he may grow up to
+be a prince. While the graphics are lo-res,
+the color and very nicely done sound make
+this game rather artistic. There are 64
+levels of play. Apple. $29.95.
+
+Commercial Data Systems Ltd.
+730 Eastview Ave.
+Regina, Sask. Canada S4N 0A2
+BUGSPREE: Bugspree is a Centipede
+clone. The game involves firing an automatic cannon against an invasion of bugs,
+mushrooms and spiders. The game makes
+excellent use of the Vic 20 graphics and
+sound capabilities, but advances very little
+over the original arcade game. $29.95, Vic
+20.
+ROAD TOAD: RT is a familiar looking
+version of the Frogger variety. The
+graphics utilize a very fluid animation and
+the sound is nice. $29.95, Vic 20.
+WITCH WAY: WW is a new interpretation
+of Donkey Kong. The game includes nine
+floor levels and four screen patterns. Each
+screen pattern offers a new objective and
+challenge. The use of a timer and bonus
+points also adds to the challenge. $29.95,
+Vic 20 with 8K expander.
+Human Engineered Software
+71 Park Lane
+Brisbane, California 94005
+GRIDRUNNER: This game begins with
+the look and feel of Centipede. It is a faster
+and more challenging game, however. The
+patterned Y zapper with its destructive
+plasma beam is more difficult to avoid
+than the spider in Centipede. Memorizing
+the patterns of the Y zapper and alien
+bombs will enable the player to maneuver
+his ship more effectively and attain higher
+scores. The sound effects for this game are
+excellent. $39.95 Vic 20.
+SHAMUS: This is the licensed version of
+Synapse Software's well-known game. It is
+a fast moving game with excellent graphics
+and smooth animation. For a detailed
+description of the game, see CGW 2.6, p. 20.
+The simplest description of the game would
+be that it seems a cross between Bezerk
+and an adventure game. The player is an
+interplanetary detective attempting to
+
+overcome Robo-Droids and Snap-Jumpers
+in order to find the dreaded Shadow and
+terminate him. $39.95, Vic 20.
+Sierra On-Line Inc.
+Sierra On-Line Building
+Coarsegold, California 93614
+FLIP-N-MATCH: FNM is a Concentrationtype game. It contains both a two-player
+and solitaire version for adults and a twoplayer and solitaire version for children.
+The adult version has more possible
+matches than the standard Concentration
+game board and the shapes are similar
+enough that one must pay close attention
+in order to do his/her best. The solitaire
+version is relatively easy at skill level 0, but
+has five other levels to challenge the player
+as he/she improves. Vic-20.
+ULTIMA: ESCAPE FROM MT. DRASH:
+ULTIMA is an intriguing adventure game
+because of its unique graphics and
+marvelous musical score (The WellTempered Commodore?). The screen
+offers three different views. The left-hand
+corner of the screen offers a three
+dimensional maze, the right-hand corner
+
+of the screen offers an overhead view of
+the maze, and the lower portion of the
+screen offers a tactical combat view. Each
+adventurer starts with three spells and a
+weapon and tries to make his way out of
+the dungeon of Mt. Drash. There are 15
+levels to the mountain dungeon and the
+difficulty factor escalates rapidly. Vic 20
+with 8K expander.
+
+The Code Works
+P.O. Box 550
+Goleta, California 93116
+VIXEL: This is a cassette magazine with
+three ready-to-run programs in each issue.
+Volume One contains two arcade games
+(FIRE and RACE) and an electronic
+sketchpad (DRAW). FIRE is an arcade
+game where the player operates a helicopter with water bombs and attempts to
+successfully put out a fire in a high-rise
+building before the time is up. RACE is a
+game where the player races with the
+computer's car. DRAW is a computerized
+"Etch-A-Sketch" with the ability for you to
+save y our drawings to tape. $12.95, Vic 20.
+
+SUSPENDED: Review
+David P. Stone
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+
+Suspended
+Adventure
+Many (Atari
+reviewed)
+FORMAT: Disk
+# PLAYERS: One
+AUTHOR:
+Michael Berlyn
+PRICE:
+$39.95
+PUBLISHER: Infocom
+Cambridge, MA
+Suspended is the latest in an
+unbroken chain of outstanding
+adventures from Infocom. It's
+premise is ingenious and intriguing.
+In a cryogenic state, deep within
+the bowels of the planet Contra,
+your sleeping mind monitors the
+filtering computers that maintain a
+balance of the planet's food,
+transportation, and weather
+systems. Contra's population
+depends on these systems. Your
+conscious mind is the failsafe
+system. You are to be awakened
+only if there is an emergency. There
+is, of course, an emergency.
+After awakening your task is to
+direct the actions of six robots to
+repair and reset the filtering
+computers so you can get back to
+sleep. Sound like fun? Get ready for
+some long and sleepless nights
+because if you don't fix them in a
+hurry, humans from the surface
+will show up with your replacement
+clone to pull your plug. The result:
+high tech death.
+Each robot has a name, a set of
+special skills, and its own personality. The personalities seem to
+grow on you. As the game
+progresses, the robots turn from
+talented pawns into trusty friends.
+Each robot has a primary skill
+plus some degree of mobility and
+grasping extensions. IRIS sees
+(when she's working). WALDO
+manipulates objects and moves by
+
+sonar. SENSA senses. She can
+detect vibrations, photon
+emissions, and ionic discharges.
+AUDA hears. She's particularly
+good at eaves-dropping. WHIZ is
+the brains of the outfit. He's your
+link to the complex's computer
+memory banks. Finally, there's
+POET. He speaks in cryptic clauses
+that accurately describe his
+environment — if you can just
+figure out what he's referring to.
+Also, he has a special diagnostic
+sensor that works when you direct
+him to touch something. All in all,
+they are quite a crew (with only a
+hint of sexism in their roles).
+Both cryogenics and robots are
+enjoying a certain popularity
+nowadays, so the themes of
+Suspended are well timed. Of
+course, the idea of robots has been
+around for a long time. Ones with
+personalities were first rocketed to
+
+popularity in Isaac Asimov's
+science fiction classic I, Robot. That
+work tapped, and perhaps exploited, man's fear of technology
+and his ultimate inability to control
+his destiny.
+The robots in Suspended are not
+from the same world as Asimov's,
+but they are not from the other side
+of the universe either. They serve
+you faithfully within their
+limitations and have no delusion of
+power or superiority. However,
+throughout the adventure you are
+very much aware that you have no
+hands but their hands ("extensions"), no senses but their senses.
+You may find this frustrating when
+you want a robot with "dainty
+extensions" to grasp, or a robot
+with no visual scanner to see.
+You can talk to the robots
+individually or as a group. You can
+even have two of them team up to
+perform a single task that neither
+could do alone. A few handy
+
+abbreviated commands are
+available: ARL (all robots, report
+your locations) and ARR (all robots,
+report). These two commands are
+especially useful when you are still
+exploring and have temporarily lost
+track of which robot is where.
+Another feature that makes this
+game a cut above other adventure
+games is you don't have to type in
+every move. For example, you can
+send a robot from one side of the
+complex to the other by simply
+telling him to go there. Meanwhile,
+you can have other robots perform
+other tasks. Another time/typing
+saver is the "FOLLOW" command;
+just tell one robot to FOLLOW
+another one and he will do so as
+long as it is physically possible.
+These two features help make the
+game very playable.
+
+There are several phases to
+learning and enjoying Suspended.
+First, there's exploring and testing
+to discover all the individual
+maneuvers necessary to fix the
+filtering computers and complete
+the game. Next, there's putting all
+the pieces together to make sure
+they fit. Then comes the honing
+process —developing the critical
+path that minimizes your total
+number of moves.
+Having fixed the filtering
+computers in the least number of
+moves that you believe to be
+possible, the adventure is still not
+over. No need to file Suspended on
+the shelf with all those other dusty
+adventures. You are now ready for
+the next phases: playing the
+advanced, harder, and expert levels.
+Things happen quicker on these
+levels, but the basic scenario is the
+same. One level beyond all these is
+impossible. It is just that.
+If you've experienced Zork,
+Deadline, or Starcross, you already
+know about the quality of
+Infocom's parser (the part of the
+game's program that interprets
+your input and responds
+accordingly). It's the best on the
+market. The program accepts
+complete, complex sentences, not
+
+just two-word input. As with earlier
+Infocom adventures, Suspended
+recognizes over 600 words; and,
+more importantly, it responds
+intelligently to most user input. So,
+there is seldom a need to test
+combinations of verbs and subjects
+to hit upon the exact words that the
+game designer had in mind.
+As everyone who has read their
+ads knows, Infocom doesn't do
+graphics. Instead, their parser and
+their prose tell the story. However,
+the quality of the prose in
+Suspended is different than in other
+Infocom games. The prose in
+Suspended is mostly reports and
+replies from the robots. While there
+is little purple (in the prose), each
+robot has a particular way of saying
+things that contributes to establishing its character, revealing its
+personality, and developing an
+enjoyable atmosphere for the
+game.
+True to form, Infocom has
+maintained their tradition of
+producing the high quality
+documentation. The game includes
+a plastic molded mask of a
+cryogenic sleeper — sure to spook
+small children and entertain all
+others (and, by the way, of no use in
+completing the game); a full-color,
+two-fold map board of the underground complex with six vinyl
+markers — one for each robot; and,
+a well written instruction booklet.
+Besides containing necessary
+background information and
+procedures for playing the game,
+
+the booklet is cleverly written,
+slightly wordy, and filled with wry
+understatements about your
+cryogenic predicament. As a total
+package, the documentation for
+Suspended leaves no gaps and does
+more than enough to establish the
+mood for the game.
+One task of the adventure writer
+is to provide just enough clues, in
+the instruction booklet and in the
+game itself, for you to be able to
+figure things out. Too many clues
+and the answers are given away.
+"Hint" systems allow the writer to
+be skimpier with the clues since
+they allow you to move forward
+even if you do get stuck. Suspended
+incorporates one of the cleverest
+hint systems you are likely to see. It
+is totally integrated into the story
+line.
+Hints are dispensed via the
+underground complex's Central
+Library Core (CLC). The CLC is a
+master computer that has three
+areas from which WHIZ can access
+historical, technical, or advisory
+information about objects that the
+robots find. A fourth area of the
+CLC provides an index to the other
+three. So, for example, after telling
+WHIZ to plug in at the Index, you
+can command him to ask about an
+object (e.g., "WHIZ, ASK ABOUT
+PANEL.") If information on a
+"panel" is available, the Index will
+list which of the other three areas
+contain the information so you can
+send WHIZ there to access it.
+
+Continued on p.46
+
+SYSTEM:
+Atari 800
+FORMAT:
+Disk
+#PLAYERS: 1 to 4
+PRICE:
+$40.00
+DESIGNER: Ozark Softscape
+PUBLISHER: Electronic Arts
+San Mateo. CA
+
+Some time in the future, on a
+planet far far away, four beings are
+left to develop the planet with only
+the so-called help of temperamental
+M.U.L.E.s (Multiple Use Labor
+Elements). An interactive game for
+four players (the computer being
+able to play up to three of them),
+M.U.L.E. is a thoughtfully designed
+and quick playing game which
+contains the finer aspects of an oil
+exploration game, an auction
+game, a real estate game and bits
+of others which, as stated on the
+inside of the jacket, "...died so that
+M.U.L.E. might live." A design of
+Ozark Softscape (Dan Bunten, Bill
+Bunten, Jim Rushing, and Alan
+Watson), this is a game which pits
+you not only against each other,
+but the colony as a whole is also
+judged at the end of game for
+overall success.
+A definite bonus with M.U.L.E. is
+it's packaging (as it is also with the
+other products recently released)
+by Electronic Arts. The jacket,
+beyond the humor that it uses, is
+
+well executed in both artistic design
+and in the information that it
+contains.
+The M.U.L.E. Player's Guide is
+another example of a well designed
+adjunct to the actual program.
+Each of the three levels of play
+(Beginner, Standard, and Tournament) are given their own section
+of the guide which includes the
+basic rules or additional rules for
+that level and tips which can help
+quite a bit. The guide also includes
+a page of answers to the most
+common questions asked by the
+beginning players, the two basic
+laws of production for the basic
+commodities used in the game,
+and the strategies and opinions of
+the infamous "gang of four" (Dan
+Bunten, et al.).
+As suggested in the Player's
+Guide, the novice player should
+jump directly into playing the
+Beginner level game after only a
+cursory reading of the rules. The
+game itself is its own best tutor.
+When, after a game or two, a player
+wants to know just what he has
+been doing, the guide is still there
+to be read and now he can hopefully appreciate its explanations.
+Each turn is made up of several
+sections during which different
+things must be accomplished. The
+first part of each turn is the "Land
+Grant" phase. Each player is given
+the opportunity to select one plot
+of land from the five by nine grid
+which makes up the colony. The
+players choose their land based
+upon what they what to produce
+and where their other land is located (as these factors will effect
+the plots production).
+
+The player will then, in the
+development phase, decide which
+of the commodities is best to
+develop in regards to the previous
+turns supply and perhaps his personal shortage. On his part of this
+phase, the player goes to the town
+corral (the town is located in the
+center of the map), buys a M.U.L.E.,
+and outfits it to produce which ever
+commodity is desired. The player
+then leads the temperamental
+creature to his newly acquired plot
+and sets him up for production by
+centering himself over the hut
+which appears in each undeveloped plot of land. This phase is
+ended either by the player's time
+running out or by his getting back
+to the town and entering the pub
+(which will gain him an amount of
+money from gambling based upon
+the amount of time which he has
+left).
+After the last player has developed any land that he has had
+time to develop, the established
+M.U.L.E.s produce the commodity
+for which they were outfitted. All
+production completed, the game
+then goes to the "auction phase". It
+is during this phase that any player
+with an excess in any given commodity has the opportunity to sell
+his excess to either a player with a
+shortage, or to the town store. The
+price received depends upon the
+supply and the last price paid for
+the given commodity. The turn
+ends with a display which shows
+each player's relative worth and the
+value of the colony as a whole.
+The Beginner's level of play
+introduces the player to the three
+basic commodities produced on
+
+Irata (the planet on which all of this
+is taking place) and the basic
+economic rules which determine
+the level of their production. Each
+of the commodities (Food, Energy,
+and Smithore) has a definite use in
+developing the colony and each
+player's land. The players also learn
+that the production of the commodities varies due to the type of
+land on which it is being produced.
+Food, which is needed to give the
+player a full time allotment with
+which to develop his plots of land
+(each player gets one lot per turn),
+grows best in the river valley which
+runs down the center of the map.
+Energy, which is needed for production of the other two commodities, is best produced in the
+flatlands. And Smithore, which is
+needed for the continued production of M.U.L.E.s, is produced best
+in the mountains.
+There are two "Laws of Economics" which, as mentioned above,
+rule the degree of production on a
+player's land. The first, Economies
+of Scale, states that the larger an
+operation is, the more efficient it is
+in producing a given commodity.
+You will, therefore, gain one extra
+unit of production on each plot of
+land which is adjacent to another
+of your lots which is producing the
+same thing. If, for example, two of
+your adjacent lots were both producing energy and both had base
+production of three units per turn,
+then their actual production, due to
+the Economies of Scale, would be
+four units per turn.
+The other "Law" is the Learning
+Curve Theory of Production. This
+theory states that every time you
+double the number of units that
+you have ever produced, your
+production costs go down 20% due
+to improvements in production
+methods. In M.U.L.E. this is translated into your getting one extra
+unit of production on each plot for
+every three plots producing a
+specific commodity,. no matter
+where it is located. Using the last
+example, if that player were to add
+one more plot of land anywhere on
+the map, each plot would have their
+
+production increased by one. And,
+unlike the Economies of Scale
+which can only increase a plot's
+production by one, the Learning
+Theory of Production will increase
+your production by one for every
+three plots producing the same
+thing.
+The Standard Game introduces
+the players to two new features
+which can have dramatic effects on
+the outcome of the game. Land is
+the key to the changes in the
+Standard Game. Immediately after
+the Land Grant phase, there is a
+chance that the colony authorities
+will auction off up to six extra plots
+of land (on the average, only one
+lot is auctioned). Getting extra lots
+early in the game can mean a jump
+on getting production bonuses that
+will put you into an early lead and,
+in turn, make you that much better
+off when other lots are auctioned
+off. The other change in land rules
+is in the ability to sell land that is
+not needed (to get money for other
+more useful land) or just to get
+money with which to feed yourself.
+The buying of land in both the town
+organized sales and in the player
+sales are handled in the same
+auction format as is the trading of
+commodities in the auction section
+of the game. The only difference
+between the two types of land
+auctions is that the seller has the
+right to refuse to sell at any time up
+to the close of the auction if he is
+not satisfied with any aspect of the
+sale.
+It is during the Tournament
+Game that the final commodity is
+introduced into the game. Crystite,
+the fourth commodity, is distributed without regard to terrain,
+with the exception that it can not be
+mined in the river valley. It is also
+the only commodity whose price is
+not dependent upon supply and
+demand, as all of it is shipped off
+planet and has no local use (the
+price of crystite randomly varies
+within set parameters). As the relative worth of a plot of land for
+Crystite production can not be
+known from land features, a new
+office is opened in the town: the
+
+assay office. Players can check the
+base production of any plot of land
+by taking a sample of soil to the
+assay office for a report (which, of
+course, uses up some of the players
+precious time).
+The last thing added in the
+Tournament Game is the powerful
+ability for players to Collude.
+During any auction, two players
+may choose to collude in order to
+sell to one another while preventing
+another player from getting a
+needed commodity. Collusion also
+works during private land auctions
+by allowing only a chosen player to
+bid for the land in question.
+While these descriptions of
+M.U.L.E. have been far from
+complete, they do capture the
+basics of a game which has very
+few aspects which one might wish
+to alter. The first point which came
+to question was the lack of a "save
+game" option. While even the
+Tournament Game is only twelve
+turns long and takes less than two
+hours, it is still aggravating to have
+to kill an almost completed game
+for lack of time. It would also have
+been an improvement if the robot
+players could have been a bit
+brighter. They become rather
+predictable after a time and it
+becomes relatively easy to take
+advantage of them. The greatest
+complaint that could be found in a
+game which is so enjoyable is that
+it is just too short. To increase the
+length of the game and keep its
+dynamics of play would, unfortunately, necessitate a major revision
+and expansion of the game. It is a
+task which we will just have to wait
+for with great expectations.
+M.U.L.E. is a fascinating and very
+enjoyable game which comes to its
+best point with four human players.
+The interaction and demands on
+creating a development strategy
+which can not only change from
+game to game, but from turn to
+turn, makes this a game which will
+continue to be played long after
+others are put aside to collect dust.
+
+Battle For Normandy:
+Strategy and Tactics
+Jay Selover
+
+TYPE:
+SYSTEM:
+
+Wargame
+Apple, Atari
+400/800,TRS-80
+FORMAT:
+Disk or Tape
+#PLAYERS: 1 or 2
+PRICE:
+$39.95
+PUBLISHER: Strategic
+Simulations
+Mountain View, CA
+Battle For Normandy (BFN) is
+SSI's simulation of D-Day and the
+build-up of the Allied beachhead in
+Normandy. While it is a thoroughly
+enjoyable game and provides nailbiting suspense, it falls a notch
+short as a historical simulation. The
+game recreates the period from
+June 6 to June 28, 1944 in two-day
+turns, with units representing
+brigades, regiments, or divisions.
+The map covers Normandy from
+about Coutances (in the southwest),
+to Cherbourg (in the northwest), to
+Cabourg (in the east). Victory
+points are accumulated throughout the game for eliminating enemy
+combat points (with a bonus when
+a unit is destroyed). Also, the Allies
+gain victory points for units which
+penetrate inland while the Germans
+receive points for units which are
+able to hang on near the beaches.
+Allied units can acquire further
+points each turn by occupying (with
+no Germans adjacent) the three
+major cities of Cherbourg, Caen,
+and St. Lo (significant bonuses are
+awarded for possession of these
+cities at the end of the game).
+The strong points of the game as
+a simulation are the realistic,
+attritional approach to combat in
+Normandy and the emphasis on
+
+the limitations of supply and crossChannel transport. As a game, BFN
+gets gold stars for ease of play,
+speed of execution, play balance,
+number of game options, and a
+generally competent solitaire play
+(at least against conventional Allied
+attacks).
+Strategy
+The weakest points in the BFN
+design are best exposed in discussing optimal Allied strategy.
+Historically, the main Allied
+objectives during the first 22 days
+of the Normandy campaign were
+threefold. First, to establish a
+secure landing zone by linking all
+five landing beaches as quickly as
+possible. Second, to capture the
+vital port of Cherbourg by first
+cutting across the Cotentin peninsula from Utah beach to isolate
+the city and then to drive north.
+Third, to capture Caen, an important rail hub just southeast of
+the British beaches (there is still
+some question whether the importance of Caen was not more to
+distract German armored reserves
+away from the Cotentin peninsula
+and the defense of Cherbourg).
+Significantly, this is precisely the
+order in which these objectives
+were accomplished; the five landing
+beaches were linked by June 11,
+Cherbourg was taken on June 27,
+and Caen was not wrested from the
+Germans until about July 21.
+In playing BFN, the objective of
+linking the beaches can be all but
+ignored. The British beaches are so
+close together that the initial
+
+landings will consolidate them, and
+Omaha beach is easily linked-up by
+the elimination of one German
+regiment by Turn Three. Utah
+beach, though, can stand as an
+island through most of the game.
+The area between Utah and Omaha
+beaches is important only in so far
+as the coastal belt should be cleared
+of Germans as quickly as possible,
+but I have often failed to link the
+two American beaches until June
+26 (the next to last turn) and still
+won the game. So much for the
+most important historical objective!
+The capture of Cherbourg also
+receives significantly non-historical
+treatment. It is time consuming,
+wasteful of units, and ultimately
+foolish to attempt the historical
+maneuver of driving east from
+Utah beach to cut off the city before
+assaulting it. Rather than drive due
+east through bocage against strong
+German units (bocage multiplies
+defense factors by 2.5 in combat), it
+is much more efficient to head
+north along the eastern side of the
+peninsula and then west across the
+northern shore to Cherbourg. This
+skirts most of the bocage and
+Continued on p.46
+
+c
+
+c
+
+t
+r
+
+r
+
+t
+
+A New Column...
+
+As told by Scorpia
+
+Ah, I see you made it! That's right,
+just step inside and close the door;
+it's pretty chilly out there. No,
+nothing I can do about that; outside,
+it's always foggy November
+twilight. Comes with the territory,
+you might say. But we have a
+remedy for that: pull a chair up to
+the crackling fire, and I'll have Fred
+pour out a tall one for you (don't
+worry about Fred; he's only
+half-grue and really quite civilized).
+Err...no, we don't carry Diet Pepsi,
+you'll have to settle for something
+else. How about some dwarvish
+beer, straight from those little old
+brewers in Colossal Cave?
+Good! I'm sure you'll enjoy it!
+Now that you're all settled in, tell
+me about your plans. What
+adventure did you have in mind?
+Ah, heading off for Tibet and the
+Serpent's Star, eh? I've made that
+little expedition myself, and I'll be
+glad to give you some advice about
+it.
+
+SERPENT'S STAR
+First, you'll find it helpful to know
+a little about Buddhism. There are
+
+some riddles in the game that are
+based on a knowledge of that
+religion, and if you aren't familiar
+with some of the concepts, you will
+have a very tough time indeed!
+Also, keep in mind that not everything in this game is of significance
+or has a bearing on winning. For
+example, you can bypass the first
+monastery entirely and still complete this adventure. Whether or
+not the game was designed that
+way is a mystery, but the fact
+remains that you needn't visit the
+Yerpa monastery. Because of this,
+you will find it isn't necessary to
+buy everything the merchant has
+for sale. In fact, besides the very
+obvious horse, you need only purchase three items. Just be logical in
+your choices; there are no hidden
+traps here.
+What to do at the inn should be
+apparent; you certainly have
+enough money. Only one of the
+men is really important; if the one
+you're talking to doesn't soon
+produce something of value, go to
+the other man. Then just sack out
+for the night. The wolf is another
+problem. You have two choices
+here: kill it or go around it. He can
+be killed, but the timing is important, so it's best to save the
+game before leaving the inn: you
+may not manage it the first time
+(mean, those wolves!). Going
+around the wolf requires some
+careful mapping, but will save you
+the frustrations involved in trying
+to kill it.
+The monk on the mountain road
+is also important; he has something
+you need, so take your time here
+and don't move on until you get the
+item from him. You won't get a
+second chance: if you leave and
+come back, he'll be gone. So, check
+your inventory carefully, and consider what he might want. You will
+also have to say the right thing, and
+that might be a bit tricky. However,
+there aren't too many topics you'd
+want to talk about, so it shouldn't
+take too long to come up with the
+proper phrase.
+
+Ah yes, the avalanche! Well, I'm
+afraid there's no way around this
+time; you'll just have to dash past it.
+It takes good timing and VERY
+careful observance to get through,
+but you can do it. However, since it
+might take you more than one try,
+it's a good idea to save the game
+before leaving the ice cave.
+Now, at last, you've made it to the
+fabled monastery that holds the
+Serpent's Star! You just have to
+find it, and that won't be easy. The
+first thing to do is search all rooms
+THOROUGHLY! Read descriptions
+carefully, and act accordingly. One
+thing you can ignore is the armor;
+you're too big to wear it and it isn't
+useful for anything, anyway. Also:
+there is a little trap in one of the
+rooms, so be careful what you open
+up!
+Once you've been everywhere
+else, you should be ready to tackle
+the silver door. Of course, you must
+get rid of the guardian demons
+first, but if you have visited all the
+rooms, you know what to do here
+(if not, go back and try the rooms
+again until something happens).
+Once you've taken care of the
+demons, you will be able to open
+the silver door. At this point, you
+should have four gems. If you don't,
+I suggest you search around carefully for the missing one...you will
+certainly need it later on! Now, just
+make your way through the rooms,
+past the exercise yard, and into the
+building with the old monk. Now
+here's where it starts to get mean.
+The monk will ask you three questions, and you had better know the
+answers the first time. This is when
+a familiarity with Buddhism will
+help (but if you're really stuck and
+the library is closed, the answers to
+all riddles are included at the end of
+the column).
+Once past the monk, you will find
+yourself in the bane of every adventure game, the maze. You will
+have to map this one extremely
+carefully, as you can become conContinued on p.50
+
+COSMIC BALANCE SHIP DESIGN
+CONTEST RESULTS
+
+Twenty-five entries fought it out
+in the CGW Cosmic Balance Ship
+Design Tournament. When all the
+phasers were silenced, all the
+plasma torpedoes spent, and all the
+fighter squadrons destroyed, David
+Cheng of San Clemente, CA was the
+hands-down winner. David's tech-6
+dreadnought, Avenger, was the
+only ship that had a positive
+composite score. He averaged +143
+points against the three judges. The
+next closest design was Baldur by
+Michael C. Powell of Baltimore, MD
+who had a composite score against
+the judges of -16. From there the
+scores went from -27 to -250.
+Avenger was, according to the
+judges, a "good combat ship for
+close in fighting". It's score against
+Paul Murray's Mongoose was +156.
+It's score against Keith Brors'
+MKVP6 was +24. And against
+Russell Sipe's Blaze, Avenger scored
++250 (Blaze was blown out of
+space). As Russell is the publisher
+of CGW, David's subscription was
+immediately canceled (just kidding
+David!). Paul Murray is the designer
+of both The Cosmic Balance and
+Cosmic Balance II. Keith Brors did
+game development on Cosmic
+Balance II.
+Avenger's design concentrated
+on forward firing weapons and
+speed. The ship would accelerate at
+high speed towards a target while
+firing forward, and constantly
+keeping it's nose pointed at the
+enemy. The forward shields were
+of maximum strength. This,
+combined with an armor rating of
+50, made the ship ideally suited for
+straight forward infighting.
+Nearly all entries were composed
+of a single tech-6 dreadnought. A
+few entries chose a lower tech level
+so as to have two dreadnoughts
+and still remain within the
+tournament guidelines. The entries
+can be classified into one of three
+
+types of ships: transporters;
+battleships; motherships (i.e.
+aircraft carriers).
+Transporter ships had large
+numbers of marines on board that
+would beam through a downed
+shield and board an enemy ship.
+These ships had the potential of
+scoring well, as captured ships
+counted for double victory points.
+The highest finishing transporter
+ship was Michael Livanos' Ajax.6
+which gathered +16 and 0 from
+Paul and Keith's ships (both were
+battleship types), but fell to Russ'
+fighters (from his aircraft carrier
+BLAZE) due to weak rear shielding
+(those little fighters fly around like
+a pack of wasps). His score was
+good enough for seventh place.
+Battleships, which were the most
+common design, concentrated on
+direct fire weapons such as phasers
+and photon torpedoes. They were
+designed to close-in or to circle an
+enemy pummeling him with
+(hopefully) withering fire. Avenger,
+our tournament winner was of this
+type.
+
+Motherships, are very similar in
+nature to WWII aircraft carriers,
+with the majority of space in the
+ship dedicated to fighter bays. This
+design can be murder on any ship
+with less than a 25 shield strength
+in any arc. James Reisman of
+Southampton, NY used TWO
+motherships Aegean and Bosporus
+as his entry and placed third. James
+was able to have two motherships
+by reducing his tech to level one.
+This made the ships weaker
+individually but allowed him to
+launch six fighter groups (as
+opposed to the maximum of four in
+a single ship design of tech level
+six).
+Congratulations to David Cheng
+and Avenger, winner of CGW's
+COSMIC BALANCE SHIP DESIGN
+CONTEST. David will receive an
+SSI game of his choice. Our thanks
+to all the entrants. If you would like
+to get the ships in our contest,
+including Avenger and the three
+judges ships, see the announcement
+of CGW's COSMIC BALANCE SHIP
+DISK in this issue.
+
+COSMIC BALANCE SHIPYARD DISK
+Now available from CGW —
+COSMIC BALANCE SHIPYARD DISK. This disk contains
+over 20 ships to be used in
+playing SSI's THE COSMIC
+BALANCE. Included are
+Avenger (winner of the CGW
+Ship Design Contest), Blaze,
+Mongoose, MKVP6 (the judges
+ships from the contest), as well
+as most ships of the other
+contestants.
+These ships are ideal
+opponents for those of you that
+cannot find enough local
+
+"talent". Many are worthy of
+study in your attempt to
+develop the best ship around.
+To order send $15.00 to:
+COMPUTER
+GAMING WORLD!
+CB Disk Offer
+P.O. Box 4566
+Anaheim, CA 92803-4566
+Please specify Apple or Atari.
+This is not a complete game.
+The Cosmic Balance is needed
+to use this disk.
+Allow 3-4 weeks for delivery.
+
+Knights of the Desert:
+Review
+John Gleason and Ed Curtis
+
+The Game
+Knights of
+the Desert
+Wargame
+TYPE:
+SYSTEM: Apple, Atari,
+TRS-80
+FORMAT: Diskette or Tape
+#PLAYERS:1 or 2
+AUTHOR: Tactical Design
+Group
+$39.95
+PRICE:
+PUBLISHER: SSI
+
+NAME:
+
+Historical Overview
+From the beginning of the North
+African campaign in 1940,
+Lieutenant General Richard N.
+O'Connor and Theater Commander
+Sir Archibald Wavell had performed brilliantly in all but
+destroying a numerically superior
+Italian force. By February 1941, all
+that was left of the Italian Army in
+North Africa, originally of 250,000+
+men, were a few badly demoralized
+
+divisions near Tripoli:
+The final blow, however, was
+spared the Italians due to an order
+from Winston Churchill, which
+detached the cream of O'Connor's
+forces for the ill-fated defence of
+Greece. This decision was made
+not knowing that on 12 February,
+the day before the announced
+transfer decision, Erwin Rommel
+and the first units of what was to
+become the Afrika Korps had
+landed in Tripoli.
+
+Knights of the Desert(KD) is a
+multi-scenario simulation of the
+fight for the section of desert
+between El Agheila and Alexandria.
+This area, unremarkable in its own
+right, served as the battle ground
+on which one of the most able of
+the German armor commanders
+and a series of less able British
+commanders were to wage a seesaw campaign for North Africa,
+and ultimately the entire
+Mediterranean Theater. The critical
+features of this campaign (supply,
+replacements, troop morale, and
+extreme mobility) are captured in
+both their effects upon the tactical
+situation of any given turn and
+upon the overall feel of the game,
+as the situation shifts from turn to
+turn.
+The game begins with a game set
+up section during which the
+player(s) may specify: if they are
+beginning a new game or continuing a saved game; the difficulty
+Continued on p.47
+
+GALA CTIC ADVENTURES:
+REVIEW & HINTS:
+
+David Long
+
+Galactic Adventures (GA) is SSI's
+sequel to their outstanding game of
+individual combat in the 28th century Galactic Gladiators (GG). GA
+is a science fiction role playing
+game where you, as one of the
+seven regular species introduced in
+GG, progress towards the title of
+Independent Adventurer. Along the
+exciting and dangerous road to
+that ultimate honor, you'll probably
+create at least one clone, recruit
+and train companions, and scour
+the galaxy for treasures left by a
+long dead civilization.
+Characters have the same basic
+makeup as did those in GG; (see the
+review in CGW — Sept-Oct 1982)
+with the addition of leadership
+ability, sensitivity, and advanced
+skills. These include piloting,
+engineering and gunnery ability,
+(very necessary if you plan to
+journey in your own spaceship) as
+well as a wide variety of other skills.
+Weapons and armor are pretty
+much the same as GG, with the
+addition of "special" phasors and
+armor. Special phasors can fire five
+times before reloading, and special
+armor offers the protection of
+heavy armor without encumbering
+your speed or agility.
+Your adventurers will also acquire
+(through purchase or by robbing
+defeated enemies) tools and special
+weapons (such as the matter beam,
+
+Galactic Adventures
+Role-Playing/
+Tactical Combat
+Apple II,IIe,III,
+System:
+Atari 400/800
+(Winter 1983)
+1 or 2
+#Players:
+Tom Reamy
+Author:
+$39.95
+Price:
+Publisher: Strategic
+Simulations
+Mountain View, CA
+Name:
+Type:
+
+heat ray gun, robot scrambler and
+missile imploder) to enable them to
+survive and earn cash (Frilbees are
+the interstellar currency of the 28th
+century).
+As introduced in GG, each regular species has its own home
+planet. And, to complicate your life,
+some planets have outlawed certain types of weapons. Earth, for
+example, allows no gemstones (a
+type of futuristic grenade), so be
+sure to sell off all your gemstones
+before heading for Terra, or the
+customs service will confiscate
+them from you.
+It costs to feed and house you
+and your associates, so be sure to
+keep a cash reserve or they'll desert
+you (taking whatever weapons and
+assorted goodies they happen to
+have on them). Naturally, all but
+your clones and the special species
+
+whom you have purchased will
+expect to be paid on a daily basis
+and, the better they get, the more
+they'll want to be paid (sounds like
+our modern day athletes, doesn't
+it?). If you can't pay, it's adios,
+amigo!!
+Each planetary system has four
+areas for your enjoyment (Visitor's
+Area, Streets, Guild Area, and Space
+Port). First is the Visitor's Area,
+where you can shop for tools at the
+market, make purchases at the
+weapons' center, or visit the clone
+master. I'd strongly suggest that
+your first item of business be to
+make two clones of your original
+adventurer. This allows you to have
+two unpaid yet loyal followers and
+to expand your fighting and job
+skills.
+Next area of importance is the
+Streets, where you can improve
+
+your originally meager fighting and
+job skills and can meet and recruit
+additional members for your band.
+In the streets you can Attack, Offer
+to sell something, try to get the
+beings you meet to Join you, Talk
+to them about buying something,
+or attempt to Bypass if they look
+too tough for you to fight and you
+think they may be hostile. Attacking
+is one sure way to get the action
+going and try to improve yourself,
+but there is always a chance that
+you'll be .fined for disturbing the
+peace (half your cash), so be careful
+of attacking when you're financially well off. Offering is a good
+way to build your cash, but unfortunately, no one is interested in
+buying anything except special
+weapons or the fabled K-devices
+which you can only find on an
+adventure.
+Talking will often result in your
+being offered a goodie of some
+sort, either a special weapon or a
+member of a special species, but
+these things, like everything worth
+
+having in life, cost money. There is
+also the chance that your Talking
+will result in the other guys
+Attacking you, so I'd recommend
+you not try to carry on any intelligent conversations with Berserk
+Robots or Asteroid Miners. They
+are very easily annoyed.
+
+The other possible result of
+Talking in the streets is being
+offered one of the fourteen different types of jobs. Your ability to
+successfully perform a job is
+dependent upon your skill rating at
+that type of job, and to a varying
+degree on luck and intelligence.
+You cannot even attempt many
+
+jobs unless you have the proper
+tools. Once qualified, you have two
+options in attempting to successfully complete your assignment.
+The first is to play the Job Skills
+Game, best known in its more
+common form as Mastermind.
+You'll be given a random configuration of four members of the
+seven regular species. You must
+
+determine, through logical analysis,
+which species are in which slots
+before your allotted guesses run
+out. You'll get more guesses if your
+skill rating is higher than the job
+difficulty level (to a maximum of
+ten) and fewer guesses if the
+difficulty level is higher than your
+skill rating (to a minimum of one
+guess!).
+If you don't feel like dealing with
+this option, you can opt for an
+abstract resolution where your
+chances of success are calculated
+by the artificial intelligence and
+your success or failure is immediately announced. I found that in
+crucial situations on adventures,
+where my skill rating was about the
+same as or a little worse than the
+job difficulty, I usually chose to
+play the game. Most other times, I
+preferred to take my chances with
+the abstract resolution and get on
+with playing Galactic Adventures
+rather than a guessing game.
+Continued on p.48
+
+TELE-GAMING
+
+discussions with callers. Many
+others, however, are devoted
+primarily to game playing and, for
+the cost of a local or long distance
+telephone call, your modem
+becomes a passport to adventure.
+To qualify as a "gaming BBS," a
+system should offer at least one
+of the following features: 1) an
+ongoing fantasy role-playing game
+(FRPG); 2) a message board that is
+used by callers to give and receive
+computer game-playing hints; 3)
+computer games that are playable
+online; or 4) computer games that
+are available for downloading by
+callers.
+
+Patricia Fitzgibbons
+
+For a day and a night, the winds
+and rains have pounded unceasingly. Yet, you struggle onward —
+sure in your heart that the ancient
+scroll you seek will soon be yours.
+In the mists ahead, the shadowy
+outline of the evil druids keep rises
+up before your tired eyes like some
+abominable netherworld creature.
+You glance at your companions
+and smile as if to say, 'Be brave! At
+least we have each other!" They
+nod, determination shining in their
+faces. Unsheathing your broadsword, you approach the castle,
+willing, come what may, to meet
+your destiny.
+You log off the system and gaze
+at the monitor, wondering what
+perils your mischievous dungeonmaster will present the next time
+you sign on to your favorite BBS.
+Although relatively new to the
+computer gaming world, telegaming via private bulletin board
+systems (BBSs) is becoming
+increasingly popular. Most of the
+hundreds of BBSs throughout the
+country are owned and operated
+by individuals who want to share
+information about hardware and
+software, exchange programs, post
+advertisements and items of local
+interest, or enter into wide-ranging
+
+In this issue, I'll be listing some
+BBSs which provide FRPGs and/or
+gaming hints. Next time, we'll focus
+on boards that supply computer
+games for online playing and/or
+downloading.
+A few important caveats should
+be noted before you explore this
+facet of tele-gaming. First, most of
+these BBSs are privately run,
+single-line systems; so, busy signals
+are not uncommon (especially
+during the evening hours). Also,
+from time to time, a terrific BBS
+will seem to simply vanish; this may
+be due to the System Operator
+("SysOp") deciding to use his or her
+machine for other purposes.
+Finally, although most BBSs are
+free, some SysOps charge nominal
+fees for usage.
+
+You don't need to be an expert at
+FRPGs to join a message board
+Although many BBSs offer
+advanced games, novices are
+usually welcome. One young lady,
+whose BBS "handle" is "St. Alia of
+the Knife", recounts her delight
+upon discovering fantasy gameplaying BBSs: "Such fun! I just had
+to be a part of it! Now, I guess I
+spend about one to one-and- a-half
+hours per night in typing and
+reading messages. I'm currently
+involved in six games!" Another
+committed player is "Elrond
+Halfelven", a seventeen year old
+high school student who has strong
+opinions about the kind of bulletin
+board games he likes:"The most
+
+important criteria for a good game
+on a BBS are the same as for live
+games — you must have a good DM
+and good players; people who are
+willing to truly role-play. Also, in an
+online game, players should call in
+at least every other day".
+Once you've sampled the fare on
+a few BBSs, you'll soon find which
+systems are most to your taste.
+Even if you don't wish to join an
+FRPG, you can participate in
+gaming discussions and exchange
+adventure gaming hints with other
+callers. Here are brief descriptions
+of four of my favorite boards,
+followed by a list of eighteen others
+which are well worth a visit.
+
+Magnetic Fantasies—(213) 3885198: Which extra-ordinary,
+marvelous, and outlandish BBS is
+run by two humans, three elves,
+and a very nasty dwarf named "Sir
+Twitt?" MagFan, of course. Located
+in Los Angeles and established in
+1980, MagFan is the "granddaddy"
+of gaming BBSs. There are several
+FRPGs in progress on the board for
+players of all levels. Adventure
+game hints can be exchanged by
+leaving requests on the public
+board and receiving replies through
+private, electronic mail. Whether a
+caller decides to join a party of
+adventurers or merely to follow its
+exploits by reading the board, an
+enjoyable time is guaranteed.
+
+White Pegasus—(214) 680-9322:
+Deep in the heart of Texas, a
+mythological beast thrives. It is
+nurtured by a SysOp named
+Shalanna who oversees five FRPGs
+and a "continue-the-story" fantasy
+book written by callers. Games in
+progress include two novice D&DTM
+games, one advanced D&DTM game,
+a science fiction game, and a
+wargame.
+
+The Sanctuary—(201) 891-9567:
+If a bulletin board system could be
+compared to a small village, The
+Sanctuary in New Jersey is a
+burgeoning metropolis. This BBS
+has forty-one separate boards to
+choose from, as well as ongoing
+
+Continued on p.50
+
+REAL
+WORLD
+GAMING
+
+This review process should include "unbiased
+observers" who will view your product as it exists
+rather than how you intended it to look. Play testers
+who were not part of the initial design will respond to
+your game like consumers who purchase it. Thus, you
+need to select your play testers with your audience in
+mind. If you are writing a wargame for wargamers,
+then you don't need people unfamiliar with these types
+of games as testers. However, if you are hoping for a
+broader market, then you must choose testers with a
+wide variety of backgrounds. Personally, I prefer a
+large and diverse group of testers for any game I write
+even if I know it will be targeted for a certain audience.
+The variety of views gives me a handle on how my
+product will be perceived.
+Always include a few people who are interested in
+your game but have never touched a computer! These
+people will be your future audience and you must
+make allowances for them. There is no reason for
+someone to be "computer literate" to play a computer
+game. Games that assume that everyone knows to hit
+"return" at the end of a line are placing unnecessary
+obstacles in front of the "uninitiated". So, if you want to
+find out how totally novice computer users respond,
+you have to include them in your play testers group.
+
+by Dan Bunten of Ozark Softscape
+This is the last installment in this series on the design of
+simulation games. The previous topics were:
+System Definition
+Data Collection
+Model Development
+Programming (Game Design)
+This time we will look at Play Testing. This is the
+"feed-back loop" in the process of creating a game.
+During this phase you take your design out of the closet
+and let it face the harsh light of player scrutiny. More
+often than not, you will at this point, discover that there
+are holes in your game that require you to repeat some
+of the previous steps. This can be much like the process
+of writing in which you revise your first draft to more
+clearly communicate your thoughts. All good writers
+re-draft their material repeatedly until they are satisfied with the way their ideas come across. They are
+"testing" their writing to see if it captures the images
+they meant to convey to the reader. During this testing,
+writers correct their spelling and grammar, but the
+main thrust is to examine content. Similarly, Play
+Testing must include more than fixing bugs in the
+program. The designer must look critically at the way
+the game plays. You must examine your game to see
+that it faithfully reflects the insight that drove you to
+create it.
+
+The best place to find such a diverse group is in a
+thriving computer club or user group. Such organizations will normally include people from the hardcore
+hobbyists and hackers to the first time computer
+owners who have only played arcade games. A good
+way to get started with a group is to offer anyone that
+would like it a free copy of your game in return for
+their suggestions.
+After you have recruited your play testers you need
+to use them to your benefit. In some cases the program
+is not really firmed up yet and you will have to "walk
+them through" a demo while you explain what you
+intend to add. Then you can let them respond to what
+you showed them. However, it is almost always better
+to let them "hassle" with the game themselves to see
+what things seem to strike them. It just depends on how
+complete your game is before you start testing. I prefer
+to show a few testers (who have been helpful in the
+past) new ideas as early as possible. But, I wait before
+showing it to most testers till I have a good working
+program that they can actually play. Then when the
+product is almost complete, I find the non-computer
+types to test it.
+
+In your relationships with testers, you have to work
+hard sometimes not to defend your game. Don't
+answer a suggestion with, "I thought about doing what
+you described but I decided it wouldn't work." A
+response like that will simply dry up the well of user
+
+input. Instead just ask more questions and occasionally
+say "That's a good idea, I'll see if I can fit it in." This may
+sound obvious to anyone with a little experience in
+human relations, but you would be surprised at how
+hard it is to do when you've already spent six months
+nurturing your game and someone starts "nit-picking"
+about the graphics.
+
+Even worse than the detractors are the testers that
+don't say anything. They are from the old school that
+believe if you can't say something nice then don't say
+anything at all. You have to "pump them" for their
+reactions or be satisfied with reading their body
+language as they play the game. So be thankful for the
+straight-forward types who tell you that they didn't like
+the game because it was too complicated. They are
+giving you information that will help you to make
+decisions.
+Now that you have the testers' comments what do
+you do with them? I generally just wait for something
+to coalesce. It's obvious you can't please everyone. It
+isn't unusual to have conflicts where one person thinks
+something is too hard while another thinks it's too easy.
+Wait till a consensus forms even if it is only in your
+mind. Then I begin to make changes. Often someone
+will suggest something that I thoroughly agree with but
+don't believe can be done. However, while I sit and stew
+about it, I may discover a way to do it. Also, there are
+those times when you're better off leaving well enough
+alone.
+
+I'm not sure how you can distinguish between good
+or bad advice. For myself, if I have a group of 30 testers
+(of whom 10 are active and helpful) and I hear a certain
+comment twice I consider it significant and if I hear it
+more than three times I call it an overwhelming
+consensus. This is because, in a big game, people don't
+normally notice the same things unless they stick out
+like a sore thumb. Finally, you can't ever be a good
+game designer if you aren't able to trash your "good
+idea" that didn't work.
+Most of the previous suggestions for play testing
+would apply to any type of game design. However,
+simulation games provoke a certain type of user feedback because you are trying to recreate an intrinsically
+complex real-world situation in a game format. The
+battle you have been waging with yourself between
+realism and playability comes to a dramatic head
+during play testing. There are some people who enjoy
+the detailed accuracy of a simulation and demand
+absolute authenticity. There are other people who
+consider anything more complex than "Pac-Man" as
+pedantic and boring. Fortunately, the vast majority of
+people fall between these extremes. Nevertheless, there
+
+are still trade-offs to be made. My own method of
+design is to make the initial model as realistic as
+possible. Then to begin cutting it down until I have
+something considered playable by the target audience.
+The pieces cut out are not actually removed from the
+model, but are simply made more abstract. This way
+the game can stay fairly realistic except that some
+parts of the "system" are running on automatic. The
+greatest accomplishment is when the elements you
+have replaced with abstractions can leave the player
+with a feeling of "depth" in your game. At that point
+you've gained rather than lost realism.
+Aside from the conflict of realism versus playability,
+there are other things that surface during play testing a
+simulation game. Pure math would dictate that you
+should not adjust the data collected to make your
+model fit your biases. You should just let the numbers
+stand on their own. However, there are times when you
+must revise "reality" to fit people's perceptions and
+preferences. For instance, in "Cartels & Cutthroats" (a
+business simulation I wrote in 1981), I had a realistic
+representation of how research and development
+expenditures affected a company's product sales.
+However, during the play testing it was apparent that
+most people believed that R & D should affect sales
+much more dramatically. I therefore adjusted the
+model until it "felt" right. This tendency for people to
+amplify cause and effect relationships has to be
+reflected in your model. In fact, it is almost certain that
+people respond better to a model with somewhat
+exaggerated effects than "true realism". This parallels
+the kind of artistic license that cartoonists use to make
+their characters more attractive. Caricatures must be
+overstated to be successful. It can be a little unsettling
+to have to "corrupt" your model to suit game player's
+tastes, but it actually improves the "apparent realism"
+of your game.
+
+Finally, be prepared during play testing (more so
+than any other phase of game development) for
+unpredictable swings in your mental outlook. There
+will be times that you will wonder how you could have
+worked so hard for a game that isn't even fun! And then
+other times you will be convinced that your game is the
+greatest thing since paved roads! Play testers will build
+up your ego until you feel like a minor god sometimes,
+and take hammers to your feet of clay at other times.
+But remember, you chose to write a game and you'll
+just have to bear with the bad and hope for the good!
+Dan Bunten is the author of COMPUTER QUARTERBACK, CARTELS & CUTTHROATS, and CYTRON
+MASTERS all available from Strategic Simulations. He
+is now a member of the Ozark Softscape group that
+wrote M.U.L.E. (a family game for the computer)
+available from Electronic Arts.
+
+,
+
+ATARI ARENA
+Allen Doum
+
+THE ZEAL OF THE CONVERT
+PINBALL CONSTRUCTION SET
+(PCS) looks like a convert. It's hi-res
+graphics are in white, purple, green
+and black.
+PCS sounds like a convert.
+"Beeps" and "boops" are heard in
+great number. True, it does sound
+somewhat like a pinball machine. It
+also sounds like an Apple.
+Don't misunderstand me, I think
+PCS is a great program. For a list of
+its' considerable strengths and
+minor weaknesses, see last issues
+review by John Besnard. What John
+says about the Apple version is all
+true about the Atari version. That is
+
+the problem.
+The situation is this. It is easier to
+convert a hi-res, machine language
+program from Apple to Atari than
+to write a new program. Both
+machines use versions of the same
+microprocessor, Apple hi-res
+graphics are easy to simulate in
+graphic mode 8, and the Atari is
+capable of producing all the sounds
+that the standard Apple can. The
+programmer or publisher can,
+therefore, convert his game and
+increase his market by only rewriting some of the routines. The
+main logic of the program does not
+need to be changed. Same
+microprocessor.
+
+Graphics provide a slight problem. Apple hi-res graphics use
+black and white as "primary"
+colors, with purple, green, blue and
+orange produced by taking advantage of the limitations of the
+picture tube. This is called artifacting. But the Atari only produces
+green and purple when black and
+white are the "primary" colors —
+the blue and orange are often lost
+in a converted program. (Machines
+equipped with the older CTIA
+interface chip reverse this. Blue
+and orange are displayed with
+green and purple lost). Of course,
+black and white aren't the only
+primary colors and mode 8 is not
+the only graphics mode available
+on Atari. some converted games
+take advantage of this to produce
+more color, but some do not.
+Some converted games upgrade
+the sound, too. Often louder and
+slightly better versions of the same
+sound. But rarely the music that is
+becoming standard on the games
+written directly for Atari machines.
+PCS has, in fact, more than the
+usual share of upgrades. The
+moving "Icons" that the player uses
+to manipulate the game use player/
+missile graphics. And, you may use
+the button on a second joystick (to
+take the place of the second button
+on most Apple joysticks) when
+using the flippers.
+That second joystick button
+illustrates how even a small hardware difference between computers can effect the play of a
+game.
+In the game CHOPLIFTER,
+another Apple-Atari convert, the
+player uses a helicopter to rescue
+prisoners while fighting enemy
+tanks, jets, and aerial mines.
+(CHOPLIFTER was reviewed in
+CGW vol. 2 no. 4) While the joysticks maneuvers the helicopter in
+both games, the Apple version uses
+one button to turn the chopper, the
+other fire the weapon; in the Atari
+version, the same button is used for
+both, a short tap firing the weapon
+with longer taps turning the chopper. This means that the player will
+
+mistakenly turn instead of firing at
+times, and it is not always convenient to line up another shot.
+Moreover, the program has to time
+how long the button is pressed to
+determine what the player is trying
+to do, making the controls sluggish.
+In short, CHOPLIFTER is not as
+good a game on the Atari as it was
+on the Apple and the difference is
+that extra joystick button.
+What is happening here? Programs losing color when being
+converted to a machine with more
+colors? Losing controls when converted to a machine that supports
+more controllers? Why? Because
+they're converts, that's why. A
+converted game all too often will
+reflect the limitations of both
+systems, and the strengths of
+neither.
+That is the point of all this. People
+buy games not only for how good a
+game it is, but also how good a
+program it is. Choplifter was
+popular on the Apple partly because of the amount of animation
+and the scrolling landscape. Such
+things are not often seen on an
+Apple monitor. On Atari, it's simply
+not as impressive. (PCS is still
+impressive, I keep wishing that
+there was a true Atari version.)
+(Some of the companies producing games for the Atari are now
+converting those games for the
+Commodore, TI, and IBM. In this
+context it is definitely more blessed
+to give than to receive.)
+If it's not converts, it's clones.
+With some of the games available
+for more than one computer it's
+hard to tell who is converting what,
+since the games become available
+at the same time for more than one
+computer. Two games from
+Adventure International illustrate
+an additional problem. SEA
+DRAGON is a "Scramble" type
+game. The player maneuvers his
+ship, in this case a submarine,
+through a constantly scrolling playfield filled with obstacles to destroy
+or avoid, in this case mines, depth
+charges, and the walls of narrow
+passages. Instead of a fuel supply,
+there is a diminishing supply of air,
+and the player must surface to
+
+Continued on p.45
+
+COMPUTER GOLF!
+Stanley Greenlaw
+
+What golf ball are you using for today's match? A
+Top Flite #4? A Titleist #3? How about an Apple #2, an
+Atari #8 or even an IBM #1? Here are four microcomputer golf games that can challenge you on those
+nights when you have the "golf bug" or on that
+weekend when your regular match is rained out. Three
+of the games run on the Apple. The fourth runs on the
+Atari 400/800 and the IBM PC. All games can be played
+by one to four players.
+
+FORE!
+SYSTEM:
+Apple
+FORMAT:
+Diskette
+#PLAYERS: 1-4
+AUTHOR:
+Jeffrey A. Johnson
+PRICE:
+$29.95
+PUBLISHER: EPYX
+Mountain View, CA
+
+FORE! is the only low-res entry of the games
+evaluated (for some unknown reason we called it hires in Taking a peek—Nov.-Dec.82). The game includes
+a driving range (for practice), a "public" 18 hole course
+and a "championship" 18 hole course. Typical of the
+designations, the public course is shorter and easier
+than the championship layout.
+The lo-res screen presents one or two holes at a time.
+Screen colors indicate fairway, light rough, heavy
+
+rough, trees, water, sand traps, the green and the
+always popular "out of bounds". The computer does
+not keep a running total of strokes (as it does in the
+other games). A scorepad and pencil are provided
+however. The rulebook is adequate, providing the
+necessary information to play, as well as giving a
+description of the three common team play methods—
+stroke, best ball, and dutch. But there is little additional
+detail. For example: it would have been nice to know
+what process the computer goes through to determine
+if a putt is "in" or not. There is no speed to set and
+aiming a putt simply involves putting the on-screen
+cursor over the hole. Apparently only a random
+number generator has anything to say about whether a
+particular putt is "in" or not.
+
+Game play involves moving the cursor to that part of
+the fairway or green that you are aiming at; keying in
+the club you wish to use; setting the strength of the
+swing: then hitting return. The main skill involved in
+the game is selecting the correct club and swing
+strength for your shot. The shot will fall more or less in
+the area in which you aim. Wind direction, which only
+changes after the first nine, can affect the flight of the
+ball. There is no save feature.
+
+CHAMPIONSHIP GOLF
+Apple II
+SYSTEM:
+Diskette
+FORMAT:
+#PLAYERS: 1-4
+Blair Hadfield
+AUTHOR:
+$24.95
+PRICE:
+PUBLISHER: Hayden Software
+Lowell,MA
+
+Actual play involves selecting club, swing strength
+and compass direction of shot (by keying in the
+compass heading). The skills required are the ability to
+select the right club and swing and the ability to figure
+out the correct angle. One hole at a time appears on the
+screen. Sand traps are often so small in the hi-res
+rendering that they sometimes blend in with the lines
+that make up the outline of the green. When you reach
+the green a blow-up appears and you putt out by
+selecting club head speed and angle of putt.
+The unique element of this game is that it shows both
+an overhead view (as the other 3 games do) and a side
+view. The side view adds a degree of interest as you
+watch your ball fly into the air, down the fairway, and
+bounce to its stopping point. Unfortunately the game
+does not capitalize on this feature. Trees (which are
+lacking in CG) seem like a natural obstacle that would
+have given the side view some real meaning in the
+game. Lofting a nine iron over a tree and onto the green
+would have been so enjoyable. Additionally, the
+program excludes the possibility of hitting your ball
+across a dogleg. With the side view it is tempting to loft
+a shot over a bend in the fairway, (going over the
+out-of-bounds markers) and back into "fair territory."
+Forget it. As soon as the program detects that your ball
+is over out-of-bounds territory you are counted as outof-bounds, no matter how high your ball is nor the fact
+that the landing area would have been inbounds.
+
+The computer maintains a scorecard for each player.
+The rules can be read in the manual or on the screen. A
+club selection chart can also be found in both places.
+Nine woods (that's right!), nine irons, two wedges, and a
+putter make up your twenty-one club arsenal.
+
+GOLF CHALLENGE
+
+SYSTEM:
+
+Atari (Tape)
+IBM PC (Disk)
+#PLAYERS: 1-4
+AUTHOR: Harold Schwab
+PRICE:
+$24.95
+PUBLISHER: Sierra On-Line
+Coarsegold, CA
+
+video cartridge game rather than a serious simulation
+of the game of golf.
+The key to success in GC is in lining your character
+up properly so that when you stroke the ball it will
+travel in the intended direction. Your player has an
+"I-beam" shaped body which with a little practice can
+be used to set up the angle of your shots. For example
+to hit a ball directly downwards (on the screen) you
+would line up the golfer so that the ball is to his left and
+directly in line with the upper cross member of the
+"I-beam". When you reach the green, it is enlarged so
+that you may putt out using the same techniques used
+on the fairway shots. The graphics of GC are the best
+of the games reviewed here. While less a serious
+simulation than the game which follows, GC has a
+charm all it's own as a video-style golf game.
+Unlike the other games in which you key in data on
+your shot, Golf Challenge is strictly a joystick oriented
+game. You move your player to the ball, positioning
+him for the best angle then use the joystick and
+firebutton to swing your club and strike the ball. The
+longer your backswing the farther your shot. Although
+the mechanics are more arcade oriented than the other
+games, you must still plan your shot strategically so as
+to avoid the rough, trees, sandtraps, water, and out-ofbounds. Playing this game reminds one more of a good
+
+HI-RES COMPUTER GOLF 2
+
+SYSTEM:
+Apple
+#PLAYERS: 1-4
+AUTHOR:
+Stuart Aronoff
+PUBLISHER: Avant-Garde
+Creations
+Eugene, OR
+
+There is no doubt that this is the best golf simulation
+on the market. Any serious student of the game of golf
+will find in this game the mental challenges that he
+faces in the real thing as well as the need for practice to
+develop a "good swing" which is essential to the actual
+game.
+
+HRCG2 is an improved version of Avant-Garde's HIRES COMPUTER GOLF game that was originally
+released in November 1981. The second edition carries
+the label "Pro-Courses Series". It contains a two sided
+disk. One side is the "master diskette" which contains
+the actual program as well as the Demonstration,
+Practice Hole and 18-hole Beginner's Course. The
+other side is the "Pro-Courses Diskette" which contains
+three pro courses. The idea is that, if the market
+demands, other courses could be marketed in the
+future.
+The documentation is excellent. In addition to the
+rulebook which is quite detailed, there is a
+demonstration program that walks you through the
+game step by step. OTHER GAME MANUFACTURERS
+SHOULD TAKE NOTE. This demonstration feature is
+the best tutorial this writer has ever seen in a computer
+game (and some of us can use tutorials on the more
+complex games)!
+There are two ways in which you can play HRCG2.
+You can use the standard method in which after
+selecting your club/swing-strength/aim, you use the
+keyboard to guide the arc of your swing (see
+illustration). The other method is to use the auto-swing
+
+more screens are needed to display the hole. At first
+this may be an irritation since you will commonly have
+to hit a ball located on one screen toward a landing
+area on the other screen. However you will get used to
+this quickly and the greater detail in the fairway layout
+due to the larger scale more than makes up for this
+minor inconvenience. The problem is minimized by the
+fact that most shots from one screen to another are
+shots not going directly for the green (i.e. tee shots on a
+par 4). Screens are easily flipped with simple
+keystrokes.
+The game includes a scorecard processor with which
+you can make a hardcopy of your round, and save up
+to 20 games on disk. But the most exciting added
+feature is the Tournament play Option. Using this
+option it is possible to play a tournament of HRCG2
+with other people through the mail. Computer Gaming
+World is sponsoring the nation's first HRCG2 tournament. See details following this article.
+For the golfer, HRCG2 is the closest thing to actually
+being out on the course. It is our hope that HRCG2 sells
+well enough to justify the release of future Pro-Series
+Course diskettes.
+
+CGW GOLF
+TOURNAMENT
+
+Using Avant-Garde's Hi-res Computer Golf 2 we
+will be hosting the first annual(?) CGW
+COMPUTER GOLF TOURNAMENT. Those that
+wish to play in this 54 hole competition will need a
+copy of HRCG2. (Note that the original HRCG will
+not work for the tournament. Players must have
+the "2" version). The winner of the tournament
+will receive a wall trophy.
+feature in which you get a perfect computer generated
+swing every time. This feature is a nice addition to
+HRCG2. Now players who have not the time to learn
+and practice the timed swing can still enjoy a round of
+golf more or less on equal ground with experienced
+players. However, the real enthusiast will opt for the
+regular timed-swing feature. This makes golf the true
+challenge it is in real life. Mistimed swings can cause
+you to hook, slice, hit fat or top the ball. The best aim
+and strategy is worthless if all you can do is top the ball
+or slice it into the lake. In this normal play mode
+HRCG2 is a game that requires a good deal of practice to
+master.
+The fairways in HRCG2 are larger in scale than those
+of the other games which means that often two or
+
+How to enter:
+1) Put your full name and address with your
+request to be entered into the CGW Golf Tourney
+on a post card.
+2) Send card to: COMPUTER GAMING WORLD;
+GOLF TOURNEY; P.O. BOX 4566; Anaheim, CA
+92803-4566.
+3) Postcard must be postmarked no later than
+September 1, 1983.
+4) Entrants will receive, after that date, tournament information and a special codeword
+required to play.
+
+BOMB ALLEY:
+A Review
+And Analysis
+Richard Charles Karr
+Strategic Simulation's Bomb
+Alley, a recent release, is a direct
+descendent of the Guadalcanal
+Campaign (GC) game system and
+program. Based upon the naval/air
+campaign in the Central
+Mediterranean in mid-1942, it
+recreates the historically difficult
+problem of supply by the Axis and
+British. Designed by Gary Grigsby,
+with game development by Joel
+Billings, it shares many of the
+features and pitfalls of the
+Guadalcanal Campaign system.
+About The Game
+Bomb Alley is a grand tactical
+(Operational)-level game concerning itself with control of the
+Mediterranean and North Africa in
+1942. As such, players control
+individual ships (from DML, DMS,
+DE, and SS on up) which are
+formed into task forces, individual
+
+NAME:
+Bomb Alley
+TYPE:
+Wargame
+SYSTEM:
+Apple
+FORMAT: Disk
+AUTHOR:
+Gary Grigsby
+# PLAYERS: 1 or 2
+PRICE:
+$59.95
+PUBLISHER: Strategic
+Simulations
+
+planes (Spitfire, Beaufort,
+Swordfish, Boston, Do17, SM79,
+JU87, JU88, JU52, and Me109)
+which base out of locations on the
+map and fly missions, and the
+abstracted ground unit strength of
+the Malta garrison, the Tobruk
+garrison, the Eighth Army, the
+Afrika Korps, and numerous
+reinforcements and replacements.
+The game includes an 18-page
+rulebook, floppy disk, and a 4 color
+map back-printed with appendixed
+
+gaming tables. Access to the
+program is by way of a "userfriendly" sequence of play: Axis
+task force adjustment and
+movement; British task force
+adjustment and movement; British
+air operations; Axis air operations;
+combat resolution; and save game
+option. The above is repeated for
+nighttime turns without air
+operations.
+During the task force adjustment
+phase, ships may be formed into
+
+task forces, be combined or divided
+between existing task forces,
+loaded, or just looked at. The status
+of air and ground forces can also
+be checked. During the task force
+movement phase, existing task
+forces are moved and docked.
+During the air operations phase,
+aircraft based at map locations can
+search, perform combat air patrol
+(CAP), launch strikes, or transfer.
+During the combat resolution
+phase, the effects of all of the above
+become apparent, as ground units
+attack, air strikes are resolved,
+surface and submarine naval
+combat is resolved, and ships are
+repaired.
+The actual mechanics of play are
+almost exactly the same as in GC
+with a few minor exceptions: two
+transfers are allowed per AM turn;
+motor torpedo boats (PT boats to
+Americans) can form their own
+surface combat task force, called
+"MT"; and evacuation missions are
+possible. The one-player option pits
+the Axis human player against the
+
+British computer, and two-player
+options are always possible. There
+are three scenarios to be selected
+from: Campaign (June 11 - August
+31, 1942); Pedestal (August 10 August 15,1942); and Crete (May 20
+- May 31, 1941). As in Guadalcanal,
+four levels of difficulty are offered.
+The Game As Game
+
+In GC, one side is holding an
+advanced forward base against the
+tender ministrations of the other
+side. In BA, both sides are holding
+forward areas subject to interdiction by air and naval forces of
+the opposition. Conventional
+merchant shipping in BA has a
+rough life on both sides, with the
+majority of ship sinkings in victory
+points due to losses in merchant
+shipping. As the Axis player comes
+to the realization that Malta must
+be suppressed or taken, extremely
+high losses in aircraft occur on
+both sides.
+While the ultimate objective of
+an Axis offensive is Alexandria
+
+(worth 1000 points to the Axis and
+500 points to the British), Malta
+remains the key to that objective.
+Three basic strategic options exist
+for the Axis player (in solo or twoplayer situations): ignore Malta,
+reinforce the Afrika Korps with
+everything, and try to blow past the
+Qattara Depression into Alexandria;
+suppress Malta with heavy air
+bombardment and then reinforce
+in North Africa; or suppress Malta
+real hard and then take it by
+combined amphibious/air attack.
+The British strategic options are
+largely dictated by Axis actions, the
+holding and reinforcement of Malta
+being foremost.
+Tactically, the Campaign Game
+will have a great deal of submarine
+and MTB activity, with incessant
+air activity in the waters around
+Malta. Both sides are very closely
+matched, and losses of all types will
+be high. With time and sheer
+ruthlessness, the Axis player will be
+able to take Malta by combined
+air/naval attack, although
+
+Guadalcanal Campaign is understandable, as P40's were committed
+late in the campaign and often
+resembled the essential characteristics of F4F's, but the
+Mediterranean Theater is a
+completely different story.
+Historically, each side had the most
+modern and deadly aviation
+hardware available flying next to
+hopelessly inefficient archaic junk.
+
+Alexandria will almost always be
+out of reach.
+The Pedestal Scenario represents
+the major all-out reinforcement
+and re-supply effort of the British
+to keep Malta from falling. It is only
+a five-day scenario, and can be
+played in about three or four hours.
+Victory points will be based largely
+upon ship losses, and the destruction or survival of the four
+British carriers usually will decide
+the game.
+The Crete Scenario concerns
+itself exclusively with the air/
+amphibious invasion of western
+Crete. The British have overwhelming naval superiority, the
+Axis has overwhelming air
+superiority, and victory is
+conditional upon who holds Crete
+and ship losses. The Crete Scenario
+is a twelve-day game, and will take
+6-8 hours.
+If players are used to the idea of
+20-35 minute turns for two-player
+or 10-15 minute turns for oneplayer, Bomb Alley is an exciting
+and enjoyable "gamer's game",
+which is evenly matched, playable,
+and clearly written.
+
+The Reviewer's Gripes
+This reviewer feels that the basic
+scope and flow of Bomb Alley has a
+great deal going for it, namely
+playability, clearly written rules,
+
+and an approximately correct net
+historical result. For the average
+gamer, this is usually quite
+adequate. This reviewer, however,
+is very picky about the myriad
+aircraft designs used in the North
+African-Mediterranean Theater
+but not included, as well as the
+tendency for British ship speeds to
+be rounded up and Italian ship
+speeds to be rounded down.
+Endurance of individual ships
+should be a function of vessel
+bunker and store capacity, and
+should not be a set fixed maximum.
+Naval gunfire should be a function
+of size and rate of fire, not "main
+gun", "secondary gun", or "AA gun."
+The Italian Air Force (Regina
+Aeronautica) was actually not that
+bad, although in the scale of things
+it was too small for what it had to
+face in '42 and '43. The Italian Navy
+(Regina Marina) after the Taranto
+raid had a very mixed bag of ships.
+Some were as bad as the worst
+British World War One relics, most
+were very average, and a few were
+truly outstanding.
+This reviewer realizes that it is
+difficult to accurately describe the
+performance characteristics of all
+of the strange odd-ball combinations of aircraft that floated
+through the Mediterranean in '40
+-'43, but where are the Blenheims,
+CR32's, CR42's, and Hurricanes?
+The use of slightly abstracted air in
+
+Wargames in the computer format should crunch through all of
+the dull, lengthy, necessary mindboggling detail that "monster
+games" attempt to present. Built
+into the program of a game should
+be the equivalent of determining
+shell penetration vs. armor, antiaircraft fire vs. level of bombing
+attack, effective vessel operating
+range vs. station-keeping, and turnaround of "down" aircraft vs. the
+mechanical competence of ground
+crews and availability of parts.
+While these individual examples
+are themselves unimportant, the
+interface of combat should represent all of the nasty and technical
+"dirt" that the best historical
+research has to offer, instead of
+several percentage-based combat
+results tables. In short, this reviewer
+is hopelessly greedy for detail of
+the like presented in (the late
+lamented) SPI's Campaigns For
+North Africa (as one example) as
+opposed to the moderate-level of
+complexity titles that make for
+familiar wargaming soup.
+
+Conclusions
+For straight-forward playability
+and excellent rules preparation,
+Bomb Alley is an enjoyable and
+entertaining game of the Mediterranean during its most critical
+moments in 1941 and 1942. It offers
+moderately serious wargamers the
+opportunity to sink their teeth into
+something more advanced than
+arcade entertainment or very
+simple wargaming. In one-player
+or two-player format, Bomb Alley
+offers accessible "user-friendly"
+play of an exciting and difficult
+theater, with many tactical
+surprises and reverses in store.
+
+mine) how we think about things
+and, consequently, how we act. As
+an instance, let's choose a subject
+near and dear to all our hearts:
+game design.
+WHO ARE THOSE GUYS?
+On the pages of every consumer
+electronics publication, we read
+articles about, interviews with,
+advice from, and instructions on
+becoming "game designers."
+
+THE NAME OF
+THE GAME
+
+Probably 95% of those "game
+designers" cited (or quoted) aren't.
+They are basically and essentially
+something else entirely, and the
+confusion about what they are and
+what they are doing — a confusion
+shared by magazine writers,
+industry executives, game players,
+and often, by the "designers"
+themselves — has had a profoundly
+negative effect on computer
+gaming.
+What or who are "game
+designers?" Especially, what are
+videogame or computer-game
+designers?
+
+Jon Freeman
+What's in a name?
+No less a writer than the Bard of
+Avon once wrote, "That which we
+call a rose/ By any other name
+would smell as sweet." He was,
+however, being consciously ironic
+(a fact often forgotten nowadays),
+since it was indeed their names
+—signfyingtheir val(ndfeuding)
+family affiliations that doomed
+poor Romeo and Juliet. (Admittedly, their impetuosity didn't
+help much, either.)
+Clearly, names are important.
+Good titles help sell games, books,
+movies, and a zillion other products. This month's topic is not,
+however, about titles (at least in
+that narrow sense), but something
+more general and more important.
+Names — what we call things —
+influence (some might say deter-
+
+The obvious answer — those who
+design computer games — simply
+begs the question of what, exactly,
+is computer-game design.
+With board games, "we all know"
+the answer. The designer of board
+games is the one who conceives the
+idea of the game and works out the
+rules. The layout of the board, the
+number and kinds of pieces,
+strength, movement, money, dice,
+cards, whatever: all these things
+clearly fall within the designer's
+purview. Others may draw the final
+version of the board, paint the
+cover, mold the pieces, print the
+money, and so on — but the artists,
+graphic artists, typesetters, etc. are
+not game designers. "Everybody
+knows that", and for a change
+"everybody" is right.
+The case of computer games is
+more complicated. There may be
+
+five different disciplines involved
+in the "design" of a computer game:
+game design and development,
+program design and execution,
+graphics design, sound effects and
+music, and the writing of the
+documentation. (The manual may
+contain information essential to
+playing the game well or at all;
+witness MURDER ON THE
+ZINDERNEUF or any of Epyx's
+pre-1982 games). Obviously, text
+adventures typically involve only
+the first two, and most videogames
+lack significant documentation, but
+more involved computer games
+like those just mentioned (or
+ARCHON or M.U.L.E.) involve all
+five.
+One magazine defined "game
+design" as taking the concept of the
+game, the rules, the graphics, and
+the sound effects, and coding it into
+the computer so that the game will
+run. It's an amazing definition,
+because it's 100% wrong. That is
+programming, clearly, not game
+designing. Game design for a computer game is, in fact, exactly the
+same sort of stuff as it is in a board,
+card, or role-playing game: deter
+mining and defining in detail
+matters of game structure, aim,
+goal, subject, theme, layout, and so
+forth — who does what to whom,
+and what the result is.
+Even in the (not uncommon) case
+in which a videogame is primarily
+the work of a single person, there
+are real problems with calling that
+person a "game designer." First is
+the problem of logical semantics: it
+is not reasonable to identify
+someone by what that person does
+an insignificant portion of the time.
+We don't call the executive producer of Magnum, P.I. an "actor"
+because in one episode he had a
+cameo appearance as a sleazy hotel
+manager. Carrying my suitcase into
+a hotel doesn't make me a porter,
+and dictating a business letter
+doesn't justify calling an executive
+a "writer."
+Continued on p.45
+
+can make the board itself less
+complex (thus placing limits on the
+game). Or he can make the board
+appear to be less complex through
+use of heuristic information.
+"Heuristic" is a term derived
+from the Greek verb eurisko,
+meaning "to find or discover"
+(hence Archimedes' exclamation
+"Eureka!" — "I've found it!").
+Heuristic information, then, helps
+the program to find whatever it's
+looking for. It usually does this by
+providing some measure of how
+likely a particular choice will lead
+to the desired end. The program
+can then use this information to
+concentrate on the most likely
+choices.
+
+THE SILICON
+CEREBRUM
+by Bruce Webster
+
+HEURISTIC SEARCH
+PART I
+A programmer facing certain
+game problems can often solve
+them by "brute force" or
+exhaustive means. In other
+words, he can set up the
+program to try all possible
+combinations and then pick the
+best. For example, suppose he
+needs to move a piece from one
+location to another by the
+shortest route. If the board is
+simple enough, some sort of direct
+calculation will probably suffice to
+find the path. A more complex
+board may require that all possible
+paths be traced and the shortest
+one selected. But as the board's
+complexity grows, the program
+requires more resources (time and
+memory). At some point the costs
+become unacceptable, and the
+programmer has two options. He
+
+When you think about it, the use
+of heuristic information represents
+an attempt to imitate our own
+thought processes. We usually
+don't examine all possible choices.
+Instead, we quickly narrow our
+options to a few and then examine
+those in more detail. If none of
+these are acceptable, then we have
+to expand back out to the options
+we initially ignored until we finally
+pick the one we feel is best.
+In a like manner, the program
+can use heuristic information to
+cut down on the work it has to do.
+The information allows the program to concentrate on those
+choices that look best instead of
+considering all possible options.
+Whether or not the program
+performs better defines how
+"good" the information is. A lot of
+time, then, is spent in defining and
+testing different heuristics and
+combinations of heuristics. An
+example will help to illustrate this
+process.
+AN EXAMPLE
+Let's return to our example —
+moving a piece on a board —for a
+look at how we might use heuristics. Figure 1 a shows our piece in
+the lower right corner of a hex grid.
+Our goal is the circle near the
+center of the map. Let's give the
+program the following capabilities
+(for starters):
+
+(1) It knows what hex it's starting
+in.
+(2) It knows if it has reached the
+goal hex.
+(3) It can find all hexes adjacent to
+a given hex.
+(4) It can tell if a given hex has
+already been used in a path it's
+tracing (to avoid duplication).
+A pure brute force approach
+would be to trace all possible paths,
+then pick the shortest (or one of the
+shortest — there are quite a few
+paths that qualify). We would have
+to trace quite a few paths (anyone
+care to calculate exactly how
+many?), ranging in length from 6 to
+around 143 (the theoretical
+maximum). Lots of time, lots of
+memory.
+One heuristic technique leaps
+immediately to mind: reject any
+path once its length is greater than
+the shortest path found to date. We
+still have the logistical problem of
+saving all the paths tried so far (to
+avoid duplication), but now we
+have to save much less of them and
+can actually throw portions of
+them away as shorter paths are
+found.
+A much more powerful piece of
+heuristic information is a distance
+function which, given two hexes,
+returns the distance of the shortest
+possible path between them. Such
+a function is possible if some
+consistent numbering system is
+used (like those found on most
+wargame maps). Our search
+becomes directed, and we now use
+this algorithm:
+Continued on p.49
+
+"You are standing at the end of a
+road before a small brick building.
+Around you is a forest. A small
+stream flows out of the building
+and down a gully"
+Sound familiar? It's the start of
+the original Adventure game, of
+course. Do you remember how you
+felt the first time you played
+Adventure or and adventure-type
+game? I can; in fact, I remember it
+better than my first kiss.
+
+learning
+game
+Bob Proctor
+
+BASIC INFORMATION
+NAME:
+Dragon's Keep
+TYPE:
+Adventure
+SYSTEM:
+Apple II
+FORMAT:
+Diskette
+BACKUP:
+None
+# PLAYERS: 1
+PRICE:
+$29.95
+PUBLISHER: Sierra On-line
+Coarsegold, CA.
+NAME:
+
+Snooper
+Troops II
+TYPE:
+Detective
+Adventure
+SYSTEM:
+Apple II (48K)
+or IBM
+FORMAT:
+Diskette
+BACKUP:
+None
+# PLAYERS: 1
+PRICE:
+$44.95
+PUBLISHER: Spinnaker
+Software
+Cambridge, MA
+
+Adventure games are absorbing;
+you get very involved in the story,
+almost as if you were a participant.
+Involvement equals motivation.
+You want to rescue that princess or
+find that last treasure so much you
+can taste it! You become so dedicated to the task that you're willing
+to steal food or kill an occasional
+troll in order to reach your goal.
+Why, you'd even learn something
+new if you needed the information
+to solve a puzzle!
+So why isn't this format used
+more for educational games? Sure,
+there've been a few attempts: there
+was a game called OREGON TRAIL
+where you tried to lead a wagon
+train safely west. It was simple, but
+a step in the right direction. Then
+there's TIME ZONE, which does
+contain a lot of history in an
+incidental way. But most of the
+games available today have a
+fantasy theme, with the major
+categories being music, science
+fiction, and mystery.
+Why hasn't anyone done a game
+that teaches you how to survive a
+plane crash in the wilderness? After
+
+all, OUTDOOR SURVIVAL has
+been very popular board game for
+years. Or why hasn't somebody
+used a space adventure format to
+teach the basics of physics? Or
+maybe you get left behind by your
+tour group in a foreign land and
+must learn to "speak" the language
+in order to ask for food, shelter and
+help?
+I don't mean to suggest that
+topics like these are more entertaining than swords and sorcery, or
+solving murder mysteries, but
+wouldn't you rather play an
+adventure game than read a text
+book? We don't have to make a
+choice between entertainment and
+education, we can have BOTH.
+There is, at least, one area where
+these ideas are being put into actual
+use — adventure games for children. This month we have two
+examples of this sub-genre. The
+first is Dragon's Keep (DK),
+originally published by Sunnyside
+Software but now being marketed
+by Sierra On-line. The second is
+Snooper Troops II (ST2), by
+Spinnaker Software.
+DK is designed especially for
+second-graders. How do you do
+that? Well, first you restrict yourself to words that a seven-year old
+would know, then you make the
+decision making process easier by
+providing a list of choices at each
+step of the game. Finally, since
+second-graders may not be fabulous
+typists, you make it so the whole
+game can be played with only the
+return key and the space bar.
+The theme of DK is that a
+Continued on p.49
+
+THE
+COMMODORE
+KEY
+
+Greetings, and welcome to a new
+column for Computer Gaming
+World — The Commodore Key. If
+you haven't already guessed, this
+column will be dedicated to the
+investigation of those games and
+game related software for the
+Commodore 64 and Vic 20. Our
+title was, after much deliberation,
+chosen from a host of suggestions.
+While all had some feature in their
+factor, and some had the nautical
+connection found in may
+Commodore columns (Listing to
+Port for example), we decided on
+this title as we hope that our
+column will truly become your
+key to enjoying your Commodore
+computer.
+C-64 - Edward Curtis
+This installment of the
+Commodore 64 section of the Key
+will, unfortunately, contain very
+little. At the date of our typesetting,
+a sea of Vic-20 games had arrived,
+but very few submissions for the
+C-64. It is not my intention to spend
+time reviewing translations of well
+known games that have no substantial difference in their C-64
+versions. This policy rules out the
+vast majority of those now on the
+market, but this situation will soon
+
+be remedied, as a tidal wave of C-64
+programs are about to hit the
+market.
+Typical of minor variations that
+in most cases will not find their way
+into the Key, are those done on two
+games by Avalon-Hill — Nuclear
+War and Telengard. The play of
+these games is exactly as it is in
+their counter parts for other
+machines. Their only claim to
+individuality lies in the improved
+use of graphics (much improved in
+the case of Telengard) most often
+accomplished with sprites. The
+sudden creation, for example, of
+differing creatures and treasures
+in Telengard, while a simple
+change, does add significantly to
+the enjoyability of the game. All that
+we C-64 owners can ask for, is that
+future translations at least equal
+this level of sophistication.
+Vic 20 - Dr. Johnny L. Wilson
+Even in the early version of
+Sword Of Fargoal, this is an exciting
+and intriguing adventure game.
+The graphics are beautifully
+crafted from the detailed stones of
+the dungeons rune-like titles and
+clever monsters, to the game utility
+that allows the player to select the
+background color through which
+he/she wishes to journey. The
+documentation is complete and
+extremely helpful. It includes a
+detailed description of each magic
+spell to be found, strategy suggestions from the playtesters that
+actually help, and a ready-reference card with a summary of
+commands. Add to these features
+the fact that a player must successfully traverse at least 29 different dungeon levels (15 down
+and 14 to return) to find the sword
+and you realize how many hours of
+challenging fun are involved in this
+game.
+Early purchasers discovered two
+major problems. One concerned a
+with/for instruction in line 12 and
+the other involved a bad subscript
+error in line 262. (This is supposed
+to be corrected in the later version.)
+If you have an earlier version and
+don't know what to do when a
+glitch occurs, simply break the
+program and type either GOTO 2
+or GOTO 3. Either of these commands will take you back to the
+beginning of the level you are
+currently exploring.
+
+Armed with that information, the
+adventure will run relatively
+smooth. The story line is simple.
+The Protectorate Sword has been
+stolen and without its benevolent
+magic, your land is vulnerable to
+attack from the pernicious minions
+of evil and their sinister spells. Your
+mission, since you are divinely
+ordained by the digital deity of
+your choice, is to explore the 15-20
+dungeon levels necessary to find
+the Protectorate Sword and then
+make your escape in 2000 seconds
+(33 minutes) of real time. You
+explore each level, using your joystick to manipulate your character
+step by step through a darkened
+maze. Each step illuminates a little
+more of the maze and you eventually wind up with a fully mapped
+dungeon level on your screen. The
+screen takes the vantage point as
+though a camera were positioned
+above the character's head. As you
+traverse each level, you will encounter hostile monsters, bags of
+gold, temples, and checkerboards.
+The monsters cannot be negotiated
+with, only fought or avoided. The
+gold is only useful as a sacrifice to
+be offered in the temple. In return,
+you are rewarded with experience
+points. The checkerboards can
+mean: 1) magic spells, 2) traps, or 3)
+maps of later levels of the dungeon.
+Explore these last, so that you can
+avoid having to face a monster
+immediately after being devastated
+by a trap.
+All in all, even with the program
+glitch, I enjoy the game. My worst
+moment came, however, when I
+was killed by a fire drake and still
+had 4 healing potions in my inventory. This, in spite of the statement on page 15 of the manual that
+"When your hit points fall below 0,
+a Healing Potion will be taken
+automatically', frustrated me
+greatly. I know not to wait on that
+feature at the lower levels, now.
+Remember, if the program does
+something like this to you, you can
+always break the program and
+follow the procedure outlined
+above and get a fresh start on that
+level.
+Once it outlives the reputation of
+the earlier version, Sword of
+Fargoal should be a perennial
+favorite among Vic users. EPYX,
+Sunnyvale, CA. 94086 $29.95 (16K
+Expander req.)
+
+MOVIE MICRO REVIEW
+"WARGAMES"
+"Is this a game or is it real?" the
+panicked protagonist queries the
+Department of Defense's master
+computer in MGM/UA's new movie
+"Wargames." "What's the
+difference?" comes the frightening
+reply..."Wargames" is plausible
+enough to intrigue and terrifying
+enough to excite. Unlike many
+"pot-boilers" which simply build to
+a holocaust or pyrotechnic excellence or a denouement of
+moralistic salvation, "Wargames"
+makes one think, as well as feel, all
+along the way.
+The plot line centers around a
+high school student whose whole
+life revolves around digitized
+circuitry. He is an underachiever in
+all areas except electronic
+endeavors. He is an opportunist
+who uses his one area of expertise
+to smooth out difficulties in the rest
+of his life. His amoral attitudes and
+electronic excellence lead him to
+defraud himself and his school (by
+changing grades and records), the
+telephone company, and by intent,
+a computer software corporation.
+By chance, he interfaces with a topsecret government computer
+instead of the one he intends to
+"break" into and "enter" data upon.
+His ingenuity and seemingly
+natural bent toward computer
+larceny enables him to circumvent
+the security system and set a
+potential nuclear war in motion.
+You'll have to see the movie to find
+out if it can be stopped.
+There are several unanswered
+questions implicit in the film. The
+first is, "How secure is computer
+security?" The implied answer is
+the same as R.A. Heinlein's in
+Friday, "...electronic records aren't
+
+really records..." (p. 5). The very
+ease of change and correction that
+makes computers desirable to use
+makes them vulnerable. If one can
+find the legitimate password or the
+illegitimate "back door," electronic
+records can make anyone an expert
+forger.
+Second, the film seems to ask,
+"What purpose does data collection
+and real life simulation fulfil?" This
+is the necessary corollary to the
+protagonist's query above. If the
+purpose is simply to win at any cost,
+the simulation is of doubtful value.
+If the purpose is to learn from both
+correct and incorrect hypothesis,
+then the simulation is of immense
+value. The implied answer in the
+film is that we must be careful
+about what use and intent we have
+in collecting data and constructing
+computer models. David, the film's
+protagonist wants to play to win,
+but has to learn to play to learn.
+Like many wargamers, he learns
+futility of war through his
+experience.
+Lastly, one cannot ignore the
+ethical question, "Is the capability
+of accomplishing something equivalent to the license to do it?" David
+seems to think so. He is perfectly
+willing to change grades, steal
+games, and charge others for phone
+time. We admire his ingenuity, but
+cannot condone his actions. The
+Air Force general seems to think so.
+He is willing to destroy millions of
+lives in order to "win" the war. I
+hope the film's message is a
+resounding "NO!" to the question. It
+was to me.
+Computer hobbyists of all kinds
+will benefit from viewing
+"Wargames." We may not all be
+able to afford the sophisticated
+Televideo equipment used in the
+film, but we all have to answer the
+three questions to our and society's
+satisfaction.
+Dr. Johnny L. Wilson
+
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+
+Wizplus
+Utility Program
+Apple II Plus
+48K of Memory
+FORMAT:
+Single disk
+AUTHOR:
+Thomas Conner
+PRICE:
+$39.95
+PUBLISHER: Datamost
+Chatsworth, CA
+91311
+"WIZPLUS" (WP) is a menu
+driven utility program designed to
+modify the characters and the
+playing environment which have
+made the game of WIZARDRY
+addictive to many enthusiastic
+garners around the country. WP
+has options to allow the modification of all the attributes
+associated with the individual
+game character. In addition
+equipment which would normally
+be won through intrepid adventures need only be chosen from a
+shopping list using an option called
+"BOLTACS SWINDLE".
+WIZPLUS impacts play in the
+first two WIZARDRY scenarios
+allowing the player to bypass the
+careful game design which allows
+progress through adventuring. WP
+also has excellent documentation
+which is well written and illustrated. This program covers all
+facets of modifying your favorite
+character. Using this utility, it is
+
+possible to recover "out" characters, one of the most frustrating
+disasters which can happen while
+playing Wizardry. Hit points may
+be recovered, ability scores, age,
+gold, or experience points modified.
+WP will also change your favorite
+characters experience level, name,
+password, race, status, possible hit
+points, class, alignment, and finally,
+deftly add both Priest and Mage
+spells without benefit of ordination.
+There is also an option called the
+WizPlus Madi Special, which makes
+the characters status ok (even if
+deleted), lowers the age, sets the
+adventuring status to IN and finally
+sets the possible number of spells
+which may be cast to nine. Other
+options on the menu allow the
+display of your characters attributes, recovery of characters from
+Wizardry's version 1.0 backup, or
+the movement of characters
+between scenarios without deleting
+them from the previous scenario.
+[Note: Backups should be made
+before using WizPlus, as on three
+occasions while writing a character
+back to the scenario the program
+malfunctioned and the characters
+were permanently lost.]
+The author of WizPlus indicates
+abuse of his program will destroy
+the careful balance which the
+authors of Wizardry have designed
+into their games. A serious problem
+also exists with the use of this
+program, as once a character has
+been modified, it will not be
+possible to transfer the "Spirit of
+the Ancestor" into the third
+scenario "The LEGACY of
+LLYLGAMYN". As a result of
+improvements in the new scenario
+increasing the playing speed,
+characters which have been
+modified will not transfer. Thus,
+those gamers which have enjoyed
+the first two games should be
+aware that the use of WizPlus
+destroys characters for further
+play in this exciting series. WizPlus
+should be used with great caution
+or the spirit of adventuring will be
+diluted and, more importantly, you
+
+will not be able to continue with
+this exciting series.
+Bob Reams
+Ed. note - Sir-tech tells us that if
+your Wizardry program has been
+modified by WizPlus the warranty
+on your Wizardry disk will no
+longer be honored.
+
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+
+Clipper
+Simulation
+Atari 400/800/1200
+Basic Joystick
+FORMAT:
+Disk (32K)/Cassette
+(24K)
+# PLAYERS: One
+AUTHOR: John Bayes
+PUBLISHER: Program Design,
+Inc.
+Greenwich, CT.
+Grab your charts, lads, it's time
+to sail your Atari's from New York
+to San Francisco via the perilous
+Cape Horn passage. In this sailing
+simulation you are asked to Captain
+an 1850's Clipper ship to fame and
+fortune. PDI has included a cassette
+for voice narration, but the cassette
+is not necessary to play the game.
+After my third voyage I got tired of
+listening to the sea chanties and
+optioned the program to ignore the
+cassette. After booting the game
+you go through a setup phase in
+which you must choose your ship
+size, amount of cargo, number of
+crew, and amount of provisions. As
+the object of the game is to sail to
+San Francisco with a large cargo
+which can be sold at a vast profit,
+the larger the ship you sail the
+better your potential for high
+scores. However, the larger ships
+require more crew, and more
+
+provisions. It's also a good idea to
+hire more crew than necessary as
+many unforeseen events will trim
+your crew to the bare minimum
+during the voyage. Finally, when
+selecting provisions allow enough
+for a long voyage, as running out of
+supplies can lead to mutiny and
+quick defeat.
+The game is played from a
+graphics display of a clipper ship's
+bridge. The display contains
+information on wind speed and
+direction, ships heading and
+direction, and percent of sail
+currently set. The joystick is used
+to alter course or percent of sail
+and to change the displays from
+bridge to ship's log to map and back
+to bridge. The ships log gives much
+valuable information including the
+ships current position in latitude
+and longitude, number of days out
+of New York, provisions left, and
+status of the crew. The map display
+shows the position of your ship in
+relation to North, Central, and
+South America. You sail the ship by
+altering your course to take
+maximum advantage of the wind
+direction. As you sail, many hazards
+will be encountered; such as
+mutiny, illness, storms, rogue
+waves, and submerged reefs.
+The game plays well but I found
+the constant shifts in wind to be a
+bit frustrating. The instruction
+book is very helpful and gives many
+hints on how to play this game. It
+also includes a little historical
+background on Clipper ships and a
+playing aid to help novice sailors
+keep their Clipper on course.
+Mark Bausman
+
+PLEASE
+TAKE TIME
+TO FILL OUT
+READER INPUT
+DEVICE
+
+ATARI (Con)
+replenish it.
+That is, you have to get air in the
+Atari version. In the Apple version
+you don't. You also get a supply of
+"smart bombs", missing in the Atari
+version. In the Apple version the
+whole thing takes place in a large
+cave, and there is a "radar screen"
+that displays the players progress.
+In the Atari version you have to
+remember how far you've gone.
+NAME (Con)
+The typical "videogame designer" may spend close to 75% of
+the time on program design and
+coding, perhaps 15% on graphics
+design, less than 10% on sound, and
+whatever's left (not much) on
+actual game design (and none at all
+on documentation — but that's
+another story). If the game is a
+home version of a coin-op or just a
+rip-off of someone else's game, no
+game design is performed; it was all
+done by someone else, beforehand.
+Therefore, most "videogame
+designers" are more properly
+termed "program designers" or
+"game programmers."
+
+CAUSE AND EFFECT
+Even if logic and language don't
+move you, there are a number of
+practical consequences of this
+misnomer — and they're all bad.
+The mildest, perhaps, is that
+many programmers get "delusions
+of grandeur" and think that they
+
+In other words, even though
+these games have the same name,
+come in the same packaging, from
+the same publisher, they are not
+the same game. They are similar,
+but not any more than any other
+two "Scramble" games.
+The same thing happens in
+STRATOS, for Atari and TRS-80. In
+both, the player defends a city from
+aliens with laser cannon and a force
+field. In the Atari version the player
+also gets a repair ship for the force
+
+field. The TRS-80 owner is on his
+own.
+The upshot of all of this is that
+when somebody says (or writes)
+that he has a great game for his
+computer, it doesn't mean that it's a
+great game for your computer.
+Besides the differences in graphics,
+sound, and controllers between the
+two machines, there is the possibility that it's not even the same
+game. Caveat emptor, and what
+else is new?
+❑
+
+really are game designers. This is
+rarely true. (Dan Bunten, Chris
+Crawford, and Robert Leyland
+have talent in both areas, but they
+don't have a lot of company.) I am
+not denigrating programming,
+which is obviously essential to a
+computer game. Good program
+design is as much an art (and
+potentially as creative an art), as
+game design. Games "designed" by
+programmers tend to be simple
+and unoriginal; games "programmed" by designers are almost
+inevitably overweight and clumsy.
+If you can describe the "game
+design" in twenty-five words or
+less, it was done by a programmer;
+if a 48K game has primitive
+graphics and takes twenty minutes
+for the computer to make a move,
+you can bet it was programmed by
+the game designer.
+
+designer and one a programmer —
+is not at all "obvious" if you've been
+led to believe there's only a single
+task involved.
+If program design is called "game
+design," then real game design has
+no name, no significance, and no
+attention. It is, at best, an afterthought, more often slavish imitation, at worst a blatent rip-off. Why
+not? If credit for "game design" is
+given only to program design, who
+cares where the "game" comes
+from originally? If the act of
+conceptualizing and creating a
+game and the act of cleverly ripping
+someone off are given the same
+name (i.e. "game design"), the two
+acts will be granted equal respect.
+Shakespeare and your local check
+forger get equal billing, and a
+programmer can get praised for
+creating (!) "the best PAC-MANtype game."
+What's in a name?
+When the name of the game is
+"game design," plenty.
+Ed. Note: Jon is the co-author of
+Murder on The Zinderneuf and
+Archon.
+
+The obvious "answer" to the
+problem of two disciplines requiring two different talents and
+ways of thinking — a collaboration
+between two people, one a game
+
+NORMANDY (Con)
+avoids the strongest German
+defenders. The historical plan was
+designed to cut Cherbourg off from
+reinforcement, but in the game,
+isolation is not necessary (indeed,
+being isolated appears to have no
+effect on the pocketed defenders).
+In every game that I've played, the
+computer sends one and only one
+reinforcing division (the 77th) to
+aid Cherbourg, regardless of what
+the Allies are doing. In order to
+capture Cherbourg before the end
+of the game, earmark three infantry
+divisions and one armor division
+for the assault and send them
+breaking due north from Utah
+beach as quickly as possible.
+
+Tactics
+So, how does one win at the game
+of BFN? You should: 1) take
+Cherbourg (!), 2) clear all Germans
+from the coastal zone, and 3) take
+either St. Lo or at least one hex of
+Caen. In doing this, bear the
+following in mind:
+1) A stockpile of "general supply"
+points (about 600) should be accumulated before June 18, when
+three turns occur with high
+probability of a storm (this stockpile is in excess of points used each
+turn). 2) Don't waste combat points
+on useless, low-odds attacks. 3) Get
+the four armored divisions into
+action as quickly as possible,
+keeping them on the front line and
+infiltrate with them as often as
+possible. Their fatigue levels will
+suffer, but their presence can break
+up the German defense. 4) On the
+rare occasion when a German unit
+attacks, consider retreating the
+defending Allied unit. German units
+always advance into a vacated hex
+and you can often sucker them into
+a trap or lure them away from an
+important position by falling back
+before the slightest attack.
+However, whether or not historical tactics lead to victory need
+not bother you when you sit down
+at the monitor; BFN is a challenging
+game. I'm just glad that Eisenhower
+didn't use it to rehearse for the real
+thing.
+
+❑
+
+SUSPENDED (con)
+Obviously, this information
+gathering process is time consuming, and when you get to the
+stage of putting the pieces together
+to complete the adventure, there
+will be no need to send WHIZ to the
+CLC. Also, the game can be
+successfully completed without
+accessing the CLC at all. So, if you
+are a die-hard adventurer who
+thinks hints are for sissies, don't
+plug WHIZ into the CLC. But, be
+prepared to see the shadow of your
+replacement clone more than just a
+few times.
+One can't help but wonder, "What
+if Infocom hadn't provided the map
+of the complex? What if they hadn't
+provided an integrated hint system?
+...would the game still be playable?"
+The answer is "yes" — however, it
+would have been not only a
+different game, but a different type
+of game, more like the early-style
+adventure where all you knew was
+that you were to explore, collect
+treasure, and perhaps, escape.
+If you are an adventurer who is
+looking for a treasure-based
+adventure, and take special delight
+in exploring and mapping each
+room for yourself, or discovering if
+there even is a next room, then that
+aspect of Suspended will not excite
+you.
+About strategies. You will want
+to develop your own strategy for
+mastering the game; however,
+when you first get started, forget
+about fixing the filtering computers, that'll come later. First, get
+to know your robots. Explore each
+robot's capabilities and limitations.
+Take them all to the same room
+and compare their reports. Like the
+well-worn tale of the blind men and
+the elephant, the robots will each
+give you their unique, but
+incomplete, perspective.
+As the robots find objects, things
+that need to be done will become
+apparent. Soon, you'll be on your
+way to putting together the pieces
+to complete the adventure. You'll
+
+discover that there is more than
+one way to complete the adventure.
+Without revealing what they are,
+let's just say that your friend's lives
+are in your hands.
+As you command one robot to go
+here, another to go there, the game
+becomes like running a very, very
+complex football play. Each player
+must be in a certain place at a
+certain time for the play to work.
+Also similarly, there's more than
+one way to make a touchdown.
+The same disasters strike at the
+same time every time the standard
+game is played. Note when these
+occur, and consider strategies to
+get certain things done before they
+occur. One thing that does change
+is something called the "reset code".
+When you find out what it is, be
+sure to write it down — it's different
+each game. You'll also discover
+how each of the planet's systems
+can be monitored and manually
+controlled from within the underground complex. Bringing the
+systems under control is essential
+to minimize surface-side deaths
+until you replace the proper cables
+and bring the filtering computers
+back into balance.
+Finally, fear and terror are
+underlying themes of the game.
+However, don't let an unfounded
+fear that the game is too complex
+keep you away from it. True, at
+first, Suspended may seem
+unwieldy, perhaps overwhelming
+...all that documentation, ...six
+robots to control at once, ...what do
+I know about fixing computers,
+anyway?
+Let your fears be calmed, the
+game is very playable, even
+replayable, once you understand
+the premise. The robots are easy to
+control, once you get to know them.
+And, you don't have to know anything about fixing real computers.
+So, get out the documentation, a
+pencil and plenty of paper, and
+boot-up the disk — people are dying
+and you're half asleep! — people
+are dying and you need to wake up!
+0
+
+KNIGHTS (Con)
+levels for the Axis and the Allied
+commanders (expert, historical,
+intermediate, or novice); whether
+the game is solitaire or with two
+players; which scenario is being
+played; whether initiative is
+historical or random; and whether
+or not to include in the Axis force
+pool two optional depot units. The
+players are given the further option
+of setting the specific levels of both
+Axis and Allied combat points, air
+points, replacements, and reinforcements to values other than
+those automatically set by the
+computer (based upon the difficulty
+levels already determined for the
+two players). The level of Axis
+supply and the amount of time in
+the "display delay loop" may also
+be set at this time.
+Having completed the set-up, the
+game now begins. The game itself
+is broken into four segments and
+the segments into phases, during
+each of which specific actions and
+reactions may take place. In the
+first segment, mobilization, players
+receive new units and supplies at
+their home bases, allocate supplies
+and replacement points to specific
+units, expend supply for maintenance, eliminate units with
+insufficient supply, and determine
+which player has initiative for the
+that turn. The player determined to
+have initiative has the option of
+moving his units first or being able
+to respond to the other players
+move by moving second.
+During the second two segments,
+the first and second player
+segments, both players receive
+operational points for their units
+(which are expended to a varying
+degree during the two phases when
+the unit performs any action), and
+the phasing player begins his
+movement. If, during the phasing
+players movement, he should move
+adjacent to an enemy unit, then the
+non-phasing player may be eligible
+for limited reaction (no more than
+half of a unit's operational points
+may be expended in limited
+reactions). After the phasing player
+
+has moved all of the units which he
+desired to move and all limited
+reactions are completed, then units
+resupplied (if in supplied status)
+and depot units of the phasing
+player may move. When the
+phasing player has finished trying
+to catch up to his combat units with
+his depots, the enemy player is
+given the opportunity for a limited
+reaction which is followed by a
+repeating of the process in all
+manners, excepting that only the
+phasing player's units receive
+operational points for the second
+half of his turn.
+The last segment, appropriately
+named the finalization segment, is
+when the victory points for the turn
+are determined and the level of
+victory assigned (if the last turn).
+The players receive victory points
+for causing casualties in enemy
+units, occupying towns, points for
+the distance which units are from
+their base, and automatic loss if a
+player's home base was in enemy
+hands at the end of the turn. As the
+last part of this segment, the players
+are given the option of saving the
+game.
+
+Combat
+The most complex and important aspect of this game is that of
+combat. To initiate combat, a unit
+must expend both supply and
+operational points dependent upon
+its type and nationality. The combat
+is also affected by a large number
+of other factors. Lack of supply will
+half the defender's defensive
+strength (if below 50 supply points).
+The terrain and level of fortification
+also plays a large roll in determining the final combat odds. Each
+type of terrain has an intrinsic
+modifier to the defenders combat
+strength which may be increased
+through digging-in (building
+fortifications) up to the point where
+it triples the defender's defense.
+Air points may also be used by
+both the attacker and the defender.
+For the defender, each air point
+increases his total value for defense
+by 15%. For the attacker, this
+multiple is 20% per air point.
+
+The final modifier to the combat
+odds are those caused by
+supporting units not themselves in
+the combat. The attacker adds 300
+combat points per hex adjacent to
+the defender which is occupied by
+other of his units. The attacker also
+adds 100 combat points per nonparticipating units in his own hex.
+The attacker then subtracts 200
+points for every enemy unit stacked
+in the target hex but not the subject
+of the attack and for every one in a
+hex adjacent to the defenders hex.
+
+After the final combat odds have
+been calculated by the computer, it
+will then modify the losses for both
+sides based upon these odds and
+two other factors—the attacker's
+chosen battle intensity and the risk
+factors chosen by both sides. The
+attacker's battle intensity is determined, on a scale from 1 to 9,
+which modifies not only the relative
+number of losses on both sides, but
+also the amount of supplies
+expended by the attacker on that
+battle. The sum of the risk factors
+chosen by the attacker and
+defender, again on a scale of 1 to 9,
+determines the variability of the
+combat losses. With all of the
+modifying factors, it is obvious that
+this system would only be playable
+on a computer.
+
+Comments and Conclusions
+KD effectively demonstrates
+that the old problem of playability
+vs. realism can be largely
+eliminated by the use of thoughtful
+design and programming. The
+game captures the feel of the war
+in North Africa, is relatively easy to
+play, and yet contains accurate
+details of the units involved
+combined with a reasonably
+accurate method of calculating the
+effects of combat. When these
+features are combined with the
+many other features of the game
+which could not, in the limited
+scope of this article, be covered, it
+becomes obvious to any gamer of
+long standing that KD is another
+solid step towards the ideal
+computer wargame.
+
+GALACTIC (Con)
+Once you have accumulated
+enough cash (250,000 Frilbees) and
+have improved your flying skills to
+at least 8 or 9, I'd recommend
+buying a spaceship. You can then
+earn money much faster by flying
+cargo and passengers around the
+galaxy than you can in the streets.
+Incidentally, you may also run into
+some Gorsai pirates (who make
+great companions if you can defeat
+them) or find that your passengers
+may make a hijack attempt requiring a battle to be fought. One
+change from GG is that Gorsai
+don't change sides in the middle of
+a battle. So, once you can manage
+to recruit a couple of them, you'll
+have them along for awhile.
+When you think you're ready, try
+applying to one of the Guilds for an
+adventure. You'll find that the
+Space Patrol, the Agency, the
+Adventurers Guild, or the Sensitive's Guild to be more than happy
+to send you out on a challenging
+and highly exciting adventure. One
+strong word of caution, however.
+Be sure to save your team on a disc
+before heading out on one of these,
+so that when you are ignominiously
+wiped out, you won't have to start
+over completely from scratch.
+Combat, whether in the streets or
+on an adventure, is done with the
+same system as GG. The computer,
+however, is a tougher opponent
+than it used to be, and you'll often
+find a battle costing the lives of one
+or more of your very cherished
+companions. It is, therefore, very
+easy to understand why the single
+most highly prized treasure in all
+the galaxy is the K-Reanimator - a
+device which can bring the dead
+back to life. Your ability to use this
+magnificent, device is dependent
+on both sensitivity and luck, and if
+it fails, it will be ruined, so it's nice
+to carry as many of these as you
+can find.
+As in many of SSI's games, you
+are offered the chance to create
+your own scenarios. This means
+that once you have successfully
+explored all the adventures given
+
+on the game disc or even before,
+you can create your own. The
+process of creating your own
+adventures is infinitely variable
+and, since you can tie one adventure on to another, you can keep
+going for a long, long time.
+HINTS
+Clone yourself immediately.
+You'll need all the help you can get
+as soon as possible. Try to avoid
+recruiting and training the weaker
+species. It's very frustrating to have
+nurtured a Cygnian all the way up
+to Level 15 in advanced skills and
+18 or 19 in weapons skills, only to
+find that he's killed in the first
+round of combat. I found my
+greatest success when starting out
+with a Wodanite. Speed and dexterity are reasonably high, as are
+strength and endurance. Furthermore, they're able to use phasor
+rifles, which are deadlier than
+phasors, and can wear heavy or
+special armor. Zorcons and
+Dulbians are strong and have great
+endurance, but are so slow and
+have such lousy agility that they
+often never get into the battle at all.
+As soon as possible, find and
+defeat a band of Gorsai, getting
+some of them to join you as they
+are deadly fighters; fast, agile, and
+very strong. Remember that you
+can have no more fighters than you
+have leadership, so that one of your
+current associates may have to be
+fired in order to make room for the
+Gorsai. This may be heart rending,
+but when you see how good the
+Gorsai are, you'll be glad that you
+did.
+In the early stages, concentrate
+your skill-building on your original
+adventurer and the two clones.
+You'll lose many of the others along
+the way, and there's no reason to
+invest hard earned frilbees in
+building skills for those who may
+very well fall by the wayside.
+Once you've got a group of seven
+or eight, consider trying one of the
+easier adventures (remember to
+save your team before leaving on
+your voyage!). Only on adventures
+
+or in battles fought over hijacks or
+cargo can you increase your
+leadership.
+As soon as possible, get hold of a
+missile imploder. This one weapon
+will remove all guided weapons
+from the board in one fell swoop.
+The corollary to this is "don't
+develop a strong guided missile
+weapons user of your own." The
+missile imploder is not selective
+and will eliminate your gemstones
+and gapers as well as the enemies.
+Don't forget at RNA tabs can only
+be used to increase your skills to
+level 15, and that jobs completed in
+the streets can only boost your skill
+to level 10.
+When you do go on an adventure,
+it's a good idea to make a map of
+the various adventure segments to
+help you get out. In at least one
+case, I spent nearly three weeks
+trying to find an exit from an
+adventure. I fought some forty
+battles and lost two very valuable
+fellow adventurers after my three
+K-Reanimators failed. I did finally
+get out, but only after making a
+map (which I should have done
+from the beginning).
+One last option which gives a
+nice touch is to change from oneplayer to two-player mode in the
+middle of a combat. This allows
+you to have a friend join in the
+game if he or she happens to drop
+by while you're fighting a battle.
+CONCLUSION
+SSI has done a superb job on this
+sequel to GG. Most role playing
+games have a rather abstract
+combat resolution sequence. GA
+has a complete game within a game
+for combat resolution, along with
+as complicated a series of adventures as you could want. If you
+enjoyed Galactic Gladiators,
+Galactic Adventures is an absolute
+must. If you never saw GG, then
+treat yourself to a great game
+system and role playing fantasy,
+and go out and get this one. I got my
+copy the first week it was available,
+and I still haven't completed all the
+adventures that it offers.
+
+SILICON (Con)
+(1) Find the six hexes circling our
+present location.
+(2) Eliminate any hex already in
+our current path or which we
+cannot otherwise move
+through.
+(3) Of those remaining, pick the
+one closest to our goal. In case
+of a tie, use some arbitrary
+tie-breaker.
+(4) Move to the hex selected.
+(5) If we are in the goal hex, stop;
+otherwise, go to (1).
+On an unobstructed map, we will
+immediately trace a minimal path
+to the goal hex. Figure lb shows
+one such path. Here, we broke ties
+by picking the right-hand hex.
+Other paths would have been
+traced had we been using other tiebreakers (left-hand, alternating,
+random). In all, I count 14 different
+minimal paths from the starting
+hex to the goal hex.
+As mentioned, this is a very
+simple case. In fact, with one hex
+numbering system I know of, the
+LEARNING (Con)
+naughty dragon is keeping 16 nice
+animals prisoner in and around his
+(her?) house. Did somebody say
+house? Yes, this dragon lives in an
+average sort of two-level white
+house. Well, it does have an
+elevator, but apart from that it's
+average. Young children definitely
+relate better to exploring a house
+than they do a cave or dungeon and
+they seem to find the mixture of
+familiar and fantastical very
+amusing.
+The object is to search for the 16
+animals and free them. Occasionally, the dragon will appear,
+breathing colorful dragonfire. It
+doesn't attack, but it prevents you
+from releasing any animals while it
+is present.
+DK is very well done and will help
+develop reading skills and
+deuctivrasonghldeic
+grade or below. It is highly
+recommended. The same people
+have done TROLL'S TALE which
+
+coordinates of the hexes in a
+minimal path can be directly
+computed by a simple algorithm. In
+such a case, we could get by (at
+least for path-tracing purposes)
+without the distance function at all.
+But Figure la represents a very
+simple case. Let's consider
+something more complex.
+Figure 2 adds three hexes near
+the goal with peaks in them. The
+peaks represent mountains, and
+our path cannot pass through any
+of these hexes. Our initial algorithm
+will still work, but we are no longer
+guaranteed of finding a minimal
+path. In fact, Figure 2 shows the
+
+has also been released by Sierra
+On-line.
+The second game this month is
+ST2, second in a series by Spinnaker Software. ST2 is for older
+children, 10 years and up. The
+object is to solve a mystery by
+proving all of the suspects — save
+one! — are innocent. In this case,
+somebody has stolen a performing
+dolphin from the local aquarium.
+The evidence comes in the form
+of clues, which must be referred to
+by number when making accusations. The clues come rapidly but
+are mostly worthless, but it is
+necessary to write them down since
+you can't tell which are important
+at the time. Here is the problem
+number one; the clues are only on
+the screen for about 15 seconds
+and there is no way to pause the
+game. Even I can't write fast
+enough to copy them down. You
+can always "find" the clue again —
+they're never lost — but this may
+take some time and effort.
+
+path that would be traced if we
+tried the same approach as we did
+on Figure 1 (right-handed tie
+breaking). It has a length of 9, while
+the shortest path possible is only 7
+hexes long.
+How do we make our program
+"smart" enough to find the shortest
+path? One solution is to find all
+"minimal" paths (i.e., all paths that
+can be generated by our algorithm)
+and then pick the shortest one.
+How do we do that? We shift from
+a depth-first to a breath-first
+approach. What does that mean?
+Tune in next issue and find out.
+
+Several other aspects try your
+patience as well. You can question
+the suspects in their homes, but
+only one question per visit, please!
+Since there are 3 possible questions
+you can ask, you must make 3 trips
+to each suspect. There are also 3
+clues inside each house, but again
+you can only get one at a time. This
+takes quite a while since the
+suspects are often home and if you
+get caught snooping you are sent
+back to headquarters to cool your
+heels for a bit. Even 10-year-olds
+get tired of this.
+
+This game would be much more
+fun if the pace were faster. As it is, it
+takes days to complete and you
+lose track of what leads you were
+following, what you were doing,
+even what facts you know. It may
+teach the value of keeping wellorganized notes, but it doesn't do
+quite as well teaching deductive
+reasoning. It's too bad because it
+could have been very, very good.
+
+TELE-GAMING (Cont.)
+FRPGs. The Sanctuary is a
+beautifully designed, captivating
+system. You'll find it difficult to
+sign off once you've entered its
+main gates.
+Sunrise Omega-80—(415)
+452-0350: Perhaps the most
+detailed and articulate FRPG I've
+seen on any BBS is run by a
+Chaosium (FRP and board game
+manufacturer) play-tester, Karl
+Mauer, on San Francisco's Sunrise
+board. Riddles and puns abound in
+this game — the gamemaster and
+players have created a perfect
+fantasy world. Make yourself
+comfortable in the "Gamers'
+Corner," and share the fun!
+Other Notables:
+California.
+Access One
+(213) 537-3378
+The Apple Board (213) 944-5455
+BBGS
+(213) 699-0775
+IF PMS
+(714) 772-8868
+The Interface
+(213) 477-4605
+Softworx
+(213) 473-2754
+
+Scorpia (Cont.)
+fused quite easily. There are two
+rooms in here that you must visit;
+the one with the door is the one you
+should come to last. There are also
+two items to be found in the maze,
+but you only need one of them
+(hint: when you reach the room
+with the door, you should have six
+stones). By the way, this maze also
+has a little trap in it: make a right at
+the tsampa.
+Ok, you're almost there! Open
+the door (a little experimentation
+should do it), and you will be in a
+room with a pool....and a jade claw
+sticking up from the pool holding
+the Serpent's Star (if you DON'T
+see that, you haven't done something: go back into the maze until
+you find the other room). But don't
+try to get it yet! First, make a little
+music. Aha! The dragon appears....
+and he won't think very much of
+you, either. He's got a couple of
+riddles for you, too...and again, you
+will only have one chance to answer
+
+them. But once you do, the
+Serpent's Star is yours! Of course,
+there' still the little matter of getting
+out of the monastery, but the Star
+will help you there, if you know
+what to do with it (read the room
+description very carefully). After
+that, you can come back here, hoist
+a few, and brag about your success!
+Now, while you're pondering that,
+I'll just make the rounds and see
+what the regulars need.....
+
+Haphazard Hints: ZORK II—
+Don't waste time on the rose, flask
+and grue repellent; they aren't
+useful at all. DARK CRYSTAL—
+The same can be said for the sling
+and the pouch, you don't need
+them. ULYSSES—You need the
+gold coin to get the map, but not
+from the shopkeeper. WIZARD &
+THE PRINCESS—There are two
+ways to get to the treehouse; the
+easy way is the wrong one.
+MYSTERY FUN HOUSE—The
+
+Florida.
+The Lynx
+(305) 772-1076
+The Oracle
+(305) 475-9062
+St. Pete BBS
+(813) 866-9945
+Illinois:
+Warlock's Castle (618) 345-6638
+New Jersey:
+Dry Dock BBS
+(201) 992-2565
+TrashCom BBS
+(201) 226-0341
+New York:
+Adventure to
+Atlantis
+(914) 359-1517
+Texas:
+Beach Game
+(904) 932-8271
+System
+Eclectric System (214) 239-5842
+(214) 840-8294
+Griffin's Lair
+The Mines of Moria (713) 871-8577
+(214) 960-7654
+Teledunjon III
+There are many more great BBSs
+around the country, of course, but
+this list is a fine starting point. In my
+next column, we'll investigate other
+types of tele-gaming BBSs — those
+which offer real-time, online games
+and/or computer games for
+downloading. Until then, light a
+torch, nock an arrow, and embark,
+ever so cautiously, on your message
+board quest.
+fortune-telling machine is really
+broken, but it's the sign that's
+important. Think about it.
+And now, the hints to Serpent's
+Star in slip code:
+Monk's riddles:
+1) ESBHPO
+2) ZJO BOE ZBOH
+3) NBO
+Dragon's riddles:
+1) SBJOCPX
+2) OJSWBOB
+Well, looks like it's closing time,
+folks. See you next issue, when the
+feature adventure will be: Zork III
+(I'm going backwards just to be
+perverse). In the meantime, if you
+need help with an adventure game,
+there are three ways you can reach
+me: 1) Send a self-addressed,
+stamped envelope to: Scorpia 1319
+Second Ave, Suite 540 NY,NY
+10021; 2) On the Source: ST1030; 3)
+On Compuserve, Go GAM-310, or
+EMAIL 70001,1263.
+Happy adventuring!
+
+RID #8
+There were 212 R.I.D.s turned in
+by press time for this issue. The
+breakdown of users was: Apple
+(5396); Atari (4396); Others (4%).
+Newly rated games and updated
+games are listed with bold type in
+the table on page 52.
+GAME RATING
+The table on page 52 includes
+games evaluated by our readers.
+For a game to be included in this
+listing it must first have been
+offered for rating in our regular
+RID rating system. Games offered
+for evaluation are those covered in
+the magazine and/or those having
+a good sales record during the time
+of evaluation. Once offered for
+evaluation, the game must have
+been evaluated by a sufficient
+number of readers to be included
+in the results. Any game not
+evaluated by at least 10% of the
+respondents was not included in
+the results.
+Games were rated on a scale of 1
+(terrible) to 9 (outstanding). Respondents were asked to consider
+such things as PRESENTATION
+(graphics, sound, packaging,
+documentation); GAME DESIGN
+(design, playability, interesting?);
+LIFE (does the game wear well?)
+
+R.I.D. #9 (Use card provided)
+Use boxes #1 and #2 to record
+reader survey answers from
+INSIDE THE INDUSTRY. See page
+4 for instructions.
+On this page a number of games
+and articles are listed for evaluation. Please take time to evaluate
+these games and articles. Use the
+guidelines above for game evaluation. Leave blank any game
+which you have not played enough
+to have formed an opinion.
+
+Please rate articles on the basis
+of the article itself, not your opinion
+of the game being reviewed. Enter
+a zero for any article that does not
+interest you.
+
+R.I.D. was prepared with the help of SPEED STAT by SoftCorp International, Westerville, OH 800-543-1350
+
+See page 51 for details on the Reader Input Device
+
+

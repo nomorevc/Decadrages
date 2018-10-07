@@ -1,0 +1,4008 @@
+January 1991
+
+Features
+
+Not a "Bored" Game
+
+Win Some Money and Start a Trend
+
+5
+
+Rules for CGWs Third Annual Top Ad Awards
+
+"Sim"ply Fascinating
+A Minister Looks at SimEarth / Dr. Johnny L. Wilson
+
+Accolade's Ishido
+Jung and Fun / Caitlin Ackelson and Alan Emrich
+
+Electronic Zoo's Spherical
+The Game of Opposites / Allan Greenberg
+
+Above the Trenches
+Three-Sixty's Blue Max / M. Evan Brooks
+
+The Future De" tech" tive
+
+Checking Out Interplay's Checkmate
+11
+
+Access' Countdown
+Nobunaga's Ambition II
+A Sneak Preview / Wyatt. Lee
+
+Feel the Power
+
+An Evaluation by a Rated Player / Jay Kee
+
+Citadel — An Adventure for the Mac
+
+19
+
+Dave Arneson Enters Another Man's Dungeon
+
+Buck Rogers: Countdown to Doomsday
+
+22
+24
+28
+
+Where are Computer Games Headed? A Special Report
+A "Popcorn Not Included" Review / Charles Ardai
+
+Accolade's Victorious Stratego / Alan Emrich
+
+30
+44
+46
+
+Sneak Preview: EA's Powermonger / Johnny L. Wilson
+
+Scorpia Welcomes SSI to the 25th Century
+
+Number 78
+
+50
+54
+70
+72
+
+Departments
+Taking A Peek
+Letters from Paradise
+Scorpion's View (Fountain of Dreams)
+The Rumor Bag
+Game Ratings (100 Games Rated)
+Hall of Fame
+Over There (European Games Report)
+Reader Input Device
+Editorial
+
+6
+7
+12
+14
+48
+49
+58
+89
+96
+
+Announcing...
+
+Computer Gaming World's
+
+Third Annual
+Top Ad Awards
+
+H
+
+i, Navy Nathan here in the crowd at the entrance to the
+
+palatial CGW Grand Crystal Ballroom where computer
+game stars are arriving for the Third Annual Computer
+Gaming World Top Ad Awards ceremony. The crowds, the
+lights, the glitter: New Hollywood is abuzz tonight. Our camera
+crews have been kept on their toes trying to capture the action
+for you, our viewers. All the biggies are here. Just moments ago
+legendary Lord British arrived with his entourage (including his
+personal advertisement designer). He was preceded by perennial
+hit artist Sid Meier of Microprose who had to make his way
+through a bevy of beautiful autograph seekers (I overheard one
+young lady tell Sid "It's for my boyfriend... really!"). Rumor has it
+that LucasFilm Games' Larry Holland will not be able to be here
+tonight as he is still on location shooting Secret Weapons of The
+Luftwaffe. Industry pundit Chris Crawford entered earlier; industry insiders will be waiting to read Chris' analysis of this
+year's awards in tomorrow morning's Journal of Computer
+Game Design.
+God-game gurus Will Wright (SimCity, SimEarth) and Peter
+Molyneux (Populous, Powermonger) were deep in conversation
+as they went in earlier. That's kind of scary.
+The list of dignitaries goes on and on. Last years big Top Ad
+winner, Koei ("Experience Japan's Greatest Strategy Simulations" Ad) sent a number of people from their Tokyo offices.
+And now as the music from inside the Ballroom indicates that
+the ceremony is about to begin, I see a final limousine pull up. It
+looks to be ... yes, it is ... Jon Van Caneghem and the Game/Ad
+design team from New World Computing, first place finishers in
+the 1989 Top Ad awards ("The Basic Elements of Adventure In
+Their Most Advanced Form" Ad) have just arrived. Let's follow
+them into the Ball Room from the start of the 1991 Computer
+Gaming World Top Ad Awards. I'm so excited!
+Oh, by the way, just as in 1989 and 1990, you, the readers of
+CGW, will be the judges in our Top Ad Contest. As a judge in
+(Continued on page 9)
+
+Taking a Peek
+
+Accolade
+550 S. Winchester Blvd.
+San Jose, CA 95128
+TEST DRIVE III: Subtitled The Passion, the player can opt to drive one
+of three dream/muscle cars along
+the California coast. Features such
+as weather, headlights, windshield
+wipers, instant replay, etc. add some
+exquisite touches to this driving
+simulator. One nice thing is the way
+the cars handle through all of the interesting "off road" terrain. Too bad
+a 4-wheel drive vehicle isn't among
+the choices one is given! IBM
+($59.95). Circle Reader Service #1.
+Capstone
+14160 S.W. 139th Court
+Miami, FL 33186
+CARDINAL OF THE KREMLIN:
+Based on the Tom Clancy book, the
+player must develop America's SDI
+defense before the Russians do.
+
+There are many areas and personalities to keep track of as the
+game/puzzle unfolds. Resource
+management (human and physical)
+is the key to successful play. IBM
+($49.95). Circle Reader Service #2.
+Disney Computer Software, Inc.
+500 S. Buena Vista Street
+Burbank, CA 91521
+MICKEY'S ABC's: Spend a day at
+the fair with Mickey and learn about
+the alphabet. For ages 2-5, when
+your child hits a letter, Mickey performs an action based on a word
+beginning with that letter. With upper
+and lower cases included, there are
+over 80 different nicely animated
+responses to keep the little ones
+amused for quite a long time. IBM
+($49.95). Circle Reader Service #3.
+MICKEY'S 123's: A big surprise
+party is heading Mickey's way, and
+(Continued on page 92)
+
+Letters
+
+Byting The Apple
+Will Harpoon be released for the Apple IIGS?
+Will CGW again feature an article on a game that is available for the
+Apple IIGS?
+Will I renew my subscription to CGW?
+The answer to the third question depends on the answers to the other
+two. The first question reflects the stampede in the industry to the IBM
+banner. The second reflects your need to follow the new products in the
+industry. Since I use CGW as a reliable buyer's guide to what is available
+on the computer game market, I find there is less and less for me in the
+pages of your magazine. I don't enjoy reading about products that I'll
+never be able to use. Economics dictate that I will not buy a new computer just so I can buy a new game, nor am I likely to buy a game that
+does not work in my home computer.
+It is unfortunate that my subscription to your fine magazine will fall victim to the IBM fever that has swept the industry. Lately, however, I can
+get more information on games for my computer in the pages of lncider
+magazine, a sorry state of affairs.
+A frustrated subscriber,
+John M. Braaten
+Thousand Oaks, CA
+Maybe. Yes. We hope so. The designers of Harpoon provided their
+source code to a freelancer who wanted to convert the game to the
+Apple IIGS. To be very honest, the design team didn't really believe it
+was possible to place Harpoon on a 6502 processor and most people
+do not believe that the IIGS is a viable machine on which to spend
+additional money for the purpose of developing IIGS games. Most
+software publishers have taken the IIGS off their longterm product
+lists. On the other hand, Will Harvey developed The Immortal, a new
+action/adventure game from Electronic Arts, on the IIGS (although
+it was converted to the Atari ST and Amiga prior to its release). So,
+we will review The Immortal as a IIGS product. As for your current
+position on purchasing a new computer, we wonder how long you
+will actually be able to hold onto an extremely tenuous position.
+It would be nice if software publishers were encouraged to convert
+more games to the Apple IIGS. My understanding is that the marketing
+base is now very significant.
+Perry L. Holman
+Dixon, MO
+Unfortunately, market demographics do not support your contention. High-tech life goes on and the industry, as well as CGW, has
+had to move into the 16-bit world of MS-DOS.
+
+Strategic Confluence
+I enjoy articles like the Empire strategy. I wish this was a regular feature.
+Bob Campbell
+Downers Grove, IL
+Please print more strategy guides for all games. I was very grateful for
+the one on Empire and Their Finest Hour.
+Brian Hess
+Williamsburg, VA
+Super issue. I very much appreciated the effort to revive an old, great
+game like Empire and the section of Pre-20th Strategy games, so I know
+what to hope for if they convert to an Amiga. May I suggest periodic articles for Hall of Famers to revive interest? I'd love to get M.U.L.E. for the
+Amiga. Finally, how about an index by game of mention/reviews in
+CGW? It would be an enormous help for those of us who have to wait for
+ports.
+Charles Hickok
+Harrisburg, PA
+There is always a tension between covering the new products and
+providing new value for older games. Our readers seem to put a
+(Continued on page 84)
+
+Announcing...
+
+Computer Gaming
+
+World's
+
+Top Ad Awards
+
+our contest you will be eligible to win $250 and a lifetime subscription to CGW. Quickly now, read the rules and find out how
+to vote.
+As a judge in this year's contest we welcome you to the judge's
+table. If you require anything, your server Fred will take care of
+you. If you have not yet read the information below, please do so
+now, then return and judge this year's ads.
+
+The Rules
+1. Use the Ballot Section of this month's Reader Input Device
+card located opposite page 8, or a facsimile thereof, to cast your
+votes.
+2. In the "Full Page & Spreads" Category, vote for three different full-page and/or two-page spread ads.
+3. A two-page spread ad would be an ad that appears on adjoining and facing left- and right-hand pages and is one continuous
+advertisement. A two-page spread ad counts as a single ad for
+voting purposes.
+4. Select a first place, a second place, and a third place ad.
+5. In the "Fractional Page" Category vote for three different ads.
+These are ads which are less than a full page in size.
+6. On the ballot, list the company names and page number of
+the ads you are voting for. For example: to place a first place
+vote for Acme Company's 1/2 page ad on page 345, write
+"Acme pg.345" on the line for 1st place in
+the fractional ad column.
+7. The criteria for evaluation are very
+simple: consider the graphics, copy,
+and overall impact of the ad.
+8. The votes will be weighted, added and
+then averaged.
+9. The reader that comes closest to pick
+ing the final correct order of winners will
+win $250.00 cash and a lifetime subscription to Computer Gaming World!
+10. Entries must be postmarked by
+February 15, 1991. No purchase is necessary. Winners will be notified by mail.
+
+Review
+
+THE TEN-BILLION-YEAR
+AFTERNOON
+by Dr. Johnny L. Wilson ,
+uestion: What's an ordained Southern Baptist minister
+doing writing a review of a program that presumes that
+volution is a reality?
+Answer: Gaining an appreciation for creation and providence.
+Since SimEarth models the history of a planet from a system
+perspective and does not make any judgment calls with regard
+to the existence and efficacy of God as Creator, a player/observer can make his/her own decisions about creation. This minister finds the concept of a Creator God who painstakingly
+sculpts the world from molten mass to arid environment over the
+course of billions of years to be infinitely more interesting and
+powerful than a Creator God who might have made us on the
+spur of a moment. For those who are not offended by this perception of God, SimEarth offers a chance to make some of
+those "divine" decisions oneself and observe how they affect the
+other laws and systems that have been established.
+One of the most amazing perceptions that can be garnered in
+
+experimenting with a simulation like
+TITLE:
+SimEarth
+SimEarth is the interdependence of
+Macintosh
+SYSTEM:
+systems within the overall ecosystem
+IBM (early 1991)
+of this planet, or indeed, any planet
+PRICE:
+569.95
+DESIGNER:
+Will
+Wright
+capable of sustaining life. James
+and Fred Haslam
+Lovelock called this the "Gaia
+PUBLISHER:
+Maxis Software
+Moraga, CA
+Hypothesis" and this perspective underlies the SimEarth algorithms.
+Named after the ancient goddess, the Gaia viewpoint recognizes
+that the conditions necessary for life are all interrelated in a sustained system of dynamic feedback.
+James Lovelock offered a simple illustration of this hypothesis
+when he posited a theoretical world with only three possibilities:
+white daisies, black daisies and desert. Now, white daisies reflect
+light. Therefore, they would make the temperature cooler. Yet,
+black daisies like cooler temperatures, so they would proliferate
+in the adjusted environment. However, black daisies absorb light
+and would make the temperature warmer. Of course, once the
+temperature warms up, there is a proliferation of white
+daisies and the cycle continues.
+Whereas the example just given emphasizes the albedo effect (ratio of reflected to absorbed light), SimEarth uses a
+manifold number of interrelationships (chemical composition
+of the atmosphere, expenditure of energy and its attendant
+chemical by-products, climate, albedo effects, continental
+drift, seismic occurrences, meteor and/or planetary collisions,
+atmospheric and oceanic circulation, and plenty more) in establishing its model. There is even a "DaisyWorld" scenario
+based on the simple example noted above.
+
+Without Form and Void
+SimEarth is so complex and impressive that it seems like it
+can run itself. This curious cleric was so impressed by what
+the program can do on its own that he wondered if there was
+really a game present. In one afternoon, however, the answer
+as to whether there was a need for a guiding intelligence or
+not was clearly provided. As an experiment, SimEarth was allowed to run (without benefit of extra-program intervention)
+for ten billion years. Somewhere between five and six billion
+years, the planet developed radiates (radially symmetrical
+multicellular life forms with up to three tissue layers, but no internal organs) and trichordates (animals with three-chord
+spines). Unfortunately, there was no further development.
+Somewhere between seven and eight billion years, the
+oceans heated up and soon, there was virtually no life of any
+kind.
+The experiment may not prove the necessity of divine
+providence for those who are skeptics, but it does prove the
+necessity of human intervention for creating a successful SimEarth environment and that means there is game (or, at
+(Continued on page 60)
+
+Opinion
+
+Scorpion's View
+Scorpia Empties the Fountain of Dreams
+Scorpia is an experienced and
+respected adventure game expert. CGW
+is pleased to be able to provide this
+forum for her distinctive and sometimes controversial perspective.
+
+at the Obeah temple, where you have to
+do this when Big Daddy is in.
+All characters come with stats and
+skills, which can be improved over time
+as level increases. Each new level gain
+provides points, usually two, that can be
+put into mental or physical attributes.
+Skills can only be increased as they are
+used in the game.
+
+peering into the crystal ball, I see .. .
+
+nothing. Nothing but deep, dark, unrelieved black. No vision forms, the
+veils do not part. This is a bad omen .. .
+A bad omen, indeed. Every so often, a
+real oven-roaster comes along, and we
+have one on the table today. The leading
+contender for this year's Benjamin
+Franklin National Bird Award is Fountain
+of Dreams (FOD).
+
+I recommend stuffing the points into
+Dexterity, until it's up to around 25 or so.
+This is necessary because the Clowns
+are extremely fast and can blow your
+party away before you get a chance to
+do anything. Even with better speed, you
+will find them difficult to kill, but more
+about this anon.
+
+There are some who, playing into it a
+short way, might be inclined to label it
+"Dregs of Wasteland Meets Son of
+Scavengers", but that would be defaming
+Wasteland, which (despite certain flaws)
+is a good game.
+Unfortunately, Wasteland does come
+into this, to a degree. FOD is built
+around a pseudo-Wasteland engine, incorporating all the worst features of that
+game, and not much of the good. It is a
+perfect example of grasping the form,
+but not the substance, of a superior
+product, and coming up with a loser.
+As you've figured out already, we are
+once again in a post-nuke paradise. This
+time it's Florida, now an island courtesy
+of nuclear by-blows and an earthquake
+or two. The inhabitants of Miami live behind a massive wall to keep out whatever
+may be left of the rest of the world's
+population. Obviously, the Miamians
+believe in the maxim "good fences make
+good neighbors".
+The plot (such as it is) centers around
+the search for the "Fountain of Dreams,"
+a supposed pool of water with almost
+magical healing powers. In fact, you
+don't really do much searching. You
+spend most of your time killing and blowing up things, until someone pretty much
+takes you by the hand and tells you
+where the fountain is.
+Your problems with the game begin at
+the very start. Some people like to make
+up a team, or use a pre-created one (if
+available), to bounce around the game a
+
+bit, get a feel for it, see how things work,
+then plunge into it seriously. Unfortunately, you can't do that with FOD.
+The first time you boot up the game,
+you have the ability to create a party of
+up to three characters. This is your only
+chance to do so. Once play begins, if
+you change your mind about who you
+have, too bad. There is no way, short of
+re-installing files, to make a new party (at
+least the manual says nothing about how
+to restart).
+If you are unhappy with your original
+team, you will have to rely on recruiting
+NPC's instead. Some will join immediately; others have to be bribed one way
+or another, and of course there are a few
+who will never join. The party holds a
+total of six at any one time. Once on the
+team, the NPC's behave (i.e., are controlled by you) the same as your originallycreated characters.
+These NPC's (and even PC's) can be
+dropped off at various locations in the
+game to make room for others. Each of
+these dropoff points can hold three characters (although the manual doesn't tell
+you this; you have to find out the hard
+way).
+You can return any time to these areas
+to get the character back again, except
+
+You arrive in Miami to find it is not a
+happy place. Bahia Mafia gunrunners,
+Obeah voodoo worshippers, Beachcomber muggers, and DeSoto rum-smugglers have turned it into a
+less-than-salubrious environment. The various
+mutated critters running around don't
+help any, either. Nor do the Killer Clowns
+that roam the wilderness outside the city.
+Before you can get on with locating the
+fountain, you have to fix up everyone's
+problems. Essentially, that means putting
+the Mafia and DeSotos out of business,
+patching up the feud between the
+Obeahs and the Beachcombers, and
+spreading death and destruction among
+the Killer Clowns when you rescue
+Gramps' wife from them.
+When you finally reach the pool, the
+game ends quickly with a picture of a
+fountain of clear water and text remarking on how wonderful everything is going
+to be now that the pure water will be
+available to all. End of game.
+Throughout, you will be aggravated by
+the infamous auto-save "feature" that was
+universally decried in Wasteland. Each
+time you enter a new location, the game
+is saved at that point, whether you want
+it to be or not. This can cause some
+nasty problems at times.
+For instance, if you step onto Imelda's
+bed in the DeSoto estate, everyone in the
+party falls asleep. They wake up in
+(Continued on page 67)
+
+Industry News
+
+The Rumor Bag
+by John Fiorello Koch
+
+T
+
+he Big Apple—At last, I'd made the
+
+big time. My editors were here to attend some multi-media conference,
+but I was simply here to pad the old travel
+and entertainment budget, while garnering
+a few juicy rumors. The airline dumped us
+off in the old Pan Am terminal at JFK Airport and we were swept along with the
+human current toward the baggage claim
+like a bunch of lemmings. In fact, a
+software distributor up ahead of me even
+said so: "You know, I haven't felt so much
+like a lemming since I played an early version of Psygnosis' Lemmings over in Liverpool." I found out as we waited for our luggage that Lemmings is expected to debut
+on the Amiga and IBM, but the company is
+so sure that it's a unique concept in arcadestyle games that there will probably be
+either a Sega or TurboGrafx-16 version
+before the end of next year.
+His eyebrows raised as I mentioned the
+possible Sega conversion. "It's not unusual," I muttered defensively, "New World
+Computing is planning on doing a Sega
+conversion of Fairy Tale Adventure, the
+classic Microillusions title. Since you've
+got an Amiga, though, the best news is that
+David Joyner is designing a Fairy Tale Adventure II for New World. It's due out on
+the Amiga first, followed by the IBM."
+The walls at the baggage claim couldn't
+have been any more discolored if they had
+been located in the hallways of an inner
+city high school. I wandered into the rest
+room and read graffiti disguised as political
+diatribe on the wall. A fellow had scribbled,
+"Armageddon is now!" using red and black
+magic marker in that inimitable subway calligraphy. It reminded me that Psygnosis is
+nearing completion on Armorgeddon, a
+fast-moving three-dimensional tank game
+using vector graphics.
+I grabbed my bags and walked to the sign
+which explained how to catch shuttle buses
+
+I
+
+into Manhattan. I read the
+information on the JFK
+Express and went out to
+meet the bus. I stood at
+the curb waiting for the
+bus and started talking to
+the gentleman standing
+next to me. When I had explained why I wear the
+bag over my head, he told
+me about the last airport
+bus he had ridden. He
+said he thought the driver
+was trying to play "chicken" with the bus, just like
+in the movie, Red Heat.
+"By the way," he asked,
+"any chance of a Red
+Heat computer game?"
+I told him that I was unaware of one, but
+pointed out that Cinemaware is working
+on a modern action "buddy" adventure
+similar to Lethal Weapon. He could watch
+for that about the middle of next year. He
+took it philosophically, though, stating, "At
+least, I'll have Secret Weapons of the
+Luftwaffe to keep me occupied until it
+comes out."
+Since the long-term parking shuttle he
+was waiting for was just arriving, I barely
+had time to offer the bad news, "Uh, sorry,
+but Secret Weapons of the Luftwaffe won't
+be out until the first quarter of 1991. It
+seems that the mission builder was not all
+that Larry Holland wanted it to be." As he
+stepped onto the bus with enough New
+York street language to shock a 747 full of
+nuns, I did manage to offer the good news,
+"Lucasfilm is putting out two samplers
+($3.99 each). One will have portions of
+both Secret Weapons of the Luftwaffe and
+Their Finest Hour and the other with portions of Loom, Indiana Jones & The
+Quest for the Holy Grail, and The Secret
+of Monkey Island. That way, you can get
+some experience with the games before
+you have to shell out all the dough."
+The parking shuttle pulled out, leaving
+only myself and an airport regular in a
+greasy stocking cap and worn-out jacket,
+holding a bottle of indubitably "excellent"
+vintage complete with label carefully hidden
+from less discriminating consumers by
+means of a recycled paper bag, walked up
+to me. "So," he breathed the delicate bouquet of California's Central Valley into my
+face, "what bus are you waiting for?"
+"The JFK Express," I answered confidently. He started laughing.
+"That bus hasn't run for two years," he
+said. He had no sooner spoken than
+another shuttle pulled past us. I ran to
+catch it and just as I pulled even with the
+front door, the driver looked at me and
+pulled away. He was as illusive as a final
+version of Three-Sixty's MegaFortress.
+Originally scheduled for Christmas, it's
+being held until March of 1991, just to
+make sure it is done right. "Welcome to
+
+New York!" yelled the airport
+regular. "Sure hope you know
+more about computer games
+than you do about airports!"
+"Personally," he continued
+with unsolicited abandon, "I
+get all my games from
+Europe. Got one called Air
+Strike U.S.A. on order now." I
+expressed disbelief that someone in his position could possibly be aware of a videogame-style flight combat
+simulator that Cinemaware
+plans to import for its Spotlight Software line. He
+responded, "So, who do you
+think you are? Mr Know-It-All?
+I read about the CD-ROM version of Harpoon in your
+column. You forgot to mention that it's supposed to
+come out on CDTV, too."
+A bus bound for Atlantic City went by on
+the main loop as I struggled to regain my
+composure. "Okay," I said, "here's a possible deal that hasn't even been signed yet."
+An ego is a terrible thing to waste and no
+street person was going to best me in a verbal duel. "I understand a deal is in progress
+where Villa Crespo Software would create a brand new product that would integrate the best elements of their classic
+Amarillo Slim's Real Poker and a program
+called Vegas Johnny's Dealer's Choice
+that our reviewer said was the best poker
+program out there. Now, instead of just
+having a challenging version of five card
+stud, you'll have a choice of eight different
+kinds of poker and tons of variants."
+He wasn't impressed. "If I want mental
+games," he scoffed, "I'd go watch Karpov
+and Kasparov at the Hotel Macklowe. I'm
+an action kind of guy. Why don't you tell
+those software companies to make more
+wargames?"
+Ah, I had him there. I watched my bus
+pull up to the curb and handed my bags to
+the driver. I turned triumphantly and said,
+"For your information, Chris Crawford happens to be working on a Battle of the
+Bulge game as his very next product." I
+entered the bus and waved adieu to the resident airport connoisseur.
+"Chris Crawford?" asked the bus driver.
+"Isn't he the guy with the blue tunic that I
+just took to the Marriott?" When I told the
+driver he was, the driver told me he didn't
+play computer games because they were
+too complicated. "When I want to relax," he
+said, "I watch boxing on the tube."
+I couldn't resist. I simply had to tell him
+that Cinemaware plans to unveil T/
+Sports: Boxing in the Fall of 1991. "It's supposed to have a three-dimensional perspective of the ring and should be to boxing
+what their football game was to the
+gridiron."
+By this time, the bus was leaving the confines of the airport proper and I watched
+the freeway ahead with great expectation.
+The Big Apple—In spite of my inauspicious
+introduction, I just couldn't wait. (To Be
+Continued)
+
+Review
+
+Only the Oracle Knows...
+A Review
+
+of Accolade's Ishido
+
+by Caitlin Ackelson and Alan Emrich
+
+W
+
+at do a bag of stones, the / Ching and Carl Jung all
+have in common? The answer lies within Accolade's
+new strategy game, Ishido. This unusual computer
+gaming package takes the basic premise of most solitaire games
+(to beat "Sol" or to set a new high score) and adds a dimension
+of fortune-telling to it. Therefore, an alternate goal of this classic
+solitaire-style game is to have one's fortune revealed by the
+oracle of the computer (and, yes, one can see clearer with a
+VGA crystal ball). Ishido is a remarkably complete entertainment
+resource, with some pleasant surprises in the box which offer
+more than just an absorbing strategy game.
+
+Stick With Stones
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Ishido
+IBM, Amiga and Macintosh
+$54.95
+Michael Feinberg
+Accolade
+San Jose, CA 95128
+
+It is not surprising that Ishido
+has many of the subtle nuances
+of Activision's
+Shanghai and
+Shanghai II:
+Dragon's Eye.
+Of course, this is
+not surprising,
+since Brodie
+Lockard (designer/programmer
+of the Shanghai
+products)
+rendered the
+graphic artwork
+on Ishido. In
+Ishido, however,
+the actual play is
+"reversed" from
+the way it works
+in the Shanghai games. Rather than removing pieces from a
+pile (as in the Shanghai games), the player places "stone" tiles
+on an 8-by-12-square grid board in an attempt to order and
+codify the aesthetics of their placement. In other words, each
+stone tile must be placed adjacent to one that was previously
+played (six randomly selected "stones" are placed by the computer at the start of the game). In order to place the "stone," it
+must match color and/or symbol, according to some simple
+rules based on the tiles adjacent to the "stone" the player is attempting to place. For the true game enthusiast, Ishido calls
+upon the elements of strategy, patience, chance and intuition.
+
+Points are scored in the Modern (most played) version of the
+game by creating 2-way, 3-way and 4-way matches in order to
+score the highest number of points. Conversely, in the Ancient
+way of playing, the player "wins" when he or she places all of the
+stone tiles on the board, so that the higher the number of
+matches achieved, the more highly skilled the player rates. In a
+
+way, this shows the modern goal of "greed" (as represented by
+scoring a high point value) juxtaposed against the ancient values
+of meditative concentration and "quality" of play (as represented
+by the skill required to place all of the stones).
+
+Cheating, Anyone?
+Ishido offers several different options of play, including
+solitaire, cooperative, challenge and tournament, with each option available in its Modern or Ancient version. In the solitaire
+mode, the contestant may choose to accept assistance from the
+computer in the form of foreknowledge of the order in which the
+stones will appear or in demonstration of possible plays (i.e., the
+old "show moves" feature). Ishido is similar to solitaire in the
+sense that it provides the player with an ever-enticing opportunity
+to cheat when desired.
+The cooperative mode provides the chance for two players to
+take turns placing stones for the highest possible team score. To
+
+Review
+
+compete against each other, two players may opt for challenge
+play and complete a single, ongoing game as opponents. In tournament play, each player is given an identical opening tableau
+and draws stones in the exact same sequence, so that each
+player may complete a full game individually to achieve the
+highest score.
+It is this myriad of possible modes of play that keeps solitaire
+games like Ishido interesting for experienced players and beginners alike. Each way of playing is substantially different from the
+others, which means that there is less chance that this game
+might become an owner's "dust collector" (next to the copy of
+Shareware Arcade Meets CGA Graphics).
+
+Living In A Glass House With Ishido
+In addition to the different modes of play available, Ishido also
+offers a variety of boards and pieces from which the player may
+choose. For the IBM, board "surfaces" include wood, marble,
+ebony, Oriental and Egyptian designs. Stone designs for the IBM
+come in Ginza, Ishido, Inner Shapes, Chungfu and Egypt styles.
+On the Amiga version, additional stone sets such as Gems,
+Magica, Ramses, Runes and Shaman—with a matching board surface for each—are available. Just experimenting around with all
+the possible combinations is almost a separate pastime!
+The VGA-level graphics are richly detailed and extravagantly
+colored. Stone designs are both aesthetically pleasing and intellectually appropriate for a wide variety of players (there's a
+"look" there for everyone from grade-schoolers to rocket scientists). The crisp, simple Inner Shapes design, for example, features wonderfully clear primary colors (ideally suited for younger
+players), while the subtlety of the standard lshido set will appeal
+more to the "purist."
+Whether child or genius, everyone finds a certain appeal in a
+box of crayons. For the true Ishido connoisseur, there is an internal paint program from which customized stone designs (or
+modified existing designs) can be created. Already, these
+reviewers can see a market in trade for custom stone sets (flags,
+Greek letters, etc.).
+
+Dominoes Delivers, But With Ishido You
+Get Eggroll
+The most difficult and most highly coveted achievement in
+lshido is the 4-way match, performed by placing a single stone
+tile in the center of four adjacent stones, matching two by color
+and two by symbol. Each time this challenging feat is accomplished, the player is rewarded, not only with an exponentially greater number of points scored, but also with the opportunity
+to ask a question of the Oracle of the Stones. This "oracle" represents tapping into the truth, knowledge and wisdom of the ages
+through a system of divination based on the principle of
+synchronicity. (When was the last time any game documentation
+referred the player to the works of Swiss psychologist Carl
+Jung?) If Jung's concept of synchronicity doesn't ring a bell,
+check back over those old college notes from Psychology 101.
+There, one will rediscover that synchronicity is "the theory that
+the coincidence of events in space and time involves something
+more than mere chance."
+In consulting the Oracle, the player gets his or her fortune told,
+tea leaf-style, upon the successful consummation of a 4-way
+match. It is the designer's stated philosophy that "the computer
+is certainly a most appropriate oracle for our new age." As it
+threatened the elevator operator of the 1920's, technology now
+(Continued on page 38)
+
+Review
+
+Sphere of Influence
+Electronic Zoo's Spherical
+by Allen L. Greenberg
+
+TITLE:
+SYSTEMS:
+
+Spherical
+Amiga, Atari ST,
+IBM, C-64
+# PLAYERS:
+1-2
+PRICE:
+$39.95
+DEVELOPER:
+Rainbow Arts
+DISTRIBUTED BY:Electronic Zoo
+Baltimore, MD
+
+marbles, but it is also an innovative,
+fast-moving and satisfying arcade experience for sentient humans as well.
+
+Spherical challenges the player to
+guide a glowing "Starball" through an
+obstacle-filled room to an exit. The
+player, represented by a tiny wizard,
+accomplishes this by creating and destroying brick walls. The
+hero must also deal with a variety of traps, pitfalls, monsters and
+mystical paraphernalia.
+
+R
+
+ecently, an article appeared in the Journal of Spherical
+
+Health And Medicine (S.H.A.M.) which indicated that an
+alarming number of spheroid objects were suffering from a
+lack of guidance. Abandoned orbs from Marble Madness, lacking human leadership, have become lethargic or still. Dozens of
+reflective balls, once the subject of animated demonstration
+programs, now grumble and wait for entropic doom to put an
+end to their once blissful orbits. Fortunately, we now have Spherical from Electronic Zoo. Not only does this arcade/strategy
+game restore badly needed guidance to these mistreated
+
+Each room is displayed from top to bottom in a two- dimensional view. The rooms are tastefully furnished in "early Dungeons & Dragons™ ," which is to say, stone walls and barriers.
+Most rooms also contain a small variety of magical miscellany
+which can affect both the wizard and his environment. Finally,
+there are several guardian gollums who move back and forth
+across a portion of the room doing (what else?) their best to
+make life miserable (and much more brief) for intruders. If the
+wizard touches one of these creatures, he will bleed energy until
+he either breaks the contact or dies.
+The player's pint-sized puppet has the ability to create or
+(Continued on page 27)
+
+Review
+
+by M. Evan Brooks
+TITLE:
+SYSTEM:
+B PLAYERS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+B
+
+Blue Max
+MS-DOS
+1-2
+$49.95
+Rick Banks & Paul Butler
+Three-Sixty
+Campbell, CA
+
+lue Max is a flight game of World War 1 aerial combat.
+
+Rick Banks had previously designed Accolade's Ace Of
+Aces, and Blue Max is an obvious descendant, although
+in an earlier milieu. Note that the product has been described as
+a "flight game" and not a "flight simulator;" this is intentional, because Blue Max was produced for the general market and not
+the World War I grognards. In short, this yields both the design's
+greatest strengths and its greatest flaws.
+
+Documentation
+The documentation is of average quality. Game mechanics are
+succinctly explained, although it appears that the proofreaders
+were asleep during final copy edit, so some confusion can result.
+Also, a separate summary card would have been appreciated.
+While one cannot expect programmers to be perfect grammarians, it seems to be a maxim that a programmer cannot differentiate between the possessive "its" and the contraction "it's".
+In Blue Max, this coupled with some obvious errors in final composition (e.g. using the Fokker Dr I heading in two places or
+noting that Allied pilot Albert Ball disappeared on 7 May 1917
+but then characterizing him as a "war survivor") serve only to unsettle the user.
+Although the plane characteristics are given, there are no dates
+of in-service use, which would have been appreciated. The
+planes chosen were based on single seater fighters that were the
+most widely used:
+Axis:
+Fokker Dr I (Summer 1917-Spring 1918)
+Albatross DIII (Winter 1917-Winter 1918)
+Fokker ElII (Spring 1915-Summer 1916)
+Fokker DIII (Summer 1916-Summer 1917)
+Allied:
+SE5a (Spring 1917-Fall 1918)
+Sopwith Camel (Summer 1917-Fall 1918)
+Nieuport 17 (Spring 1916-Fall 1917)
+Spad VII (Fall 1916-Spring 1918).
+No bibliography is included, although Mr. Banks noted that he
+
+relied extensively on Aces Of The Great War. A suggested reading list is appended at the conclusion of this review.
+
+Graphics
+The graphics are very good. The impressive opening screen
+shots are digitized photographs, and include George Peppard's
+role as a fighter ace in the movie Blue Max.
+The now-standard flight camera is present, and allows good
+flexibility as well as playback in both directions. However, the
+camera (VCR) is only accessible in campaigns and not in single
+or strategic mission modes.
+While sound support easily allows one to know that he is being
+damaged, it is much more difficult to determine if his shots are
+causing damage to the enemy. This reviewer recommends utilizing the two-player option, and using one of the players as a
+"moving target" in order to determine the general hit ratios
+before delving deeply into competitive play.
+While there are variable cloud cover and wind, there is no sun.
+Thus, Edward Mannock's famous dictum "Beware the Hun in the
+Sun" has no relevance or effect. The designers note that this was
+done to expedite game play and make it a more equal struggle,
+notwithstanding the fact that most dogfights were quick affairs
+with few pilots eager to engage unless they had a decisive advantage.
+
+Game Mechanics
+Blue Max emphasizes a two-player mode. Utilizing a split
+screen and commands via joystick, mouse and keyboard, two
+users may fly in cooperative or competitive missions. However,
+(Continued on page 80)
+
+Sphere of Influence
+(Continued from page 22)
+
+destroy walls from within one or two spaces of where he stands.
+The walls are necessary in order to guide the Starball to its intended target. The walls are also what the tiny wizard must climb
+upon in order to get where he needs to be on the screen. The preexisting walls which furnish the room are also available for the
+player to use, but they may not be destroyed. Thus, in order to
+reach a destination, the wizard may have to construct a quick
+stairway, build a bridge, or simply jump. If he jumps, he will not
+be injured, no matter how great the drop.
+Each round begins with a 20-second grace period within which
+the player must study the screen and decide where he needs to
+be. After the 20 seconds have passed, the Starball will be
+released from somewhere near the top of the screen. Often, it
+will be in danger of falling into some dead-end trap. Unless the
+player manages to provide a wall to prevent this tragedy, he will
+have to restart the round. The player may only restart a round
+four times. After four "restarts," the player's only option is to end
+the game.
+A successful round is completed when the player causes the
+Starball to collide with a special block which is labeled "IN." The
+"IN" block is usually located somewhere in the lower third of the
+screen. This leads the player "IN"to the next screen. There are
+100 levels to be mastered in the single-player game. An additional 100 levels become available for the two-player game in which
+two wizards work in a cooperative effort. In addition, the player is
+confronted with a special battle sequence versus some nefarious
+creature at the successful conclusion of every 10th level.
+Most of the magic items available to the wizard affect his environment. Liberally scattered around the dungeons are various
+potions and devices which may: exterminate all creatures currently on the screen; freeze time; reverse gravity; open doorways to
+other levels; or offer several other interesting effects. An option is
+available at the program's opening screen which will enable the
+player to view an illustrated list of these objects and receive an
+explanation of their function.
+Also appearing in selected dungeon rooms are scrolls which
+contain code words. When a code word is entered during the
+opening screen, the player will be permitted to bypass all levels
+prior to the one in which the scroll was found.
+There are several other interesting options available when the
+program is first booted. One of these is a practice mode for the
+player to simply get the hang of moving the wizard and learning
+the subtle art of mystic masonry.
+Yet one more option allows the player to choose from a list of
+dungeon-inspired background tunes. Although any selection from
+the list is enjoyable, using the sound effects by themselves
+seems to make for the best gaming experience. The sound of
+the Starball being released is useful, else the player may not
+glance up in time to see it fall. When the restart button is hit, the
+program responds with something like a computerized "awwwwwww...". Unfortunately, the sounds are not available while
+music is playing.
+Spherical comes on one copy-protected disk and requires
+512K of memory. One joystick per player is also required. For
+an arcade game, Spherical contains an unusual degree of
+strategy. This alone sets the game apart from others. For an interesting challenge of both thought and reflexes, get Spherical!
+
+Industry Update
+
+Technological Trends for Future
+Computer Games
+A
+
+s the lounge at the top of the Mar-
+
+riott Marquis Hotel in New York
+City rotates, one gets a variety of
+views of the Manhattan skyline. In many
+ways, one skyscraper looks like another
+skyscraper, but once in a while, the stately lines of the Empire State Building slide
+into view. For so long, the Empire State
+Building was recognized as the tallest
+building in the world that it seems
+strange to view the venerable edifice surrounded by so many other tall structures.
+It seems almost certain that people
+must have gawked at that famous building in times past and quietly assured
+themselves that nothing could ever compare with such a marvelous structure. In
+much the same way, computer gamers
+look at their VGA graphics and enhanced
+sound boards and wonder how anything
+could ever match the thrill of: destroying
+those digitized target ships in Silent Service II; experiencing the incredible sound
+effects and graphic impact of Wing
+Commander's space combat sequences;
+savoring the watercolor-style images
+from King's Quest V that look like they
+belong on a canvas rather than a screen;
+or vicariously entering the dark, cyberpunk comic art of Rise of the Dragon.
+Where can one go from here?
+The entertainment software industry
+has heard that rhetorical question and is
+striving to answer it in many ways. The
+goal of advancing technology is to create
+the World Trade Center of computer
+games to surpass the apex of the Empire
+State (of the art) Building of entertainment software. Game designers and
+development teams will be using enhanced graphics, sounds and interfaces
+based on new platforms and peripherals
+to make these advances possible. This
+update is intended to hint at some of the
+"surprises" which may be in store for
+computer garners in the next few years.
+It is based on conferences and exhibits at
+both InterTainment '90 (held in New
+York City during October, 1990) and Fall
+Comdex (held in Las Vegas during
+November, 1990).
+
+What You See, Isn't Yet
+The biggest buzzwords in software
+development right now are "multi-media"
+and "full-motion video." The former
+speaks of combining the computer with
+images and sound developed in other
+media for purposes of interactive
+products. So, multi-media may be as
+simple as Recreative Inc.'s
+photographic data base/interactive tour
+guide (developed on the Amiga 500,
+combined with a "trackball" and built into
+a console) which features still pictures
+and information for the City of Flagstaff,
+Arizona's tourist bureau, to A.I.M.'s ABC
+Wide World of Sports golf game with
+
+broadcast-quality graphics and compact-disc-quality audio on CD-I (Compact Disc-Interactive). Full-screen, full-motion video (with its 30+ images per
+second frame rate) has been the problem which has caused CD-I to be delayed
+for so long (although Philips is now claiming that the product launch will be within
+300 days instead of "next year").
+Why are these buzzwords so important?
+The fulfillment of the multi-media vision
+is expected to be the key to reach the
+mass media. Like compact disc audio
+technology, which began with elitist
+audiophiles and to date has caused a
+revolution in the recording industry (currently, 30% of U.S. households have a
+CD-Audio Player and this penetration is
+expected to be 50% by 1992), multimedia represents the ideal of reaching
+the masses with computerized entertainment. As Cinemaware Vice-President
+David Riordan has noted on several occasions, "Television is the standard the
+masses are in love with and that
+shouldn't be a tough standard to emulate."
+The goal of emulating television's broad-
+
+cast standard has a mixed message for
+the computer gamer. It is exciting to imagine broadcast quality graphics and CDAudio sound, as well as to consider how
+much larger games could be on a 600700 MB CD-ROM. Expect to see more
+use of large cel animation (as in quality
+motion picture and television cartoons)
+and rotoscoping (technique of filming
+live actors first, digitizing the outlines and
+coloring in the shapes via the computer).
+Further, the capacity for sharing art between machines after it has been captured and digitized is much easier when
+the data is stored on CDs. Since the FMTownes machine (a CD-based MS-DOS
+computer currently available in Japan),
+CD-I, and an IBM with CD-ROM and VGA
+graphics can share graphics data with
+very little manipulation, it is becoming
+more and more plausible to develop platform-independent software readily adaptable to each of these three platforms.
+Still, even the graphics which are being
+utilized in current production for CD-ROM
+products are not quite broadcast-quality.
+Brian Moriarty, the father of Loom,
+believes that CD-ROM products will set
+back the art of computer game design in
+the near future because graphic art is expensive and the market is not currently
+large enough to support both additional
+art and in-depth design. Therefore, the
+publishers will opt for more art at the expense of design. Even Moriarty sees that,
+"...by the year 2000, all our games will
+look like television."
+Note also that both CD-I and NEC's
+Turbo-Grafx 16 CD-ROM units allow play
+of regular CDs and CD+G (compact disc
+plus graphics) in their disk drives. The
+audio capacity of these players also
+opens up other opportunities. Since there
+is so much room for audio on the CDs,
+companies like Sierra and Lucasfilm
+are developing multi-lingual soundtracks
+for their CD-ROM games. Lucasfilm's
+Zak McCracken and the Alien
+Mindbenders on CD-ROM and Loom on
+CD-ROM will contain both English and
+Japanese Kanji soundtracks. Sierra's
+Mixed-Up Mother Goose CD-ROM has
+
+Industry Update
+
+both English and Japanese, but other
+products are expected to utilize German
+soundtracks and French soundtracks, as
+well. In addition, Zak has 23 different
+audio tracks for specialized sounds (e.g.
+street noise, musical themes, etc.) and
+Battlechess on CD-ROM will eventually
+have different musical themes which will
+branch to reflect the strength of the
+player's position vis-a-vis the computer
+opponent (not to mention the themes
+which accompany each piece). The CDAudio capacity will definitely strengthen
+the entertainment experience.
+However, the two-edged sword of the
+proposition is that less, not more, of the
+computing power of the machines will be
+directly accessible to the user. Accessibility will be masked by the application
+(i.e. less programming and less direct
+control so that the interface can be
+simpler). Bill Gates, CEO of Microsoft,
+observed in his keynote address at Comdex that growth in the computer industry
+will slow down considerably unless computers are made easier to use. The emphasis on "point and click" games (e.g.
+Sierra's King's Quest V on CD and Rise
+of the Dragon), use of interfaces such as
+
+CD-I's "appliance control panel
+metaphor" and the three-button interface
+in Kellyn Beck's Detectron for CDTV
+(see the later discussion in this article),
+proliferation of GUls—Graphic User Interfaces like OS/2, Windows 3.0, New Wave
+and Geos for MS-DOS—and de-emphasis
+of keyboards will make the new generation machines look like they will be even
+less like computers than ever before.
+This will mean that many long-term
+computer garners and several traditional
+computer game designers will be
+unimpressed with the early products
+using the technology. Chris Crawford
+believes "CD-ROM is a hammer that will
+turn everything else into nails." By that,
+the outspoken designer is stating that
+design issues will become secondary to
+finding new ways to use and fill up one's
+CD-storage capacity.
+At InterTainment '90, Anita Sinclair of
+Magnetic Scrolls (Wonderland) listened patiently to Dick Fletcher with
+Grolier's Multi-media Encyclopedia and
+Laura Buddine of Tiger Media (see the
+later discussion) speak of the necessity
+of getting away from text in order to
+
+reach the mass market. Then, Anita
+decried the manner in which computer
+users are being patronized by the assumption we are all regressing to
+children and cannot read. It is hopeful
+that, eventually, sophistication and
+simplicity will find an acceptable equilibrium in computer entertainment
+products.
+
+Coming Soon
+With the proliferation of CD-ROM drives
+for personal computers (and subsequent
+drops in price, due to the competition),
+promised launch of CDTV in the Spring
+(with Battlechess, Jack Nicklaus' Unlimited Golf, Detectron, TV Sports: Football and more), imminent arrival of NEC
+Turbo-Grafx 16 CD-ROM products like
+Cinemaware's It Came From The
+Desert and ICOM's Sherlock Holmes,
+Consulting Detective games, decisions
+by Tandy, Leading Edge and IBM to
+market CD-ROM machines, rumors of
+the FM-Townes machine utilizing Windows 3.1 and the C-Cube CL550 video
+chip (see later discussion) in attempting
+to reach the American market in 1991 or
+(Continued on page 35)
+
+Review
+
+W
+
+hat is it
+about amnesia, I wonder, that
+makes it such an irresistible device for
+authors of interactive
+fiction?
+
+It is not a particularly noble affliction,
+nor is it as rich in
+dramatic potential as
+the frequency with
+which it is exploited
+would suggest. Is it
+possible that when
+Chris Jones began
+to sketch out the
+plot for Countdown
+(which casts the
+player as an amnesiac secret agent),
+he was unaware that
+he would be mining
+the same by-now-exhausted vein from
+which such games
+as Mindshadow,
+Deja Vu, and
+Thomas M. Disch's
+Amnesia were
+tapped? Perhaps he
+was aware and simply . . . forgot.
+
+Access Software's
+Countdown
+by Charles Ardai
+The Popcorn Not Included Critical Creed:
+From the start, computer games have aspired to a style
+and a degree of polish best described as 'cinematic.' Only
+with today's most sophisticated techniques are significant
+advances being made toward this goal. However, in
+adopting a cinematic mode, today's games open themselves up to criticism on a
+cinematic level. It is not
+enough to achieve moviequality software; one
+must also achieve quality
+movie-software.
+
+Actually, the
+answer is simpler
+than that. Amnesia is
+a convenient crutch
+on which game designers lean when
+forced to deal with
+the problem of a disparity between the
+knowledge a player
+possesses when he enters a new game-world and the knowledge
+his character should possess. How, other than through recourse
+to the blessed loophole of amnesia, is one to explain a player's
+stumbling around in broom closets when surely the character he
+is playing would know his way around his own apartment? How
+else is one to understand meeting for the first time people with
+whom one's character is supposed to have well-established
+relationships?
+Then, too, amnesia brings with it its own built-in quest —the
+quest for self-discovery-which adds apparent psychological
+depth to a game's more ordinary tasks, such as gathering
+treasures, surviving, or saving the world. What designer could
+turn down the loophole or the depth, much less both in one
+cheap package?
+The trouble is that amnesia has been done. For that matter, so
+has espionage, escape from a sinister asylum, clearing oneself ol
+a murder charge, preventing nuclear devastation, and most of
+the other pieces which make up the puzzle that is Countdown.
+They have all been done to death. For Countdown to resurrect
+
+It is from this critical
+standpoint that we will
+consider the new generation of "Interactive
+Movies."
+
+these old saws is disappointing; for it to
+breathe new life into
+them is inconceivable.
+Yet, this is exactly
+what Countdown
+does. Read that sentence again. What
+you have in this
+review's first four
+paragraphs is a
+serious, but also the
+sole, criticism of
+Countdown. If we
+set my gripes about
+its old-hat storyline
+aside, Countdown is
+as close to perfect as
+any game can be. It
+also comes closer to
+earning its self-appointed identification
+as an 'Interactive
+Movie' than any of
+its predecessors or
+competitors.
+
+Countdown is
+such a good game,
+in fact, that I feel
+compelled to defend
+TITLE:
+Countdown
+it against my attack.
+SYSTEM:
+IBM
+PRICE:
+$59.95
+"David" (of 'and
+DESIGNERS: Brent Erikson, Chris Jones
+Goliath' fame) was
+PUBLISHER: Access Software
+hardly a new subject
+Bountiful, UT
+when Michelangelo
+tackled it, much less
+when Bernini did. Yet
+Bernini's statue is an
+extraordinary accomplishment, a triumph over the previously perceived
+limitations of his
+medium. Similarly, Caravaggio's paintings of the saints leave his
+predecessors' work far behind: they are no longer pretty
+portraits, but images of real human beings. To be unbearably
+crude about it, both artists took old saws and gave them new
+teeth—which is what Countdown does, beautifully. Like Caravaggio, Countdown shows us the dirt, the texture, the substance of
+its subjects; and like Bernini's "David," Countdown offers exuberant, animated, and ingenious solutions to problems which
+have stumped designers for years.
+Countdown accomplishes this through abundant use of digitization, both of sound and of graphics; through a felicitous control
+system which eliminates all the flaws, while retaining the virtues,
+of the system pioneered in Access' Mean Streets; and through
+exciting and imaginative storytelling. The story being told may
+be one we've heard before, but we have never heard it told this
+well.
+
+Try To Remember .. .
+Frank McBain is dead. Mason Powers is alive, but trapped in a
+(Continued on page 37)
+
+1
+
+Technological
+Trends...
+(Continued from page 29)
+early 1992 and CD-I possibly on the
+market before Fall of 1991, the reality of
+enhanced computer entertainment
+products seems close at hand.
+New companies are forming to take advantage of multi-media platforms. One
+company is Tiger Media. The first entertainment product for multi-media
+machines to arrive from this company is
+expected to be The Case of the
+Cautious Condor. Using period comic
+style art (from the '40s or '50s) and a
+Chandler/Hammett-style prose often associated with the detective stories on
+radio during the same period, the game
+can be played to a conclusion in 30
+minutes (Tiger Media designs their
+games as a television analog which assumes an attention span of not more
+than 30 minutes), but offers three full
+hours' worth of pictures.
+Another company formed to develop
+CD-ROM entertainment products is
+Whitestar Mageware. They are developing a game called Golden Immortal, a
+hero-quest which integrates VGA animation, CD-audio sound and a variety of
+prose in order to build a story based on
+comparative mysticism and/or religion.
+The company also publishes interactive
+tour guides like their Sophisticated
+Santa Fe (New Mexico) CD-ROM
+travelogue due early next year.
+Kellyn Beck (Defender of the Crown,
+Centurion: Defender of Rome and Rocket Ranger) and Doug Sharp (Chipwits
+and King of Chicago) have been working on Detectron, a futuristic detective
+game based on Doug's "Dramaton" concept (designed in 1985). "Dramaton" was
+the predecessor to King of Chicago and
+was a computer program designed to
+enable stage directors to be able to
+"play" with a script before producing it.
+Out of testing the "Dramaton" concept,
+Doug saw the potential for using "claymation" for King of Chicago long before the
+California Raisins popularized the technique in the television commercials (but
+well after the Gumby adventures on
+television). Detectron uses digitized film
+footage to enrich the backgrounds and
+mixes art and digitized images to establish the foreground. Obviously, the goal
+is to give the product a film-like realism.
+The protagonist of the adventure
+(Would you believe...Max Adams?)
+moves about the screen and continually
+
+has a choice of three different options.
+These change with regard to the situation
+Adams finds himself in, but there are
+never more than three. The reason for
+three options is because the game is intended to be played from across a room
+via an infrared controller (i.e. a remote
+control), and three options are the maximum number of choices one can see
+clearly from across the room.
+The emphasis of this detective game is
+not on combat or puzzle-solving. It is interactive "drama" in that the detective
+must solve the mystery realistically (i.e. if
+he uses his gun, he may risk losing his
+license, being incarcerated or charged
+with a felony).
+Even multi-media educational products
+are taking their cue from computer
+games. Susan Lynton of Northwood
+Entertainment demonstrated a CD-I
+product at InterTainment '90 that is intended to teach Spanish as an interactive
+Berlitz course. In presenting the language, the learner/player is immersed
+into the language by being sent into a
+Spanish-speaking country as a baseball
+talent scout. His task is to find the next
+
+Fernando Valenzuela. In the course of
+trying to survive, he meets a woman who
+he believes does not speak "Ingles" (the
+love interest) and a young boy (his cultural and lingual guide/teacher). In
+"default" mode, the story begins with no
+instructions on "how to use" the "game."
+The instructions are embedded in the experience of the game itself.
+Where once the realm of CD-ROM
+products was rather limited to the
+Microsoft library of reference works,
+Compton's Multimedia Encyclopedia,
+and text-intensive reference works, the
+scope of CD-ROM publishing is becoming greater and greater. In addition to
+entertainment products, the Bureau of
+Electronic Publishing offers a catalog
+with 74 pages of CD-ROM atlases, reference works, image and music samplers,
+statistics packages and video databases.
+The company even offers a U.S. History
+on CD-ROM package (complete with the
+best of 14 selected U.S. History
+textbooks) bundled with a Hitachi CDROM drive for under $1,000.
+
+Far, Far Away, But In Our
+Galaxy
+The simple fact of CD-ROM storage and
+the use of digitized still pictures will not
+bring multi-media products to the mass
+market, however. It will take full-motion
+video. At Comdex, C-Cube demonstrated
+its CL550 video compression and
+decompression chip. The chip is already
+compatible with JPEG (Joint
+Photographic Experts Group) and will
+run full-motion video from a hard disk at
+30 frames per second (in connection
+with CCIR601 video inputs). It does not
+yet meet MPEG (Motion Picture Experts
+Group) standards (100K of graphics per
+second and running off a compact disc in
+stead of a hard disk). However, the chip
+is only slowed by the speed of the hard
+disk at this point. If the information is in
+RAM, the video images can perform at
+more than 40 frames per second. The
+chip runs with existing architectures on
+the Macintosh and in MS-DOS environments and Fujitsu showed a prototype
+of an FM-Townes machine with a CCube chip at a recent Tokyo Multi-media
+Exhibition. Coupling advances like this
+with Intel's recent announcement that
+they were halving the price of their DVI
+(Digital Video Interactive) chips to
+around $1,000, the technology is much
+closer to the gaming consumer than one
+would have thought a year ago.
+Of course, with some aspects of the
+new technology getting closer, even the
+"wild stuff' like virtual reality begins to
+seem possible. The video game companies are enthusiastic about bringing
+such advancements as virtual reality and
+networked games to life. As Robert
+Faber of NEC's Home Entertainment
+Division notes, "Kids like space age stuff,
+they tend not to like old-fashioned
+things." He visualizes networked games
+from a first-person perspective with different views for competing players. This
+may seem a long way away, but NEC
+(the company that developed the
+one-to-five player adapter for the Turbo-Grafx
+16 that games like TV Sports: Football
+take advantage of) is experimenting with
+a Turbo-Grafx 16 modem peripheral in
+Japan that is probably only two to four
+years away. Since Michael Katz has observed that Sega is no longer supportive
+of the Tele-Genesis concept of modem
+play, this could be a significant introduction.
+Virtual reality is another frontier for
+gaming applications (see CGW #72 for
+more information on this technology).
+Rich Gold of Mattel demonstrated the
+PowerGlove at InterTainment '90. This
+
+Industry Update
+
+analog to the VPL dataglove (although
+one finger of the glove does not function
+as a cost-cutting decision) uses
+ultrasonics to allow players to control images on the television screen on X, Y,
+and Z axes with quarter-inch resolution. It
+is, Gold suggests, a "kinesthetic
+metaphor" for arm and hand movement.
+The first product to specifically use it is
+Super Glove Ball on the Nintendo
+Entertainment System. Also, to show
+that Mattel isn't simply satisfied with "vir
+tual" space, he demonstrated their SFX
+electronic toy (which makes sound effects according to kinesthetic movement)
+and called it the "first virtual sound
+product."
+Perhaps, of more interest on the virtual
+reality front was a presentation by Chris
+Gentile of AGE (developers of the PowerGlove for Mattel). He announced an
+agreement his company has with
+Logitech to create an ultrasonic
+dataglove peripheral for personal computers that is expected to retail for under
+$200 and revealed that the company is
+working on a three-dimensional "flying
+mouse" similar to some very expensive
+versions on advanced workstations.
+
+Gentile believes, however, that the most
+important application of virtual reality
+into gaming is total immersion in an artificial world. AGE is working on a NR
+(total virtual reality) game system with its
+own lightweight head-mounted display
+(HMD), complete with full sound
+capability. Unfortunately, the initial units
+(expected to test in late 1992 and launch
+in 1993) will use monochrome graphics
+because color requires too much processing to enable small processors to keep
+up an acceptable frame rate on the images. One of the games under development places the player in the cockpit of
+a Formula One race car. With head-tracking, the player will be able to turn their
+heads and see what's behind, above and
+in front of them.
+In conjunction with the TVR research,
+AGE is expected to develop attractions
+for two major theme parks using virtual
+reality. One park is expected to be built
+in Osaka, Japan (and will allegedly cost
+$680 million excluding the price of land)
+and the other may be built on the east
+coast of the United States. Virtual reality
+would let the amusement park operators
+
+pack more attractions into a smaller
+area. For example, one attraction is a
+race with twenty radio-controlled cars.
+Drivers wear head-mounted displays and
+get the three-dimensional views from
+cameras placed inside the R/C models.
+They will see the people waiting in line
+as though they were "in the stands" of a
+major race. Also, using HMDs and 3-D
+camera techniques, amusement park
+operators would be able to have people
+ride on miniature roller coasters, but experience the ride as though they were on
+the largest coaster ever.
+
+Say, "When"
+Of course, the real problem with future
+technology is the fact that it never arrives
+as soon as one expects it. CD-I has been
+in "Real Soon Now" state since 1985.
+CDTV was absolutely promised for
+Christmas of 1990. DV-I and multi-media
+machines are just now reaching the top
+line of price acceptability and really
+haven't become "consumer" items as of
+yet. Still, the Empire State (of the art) better get ready to be overshadowed by the
+World Trade Center of tomorrow.
+
+Included III
+(Continued from page 30)
+Turkish prison hospital, accused of McBain's murder. Did Powers
+really kill McBain? What do you think?
+The problem is that secret agent Powers has amnesia and cannot remember the details of the mission that landed him in
+"protective custody." It's up to the player to break Mason out of
+jail, search out familiar people and places to jump-start Mason's
+memory, and
+get the poor
+guy back on
+the trail of an
+international
+terrorist
+who's got a
+nuclear bomb
+set to go off
+in ninety-six
+hours .. .
+somewhere.
+Where? Good
+question.
+Hence, the
+
+name Countdown. There's plenty to do before finally disarming
+the bomb, and precious little time to do it in. Just escaping from
+Turkey will take all the ingenuity and cunning at Mason's disposal, not to mention more hours than the old boy can really afford to spare; and when Mason escapes, there's still a globe-trotting adventure ahead of him, which leads him through Egypt and
+Italy and France, through gaudy bars and sinister hideouts,
+through meetings with hitmen and hostages and a blonde dancer
+named Golden Desire while, in the background, the seconds
+quietly tick away.
+There are window ledges to be climbed on, sewers to be
+braved, bribes to be paid, and doses of truth serum to be administered. There are low-tech and high-tech solutions to puzzles
+(a catapult and Mason's hand-held computer are the extremes
+that come to mind), as well as a few puzzles that cannot be
+solved—just enough to keep players on their toes. There is an encounter on the Orient Express worthy of Hitchcock at his prime
+and a nail-biting climax with no room for error. There are sexy
+women of the James Bond variety and a handy blackjack game
+to match. (Bribes cost money, don't you know?)
+In short, there is everything except the kitchen sink.
+(Countdown has more than one sink, but none to be found in a
+kitchen.) What makes all of this so exciting is that every scene
+has been digitized, either from location photographs or from actual miniature sets constructed for the game. Every stone in
+every cellar is richly detailed; one can practically see the walls
+sweat. Metal in Countdown looks like metal, wood looks like
+Left: Building miniature sets.
+
+(Continued on page 41)
+
+Review
+
+Only the
+Oracle Knows...
+(Continued from page 20)
+threatens the job security of every palmist
+and fortune teller at the fair (and all this
+from the comfort and safety of one's own
+computer console).
+
+Weighing In At 12 Stones
+Ishido has both 3.5- and 5.25-inch disks
+included with the game (for those IBM
+owners out there who hate sending away
+for the other disk size). Of course, there is the ubiquitous Accolade copy protection secret decoder wheel, as well as a booklet by designer Michael Feinberg, entitled The Way of Stones.
+This handy little booklet details the fascinating origins of the
+game itself as well as the Oracle of the Stones. Finally, "accolades" (pun intended) are also due Accolade's documentation
+for Ishido. In sharp contrast to their Strike Aces and Star Control documentation, Ishido's reference materials are thoughtfully
+presented, clearly illustrated and wonderfully complete.
+
+Gall Stones
+The sound in Ishido is limited (having a sound board is not a
+
+necessity to fully enjoying this game)
+and bears a bone-chilling resemblance
+to Chinese water torture each time a
+stone is placed on the board. While the
+music is nice when a 4-way match is
+garnered, players will probably opt to
+turn the sounds off before being driven
+insane by them. Another feature that
+could have been a far greater plus for
+the game is the on-line rules. These,
+alas, are not illustrated. Where a picture is worth a thousand words, this fortune cookie wisdom could also apply
+to adding some illustrations to the online rules. While not a huge minus
+without them, the rules would have
+been truly "perfect" with the inclusion of some of the
+documentation's illustrations done in those nice color graphics.
+
+Passing Stones
+Ishido is a puzzle of deceptive simplicity and a seemingly endless array of possibilities for play. With visual elements that appeal to the imagination, the intellect and the aesthetic sense,
+Ishido offers a genuine challenge to the player's strategy skills
+and powers of perception of the game's "big picture." For both
+the novice and the master, Ishido provides a straightforward
+strategy game with a mystical undercurrent that is likely to
+amaze and amuse.
+
+1
+
+popcorn Not
+Included III
+(Continued from page 37)
+wood and filth looks like filth. People, too, look like people—and
+what's more, Access has cast models who look just right for their
+roles. The VGA/MCGA-only graphics are a triumph, and the
+animation (especially in Mason's non-interactive flashbacks) is in
+pressively fluid.
+Countdown is a joy to watch. It is also a joy to listen to. The
+potential of RealSound speech and sound effects is still somewhat underutilized, no doubt due to memory drain (as it is,
+Countdown comes on eight disks), but where sounds are used
+they are very effective. The music track makes the most of an
+AdLib board, if you've got one. (Several other boards are supported as well.)
+Playing Countdown is a shocking sensual experience, not unlike putting on glasses for the first time when one has needed
+them for years. Compared to Countdown, Sierra's various
+Quests are mere cartoons; Countdown is a feature film.
+
+Countdown Rundown
+Of course, the best graphics in the world mean nothing if a
+game is no good as a game. One has to be able to get from
+scene to scene, preferably in an entertaining way. Does
+Countdown offer anything, one may well ask, from this perspective?
+It does. Much as in Mean Streets, gameplay is divided between
+exploring locations and conversing with characters. (Mean
+Streets' extraneous flight simulator has been eliminated.) Both ac
+tivities are menu-driven. While exploring, a typical roster of adven
+ture game commands is available ("look," "open," "move," "get,"
+etc.); while conversing, one chooses among 'approaches' such
+as "pleasant," "hassle," and "bluff." The computer supplies the actual dialogue, which is usually clever, or interesting, or both.
+In Mean Streets, one had to keep a pencil-and-paper list of key
+words and names for use in later interrogations. Here, the computer keeps the list for the player, and even indicates which subjects a given character has already been asked about. This
+eliminates, in one move, all the processes that made Mean
+Streets a test of one's patience. No longer does one have to
+worry about keeping notes and spelling everything correctly.
+Players are free to enjoy the story without the game mechanism
+intruding.
+It may be argued that, list or no list, one still has to ask
+everyone about everything, and that it is still tedious; but this is
+not so. Not that one doesn't have to run through the list of
+names with each new character—late in the game, some of
+Mason's contacts will answer literally dozens of questions. It's
+simply that it never becomes tedious.
+Each character has information to produce and produces it in
+an interesting fashion. Almost any question one can ask yields
+an interesting answer. This isn't a technical innovation. It's simply good writing.
+Similarly, one might complain that it is too difficult to guess
+what approach to use to get a given character to talk. Is it
+'Pleasant-Hassle-Hassle' with Doctor Hashish, or is it '
+Hassle-Pleasant-Bluff'? Will the sympathetic guard respond to '
+Help-Help-Help,' or does one need to throw in a 'Hassle' somewhere?
+
+In practice,
+however, finding the
+proper approach is not
+a hit-or-miss
+proposition.
+The game
+provides hints
+both through
+the characters' dialogue
+and through
+their
+animated facial expressions. An observant player can tell when he is pushing too hard,
+or not hard enough. (Cautious players can always save before an
+encounter and restore afterwards if they are unsuccessful.) This
+psychological sparring is half the fun of the game.
+The other half is, of course, the puzzles, which rarely reach the
+lunatic height, say, of Infocom's, but which are satisfying nevertheless. There are only two 'ordering' puzzles in the game, one of
+which is the disarming of the bomb—many find such puzzles a
+mindless nuisance, but two per game is certainly tolerable.
+Similarly, there are a few situations which depend on one's
+precise timing (the catapult puzzle is one such), but not so many
+as to frustrate less coordinated players.
+The remainder of the puzzles are challenging but always believable. There are no magic spells here, no easy ways out, only difficult situations and ordinary tools. Character interaction takes
+precedence over gadgetry (what an idea!) and the puzzles are
+usually solved by quick and clear thinking rather than some silly
+manipulation of objects.
+This realism in the puzzles matches the realism in the graphics,
+and both combine to create a consistent story and atmosphere
+that really does feel like a spy thriller. One can easily imagine
+Countdown as a film—very little would have to be changed.
+There are sets, there are characters, there are incidents, there's a
+climax . . . and there is also interactivity, making Countdown a
+candidate for the best marriage of cinema and gaming yet seen.
+The only drawback, one must recall, is that the story is so
+familiar. Of course, however, if one really thinks about it, even hit
+films such as this year's Die Harder, Goodfellas and Ghost lack
+something in the way of plot originality. Think: what was the last
+truly original James Bond movie? (Dr. No, no?) If nothing else,
+lack of originality gives Access something to aim for next time.
+
+Sugar and Spies
+Countdown is a wonderful game. It's gorgeous, it's loads of
+fun, it's substantial (eight disks will keep even the sharpest
+player busy for a while), and it's profoundly cinematic. It is an
+MS-DOS showpiece if there ever was one. Indeed, it is a reason
+to upgrade to a VGA/soundcard system if there ever was one.
+Those who think this reviewer is overstating the case and might
+even own stock in Access (since one isn't used to reading superlatives under this by-line) are invited to express their disagreement. The only catch is that one must play the game first. Once
+you do that, I know you'll be hooked.
+Trust me—out of the host of amnesia games players have suffered through over the years, Countdown is memorable.'
+
+1
+
+Sneak Preview
+
+Ode to Nobunaga
+by Wyatt Lee
+
+W
+
+hen Koei first opened
+its U.S. offices and introduced its first two titles, Nobunaga's Ambition
+and Romance of the Three
+Kingdoms, one staffer could
+never quite get the name of
+the former correct. He called it
+"Nobunaga's Revenge." With
+Nobunaga's Ambition II, that
+staff member may be right.
+Whereas, in the first game,
+many of us successfully followed in Oda Nobunaga's
+footsteps and managed to
+unite the warring fiefdoms of
+16th Century Japan under his
+shogunate, those who play
+Nobunaga's Ambition II have
+a tougher task before them.
+Not only are the rival daimyos
+(when you are playing computer opponents instead of
+human opponents) more ruthless, but players must budget
+their attribute points (as in Genghis Khan) and pay attention
+to the role of leadership and
+delegation of authority (as in
+Bandit Kings of Ancient
+China). With this greater challenge to face, Nobunaga's Ambition
+players may well refer to Nobunaga's
+Ambition II as "Nobunaga's Revenge" in
+a pleasantly contrasting manner to the
+way tourists to Mexico remember Montezuma. In other words, this game has
+lasting play value.
+
+Management Secrets of
+Nobunaga
+Those who have never played a Koei
+game before will need to know that these
+games use a menu-driven interface which
+is pregnant with options, decisions and
+conundrums. Using the keypad or numbered keys, players cycle through nine
+different menus in order to make administrative decisions. These decisions
+
+may cover everything from building
+dams for flood control to offering an alliance or from developing the town to
+generate more potential income to training one's men for war. Players can
+develop their fiefs and later, their
+kingdoms into self-supporting economies
+or try Keynesian economics by borrowing gold to finance their military campaigns. Most of this was possible in the
+original Nobunaga's Ambition, but
+Nobunaga's Ambition II makes the
+process even more challenging. Now, as
+in Genghis Khan and Bandit Kings of
+Ancient China, players must invest
+Body Points (numerical attributes
+equivalent to strength and constitution)
+in order to accomplish the tasks called
+for in the administrative process.
+
+Players are even called upon to make
+those difficult human decisions. Various
+ronin (masterless samurai) appear from
+time to time and attempt to pledge fealty
+to the player's daimyo (a feudal leader
+roughly equivalent to a baron in Western
+culture). Does the daimyo trust him
+enough to accept him? What if the
+daimyo trusts him with a group of men
+and he decides to strike off on his own
+and terrorize the outlying boundaries of
+the fief? After conquering another fief,
+the player will have to decide what the
+daimyo will do with regard to the captured samurai: behead them, release
+them or recruit them. After all, there is always the chance that the recruited
+samurai will either defect to a neighboring daimyo or turn on the daimyo in the
+next battle.
+Whereas the original Nobunaga's Ambition allowed players to make the
+decisions for each fief controlled on a
+seasonal basis, Nobunaga's Ambition II
+allows them to make the decisions on a
+monthly basis (and three decisions per
+month, at that). Should the player decide
+to send his daimyo and/or samurai to
+war, play shifts to a tactical battle map.
+The battle map is a high-resolution tactical depiction of mountains, forest, plains,
+rice paddies, hills, bodies of water, towns
+and castles. Each samurai has a counter
+reminiscent of those in board wargaming,
+representing the number of men that
+leader commands. These are placed on
+the map. Then, tactical commands are
+(Continued on page 83)
+
+Sneak Preview
+
+Power Hungry
+A Sneak Preview of Electronic Arts' Powermonger
+by Johnny L. Wilson
+
+O
+
+ne of the animated
+television series based on
+a line of toys (action
+figures) used to begin with the
+hero wielding a tremendous
+sword, voicing a standardized invocation and closing with "I have
+the power!" In the latest game
+from Bullfrog, the British
+developer for Electronic Arts
+and creators of the enormously
+successful Populous, players get
+to "have the power" in many
+ways: conquest, trade and political alliance.
+
+is slower). Powermonger also
+features outstanding sound effects to portray sheep bleating,
+the wind blowing, swords clashing and men dying. The artistic
+touches are...well...powerful.
+Around The World In
+Eighty Ways
+The artistic touches alone are
+not enough to convince one to
+purchase this game, however. It
+is the fact that the game offers a
+huge strategic challenge each
+time it is played, plus the fact
+that it is replayable. Since the
+computer opponents react differently according to the player's
+decisions, this creates a different
+environment for each replay.
+One game, the player may opt
+to try to use "Trade" to win the
+world. Another game, he/she
+may opt for straight-ahead conquest. Yet another game, he/she
+may opt for a "scorched earth"
+approach to conquest. Since the
+game scales the artificial opponents in reaction to the
+player's posture and actions, the
+game is dynamic enough to offer
+new challenges with each playing.
+
+Powermonger is Populous
+from a rational perspective. Appearing initially on the Amiga
+with the MS-DOS only slightly behind, Powermonger is an icondriven, real-time strategy game
+"played" across a three-dimensional environment which can be
+rotated and magnified at will. It
+is not only an intriguing solitaire
+game, but offers additional play
+value for two players via modem.
+The concept of the game is
+that the player assumes the role
+of a a tribal leader whose
+homeland was destroyed by an
+earthquake of Brobdingnagian proportions. It is the player's job to see that
+new worlds are explored, settled and,
+sometimes, conquered in order to provide for the quality of life which his/her
+people deserve. In fact, it is not even a
+chauvinistic game. Queries (a function
+which potentially offers a pop-up window
+to describe every person by name, as
+well as every tree, corpse, workshop,
+building, village and castle in the game)
+will often turn up female warriors, as well
+as males, complete with weapon in hand
+and ready to perform the tribal lord's bidding.
+Players explore the huge world of
+Powermonger, one landscape at a time
+through the complete 195 territories. In
+Powermonger, the landscapes not only
+look more realistic than those in
+Populous (which were inspired by
+Lego™ pieces), but feature some delightful special effects like flushing pigeons
+out of trees and having tree stumps
+remain after logging has been done.
+
+Further, the artificial opponents will set
+their technological tendencies differently
+according to the default abilities of their
+populations and the natural resources
+available on their landscape. Since
+Bullfrog designed each landscape to
+have its own personality, part of the challenge of the game is for the player to
+learn to judge the potential of each
+landscape. The player learns to respond
+to the environments which he or she is
+confronted with.
+
+Also, weather is not only vividly
+portrayed, but has an effect on the action
+(i.e. food is consumed more rapidly in
+winter to reflect scarcity and movement
+
+The diplomatic posture established by
+the player also enters into how the tribe
+will be received. A passive posture will
+usually allow the tribe to enter into an alliance easier, but this must be balanced
+against the tribe's potential for running
+away from an unexpected battle. The
+neutral posture, of course, allows a tribe
+the flexibility for either war or trade. In addition, there is a chance of wooing some
+of the enemy to the player's side, thus
+(Continued on page 52)
+
+Computer Gaming World's
+See Reader Input Device on page 89
+
+The Categories
+Strategy (ST): Games that
+emphasize strategic planning
+and problem-solving.
+Simulation (SI): Games based
+on first-person perspectives of
+real-world environments.
+Adventure (AD): Games that
+allow you to take an alter ego
+through a storyline or series of
+events.
+Role-Playing Adventure (RP):
+Adventure games that are
+based on character
+development (usually
+involving attributes).
+Wargames (WG):
+Simulations of historical or
+futuristic warfare from a
+command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+Games are often listed in more
+than one category. In this
+case, the first listed category is
+considered primary. In order
+to be recognized as the 'Top
+Game" in a given category, a
+game must be listed as being
+primarily of that specific type.
+
+Top 100 Games
+
+THE HALL OF FAME
+The Games in
+CGW's Hall of
+Fame Have Been
+Highly Rated by
+our Readers
+over Time.
+They are Worthy
+of Play by All.
+
+Review
+
+Sic Transit Gloria Mundi
+(Thus Passes the Glory of the World)
+Accolade's
+
+Stratego
+
+by Alan Emrich
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Stratego
+IBM, Macintosh
+$49.95
+Ken McLeod
+Accolade
+San Jose, CA
+
+ost people here in
+the States don't
+know much Latin.
+For them, the classic
+phrase about the inevitability of defeat ("Sic
+transit gloria mundi")
+might as well be translated, "If you're sick Monday, don't transit to work but glory in a game of Stratego." Accolade has definitely connected with the computer solitaire strategist
+crowd, and their digitized version of Milton Bradley's classic
+boardgame delivers plenty of goods, including a computer opponent
+tough enough to send some of your previous glory packing on some
+kind of mass transit.
+
+M
+
+Identical Armies
+The computer version of Stratego stays very true to its boardgame
+roots. The board and pieces have remained unchanged in their form
+and function, as have the standard rules of play. Through the courtesy of computer magic, however, different styles of pieces and different looks for the game board are available to players. Players can
+opt for high-resolution "plastic"-looking pieces or decide instead on
+brownish "stone"- or "wood"-looking sets. The board can be set in
+either the terrain-covered standard map or be switched to the stylized
+modern or sterile classic boards. After experimenting with all of the
+different piece/board combinations, the standard pieces on the standard map really look the best and, honestly, the game would not have
+suffered much with the loss of these "gee whiz" graphics for the map
+and pieces.
+
+Yes, War Has Rules!
+The standard rules are those from the Milton Bradley version
+game from start to finish. It is the subtle additions and new tournament-level rules which makes Accolade's Stratego a worthy purchase consideration. Experienced Stratego players will embrace
+these variations as bringing new life and challenge into a long-time
+favorite game.
+Added as variants to the standard rules are the Scout Attack and
+Defender Moves options. When using the Scout Attack rule, Scouts
+can end a multi-square move with an attack on any adjacent enemy
+piece. This makes them much more useful for their reconnaissance
+work. The Defender Moves option simply places victorious defending
+units in the losing attacking unit's square, rather than having it stay
+in place. This creates some interesting circumstances on the game
+board, and can quickly break open stalemated sections of the front.
+
+Stratego's
+
+#1
+
+Piece
+
+What puts the value in the game box, however, are the Tournament Rules. While there are only three of them, their impact is considerable and will greatly alter a player's strategies during play. When
+
+first learning these rules, the computer will obligingly give players a
+well-deserved lesson in hard knocks as to their correct application.
+The Aggressor Advantage rule gives tie battles to the attacking
+player. Thus, a "3" versus "3" battle will be won by the player initiating it. Now, Spies are not the only Field Marshall stalkers around,
+since the other Field Marshal can just as safely dispatch the enemy!
+Having a strength-piece parity on the board is no longer an assurance that good defensive play will likely yield advantages to
+patient players. Now, aggressive play is rewarded with considerable
+potential advantages (to offset its risks).
+
+Looking For A Few "Old" Men
+The Silent Defense rule can also be considered something of a "fog
+of war" or "intelligence vacuum" situation. Here, the victorious piece
+does not discover the value of the enemy piece which it eliminated.
+Scouts still get the dirt on the enemy piece which destroys them, but
+one can never be quite sure of the "piece count" advantage when
+this option is in effect. There is a saying that there are many old
+(read cautious from experience) generals, and many bold generals,
+(Continued on page 68)
+
+Sneak Preview
+
+Power Hungry
+(Continued from page 46)
+having some added population left to be
+productive after the battle when using a
+neutral posture. In some cases, though,
+one must simply use the hostile or aggressive posture in order to help insure
+that the tribe's warriors will be thorough
+in their conquest. When using the latter
+posture, one should expect to see plenty
+
+of animated angels departing the field of
+battle in order to depict the total annihilation of the enemy. One can also expect
+the next enemy confronted to be less likely to deal from a neutral posture when
+fighting the player's tribe. The checks
+and balances in Powermonger are marvelous to observe.
+
+Power Lunch
+Food is the primary balancing element
+
+in the game. Naturally, should a tribe run
+out of food, there will be a high desertion
+rate among the military. Also, should a
+tribe not be generous enough with the
+conquered villages and towns, they are
+likely to revolt against them. As an aside,
+one can readily see that animal rights activists are not going to like the role of
+sheep in Powermonger. In this game,
+sheep exist simply for the purpose of
+being slaughtered for food.
+There is an ecological message to the
+game, however. Should the player's tribal
+leader order his followers to exploit the
+environment too much, it can have larger
+consequences. For example, players can
+order their tribes to attack any living
+thing. This includes trees. By reducing
+forests to stands of tree stumps, the
+player's tribe can limit a village's (or
+town's) capacity for improving weapons,
+defenses or the economy through technology. Should the player's tribe resort to
+this tactic too often, however, the loss of
+forested land will create a correlative
+reduction in temperature.
+With reference to the temperature, a
+caveat may be welcome here. Since food
+is such a premium in the game and it
+takes almost twice as much food to feed
+the tribe during the winter, it is advisable
+not to travel, invent, or fight during the
+winter (particularly, during snowstorms).
+In this way, more resources will be
+cached away for future and more
+profitable use. Again, the game is very
+good at using checks and balances such
+as these.
+
+Power To The People
+Powermonger, then, is more than a
+real-time wargame. Its use of artificial personalities for both the individual
+landscapes and computer opponents in
+the game, as well as
+economic/diplomatic trade-offs make it a
+multi-faceted strategy game. For those
+who take the time to observe what is happening in the game, it is a dynamic
+treatise on the human capacity for aggrandizement and the potential consequences therein. For those who simply
+want the challenge of a fast-playing
+strategy game that offers both cerebral
+and aesthetic stimulation, Powermonger
+appears to provide literally hundreds of
+hours of play.
+One word of caution, however, is in
+order. Powermonger has even more addictive qualities than Populous. In fact,
+Powermonger players just might become infected with what our editorial
+staff has repeatedly observed and
+dubbed "PMS" or "Powermonger
+Syndrome," an overpowering urge to
+relentlessly conquer all one surveys.
+
+Review
+
+Castle keep
+Interplay's Checkmate
+by Jay Kee
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Checkmate
+Amiga
+554.95
+Chris Whittington
+and Andy Pennell
+Interplay Productions
+Santa Ana, CA
+
+O
+
+h, no! Not another chess program! Well, yes, but
+this one is different. It is tough, merciless, cunning, and unpredictable. In fact, it is (dare we say
+it?) almost human. Above all else, it is this near-human
+quality, this eerie sense that one is playing another person, that makes Checkmate such a remarkable chess program.
+
+Top Of Its Class
+According to the manual, Checkmate is the highestrated chess program available for a personal computer
+(rated at over 2000 on the ELO scale, in the Candidate
+Master category). While the manual may certainly be somewhat
+biased in its evaluation (one has to watch those marketing
+guys!), there is absolutely no question in this reviewer's mind
+that the program lives up to this claim. As a tournament player
+some years ago, this reviewer had plenty of opportunity to lose
+to people rated in the 1900 to 2000 range and knows how good
+a player has to be to achieve that high a rating. Checkmate has
+caused some deja vu.
+This reviewer has never had much trouble beating any of the
+
+chess programs on the market (until now), finding them to be
+predictable once past their opening books and vulnerable to tactics that sacrifice pieces for positional advantages. Checkmate,
+however, is an altogether different story. It has routinely, almost
+disdainfully, overcome some of the classiest gambits in the
+hobby, game after game. Checkmate displays an amazing grasp
+of abstract tactical concepts, exhibiting an uncanny knack for exploiting weaknesses with direct and aggressive attacks rather
+than relying on the conservative middle-game development
+favored by so many other chess programs. Further, it can learn
+
+Review
+
+from experience, actually adapting to one's style and getting
+tougher with every game played (very much the way a human
+opponent can).
+
+Moves
+The game itself is beautifully done. The graphics are clean, with
+uncluttered screen displays and a host of user-definable options
+to customize the game to personal taste. Checkmate supports
+all the standard features found in other mainstream chess
+programs, such as 3D and 2D perspectives, take-back moves,
+print moves, switch sides and variable levels of play. It also introduces a few new wrinkles of its own.
+
+And More Moves
+One of those wrinkles is an improvement to the user interface.
+Three selectable move settings provide the player with a variety
+of choices for moving pieces—from the classic point-dick-anddrag, to a single mouse click that automatically executes the entire move.
+Another new feature is an optional test that actually grades the
+player's skill level. Under normal circumstances, an ELO rating
+can only be obtained through tournament play—something not
+everyone has the time or inclination to do. Checkmate's rating
+test provides a less stressful and time-consuming option, producing an equivalent ELO rating based on one's ability to solve 24
+different chess problems. With the clock running, the player gets
+four attempts at solving each problem. The final rating ultimately
+depends on how many attempts
+are made, and how much time is
+taken in the process. This reviewer
+scored very close to the rating he
+had previously attained as a tournament player.
+
+Failing The Test
+If there is a downside to this feature, it is the fact that there is only one set of problems. Once
+completed, they can't really be used again to accurately judge
+any improvement in one's rating. If there is ever an upgrade for
+Checkmate, it should offer a complete library of test problems,
+so that players could monitor their skill levels and rankings on
+an ongoing basis.
+The "what if' option—a tutorial feature that lets the player
+analyze various lines of play in order to determine the strengths
+or weaknesses in a particular opening or a certain gambit—is
+another wrinkle which deserves applause. Although other chess
+programs have used this feature as a "kibitzing" mode, this one
+offers a more "professorial" tutorial.
+
+Let Me Draw You A Picture
+On the lighter side, if one is tired of using the same old chess
+pieces game after game, Checkmate provides an unexpected
+answer: make your own. Using Deluxe Paint III, one can design
+their own chess pieces and import them to a special custom file
+that can be used during play. On the other hand, if one does not
+have any desire to play Rembrandt, but is still hungry for a
+change, the game provides four additional custom sets to use in
+place of the traditional chess pieces. Unfortunately, these are too
+distracting to be of any real, practical use: the designs are well
+done, but so totally unusual that it is difficult to distinguish one
+piece from another, which is a major handicap in any chess
+game, but even more so in a game as competent as Checkmate.
+
+Open(ing) Book Test
+While all of these innovative design features provide compelling
+testimony to the quality of this game, the strength of its programming and aptitude for learning is what truly sets Checkmate
+apart from the crowded field of computer chess games. At the
+heart of these qualities are some
+unprecedented options that permit
+the player to exercise discretionary
+control over the program's decisionmaking processes. Using the Opening Book Control editor, one can
+not only dictate the program's
+choice of opening moves, but determine its style and strength of play.
+By setting Strength, Popularity and
+Random options, the game can be
+programmed to choose openings and strategies that are either
+aggressive or conservative, or shift at random between the two.
+Perhaps more significant, however, is the fact that the game
+supports two additional opening libraries: an ASCII file designed
+to accommodate user-defined openings; and a supplementary
+file, activated by selecting the Learning option from the main
+menu, which will record and store any interesting, unusual or
+strong moves the program learns (from its human opponent or itself—a major factor in its uncanny ability to emulate a human
+player).
+
+Check And Mate
+It is the combined effect of these features that makes this program such a formidable and intelligent adversary: constantly
+learning and adapting, and virtually impossible to predict. Truly,
+it's almost human. Thus, Checkmate is a whole new ballgame,
+and it's definitely major league material. While it may be particularly attractive to more advanced players wishing to improve
+their game or looking for some long-term challenge, its wealth of
+educational options will also appeal to novice players by providing tools that go a long way in helping a beginner achieve the
+most gain with the least pain.
+Just another chess program? Is the Taj Mahal just another building? Is Bo Jackson just another ball player? No. They are all outstanding.
+
+Foreign Correspondence
+
+huge development system. Set in
+colonial India during the 1800's, Raj attempts to capture the political atmosphere of the period. Six diverse interest
+groups (ranging from the British East
+India Company, the Mogul Empire and
+minor princes) hold the future of India in
+their hands.
+
+Over There
+Up With Empires
+(Real, Unreal and Undead)
+by Paul Rigby
+
+R
+
+each for the Skies—The Battle for
+
+Britain 1940 is the next release
+from Rowan Software
+(developers of Flight of the Intruder for
+Spectrum Holobyte). To be released by
+Spectrum Holobyte in the States, Battle
+of Britain gives one the choice of being
+the British or German "controller" (with
+the chance to change the course of history and dabble in 'what if' scenarios) or
+a pilot on either side. Choice of aircraft
+to pilot include Spitfire, Hurricane,
+Me109, Me110, or Ju87. Players also
+have the option of being a gunner in an
+Me110, Ju87 or Ju88.
+Missions are, reputedly, those flown
+during the actual battle, with bombing targets and intercepts lined with historical
+accuracy. Training sessions are included
+for player familiarization. Using a polygondriven environment, Reach for the Skies
+will be available before Christmas for PC,
+Amiga and ST.
+Champion of the Raj is a
+Cinemaware lookalike from Level 9
+(remember the graphic/text adventures:
+Lancelot, Knight Orc, etc?) using their
+
+The object of the game (up to six
+players can compete) is to unite India.
+Players face a variety of villains, including "The Thugs," as well as completing arcade sequences such as elephant and
+tiger hunting. Available under the Imageworks label for the PC, Amiga and
+ST before Christmas.
+Produced by Realtime Software
+(producers of Carrier Command),
+Duster is a 3-D game set in an agricultural colony called Heaven during AD
+3800. Unfortunately, because of the
+planet's close proximity to the sun, the indigenous life-forms have a high mutation
+rate. They also wreak havoc among the
+crops. The player, therefore, takes the
+role of a bug hunter or "Duster," using a
+private ship as transport and weapon.
+Profits for successful operations mean
+more funds to upgrade your craft. Available for Amiga, PC and ST before
+Christmas.
+Rowan Software, as a break from
+their "heavy" simulations, are in the
+midst of producing a more actionoriented simulation-based game. Called
+Red Phoenix and based on Larry Bond's
+book of the same name, the game is
+based on a second Korean War. Utilizing
+simulation sequences for aircraft and submarines, the player can control one of
+six main story characters. I'll provide
+more details as they arrive.
+Lords of Chaos, a strategy-based fantasy game with vague similarities to
+Omnitrend's Breach system, is for one
+to four players, with role-playing elements (included only if the player
+chooses the one-player option). In the
+old days, the Arch Mages used to rule
+the Old World with no plagues, floods or
+natural disasters. Mana (magical energy)
+began to build up at an alarming rate. Noone was quite sure where it came from
+and unpredictable things started to happen (the world began to act like a plot
+from a Terry Pratchett novel). The
+people rebelled, blaming the Mages for
+their misfortunes, and so the Mages fled
+as the world broke into pieces—the result
+of untold wars and earthquakes.
+Each piece of the Old World took form
+as individual worlds in themselves. Portals were created, allowing one to venture
+
+Foreign Correspondence
+
+to other Old World "pieces." The end
+result of the cataclysm was that no wars
+existed on the new worlds, but no peace
+existed either—only chaos.
+Three scenarios (an expansion set is already under development) are provided
+in Chaos, in which the player controls a
+single wizard in an overhead viewpoint.
+Collecting treasure is important, as is
+destroying the foe, because victory
+points are awarded for doing both of
+these. Points are converted to experience
+that can, in turn, be used to upgrade
+your wizard's character stats.
+Spells range from attacking spells, such
+as a Magic Bolt—a physical attack, to
+defensive spells such as "Flood," which
+can be used to combat a wizard who
+casts "Fire" in your direction.
+One can summon creatures, such as
+dwarfs, to do your bidding. Dwarfs, or
+any creature with hands, can carry and
+"use" objects. Creatures, such as
+elephants, can be mounted and ridden
+throughout the land. One can do a fair
+bit of interacting with the game world.
+Doors and chests can be opened, objects
+(such as weapons, vials, potions, etc.)
+
+picked up and drunk/eaten and so on.
+Available now for the C-64 and 16-bit
+machines in the first quarter of 1991.
+The French company, Ubisoft, has
+released Zombi, a game right out of a
+George Romero movie. Zombi arrives on
+one disk and a "manual" that comprises
+a comic-book intro and just two pages of
+instructions and tips.
+The screen is divided into a number of
+sections. The largest window provides
+the view to the bit-mapped game world.
+Other areas include bar graphs showing
+character stats, inventory, character
+portraits and command icons. Zombi is
+played on a first-person perspective view
+through the eyes of one of four characters which the player controls (they all
+start on the roof of a mall by a recently
+landed helicopter, along the plot lines of
+Dawn of the Dead). Each character is
+moved down each floor of the mall, exploring the areas and looted shops.
+During your travels, one will come across
+items lying on the floor or within containers that open if clicked upon with the
+arrow pointer. Items taken into your in-
+
+ventory can be used on other objects—a
+video tape in a video player, for example.
+Whilst wandering the area there is always the chance of a zombi appearing.
+This results in a scrambling to get rid of
+the thing either by a weapon, or your
+bare fists. Characters risk dying or, even
+worse, turning into a zombi themselves!
+Available now for C-64, ST and Amiga.
+NOTE:
+The above games, and any of the other
+games mentioned in "Over There" in past
+issues, can be obtained from:
+Computer Adventure World, 318 Kensington, Liverpool, England, L7 OEY.
+TEL: 01144-51-263-6306.
+SDC, 60 Boston Road, London,
+England, W7 3TR. TEL: 01144-1-567-7621
+Premier Mail Order, Trybridge Ltd., 8
+Buckwins Sq., Burnt Mills, Basildon,
+Essex, England, SS13 1BJ. TEL: 01144268-590-766.
+All of the above telephone numbers
+assume that you can dial direct. If you
+have any trouble, contact the international operator.
+
+Review
+
+TEN-BILLION-YEAR...
+(Continued from page 11)
+least, a toy) in the product. Actually, there is both. In game
+mode, players try to develop a planetary system conducive to
+life within allotted energy budgets. In experimental mode, wouldbe creators get to "play" with planets without any energy constraints.
+
+On the Face of the Deep
+When players boot SimEarth, it is possible to choose between
+three levels of difficulty (or the experimental mode described earlier) and, as in SimCity, between designing one's own creation
+(in this case, a planet) or playing a pre-designed scenario (out of
+seven). In the "Aquarium" scenario, one attempts to create continents on a planet with 100% hydrographic coverage; in "Stag
+Nation," one attempts to cause a major migration in order to advance a struggling civilization past the stone age; another
+scenario deals with earth in the Cambrian Era and offers a
+chance for budding bio-engineers to enhance evolution; another
+scenario deals with modern day earth, but allows players to experiment with civilization over a period of centuries; "Mars" has a
+dearth of water and atmosphere, so the player's challenge in the
+scenario of that name is to terraform Mars; in "Venus," one seeks
+to cool off the planet to make it habitable; and "DaisyWorld" has
+already been explained. Of course, just as the biggest thrill of
+SimCity is to design one's own city, the most impressive part of
+SimEarth is creating one's own planet and guiding it to life-sustaining status.
+Players decide whether to play at Geologic Scale (the last 4.5
+billion years), jump to Evolutionary Scale (covering the last 600
+million years), skip to Civilization Scale (10,000 years of historical awareness) or leap to Technological Scale (the last century).
+Regardless of where the player starts, however, the simulation accelerates to the time scale of whatever plateau the planet
+reaches (i.e. once viable life forms have been established, the
+time scale becomes millions of years instead of billions).
+
+Let There Be...
+Unlike SimCity, however, where the player is constantly changing the landscape by fairly direct
+means and where some reasonably
+constant relationships can be ascertained by casual observance or common sense (e.g. commercial zones
+grow faster when surrounded by
+residential zones), SimEarth models
+so many different and seemingly
+diverse factors that the results of one's
+manipulations are not readily apparent.
+Yet, the game/toy/simulation is absolutely fascinating. One learns to
+gradually nurture the incubating planet
+rather than attempt to do too much
+too soon. Using four control panels
+(i.e. one each for atmosphere, geosphere, biosphere and civilization),
+one uses a slider to adjust different settings and determine growth rates,
+stress rates, and other factors while
+pointing and clicking one's way to
+simulated divinity.
+In the early stages of the planet, it is
+
+profitable to determine how much continental drift the planet can
+tolerate. Once the continents have evolved to the player's
+preferences, one can reduce the number of volcanic eruptions,
+meteor collisions, and planetary core heat in order to enhance
+planetary stability. After that, players should probably concentrate on heat and atmosphere by increasing cloud and surface albedo, decreasing solar input slightly and establishing a
+rain cycle. Without some adjustments in this area, a planet can
+overheat quite readily.
+Once life begins to form in the primordial soup, it behooves the
+player to determine the temperature range most conducive to
+sustaining that life. By nurturing the most efficacious temperature
+in a broad bandwidth, one has the best chance of allowing life
+forms to proliferate across the planet.
+Once a temperate zone of sufficient width has been established,
+the next challenge becomes monitoring the species advance rate
+against the mutation rate; establishing a reasonable carbon
+dioxide absorption rate for the biosphere; and deciding on the
+necessary reproduction rate.
+If players can keep all of these factors in some semblance of
+balance, the mystical point of sentient life can occur. Civilizations
+begin at the Stone Age level and the decisions to be determined
+with one's sliding scale revolve around expenditure of energy
+(bioenergy, solar/wind, hydro/geo and eventually, fossil and
+even, nuclear fuels) and their allocation for quality of life in terms
+of philosophy, science, arts/media, agriculture and medicine.
+When things are not going well for the civilization, players are
+apt to hear a moaning from the computer. This reviewer could
+not help but be reminded of God's words to Moses on Mt. Sinai
+that he had heard the cries of His people.
+When matters are going well for the developing civilization, however, the technology level continues to advance. Different technology levels mean different levels of energy efficiency, as well, so
+the alert player will carefully adjust the expenditures of energy so
+that the civilization gets the maximum amount of benefit from
+the least number of hours.
+
+Blasphemy
+In spite of the strength of SimEarth's model and the enthralling
+
+Review
+
+power it places at the player's disposal, there are a few negatives that
+must be noted. First of all, there
+doesn't seem to be the amount of
+pleasant feedback that SimCity had
+to offer. Whereas SimCity had roads
+full of traffic, evolving buildings and
+rapid transit constantly moving and
+changing, many of the SimEarth
+screens change subtly enough that
+one must constantly study the screen
+for each update or constantly be calling down reports. One of SimCity's
+strengths was the graphic representation of its subject matter.
+Many will feel like SimEarth has gone away from its strength.
+Players with a bent toward puzzle solving or empirical experimentation will not be dissuaded from enjoying the game as a result,
+but many of those who were captivated by SimCity will feel like
+something is missing. To offset the lack of visual feedback, there
+needs to be more reward and celebration for each plateau the
+player reaches.
+Second, the fact that the program immediately focuses on one
+sentient lifeform once it reaches sentience may be a realistic
+depiction of natural selection, but it takes away from some of the
+feeling of divinity. If, for example, one's civilization develops
+around trichordates and one brings them into the atomic age, vertebrates and mammals still may continue to evolve, but one cannot nurture them to the point where humankind evolves. This
+seems too limiting in a "god game."
+
+And It Was Good
+In the long run, SimEarth is more
+complex, challenging and fascinating
+than SimCity. Those who wish to
+master the game will have to do considerably more research than they did
+with its predecessor because the
+scope of the product is much larger.
+In addition, the game affords much
+more replayability because each Time
+Scale must be mastered independently before the entire horizon of
+planetary history unfolds in a "divine" masterpiece. There are
+many more nuances of strategy in SimEarth than there were in
+SimCity and that should be satisfying to serious strategists.
+Question: Why does an ordained Southern Baptist minister
+even play a game that assumes evolutionary development of the
+world?
+Answer: Possibly, such a minister needs to learn to express
+gratitude. This pastor's first actual SimCivilization groaned and
+fought its way into nuclear war. Frankly, he's glad that his creation can simply be rebooted.
+Maybe that is a large part of the appeal of systems simulations
+that put the player in godlike or God-like roles, the ability to
+wield cosmic power without the responsibility for actually destroying lives.
+
+Cartridge Game Coverage
+
+Firing Up the TurboExpress
+NEC's Hot New Hand-Held System
+by Roe R. Adams, III
+
+forcing players to immediately purchase
+an AC adapter (either one that plugs into
+the wall or into a car's cigarette lighter).
+The TurboExpress cannot use rechargeable batteries. As can be imagined, nothing is worse than getting involved in a
+really hot game and having the machine
+die from lack of power!
+
+ike the grinch, NEC may steal
+Christmas this year with its new
+hand-held TurboExpress. More than
+just a mere GameBoy rip off, it is the hottest and flashiest game item to be imported from the Japanese this year. This
+hand-held wonder features enough sizzling graphics and intense colors to practically command people to play.
+
+L
+
+TurboExpress' secret lies in its impressive technical innovations. This system
+plays the same standard TurboChip
+cards that the its larger base unit, the
+TurboGrafx-16 machine, already uses.
+This is important because American
+players have been suffering all year with
+Nintendo's GameBoy, even though a
+large number of units have been sold.
+Not only is the GameBoy a
+black-and-white machine, but it only allows play via
+its own unique type of game cartridges,
+which are quite different from those used
+in the basic NES (Nintendo Entertainment Systems) machines. Only a fraction of a regular NES games will fit on
+one of the GameBoy cartridges, even in
+black-and-white. This means that what
+the player gets is a greatly simplified,
+stripped-down version (in exchange for
+GameBoy's portability). Yet the
+clutch-and-carry nature of the GameBoy has so
+captured players' imaginations that the
+GameBoy has been a huge marketing
+success. Players have even spent the ad-
+
+ditional $20-$30 per title for each GameBoy cartridge!
+Now, along comes NEC's TurboExpress and it says to the players: "Color
+is beautiful" and "Don't spend another
+dime for special software." The question
+is, can NEC deliver the goods to back up
+all of these amazing claims? Let's turn to
+the holy specs sheet for the preliminary
+findings:
+Dimensions (in inches): 4.3 x 7.3 x 1.8
+Weight: One Pound
+Power: Batteries (6 AA) or AC adapter
+Play Time: about 3 hours
+Screen Size: 2.7" diagonal
+Pixel Resolution: 238 x 312
+Colors available: 512
+Colors On-Screen (at one time): 512
+Maximum Sprites (at one time): 64
+Sound channels: 6
+Price: $250.00
+These figures translate from the specs
+sheet into a machine that is, alas, a bit
+chunky; gobbles power like crazy; has an
+intense color screen with fabulous resolution; plays games with many things jumping, shooting, crawling around all over
+the screen; has really fine stereo sound;
+and is, of course, considerably more expensive than the GameBoy.
+Also, one should note that these features are not all "positives." The power
+consumption is truly awesome, almost
+
+Others might find the weight to be a factor also. The machine is somewhat large
+and hefty, but NEC has done some interesting ergonomic design twists to make
+playing the TurboExpress comfortable.
+The bottom of the top edge of the
+machine is beveled so that a player's
+palms rest easily when using the controls. The back panel is scooped out on
+both sides for fingers. The Active Matrix
+display eliminates ghosting and trailing effects and the screen is adjustably backlit
+for lessened eyestrain and gaming in the
+dark.
+Being able to play the entire line of
+TurboChip games (around 50 titles by
+this Christmas) is a major marketing
+coup for NEC and drastically lessens the
+cost of ownership of the TurboExpress.
+No matter how much a person spends
+on the machine, it is the cost of software
+that really determines how expensive a
+machine is to own. Another major factor
+will be that the player does not have to
+settle for stripped-down versions of his
+favorite games. He gets to play the
+original game in all its glory, thereby con
+tinuing to advance through a game while
+on the go. The TurboExpress also has
+four times the processing power of its
+competitor.
+Although no two-player telecom games
+exist yet for the TurboExpress, the
+machine does have a communications
+link on the bottom for hooking up to
+another TurboExpress.
+The piece de resistance in tempting a
+person to buy the TurboExpress is yet
+another marketing innovation. For an additional $80 (price not yet fixed), a special TV tuner can be attached to the side
+(Continued on page 69)
+
+Scorpion's View
+
+and machete. Auto-save, dontcha just
+love it?
+
+(Continued from page 12)
+another room, firmly tied, and without
+weapons. Since this is a location change,
+the game is saved (you guessed it)
+where you stepped on the bed. Thus, if
+you quit and restore (you must quit;
+there is no way to restore from inside the
+game) you find yourself back on the bed
+and one move in any direction will cause
+you to be captured all over again.
+
+Odd things happened at times, for
+which there seems to be no explanation,
+possibly due to faults with the auto-save.
+As an example, after taking BL Astor
+into the group, we couldn't get into
+Guns'N'Clutter until we handed over
+Ochoa's Rifle to Jake (as a bribe for BL's
+scummy husband). Some time after that,
+it seemed the game had forgotten this,
+and Jake wouldn't let us in. Then, further
+along the line, suddenly everything was
+fine again and we could go into the store
+to shop.
+
+A similar situation occurs in the Killer
+Clown fortress. If you go too far into the
+hallway of the main building, you are
+stopped by Clowns who demand your sur
+render. Agreeing to this gets you taken
+to another area, where you lose all your
+weapons, and are equipped with only a
+single .45 handgun, spare ammo clip,
+and a machete apiece.
+Should you quit here and restore, your
+party will be back in the main hall. It
+would seem at first that everything is fine
+... until you check your inventory, and
+discover that everyone is armed with a
+single .45 handgun, spare ammo clip,
+
+Combat is frequent, irritating, and not
+very well-balanced. The whole of Miami
+seems overrun with mutated spiders,
+rats, Dobermans, and wolves, plus the occasional snake here and there, not to
+mention unfriendly humans. It is difficult
+to take more than a few steps in any
+direction without running into something
+hostile whose sole purpose in life seems
+to be bringing about your immediate
+demise. It doesn't take long before all
+this constant fighting becomes an exercise in tedium.
+
+Fighting itself is in The Bard's Tale /
+Wasteland style: all text-driven; pick a
+monster group to attack and watch the
+results. For automatic weapons, you
+have a choice for single-shot, burst, or
+full automatic (uses up the entire clip).
+Explosives thrown at any group will
+damage all opponents. One of the few
+good things about combat is that characters will not fire if their target has already
+been killed.
+Monsters (anything unfriendly can be
+considered a monster here) never flee;
+they always fight to the death. Your party
+can try to escape, but usually this has little real value, except to give you a
+chance to quit the game and restore. Critters stay on the map, and will chase after
+you. Even when you change locations,
+they don't go away, and you can count
+on them to be waiting for you when you
+come back.
+Combat will be difficult until your party
+is equipped with reasonably good armor
+and weapons (such as assault rifles and
+explosives). At this point, you are able to
+blow away any opponent with relative
+(Continued on page 86)
+
+Sic Transit Gloria Mundi
+(Continued from page 50)
+but that there are very few old, bold generals. With these first two
+tournament rules in effect, the player is quickly challenged to become one of those few old, bold generals and the Marshal Blucher's
+among us will do quite well.
+Finally, there is the Rescue option. Akin to moving a pawn into the
+opponents back row in chess and converting it into another piece,
+the Rescue option allows up to two pieces per game to be "rescued"
+from the captured pile by moving onto a square in the opponent's
+back row. The newly arriving piece must be placed on the owning
+player's half of the board. Scouts may not perform a rescue, nor
+may bombs be rescued and reused.
+The consequences of this rule are enormous. No longer when the
+enemy's Field Marshal dies does one's Spy become naught but a
+slow Scout. One must, therefore, keep his Spy on waivers, because
+that enemy Field Marshal is the prime candidate for rescue! Piece advantage strategies are even less viable under this option than with
+the other two tournament rules. Suddenly, there is an element of
+more subtle maneuvering then the old "probe and hammer" tactics.
+Now a quick dash to the opponent's rear can yield substantial
+results. Even more, however, one must guard against deep enemy
+penetrations! The yin and yang of attack and defense become quite
+intense with the employment of this tournament level rule.
+
+Stratego's Defeats
+Stratego from Accolade, however, is not without its shortcomings
+and failings. Players will quickly notice that the last thing required to
+play this game is sound support. The game provides only an opening and closing tune, with very few sounds of note in between. Also,
+there is not a lot of graphic panache on the board once the game is
+
+underway. When one piece captures another, it is as dry as most
+chess programs, with no graphic reward to the victorious player.
+Critics are always right there looking backwards saying "it might
+have been nicer if...," and this reviewer is one of them. While certainly superfluous, Stratego might have been better off with Battlechesslike graphics and sound for movement and captures in this "
+VGA-graphics-and-sound-boards" day and age. The rattle of musketry, the
+yelling of "Charge!," or the explosion of bombs with related graphics
+would have added an element to the game which might have raised
+it a notch in today's MTV "quick thrill" market. Certainly, younger
+audiences would have preferred this to the rather passive new map
+and unit graphics.
+The real shortcoming to this reviewer, however, is the lack of any
+two-player capabilities. No Al routine will ever be as devious as a live
+human opponent, and not all computer gamers are the stereotypical
+anti-social nerds without friends (or "a life"). With the library of
+"modemable" head-to-head strategy games ever increasing in size,
+Stratego was the perfect candidate for this feature. While one may
+not always have the chance to stop watching the kids long enough
+to get together at his gaming buddy's house, a by-phone game is the
+next best thing. Besides, our eight-year olds could play each other
+with just as much enjoyment (there goes daddy's computer time!).
+Missing out on two-player options is Stratego's biggest miss.
+
+Capturing Stratego's Flag
+Even with its disappointments, Stratego will have a home on this
+reviewer's hard disk. It remains an extremely challenging solitaire
+game of remarkable diversity and subtlety, largely thanks to
+Accolade's fine supplement to the rules and vicious-playing artificial
+opponent. The trick, as is always the case when playing strategy
+games against the computer, will be not to accuse the computer of
+cheating when one loses (even when it does seem to always manage
+to dodge your bombs).
+
+TurboExpress
+(Continued from page 64)
+of the machine. This small wonder has
+an antenna to pick up local stations
+while traveling and a video-in port that
+can transform the TurboExpress into a
+portable color monitor for a camcorder.
+What versatility!
+One slight downside will be the limited
+availability for this Christmas. It is probable that only stores in New York, Los Angeles, and San Francisco will be getting
+allocations for the holidays. Widespread
+distribution will not occur until the Spring
+at the earliest. For those in the San Francisco area, be sure to check out NEC's
+first retail location. It is a kiosk called
+TurboZone in the Serramonte Mall in
+Daly City and is probably the best source
+to obtain one of these hot elusive
+machines.
+The impact of TurboExpress and NEC's
+innovative marketing strategy is sure to
+have profound affects on the game
+machine market in the United States for
+years to come. To see this machine in action is to fall in love with it.
+
+Review
+
+A Crystal-Clear Look at Citadel
+Adventure
+
+on the Macintosh
+
+by Dave Arneson
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Citadel:
+Adventure in the Crystal Keep
+Macintosh, IBM (December)
+$49.95
+David Pavan
+Postcraft
+Valencia, CA
+
+n CGW #44 (p. 36), reference
+was made to a product being
+developed for Mindscape's distribution program entitled Citadel.
+The reference noted " ...a unique
+approach to the command interface from earlier efforts;...". A
+later reference (CGW #45, p. 16)
+went on to say, "...offers the most
+unique character creation scheme
+that we have seen, ...." That was
+1988. Now, in 1990, the design
+team of Citadel has managed to
+market the game without
+Mindscape's distribution muscle.
+
+I
+
+Postscraft's Citadel: Adventure of the Crystal Keep still features an intriguing character
+generation system. Characters
+begin in the "nursery" where one
+gets to choose what sort of folks
+his/her parents were (reverse
+genetic engineering?). Whereas
+most games allow players to
+choose the character's race,
+Citadel allows them to choose
+the parents' vocations, as well. At
+this point, players are presented with a bar graph that shows
+where the character starts (statistics-wise) as a youth. Players
+must then choose how the character will spend his/her formative
+years (in work, study or play) and this, in turn, determines what
+classes one's character is eligible to participate in.
+This is a fascinating way to develop characters, but alas, everything is almost immediately translated into numbers, so one can
+only ask "Why bother?" Once the data is converted into numbers, the background is never again referred to in text. One tends
+to be a bit "let down" when all that intriguing work turns into
+simple number-crunching.
+Next, players create a "stable" of characters for the Inn. Once
+that is complete, it is possible to go to the Inn and add them to
+the party with only occasional difficulties. Oh, 'Bad' characters
+tend to shun their part of combat, but nothing grotesque like
+characters attacking other members of the party occurred to this
+reviewer's notice.
+The party needs to visit the shop, which has a limited inventory
+of overpriced items. It is a good idea to have one "money bags"
+
+character early on in order to help purchase the party's allocation of basic
+equipment. Note, however, that even
+when the party has enough money, it
+is not always possible to get what one
+wants.
+Speaking of the shop, there is
+another intriguing twist. At the point in
+the game when the party goes to sell
+the chalice, it is possible to haggle.
+Characters can refuse one offer and,
+in turn, the shop keeper will come
+back with another! After too much haggling, however, the man will close the
+shop for a week and really leave the
+party high and dry. Now, that is unique!
+By the way, there is no robbing or pillaging allowed within the village and,
+in fact, the village is really just a series
+of menu choices rather than an environment for the party to explore.
+The "edge of town" area with all the
+pointing signs is interesting, but even
+it is just a pretty picture and the signs
+only lead to fancy menus. It is impossible to walk around the town or surrounding countryside and get a sense
+of what the Citadel universe is like. Indeed, the universe is a dungeon and
+nothing more. So, it's off to the dungeon in order to build up those characters.
+The game has good dungeon graphics and there are some very
+nice animation routines. Also, Citadel's sounds are interesting.
+At least, that door closing behind the characters definitely sounds
+like it is closing and locking. This writer certainly ended up checking it out enough times. Players also have the option of personalizing their character icons. One's edited icon shows up well,
+even if it isn't in color on the Macintosh.
+Wandering about in the dungeon will quickly demonstrate that
+it isn't very big. However, one soon discovers that a lot of areas
+are closed off until the keys are located; one learns how to
+operate the elevator; and the secret doors are discovered. In
+other words, the dungeon offers standard fare with a few interesting twists.
+Now a good story can make up for a lot. Unfortunately, this
+one is run-of-the-mill. A nasty wizard imprisons a sexy good
+wizard and turns his attention to enslaving the world. Naturally, a
+(Continued on page 90)
+
+Review
+
+Buck Rogers Continues
+by Scorpia
+
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Buck Rogers:
+Countdown to Doomsday
+C64, IBM
+$49.95; (C-64) $39.95
+Bret Berry and Dave Shelley
+Strategic Simulations, Inc.
+Sunnyvale, CA
+
+There are six races: Terran, Martian, Venusian, Mercurian,
+Desert Runner, and Tinker. The first four are pretty much
+human, but the Runners and Tinkers are actually bio-engineering
+creations, combining both human and non-human traits. All
+races get various pluses or minuses to stats, so some are better
+suited for certain professions than others.
+Speaking of professions, as you might expect, they're a little different, too. This time the choice is among Rocketjocks (pilots),
+Warriors, Medics, Engineers, and Rogues (basically a thief type).
+A good party will have one of each, except Warriors, of which
+there should be two. Runners make the best Warriors, and
+Tinkers the best engineers.
+During character creation, it's necessary to keep the manual
+handy. Unlike the AD&D series, Buck Rogers: Countdown to
+Doomsday is very heavy on skills. Many are used during play,
+but a few aren't. Those that aren't used are clearly noted in the
+docs, so check the manual to be sure you don't waste points on
+something that isn't important.
+Skills come in two varieties: career skills and everything else.
+Career skills vary by profession: Battle Tactics for Warriors, Pilot
+Rocket for Rocketjocks, Bypass Security for Rogues, etc. Each
+time a character gains a new level, he or she is awarded points
+to distribute amongst the skills: 40 points for career skills, and
+20 points for everything else.
+k, all you rocket jockeys! It's time to strap in, blast off,
+and save the universe once again! Sinister doings are
+afoot, and only you can stop them!
+Replete with captures, escapes, rescues, combat, underhanded
+schemes, a nefarious villain, and a dastardly plot to uncover,
+Buck Rogers: Countdown To Doomsday is classic space opera.
+There's nothing especially deep about the storyline. It's the ageold tale of underdog freedom fighters versus tyrannical overlord.
+This time around, the underdog is NEO, the New Earth Organization, and the tyrant is RAM, the Russo-American Mercantile,
+which has something of a stranglehold on most of the planets in
+the solar system. Only Earth has broken free, and that freedom
+is still rather shaky.
+So NEO is recruiting to beef up the ranks, and naturally you
+sign on. You and your five friends, that is. As with SSI's AD&D
+line, you get to create a full party of characters for the game.
+However, since this is a high-tech environment instead of sword
+and sorcery, you'll have to adjust to some major differences.
+
+Since what is a career skill for one profession falls under "everything else" for a different one, it is possible for any class to learn
+any skill, although of course advancement in a skill outside one's
+profession is naturally slower.
+Still, this comes in very handy. One of the most important skills
+in the game is "Maneuver in Zero-Gravity". A lot of the party's
+time will be spent in areas that have little or no gravity, and how
+well a character can move or fight depends on the Zero-G skill.
+Wise players will beef this one up every chance they get.
+Other "everything else" skills that are helpful include Programming, Library Research, Befriend Animal, and Planetary Survival
+(none of these are career skills for any profession).
+A very nice feature is the "Leadership" skill available to Warriors. This allows you to control NPC's who temporarily join your
+party. If the Warrior makes his Leadership roll, one or more
+NPC's can be directed by you, instead of fighting on their own.
+This is especially handy when you're preparing to throw a bomb
+into the middle of the enemy! Nothing was more aggravating in
+
+Review
+
+the AD&D series than eager-beaver NPC's who charged into the
+fray just as your mages were letting loose with fireballs. Now, at
+least, you have a chance to avoid these little mishaps.
+Also as with the AD&D series, you have the ability to modify
+character stats before beginning play. I highly recommend
+making use of this feature, particularly since the higher your
+stats, the better some of your skills will be.
+All characters come equipped with a spacesuit (armor), bolt
+gun (weapon), and some money. These items are already
+equipped for you, since you get thrust into the action at the very
+start of the game.
+Just as the orientation for new recruits begins at NEO's
+Chicacorg center, RAM forces stage an attack. The base is taken
+completely by surprise, and it's up to your group to perform the
+heroics that will repel the RAM invaders. Once you've accomplished that little task, you are whisked away to NEO's
+secret orbital base, Salvation, and the game begins in earnest.
+At first, your assignment is of a rather humdrum nature: scouring space for old ships that NEO can cannibalize for muchneeded parts. Hardly what you were expecting after such a brilliant performance back on Earth, but fear not! That will change
+very quickly.
+Possibly, too quickly. It isn't long before you come across what
+appears to be an abandoned ship. Oddly enough, it looks to be
+in very good shape. That alone is enough to give anyone second
+thoughts, but our brave spacefarers won't get very far if they
+don't investigate.
+Once through the airlock, you have the feeling you just stepped
+onto the set of "Alien". No one's around, warning lights are on,
+and there's an unpleasant sensation that something (maybe
+many somethings!) is just lurking in the dark, waiting for you.
+This is an excellent place to save the game.
+As you explore the ship, you will find that the "somethings"
+aren't the worst of your troubles. A mysterious rash begins to afflict your party, first as a minor irritation, then as a major disaster, causing characters to go berserk. And you thought
+scavenging was dull!
+Fortunately, the condition can be cured if you find the right
+place and take the proper steps. Still, it's a little nerve-wracking
+to be walking around a death ship, wondering who will next fall
+victim to the mysterious ailment, while you're trying to find out
+what's going on, and fighting off nasties on top of it all.
+Once you're past this part of the game, you have more
+freedom of movement. While you will be getting regular assignments on Salvation, you generally don't have to go rushing right
+off. Take some time to visit the asteroid belt and planet bases, to
+see what's for sale in the various shops (not everyone has everything, and sometimes prices for items can vary considerably).
+This is a good place to talk about combat, as there is a fair
+amount in the game. First, it's much like that in the AD&D
+series; most of the commands, movement, etc., are the same.
+However (and it's a big however), this is high-tech, and the
+weapons make a big difference, thanks to RoF.
+RoF is "rate of fire". Handguns and rifles can be fired multiple
+times per turn. Rocket pistols, for example, have a RoF of 4.
+Anyone using this weapon gets to shoot four times with it. Of
+course, there's no guarantee you'll hit every time, but with four
+shots, you're likely to get in at least one strike, and maybe more.
+(By the way, most fully loaded weapons carry 250 rounds.) This
+allows the non-Warrior classes to be much more effective in corn-
+
+bat, a pleasant change from the usually inept performances by
+non-fighters in the fantasy series.
+It is, by the way, a good idea to have a small selection of different weapons for each character. Hostile robots are always popping up when you least want to see them, and they are generally
+immune to one or more types of weapons (so, for that matter,
+are several types of critters). In particular, the heavy combot (AC
+-4!) can't be hurt by lasers or rockets. Needle guns, bolt guns,
+heat guns, and good old-fashioned swords, however, will certainly
+do the job on it.
+Most importantly, the minute one of these things appears, drop
+a chaff grenade on it to keep it from using its primary weapon,
+the rocket launcher. This can do mucho damage to your team in
+a very short time. Once it's sitting in a cloud of chaff, though, it
+will switch to a needier, which is a trifle less painful. Everyone in
+the party should always carry several chaff grenades, as you
+never know who will be first to move.
+After combat, your medic will automatically try to heal anyone
+who's been injured. This is the only time healing is done by a
+party member. How much is done depends on the medic's skill
+in curing wounds, so most points should be put into healing
+light, Serious, and Critical wounds. "Diagnose" needs only 15
+points to be effective, so no more than that should be put into
+this skill.
+The ship itself has medical facilities, but these can be used only
+when the party is returning from outside. If there are injured
+people in the group, you are automatically queried on re-entry if
+you want to use the onboard medic. Finally, if you still need healing after this (or run out of medical supplies), several bases have
+hospitals to patch up the walking wounded.
+You have the option, from time to time, to avoid random encounters, if you're lucky. Occasionally, while meandering through
+an enemy stronghold, you will happen upon hostile inhabitants
+and be given the opportunity to hide from them. If this is success
+ful, the bad guys move along and you can then go your way
+without having to fight. My party seemed to do better at this
+when the Rogue had a good skill in Hide In Shadows.
+Combat resolution overall is extremely fast, although I can't tell
+whether that's due to the code or the speed of my 386. Either
+way, everything moves at a good pace, and fighting is usually
+over pretty quickly.
+
+Review
+
+The one place where combat lags terribly is ship-to-ship combat. This part of the game was not very well implemented. Basically, you fight enemy ships from time to time, but this is at your
+discretion since you can usually avoid a fight if you prefer. You
+will probably want to engage the enemy some, however, because
+you can use the hulks of your defeated enemies for salvage,
+which puts money in your special NEO account.
+This account is used to purchase fuel, repairs, and such at
+various bases. Fuel is the most important item; you can use it up
+pretty quickly during space travel, and there may not always be
+enough left to get back for a refill at Salvation (where ship maintenance is free). Thus, from time to time you simply must
+engage in space combat.
+The basic technique is to disable the enemy ship, then close so
+you can board it and take over the Engineering section, signaling
+victory for your side. Unfortunately, there aren't many options
+available here. Your ship has several weapons, most of which are
+rather weak lasers. The best weapons are fired by the pilot, who
+doesn't have the best chance at hitting. There is no skill at all for
+anything like "Ship's Gunnery", a surprising omission in view of
+the many other skills that are included in the game.
+Everyone simply shoots their weapons and hopes for the best.
+No maneuvering, no real tactics, nothing particularly special.
+Ship combat thus turns out to be more a static slugfest than anything else, and is the weakest part of the game.
+So, just what is all this fighting about, anyway? That's some-
+
+thing you must discover as you bounce around the solar system,
+going from the asteroid belt to the steaming jungles of Venus,
+the arid plains of Mars, and the satellite stations of Mercury. RAM
+is up to no good, and time is running out.
+In between, there are a few "side quests" you can undertake.
+They have no particular bearing on winning, but they provide experience, and being related to the overall plot, add a little extra
+spice to the game. Buck. Rogers makes a cameo appearance or
+two (including a brief stay with your party), as does Wilma Deering.
+The game moves quickly; there is always somewhere to go and
+something to do. In that sense, it is reminiscent of Pool of
+Radiance, where assignments were always waiting at the town
+hall. You are never at a loss for where to head next, so it's difficult to go wrong.
+Where Buck Rogers differs from POR is that everything, one
+way or another, relates to the central theme of RAM's sinister
+plot that must be uncovered. It all fits together nicely, and is thus
+very satisfying.
+Countdown To Doomsday is a fun game to play. Combat is
+well-balanced, the use of non-combat skills is good, the villains
+are nasty, and the flavor of the old-time serials is maintained
+throughout.
+Bottom line: Good, light adventuring and a nice change of pace
+from the fantasy line.
+
+Review
+
+Blue Max
+(Continued from page 24)
+
+Max allows one 2,000 rounds without flaw. Flight mechanics
+have been liberalized, although selecting the early Fokker III is a
+challenge to even the expert player.
+Even in a dogfight scenario, one can practice bombing and
+reconnaissance missions. But dogfights last until one lands; thus,
+the destruction of an enemy plane will generate another, until
+such time as one is killed or succeeds in putting the plane on the
+ground. Landing is not difficult, since it merely involves levelling
+out at a speed of 50 mph or less. The difficulty lies in terrain
+orientation. Although there are maps printed in the text, one can
+not access a strategic map in flight. Granted this is more accurate; it is just that in a product emphasizing the game aspects,
+one would wish to have geography play a less important role.
+Damage is generic, and the "lucky shot" does not occur. Flight
+continues until the plane simply incurs too much damage to
+remain in the air. Degradation of flight does occur (i.e. turning/climbing ability), but is equitably apportioned. Thus, there is
+no distinction between firing into the left wing root or the cockpit.
+
+Conclusions
+
+since only one key or input may be accessed by the computer at
+a time, the mechanics of pressing keys is somewhat clumsy (if a
+stumble-fingered opponent lingers on his key, one has to wait).
+A strategic mode allows input via the traditional board gamer's
+hexagon map (a la Yaquinto's Eagles or SSI's computer
+Eagles). After the moves (roughly 150 feet per cell) are locked
+in on the right screen, the left screen executes them in a cockpit
+perspective. If the enemy plane flies into one's sights, he may
+then fire in "real-time". The strategic mode can be played with
+variable time per turn and per flight; the designer recommends
+15 second turns and 20 minute flights.
+One may elect realistic or direct flight and bullets or crosshairs.
+The former options are more accurate in a historical sense, although they vastly increase the difficulty of the game. Realistic
+flight causes a novice to continually overcompensate, while bullets compel one to properly "lead" the target.
+In practice flight and action dogfight scenarios, each side has a
+balloon, which can easily be destroyed. In fact, balloon destruction may be too easy, since historically, they were surrounded by
+heavy concentrations of Archie (anti-aircraft emplacements).
+Three separate campaigns are included: Bloody April, the Battle
+of Amiens and the Ludendorf Offensive. Each campaign includes
+several missions, involving fighter cover, aerial reconnaissance
+and bombing of objectives.
+
+Game Play
+The designers and publishers of Blue Max note that it is a playing experience, and not a detailed simulation (though the packaging and advertisements for the game do not make this clear). Although the planes will stall, it is still possible to literally sit on
+one's tail and climb to 20,000 feet, or to do a complete loop. Historically, the vertical climb was impossible until the advent of the
+jet, and the famous "Immelman Turn" was devised because a full
+loop was impossible given the underpowered machines of the
+First World War, thus Max Immelman's half loop with a full twist
+was the most effective method to achieve a rapid 180 degree
+turn.
+While ammunition and jams were always critical factors, Blue
+
+Blue Max strives to give one a feel for World War I dogfighting;
+accuracy is sacrificed to gameplay. The aircraft are simply overpowered for their historical period, and the use of the wingover,
+the "Immelman" turn, sideslips, barrel rolls, etc. are ignored.
+The historical gamer may find the historical verisimilitude
+slighted too much to yield a simulator capable of being both a
+learning tool and an entertaining experience. However, as noted
+above, the game was designed for the general market; garners
+who are more into "game" than "simulation" should find Blue
+Max enjoyable.
+This reviewer would like to thank the staff at the USARSOC
+(United States Army Reserve Special Operations Command),
+Ft. Bragg, NC, for their permission to access the computers
+therein, without which this review would not have been possible.
+
+Bibliography
+The following media are recommended for further information:
+Anonymous, War Birds, George H. Doran Company, 1926.
+Diary of an American aviator during World War I.
+Hunter, Jack, The Blue Max, Avon, 1960. Probably the best historical fiction
+on done on World War I. Actually part of a trilogy
+which goes through World War II, the first novel is by far the
+best. Made into a movie of the same name with George Peppard
+and Ursula Andress, it is also mandatory viewing for anyone with
+an interest in the period.
+Leonardi, Alfred and Kaufman, Douglas, Ace Of Aces, Nova,
+1980. A novel wargame system using two pictobooks, allowing
+excellent playability and layered on rules for added realism.
+Several editions have been printed, e.g. Rotary Engine, Flying
+Machines, PowerHouse, Balloon Busting.
+Longstreet, Steven, The Canvas Falcons, Ballantine, 1970. An
+excellent history of World War I aerial warfare.
+Spick, Mick, The Ace Factor, Avon, 1988. An analysis of what
+makes an ace, with historical overview.
+Taylor, S. Craig and Peek, J. Steven, Wings, Yaquinto, 1981.
+The most detailed boardgame ever done on the period. The
+aircraft data files alone are enough to recommend this.
+
+Ode to
+Nobunaga
+(Continued from page 44)
+given via another series of menus and
+sub-menus.
+Thus far, that sounds almost exactly
+like Nobunaga's Ambition and the rest
+of the company's games. In Nobunaga's
+Ambition II, however, there is yet
+another wrinkle. Now, players have the
+option of ordering their units to "Flee" to
+the castle. Once inside the castle, the opposing forces will have to storm one of
+the gates and make their way to the
+inner fortress in order to attack the
+player's units. Since selection of this option introduces yet another high-resolution tactical map with gates, walls,
+moats, fences, towers and the inner
+fortress, outnumbered players will find
+that the castle option can use up time
+which can, in turn, turn the tide of battle.
+Also, like the earlier Koei games, the
+player(s) has (have) a choice of, at least,
+
+two scenarios. One scenario offers a
+chance for the daimyo to take one fief
+and conquer the others in order to forge
+his shogunate and the other allows the
+daimyo to enter the game as Oda
+Nobunaga with a hefty edge in the number of fiefs controlled. In single-player
+games, the "Nobunaga's Ambition"
+scenario (which begins with an intact empire) offers enough strategic challenge to
+test the finest player's skill and is possible to play through in a few hours.
+In multi-player games, most garners will
+find the scenario where each player
+begins with one fief to be the most playbalanced. Also, in multi-player games,
+human players should choose fiefs on
+outer boundaries far away from each
+other. This allows time to build up one's
+empire economically and militarily prior
+to having to face a human player's forces. Since the computer opponents are
+even more ruthless in Nobunaga's Ambition II than they are in the original game,
+it's important to work them over before
+the human players start to work on one
+another.
+
+Nobunaga's Ovation
+About the only negatives that this
+reviewer can voice about the new game
+is that it doesn't offer sound card support, still features a clunky menu-driven
+interface (with no short-cuts), and
+doesn't support direct-connect or modem
+play to help facilitate those multi-player
+games. Still, Nobunaga's Ambition II
+features graphics which are far superior
+to the original game, more in the style of
+Genghis Khan and Bandit Kings of Ancient China. In addition, the economic
+model is basically the same, but the overall strategy is more challenging due to
+the use of body points (to purchase actions), necessity of leadership requirements (as in Bandit Kings, one must
+have enough samurai to be able to field
+the appropriate number of men), and
+more ruthless computer opponents.
+Along with these refinements comes the
+addition of the extra tactical screen for
+the castle siege sequence. All in all,
+Nobunaga's Ambition II is an enhanced
+package that should please all the fans
+of historical simulations.
+
+Hawk's Revenge, I thought I would write to you to clear up a couple of
+points raised in your preview article.
+
+(Continued from page 7)
+premium on the former and look upon the latter as secondary. We
+will include articles on strategy/tactics when possible, but the bulk
+of the magazine will continue to be news and reviews. As for the
+index, we intend to make one available in the very near future.
+
+BattleTechnicalities
+As the original producer for Infocom's game BattleTech: The Crescent
+
+First, as most importantly, the article gave the impression that there
+were only six missions in the game. That is 21 missions off. There are actually twenty-seven missions in all, though a player will not play all of
+them every time he or she plays through the game. What was described
+as the end of the game is merely the conclusion of the first segment—approximately 1/4 of the game. The story continues through the rescue of
+Jason's father, his assumption of command of larger and larger units,
+and eventually, a transition to the 3050s and the start of the Clan Wars.
+Jason eventually must lead his unit in important actions in the final showdown between the Inner Sphere and the Clans on Luthien.
+It should also be made clear that the game is
+
+not a CRPG. The package is quite clear on that
+and there is no intent to mislead. Thus, as the article states, there is no exploration, aliens (there
+are none in the BattleTech universe), strange artifacts and the like. Nor should anyone expect
+there to be. The game is about combat and
+leadership. Over the course of the game, Jason
+must learn to act as a commander rather than
+an individual warrior. He must command larger
+and larger forces and the welfare and success of
+all those forces must be taken into account. The
+core of this is the idea that you do not directly
+control other units. Rather, you give them orders
+and goals to accomplish. Since each pilot is unique and each machine has its own capabilities,
+those units' behavior is not always completely
+predictable. This is part of command.
+Finally, I don't doubt that many of the difficulties in control and understanding of the game
+(and the mechs) will be resolved by the final
+documentation.
+On a completely different issue, there is a
+small error in your review of Phantasy Star II
+from SEGA (my current employer). In the article, you refer to the game as a six megabyte
+game. This is wrong. It is a six megabit game.
+This is the difference between 6,291,456 bytes
+and 786,432 bytes! It is a common mistake,
+especially from those of us who got our start in
+the computer industry. Cartridge games are traditionally measured in megabits, where one
+megabit is the same as 128K in computer
+speak. This tradition came to our shores with
+the Nintendo. In Japan, measurements tend to
+use smaller units and larger numbers—just try
+paying a hotel bill in Tokyo where 150,000 yen
+is not all that uncommon!
+Scott Berfield
+Foster City, CA
+
+Thanks for the information. Our sneak
+preview was based on an early build in
+which only six scenarios were present. We
+will cover the twenty-one other missions In a
+later review. Sneak previews are designed to
+present the "flavor" of a game, whereas
+reviews are expected to be more thorough.
+The preview did emphasize the non-role-playing aspect of the game (primarily because it
+is being released under the Infocom label),
+and compared the product favorably to the
+very successful boardgame.
+As for the megabit typo in the Phantasy Star
+II review, it is interesting that we printed the
+correct "divide by eight" formula in our Industry update on page 28 of the December
+issue. So, we knew better, but the error
+slipped through, anyway. We had never really thought of the Japanese cultural disposition toward larger numbers, but find it an interesting observation.
+
+Scorpion's View
+(Continued from page 67)
+ease, except for Killer Clowns, who are
+practically super-human in their ability to
+take punishment and deal out death with
+remarkable speed.
+The only way to handle them is with full
+clips of ammo and plenty of explosives,
+preferably plastic, especially when they
+show up in numbers greater than one.
+Your best bet when running into them as
+a random encounter is to run, quit, restore, and hope you don't see them
+again as you make your way to wherever
+you're going.
+In the wilderness, you can occasionally
+see something (always hostile) coming;
+indoors (inside Miami), you generally
+don't have such luck, unless you ran
+away from it before. All combat is
+preceded by annoying beeps from the
+game (very annoying, given the number
+of encounters), in case you haven't been
+watching the screen to see the "Oh oh!
+Trouble!" message.
+One of the biggest dangers involved
+with combat is mutations. A bite from
+any mutated animal will eventually cause.
+mutations in the character bitten.
+The mutation will give the character a
+new ability (most of which didn't seem to
+be worth much), but has the unfortunate
+side-effect of slowing healing rate to practically nil.
+
+Ordinarily, a wounded character will
+recover points automatically as time passes in the game. Mutated characters, however, either heal not at all or so slowly
+that it isn't worth thinking about. Then
+you have to go to a doctor and pay for
+recuperation. By the way, having someone with Doctor skill in the party does no
+good in this respect. Party members with
+Doctor skill cannot heal injuries as in
+Wasteland.
+This negative side-effect can be suppressed temporarily (usually two days)
+by drinking some DeSoto liquor or some
+healing water. However, drinking the rum
+has its own side-effect of making the character inebriated, and the party as a whole
+tends to move erratically thereafter,
+going in directions you hadn't expected,
+even though only one may have had any
+liquor to drink. There's no credit for
+having a designated adventurer in your
+party.
+Mutations, in both my experience and
+that of others who played the game, also
+appear to happen spontaneously at
+times. A character not exposed to
+mutagens by animal bite will suddenly
+come down with a mutation, for no apparent reason and with no prior warning.
+Early in the game, you can visit Dr. DeMedici who is able to cure mutations, but
+later his compound is trashed by the
+Clowns. After this, you must rely on the
+stopgap measures of rum and healing
+water.
+Overall, the game is dull and mechani-
+
+cal. The plot makes no sense at all. The
+Bahia Mafia have no connection with anything relating to the fountain; putting
+them out of business is just a "make-do"
+segment. The DeSotos use small
+amounts of fountain water in their rum
+(hence the mutation-suppressing), but
+are basically a dead end, since you don't
+really learn very much about where the
+water comes from.
+It is not until you rescue Wilfred in the
+swamp (where you go because there
+isn't any place left except the Clown compound) that some glimmer of light appears. This immediately ends the feud between the Obeahs and the Beachcombers (amazing, as up to this point
+they have been bitter enemies), and tells
+you the source of the water is in the
+swamp in the hands of intelligent animals.
+When you finally get to talk to the intelligent mutated critters in the swamp,
+everything is patched up by Gramps and
+Doc Brewhoe. These two have known
+what was going on for a long while, but
+it's not until you wipe out (or seem to)
+half the population of the area that they
+feel it's time to get things settled once
+and for all. Why they couldn't have done
+this long before is never explained.
+There is, though, one good thing: FOD
+is one of the fastest-loading games I
+have ever seen. That, combined with no
+copy protection (but then, a product like
+this probably doesn't need any), makes it
+very handy for the many, many times
+you will be quitting and restoring. One
+might almost think the game was
+designed with that in mind.
+So with faulty design throughout, "features" designed to aggravate, incessant
+and boring combat, and a storyline that
+doesn't hold together, my personal
+opinion is simple: don't buy this game.
+Period.
+Whew. I'm glad that's over with (bet
+you are, too). So let's move on to the
+usual: if you need help with an adventure
+game, you can reach me in the following
+ways:
+On Delphi: Visit the GameSIG (under
+the Groups and Clubs menu).
+On GEnie: Stop by the Games
+Roundtable (type: Scorpia to reach the
+Games RT).
+By US Mail (remember to enclose a selfaddressed, stamped envelope if you live
+in the United States): Scorpia, PO Box
+338, Gracie Station, New York 10028.
+Until next time, happy adventuring!
+
+Reader Input Device
+
+Conversions Received
+
+A-10 Tank Killer
+(Dynamix) Amiga
+Balance of Power — 1990
+Edition (Mindscape) IBM
+Buck Rogers (SSI) C64
+Conquests of Camelot
+(Sierra) Atari ST
+Earl Weaver Baseball
+(EA) Mac
+Faces (Spectrum Holobyte)
+Mac
+Jack Nicklaus Championship Courses of 1990
+(Accolade) Amiga, Mac
+Jack Nicklaus Unlimited
+Course Design
+(Accolade) Amiga
+King's Quest — Enhanced
+Version (Sierra) IBM
+Loom (LucasFilm) Amiga
+M-1 Tank Platoon
+(MicroProse) Amiga
+Shadow of the Beast
+(Psygnosis) Atari ST
+Where in the World is
+Carmen SanDiego?
+Deluxe Edition
+(Broderbund) IBM
+Where in Time is Carmen
+SanDiego? (Broderbund)
+Amiga
+
+Review
+
+A Crystal-Clear Look...
+(Continued from page 70)
+call goes out for heroes to go get him and end the menace. (Insert auditory track for Andy Rooney voiceover here:) Did you
+ever wonder why simple adventurers were called upon to do
+things that the greatest wizards in the world couldn't handle?
+Just think about it! Anyway, the story is nothing special.
+
+Body Blows (Combat)
+As Scorpia so correctly pointed out in a recent editorial (CGW
+#76, p. 44), combat is the one area of CRPGs whose importance
+is unquestionable (as well as an area where the publishers can
+make greater strides). Citadel does not make it on this score.
+Combat is slow and hard to follow. Players will need to turn off
+the "hit" boxes if they want to see what is happening on screen.
+Unfortunately, that will mean that they will not be able to tell how
+badly their party members are being trashed!
+Character movement must really be done one character at a
+time. That is, assuming the bad guys give you that much time.
+Auto-combat should have solved some of this problem, but, unfortunately, the auto-combat mode is even slower than moving
+characters manually. In auto-combat mode, it seems like characters attack from left to right, as well as without regard to anything. So, one at a time they fling themselves on more powerful
+foes and get eaten alive. Manually, the same foes could be
+beaten and done so more quickly, too! When characters are on
+the right side of the screen, their moves are almost totally passive. Long minutes go by when nothing happens and then a
+slight shuffle occurs followed by more nothing!
+Why so slow? One would almost think that the Al was carefully
+adopting a low-risk attitude, but the exact opposite is true when
+the characters are located on the left hand side of the screen.
+Frankly, even SSI's venerable Wizard's Crown seemed to do
+more things quicker and better on an 8-bit Atari.
+There is the usual assortment of weapons, all of which are, at
+least, slightly different and are used differently by the characters.
+Bows are extremely useful, but there are only four arrows in a
+quiver (four!). So, any character with a bow ends up sticking
+them in pockets, belts, and other characters' pockets and belts,
+etc. Even going to the latter extreme, one is more than likely to
+use them up in one encounter.
+Yours truly also managed to shoot one of the members of the
+party during one encounter. That would have been all right, but
+the arrows killed the good guy with one shot. That never happens with the bad guys!
+Another problem is that it is tough to develop the characters
+fast enough to meet the inevitable challenges to come later in
+the game. In one game, there was only one Goblin-like monster
+to be found on the first level and a handful of skeletons located
+on the second level. This meant that the party was still first level
+when it reached the third level. There, the nasties were coming in
+groups of six to nine high-level monsters at once. It is most discouraging to get trounced so quickly.
+
+Spell Binding (Magic System)
+Magic "Play" is one feature that is not slow in Citadel. The special effects are very nice and the use of rune symbols add a nice
+touch. Also, forcing characters to carry around that "Spell Book"
+helps to make such an artifact more real. Being able to share
+that book among the magic users in the party offers extra value,
+
+too, along with the capacity for creating one's own scrolls. This
+critic finds the magic to be handled much better than in games
+which use simple inventories and lists!
+Unfortunately, the cute "Rune Menu" gets tedious to use after a
+while. Much of it can be "Macroed," but there are enough
+decisions to be made when casting spells that Macros cannot do
+everything. So, ultimately, all the "neat" stuff that makes the
+magic system unique ends up slowing the gamer down as the
+game progresses.
+
+Puzzling Perceptions (Puzzles)
+There are only a few, but here is an example. You enter an Alcove where there is a stone carving of a Death's Head on one
+wall. Pointing and clicking on one of the two round "jewels"
+results in the statue becoming animated and stating, "To pass,
+you must know whence I came to this keep." Those who are
+alert will probably figure out that the answer must concern Nequilar (The bad dude who sank the Citadel into the mountain). If
+one knows that Nequilar came to the Citadel 53 years ago in the
+Spring and 'sank' it six months later, one can assume that the
+answer is "Spring," the season in which Nequilar came to the village (as opposed to six months later when he 'sank' the keep). It
+is not explained, at this point, why the carving (seemingly a part
+of the Keep built hundreds of years ago) "is" Nequilar, nor how
+the player is supposed to discover this.
+Players will also discover that even when told that their characters can't carry any more (in terms of weight, not number), they
+actually can. One merely shuffles things around, puts them in
+pockets, or arranges them differently and "Voila!," it becomes possible to carry another item.
+
+Final Inventory (Conclusions)
+Players will need, at least, a Mac Plus with one megabyte of
+RAM and 6.02 (or later) system software. MAC II owners need to
+set their CRTs to Black & White mode with two colors (instead of
+256) before starting Citadel: Adventure of the Crystal Keep.
+The game supports a hard disk, which is definitely recommended.
+This writer finds Citadel: Adventure in the Crystal Keep very
+disappointing, even though he was predisposed to like the game.
+The character generation and magic system are both quite interesting initially, but the one translates into the old 'number
+crunch' and the other becomes tedious after the first few times.
+Simply put, it falls short. One pretty much hacks his/her way to
+victory and there is no genuine sense of "role-playing."
+
+Taking a Peek
+(Continued from page 6)
+the digits zero through nine feature
+prominently in it. Fortunately, there
+are over 60 different animated
+responses to these numbers, each
+with our favorite Disney characters.
+Note that both "ABC's" and "123's"
+are supported by the SOUND
+SOURCE ($34.95), which adds
+voices, music and sound effects not
+available on the internal speaker (although no other sound systems are
+supported). IBM ($49.95). Circle
+Reader Service #4.
+Dynamix
+c/o Sierra
+PO Box 485
+Coarsegold, CA 93614
+STELLAR 7: The old Apple and C64 game has come to life fleshed
+out with full polygon-filled 256 VGA
+color graphics, sound support and
+lots more action. Arcade action marches on! IBM ($34.95). Circle Reader
+Service #5.
+Electronic Arts
+1820 Gateway Drive
+San Mateo, Ca 94404
+THE IMMORTAL: It's you against
+the odds in this 3-D fantasy adventure. Wander through the labyrinth,
+slay the monsters, collect all the
+goodies and, most importantly, take
+a nap on the bed of straw! The live
+action battles are manageable, even
+for non-arcade gamers, and there is
+plenty to explore. Amiga, Atari ST
+Apple IIGS ($49.95). Circle Reader
+Service #6.
+MAGIC FLY: Arm your spaceship,
+cadet. We're sending you off to the
+huge asteroid to zap the enemy.
+Akin to "Tunnels of Armageddon"
+(California Dreams), with a spaceace race flavor as you search and
+destroy your way to arcade happiness. Amiga, Atari ST ($39.95).
+Circle Reader Service #7.
+Electronic Zoo
+3431-A Benson Avenue
+Baltimore, MD 21227
+BLACK GOLD: There's a heck of a
+good economic model of huge multinational oil operations in that game
+
+box. The bad news, though, is that it
+is wrapped around some arcade sequences which will keep this game
+from being one for the pure
+strategists. Amiga ($39.95). Circle
+Reader Service #8.
+Interplay Productions
+3710 S. Susan #100
+Santa Ana, CA 92704
+BATTLECHESS II, CHINESE
+CHESS: This second in the Battlechess series looks at the ancient
+game of Chinese Chess (with cannons, ministers, et. al). Players move
+along lines rather than into squares
+and the board is divided by a river
+(representing the Yangtze). The
+Yangtze becomes the player's
+Rubicon in this mental battle where
+resonant sound effects and hilarious
+animations offer amusing respites
+from the cerebral exercise of the
+game. IBM ($49.95). Circle Reader
+Service #9.
+
+Live Studios, Inc.
+30151 Branding Iron Road
+San Juan Capistrano, CA 92675
+THUNDER STRIKE: TV ratings are
+the goal, and the Military Olympics
+is the name of the game that gets
+the ratings. The player flies his
+fighter along a "track" or the contours of the ground, defending his
+base, attacking enemy generators,
+all the while keeping the ''show" exciting enough to maintain the ratings
+needed to dominate the world. 3-D
+vector graphics neatly wrap up this
+arcade flash & zap shoot 'em up.
+IBM ($39.95). Circle Reader Service
+#10.
+Odyssey Software, Inc.
+P.O. Box 367
+N. Eastham, MA 02651
+SUPER GAMES PAK: Three arcade
+classics "redone for the 90s" constitute this game package. Deathbots
+
+Taking a Peek
+
+is the near reincarnation of Berserk
+(one can almost hear the Cylonesque voice calling out "Intruder
+alert! Intruder alert!"). Jail Break is a
+descendant of Breakout and
+Arkanoids, and Byteman (pictured)
+is... Well, if you can't figure that one
+out, you won't be able to find the
+on/off switch on your computer,
+either. IBM ($39.95). Circle Reader
+Service #11.
+MicroLeague Sports Association
+2201 Drummond Plaza
+Newark, DE 19711-5711
+MICROLEAGUE FOOTBALL: This
+is a fine, statistics-based manageroriented NFL football game. Players
+"coach" their teams to victory or
+defeat, based on plays selected and
+real NFL statistics. Add on disks are
+available for drafting and trading
+players, plus another for great
+teams/players of the past. A
+statistician's delight. IBM ($39.95).
+Circle Reader Service //12.
+Psygnosis Ltd.
+South Harrington Buildings
+Sefton Street, Liverpool L3 4BQ
+United Kingdom
+THE KILLING GAME SHOW: In
+French, German, Italian or English
+you can play in the game show of
+your life (or, more likely, death). The
+floodwaters are rising throughout the
+16 pits of death. Amiga. Circle
+Reader Service #13.
+SHADOW OF THE BEAST II: This
+sequel continues the story as the
+Beast Mage has kidnapped your
+sister. Across the various screens are
+the foes to face and friends to help
+in the quest. Amiga. Circle Reader
+Service #14.
+SPELL BOUND: A one or two
+player standard Psygnosis arcade action game, this one has the player(s)
+out to rescue their tutor so that they
+might graduate. Amiga. Circle
+Reader Service #15.
+Sierra On-Line, Inc.
+Coarsegold, CA 93614
+JONES IN THE FAST LANE:
+Previewed in CGW #72 (June, 1990)
+as Keeping Up With Jones. IBM
+($39.95). Circle Reader Service -#16.
+
+OIL'S WELL: While the player will
+spend considerable time breaking
+new ground, this latest offering from
+Sierra doesn't. Touted on the back
+of the box as "...mindless entertainment for your home computer," this
+Lock 'n Chase game with land mines
+will certainly find a place with the
+quarter-pumpers out there. IBM
+($34.95). Circle Reader Service #17.
+Spectrum Holobyte
+2061 Challenger Drive
+Alameda, CA 94501
+OPERATION FIREFIGHT: This is
+the second mission disk for
+Spectrum's extremely successful Falcon F-16. The enemy is invading the
+player's territory, so much is involved in air-to-air combat. Soviet
+Hind helicopters and T-80 tanks provide some new challenges. Amiga,
+Atari ST ($29.95). Circle Reader Service #18.
+
+I
+
+Editorial
+
+Please release me
+T
+
+he State of the Industry: With
+
+computer games growing larger
+and larger (a direct result of an implicit standard for VGA graphics and
+sound board support), software publishers have had to stretch and strain in
+order to get their anticipated Christmas
+products on the shelf. As this issue goes
+to press, CGW still awaits more than 50%
+of the announced Christmas titles for
+1990. Some advertisements have already
+appeared multiple times in our magazine,
+but we have yet to see the finished
+product.
+As a result, many of our readers have,
+in the language of Horatio Hornblower,
+taken the wind gauge and opened up a
+broadside upon our stern. They are
+furious that we, allegedly in collusion
+with the software publishers, have
+whetted their appetites for new product
+and forced them to wait. Further, even
+though we at CGW try not to publish
+specific release dates (hedging references to seasons, quarters, and prior to
+the end of the year), we regularly receive
+a pounding from the readers when companies miss their announced release
+dates.
+Therefore, it seems like we need to take
+a little time to let the smoke clear and
+make sure we're fighting the right
+enemy. In reality, there is not only an absence of collusion with regard to pre-advertising products and missing release
+dates, but such realities are a disappointment to all parties concerned (the publishers, press and public). At CGW, we
+would like to see a revision in the way
+release dates are handled. First, we recog
+nize the necessity of informing one's distribution and retail channel about the expected availability of a product. Release
+dates were originated, believe it or not,
+primarily as a means of providing advance notice to retailers and distributors.
+They have evolved from a "tool" for the
+marketing channel and "goal" for the
+production department into a perceived
+"commitment" by the consumers and, at
+least, a portion of the press.
+CGW suggests, however, that communications to the marketing channel be
+filled with "weasel words" from the very
+beginning. News releases and product information sheets should honestly
+espouse information like, "We are targeting a mid-July release of The Madwoman of San Diego and anticipate a
+possible four- to six-week delay, should
+we run into technical difficulty." To be
+
+sure, there would still be delays and confusion, but accusations of "vaporware"
+would be disingenuous. At CGW, we
+have been attempting to reduce the impact of targeted release dates for some
+time, but it would help if the marketing
+departments injected some room to
+maneuver in their communications, as
+well. Our mailbox on the PRODIGY Interactive Personal Communications Service is continually full of messages stating, "November 15th was the national
+release date for Invasion of the Used
+Car Dealers. Where is it? And why have
+you been advertising it for three
+months?" These frustrated queries cannot be good for the industry.
+As for the pre-advertising issue, this is a
+result of the current market environment.
+Companies have to create early demand
+for products because new products have
+a limited amount of time to prove themselves on the shelf. They have to commit
+to an advertisement months before the
+cover date of the magazine in order to be
+assured of a position in that issue. So,
+when one of their producers tells the
+marketing department that the Advertising Blimp Simulator is six to eight
+weeks away, the company commits to
+the ad. Then, when they find out that the
+"Vic-20" driver doesn't work with a
+"Fender" soundboard in place, it takes
+two weeks to a month extra to fix it and
+everyone is upset. We encourage readers
+not to assume that a product is going to
+be immediately available when they first
+see the ads. Rather, an ad should simply
+be an early indicator to start watching for
+a given product. Together (press, public
+and publishers), we can change our understanding of release dates.
+State of the Magazine: The Rumor
+Bag Guy has asked that we assure
+readers that he prints every solid rumor
+he can in "The Rumor Bag." The fictional
+wrap is intended to round out the page
+and offers its own puzzles for industry insiders. To those who have requested less
+fiction and more rumors: Please remember, the Rumor Bag Man is a sensitive
+guy and is devastated by your uninformed request. There would not be any
+more rumors in the column if the fiction
+were removed. Instead, it would revert to
+a half-page column and many regular
+readers (who like the fiction) would be
+disappointed. So that the Rumor Bag
+Guy will feel better, please write him a letter letting him know what a swell guy he
+is (flowers are nice).
+
+

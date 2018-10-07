@@ -1,0 +1,2740 @@
+May 1990
+
+Number 71
+
+Features
+Sneak Preview: SSI's "DragonStrike"
+
+14
+
+Survival Techniques for M-1 Tank Platoon
+
+18
+
+57
+
+Sneak Preview: "Sid Meier's Railroad Tycoon" 60
+Definitely On The Right Track / Russell Sipe
+
+Background for Microprose's Simulation / J. Mitchell Cobb
+
+Baseball Without Pictures
+
+Data East's "Batman"
+Wait Till You Get A Look At This! / David M. Wilson
+
+A "Fantastic" Simulation / Johnny L. Wilson
+
+20
+
+Statistics-Based Text Games / Duane E. Widner
+
+Vote For The Best Games of 1989
+
+22
+
+Ballot for the 1990 Origins Game Convention Awards
+
+Star Trek: The Next Generation
+
+24
+
+Scorpia Offers Hints For 'The Transinium Challenge"
+
+What's New In Computer Sports Games?
+
+26
+
+Basketball, Boat Racing, Boxing and More / Wyatt Lee
+
+"2088: The Cryllan Mission"
+
+34
+
+An Apple IIGS Adventure Game / Dennis Owens
+
+EA's "Indianapolis 500: The Simulation"
+
+38
+
+A Race Car Driver Looks At The Game / Barry Werger
+
+Scorpia Stings Playtesters
+CGW's Newest Column Talks About Playtesting
+
+42
+
+Departments
+Taking A Peek
+Editorial
+Over There (European Games Report)
+Rumor Bag
+Game Ratings/Hall of Fame
+Inside The Industry
+Letters
+Conversions Received
+Reader Input Device
+
+6
+8
+10
+12
+32
+50
+63
+64
+64
+
+Taking a Peek
+
+Access Software, Inc.
+545 West 500 South, #130
+Bountiful, UT 84010
+CRIME WAVE: This game may not be
+for everybody, but with the plethora of
+gratuitous violence and titillating
+animated scenes of the President's kidnapped daughter (A VERY sexy young
+lady!), you can bet it tries to be. Non-stop
+killing, maiming, bloodletting, and flying,
+burning body parts dash across the
+screen (only broken up by the animation
+sequences between the President's voluptuous daughter and her vile kidnappers).
+Don't kid yourself, though, the graphics
+of the girl are completely state of the art!
+IBM ($59.95) Circle Reader Service #1.
+
+Accolade
+550 South Winchester Blvd.
+San Jose, CA 95128
+EUROPEAN CHALLENGE: This is the
+new "Test Drive II" scenery disk which
+takes you on a whirlwind tour of some of
+the toughest roads and countrysides that
+the Old Country has to offer. The Dutch
+countryside, the German Autobahns, the
+Swiss Mountains, the French Riviera, the
+castles of Moorish Spain and more await
+
+you as you put the pedal to the metal.
+Travel stickers optional. IBM ($21.95).
+Circle Reader Service #2
+GUNBOAT: THE RIVER COMBAT
+SIMULATION: Drop your jammies and
+grab your cammies, because you're in for
+the river ride of your life (or death)! This
+simulator style action game puts you in a
+U.S. Navy river patrol boat with three missions to survive. First, it's off to 'Nam to
+deal with those pesky Cong. Next, you'll
+find yourself on the rivers of Colombia
+dealing with the drug cartels, and then,
+it's off to Panama to oust the dictator.
+The documentation is first rate, the commands fairly easy and the action gets
+hellfire intense. IBM ($49.95). Circle
+Reader Service #3.
+HEAT WAVE: If power speedboat racing
+is your thing, you might warm up to Heat
+Wave. With four muscle boats to choose
+from, you decide how much gas and how
+many spare parts you'll need to carry you
+through the race before it even begins.
+Several courses are provided for variety,
+
+but you'd better be pretty handy cutting
+through the chop, or Heat Wave will
+leave you all wet. C-64/128 ($29.95),
+IBM/Tandy ($39.95). Circle #4.
+JACK NICKLAUS COURSE DISK VOL.
+II: This adds three more courses for "Jack
+Nicklaus' Greatest 18 Holes of Major
+Championship Golf" from Accolade. The
+new courses include: the Australian Golf
+Club, Saint Creek Golf Club, and St. Mellion Golf & Country Club. IBM ($19.95).
+Circle Reader Service #5.
+
+Artdink
+c/o Seika Corp.
+20000 Mariner Avenue, Suite 100
+Torrance, CA 90503
+RAILROAD EMPIRE: With the clock running day and night, your challenge is to
+build a transcontinental railway within
+one year. Building it, however, is only a
+small problem. As you expand, you must
+also manage it. Making the trains run on
+Continued on page 54
+
+Editorial
+
+The Play Is The Thing
+R
+
+ecently, when members of the Software Publishers Association were being asked to vote on the best software
+products of 1989, CGW received a fascinating protest letter
+in which the author urged the SPA members not to vote for any
+product which allegedly glorified war. Later, when the editorial
+staff attended the Computer Game Developers' Conference in
+San Jose, one speaker eloquently prophesied against the destructive machismo of nationalism which allegedly undergirds both
+simulations of military vehicles and traditional wargames. Judging
+from other comments and BBS messages which have come to
+this editor's attention, this anti-wargame perspective seems to be
+growing.
+Although almost anyone who has observed the evolution of
+computer games over the last decade could have seen this
+neo-fundamentalism coming, it is still disconcerting to see continuing
+confusion with regard to what play or, perhaps, art actually is.
+Within the rapidly shifting context of our current social environment, it seems to be inevitable for both those who are politically
+on the left and those who are on the right to jump to hasty
+generalizations regarding the causes and effects of society's ills.
+Is there an increase in teen-aged suicide? The radical right
+would have us to believe that the simple cause may be found in
+less-than-wholesome rock lyrics and fantasy role-playing games.
+Is there an increase in violent crimes? Some would have us
+believe that violence on television and in films is the culprit. Does
+pornography cause sexual crime or do those who are already sick
+enough to be drawn to those crimes simply add pornographic
+material to their already perverse repertoire? Now, it appears that
+the same leftist mentality that believes banning war toys will stave
+off our violent society may be targeting computer wargames, as
+well.
+This belief is, in fact, a hasty and unreasoned generalization.
+There are many wargamers and wargame designers (both on the
+boardgame side and the computer game side) who are, quite
+simply, pacifists. In the early 1980s, a Southern California
+television station covered a local gaming convention and showed
+about two minutes of resplendently painted Napoleonic miniatures on the screen. "Doesn't this glorify war?" asked the reporter
+"Not really," answered the gamer, "it really makes you wonder
+about the generals who actually send young men out to die."
+Since the reporter had already made up his mind about the way
+the story was to be handled, he segued into some footage about
+some actual military exercises being held in the desert. He didn't
+hear what the gamer said. He did not even consider the possibility that wargaming may have the same effect upon gamers
+that viewing the Vietnam war on television had upon the majority
+of United States television viewers in the late '60s and early '70s.
+Many of those who criticize the computer wargame genre have
+not heard what the developers have said, either. They haven't
+heard how wargame designers want to give wargamers enough
+data to help them understand the high cost of war, not simply in
+terms of machines and budgets, but in terms of its highest cost—
+human potential. Indeed, they may even have a fundamental misconception about the nature of play.
+What is the nature of play? In speaking of a child's play, Erik
+Erikson suggested that play is " . . . the infantile form of the
+human ability to deal with experience by creating model situations and to master reality by experiment and planning . . ."
+(Childhood and Society, p. 195).
+
+Play creates, then, a model or "controlled" situation where the
+player can observe the results of his/her experiments and plans in
+order to test out the potential results of those strategies with no
+risk to the player him/herself. In play, one can rattle sabres with a
+foreign power, knowing all the while that should nuclear war
+ensue, it will only occur on the screen. Nevertheless, one will
+probably not be as quick to advocate sabre rattling as a matter of
+public policy when reality is on the line if the simulation/game is
+sufficiently convincing about the uncertainty/danger of that activity. In play, one can calmly send that cavalry unit on that hopeless mission of taking that bloody hill. Yet, perhaps, as one looks
+at the body count flashing in a numerical report or watches the
+unit rout across the computer screen, one will think about the
+tragedy and the waste of warfare.
+Why, then, do pacifists play wargames? It is not only because it
+is entertaining to solve the conundrum of the situation, but because it is fun to play with the "what if"s attendant to both
+hypothetical and historical battles. In addition, wargames offer an
+educational value, as well. In wargames, one learns from the mistakes of the past, begins to understand why a battle went a certain way, and tries to comprehend both why the battle was fought
+and what each army hoped to gain. Pacifists play wargames to
+learn the lessons of history and to solve the conundrum of the
+situation. Many who invest hours in such "play" would never want
+the actual task. The model, the controlled situation, allows wargarners to experiment without actually having to commit lives
+and less precious resources to the task. This is a vital part of play.
+The key to the understanding of play is to be able to try a
+myriad of solutions to a given problem without risk. This is one
+reason why "saved game" positions are very important. Part of the
+"control" in a given situation is the ability to get discernable feedback from a given action. "Why did the witch doctor cook me in
+the pot when I tried to give him money?" It may not be a situation we would ever face in "reality", but it may teach us something about diversity of cultures (an important lesson in terms of
+the global community) or interpersonal understanding. If one is
+not given the chance to go back and try a different approach
+under the same exact parameters, however, the lesson may go
+unlearned.
+Now, computer game developers find themselves caught between two similar opinions. From the right wing, they are told
+that fantasy role-playing games are evil because they dabble in
+magic and myth and from the left wing, they are told that military
+simulations are evil because they glorify war and promote
+nationalism. In reality, both sides underestimate the value of play.
+The role-player who learns to manage his inventory of
+skills/spells/artifacts/strength in a fantasy game, just might learn
+to manage his time/possessions/health/goals better as a result.
+The wargamer who learns to manage his men/units/vehicles/supplies just might become a better manager, in general.
+When Will Wright, designer of SimCity, was asked what he
+most wanted people to learn from his product, he answered, "I
+just hope that they'll think about their own cities differently.
+Maybe, they'll take more interest in the whole process." Will understood the nature of play. As the metaphors of a game take hold,
+they change the player's way of viewing the situations and events
+outside him/herself. If the game is successful, the metaphors
+change the player itself. Finally, if the game is successful, it is not
+the content of the game which changes the player, but the playing of the game itself.
+
+Foreign Correspondence
+
+OVER THERE
+Of Bards, Shards and Blackguards:
+The Latest Games From Europe
+by Paul Rigby
+
+"Marry, 'Us a strange churl, that standeth over there. Methinks it knoweth not
+the time of day."
+Well, is it any wonder? There you were
+strolling along, with the hundreds of
+other tourists along the banks of the
+River Avon, perusing the souvenir shops
+of Stratford-Upon-Avon (Shakespeare's
+birthplace) and noting the rather strange
+characters you often come across. The
+three old ladies in that antique shop, for
+instance. They weren't very pleased when
+you wouldn't buy their cauldron, were
+they? Maybe they had something to do
+with the predicament in which you currently find yourself.
+Utilizing a variety of Shakespearean
+plays and language, Avon is a humorous
+text-only adventure for the PC from UK
+adventure veterans Topologika. The
+player has to escape from the
+Shakespearean world in which he is
+trapped. Don't worry though, one doesn't
+need to have any knowledge of
+Shakespeare to play or enjoy this adventure. Avon is awash with atmospheric
+descriptions and comes complete with a
+free adventure called Monsters of Murdac. Both games have an on-line help
+feature, if needed. Available now, for
+£19.99 (Visa accepted), Avon/Monsters of
+Murdac (as well as a wide range of other
+
+text adventures for the PC) is available
+from Topologika, PO Box 39, Stilton,
+Peterborough, England, PE7 3RL.
+Coded by a group of UK programmers,
+Imperium is Electronic Arts new "complex" strategy game set in space. One becomes the Emperor of Earth and its allied
+planets. The player's objective? Stay in
+power for the next 1,000 years or be the
+sole surviving Emperor of the Galaxy. A
+variety of diplomatic, economic and
+military decisions will have to be made (although the computer can be instructed
+to take some of the workload off your
+shoulders). To expand one's Empire, a
+player can build fleets and invade neighboring planets (from which various
+reports are received). The discovery of
+Nostrum, a life-preserving drug, is an essential chore. To aid in this quest are a
+variety of subordinates, each with varying
+levels of competence. One must survive
+frequent elections, though, to succeed
+and a popularity chart will act as a good
+indication as to the player's success in
+the political arena. Available on the
+Amiga and ST in April for £24.99.
+From the French software house, Art of
+Dreams, comes Antago—a rather
+abstract puzzle game. For one or two
+players, Antago has them taking the role
+of either an angel or a devil. The aim of
+the game is pretty simple, one must
+make a row of five symbols. Does that
+sound simple? You can bet your life it
+isn't! Including a wealth of comical animation and music, Antago is currently available on the PC, ST and Amiga for
+£19.99.
+Another French game, this time from
+New Deal Promotions, leads you
+around a 50 location adventure known
+as Astate. The player is an archaeologist
+who must find the five pieces of the
+Statue of Theomorphe, from the legend
+of the same name. Starting with nothing
+more than a metal detector, drill and pickaxe, one must search for the pieces. Finding one piece will give clues as to the
+locations of the rest. Available now on
+the ST with an imminent release on the
+Amiga, Astate retails at £19.99.
+Available now on PC, ST and Amiga formats is Demon's Tomb, a text/graphic adventure from Virgin/Melbourne House.
+Set in deepest rural England the adventure begins on a one-man archaeological
+excavation in a remote English forest. Little does the archaeologist know that he is
+doomed to die a violent death. Yet, the
+player must take part in his fate, controlling the good Professor in an effort to
+secure certain objects for the use of
+anyone who is likely to follow. This sort of
+"foreword" has been used in Zork Zero,
+for example. Once the Professor is dead,
+Continued on page 58
+
+Industry News
+
+either Divine Wind or Pacific Storm,
+Main Battle Tank: Northern Germany,
+and a World War III game of grand
+strategic naval combat from SimCan.
+
+The
+Rumor
+Bag
+
+Meanwhile, back at our table, an amazing Sidney Greenstreet look-alike had
+joined our party. He leaned over and
+whispered confidentially in my ear that he
+knew how to get a "Flying Kirov" in
+Three-Sixty's Harpoon. He said that in
+the early versions of the game, you could
+select a Kirov class carrier, put it in your
+mix of ships and give it the last order
+before saving the game. Then, when you
+restart the game, there is a 50% chance
+that it will become an "airplane". Talk
+about a versatile platform!
+
+by Youssef Bismillah Bingara
+
+t
+
+was one of those classic Moroccan
+restaurants, the kind with the ace of
+spades doorways and the brass
+tabletops that look like an Aztec calendar.
+The Near Eastern influence was almost
+as prevalent as the Moorish castles and
+mosques which are being drawn by Rob
+Stein for Ivan and Carol Manley's upcoming Excalibur II, Virgin Mastertronic's
+sequel to their soon-to-be-released game
+of Arthurian legend—Excalibur.
+
+I
+
+with proportionately huge scimitars,
+Bates informed me that he did indeed
+have two games coming out (as reported
+in CGW #70) and that Steve Meretzky of
+Leather Goddesses of Phobos fame was
+indeed authoring one of those games.
+He even informed me that just as Sierra
+has three games (either recently released
+or in production) that have belly dancing
+scenes, his latest game also has a belly
+dancer. However, he informed me in no
+uncertain terms that the development language produced for his games is not
+based on ZIL, the Zork interpreter.
+
+No sooner did we begin dining than the
+lights dimmed and a drum roll sounded
+over the loudspeaker system. "And now,"
+boomed a voice like a foreign Ed McMahon, "to enhance your dining
+pleasure, the Miss America of belly dancing, the lovely Una." As we watched her
+performance and became as entranced
+as a King Cobra weaving in time to a
+snake charmer, she tauntingly placed her
+veil around the paper bag I normally wear
+over my head. Embroidered upon the veil
+were enough Arabic characters to let us
+know that Hero's Quest 2: Trial By Fire
+will offer players a chance to undergo the
+mysteries of an initiation ritual, solve
+numerous puzzles and unravel a number
+of interwoven tales (complete with
+Nishiuye and Moore animation of strange
+characters and sexy females, a Mark
+Seibert soundtrack, and plenty of the outrageous Cole humor) which abound in
+the land of Shapeir.
+
+I looked at Bob's bodyguards again and
+realized that I was really glad he hadn't
+been playing the upcoming revision of
+CEO on the PRODIGY Interactive Service Network. The new version is supposed to offer murders and hostile
+takeovers among other options and I
+sure didn't want to deal with anyone experienced in either wicked practice. I
+promised not to ever say anything about
+ZIL again if he'd call off the mean looking thugs at his side. Those guys looked
+like they could single-handedly win the
+far future war depicted in Data East's upcoming Full Metal Planet. Originally
+released in France by Infogrames, the
+game combines exploration, economic
+management and warfare; offers very attractive graphics; and is based on a
+French boardgame with the same name.
+
+Una also motioned for me to stand up,
+offer a semblance of a belly dance (I had
+more to shake than she did, but it wasn't
+nearly as graceful) and move across the
+floor. There, I was confronted by Bob
+Bates, designer of Sherlock: Riddle of
+the Crown Jewels and Arthur for Infocom. Flanked by two massive warriors
+
+As they escorted me back to our table, I
+felt like I was in the Strait of Gibraltar.
+This "fleeting" thought reminded me that
+Simulations Canada's Fleet Med would
+be the last game to use their Long Lance
+system of tactical naval games. Fortunately, wargamers would still see: a strategic
+naval game set in the Pacific to be called
+
+We washed our hands and the waiter
+lined up some tall glasses in a row. He
+brought in a steaming pot that looked
+like something the caterpillar in Alice In
+Wonderland would have smoked. Pouring the tea from shoulder height, the hot
+liquid flowed out of the pot like a streaming waterfall and filled all of our glasses.
+He didn't spill a drop. I asked the
+Greenstreet character if this was like
+"high tea". Instead of answering my irreverent interrogative, he told me that Virgin Mastertronic will publish a game
+called Wonderland this summer.
+Designed by the veteran adventure game
+group, Magnetic Scrolls, the story will
+be "darker" in atmosphere than the Disney version of the story in an attempt to
+get closer to the original. In fact, I almost
+expected the mutant creatures from
+Trans Fiction's Mammal Club, the adventure game set in far-future New York,
+to show up at our table. I could just see
+some rabbit/human creature shooing us
+away from the table saying, "No room!
+No room!" In fact, I was planning to write
+more in this column, but my editor just
+said the same thing.
+
+Sneak Preview
+
+Here Be Dragons
+SSI's "DragonStrike"
+by Johnny L. Wilson
+hey are terrifying, gargantuan
+creatures. They are archetypes, shadow images of
+the primal serpent in the garden of
+innocence which are enlarged to
+monstrous proportions by our subconscious. The chivalrous knights
+of legend opposed them and the
+fantastic races of Middle Earth
+feared them. They have symbolized
+ravenous greed and senseless
+destruction to the point at which
+they have become the ultimate villains in the worlds of fantasy.
+
+T
+
+Yet, there are positive aspects to
+the dragons of legend. As fierce as
+the villainous worm of Dragonslayer
+was, its scales could be utilized as
+armor and the society perceived its
+power as a divinely ordained force
+for "right". Anne MacCaffery's
+dragons are not only the primary instruments of protection against the
+threat of destruction by alien infestation (called "thread" in the books) by
+burning the alien menace with their
+fiery breath, but they hold a
+telepathic and telempathic bond
+with their masters, the dragonriders
+of Pern. Even Robert Don Hughes'
+schizophrenic villain, the twoheaded Vicia-Heinox in The Prophet
+of Lamath (Del-Rey Books),
+served an important purpose in
+providing stability between three
+quite distinctive cultures.
+In DragonStrike, Strategic
+Simulations, Inc.'s first VGA
+product on the IBM (also to be released on the Amiga), these
+prodigious winged reptiles are some of the most important assets
+for the "Champions of Krynn" in attempting to defeat the dark forces of Queen Takhesis. All action takes place in the DragonLance world during the era known as the War of the Lance.
+There is one important difference, however. DragonStrike is
+neither a pure role-playing game nor an action/adventure game.
+Instead, it is a "flight" simulator set in a fictitious universe with a
+role-playing shell to bind the story/campaign together. The player
+takes on the role of a dragonrider during the War of the Lance
+and flies his dragon(s) through more than thirteen different combat scenarios of three-dimensional, polygon-filled scrolling
+graphics (some scenarios are different, depending on whether the
+player takes a diverging track or not). Though the game is a
+flight simulator, its style and flow of play is most similar to
+Activision's MechWarrior. Like MechWarrior, DragonStrike offers an exciting challenge whether one is interested in simply
+booting a scenario here and there or actually playing out a full
+campaign. If anything, the role-playing wrap for DragonStrike is
+even more effective than that in MechWarrior because there are
+
+three different tracks for characters to
+play through in order to win, rather
+than one basic storyline to complete
+as in the earlier game.
+View From The Heights
+DragonStrike works on several different levels. As a role-playing experience, it solves some of the difficulties many DungeonMasters have
+had in dealing with dragons in their
+scenarios/campaigns. The present
+writer tried to avoid using dragons
+very often because they were hard to
+play-balance in a campaign unless
+the player characters' party had a
+dragon in their arsenal, as well. Since
+dragons had an awesome destructive
+power, tremendous range, and, as a
+rule, magical attacks as well, they
+were often more trouble to referee
+than they were worth. This writer confesses to occasionally placing a formidable dragon to guard a special
+treasure or confronting the party with
+a Vicia-Heinox style dragon to provide comedy relief and a modicum of
+a challenge, but never allowed a
+player character in one of his campaigns to fly a dragon. That would
+have been too unwieldy to referee.
+Characters not only fly several different types of dragons in DragonStrike, however, but they face a
+variety of dragons as opponents, as
+well. Though the program has
+elected to eliminate the percentage
+chance for magical attacks, it
+suc¬cessfully enables players to use long-range weapons (breath
+weapons consistent with the Advanced Dungeons & Dragons
+Monster Manual) and short-range weapons (a dragonlance affixed to the saddle and aimed by the player). In addition, it automatically handles the claw and bite attacks which are often so
+time-consuming to resolve during pen and paper gaming sessions. So, even the combat works better than the pen and paper
+game's.
+DragonStrike also successfully conveys the sense of being
+there. The point-of-view perspectives that allow the player to view
+the tail and wing views, the VGA graphics (as well as the EGA)
+that almost make the dragons seem alive, the variety of terrain
+(consistent with the map of Krynn itself), the welcome ability to
+control the dragon with a choice of joystick, mouse or keyboard,
+and the relatively smooth frame rate (it isn't quite as smooth as
+MechWarrior's) all work together to kindle an illusion of reality.
+With all of this going for it, one can imagine how much
+Continued on page 16
+
+Sneak Preview
+
+DragonStrike
+Continued from page 14
+adrenaline can be produced in each combat. This writer noted his heart pounding
+and his hands shaking as two white
+dragons took shape on the screen and
+headed in his direction. With finger
+poised over the breath weapon key, he
+anxiously awaited that point in time in
+which he could blast the white dragon
+with a cone of cold. That's entertainment!
+Add to this the fact that the scenarios
+are nicely balanced in terms of: number
+and types of enemy dragons, mission objectives, terrain, and story. Then, you
+know that this is an extremely versatile
+and potentially popular product.
+Finally, the design/programming team
+of DragonStrike should be commended
+for allowing the user to toggle the level
+of realism in order to opt for performance rather than graphics. Although
+the realistic graphics are superb, they do
+have a tendency to bog down the action
+on slower machines. Therefore, the
+game allows players to toggle between
+polygon-filled graphics with their maximum aesthetic effect and functional, fastdrawing wireframe graphics that do not
+look as nice, but draw considerably faster
+on the screen. Therefore, the player can
+decide what is most important in terms
+of game play. In graphics, play and userfriendliness, Westwood Associates has
+taken a great leap beyond the
+company's previous efforts in Hillsfar
+and Infocom's Battletech: The Crescent
+Hawk's Inception.
+Down in the Valley
+The fiction is solid, reflecting the
+product's close ties with TSR, publishers
+of the pen and paper games, novels and
+comic books. Yet, here is where some
+may be disappointed. Whereas MechWarrior gave the player's character some
+freedom to explore the storyline outside
+of his 'mech, DragonStrike (at least, in
+this first release) keeps the player's character firmly attached to the saddle (except when he is dislodged in combat and
+tumbles toward the ground).
+Second, the interface is not altogether convincing. Although it
+creates the verisimilitude of flying a dragon better than this writer
+ever thought possible, its very success makes one long for a little
+more. The crystal ball and arrow of enemy detection given to the
+player's character by the wizard, Fizban, are extremely helpful and
+fit well into the DragonLance universe. The crystal ball serves the
+function of "radar" in a credible fantasy fashion, as does the arrow
+of enemy detection. However, the altitude gauge might have
+been handled more effectively as some primitive mechanical
+device (a la Leonardo da Vinci) or as a "rod" powered by the
+wizard. The lack of a fictitious explanation for the gauge will
+
+bother the purist, but many will simply
+find the gauge so useful they will not
+give it a thought.
+The most telling deficiency in the interface, however, is the inability to
+show peripheral vision on the screen.
+Even though the program is userfriendly enough to automatically
+resolve close-combat whenever the
+dragon is in tooth or claw range or
+the rider is within sword range, the
+mere presence of the on-screen messages which indicate that one's
+dragon has attacked the enemy or the
+player's character has struck the
+enemy with his/her sword whets the
+appetite for more on-screen action.
+To be sure, the present writer is unaware of any way to resolve this disappointment, given the present state of
+the technology, but the design does
+have a discouraging tendency to underscore the dimension that is missing.
+Finally, one cannot help but wonder
+about some of the design choices
+with regard to pacing. In a couple of
+scenarios, one must fly the dragon
+across an icy sea or beyond certain
+geographical points before contact
+can be made with the enemy. This
+process of having to fly a specific distance before engaging the enemy is
+certainly realistic and undoubtedly serves to delineate the distances in
+Krynn to a scale of simulated time
+and space. In future DragonStrike
+games, however, it would be nice if
+the user could toggle this
+time/space/distance attribute on and
+off.
+On the other hand, the system is
+wide open enough that players who
+do not like certain scenarios can always move on to the next ones. The
+game is set up so that one can play
+through the scenarios in a narrative
+order through the three tracks or play
+whatever scenario one wants, either in
+sequence or out of sequence. Therefore, the pacing question may be of little consequence to many users.
+Verdict from the Lord Clerist
+DragonStrike may be the most
+polished product yet to arrive from the collaboration of SSI and
+TSR. It does what many licensed products fail to do, it uses the
+computer to create something that cannot be done with pencil
+and paper. In this case, it creates the illusion of dragonflight and
+combat in an exhilarating fashion. In addition to the usual computer game accoutrements, DragonStrike's package offers colorful player's aid cards that simplify the Monster Manual descriptions down to that which is relevant to this game system. Finally,
+DragonStrike enriches the world of computer simulations in
+general by treating a very unique subject. If the true value of a
+simulation is to enable players to feel like they have done something that they would not have the opportunity to accomplish in
+real life, DragonStrike is an amazing simulation.
+
+Game Hints
+
+Platoon Survival Techniques
+Tips for Microprose's
+"M-1 Tank Platoon"
+By J. Mitchell Cobb
+
+anking is a dirty, greasy, and exhausting business. A soldier in
+an Armor unit spends most of
+his time fixing his tank; seldom does
+he actually fight in it. Preparation is
+ninety percent of the battle. His
+leaders have it even worse. They
+must care for and encourage their
+crews; find the food, fuel, spare
+parts, and ammunition that those
+tired troops need and, ultimately,
+plan for the next battle. To a
+tanker, sometimes it is a relief just
+to have a target to shoot at!
+
+T
+
+These are the most obvious differences between Microprose's M1 Tank Platoon and reality. In
+reality, a leader's job consists of
+much more planning, coordinating, and other such necessary
+(and dull!) detail work. The game
+distills this minutiae into its Outfitting and Briefing screens, allowing players to move their vehicles
+quickly into the fight. In those battles,
+
+the action becomes much more
+lifelike—visually and tactically.
+
+Visually Rich
+M-1 Tank Platoon lets one switch
+between a map overview and assorted viewpoints in or around the
+
+tanks. Each vantagepoint offers
+value, so it is advisable to use them
+all. The graphics are nothing less
+
+than stunning. The images on an
+EGA screen are virtually equal to
+those of the gunnery simulators used
+to train military personnel (which
+uses a minicomputer to process images). The terrain scrolls smoothly as
+the player's tanks maneuver and the
+crew positions are accurate, detailed,
+and fully functional.
+There are only two basic difficulties with the display. First, the terrain seems too open. The German countryside is far more
+wooded, populated, and hilly than
+M-1 Tank Platoon reflects. One
+rarely sees a full 3000 meters in
+Central Europe, with much longer
+lines of sight available in the
+game. Open terrain, however,
+does conserve memory in a
+simulation, so one can understand why Microprose did this.
+Second, the Soviets do not paint
+their vehicles bright red! Dull brown
+Continued on page 44
+
+taut
+
+Review
+
+BASEBALL IS
+THE NUMBERS
+A Brief Survey
+of Statistics-Based
+Text Baseball Games
+by Duane E. Widner
+"It's a deep fly ball to left... Kirk Gibson's going back... Back .
+He jumps . . . HOME RUN!!"
+There is a whole slew of computer baseball games on the
+market, many featuring awesome graphics with sounds right
+down to the crack of the bat and packaged in flashy boxes
+emblazoned with endorsements from big name players. However,
+there is another room in the house of computer baseball; one
+which is filled with the stat-based text games. These are the
+games which produce accurate, historical representations in text
+format rather than graphically depicted grand slams.
+The majority of these stat-based products are produced by
+smaller companies and are, almost exclusively, computer versions
+of their board-game products. Strat-O-Matic, Lance Haffner Full
+Count Baseball, APBA Major League Players Baseball, and Pursue the Pennant PC Baseball are the major players in this league.
+Others, like Radio Baseball, and Statis-Pro Baseball from Avalon
+Hill, were more "first generation" efforts and are not the focus of
+this article.
+What sets these statistics-based games apart from their more
+graphic oriented cousins? Statistics-based games are basically
+text games, showing a scoreboard, current batter, pitcher,
+baserunners, and the like. All stat-based games use actual major
+league statistics and strive for accurate re-creations of major
+league performances.
+At this point a curious reader may ask, What's the purpose of
+playing a statistical game, instead of one with spiffy graphics?".
+Good question. What if you were the manager of the California
+Angels and were able to draft and sign Bo Jackson before the
+Royals got a chance? Would the 1988 pennant race in the AL
+West have been affected? Using any of the statistics-based games
+reviewed below, you could make that change, play out the
+season, and answer that very question. What if you added Babe
+Ruth to the 1987 Seattle Mariners? Could the Sultan of Swat
+have raised the lowly Mariners to the promised land? What if Ted
+Williams had been healthy for the 1950 pennant race? Would
+Boston have won the flag?
+Answering these questions and a thousand more "what ifs" just
+like them form the raison d'etre behind stat-based computer
+games. The player's role is that of manager, general manager, or
+league commissioner (instead of merely becoming just another
+joystick-controlled player).
+With this understanding of statistics-based games presented,
+what follows are brief reviews of the four major statistics-based
+baseball games for you personal computer:
+Strat-O-Matic Baseball: The current king of stat-based board
+
+games first put their computer entry on the market in 1986. An
+exact duplicate of their card-based game, one is almost forced to
+buy both the computer and board games in order to fully enjoy
+the computerized version. There are two methods of play,
+manual and automatic. In the manual mode, you actually use the
+Strat-O-Matic cards, and input the results of the play into the keyboard. The Computer becomes the tool for rolling the dice, figuring the odds of stealing or taking the extra base, and other
+statistics keeping. The automatic version requires a separate data
+disk for the season you wish to play. You don't HAVE to use the
+Strat-o-Matic player cards, but often you won't know what's
+going on if you don't! It's obvious this company, operating out of
+Glen Head, NY, views the player cards as the keystone to their
+product and are intent on keeping it that way. For statistical accuracy, few games have ever reached the level enjoyed by StratO-Matic. Many of the intricacies are captured in varying levels of
+play, with the basic game, advanced and super advanced rules allowing the player to add to the complexity and accuracy of the
+game at will. Strat-O-Matic PC Baseball comes with the manual
+and advanced games, statistics compiler and league leader
+utilities. Season data disks and player cards must be purchased
+separately.STRAT-O-MATIC Game Co., 46 Railroad Plaza, Glen
+Head, N.Y. 11545, (516) 671-6566, (Apple, C-64, and IBM),
+$66.25.
+Lance Haffner Full Count Baseball: Lance Haffner produces a
+series of various sport simulations, all programmed in basic.
+Many past and present teams are available with the baseball
+game and the most recent past season disks are ready almost as
+soon as the season is completed. One nice feature is the ability
+to input your own players and teams. This capability, combined
+with one's own baseball encyclopedia, allows a player to program
+virtually anyone that has ever picked up a bat (including his
+minor league seasons). Statistical accuracy is fairly good, but
+there are some irritating flaws that cause the basic code to abort
+the game at inopportune moments. It is possible to play against
+the computer or play the computer against itself, which is useful
+for long seasons and getting quick results. This autoplay feature
+will produce a box score in only a few minutes. Lance Haffner
+Full Count Baseball comes with a variety of past teams, good
+and bad, all 26 current major league teams, a stat compiler, and
+
+a player/team creation utility. Other season disks and league
+leader utilities are available separately. Lance Haffner Games, PO
+Box 100594, Nashville, TN 37210, (615) 242-2617, (Most Formats), $39.95.
+APBA Major League Players Baseball: This is another cardbased boardgame product turned computerized. It is a clean, wellproduced package that has a few interesting features. One of
+these is the taking an extra base feature. To wit, in most games,
+a player is given the option of sending a runner on first base the
+go-ahead to take third on a single to center or right. Naturally,
+the decision will depend on whether Vince Coleman or Terry Kennedy is running. In APBA, the decisions are real-time and, if you
+don't send the runner, he stays. Unfortunately, the game does
+not take advantage of all available RAM and accesses the disk
+drive on every play. That could be a concern over the course of
+an entire major league season because APBA is fairly slow compared to the others (meaning it takes as long as 30 minutes to
+complete a game). APBA comes with the current season disk and
+the master game disk. Past season disks, stat compiler, and
+league leader utilities are available separately. APBA Game Company, 1001 Millersville Rd., PO Box 4547, Lancaster, PA 176049975, (717) 394-6161, (IBM), $59.95.
+Pursue The Pennant PC Baseball: This is the latest entry in the
+market, and possibly the best. The 2.00 version combines nearly
+every conceivable feature mentioned above. The game itself allows for the creation of individual players, using one of three sources of information: McMillan's Baseball Encylopedia, The Sporting News, or Elias Baseball Analyst. The games are fast, accurate, and demand both baseball knowledge and good player instincts. This is the only game to provide for up-to-date computer
+league stats and real-life performance during the game. A transfer stats utility allows league statistics to be added to, subtracted
+from, or to be used to replace the accumulated statistics on
+another disk. This is very handy for league play where the games
+may be played on different computers. A complete stat compiler
+and league leader utilities are included with Purse the Pennant.
+Past season disks are available separately. Pursue the Pennant,
+PO Box 38364, Greensboro, NC 27438, (919) 299-4388, (IBM),
+$69.95
+
+SUMMARY: If the dog days of Summer have you chomping at
+the bit to replace the manager of your favorite major league
+team, or you long to become your own "Trader Jack", and wheel
+and deal your way to a world series, then grab one of these
+games, a hot dog with mustard, and "Play ball!" CGW
+
+RATING THE ENTRIES:
+Stat
+Leader
+Compiler Utility
+
+Player
+Creation
+
+Computer
+Opponent
+
+Overall
+Evaluation
+
+Strat-O-Matic
+
+I
+
+I
+
+N
+
+N
+
+Good
+
+A
+
+Y
+
+Y
+
+Average
+
+A
+
+N
+
+N
+
+Good
+
+Y
+
+N
+
+Excellent
+
+Lance Haffner
+
+A
+APBA
+
+A
+
+Pursue The Pennant
+
+I
+
+I
+
+KEY: A=available I=included Y=yes N=no
+
+Game Hints
+
+Scorpion's Tale
+
+A New Generation
+of Star Trek Games:
+The Transinium Challenge
+As Told By Scorpia
+
+ell, here we are, chugging through spring into summer.
+Fred is performing the yearly ritual of spring cleaning (fortunately, when no customers are around). You really
+don't want to see what goes out. (Believe me, you'll feel much
+better not knowing). Speaking of out, however, this time we're
+going far out—in fact, right into outer space.
+Star Trek: The Transinium Challenge is a graphic adventure
+game, based on the Star Trek Next Generation TV show. You
+take the part of Commander Riker, who is to lead a mission
+which will determine if he has the stuff of which starship captains
+are made. It's up to you to prove that he does.
+Unlike other adventure games, Challenge has no vocabulary
+whatsoever. Everything is accomplished through the use of icons
+and menus; nothing needs to be typed in from the keyboard.
+This eliminates the usual frustration players have as they try to figure out just how to phrase commands to get things done.
+However, that doesn't mean the game is not without other
+frustrations of its own. Challenge is very different from the typical
+"find object X and figure out what to do with it" adventure. While
+there are items of importance in the game, most of the action is
+concerned with people. Talking to them, agreeing or disagreeing
+with their demands and consulting with other crew members is
+where you will spend a great deal of your time in this intriguing
+adventure game.
+Also, this one is quasi-linear in design. There is no specific, stepby-step, golden path through the game (there are some actions
+that need to be done early on, or at least before doing some
+other things). Getting the sequences right is not always easy and
+will require some trial and error.
+Coming into this one with the usual adventure game perspective, therefore, may cause you some problems. You might be rolling along when, suddenly, all the action seems to stop and you
+have no idea why. Or, you might have trouble simply getting
+started, because the format and presentation are not of the standard design. So, let's see just what's up with this game .. .
+It begins on the bridge of the Enterprise, where a call for help
+comes in from an asteroid belt in the remote Aquila system. A
+mysterious ship is terrorizing the area, attacking the various mining installations located on some of the asteroids. Naturally, the
+Enterprise immediately proceeds there to investigate.
+The whole affair is puzzling. Transinium, the ore being mined, is
+a low-grade mineral of only limited use. While rare, it isn't especially valuable; certainly not worth killing people over. Yet, someone is definitely trying to drive the miners out and doesn't care
+who gets hurt in the process.
+
+After you've talked to the locals, you might get the feeling that
+the terrorists may have the right idea (grin). Ms. Jansen, who
+runs the "El Dorado" operation, is snotty and rude. Mr. Velura
+and his buddy Smith at "The Doghouse" are a pair of longwinded bores. The Mhulli (a new race) are convinced that the
+Klingons are behind the attacks, while the Klingons are openly
+contemptuous of Riker's ability to stop the terrorists. Dr. Parks, a
+retired scientist, apparently wants peace at any price and practical
+ly demands that the Enterprise leave before things get worse.
+Denning, who runs the local bar, is full of gossip and it's
+rumored that his drinks are full of more than liquor. There's a
+Ferengi flitting around, too, although it seems that he has no interest in anything beyond wheeling and dealing.
+You could say that Riker has quite a nice little mess on his
+hands. He'd better clean it up quickly, too, or he'll be relieved of
+command. What's a poor Star Fleet Officer to do?
+Well, the first thing, of course, is to start talking to people. This
+often means accepting or rejecting proposals they put forth.
+Each of these should be given careful consideration, as pretty
+much all of them have an importance in the game. You have to
+decide on the spot, too, because once you're talking to someone, you can't leave until a choice is made.
+Riker doesn't have to go it alone. He can take two crewmembers with him whenever he beams down somewhere (anyone except Picard, who never leaves the ship). These away team members are available for consultation during conversations with the
+locals. They will offer advice, opinions, and suggestions, but the
+ultimate choice of action in any situation is always Riker's.
+On occasion, the composition of the away team is critical to advancing the plot, and this is particularly so when investigating the
+abandoned base. Don't get into a rut by always dragging the
+same people with you. Someone you think is of no use might
+just be the person you need. If that crewmember isn't in the away
+team, something important may be overlooked, or a crucial event
+may never happen.
+This, in turn, means you should save often. Many choices trigger the unseen and those effects are not immediately obvious. It
+may be awhile before the results of a wrong decision rears its
+ugly head (and by then it's too late to do anything except restore). Since the game has many hidden complexities, it is a
+good idea to keep notes of your progress, and exactly where
+you do your saves.
+One thing which can cause a lot of trouble is not going to the
+bridge from time to time. It's an easy thing to overlook, because
+Continued on page 30
+
+Survey
+
+What's New In Sports Games
+by Wyatt Lee
+APBA PRO LEAGUE FOOTBALL: This is the computer version
+of the respected boardgame of football strategy. It was developed
+by the same company and offers the same style of quality play
+and statistics handling as fans of the classic game have come to
+expect. Unfortunately, the computer version does not feature
+enough "idiot proofing" in the interface to keep from frustrating
+the average user. Pressing a direction key at the wrong time can
+kick one completely out of the program and the control key
+layout is extremely awkward for two player games. In addition, the
+program has some unsightly bugs in the play-by-play feature.
+Where the descriptions within the play-by-play messages are
+generally well-written, the program fails to insert the team names
+from the current game into the messages. So, what should read,
+"The Bills now have the ball," ends up reading "The now have the
+ball." Even so, the game plays relatively well once you get used to
+the flow of play, but the overall feel is of an incomplete product
+which is only for dedicated aficionados. (APBA Game Company, 1001 Millersville Road, Post Office Box 4547, Lancaster,
+PA 17604-4547).
+HEAT WAVE: Offshore Power Boat Racing is a thrilling and
+colorful spectacle to watch. In Accolade's Heat Wave, players become more than spectators. Race preparation includes choices
+between: four different boats, six pre-set courses or up to ten
+courses designed by the players themselves, and loading extra
+fuel, propellers and shafts. The choices are handled efficiently
+using pop-up windows with menu-driven choices. After the race
+is set up, players drive the boat from joystick or keyboard, much
+like any other vehicle simulation. The frame bounces to simulate
+the look of driving a high speed boat and the polygons scroll by
+at a nice clip. Players can even choose a lower detail level if they
+want a faster frame rate. The crashes are dramatic whenever the
+boats hit the shore, but we were unable to duplicate the most
+spectacular crashes (where the boats flip and roll) in the sport.
+The game offers plenty of chrome, though. We were expressly impressed with the helicopter view of the races. (Amiga, $44.95,
+Atari ST, $49.95, IBM, $39.95, and C-64/128, $29.95).
+LOW BLOW: Professional boxing was never like it is presented
+in this new action game from Electronic Arts. The action is fast,
+furious and, at times, funny. The interface is simple (the easier to
+convert to a cartridge game, my dear), the animation is even
+smoother than the designer's previous Jordan vs. Bird:
+One-on-One product, the tutorial segments fit cleverly into the game's fiction and the pompous, pretentious, purveyance of pugilistic
+profundity by a ringside personality who seems vaguely familiar
+("Who goofed, I've got to know?") is just right for the flavor of the
+game. At first, the game looks like any number of coin-op and
+cartridge boxing games, but it provides for a modicum of
+strategy, as well. Each opponent is susceptible to a certain combination of punches. Players can train for a fight and master that
+combination before entering the ring. Then, it's a matter of
+timing and tactics in order for the player's character to climb up
+the rungs of competition from contender to champion. (IBM,
+$39.95).
+PGA TOUR GOLF: CGW received an early look at Electronic
+Arts's upcoming PGA Tour Golf game. The game will feature attractive graphics (polygon-filled with more than 16 colors in VGA
+mode) and extremely realistic physical models. Wind is handled
+dynamically and is a very important factor (it is constantly changing and figures into each shot), club selection is handled according to strict PGA rules and a variety of statistics are now available
+
+which were not available in previous games. As the first Professional Golf Association license, the simulation incorporates the expertise of 60 professional golfers. Ten pros will be featured and
+fifty others had input. The ten featured pros offer helpful comments during fly-bys (aerial views prior to playing the holes) on
+each hole and the tournaments feature actual "cuts" which the
+player must avoid. (IBM, $49.95)
+TV SPORTS: BASKETBALL: Those who are familiar with the TV
+Sports philosophy of colorful graphics, television-style chrome,
+and league play will know what to expect from this latest release
+in the series. The animation is smoother than ever, but the real
+beauty of this game is the way it handles statistics. In the past,
+statistics have been strictly a fringe portion of the game and
+players who wanted to run a league missed the vital ability of
+being able to print out even the basic statistics on cumulative
+team performances. Now, those who wish to administer leagues
+
+work allow players to connect to the network, make some basic
+decisions and download information in order to play games offline using readily available software packages (Accolade's Mean
+18 for Tournament Golf and Random House's APBA Major
+League Players' Baseball for the baseball leagues) and upload
+the game results back onto the network. In this way, one can participate in a human vs. human competition without having to
+schedule precise times or running up exorbitant phone bills. It is
+an elegant way to eat one's cake and have it, too, by combining
+the best elements of computer game competition with the excitement of participating in a complete league with other human personalities. (Contact CSN at (713) 952-1060 for further information).
+
+have all the usual league statistics available, plus some that
+Cinemaware added as bonus value. Although the heart of the
+TV Sports line has always been in the arcade action, those who
+like the coaching aspects of sports games will not be disappointed because TV Sports: Basketball has a playcalling feature
+that functions very smoothly within the game framework. As the
+offensive team crosses the mid-court line, the computer handles
+the on-screen players while the "coach" inputs a play using a joystick-driven menu/diagram in a window above the court. TV
+Sports: Basketball is a well-balanced arcade/strategy game with
+more than the usual Cinemaware flair. (Amiga, $49.95).
+
+COMPUSERVE: On Compuserve, typing "Go Fans" will send
+players to the area where fantasy/rotisserie leagues are administered. Players can join leagues where they draft major
+league players, trade via electronic mail, set line-ups and score
+points based on how the actual professional players perform in
+real life. Interested parties can download the rules, which are
+quite exhaustive, and enroll in a league that lasts all season long.
+The league administrators are authentic baseball fans and will
+provide players with an incredible amount of support information,
+
+On-Line Sports
+One fascinating way for computer owners to participate in statistics-based sports games is to enter an on-line competition. We
+have looked at three different ways to compete against other
+owners in on-line competition: APBA leagues (using the baseball
+cousin to the football product described earlier in this article) on
+the Computer Sports Network, fantasy baseball on the USA
+Sports Network and fantasy/rotisserie league baseball on Compuserve.
+COMPUTER SPORTS NETWORK: Like Tournament Golf, the
+networked series of golf tournaments described in CGW #63 (p.
+38), the baseball leagues refereed by the Computer Sports Net-
+
+league statistics and benevolent guidance. Essentially, players
+have $260 in imaginary money to bid on players and establish
+salaries. The great thing is that these leagues are administered in
+such a way that they have continuity from year to year. The worst
+thing is that the initial draft day takes about five hours or so of online time, which can be expensive. ($6.00 per hour of on-line
+time).
+USA TODAY: The USA Today Sports Network offers fantasy
+sports with a more casual approach. Players can draft major
+league stars or adjust their lineups on a weekly basis using an online utility. The system stores the fictitious teams thus created
+and matches two teams together for competition during that particular week. For those with limited funds, but a desire to participate in fantasy baseball on a regular basis, this is the most
+painless access. In addition to fantasy baseball, the USA Today
+Sports Network offers fantasy basketball and football, NCAA
+and professional "Pick 'Em" contests during the football and basketball seasons, card game tournaments and strategy boardgame
+tournaments. Also, when Data East releases its Bo Jackson
+Baseball game later this year, players will be able to use the network to download up-to-date statistics and import them directly
+into the game. (IBM, $29.95).
+
+Game Hints
+
+New Star Trek Games
+Continued from page 24
+
+(a) you can do almost everything from the transporter room and
+(b) you do a lot of beaming down, so moving from transporter to
+bridge doesn't appear worthwhile.
+However, if you stay off the bridge, certain events will not take
+place. The game then seems to stop, and before long, you'll be
+getting nasty notices from Starfleet about the stagnant nature of
+the mission. This warning should not be taken lightly. If things
+don't start happening soon thereafter, Riker will find himself in
+big trouble. It's a good idea to visit the bridge between beamdowns, and to sometimes hang out there for awhile.
+Another easy thing to overlook is asking the crew's opinions
+about any odd or unusual objects. This includes not only those
+in the away team at the moment, but also those back on the
+ship. Contacting them via communicator isn't good enough; they
+have to be there in person. And don't forget to check Riker's
+opinions, too (yes, he does have a few of his own).
+Re-visiting people and places is a definite must. Sometimes you
+won't learn or find anything new, sometimes you will. You might
+(after saving first!) try agreeing to a proposal you refused before,
+or vice versa, to see what comes of it. Taking different crewmembers might also help.
+You can send crewmembers to different places, but this feature
+is of hardly any use as they can't really do anything on their own.
+Besides, if you beam someone down, then go off to another location, that person will automatically beam back up before the ship
+leaves.
+Sooner or later, Riker will start encountering the mystery ship,
+and this always begins combat. It's best not to try anything fancy;
+just pound away at it. Catching the intruder will clear up a lot of
+the mystery over the who and why of the mining attacks. In fact,
+this is the only way of stopping the terrorists, so pulling out of battle is not recommended. Just don't expect to catch them easily.
+Triumph in space combat is not the end, however. There is still
+more to be done, especially in regard to the mysterious children.
+Who they really are, what they want, and what to do about the
+intruder's revelations, make up the endgame portion of the adventure. This part, though, is fairly straightforward, and should
+not give adventure gamers much trouble. You'll know when
+everything's done, as the game will go into the final automated
+sequences, followed by congratulatory messages from both
+Starfleet Command and Captain Picard.
+Well, I see by the old invisible clock on the wall, it's that time
+again. Remember, if you need help with an adventure game, you
+can reach me in the following ways:
+On Delphi: Stop by the GameSIG (under the Groups and Clubs
+menu).
+On GEnie: Visit the Games Roundtable (type: Scorpia to reach
+the Games RT).
+By US Mail (enclose a self-addressed, stamped envelope if you
+live in the United States): Scorpia, PO Box 338, Gracie Station,
+New York, NY 10028.
+Until next time, happy adventuring!
+Copyright 1990 by Scorpia, all rights reserved.
+
+Computer Gaming World's
+See Reader Input Device on page 64
+
+The Categories
+Strategy (S7): Games that
+emphasize strategic planning
+and problem solving.
+Simulation (SI): Games based
+on first person perspectives of
+real world environments.
+Adventure (AD): Games that
+allow you to take your alter ego
+through a storyline or series
+of events.
+Role-Playing Adventures (RP):
+Adventure games that are based
+on character development
+(usually involving attributes).
+Wargames (WG):
+Simulations of historical or
+futuristic warfare from a
+command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+Games are often listed in more
+than one category. In this case,
+the first listed category is
+considered primary. In order to
+be recognized as the "Top
+Game" in a given category, a
+game must be listed as being
+primarily of this specific type.
+
+Top 100 Games
+
+THE HALL OF FAME
+The Games In
+CGW's Hall Of
+Fame Have Been
+Highly Rated By
+Our Readers
+Over Time.
+They Are Worthy
+Of Play By All.
+
+Review
+
+2088: The Cryllan
+Mission
+by Dennis Owens
+
+course, are as expendable as those
+red-shirted crew members on the old StarTrek series and Mission Control has no
+idea of the conditions you will face.
+Written specifically for the Apple IIGS,
+2088: The Cryllan Mission, by Victory
+Software, is a science-fiction hybrid of
+Ultima III and Wasteland which combines enough new features, deft uses of
+the IIGS' abilities, and innovative twists
+on old gaming standbys to present a
+game that is both promising in its possibilities and frustrating in not carrying
+those promises far enough.
+2088 plays smoothly once the player
+gets used to its rhythms, flow of windows,
+combat options, and mouse/keyboard interactions. Its premise is imaginative, consistent and, unfortunately, limited in the
+way it is carried out. For instance, although Vivek and Vinay Pai, the game's
+designers, tout its unique use of windows
+and menus (through Apple's system 5.0)
+to access everything from combat options to conversation with NPCs, real interaction with NPCs is extremely limited
+because of the inherent nature of windows. Questions are impossible and
+topics are addressed by clicking on the
+same few standard choices: introduction,
+background, new topic, and more detail.
+Once NPCs are met, they need never
+be addressed again. It is entirely possible
+for an unscrupulous player to pick every
+NPC's brain in the city and then
+slaughter the entire population. Such behavior might, of course, be considered
+relatively antisocial. Still, there is no
+reason to keep these little bumping icons
+around to impede one's journey through
+useless repeated contact and, even
+though the experience points gained
+might be slight, there is some reason to
+do something with them other than just
+talk to them (a stance shared, sadly, by
+the game's most heinous villain).
+
+hen the crew of the spacecraft
+U.S.S. Houston, on a mission of
+exploration in a previously uncharted region of the galaxy, discovered a
+planet, the scientists at Mission Control
+cheered. When the crew reported that the
+planet appeared inhabited—and that the
+lifeforms seemed intelligent, humanoid,
+and completely devoid of any type of aggressive, warlike behavior—the Earth's
+population was astounded.
+Now, six months after the planet was
+supposed to have passed from behind its
+mother star, and communications with
+the Houston's crew, which had been
+blocked, were supposed to have resumed,
+there has been no word from the planet
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+2088: The Cryllan Mission
+Apple IIGS
+$69.95
+Vivek and Vinay Pai
+Victory Software
+P.O. Box 821381
+Houston, TX 77282-1381
+
+known as Crylla. Messages radioed
+toward the star system have been
+answered only by the quiet, threatening
+hiss of deep space.
+A new crew must be assembled: a team
+of scientists, soldiers and doctors. A new
+craft must be sent toward Crylla, and the
+mystery of what happened to the original
+crew must be solved. Your crew's lives, of
+
+Make no mistake; 2088 does require
+the player to make certain ethical
+choices. Once the true horror of the situation on Crylla is uncovered, the player
+must do something. There is nothing in
+the game requiring the player to kill every
+creature he encounters in the wilderness.
+However, when the game limits the
+player's interactions with the outdoor's
+creatures to either attack or do nothing,
+what else is a game player going to do?
+Quit the game? Attack only the creatures
+which attack the party?
+(A side note: 2088 cannot be won if the
+latter strategy is followed. Thus, some
+consideration of moral conduct must be
+made. But, come on, what else would a
+"real gamer" do? Plunk down his money
+and then not finish the game? Seriously,
+Continued on page 36
+
+2088: The Cryllan Mission
+Continued from page 34
+
+when it comes to seeing that end-game
+victory screen, other considerations are
+often made secondary).
+In this age of computer gaming, with
+the sophistication of the moral dilemmas
+faced in Ultima V and Wizardry lV, the
+question of how to correct a society corrupted by outsiders is an enticing one.
+However, the question is not, in this
+reviewer's opinion, satisfactorily examined
+by 2088.
+The game is also rather combat intensive. Once the characters in the party of
+six each reach about 8000 in body
+status, the party becomes well-nigh invincible (and that is nowhere near the
+amount of body points the characters
+can wind up with). Although a single hit
+
+from a monster can cost a character 600
+body points, with strong armor, good
+weapons, and a fair supply of GammaPlasma (restores body status), no encounter is unwinnable.
+Toward the end of the game, combat
+sequences will have occurred so often,
+and will have begun to take up such a
+large amount of the time spent in playing
+the game, that one might want to avoid
+them completely in the interests of saving
+time. Whole sections of caverns and
+buildings can be left unexplored (as long
+as the player has found whatever it was
+he was looking for).
+The 3-D perspective in dungeons is
+colorful. At times plain in design, at
+others, original, the parties of monsters
+
+also can be seen one behind the other
+when the characters' party has stumbled
+upon a hallway full of beasties.
+In a game with the scope and visual
+complexity of 2088, such dichotomies are
+common. Weapons can be sold back to
+stores, but armor cannot. Further, only
+the most common weapons can be sold,
+and not the top-of-the-line "specials"
+(which, seemingly, would attract the
+highest prices); almost all functions are
+most easily handled by mouse (but the
+most redundant are handled the quickest
+by keyboard), ad infinitum.
+Overall, 2088: The Cryllan Mission
+marks a promising entrance into the still
+underdeveloped market of IIGS-specific
+software by a new company. Especially
+since rumors have the Ultima series
+moving away from the Apple II, support
+for such an encouraging debut is almost
+mandatory for IIGS role-playing enthusiasts. The game supports hard drive,
+mouse and keyboard interfaces, and requires 1.25 MEG of RAM to run.
+
+Review
+
+The Great Race
+A Driver's View Of Electronic Arts'
+Indianapolis 500
+Barry Werger has been an autocross
+champion, a racing steward, and a member of the New York Region SCCA Race
+Management Committee. He is currently
+taking a break from racing to live the life
+of a poet at Risley Castle in Ithaca.
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNERS:
+
+Computer
+
+PUBLISHER:
+
+by Barry Werger
+
+Indianapolis 500
+The Simulation
+IBM
+$49.95
+David Kaemmer
+Richard Garcia
+Electronic Arts
+San Mateo, CA
+
+rGaemignuWolds
+
+may be wondering why I am writing this review instead of just dictating "expert" quotes to my friend, Charles Ardai [Ed: As he did in "Once Around
+the Block," CGW #57, p. 451. The explanation is simple. Indianapolis 500 is
+billed not as a game but, rather ominously, as Indianapolis 500: The Simulation.
+Readers will recall that Charles has
+refused to get into an actual race car and
+may not be surprised that at the sight of
+such a realistic simulation, he panicked.
+Let's just say his therapist is working
+overtime.
+
+throughout history which doubles as a
+clever anti-piracy device. Welcome as this
+vast store of information is, however,
+
+This is a game for those who
+take racing seriously.
+most of it is non-essential to the simulation. What is important is the detailed
+and lengthy explanation provided of
+suspension configuration and how its
+
+I'm happy with the way things
+worked out, however. It takes a true
+motor-sports enthusiast, at least, to
+appreciate the intricacy of this program. The game is not only a hyperrealistic simulation but a valuable
+educational tool for any aspiring race
+car driver.
+
+To allow players to experiment with
+various car set-ups, the simulation
+provides a practice session in which one
+can alter any of the car's characteristics
+at any point on the track (Note: In the
+Qualifying and Race sessions, only a few
+such modifications are possible once the
+race is underway and these can only be
+made in the pits.). In fact, the settings
+can be so intricate that players will
+want to start with the default settings
+the first few times out.
+On the Right Track
+
+A Month At the Races
+The amount of research that went
+into the game is obvious as soon as
+one cracks the surprisingly detailed instruction manual. Not content with
+spelling out the mechanics of the game,
+it offers a wealth of information on the entire spectacle and history of racing's most
+celebrated event. All facets of the race
+are covered, from a driver's month-long
+schedule of pre-race activities to the
+layout of the speedway complex, including bathroom locations. There is even a
+section of photographs of Indy winners
+
+tings noticeably affect the car's handling,
+but they interact so thoroughly that one
+has to remain constantly aware of their
+potential for cancelling effects on one
+another.
+
+modification affects a car's handling.
+The suspension elements that players
+can adjust include: shock absorbers,
+wheel stagger, camer, anti-roll bars, tire
+pressure and rubber compound; also adjustable are the car's downforce-generating wings and transmission gearset.
+Remarkably, not only do all these set-
+
+Since racing games typically offer a
+variety of unusual track shapes, one
+might expect a game limited to a plain
+oval to be tedious. In Indianapolis 500,
+this is not the case. The realities of handling a car at more than 220 mph are
+so well-represented as to make even
+the straightaways a challenge. When
+one takes into account additionally the
+interaction with fellow racers and the
+constant attention one must pay to wear
+on the vehicle's various components, it
+becomes obvious that this simulation is
+anything but boring. It also becomes obvious that this is a game for those who
+take auto racing seriously. Gamers looking for immediate gratification should
+stick to Out Run.
+Even with all its technical sophistication,
+
+the game is highly entertaining. The
+graphics (in VGA mode, at least) are astounding. Although individual objects
+(the cars, the track walls, etc.) are not particularly well detailed, the changes in
+perspective that occur as one moves
+around the track leads one to believe
+that the entire world of the speedway is effectively contained within the computer.
+Adding to this illusion of reality are the six
+camera angles available for instant
+replay, which can be called up at any
+time: driver's view, behind the car, track
+mounted, grandstand, helicopter, and
+leader/crash. (The last shows important
+events which the driver might not have
+been able to see from his car.)
+The only disappointment in the game is
+the PC soundtrack. Every sound the
+game makes with the internal speaker is
+annoying, at best, and unbearable at
+worst. One loses something if one plays
+with the sound turned off, however, because some sounds (especially the squealing of tires) are important indicators of
+the car's performance. [Ed: Of course,
+those who have Ad Lib and Roland
+sound boards will not have this problem. The soundtrack is outstanding
+with these boards.]
+The controls are very responsive. While
+utilizing the keyboard effectively takes a
+lot of practice, it is quite functional once
+one gets used to it. If one should happen
+to have access to a joystick, however,
+control is natural and transparent. Steering is highly responsive, a pleasant
+surprise after so many recent sluggish
+driving games.
+Checkered Flag
+Any serious attempt to master Indy 500
+will require a great deal of practice—perhaps, also a little madness. Each suspension change requires many laps of testing and each complete set-up means
+hours of (re-)learning how to drive
+smoothly. Only the most dedicated and
+determined players will ever win a race
+(Of course, this is the way it is in real life,
+too . . . ).
+This means that Indy 500 is not for
+everyone. (Charles, you can come out
+now!) For gamers who might actually be
+interested in racing some day, it offers invaluable experience; for die-hard simulation nuts, it offers a truly in-depth portrait
+of its subject; but for casual gamers it
+can offer headaches and heartache and
+hair-pulling frustration. Keep this in mind,
+readers—you know who you are.
+
+I
+
+Scorpia's Column
+
+O
+
+ver the last few years,
+there has been a distressing trend in computer
+games in general, and not merely in the adventure/CRPG genres, either. Too many releases
+have hit the racks with flaws and
+bugs that should never have
+been in a production version.
+I'm not speaking of minor
+problems, but major gaffes that
+seriously interfere with game
+play: unwinnable conditions,
+game crashes, seams that allow
+wholesale cheating, areas that
+are never activated, awkward
+and hard-to-use interfaces, poor
+combat balance and infuriating
+parsers, to name just a few.
+
+Scorpion's
+View
+Scorpia Stings Playtesting
+and Apple-Plexy
+
+There are several reasons for
+this, the major ones being the
+lack of adequate playtesting in
+the first place and insufficient
+time allowed for testing and the
+fixing of problems in the
+second. Playtesting is one of the
+most important factors in the
+development of any game. Yet,
+it seems that in recent times, it
+has been taking a back seat to
+getting a product out the door.
+Good playtesting requires a fair
+amount of dedication, as well as
+tough-mindedness and independence of thought. While
+there are some good playtesters
+out there, there are too many
+people who see playtesting main
+ly as a way of getting their
+hands on a particular game well
+in advance of everyone else.
+They are generally not aware that playtesting means more than
+simply running through a game and noting where it crashes or
+where strange things happen.
+These people (and there are too many of them) view the test
+versions more as finished products, and play them that way, thereby missing many of the problems in the code. They just never
+see them, and no one knows about them, until the game is in
+the hands of the paying customers, and by then it's too late. This
+is not testing a game!
+Non-testing can also come about when companies provide hint
+sheets, walkthroughs, maps or other aids to their testers. The
+temptation to use these crutches is almost irresistible. It may cut
+down on testing time, but it does not give the product the
+rigorous workout that is necessary, and which can come only
+from going through the game knowing no more than an average
+customer will.
+So what makes a good playtester? Patience, intelligence, an eye
+for detail, a sense of humor, a good knowledge of the game's
+genre, enthusiasm, and a critical turn of mind are all, in my
+opinion, necessary qualities.
+Good playtesters take nothing for granted. If the command card
+lists only sixteen keys in use, they will still try every key on the
+board to see what happens. If something is listed as being impossible, they will try it anyway, just to be sure.
+
+They step on every square in
+the dungeon, walk through every
+door, talk to everyone several
+times over, try out any number
+of bizarre commands, and in
+general proceed through the
+game with as much thoroughness as they can. They do this
+because they aren't trying to
+"win"; they're looking for trouble
+spots of all kinds, which, after all,
+is what testing means.
+Now certainly, there are testers
+out there who are like this. They
+do a good job and are generally
+worth their weight in gold for the
+work they do on the games.
+Then, why is it that, in spite of
+such people, some products
+come out in such terrible shape?
+The answer is time. It is often
+the case that not enough time is
+allowed for a game to be properly put through the mill. This is, in
+turn, related to the fact that
+many games today are extremely
+complex (in terms of code) and
+the trend is toward even more
+complexity as ever more powerful machines continue to appear
+on the market.
+
+With the average game taking
+two years or more to develop
+and program, pressure from the
+general public, not to mention
+marketing departments, has a
+tendency to put a severe damper
+on anything that will keep the
+product from going out the
+door. Companies become reluctant to make too many changes, as changes mean, naturally,
+more testing and more time before the game goes on sale. That
+nasty word "deadline" gets bandied about, corners are cut where
+possible, and suddenly, the customer finds in his hands a game
+that isn't really finished.
+What can be done about this? First, game companies must
+come to realize and accept that they have a responsibility to provide the paying customers with a product that is not buggy and
+only partly-tested. This means finding good playtesters, and allowing them sufficient time to do their job. It is worth moving back
+deadlines when a better product will result.
+However,the ultimate responsibility rests with you. You are the
+paying customer who puts down $40, $50, $60 or more for a
+game. If you find the game is not up to standard, if it's full of
+bugs or crashes, if you feel that you're not getting your money's
+worth, don't just sit there and take it! You'll only get more of the
+same in the future.
+Tell your friends, so they don't get stuck. Write letters to the
+game company, expressing your displeasure, and demand better
+quality control. Tell them exactly why you are not pleased (this is
+very important). A letter that says "Game X is junk" will go into
+the trash basket; one that begins "Game X is a flawed product,
+and here's why" will get attention. This is especially true if a lot of
+letters start arriving with the same complaints.
+Continued on page 52
+
+Game Hints
+
+M1 Tank Strategy
+Continued from page 18
+
+or dark green would have been more
+appropriate.
+The Tanks Behave Like
+Real Tanks
+Garners can assume control over
+any of the positions in any of their
+tanks except for the Loader's. When
+assumed, one can perform the functions of that crewman. Additionally, it
+is possible to issue orders to the rest
+of the crew. Those crewmen, and the
+
+ones in the other tanks, will perform
+according to their individual skill
+levels (and possibly, improve over
+time). The Tank Commander primarily finds targets; the Gunner shoots
+them; the Loader feeds the gun; and
+the Driver gets one where he needs
+to go. Most garners will find that
+they, personally, are often their own
+best crewmen. The trick is knowing
+where to be at the right time.
+Of all the crew positions, the
+Gunner's station is the most versatile
+and realistic. From it, after one has
+moved the tank to a hull-down (barely exposed) position, one can find targets at long ranges and shoot at
+them before they even have an idea
+or firing back. The firing sequence is
+easy enough—laser (with the
+spacebar) and blaze (hit return), just
+like in a real tank! If the ballistic computer or laser rangefinder has been
+knocked out, use the Battlesight gunnery, which the manual has docu-
+
+mented very well. One problem
+which seems immediately obvious to
+"real life" tankers is the need to "lead"
+a target. Although the manual says to
+simply track a moving target, one
+must lead it by half of a vehicle
+length to insure a hit. In a real tank,
+one just tracks it and shoots.
+
+works both ways. The U.S. Tank
+Commanders are continually frustrating, because they cannot independently execute any but the
+simplest orders or drills ("Who are
+these guys and what are they doing
+in my platoon?"). One must personally perform two of the most important
+defensive drills for each tank: berm
+drills and Sagger dances. This vital requirement can overwhelm a player
+when more than one tank is engaged.
+
+The Soviets Behave Like Real
+Soviets (Usually)
+The manual gives a superb explanation of Soviet tactics and
+the program implements
+them well. The computer
+Soviets maneuver very
+authentically when on the
+offense. Their combination
+of mass and momentum is
+very hard to stop. However,
+they perform less effectively
+than I would expect actual
+Soviet troops to defend.
+Individual Soviet vehicles
+defend passively in the
+game, and rarely move. A
+good rule of thumb to
+remember is: if one is
+spotted, look for
+two more. If
+three are spotted, look for
+more close by. Sometimes,
+a Company (9 to 10
+vehicles) will all sit
+together, and only three of
+them can see over the hill
+in front to shoot. Other
+times, they will simply sit
+out in the open, with no
+cover at all. Even though
+they are defending a
+strong point, the vehicles
+all face west, and do not
+secure their flanks. It becomes easy for one's
+platoon to utterly destroy a
+defending enemy much larger than itself. This situation contrasts very
+much with current Army doctrine requiring a 3-to-1 odds advantage in
+the attack. Usually the military
+employs an attacking company to
+defeat a defending platoon!
+TC's Know Less Than They Should
+Unfortunately, this lack of flexibility
+
+Berm drills and Sagger
+dances are vital tasks.
+A berm drill involves moving a tank
+from a hidden position to a hulldown position, firing a few shots, and
+backing up before the enemy can
+return fire. Every tanker learns this
+basic technique on his first gunnery
+range, and it is usable whenever one
+has some cover to hide a tank behind. Once in a hull-down position
+for a stationary tank, it can overwatch for others as they move. However, once the tank starts taking fire,
+the player has to back it out of
+danger himself.
+
+At this point, a player must shift his
+attention again because any moving
+tank is more exposed and probably
+also drawing fire. To save a tank
+drawing enemy fire, enter the Driver's
+hatch and dodge violently! Move randomly from side to side at top speed
+and head for some kind of cover.
+This makes one's tank a less predictable target, and incoming shots,
+
+especially slower missiles, will be
+less likely to hit. The origin of the
+term "Sagger dance" should be
+very obvious.
+
+into the Kill Zone previously laid
+out. One must be careful not to
+bunch the tanks in the platoon too
+close together. Vehicles on the
+flanks of a U-shaped pocket are
+less likely to be spotted and will be
+firing at the lighter, side armor of
+the approaching enemy tanks.
+
+Halting The Horde
+Successfully defending in the
+game is quite difficult. The Soviets
+usually set the tempo of the battle
+by their speed; one can be rushed
+and overwhelmed before he knows
+it. To defeat a Soviet offensive requires three basic principles: identify a Kill Zone, disperse forces correctly, and concentrate high
+volumes of fire.
+To identify a Kill Zone, look at
+where the enemy is coming from and
+where he is headed. Assume he will
+detour slightly to take advantage of
+available cover. Then, decide on an
+area 1000 to 3000 meters before the
+well-covered position to which they
+
+are headed. This will be the optimal
+area for killing most of the enemy forces (i.e., the Kill Zone).
+Next, identify where each vehicle
+will maneuver, including attached
+units. Place them where they can fire
+
+The first two steps, that of determining a Kill Zone and deciding
+how best to position friendly forces to take advantage of it, can be
+done by careful study of the briefing map. The last step, killing the
+enemy tanks, requires some rapid
+keyboard action on the player's
+part. Ideally, friendly units should
+volley fire as the enemy enters the
+Kill Zone, with artillery coordinated to
+hit at the same time. In the game,
+the best a player will probably
+manage is a ragged ripple-fire effect,
+since it is not possible to get
+
+Game Hints
+
+everyone to move up and fire concurrently. If a tank receives individual orders, it will not
+respond to a platoon order. Disregard artillery; except for smoke,
+it is virtually useless in M-1 Tank
+Platoon. Skilled loaders will give
+one's tanks the best rate of fire.
+Be sure to combine a skilled
+loader with a good gunner to
+make each shot count.
+
+Modem-based, head-to-head play
+is a must in any new game. Establishing one's own unit Standard
+Operating Procedures via macros
+or Omega-style artificial
+intelligence would be nice. Finally,
+the inclusion of obstacles, fortifications and resupply operations
+would add a great deal of realism
+(and complexity!) to the simulation.
+
+After Action Review
+(Conclusions)
+M-1 Tank Platoon is easily the
+best armchair simulation of armor
+tactics that this author ever seen.
+It compares very favorably with the
+Army's specialized simulators. Some
+minor improvements could result in a
+much better product, however, especially creating additional routines for
+dealing with subordinate tanks
+maneuvering out of enemy fire. They
+
+would give the Tank Commanders
+more autonomy, but the documentation describes autonomy as an
+American strength.
+Where should the industry go from
+here? This author has a "wish list" for
+the next generation of simulations.
+
+Until the next generation arrives,
+though, this author strongly
+recommends M-1 Tank Platoon
+to anyone interested in modern armored tactics. Not only does one
+get a versatile game, but the
+documentation concisely and accurately addresses the philosophy behind the design and use of modern
+tanks. This author intends to use this
+program to help train his own tank
+platoon—and that is high praise indeed!
+
+Industry News
+
+Inside
+the
+Industry
+Access Unveils 'World Class Leader Board: VGA"
+At the recent Software Publishers Association meeting, held
+at the Hotel Del Coronado in San Diego, California, graphics
+wizard Steve Witzel provided CGW with a sneak preview of the
+artwork (pictured) to be used in World Class Leader Board: VGA
+(working title). The game will use advanced "shading" techniques
+developed by Witzel to soften the normally unrealistic edges of
+the polygon-filled technology and offer a more natural looking
+fairway. Note that the screen pictured is not complete in that the
+trees lining the fairways have not yet been added.
+Sierra Purchases Dynamix
+As of March 27th, Sierra On-Line, publishers of The Colonel's
+Bequest, King's Quest IV, and Space Quest III (among others)
+reached an agreement in principle to purchase Oregon-based
+Dynamix, developers of Arcticfox, Caveman Ughlympics,
+Skyfox, Skyfox II and Project Firestart for Electronic Arts, F-14
+Tomcat, MechWarrior and DeathTrack for Activision, as well as
+A-10 Tank Killer and David Wolf, Secret Agent under the
+Dynamix label. The purchase of Dynamix offers great versatility
+for Sierra. Dynamix is reported to have several worthy products
+under development, including: a World War I flight simulator
+(probably entitled Red Baron), Blade Hunter: Rise of the Dragon,
+an adventure game with what seems to be a marvelous new interface and graphics which look like they came from a graphic
+novel, and Heart of China, a romantic adventure game.
+Under the letter of intent, Dynamix will become a wholly-owned
+subsidiary of Sierra. The Dynamix label may stay on all the new
+products, but the decision is yet to be made by Sierra. Asked why
+the deal was necessary, Dynamix President Jeff Tunnell stated,
+"Sierra is doing so much so right and we can be helped so much
+by their distribution, marketing and support."
+Cinemaware Buys, Sells and Restructures
+March was an eventful month for Cinemaware Corporation,
+publishers of Rocket Ranger, It Came from the Desert and TV
+Sports: Basketball. On March 14, 1990, the company announced that NEC Technologies, principally known in the entertainment market for its TurboGrafx videogame system, had purchased a minority interest in Cinemaware and acquired a seat
+
+on the board of directors of the software publisher. Bob Jacob,
+Executive Vice-President of New Business Development for
+Cinemaware indicated in an interview with CGW that the minority
+interest was less than 20% of the total share holdings.
+In addition to the NEC interest, Cinemaware purchased the entire inventory of Masterplay's Star Saga series and plans to
+market the titles at a $49.00 price point through Electronic Arts
+Distribution. This should provide better visibility for the products
+according to Jacob. He also indicated that the company will be
+acquiring other disk-based products from outside the company in
+order to continue to have a presence in that market while
+Cinemaware focuses its efforts on multi-media based products.
+Finally, the company restructured its corporate officers with Phyllis Jacob being recognized as President and CEO and David Riordan promoted to Vice-President of Product Development.
+Electronic Arts Inks Pact With Nintendo
+On April 5, 1990, Electronic Arts and Nintendo of America,
+Inc. announced that they had signed an agreement in which
+Electronic Arts became a Nintendo licensee. To date, EA has
+licensed 13 of their disk-based action titles to other Nintendo
+licensees as cartridge-based videogame products. The latest title
+to be so licensed was Ski or Die, which was licensed to Konami.
+Now, EA will not only produce an original title for the NES, Skate
+or Die 2, but are expected to publish versions of Budokan, their
+highly acclaimed martial arts game, and Low Blow, their recent
+boxing game, on the videogame system. Don Traeger's group,
+the in-house production team which has specialized in EA's action and arcade games to date, will have production of cartridgebased products as a primary emphasis. Noting that joystickoriented products that used to do well on the C-64 are performing considerably better on the NES, EA Vice-President Bing Gordon observed that the transition from disk-based action games to
+cartridge-based action games was inevitable.
+Asked if the company's commitment to Nintendo and unconfirmed future Sega commitments would force a cutback in the
+production of disk-based software, Gordon noted that the plan
+(to be presented to EA's board of directors) calls for, at least, sixteen new MS-DOS products (equal to the last fiscal year) and
+eleven new Amiga products (two more than the previous fiscal
+year). The MS-DOS products will focus more on story-telling and
+less on action games and the new Amiga products will feature
+more strategy/simulation games during the same period.
+
+Scorpion's View
+Continued from page 42
+
+The point is to make the companies see that they can't get
+away with sending out severely flawed games anymore, that they
+must take the time to test their products properly, or they're
+going to lose business. You're the business; make yourselves
+heard!
+Bad News Dept: The prospects for an 8-bit Apple version of
+
+Ultima VI are very iffy. Origin Systems is dubious about doing
+one, although there is an outside chance they might change their
+minds. Here is Origin's official current position, from Greg
+Malone, Marketing and Communications Manager for Origin:
+
+In response to the many inquiries being made by Apple users
+regarding whether or not Ultima VI:The False Prophet is going to
+be made available on the Apple platform, I'd like to fill you in
+on Origin's current view.
+Unlike all previous Ultima's, number 6 is the first one which
+was completely designed and implemented on the IBM PC (&
+compatibles) first. When Richard "Lord British" Garriott learned
+that he could make use of the hugely growing IBM compatible
+market which has machines featuring 640K RAM, a hard drive,
+and 256-color graphics, he couldn't resist the opportunity to as
+he put it, " . . . create the ultimate Ultima!" Couple that with the
+ever disturbing fact that the Apple market is continuing to disintegrate at an alarming rate (beginning with base support from
+Apple Computer, Inc., and trickling down to the Apple-specific
+magazines and even to disaffected Apple users), it is little
+wonder that the question about developing Ultima on the Apple
+has arisen. As of this date, a technical evaluation of such an endeavour is being conducted by ORIGIN. When one considers the
+daunting task of converting a 640K game to 128K and doing so
+in a timely and cost-efficient manner, the air of pessimism is unavoidable. Also, it is a widely recognized trend among entertainment software publishers today to focus title development on
+the remaining strong markets, namely IBM & compatibles,
+Amiga (especially for Europe) and the Commodore 64. (This
+mix is certain to evolve and change as time passes!)
+However, the subject regarding an Apple Ultima VI will not be
+entirely decided until all of the facts are in, including whatever
+comment or enthusiasm YOU (the Apple users) can muster. If
+you wish to express your support for an Apple version of Ultima
+VI, you should send (by U.S. Mail) a letter to the address below.
+
+Also, while sending us your comments, send a copy of your letter to your local software retailer and to your favorite Apple
+magazine publisher. If you don't, you could end up fighting a
+lost cause.
+Send comments to:
+Apple ULTIMA Comments
+ORIGIN
+P.O. Box 161750
+Austin, TX 78716
+So, there you have it, folks. If you're an Apple owner, now is the
+time to send those cards and letters, so Ultima VI won't pass you
+by. Good luck!
+
+Taking a Peek
+Continued from page 6
+
+time in order to avoid the dreaded
+"cornfield collision" is as important as the
+revenues your trains generate. Abstracted
+quite a bit, this rail road strategy game is
+still fairly challenging. One wishes the
+game could be extended beyond a year
+and that other railroads were involved in
+the competition. IBM ($49.95). Circle
+Reader Service #6.
+
+Blue Valley Software
+29 Shepard Street
+Walton, NY 13856
+MERLIN and THE MAGIC MIRROR:
+These two programs are both text-only,
+self help packages. Merlin takes place in
+a fantasy underworld where you will deal
+with darkness and light. This bit of fantasy and mysticism cuts you through dealing with fear, love, past mistakes, etc.
+The Magic Mirror is more clinical in its approach, offering you a self help toolbox
+of life changing techniques. One can explore emotions, roles in relationships,
+belief systems and more. IBM ($24.95).
+Circle Reader Service #7.
+
+Data East
+1850 Little Orchard Street
+San Jose, CA 95125
+DRAKKHEN: This is the first of a
+proposed series of Fantasy Role-Playing
+games from Data East. Originally published in Europe by Infogrames, the object is
+to grab the eight dragon jewels from their
+respective princes. If you manage to succeed in gathering these together, you will
+be able to put the old dragon back on
+the throne and save the land of Drakkhen. Drakkhen uses real time interaction, 3-D graphics, and the likes of 200
+magic spells. Amiga ($59.95). Circle
+Reader Service #8.
+
+Electronic Arts
+PO Box 7578
+San Mateo, CA 94403
+THE HOUND OF SHADOW: Set in the
+Cthulhu Mythos of H.P. Lovecraft, this
+text/graphic adventure uses the
+"Timeline" role-playing system to create a
+shadowy world of spiritualism and magic
+in post-WWI England. Using an extensive
+character creation system, players
+generate unique personas with attributes
+and skills will affect the course of each adventure. The game system, which melds
+role-playing and adventure gaming elements shows promise and the setting is
+colorful and refreshingly different, but the
+game is plagued by an awkward text inter-
+
+face and parser. Amiga ($39.95). Circle
+Reader Service #9.
+
+50 Dunham Road
+Beverly, MA 01915
+
+Free Spirit Software
+P.O. Box 128
+Kutztown, PA 19530
+
+TRIVIAL PURSUIT: If you haven't already burned out from playing the board
+game, you will probably enjoy the computer version of this classic from the
+eighties. The computer version of "Trivial
+Pursuit" does give you many, many
+categories of questions to base your
+game play on, but even though the computer opponents have distinct personalities (areas of specialized
+knowledge), they just don't get excited
+enough to rail and cajole like people do.
+IBM with two disks ($39.95). Circle
+Reader Service #11.
+
+DRAGONSCAPE: One thing you notice
+right away about this little shoot 'em up
+arcade game, is that it's pretty. The
+graphics are well done (which is rare in
+this medium—get it? Rare, medium and
+well done!). Ahem, yes. The screen
+scrolls smoothly while you fly your dumb,
+but trusty, dragon Garvan around Techno City and WasteLand in a quest to
+match puzzle pieces (battery with flashlight, etc.) while zapping the nasties constantly buzzing around you. The tunes
+are worth keeping the volume left on,
+too, which is a rarity for an arcade game.
+Amiga ($39.95). Circle Reader Service #10.
+
+Parker Brothers
+
+Psygnosis Ltd.
+S. Harrington Buildings
+Sefton St. Liverpool L3 4BQ
+INFESTATION: Psygnosis joins the 3-D
+poly-filled graphics club with this interesting entry. Set in a planetary colony overContinued on page 56
+
+Taking a Peek
+Continued from page 64
+
+run by aliens al la "Aliens" (and a
+hundred others), the player maneuvers
+himself freely in a 3-D first person environment (a la Mindscape's "The Colony").
+The goal is to uncover the mysteries of
+the human outpost's demise. The Psygnosis graphics are top-quality, but the interface is not a simple one and the
+documentation is typically sparse. Amiga
+(no price). Circle Reader Service #12.
+
+Sierra On-Line, Inc.
+P.O. Box 485
+Coarsegold, CA 93614
+CODENAME: ICEMAN: Recognized as a
+leader in computer adventure games,
+Sierra On-Line has just unleashed Jim
+Wall's latest: a cold war technothriller
+game. "Codename: Iceman" is a combination adventure game AND action game,
+complete with a stealth submarine
+simulator. Best of all, the "Iceman"
+delivers one particularly "cool" feature: a
+mouse interface so that one may "point
+and click" rather than "look this" and
+"look that". Typical of recent Sierra
+releases, "Iceman" utilizes nine 5.25"
+disks or four 3.5" disks, supports several
+16 color graphic and many sound cards.
+IBM ($59.95). Circle Reader Service #13.
+
+Ultra Games
+(a division of Konami)
+900 Deerfield Parkway
+Buffalo Grove, IL 60089
+TEENAGE MUTANT NINJA TURTLES:
+Those slice 'em, dice 'em heroes on the
+half shell are all here for plenty of arcade
+action. Out in force to rescue their lovely
+heroine (April O'Neil) from the clutches of
+the evil Shredder, the green guys have to
+kick 'em below the shell through six New
+York territories, each full of bad guys.
+With a slice of pizza in one hand and the
+joystick in the other, it's off to the sewers
+to clean up the city of New York (and you
+thought Hercules cleaning the stables
+was tough!). Amiga ($44.95). Circle
+Reader Service #14.
+
+Villa Crespo Software
+P.O. Box 1818
+Highland Park, IL 60035
+AMARILLO SLIM'S REAL POKER 5
+CARD STUD: Okay, here's the deal .. .
+Amarillo Slim is the voice in your ear,
+counseling you when to hold 'em and
+when to fold 'em. Of course, if you don't
+follow Slim's advice, you'll find out Slim's
+idea of when to scold 'em, too. You play
+against three computer opponents, each
+with a personality which can be psyched
+out, just like a human opponent. The
+
+computer keeps your stats, gives you a
+rating (depending how much your style
+coincides with Slim's) and even gives you
+expressed, written suggestions as to how
+to improve your play. A good buy-in for
+poker players. IBM ($49.95).Circle Reader
+Service #15.
+
+Virgin Mastertronic
+18001 Cowan
+Irvine, CA 92714
+BUTCHER HILL: For all you quarter
+pumpers out there, here is another joystick jockey's delight. Butcher Hill presents
+you three challenges to complete your
+mission, each with a different style of arcade play. Plenty of shoot 'em up and
+quick reflexes are required as you speed
+down the river, grunt through the jungle
+and devastate a village. C-64/128
+($9.99). Circle Reader Service #16.
+HOUSE OF CARDS: This could be the
+deal of the day if you like a few of the six
+card games in this package. Two handed
+bridge, hearts, cribbage, spades, pinochle
+
+or gin rummy are the challenge, each
+with a variety of game options to keep it
+lively. The graphics are what one would
+expect, the computer play is crisp and intelligent, and the value is really there.
+IBM ($14.99). Circle Reader Service #17.
+
+Visionary, Ltd.
+15235 Shady Grove Road Suite
+100
+Rockville, MD
+DRAGON'S LAIR: ESCAPE FROM
+SINGE'S CASTLE: Dirk the Daring, that
+suave arcade adventurer of yesteryear,
+lives on in part two of the personal computer version of the original laser disk hit
+"Dragon's Lair". This version contains
+several more graphically stunning rooms
+from the original arcade game. Remember the mudmen room and the crumbling pathway? The smithy and the flying
+horse? The rooms are abbreviated somewhat but are faithful to the original in
+sound and graphic detail. Amiga
+($59.95). Circle Reader Service #18.
+
+Review
+
+Wait 'Til They Get A
+Load Of This!
+Data East's "Batman: The Movie" Game
+by David M. Wilson
+he odds are
+always
+against the
+Caped Crusader.
+Many dedicated Batmaniacs
+prophesied that the
+Batman movie
+would be a financial disaster due to
+the choice of
+Michael ("Mr.
+Mom") Keaton to
+play the Dark
+Knight. The odds
+were against him,
+yet the movie went
+on to become a
+box office bonanza.
+Bathysteria and Batcapitalism proved
+that just about anything with the Batlogo on it could,
+and would, sell.
+
+T
+
+found by working
+to the right of the
+screen. Then,
+when one gets to
+the end of this
+maze, there is Jack
+Napier himself. Nail
+him with the
+Batarang. He'll topple down into a vat
+of toxic chemicals
+and then, "Holy
+toxic waste, Batman, you've
+created the Joker!"
+
+Scene two is a
+race through the
+streets of Gotham
+City in the Batmobile. Players
+must avoid collisions with other
+cars while following
+TITLE:
+Batman
+the prompts to the Batcave.
+SYSTEMS:
+Atari, Amiga, C64/128
+The challenge is in using
+REVIEWED ON: Amiga and C-64/128
+Amiga ($44.95),
+Data East has jumped on PRICE:
+the Batrope to make some
+Atari ST ($39.95), and
+the Batman bandwagon
+of the hairpin turns involved
+C64/128 ($29.95)
+(Batwagon?) with their
+in Gotham's dense traffic
+DESIGNER:
+Ocean Software
+PUBLISHER:
+Data East
+second Batgame, Batman
+pattern. There will often be
+San Jose, CA
+(their first being Batman,
+cars between the Batmobile
+The Caped Crusader). Batand the corner, but players
+man is based entirely on the cinematic trican go ahead and shoot the Batrope,
+umph of last summer.
+anyway. The other cars will back off if the
+Batmobile slows slightly when the
+Scene one places the player at the Axis
+Batrope is fired off. Remember, speed is
+Chemical plant. The player must find his
+of the essence in getting to the Batcave.
+way through this maze in order to stop
+Jack Napier from cleaning out records of
+Speaking of essence, scene three recriminal activity. This time, Batrnan has
+quires the player to use some rudimenthe ability to swing on a Batrope (a detail
+tary skill in logic. First, the screen displays
+neglected in the earlier Batman game).
+a sampling of objects. Then, using the
+Players must take care when swinging on
+highly developed and sophisticated Batthe Batrope because of the many
+computer (actually, the player's own
+obstacles (like brick walls) inside the
+brain), players must find the three
+chemical plant.
+products which contain the various elements of the compound called Smilex.
+The Joker's henchmen can usually be
+The program will tell the player how
+felled by a thrown Batarang, but Batman
+many out of the three chosen items are
+can also take the bad guys out of comcorrect (as in the game Mastermind). So,
+mission by swinging into them or dropthe player continues selecting items until
+ping on top of them. Batman must not
+he runs out of time or until he has
+only avoid their bullets, but also the dripchosen the three correct items.
+ping toxic waste caused from bullets striking pipes, etc.
+In scene four, the Gotham City Carnival
+is certain to be a disaster if the player fails
+Getting through the maze in scene one
+to pilot the Batwing aircraft properly. In
+is difficult at first. Players should rememthis sequence, would-be Batpilots try to
+ber that the ultimate goal can always be
+
+catch the balloons which contain
+poisonous gas and cut their towlines. It is
+very difficult to judge the correct angle to
+hit the lines and will cause some consternation to even the most coordinated joystick veteran. To make matters worse, the
+Batwing sustains damage whenever it
+catches the balloons at the wrong angle.
+Piloting is much easier in the Amiga version, because it offers a more realistic
+viewpoint in terms of the Batwing.
+
+The final setting is Gotham Cathedral.
+Another maze awaits players here as our
+hero climbs the stairs to do battle with
+the Joker. Collapsing staircases and
+machine-gunning henchmen are the
+obstacles one finds here. This is all in a
+day's work for Batman, however.
+
+Batman, the game, catches most of the
+flavor of the Batman movie. However, the
+C-64 version is very disappointing because machine lock-ups continually
+occur. For instance, hitting the joystick
+button at the wrong time causes the program to freeze up. Indeed, there are quite
+a few other computer gremlins lurking in
+the C-64 version, including villains that
+just float on-screen for a moment and
+then mysteriously disappear.
+The Amiga version is more lovingly
+crafted, making the Batwing and Batmobile scenes in the C-64 version seem
+thrown together. The Amiga version has
+a view from above and behind the Batmobile, while the C-64 has a view in
+which the player looks down from a distance. Some would blame the limitations
+of the machine, but not this author
+(having previously seen C-64 based
+games, such as TechnoCop from Epyx,
+that used the same point of view as the
+Amiga version of Batman does).
+If one has an Amiga and loves action
+games, this can be a very enjoyable
+game. Due to the frequent lock-ups and
+freezes on the C-64, however, that version cannot be recommended (even to
+Commodore owners). Data East has
+come much closer to producing the look
+and feel of the Batman genre with Batman than they did with Batman: The
+Caped Crusader. Now, we can await the
+game and movie sequels, with their new
+storylines and villains. -
+
+Over There
+Continued from page 10
+
+the player must control his son in an effort to track down the "murderer". The
+one major feature that stands out from
+this "good vs. evil" adventure is the interface. It is totally adaptable and can be
+customized to suit your needs. You can
+have text input or a complicated menu to
+select commands from. The menu can
+be of any size. The screen can not only
+be 40, 60 or 80 column, but you can include the text within windows or as two
+columns. The text, background, status
+line (which can be turned off) can be of
+one of a variety of colors. The usual
+undo, ramsave/load, etc. features are included as well as an advanced parser.
+Further interesting commands include a
+"think about" command and a randomizing feature (throw a book and one will be
+randomly thrown from the batch carried).
+The parser is intelligent, so if one wishes
+to open a door, and already has a key,
+the parser will automatically open it. If
+
+there are a variety of doors, the player will
+be presented with a list from which to
+select a choice. The list of features goes
+on and on!
+UK software house, Palace can now
+offer you the chance to control your
+own stable of Dragons in their latest tale
+of arcana called Dragon's Breath.
+Legend has it that the secret of eternal
+life lies in the throne room of Dwarf
+Mountain palace. Before one can reach
+that, however, he must collect the three
+pieces of a talisman. The player will start
+the game with one Dragon, so a bit of
+breeding won't go amiss here. Wealth
+must be generated, which can be
+achieved via conquering villages (this includes an arcade-type sequence as the
+player controls his dragon's attack on the
+village). The game also includes a complicated magic system which can be used
+to increase wealth and your dragon's
+powers. Dragon's Breath, for up to three
+players, is available now on Amiga and
+ST (£29.99).
+Then there's the game produced
+by...oh, crumbs, I've run out
+
+of space. I dunno, I just get into the
+swing of things and it's time to bid
+farewell. See you next month. mind how
+you go.
+NOTE: The above games, and any of
+the other games mentioned in "Over
+There" in past issues, can be obtained
+from:
+COMPUTER ADVENTURE WORLD,
+318 KENSINGTON, LIVERPOOL,
+ENGLAND, L7 OEY. TEL: 01144-51263-6306
+SDC, 60 BOSTON ROAD, LONDON,
+ENGLAND, W7 3TR. TEL: 01144-1-5677621
+PREMIER MAIL ORDER, TRYBRIDGE
+LTD., 8 BUCKWINS SQ., BURNT
+MILLS, BASILDON, ESSEX, ENGLAND,
+SSI 3 1 BJ. TEL: 01144-268-590-766
+All of the above telephone numbers assume direct dial. If you find that
+problems occur, call your international
+operator for assistance.
+
+Sneak Preview
+
+Workin'
+On The 01'
+Railroad
+Sid Meier's Railroad Tycoon
+Is Right On Schedule
+by Russell Sipe
+
+I love trains. And that is why I have been so disappointed until
+now. As a railfan and a model railroader I have had a computer railroad game in my mind for several years. For a variety
+of reasons, it has never been developed. To be sure, other computer railroad games have been produced. But these did/do not
+have the depth (e.g. Abracadata's Design Your Own Train) or
+breadth (e.g. SSI's Rails West and Artdink's Railroad Empire) to
+excite me.
+But now there is Sid Meier's newest game, Railroad
+Tycoon. To put it succinctly, this is Sid's best design yet.
+And that's saying a lot, when you consider that his last two
+designs were the award winning F-19 Stealth Fighter
+and Pirates.
+
+designs were the award winning F-19 Stealth Fighter and
+Pirates.
+Overview
+
+Sid Meier's Railroad Tycoon (Tycoon) recreates railroading in the U.S., Britain, and Europe from the early days
+(1828) to the present. In doing so, Sid has brought
+together three great railroad themes: corporate financing,
+track laying, and operations/dispatching. In Tycoon, all
+three themes are treated in depth. The beauty of the
+design is that you can set your level of involvement for
+each of the themes. For example, you can specify "friendly" or "cutthroat" competition to determine the intensity of
+conflict with other railroads in the game. The operations
+mode can be set to dispatcher mode wherein you are
+forced to pay more attention to train movements and the
+location of signals, or you can chose to let the computer
+control operations. Finally, the economy can be set to
+"complex" or "simple". This affects the difficulty level of
+matching the correct cargos to particular destinations.
+The Background
+
+The spiritual predecessors to Tycoon are 1830 (a board
+game from Avalon Hill) and SimCity (the award winning
+computer game from Maxis Software). SimCity you say?
+That's right! The elegant construction sequence and underlying "engine" that runs the world in SimCity was the inspiration for the construction interface and "world" of
+Tycoon. Like SimCity, the player gets immersed in the
+building of his world/railroad empire. Tycoon is, at least, as
+addictive as SimCity, perhaps even more.
+The Particulars
+
+Tycoon is a one player game in which you compete
+against up to three computer controlled opponents to
+build a profitable railroad empire. There are three theaters
+or scenarios: England (with an 1828 starting date); Eastern
+U.S. (1830); Western U.S. (1866) and Western Europe
+(1900). Each scenario has certain peculiarities. Cargos and
+therefore strategies differ. For example the Western U.S.
+scenario poises you at the historical moment when the
+transcontinental railroad was begun. By giving you a one
+time cash bonus when you complete your transcontinental
+line and by doubling the revenue for some cargos
+delivered East-West and halving the revenue of some cargos delivered North-South you are "forced" into building
+your own transcontinental road. Note: once your transcontinental line is completed and your bonus collected, the
+doubling/halving of revenues is eliminated.
+The actual location of resources, industries, and population distribution change each game (thus each game is unique). Cities are always in the same location, but their sizes
+vary. For example, New York may start as the largest settlement in the area in one game, but merely a minor settlement in another.
+Course of Play
+
+The game is played in real time with a user selectable
+time scale. At "moderate" rate, one month passes each 10
+seconds (plus time outs that occur when certain screens
+
+are accessed). Although the time scale is unrealistic in one
+respect (trains take several months to reach their destination), this anomaly does not affect the perceived realism of
+the simulation. A typical 10 minutes with the game might
+go something like this:
+It's August 1850 and your Golden Empire Eastern Railroad has $615,000 in operating funds. Your road
+dominates Western Maryland. As the month opens two passenger trains arrive (one in Harper's Ferry and one in
+Johnstown) bringing $146,000 in revenue. Using Regional
+Display, you notice a large population area to the southwest. You go to an Detail Display of the area and learn
+that the city is Bluefield, West Virginia. It was the terminus
+of a now defunct railroad company (thus it's large size).
+Here is a city ripe for picking.
+You check the economic climate: "normal". Buying rightof-way and laying track is a bit more expensive than you
+would like right at the moment. You decide to wait, hoping
+for a downturn in the economy which will cause land and
+labor to be cheaper. In the meantime your established
+trains follow their appointed schedules producing revenue.
+Your patience pays off. In January 1951 the economy
+slips into a recession. Now, you can afford to build. But,
+just to be safe you decide to call your broker and check on
+the activities of the other railroads (you'd hate to be in a
+big building project if one of your opponents decided to
+made a run on your stock).
+Your broker informs you that, at $43 per share, your
+stock is currently the most valuable RR stock on the board.
+Although Jay Gould has a million dollars in operating
+funds in his Bangor & Portland RR, it is doubtful that he
+would make a run at you. Your broker also reveals that Cornelius Vanderbilt's Akron and Cleveland RR is hurting financially. The stock is going for $8. However, with 50% of
+A&C's stock in the A&C treasury, Vanderbilt is safe for the
+moment. You make a mental note to monitor this situation.
+Now it's time to build your line to Bluefield. The Southwest terminus of your line is currently at Winchester (in the
+midst of vast coal fields). From Winchester you strike out
+to the southwest heading down the Shenendoah Valley.
+You turn west to build through a gap in the Appalachian
+Mountains and lay track into Bluefield. Because there are
+
+steel and paper mills three squares from your railhead you
+decide to build a Terminal in Bluefield (pretty expensive,
+but the Terminal's 3 square radius allows you to pick up
+loads from the mills). With the completion of the
+Winchester-Bluefield line you go to your engine facility in
+Harper's Ferry and "build" a new train. You buy a 4-4-0
+American steam engine and add some passenger cars.
+Now you establish a regular run for this train between
+Harper's Ferry and Bluefield (via Winchester). Finally you
+add a couple of signal towers along the route to expedite
+your train movements.
+In the mean time you have received a series of messages
+informing you that Gould has been selling stock in the
+B&P (thereby amassing a war chest in excess of
+$1,500,000) while Vanderbilt has been selling stock in the
+A&C. It may be time to think about an acquisition... or perhaps you should be preparing to avoid a hostile takeover attempt. It's a dog eat dog world out there. What will you do?
+Other Points of Interest
+
+The documentation is typical for Microprose, over 200
+pages cover the rules, historical background, and some
+strategies. Note that the EMD GP Diesel portrayed on the
+title screen and in the documentation is not available in
+the game. Sid says he hopes to implement the EMD GP
+with later scenario disks. Yes, that's right, Sid hopes to
+develop a series of support disks for this product (no
+details yet).
+This game is detailed and realistic enough that it could
+serve as a teaching tool in history, economics, and
+management classes. Teachers take note.
+The sound routines on the Roland and AdLib are excellent. Great steam engine sounds accompany your engines
+as they come out of the shop. Nice functional sounds
+during play serve as audio cues to events in the game.
+Even the IBM sound is functional, although obviously a far
+cry from the AdLib and Roland.
+Summary
+
+I love trains . . . and that is why I am so excited. This is a
+great game. This is the game I wanted to design, and
+more. Since I didn't design it, I'm glad Sid did. All Aboard!
+
+Letters
+
+Letters From
+Paradise
+
+Beckett Betrayed
+I was disappointed to learn that M. Evan Brooks' review of our product,
+Battle of Austerlitz (CGW #70), was inaccurate and incomplete. This
+reviewer claims to spend the most time on the games he reviews versus
+other reviewers (a claim he made to me during a phone conversation).
+However, after noticing the glaring inaccuracies and obvious omissions, I
+can only conclude that he did not spend an adequate amount of time with
+our product.
+For example, in the title box, Austerlitz is described as a one player
+game, while in reality the game can have one or two players, along with
+the option of having the computer play itself. How could this have been
+missed!
+Also, the reviewer recommends the use of the military symbology over
+the icons "since it yields more information as to a unit's status." This statement is false. Unlike any other wargame we are aware of, the icons in
+Austerlitz animate, revealing exactly what each unit is doing, such as
+melee, marching or firing. Nothing is more exciting in Austerlitz as seeing
+an entire line of infantry raise their muskets to their shoulders and proceed
+to rout enemy attacking formations through blistering fire, all of which unfolds continuously.
+The most outstanding feature of Austerlitz is the way leaders are handled, though the review only casually mentions their existence. In the game,
+each army the computer controls can have one of six different overall
+army leaders put in charge. The computer will then assume the persona
+and fight the battle using his characteristics: aggressive, cautious, etc.
+Each leader is modeled accurately and has a noticeable effect on the
+game, though in our phone conversation with the reviewer, he implied that
+he had only played the game with the historical leaders in charge.
+However, it does not end here. Each corps in the game is also rated
+based on the historical commander of the corps. When a player utilizes a
+corps order, which can be move, attack or defend a certain location, the
+corps will attempt to carry out the order very intelligently based on the
+capabilities of the commander. One who has played the game will notice
+how slow and cautious some of the Allied columns are compared to the
+fiery Bagration's. These corps commander levels, along with each army's
+morale, can be adjusted at the beginning of play for balance. Of course, if
+the player desires complete control of a corps, he has it by not issuing a
+corps orders. Thus, both styles of play are present. All of this was omitted
+in the review.
+Major features of the game also escaped the reviewer. Hidden movement
+is available, which takes range, weather and battle effects into account for
+determining visibility. One can choose to have the computer use the historical strategy, or randomly choose among many alternate strategies. A combat watch window can be turned on or off, providing a text and graphic
+result for each combat in a pop-up window for those desirous of knowing
+the numbers in our calculations.
+Finally, I must take issue with the reviewer's historical remarks. His assertion that it would be necessary for the French to attack the entrenched allied positions had the allies suddenly gone to the defensive shows only an
+elementary understanding of the campaign. He claims that had the French
+not attacked on December 2nd, it would have been a strategic defeat for
+Napoleon. This does not take into account anything which could have happened subsequently. I must confess that I am not among those that
+believe the French army was going to mysteriously vanish on December
+3rd.
+In conclusion, Austerlitz is many orders of magnitude better than our
+Borodino game, which won the Charles S. Roberts award for best pre-20th
+Century Computer Wargame. Maybe the reviewer would have been pleased
+
+with Austerlitz had he utilized all that it offered. I hope in the future, when
+CGW prints an unfavorable review, they will contact the publishing company so as to prevent inaccurate reviewslike this one getting published
+without an immediate response.
+Stephen M. Beckett II
+Project Leader, Austerlitz
+Cornerstone Software, Inc.
+Other than that, how did you like the review, Steve? Seriously, the
+Basic Information Box error cannot be blamed on the author. We try to
+reference that information against in-house products as a fact-checking
+device. In our hurry to cover Napoleon at Austerlitz, we did not have a
+production copy of the game in-house to doublecheck the information
+against. "Mea culpa," said editor Johnny as he realized his mistake.
+Many of the assumed oversights which you mention are not mistakes,
+but a difference in philosophy. Hidden movement, weather, etc. were not
+mentioned because most wargames have those features. Further, we
+could turn every page of CGW over to discussing the "What if's of the
+campaign without settling it. We appreciate your explanations of those
+areas which remained unclear after the review, but want to remind you
+that it is not our policy to allow software companies to respond to a
+review until it has been published. If an error occurs, it is better to err independently than to err on the basis of publisher/designer influence.
+
+Point of Purchase
+I purchase games, in part, based on the company and the designer. I
+would like to see the name of the designer on the packaging. Also, certain
+companies, such as Koei and SSG would find their sales would increase
+if their products were easier to find in normal retail outlets.
+Steve Burgess
+Stanton, CA
+Both companies face some resistance in the retail market. Wargames
+do not seem to be moving fast enough to suit some retailers and their
+primary distributors, so some quality games have trouble reaching the
+retail market. If there is sufficient customer demand, however, the stores
+will stock them. Talk to your local store. That's where the action is.
+
+Reader Input Device
+
+

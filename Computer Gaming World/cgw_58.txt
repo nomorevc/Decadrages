@@ -1,0 +1,3556 @@
+April 1989
+
+Number 58
+
+Features
+Desert Rats
+The Game, Not The T.V. Show / M. Evan Brooks
+
+Jetfighter
+Velocity's Simulation, Not The Plane / Daniel Hockman
+
+Activision's "F-14 Tomcat"
+The Plane, Not The Animal / Brad Bombardiere
+
+Annals of Rome
+
+7
+7
+12
+12
+16
+16
+22
+
+"Wayne Gretzky Hockey," Eh!
+
+38
+
+The Game, Not The Player / Johnny L. Wilson
+
+Gold Rush
+
+59
+
+Sierra Explores The Mother Lode / Michael Chaut
+
+Scavenger Hunt Results
+
+61
+
+Scavenger, Not Scavanger
+
+PSS' Epochal Epic, Not The Encyclical / M. Evan Brooks 22
+
+Scorpion's Mail
+
+24
+
+Hints on "Manhunter," "Ultima V," and VII More / Scorpia 24
+
+Techno-Cop
+U.S. Gold's Disk, Not The Detective / David M. Wilson
+
+The Magic Candle
+Mindcraft's Program, Not The Paraffin / Scorpia
+
+Computer Cavalcade of Sports
+CGW's Second Annual Sports Survey / Wyatt Lee
+
+Mindscape's "Captain Blood"
+Science Fiction, Not Swashbuckling / Kevin C. Rohrer
+
+27
+27
+28
+28
+32
+32
+35
+35
+
+Departments
+Letters
+Taking a Peek
+Rumor Bag
+Inside the Industry
+Conversions Received
+Back Issues
+Reader Input Device
+CGW Hall of Fame
+Game Ratings
+
+4
+8
+10
+14
+41
+57
+63
+63
+64
+
+Letters
+
+For publishers, it's also very costly to
+produce and market games. When
+development, marketing, advertising and
+production are included, it costs
+anywhere between $250,000 and
+$500,000 to introduce a new product.
+After retailers and distributors take their
+share of the purchase price, the publisher
+receives in the range of $12 to $20 per
+copy sold to cover its cost and profits. In
+addition, publishers must support their
+products with new updates and offer
+telephone and network support for users.
+
+Low Shelf "ST"eem
+When the Atari ST first came out, many
+of us thought that the Atari would become the best-selling personal computer.
+Just as the Commodore C64 when it first
+came out, the Atari ST represented state
+of the art technology at a cost that
+everybody could afford. Programmers
+naturally gravitated towards the ST because of its low cost and high performance. But the Atari ST has suffered
+from both a lack of software and poor
+market positioning. Its fate has been
+much the same as that of the Atari
+400/800 (which was light-years ahead of
+the C64 in many ways): a great machine
+with little or no support. Those who
+bought Atari STs were quickly forced to
+band together through networks and
+user groups.
+Talking to Atari users, we learned many
+wanted to see our best-selling air combat
+simulator, Falcon, converted to the Atari
+ST. They also wanted us to take full advantage of the machine's capability,
+rather than doing just a simple conversion from the Macintosh or IBM in the
+way that many other titles have been converted.
+Many of our competitors warned us that
+releasing an ST product would be a
+money loser. We were told that within
+weeks the product would be up on the
+bulletin boards and sales would fall to
+zero. We chose to disregard these comments and felt that a majority of Atari ST
+users really wanted new products and
+that the piracy problem only existed with
+a small handful of users. Many of us did
+not even want to put copy protection on
+the product because we feel that copy
+protection is inconvenient and a
+nuisance for the honest user. Copy
+protection is also expensive, adding
+about $0.50 per copy to our cost of
+production.
+However, within thirty days of releasing
+
+Falcon ST, pirates had put the product
+up on the bulletin boards—complete with
+diagrams for the code wheel protection,
+keyboard layout, and mission maps of
+the product.
+
+***The real cost of such software
+piracy is not the lost $49.95 sale, but
+rather the lost industry support for
+Atari ST.***
+Whether the machine format is an IBM,
+Amiga, C64, Apple II or Macintosh, piracy
+will always exist. A good software company accepts this fact and hopes that
+there are enough users out there who do
+not pirate to cover the cost of developing
+and publishing a product and allow for a
+reasonable profit.
+Many ST owners argue that the ST has
+no more pirates than IBM or Mac. Many
+of us at Spectrum Holobyte believe this
+to be true. The problem is that the number of installed STs is considerably
+smaller than that of the IBM or Macintosh, thus increasing the impact of piracy
+on sales. In addition, ST pirates seem better organized and piracy seems more accepted (or, should I say, tolerated) by ST
+users.
+The cost of developing a product is
+quite high, especially on a complex
+machine like the ST. Falcon ST was converted and enhanced by a third party
+developer. A third party developer lives by
+the royalties for each copy sold. Rowan
+Software, the company that converted
+Falcon, spent over $40,000 and 24 manmonths on the Atari ST version.
+The Amiga version has already doubled
+the sales volume of the ST, even though
+Amiga Falcon has been on the market
+for only 6 weeks while Falcon ST has
+been released for 9 weeks. When the
+Macintosh and IBM versions were
+released, they sold four times the volume
+of product over the same period of time.
+Based on the current sales trend, the ST
+developer will be lucky to break even. A
+good-selling Amiga or Macintosh product
+will sell 20,000-40,000 copies in its first
+year. An IBM title will sell 40,000-100,000
+copies, yet a top ST product would be
+lucky to sell more than 15,000. It will be
+very difficult to convince this development company to do another ST conversion when it could make triple the dollars
+programming an Amiga, IBM, or Macintosh product.
+
+There is no clear-cut solution to the
+problem of piracy. All we can ask is that if
+you like a program, buy it. Think of it as
+an investment. The more invested, the
+more and better titles you'll see for the
+ST. Help us send a message to the rest
+of the industry that there really is an ST
+market willing to buy good software.
+Spectrum Holobyte will continue to
+monitor the ST market and keep a close
+eye on what happens with Falcon ST. It's
+a shame that a few users can hurt a
+market as badly as the ST pirates and
+deprive thousands of good ST users of
+the product support that other machines
+receive.
+Gilman G. Louie
+CEO/Chairman
+Sphere, Inc. (Spectrum Holobyte)
+
+Ed: We are regularly asked why the industry does not support the Atari ST to
+the degree it supports other machines.
+We appreciate this software executive
+telling it like it is. This is certainly the
+clearest exposition of the problem we
+have seen to date.
+
+Cherishable Donation
+I'm donating a set of CGW to the local
+public library, so maybe that'll help
+spread the word about your fine
+magazine. Although the constraints of
+deadlines sometimes prevent you from always having a complete list of formats,
+your reviews are excellent and have
+steered me to numerous purchases, purchases I have thoroughly enjoyed. Your
+coverage of various trade shows always
+seems to include information that I
+haven't found in other sources. Maybe
+nothing big, but usually something about
+a product in development that piques my
+interest. It's nice stuff. Keep it up.
+Gordon W. Meyer
+Ames, IA
+
+Ed.: Thanks, Gordon. We hope your
+library's patrons get as much value out
+of the CGWs as you have. Now, if only
+this would start a philanthropic trend
+among our readers . . . a CGW on every
+shelf, not a bad idea.
+
+Taking A Peek
+
+Abracadata
+P.O. Box 2440
+Eugene, OR 97402
+DESIGN YOUR OWN TRAIN:
+MACINOOGA CHOO-CHOO:
+Frustrated by the lack of space in your
+domicile to build your dream model railroad? Well, Design Your Own Train may
+not give you the satisfaction that comes
+from recreating your favorite railroad
+town in miniature or airbrushing grime
+on your favorite GP-40 diesel locomotive, but you CAN get the satisfaction of
+designing your own complex layouts. In
+the Mac version (known as Maclnooga
+Choo-Choo) track pieces can be layered
+to create double track, switches, crossovers, etc. Beyond the basic scenery
+available in the program, you can import
+your own creations from MacPaint. MacInooga sells for $49.95 (will not run on
+Mac II).
+Less visually interesting is the Apple II
+version (Maclnooga trains look like
+trains while Apple II trains are represented by a string of small squares on
+the track). However layouts can be at
+least as complex, if not more so.
+A third product, Run Your Own Train
+(Apple II 64K, $34.95) allows you to get
+
+inside the cab of your own train and
+highball down the line. Use layouts
+designed with DYOT or create layouts
+within the RYOT program. Circle Reader
+Service #1.
+
+Capcom USA, Inc.
+1283-C Mountain View/
+Alviso Rd.
+Sunnyvale, CA 94089
+BIONIC COMMANDO: This action
+game, part of Capcom's "Challenge
+Series," features a hero with a bionic
+arm that extends and contracts a la
+"Doc Octopus" of Spiderman infamy.
+The graphics are relatively primitive for
+the "Ramboesque" genre and the
+screens do not scroll; they are more like
+pages with a hesitation between them
+for a page turn. The documentation
+does not even tell you how to use your
+bionic arm (just push up on the joystick,
+while pressing the left button on your
+
+joystick's base). One or two players with
+joystick required. IBM (pictured)
+($34.95), C-64 ($29.95) and Amiga
+($39.95). Circle Reader Service #3.
+STREET FIGHTER: Beautiful
+graphics are the highlight of this "Challenge Series" action game. One or two
+players challenge Martial Arts fighters
+from around the world to become
+"Master of All." Special moves like the
+"Fireball", "Helicopter Kick", and "UpperCut" are part of the player's repertoire in
+this joystick driven game. IBM (pictured)
+($34.95) and C-64 ($29.95). Circle
+Reader Service #4.
+
+Capstone
+14160 S.W. 139th Court
+Miami, Florida 33186
+TRUMP CASTLE: The player can
+choose from six different gambling
+(Continued on page 52)
+
+Review
+
+INTRODUCTION
+Desert Rats is a British import, which covers the North
+African Campaign of World War II in extensive detail. With an
+original copyright date of 1985, it is apparent that Desert
+Rats is not state-of-the-art, and many of its game mechanics
+bear a distinct resemblance/debt to both Eastern Front
+(Chris Crawford) and Knights of the Desert (SSI). Despite
+these drawbacks, the simulation is the most comprehensive
+simulation of the African Campaign released for the computer.
+
+DESERT
+RATS
+by M. Evan Brooks
+
+DOCUMENTATION
+The documentation is average. The game mechanics are
+sufficiently explained and both tactical hints and historical
+background are supplied. Yet, there are some omissions: the
+documentation offers six scenarios, but the program offers
+eight (Operation Compass, commencing on 9 Dec 40 and
+Beda Fromm, commencing on 24 Jan 41 are the two additional scenarios). In addition, although victory conditions are
+noted, the distinction between tactical and operational/strategic victory is lacking.
+Logistic rules are well-defined. "Amateurs think tactics;
+professionals think logistics." Perhaps the two campaigns
+most deserving of a detailed treatment of logistics are the
+Pacific Campaign and the African Campaign of World War II.
+Therefore, the player will find himself paying particular attention to the supply rules in order to effect optimal utilization
+of his forces.
+There is no order of battle. With a campaign scenario lasting 624 turns, an order of battle would appear to be a necessity. Its absence coupled with unannounced withdrawals compels a conservative mode of play. This may well yield a semihistorical command mode, but this reviewer would have appreciated some additional details.
+
+GAME PLAY
+The map and character set are reminiscent of Eastern
+Front; commands for each individual unit are input by keyboard. The most noticeable aspect of command input is that
+the commander does not have the choice of when and
+where to give commands. Like some early SSI land simulations (cf. Operation Market-Garden and Breakthrough in the
+Ardennes), the program offers a fixed unit order for commands. Depending on the tactical situation, this can confuse
+the player by breaking up a coordinated attack into a series
+of isolated tactical actions.
+Unit stacking is allowed, with up to a division and two
+brigades allowed in the same square. This permits detailed
+concentration in order to force a breakthrough (Schwerpunkt), but the difficulty of remembering where the stacks
+have been made and the clumsy rigid battle order system
+makes such concentrations of limited use, somewhat reminiscent of SSI's Knights of the Desert.
+Various commands may be given: (M)ove, (A)ssault, (H)old,
+(T)ravel, (P)ort transfer, (F)ortify, (D)ivide and (R)eport. These
+are virtually self-explanatory, but the user should remember
+to utilize the (R)eport option without fail. This gives information regarding strength, moves available, supply status,
+morale, attack modifier, efficiency and fortification status.
+Careful and frequent attention must be paid to supply
+status. This is a critical lesson to be learned from the Desert
+Campaign. An ineffective unit in supply can often defeat a
+stronger unit that lacks supply capability. Numerous types of
+units are available: medium/light/infantry tanks, reconnais-
+
+sance units, motorized/foot infantry, support groups (infantry/artillery teams), artillery, anti-tank and headquarters.
+Combat is between adjacent units, but since units move
+simultaneously, a
+well-planned assault based on a
+non-mobile target may fail. As
+the documentation suggests,
+careful attacks
+along axes of advance with
+definite objectives
+are the key to
+success. Shortterm tactical objectives may
+prove to be illusory accomplishments.
+If a unit is
+rendered combat
+ineffective, its
+icon will be
+replaced by a disrupted icon.
+Such units
+should be
+relieved as quickly as possible; their continued
+use in the battle area should
+only be made as a matter of
+desperation and not routine.
+
+CONCLUSIONS
+
+TITLE:
+SYSTEM:
+VERSION
+REVIEWED:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Desert Rats
+IBM
+IBM
+1-2
+$39.95
+R.T. Smith
+Cases Computer Simulations, Inc.
+(Scorpion)
+19 Harbor Drive
+Lake Hopatcong, NJ 07849
+
+Desert Rats offers a
+plethora of scenarios. It is the
+only simulation currently available which covers the Desert
+Campaign on a daily basis; this 624-turn extravaganza
+should only be attempted by the true grognard. Yet for all its
+comprehensiveness, there is nothing truly "innovative" about
+Desert Rats. Its interface is clumsy, its play somewhat
+tedious, and overall, the simulation does nothing to really intrigue the user.
+Perhaps, it may be best summed up by game designer Ed
+Bever's analogy about campaign scenarios and dancing
+bears: "It's not that they don't dance superbly, it's that they
+dance at all!". For the more casual gamer, this game offers
+little. For the gamer intrigued by Rommel and Montgomery
+(wait a minute, was anyone ever intrigued by Montgomery?),
+Desert Rats offers the most detailed treatment available.
+
+Industry News
+
+I
+
+n Washington D. C., everybody has a
+secret they think is a matter of national security. For example, the other day
+I was riding the Metro Rail from National
+Airport to Downtown. When we reached
+the Pentagon station, two officers,
+adorned in their dress blues, stepped into
+the crowded car and grabbed hold of a
+handrail.
+
+One asked the other if those Dynamix
+guys had interviewed any A-10
+drivers? At first, I thought they
+were talking about my old
+friends at General Dynamics.
+Then, he said something about
+A-10 having a more visceral feel
+than some of the more detailed
+combat flight simulators. When
+he said the designers were living
+up to the "close to the ground
+view" they had made famous
+when developing Skyfox for EA,
+I realized he was talking about
+Mediagenic's newest "Affiliated
+Publisher."
+
+in Los Angeles. He says it's a
+one-to-three player game of the European
+theater of World War II with area movement (77 countries and 224 areas) in the
+Colonial Conquest style. It will emphasize
+resource management more than the earlier game, however.
+My taxi took me past more zone boundaries than actually exist in D. C. to get
+to my hotel. His driving did remind me of
+
+The
+Rumor
+Bag
+
+I asked the officers if they were
+aware of Compuserve's plan to
+have Steve Estvanik, designer of
+Avalon Hill Microcomputer Games'
+The Civil War, create an on-line version
+of Sniper!, the old SPI boardgame. I
+received a hostile stare in reply as though
+I had just leaked a government secret.
+When they got off the train, I asked a
+"three-piece suit" sitting across the aisle
+what I had done wrong. He said they
+probably thought I was either inebriated
+or a spy.
+When the "suit" pulled a copy of Pravda
+out of his leather attache case and began
+to read, I decided it was a good thing I
+hadn't told the military men that ThreeSixty was delaying the release of Harpoon even further. It seems the company
+scrapped major portions of code and
+started the project all over with Digital
+Illusions as the developer. That means it
+will be August of 1989 before the
+product is out, but it should have much
+better graphics and the ability to play
+either side of the battle (previously, one
+could only play the NATO side).
+As I looked at the headline in Pravda, I
+thought it said something about
+Microprose's tank game having a working title which translates as M-1 Tank
+Platoon. That couldn't be, though, since
+no one outside Microprose knows that
+the new product will feature realistic
+platoon tactics rather than the
+tank-to-tank scenarios in the simulations released
+to date.
+The "suit" followed me from the train to
+the taxi queue and offered me a nip from
+his flask. Then, he told me that SSI will
+unveil Storm Across Europe for the C64/128 at the Origins game convention
+
+by The Honorable
+John Spire
+two soon to be announced projects.
+Three-Sixty is very
+close to unveiling
+their product based
+on the "International Race of Champions." With all the delays on Harpoon,
+however, they are being cautious about
+even announcing this one. The sequences I've seen emphasize the "feel" of the
+terrain in addition to speed and performance. Also, don't be surprised if a more
+established company announces an Indianapolis-style racing game using
+polygon rendering during their Summer
+C.E.S. demonstrations.
+After checking into my suite, I met my
+inside source at that famous French restaurant down the street from the White
+House. During our martinis, she referenced the exotic appetizers available by
+facetiously suggesting the non-existent
+"Panda Burgers." We settled for alligator
+strips and she admitted that she probably
+should have said "Clathran Burgers" because she'd heard that the new
+Masterplay adventure was entitled, Star
+Saga 2: The Clathran Menace. She
+reminded me that this is a continuation
+of the story, not a pure sequel. The story
+line for all three games was established
+before they even started programming
+Star Saga: One: Beyond The Boundary.
+In the latest game, the characters are
+older and the Nine Worlds are forming a
+Space Navy. The characters are supposed to leave Outpost on a reconnaissance mission, but early events might disrupt their expectations. There are many
+more sub-plots in the second game, the
+economic realities will suffer supply con-
+
+straints, and combat will offer more tactical options.
+The waiter served us a very disappointing salad containing the most wilted endive in the universe. Such an observation
+led me to suggest that Universe III,
+Omnitrend's third release in their space
+trilogy, should be ready by June. The
+surprise news was that Breach II should
+be ready by early summer, as well. It
+seems the designers were influenced by the criticism in CGW
+#53 (p. 8) which questioned the
+combat system used by both
+Breach and Paladin. So, they have
+changed the algorithms, added suppression fire, developed diagonal
+movement and fire, provided a
+visual line of sight (as in the Ultima
+series), and utilized path tracing
+(players can see a line which indicates the path they have moved
+on). It should have more of a lean
+toward realism than its predecessors.
+The flambe' caused us both to
+think of dragons toasting a
+medieval village. In fact, it
+reminded my contact about
+Interplay's Dragon Wars, a roleplaying game for the 128K Apple
+and IBM. She told me that the screens
+would use larger animation than current
+CRPGs and assured me that the animation itself was more sophisticated than
+the currently popular "two-stage animation." She indicated that the company
+had licensed the Champions combat system from the popular pen and paper
+RPG. Over a marvelous bottle of Pinot
+Noir, she said the game will feature an
+emphasis on character motivation.
+During dessert, a Scandinavian beauty,
+who looked remarkably like my former
+girlfriend, knocked my small notebook off
+the table. She bent over to pick it up and
+pulled a fast one on the old rumor
+monger. She pretended that she had
+managed to run her nylon and, as I followed her hint to examine her shapely
+thigh, she glanced quickly through the
+notebook. Now, she's liable to scoop me
+by printing a story about ICOM's next
+Macadventure (set in 19th Century
+Europe), Dynamix's Agent adventure
+(Fall, 1989 on IBM/Amiga) which is slated
+to feature five different types of "spy"
+simulations, and Interplay's time travel
+game being developed by the design
+team that worked on Wasteland.
+My dinner companion seemed alarmed
+and asked how I missed seeing her ploy.
+I smiled as I held up the Scandinavian
+notebook, deftly lifted from her purse
+while she'd committed my notes to
+memory. On Capitol Hill, we're disciplined
+enough to appreciate beauty and tend to
+the job at the same time.
+
+Review
+
+J
+
+etfighter: The Adventure (JF) is outstanding! What Bob
+Dinnerman and Moses Ma have done with the IBM
+EGA version of their modern air combat simulator (F14, F-16, F/A-18) must be seen to be appreciated. Velocity's
+press kit hype refers more than once to the "blazing graphics
+speed" of JF. They claim that their graphic display "outperforms the competition by up to 300%" when you consider
+the speed of graphics refresh in connection with the level of
+scene complexity and the amount of screen area updated. I
+have no idea what a 300% improvement would actually look
+like, but I can say that JF has the smoothest, fastest, most
+pleasing graphics I have yet seen on a flight simulator, and
+that includes Dinnerman/Ma's F/A-18 Interceptor which they
+
+However . . .
+The Envelope Has Rough Edges
+The earliest version of JF (1.0) had some programming
+problems. For example, typing in the name of your character
+would hang the program if the name contained the letter X
+or Z. But, by far, the worst problem with 1.0 was the fact
+that the program would crash when the game began the
+zoom-in to your aircraft following the tactical orders screen.
+This problem can be avoided by hitting the minus key
+during zoom-in. We are told that version 1.0 is no longer on
+the shelves and owners of 1.0 can return their disks for a
+free upgrade
+to version
+1.01.
+
+THE NEED
+F OR SPEED
+
+Version
+1.01, the current version
+at the time of
+this writing
+(early March),
+by Daniel Hockman
+has both
+eliminated
+these
+TITLE:
+Jetfighter: The Adventure
+problems and
+SYSTEM:
+IBM,Tandy,compatibles
+added some
+EGA required, VGA compatible
+in versions 1.00 & 1.01
+new features
+CGA compatibility added in version 1.1
+such
+as an
+PRICE:
+$49.95
+ILS (InstruDESIGNERS:
+Bob Dinnerman
+Moses Ma
+ment LandPUBLISHER:
+Velocity
+ing System)
+DISTRIBUTOR: Broderbund Software
+and INS (Inertial Navigaprogrammed on the
+tion System). The ILS assists you in following proper glide
+Amiga! It is hard to
+slope for a safe landing. The INS directs you toward your desbelieve but these two
+tination (i.e. home base or ground target). These additions
+talented designers have,
+make landings easier. Or, in the case of carrier landings, the
+in terms of animated
+ILS changes landing difficulty from "extremely difficult" to
+graphics, made the IBM
+merely "difficult".
+perform like an Amiga!
+When I run JF on my Proteus 286GTX I have problems
+with missions that require you to shoot down cruise or Exocet missiles. About half the time these missiles will jump to
+Expanding
+speeds of 1100-1300 knots, making them impossible to
+the Envelope
+engage. According to Velocity I am the only person that has
+reported this problem. Maybe my computer has it in for me?
+Although we are told
+By the time you read this, Velocity will be distributing verthat JF has completely
+sion 1.1 of JF which has additional improvements. Among
+new code, gamers will
+these will be sound drivers (Tandy for sure, Ad-Lib possibly).
+certainly recognize it as
+Owners of 1.01 can upgrade to 1.1 for a small charge.
+an IBM incarnation of the F/A-18 Interceptor product that
+Dinnerman and Ma produced under the Electronic Arts
+Although Velocity is proud of their documentation, which is
+label. For our comments on F/A-]8 Interceptor see CGW
+certainly different (the major portion of the manual is done
+#50 pages 14-15. However, JF has gone beyond the earlier
+as a script portraying the training of "Top Gun" fighter jocks),
+product.
+I find it more difficult to follow than other manuals. However
+the NOTES.BAT file on the A disk is very helpful.
+JF has 32 missions in addition to the training missions. It
+Then there is the question of CGA, EGA, VGA. Although
+will take you some time to get through them all. Missions
+the flag on the package indicates that the program will run
+range from the innocuous "visual ID" assignment to bombon CGA, that is not true for versions 1.0 and 1.01. These vering missions that pit you against numerous ace level pilots,
+sions require EGA. Version 1.1 will support CGW, however.
+accurate SAMS, and flak.
+The background fiction (a 1993 economic crisis in the third
+world precipitates conflict between the U.S. and Latin
+American countries) is entertaining and provides a
+more-or-less believable backdrop to the various missions.
+The external views of your aircraft are outstanding. You can
+pan left/right and/or up/down all around your aircraft to get
+any perspective you want. Fascinating!
+
+Product Acquisition
+Although this first offering from Velocity shows a few rough
+edges, it is a very, very good product. The blazing fast state
+of the art animation is unsurpassed. Should your Defense
+Department approve the acquisition of this weapon system?
+Affirmative!
+
+Industry News
+
+Inside the Industry
+News, Notes and Quotes From the
+Computer Entertainment Industry
+Dynamix
+Joins Roster
+of Mediagenic
+Affiliates
+CGW has discovered that
+Dynamix formalized an "Affiliated Publisher" agreement
+with Mediagenic on
+February 14, 1989. The
+Oregon based software firm
+developed Skyfox, Arcticfox,
+and the recently released
+Project Firestart for
+Electronic Arts, as well as
+Pete Rose Pennant Fever
+and Suzuki RM250
+Motocross for Gamestar
+and F-14 Tomcat for Activision. Dynamix president, Jeff Tunnell, indicated
+that this was an extremely
+significant move for the company which they had been
+anticipating for several years.
+According to Tunnell, the
+firm has expanded swiftly
+and plans to complete
+several development projects
+for Activision in addition to
+releasing its own titles later
+in the year. He stated that
+the first two products to be
+released under the new
+Dynamix label would
+probably be a flight
+simulator tentatively called A10 and an action adventure
+with the working title Agent.
+Dynamix follows a trend
+among successful
+developers to move into
+publishing endeavors. Interplay Productions announced an "Affiliated Publisher" agreement with
+Mediagenic in early 1988
+
+and Lucasfilm Games,
+originally a major developer
+with a high degree of name
+recognition which created
+products for several publishers, now publishes under its
+own label distributed, in
+turn, by Mediagenic. Bruce
+Davis, CEO of Mediagenic,
+commented on the larger
+company's philosophy concerning developers evolving
+into publishers. "I take it as a
+good sign that developers
+want to grow and work with
+us. There are some
+developers who have done a
+good job over the years and
+want to take a crack at
+publishing. By supporting
+them, we support the industry as a whole. A young
+industry like ours needs experimentation. If we had a
+lock on creativity and all the
+prophecies necessary for success, we wouldn't need
+entrepreneurs [like Interplay, Lucasfilm, and
+Dynamix]. We're humble
+enough to grow with the industry."
+Davis observed that some
+independent companies occasionally surface within the
+industry, make a number of
+mistakes, and eventually,
+fail. He noted that this does
+not help those that fail or
+the industry's own reputation. The philosophy at
+Mediagenic is to help those
+developers with a proven
+track record to establish a
+solid base as a publisher and
+avoid typical mistakes. "Our
+experience can help them,"
+the executive promised.
+
+Mindscape Inks
+Licensing Pact
+with Mirrorsoft
+Mirrorsoft, the British
+software publisher who
+developed Harrier Combat
+Simulator (originally entitled
+High Roller), has signed an
+
+agreement giving
+Mindscape the right to
+publish several titles from
+their Image Works line in
+the United States and
+Canada. The first product
+slated for release under the
+new agreement is Speedball, an arena sports game
+similar to the competition in
+the film Rollerball. At press
+time, Mindscape expected
+the product to be on store
+shelves concurrent with this
+issue.
+According to Roger Buoy,
+president and CEO of
+Mindscape, "These games
+are exactly what the
+American consumer is looking for and we're excited to
+be bringing them to the U.S.
+market." The strategy for
+marketing these games in
+North America will build on
+the action trend in the entertainment software industry
+
+and emphasize graphics,
+digitized sound, and fast play
+mechanics.
+
+Lucasfilm
+Receives
+Jean Renoir
+Humanitarian
+Award
+On March 13, 1989,
+Lucasfilm Ltd. became the
+second organization in history to be honored with the
+Jean Renoir Humanitarian
+Award. The Los Angeles
+Film Teachers Association
+presents the award annually,
+usually honoring individual
+film directors such as
+Frank Capra, King
+Vidor, and Richard Attenborough. Prior to
+the Lucasfilm selection, only the National
+Film Board of Canada
+had received the award
+as an organization.
+The award honors, " . .
+. not only film excellence, but the expression of life-affirming
+values which has always been the highest
+contribution of the motion picture arts," according to LAFTA
+President, Alice La Deane.
+CGW's editorial staff
+attended the awards banquet to see the Lucasfilm
+Games division honored for
+its work in developing multimedia teaching tools in collaboration with Apple Computer, the National
+Audubon Society, and the
+Smithsonian Institute. In
+addition, note was made of
+the company's contributions
+to entertainment software.
+
+Game Hints
+
+A
+
+ttention: all
+fantasy Jet
+Jockeys. Here
+is the opportunity
+you never had.
+Activision's F-14
+Tomcat gives you a
+shot at being one of
+America's most elite
+fighter pilots. From
+flight school to becoming "Top Gun,"
+you control your
+destiny. So, here are
+some tips to help
+steer your career in
+the right direction.
+
+"Tomcat" On
+The Prowl
+A Briefing for
+Activision's "F-14 Tomcat"
+
+Miramar,
+Miramar,
+Off The Wall
+Your training
+begins at basic
+flight school. You fly
+a T-2 Buckeye
+through a series of
+flight maneuvers.
+Do not, by any
+means, underestimate these lessons. If you do not
+make the upper
+15% of your class,
+you will never get a
+chance to thrill to
+an F-14's afterburners. If you fail,
+you may end up as
+a traffic reporter in a
+helicopter, or worse,
+a professional
+wrestler.
+In order to succeed, each aerial
+maneuver must be
+flown with precision and speed. Correct
+execution will result with you flying directly behind the instructor's aircraft, tight
+and close. Know exactly what the
+maneuver is and how it is accomplished
+so that it can become almost a reflex.
+
+Note that you will be given the opportunity to use the auto landing key
+throughout your training. If you use it,
+though, you will be dubbed a "wing
+weenie" this will hurt your reputation. Instead, try to land using air speeds between 150 to 250 knots. After touch
+down, you will immediately be asked if
+you want to go up again. Remember,
+every flight counts. It is not the best or
+the last score you achieve that matters, it
+is an accumulation of all your flights.
+This basic fighter training gives you the
+tools to fly your craft. Learn, live, and
+
+by Brad Bombardiere
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+F-14 Tomcat
+C-64/128
+$39.95
+Dynamix
+Activision
+Menlo Park, CA
+
+love these maneuvers. Some day, they
+will save your keester.
+Advanced fighter combat school is the
+next step. Your instructors neither ask,
+nor do they give, any quarter. They are
+merciless, much like the enemy. Your
+first opponent will be Capt. Vice. If you
+defeat him, you will earn the nickname
+"Annihilator" or "Mustang." If you lose,
+you'll be called "Pooch," or even worse
+"Smurf' (I hate Smurfs). After the fight,
+you will earn your golden wings and a
+name that will stick for the rest of your
+career.
+
+Making Your Bones
+After you earn your wings, your next opponent is Captain Bones. Win two out of
+three dogfights with him and you will be
+assigned to the Nimitz. There are a few
+
+moves that will allow
+you to beat
+"Bones." On the
+opening screen,
+move your tail fast!
+The fight is on and
+if you wait to read
+the on-screen
+description, it will be
+too late. Instead, go
+to the afterburners
+and use an Immelmann (or a Split S)
+to change directions. Next, do a
+high speed break
+(banking on edge).
+This should break
+his "lock" on you.
+Then, lull him behind you. When
+your radar warning
+sounds, pull back
+hard and do an Immelmann. Slow
+your air speed to
+prevent blacking
+out. Now that you
+are nose to nose
+and above him, lock
+on and fire. If, after
+you fire, your own
+radar warning
+device goes off, attempt more evasive
+actions. This
+strategy, when executed correctly, almost always works.
+You may even win
+three out of three
+against him, furthering your career as a
+deadly pilot.
+
+Assuming you are
+assigned to the carrier Nimitz, you will
+serve under Admiral Hawk's command.
+Performing well for him will bring praise
+and kudos. Failure will cause you to discover that you left a piece of your butt in
+the pilots' debriefing room. Your primary
+job on this tour of duty is to guard the
+Nimitz. Involving yourself with an enemy,
+while another squadron flies in and attacks the Nimitz, will cost lives as well as
+your reputation. A word to the wise
+should be sufficient.
+Two types of missions are regularly assigned in this section of the game: Fire
+At Will ( who is this "Will" guy, anyway?);
+and Do Not Fire. Fire At Will is the
+easiest of the two. You have a plan set
+up and you execute it. The second, Do
+Not Fire (until fired upon) is a little more
+complicated. There are two ways to hand(Continued on page 41)
+
+r
+
+Review
+
+War, but only hard experience will yield a proper comprehension of the steps in order to minimize the danger to the Empire (cf. "Beware The Ides of March" below).
+As provinces are conquered by Rome, they eventually become "Romanized" and yield additional reinforcements
+(depending on the area, such reinforcements may consist of
+legions, auxiliaries [native troops], limitanei [defensive forces
+only] or none of the above). Table I of the documentation explains the recruitment and revenue potentials of the various
+provinces.
+
+Datasoft Markets An
+"Ambitious" Game
+
+E
+
+M. Evan Brooks
+
+ven before 1831, when Edgar Allan Poe compared his
+idyllic "Helen" to " . . . the grandeur that was Rome,"
+that era of empire and opulence had fascinated
+western civilization for centuries. Annals of Rome allows one
+to command the
+Roman Republic/Empire and attempt to
+recreate the Pax
+Romana lasting for a
+millennium. Can you
+defeat the barbaric
+tribes and maintain
+the civilizing influence
+of Rome, or will your
+leadership result in an
+acceleration of the
+Dark Ages?
+
+TITLE:
+SYSTEMS:
+VERSIONS
+REVIEWED:
+# PLAYERS:
+PRICE:
+PUBLISHER:
+
+Annals of Rome
+Amiga, Atari ST,
+C-64/128, IBM
+C-64/128 and IBM
+1
+C-64/128, $24.95
+Others, $34.95
+PSS
+c/o Datasoft
+Chatsworth, CA
+
+Annals of Rome is a
+strategic simulation
+with numerous innovative game
+mechanics to yield a
+fascinating portrait of
+the course of empire.
+Play mechanics are
+easy to learn and Annals of Rome can easily become an addictive experience. The
+documentation is adequate and explains
+the ramifications of
+the simulation.
+
+A Lean and
+Hungry Look
+(Introduction)
+
+Using the leadership provided by the
+Roman Senate, the player must allocate the best leaders to the legions and conquer the provinces. While the mechanics of this are easily understood, as
+leaders age and grow more ambitious, there is an omnipresent danger of a military leader wishing to assume the
+Purple Mantle. The resulting Civil War can be a bloodbath,
+with the careful troop dispositions of the player rendered
+asunder and the borders left undefended against the barbarian levies. The documentation does describe the Civil
+
+Crossing The Rubicon
+(Game Mechanics)
+Annals of Rome utilizes an area movement system. The
+graphics are composed of a map of Europe/Asia divided into
+areas (provinces), plus the data required to rule both wisely
+and continuously. Such graphics are adequate, but not overly awe-inspiring.
+In addition, during the Personnel Assignment Phase (when
+one assigns his commanders to the various Roman armies),
+a columnar table displays both provinces and leaders. On
+the IBM-version, the charts are plain, but easy to use. On
+the C-64 version, however, the lack of an 80-column display
+makes use of the assignment table difficult to read and utilize. Perhaps a page-flipping mechanism would have made
+the C-64 version more facile.
+One of the most innovative aspects of Annals of Rome is
+the length of a turn -- it varies from 1-25 years. Depending
+on the action (e.g. threat of civil war, invasion from abroad,
+etc.), the length of the turn is randomized, and the player
+has little choice. Generally, one hopes for long turns; these
+allow maximum recruitment from the provinces and a peaceful Romanizing influence on provinces held by the armies of
+Rome. Short turns are generally omens of massive invasions
+or civil war.
+Beginning in 273 BC as the Roman Republic, the player
+must expand. The documentation offers a somewhat ahistorical "quick fix"; a quick raid to Sicily followed by an assault on
+Africa may grab the entire Carthaginian treasury for Rome.
+Since provinces move "randomly," though, one must hope
+for the luck of the draw. Be sure to send at least 35 legions
+on this foray and, hopefully, move them out before Carthage
+can react (at least, reassign the leader to a more secure
+area), because when Carthage does react, all the troops
+present in Africa will die. They will have served their purpose,
+however, because the looting of the Carthaginian treasury
+will have given Rome sufficient funds to finance the next 500
+years of expansion. If the player is very lucky, the Carthaginians will have looted the Egyptian treasury, thereby allowing Rome a two-for-one looting opportunity.
+While each game begins in 273 BC, the initial setup differs.
+If Rome does not begin with at least 60 legions, the player
+would be best served to reboot and start over. No matter
+what, leave enough legions in Rome to deter the detested
+Macedonians. Alexander the Great's relatives are a
+dangerous enemy and usually attempt a rapid invasion of
+the Italian peninsula. The Gauls, to the north, are a
+numerous host, but not as formidable a military machine as
+Rome. However, delay overexpansion until the treasury
+shows a healthy balance.
+
+Beware The Ides of March
+(Notes on Strategy)
+Economic Aspects: Although one can adjust the tax structure from 1.0 to 2.0, this is an option best avoided. The Carthaginian treasury provides sufficient funds for Rome's use,
+and any tax rate higher than 1.0 leads to inflation and unrest. The only valid use for a high tax rate is to foment a Civil
+War and, generally, the military leaders are sufficiently ambitious that the tax increase is, oxymoronic as it sounds, a
+mere surplus. The game is often delayed while the various
+computations are made. This is most noticeable on the C64. The IBM's faster processor somewhat alleviates this problem.
+Civil War: This can be a very confusing aspect of the
+simulation. As the Republic expands, its leaders grow ambitious ("yon Cassius has a lean and hungry look"). Time
+and the rise of dictators eventually leads to the formation of
+an Empire and the Republic is gone forever; but the Empire
+does not forestall Civil War. Any leader assigned troops in a
+province is a candidate for rebellion; bribing the troops may
+deter a revolt, but this is self-defeating in the long run. Any
+Civil War involves a reduction in Rome's fighting strength.
+Therefore, this reviewer's recommendation is to allow the
+revolts to succeed. Try to move friendly legions out of the
+way of the invading legions; the rebels will gain all troops in
+a province without a leader as soon as they enter such
+province. Thus, one can refuse to assign leaders to the outlying provinces. This will eliminate the chance of the legions
+"crossing the Rubicon," but it will also prevent the expansion
+of Rome. Another approach is to simply move one's loyal
+legions through the back door. If the rebels are coming
+through the Alps, move to Greece or Sicily and allow the
+rebels to "succeed." Often, one can use this trick to actually
+better his legion deployment (only legions are affected by
+revolt; auxiliaries and Iimitanei stay in place).
+SPQR: By allowing the rebels to succeed, one watches as
+one government succeeds another. Popularity is fleeting,
+and it is rare to see a peaceful succession to the Purple
+Mantle. This causes one to wonder who or what he is trying
+to be—the answer is SPQR (Senatus Populusque Romae),
+"The Senate and People of Rome." Leaders come and go,
+but the concept of Rome is eternal. The player must recognize this and use it to maximum advantage.
+Victory Conditions: Victory points are based on control of
+various regions. Nevertheless, allowing Rome to be sacked is
+a disaster resulting in a 5,000 point loss. Similarly, each new
+dictator/emperor by means of Civil War yields a 25 point
+loss, but such a loss must be measured against the possible
+reduction of Rome's strength in a hard-fought Civil War. This
+reviewer feels it better to lose a few points up front and maintain the legions of Rome as strongly as possible.
+Unfortunately, there is no victory in this game. Its most significant defect is that it literally can go on forever. This
+reviewer has played through the year AD 2030 (with Rome
+reduced to the Italian peninsula arrayed against a world of
+Turks, Arabs and Lombards). Historically, Rome fell in AD
+476, but the Eastern Empire continued until the sack of Constantinople in AD 1453. The game allows the transfer of the
+capital to an alternate site, but this reviewer felt such a transfer was an admission of defeat. Careful play can often allow
+Rome to survive into the 17th Century AD, although the
+peak of the Roman Empire is generally achieved between
+AD 100-700.
+Judicious expansion is the key to maximizing victory points.
+Do not seize Germania or Dacia without going for the whole
+
+map (worth an additional 1000 points). Seizure of these
+provinces will result in several hundred thousand angry Germans and Dacians sweeping down on the Empire. Be
+prepared and give them an invasion route. Remember, if you
+retake their homeland, they will detour from their advance
+on Rome in order to secure their homelands. In later years,
+the Arabs and Turks become virtually invincible.
+Saving the Game: Any save destroys the prior save. This is
+unsatisfactory, since
+often one wishes to
+see the results from
+several offshoots.
+
+Lend Me
+Your Ears
+(Conclusions)
+Annals of Rome is a
+fascinating simulation.
+Initial appearances
+may not be overly impressive, but added
+playing time yields sufficient reward. The most disappointing
+aspect of the simulation is that it appears unfinished. Additional game development using different scenarios (startpoints), defined victory conditions, and a better save
+mechanism would have yielded a much more polished effort.
+Still, with all its defects, Annals of Rome is a pleasant
+surprise.
+
+Game Hints
+
+King's Quest IV
+Lots of trouble here with getting safely
+out of the ogre's hut. I wish I had some
+special method to tell you about that, but
+it seems to be a random thing and all
+you can do is keep trying (frustrating as
+that may be) until you get out. I have
+heard that those with the faster PC's
+don't have as much trouble as others, so
+it may be related to clock timing in some
+way. In any case, don't give up hope,
+you'll do it eventually. On another matter,
+your shovel can be used only five times.
+Make sure you're digging in the right
+places. Once the shovel breaks, you
+won't find another one, so read before
+you dig.
+
+Wasteland
+
+Every other issue, Scorpia leaves the
+common room at that famous tavern of
+the mind, "Scorpion's Tale," and
+answers the mail delivered to the back
+room.
+Warning: There are specific hints
+about popular adventure games located in this vicinity.
+It's time once again to look into the old
+mailbag sitting here in the back room of
+the Tale. "Old" is certainly the word for it;
+mail service, sorry to say, continues to be
+erratic, not to mention slow. So, my
+apologies for late responses; there isn't
+anything I can really do about it (except
+complain, alas). I'd also like to remind
+folks that I only answer specific questions
+on games; I don't provide hint sheets or
+maps. Now, let's see what we have in the
+bag today.
+
+People have been asking about the
+password to enter Savage Village. I never
+found it myself and took the direct way of
+getting in, namely blowing up the wall
+with explosives. A great time-saver, although you can't do this everywhere. The
+door of the club in Needles, for instance,
+is quite secure, and you do need a
+password to get in, although I didn't find
+anything of interest when I had managed
+that. For those of you being washed
+away in the sewers, there is an easier way
+to get across. You can use a rope, if you
+stand in the right spot. Just keep trying
+at different locations along the river of
+sewage and it will work sooner or later.
+
+Leisure Suit Larry II
+The KGB agents on the beach and at
+the airport have been giving some folks a
+lot of trouble. The main difficulty with the
+spies on the sand seems to be having a
+"full" bikini top. This problem is easily
+solved by using something from the
+guest room in the jungle. In order to
+keep things clean, I won't say more on
+that subject. For the KGBishna at the airport, you need an item from the jungle (I
+can hear groans from people who have
+already been through it more times than
+they'd like to count). While you can't
+direct Larry's movements as he wanders
+around the jungle, you can still give
+other commands (if you're quick
+enough). Look carefully at the screen,
+and you should see what you need.
+
+Manhunter
+A fair number of letters have come in
+about this game; it seems to be catching
+on. Aside from complaints about punks
+in alleyways, a major problem appears to
+be finding the fourth module. This can't
+be done until you've worked out "the"
+name and entered it into MAD. That will
+lead you to the computer, which is more
+than just a pretty face (grin).
+
+Ultima IV
+I've heard from people who have found
+Blissful, and followed her advice, but the
+expected results didn't happen. No one I
+know of has ever gotten any information
+after doing the specified meditations. The
+best thing is to forget about Blissful and
+(Continued on page 51)
+
+Review
+
+T
+
+here hasn't been this much creep bashing since the
+
+last "Dirty Harry" movie. In fact, Techno Cop seems like
+a cross between Dirty Harry, Mad Max and the Terminator. It is a crash, trash, bash, and bag 'em kind of game
+set in the future. The player "becomes" a member of the
+technocop division of the police force and is "issued" the
+latest crime-busting equipment, including: an .88 magnum
+pistol (Harry Callahan, eat your heart out!), a wrist radar to locate criminals (a la Dick Tracy), and a V-MAX twin turbo "Interceptor" (Knight Rider in the 21st Century?)
+
+Chase Scene
+Game play begins in the V-MAX patrol car. Players must
+rush to scenes of various crimes before the thugs can escape. Just in case there happens to be a traffic jam, one can
+always use the handy roof-mounted machine gun to remove
+the potential obstructions. Players shouldn't feel guilty about
+blasting other cars or ramming them, because the manual is
+straightforward in instructing players to keep in mind that
+"everyone else on the road is your enemy." In actuality, the
+game could have been more interesting if there had been a
+few "innocent" cars to avoid or this obligatory "chase" segment had been shorter.
+Until the player successfully completes a few assignments,
+the car's only weapon is a machine gun. Fortunately, it will
+not be long before the competent player is awarded a promotion and vehicle upgrade: a turbo-charger for additional
+speed; hydraulic wheel rams to bash enemies off the road; a
+rocket-firing cannon to blast away armored enemies; and
+nuclear bombs (absolutely guaranteed to clear the road, not
+to mention one's sinuses). Unfortunately, use of nuclear
+bombs causes the screen to flash such that drivers often
+lose control of their own vehicle. The manual does not explain how technocops manage to survive their close
+proximity to nuclear blasts, but, of course, it is only a game.
+On the upper levels of the game, a punk will climb out of a
+truck and attempt to leap onto the roof of the V-MAX.
+Players have several options in dealing with the problem:
+ram into the rear of the truck and watch the punk fall off;
+destroy the truck with machine gun fire and literally blow the
+vehicle away before he can make his leap; or if he does
+reach the patrol vehicle, dislodge him with a little erratic driving. One cannot shoot them off like the cover art seems to
+suggest.
+
+The Scene of the Crime
+Once the player arrives at the scene of a crime, he is assigned a villain to capture and given instructions concerning
+whether the crook is wanted dead or alive. He follows the
+radar to the thug's location. The radar clearly shows the location of the crook, but not the obstacles which must be overcome in order to get to him. For example, it may show that
+the criminal is on a lower level of a building than the technocop, but it does not show elevators, ladders, or ropes.
+This is, by far, the most clever and challenging portion of the
+game because the most direct route is almost never the correct route.
+Further, technocops have to be careful where they walk.
+Huge gaping holes in floors can drop them to lower levels
+and end their life if the drop is more than one floor. Also,
+gigantic attack rats will attack the player's cop. While it is possible to jump on these rats and crush them, jumping over
+them can sometimes be more expedient. Players must also
+watch out for lethal booby traps.
+
+Slay Ride To
+Justice
+"Techno Cop" from U. S. Gold
+by David M. Wilson
+
+The thugs are armed
+with knives, martial arts
+weaponry, and crow bars,
+while players are armed
+with guns and nets. It is
+usually best to save the
+nets for when a Head
+Thug must be captured
+alive. There are innocent
+bystanders in this segment
+of the game, however, so
+it is unwise to shoot or
+capture everyone. In fact,
+harming an innocent bystander penalizes the
+player by 5,000 points.
+This is a welcome feature.
+Players are on a limited
+time schedule at each
+given crime site. If they fail
+to locate and capture the
+assigned thug during the
+allotted time, they receive
+orders to return to their
+vehicle for further patrol.
+Techno Cop contains
+eleven progressively more difficult levels and, despite occasional boredom in the driving segment, the game is extremely absorbing. It lasts
+longer than the typical arcade game and features an
+easy-to-use save routine with
+no disk swap required.
+
+TITLE:
+SYSTEMS:
+
+VERSION
+REVIEWED:
+# PLAYERS:
+PRICE:
+DESIGNE RS:
+PUBLISHER:
+
+Techno Cop
+Amiga, Apple II,
+Atari ST, C-64/128, and
+IBM
+C-64/128
+1
+$49.95 (Amiga, Atari ST)
+$39.95 (Apple II, C-64/128, IBM)
+U.S. Cold
+Epyx
+Redwood City, CA
+
+The game offers some emotional release for those who feel
+little confidence in the current justice system. With no Miranda warnings, no police
+shooting review boards,
+and no lenient judges or
+parole boards, Techno
+Cop puts the player into
+the role of judge, jury, and
+executioner. Thankfully,
+due process keeps these
+scenarios firmly
+entrenched in make
+believe. In the fictional setting, however, the
+gratuitous violence of
+Techno Cop blows away most of the competition.
+
+Review
+
+D
+
+eep
+
+Statistically Speaking
+
+in Hidden Vale rises the fortress of Barbezza.
+Within, tended by four and forty guardians, the Magic
+Candle stands tall and burns brightly. No ordinary
+taper, this candle, but a magical construct whose flame imprisons the mighty demon Dreax, embodiment of evil.
+Trapped during a battle long ago, he yearns for freedom and
+revenge, but the power of the guardians has kept him ever
+within the flame. Until one day, when the guardians
+mysteriously vanish, and the candle begins to melt. If the
+flame goes out, Dreax will be freed, and his vengeance will
+not be pretty .. .
+The Magic Candle is a CRPG in the Ultima style: there is
+
+Speaking of stats, there are quite a few. Aside from the
+usual strength, dexterity, charisma, and agility, there are skill
+levels for hunting, learning, magic (applies only to spellcasters), and weapons , as well as measurements of speed,
+stamina and energy (a measure of fatigue). These stats
+replace the more familiar "experience point levels," which are
+not present in the game. Instead, the goal is to increase, by
+training and other means, the characters' various skills and
+attributes from their starting levels to their maximums as the
+game progresses. The maximum (or best) any character can
+be is determined
+by his race
+(human, dwarf,
+elf, halfling) and
+profession
+(wizard, ranger,
+mercenary,
+tailor, etc).
+
+Keeper of
+the Flame
+Scorpia Waxes Eloquently
+About "The Magic Candle"
+by Scorpia
+
+TITLE:
+SYSTEMS:
+VERSION
+REVIEWED:
+# PLAYERS:
+PRICE:
+
+The Magic Candle
+Apple II, IBM
+(C-64/128 coming soon)
+Apple II
+1
+Apple, IBM ($49.95)
+64/128($39.5) -
+
+DESIGNER:
+PUBLISHER:
+
+C
+
+Ali N. Atabek
+Mindcraft
+234T 205th St. Ste. 102
+9051
+
+much more to do here than simply hacking monsters. In
+your quest to restore the candle before it can melt and free
+the evil Dreax, you will travel the length and breadth of the
+land; converse with many people; and perform an elaborate
+magical ritual. There is more than enough here to keep you
+occupied for quite some time to come.
+It begins in the castle of King Rebnard, where "Lukas" is
+chosen as the hero to lead a band of adventurers to glory.
+Lukas is a stock character. Like the rest of your party, he
+comes with a set of predetermined statistics.
+After the interview with Rebnard (an automatic sequence),
+Lukas goes to the Knight's Room to select his companions.
+Up to five can be chosen and you can return to the castle at
+any time to drop someone off and replace him with another
+character. There is also a second castle, at the other end of
+the continent, where additional volunteers can be added to
+the party. Members can be dropped off in either castle and
+will stay there, waiting patiently for their turn to come again.
+Looking over the roster in King Rebnard's castle reveals
+some surprises. For example, listed among the warriors and
+mages are such professions as tailor and gemcutter. Not exactly what one expects in a game of this type, but these
+people not only have their strengths, but they are not as
+poor at combat as you might think. It's a good idea to look
+over the stats of every volunteer before making a final determination of the party's composition.
+
+Charisma is
+particularly important because
+many people will
+not talk to you
+unless your
+charisma (or, at
+least, that of the
+party's
+spokesperson) is
+high enough. If
+your charisma
+isn't sufficient,
+you will be told
+how much it has
+to be before the
+person will part
+with information
+(or even give
+Torance,CA
+you the time of
+day).
+The learning skill determines both how much you can
+learn in a training session and how quickly wizards can
+memorize spells. The higher the learning skill, the more a
+character gets out of training. It is usually better to put off
+training until the characters have had some increase in this
+skill.
+Hunting skill has two uses. First, it provides food for the
+party should it be low on food and far from a town. Second,
+it enables you to detect ambushes in dungeons. The higher
+the hunting skill, the better the chance the monsters will be
+noted before they attack. This is often a life-saver in the nastier dungeons (fortunately, there are no ambushes outdoors).
+Energy is used to determine how tired a character is.
+Everyone has a maximum energy of 99 which declines as
+the party adventures. When it goes down to zero, the character is exhausted and unable to move. Energy can be restored by resting (in camp or a guest house) or by eating an
+energy-restoring mushroom. Since everyone has the same
+energy, it is not a factor in choosing party members.
+Once the initial group has been selected, you return to Rebnard, who provides everyone with a going-away gift of 500
+coins apiece (in the game, money is always referred to as
+"coins") and wishes you all good luck. This is a good time to
+take it slow and talk to as many people in the castle as you
+can before heading out to Port Avur the nearest town You
+
+won't get information from everyone at this time (some you'll
+have to interview later when one of the characters has the
+necessary charisma), but you'll still find out a lot of interesting things before you leave.
+As you probably guessed, the roads are not entirely safe
+these days. The evil minions of Dreax have invaded all the
+lands of Deruvia and seem to be everywhere. On the other
+hand, The Magic Candle has something I've been waiting
+for, for a long time: the monster that's dead, stays dead.
+Monster generation is handled more intelligently in this
+game than any other I've played. Most CRPG's have the endless wave. You rampage through the dungeon (or
+countryside) for fifty battles, and then have to rampage back
+another fifty. New monsters seem to sprout up almost from
+the corpses of the dead ones.
+In this game, each country has a fixed number of patrols
+and guardposts. When you've wiped them all out, they're
+gone. Reinforcements only come into the land every three
+months. The game begins in May, so, if you were to clean
+out all of Pheron (the starting country) in that month, the
+area would be clear of nasties until September rolls around.
+Even better, dungeons stay cleared permanently. No replacements go to them at all. Thus, if you get partially
+through a dungeon, you can back out, re-supply, and return
+without having to kill the same monsters all over again just
+to get back where you were before. There are no wandering
+monsters, simply "set" encountersCombat is a fairly simple procedure, although sometimes
+the strategy may become a little complex, depending on
+what you're up against- Except in the case of ambush, the
+party always gets a chance to set up: draw weapons, recall
+spells, move around to a better position. Once that's
+finished, fighting actually begins and, fortunately for you,
+your characters get to go firstThis is good, because the monsters tend to act intelligent
+ly. The cannon fodder like orcs are typically in front, while
+the magic-using brains are in the rear (just the way you set
+up your own group, in fact). The monsters also recognize
+magic when they see it, and will try to home in on the
+spellcasters in your party.
+Actions are typically casting spells, moving towards (or
+away) from an opponent, and striking blows. Dodging is art
+automatic function and does not have to be specified.
+Even wizards are not excluded here. They are perfectly
+capable of wielding weapons as strength allows, and they
+also have some fighting skill, although it will never equal that
+of the true warrior. In a pinch, your spell-casters can wade
+into battle and swing away with the best of them. Just as
+nice, they can wear any armor at all, including plate mail.
+This is a refreshing change from the usual "cheap baggy
+robes" of most CRPGs.
+Another important activity (both inside and outside of combat) is the eating of magical plants and mushrooms. These
+herbs have many beneficial effects, including restoration of
+energy, protection from physical attacks, extra movement,
+temporary strength, and guaranteed placement of one's next
+blow.
+It is important to become familiar with these and others, as
+without them you will have a hard (if not impossible) time
+finishing the game- Weapons and armor are limited to those
+noted on the back of the manual. There are no +30 swords
+here. The herbs and mushrooms are, so to speak, replacements for these things. Proper use of the magical plants is
+
+crucial to success, so experiment with them early and keep a
+good supply on hand whenever possible.
+Magic is pretty straightforward- Elves, rangers, and wizards
+are all capable of learning spells, although wizards will
+naturally be best in this department. Each wizard comes with
+a book of spells that he can memorize (up to 99 of a spell
+and apparently, no limit to the number of different spells that
+can be in the character's mind at any one time).
+Spell books can also be purchased (when you find out
+where) and given to members of the party. It is also possible
+for spell-casters to "trade" the books among themselves, so
+that several can
+study from the
+same one at different times. Each
+book (there are
+four) has different
+spells for different
+purposes. Some
+can be used any
+time; others are
+restricted to either
+combat or noncombat use. They
+are all described in
+the manual, so
+keep it handy when you're using magicSpells require energy to cast. If a mage is too low on energy, he can't cast a spell; at least, not the one he currently
+has ready. It is possible to change the ready spell or eat a sermin mushroom (restores energy) on that character's turn, although he may not have the chance to cast that round.
+Dungeons tend to be typical. The number of levels per
+dungeon varies from a single level up to eight; most dungeons are about 4-5 levels deep. There is no auto-mapping
+feature, but there is a way to get a map of the level you're
+on, and copy it to paper. The layouts are simple and it
+doesn't take very long.
+In general, you can expect that behind every door lurks a
+party of monsters, waiting to pound you into mush. If you're
+not feeling in the mood for combat (or you're in no shape
+for it), avoid going into rooms until you feel up to it.
+Ambushes, however, are another matter. If you walk into
+one, you're stuck with having to fight it out (or trying to escape, which is not recommended in this instance). With complete surprise, the monsters get a free round to act, while
+the party members stand around and play target (they can
+still dodge, however). After that, fighting returns to its normal
+mode.
+A good hunting skill, though, can reduce the chances of
+walking blindly into possible disaster. You won't be able to
+avoid fighting (the monsters are practically breathing down
+your neck), but you won't be surprised and you'll have the
+chance to prepare somewhat for the combat.
+Treasure in the game is a little on the Spartan side. Monty
+Haul doesn't live here, anymore- Bodies of monsters will
+have some coins on them (the only treasure they ever carry).
+Chests in dungeons generally contain gems of different
+types to sell in town, or a supply of a particular magic herbOnce in awhile, they hold other items, but only one type of
+object will ever be found in a chest (and they never have
+weapons or armor). Chests can also be trapped to poison or
+infect the unlucky person who opens it. It's a wise party that
+goes into a dungeon with a good supply of healing herbs for
+these unpleasant circumstances.
+
+Split Personality
+An interesting feature is the ability to split the party up into
+independent sub-groups of one or more. This can be done
+almost anywhere: in towns, dungeons, the outdoors. It will,
+in fact, be necessary at one point in the game to have three
+groups in three different places at once. The display keeps
+track of who is in which party, so you always know where
+someone is and
+switching between parties is
+done with a
+couple of simple
+commands. So,
+for instance, you
+could have someone training at
+the archery
+school while
+everyone else is
+wandering
+around town. Or
+you could put
+several party members to work earning money while others
+bed down for the night in the local guesthouse.
+Earning money is the main reason for the gemcutters,
+tailors, carpenters and metalsmiths in the game. There is
+usually work for one or more of these professions in each
+town, and it's an easy, no-risk way of raising cash while other
+party members go about other business.
+Towns are different in layout, but similar in content, each
+having a tavern, guest house (inn), and shops for weapons,
+armor, food, and general supplies. Some also have ships
+that can be hired to transport the party to various locations.
+Of course, there are always people to talk to. It is a good
+idea to speak to everyone you see. They don't move, but
+they all have time schedules as to when they are "there," so
+it may be tough locate a specific person. It's all very well to
+know that Foozle the Wizard is out around 2:00 A.M., but
+you don't know where he will show up, so you have to keep
+moving around until you spot him. It can be a bit much at
+times, since every town has its own collection of night owls.
+Besides towns, there are also villages. These are strictly
+residential (except for the armorer in Kharin, there are no
+shops). In order to talk to people here, you need to know
+who you want first. You can't just walk in anywhere. You
+must knock on the door and ask for someone by name. If
+that person doesn't live there, you'll have to try another
+house in the village or a different name at that door. There
+are a few inhabitants to be found lounging around the village, and as with the towns, some of them are nightowls
+who only show up after dark. Fortunately, villages are
+smaller, so people are usually easier to spot in them.
+Travel is on foot, by teleport spell (pops you around the
+countryside, although its range is rather limited), via ship, or
+through special teleportals, which you must locate and learn
+how to use in order to travel great distances instantaneously
+(or get into places otherwise unreachable).
+Walking along the roads is a good way to meet interesting
+people. Not everyone out there is a monster. You'll come
+across merchants, dwarves, wizards, knights, monks, halflings, hermits, elves, and others as you make your way
+across the world. All of them have something to say (or sell).
+They aren't there just as scenery. However, you'll need a pretty decent charisma score to talk to a lot of them.
+
+When you've been through all ten dungeons, learned everything you can, and obtained all the items and chants you
+need, it's time for the endgame, which is unique in my experience.
+On the last page of the manual is the "Zirvanad". It contains a complete description of what needs to be done to restore the candle. This is what everything has been leading
+up to: the performance of a complex magical ritual by
+several members of the party. No game has ever had such
+an elaborate, non-automatic ending. There is something
+very satisfying about a finale that does not require an anticlimactic battle or passive reading of text on the screen.
+Of course, there is a bit more after that, with a banquet in
+Rebnard's castle for the victorious heroes, (a brief, automatic
+sequence where, instead of being showered with treasures
+and goodies, the King thanks you very much, says your
+names will live in history forever, and mentions that there is
+more evil brewing to the east (hint, hint, nudge nudge).
+Naturally, that will have to wait for the sequel (grin).
+
+Stinging Observations
+Overall, Magic Candle is a very good game. Combat tends
+to be on the slow side, even with special mushrooms to increase actions during a turn. Also, there are too many narrow passages in dungeons, where splitting the party to get
+everyone through is necessary and this is exasperating at
+times.
+An easier way of finding people like Foozle would be welcome. Shops in towns could use a sign or icon so you know
+what a place is without having to go inside and find out (Actually, this is planned for the sequel, but it isn't available in
+this game).
+The ability to restore a game while in play would also be
+nice. As it is, if you want to go back to a previous position
+(or if "Lukas" dies and isn't resurrected), it is necessary to reboot the game. You can, though, save at almost any point
+in the game, including towns, dungeons and the outdoors.
+Bottom line: Definitely recommended; a well-balanced
+CRPG with several good and original features.
+
+Magic Candle Tips
+Warning: This section of the
+review contains specific hints.
+This is an extensive game and good note-taking is essential. Greet everyone you meet and write down their names so
+you will know if you've talked to them before. Always ask for
+rumors as well as advice. A lot of the rumors are true.
+Because there is so much to learn and do and a great deal
+of travelling besides, I recommend starting with the "Easy"
+version, which allows 1000 days before the candle goes out.
+The medium and hard versions allow 800 and 600 days
+respectively. The difference in time is the only thing that distinguishes one level of difficulty from another.
+Money is the major limiting factor in the game. For some
+time you will never have as much as you want, so plan on
+making money early on to help you along. Take the two
+(Continued on page 42)
+
+Survey
+
+Computer
+Cavalcade
+of Sports
+
+Electronic Arts' new EWB. The major differences between this version and that
+reviewed in CGW #36 include a more
+polished statistical and physical model (earlier
+criticisms of the running game, fielding, and
+fielding "errors" have been taken into account), improved computer opponent ("Earl"
+handles pinch hitters, pinch runners, and
+relief pitchers more cogently), revised "official
+scorer" (no more "cheap" doubles on a throw
+to home), and an on-screen view which offers
+a larger pitcher/batter perspective to facilitate
+action in the "Arcade" and "Play and Manage"
+modes. (IBM, $39.95)
+Sporting News Baseball: This action/strategy game from Epyx offers a statistical base coupled with joystick-driven action.
+Managers select teams and establish lineups
+using the joystick and scrolling through
+rosters. Then, they must bat, throw, and catch
+for each player on their team by utilizing the
+joystick. The position of the joystick determines the location of the batter's swing, the
+status of the base runners, type of pitch,
+fielders' throws, and position of the active
+fielder when the ball comes to him. Using the
+keyboard, players can reposition players,
+pinch hit, make substitutions, and call time
+out. Each team, whether an actual major
+league team's roster is used or the player
+creates a new one, begins with actual major
+league statistics. During play, however, these
+statistics are modified up or down by the
+manager's arcade ability. This is exciting to action fans, but may be a problem with major
+league statistical buffs. (Apple II, C-64/128,
+IBM, $39.95)
+
+Basketball
+
+—A
+
+Computer Sports Survey
+by Wyatt Lee
+
+"You'll look sharp and
+you'll feel sharp, too!. . ."
+The reference to Gillette's classic television
+program may be a little dated, but there has
+been a literal cavalcade of computer sports
+games that have been released since CGW's
+last sports survey (CGW #46). Some have already been reviewed, others are nearing
+release. This survey is designed to "touch
+base" with those products which have not had
+significant coverage in CGW prior to this issue.
+
+Baseball
+Earl Weaver Baseball 1.5: At press time,
+CGW had just received an early look at
+
+Basketball Challenge: Those who have
+played NFL Challenge, the fine football
+strategy game from XOR, will be delighted to
+know that this product is just as excellent.
+The program has strategic depth and statistical detail- The model being simulated is collegiate basketball and uses authentic statistics, even if the teams are semi-disguised by
+fictitious names. It will not take the CGW
+reader long to figure out that the Lexington
+Bobcats are the University of Kentucky, the
+Durham Devils are actually Duke University,
+and Ann Arbor Wolves are the University of
+Michigan. The animation in the program is
+limited to arabic numerals which "cavort"
+around the court to represent each player on
+the team. The movement, patterns, and plays
+are represented realistically, however.
+The player becomes the coach of one of the
+top college teams in the nation. He chooses
+the lineup, offensive set (low post, high post,
+double low post, weak side forward offset,
+double stack alignment, or wheel set), offensive tempo, defense (man-to-man, three different zone defenses, full court pressure, or attempt steal/foul defense), and defensive
+
+tempo. When the team is on offense, the
+clock is stopped, or there is a dead ball, a particular play can be called or a particular player
+designated to take a shot. In addition to the
+basic defensive options, the game allows the
+coach to set individual matchups to exploit
+size or speed. There is even a key for each
+team's coach to "yell" at various players to call
+shots or plays during the action. Of course,
+no sports strategy game is complete without
+handling statistics. Basketball Challenge gives
+individual statistics for both teams, as well as
+a shot chart to display both successful and unsuccessful shots for both teams. Although the
+documentation does not mention it, the statistics screens (including the shot chart) may be
+printed using the "Print Screen" function from
+the IBM keyboard. For strategy players, this is
+an exceptional product, but a technical foul
+must be called due to the lack of a statistics
+compiler for those intending to use it for
+league play. (IBM and Mac, $39.95)
+Fast Break: Steve Cartwright's basketball
+game emphasizes action in the Accolade
+tradition. It is a three-on-three basketball
+game between two human players or against
+the computer. The player takes on the role of
+player/coach because he controls one active
+basketball player on the court and coaches
+two computer controlled teammates. It is
+primarily a reflex-oriented game (using either
+the keyboard or a joystick for input), but does
+offer opportunities for some strategic
+decisions as well. The player/coach selects a
+lineup from the ten fictitious basketball
+players listed and can utilize a playbook containing fifteen offensive plays. Fourteen of
+these are pre-designed and the last can be
+designed by the player/coach. Prior to each
+game, the player/coach determines which four
+plays from the playbook will be used in the
+current game. In addition, the player/coach
+selects a defensive play from five pre-set defensive options (fast break set-up, tight man-toman, loose man-to-man, trap, and double
+team). In spite of the strategy, though, the
+avid "joystick jockey" will like this game far better than the basketball fans who would rather
+coach than play. (C-64/128, $29.95, IBM,
+$39.95)
+Pure Stat College Basketball: Players
+familiar with Software Simulations' Pure
+Stat Baseball and Avalon Hill Microcomputer Games' NBA (by the same designers)
+should recognize the menu driven interface
+utilized in this strategy game. In fact, the
+game is so much like NBA that it allows college players to continue playing with five fouls
+and foul out with six fouls (just like the pros).
+In addition, the statistics compiler should only
+be utilized for up to three games in a row, just
+like NBA. If players try to save more than
+three games in succession, strange anomalies
+may occur. Those who liked the previous offerings will more than likely want to purchase
+this game.
+For those unfamiliar with the "Pure Stat" approach, each game comes complete with
+
+statistical data for great teams of the past.
+The game can be played computer versus
+computer, solitaire, or against a human opponent. After deciding on the starting lineup,
+play proceeds with the expected jump ball.
+Depending on the outcome of the tip, the
+player will be confronted with a menu of offensive or defensive choices. On offense, he
+must choose the point guard and whether the
+guard will pass or shoot the ball. When shooting, this leads to a sub-menu which allows the
+guard to shoot from the outside, drive and
+shoot, or go for a three point shot. Another
+sub-menu allows the player to determine
+whether to guard against the fast break,
+rebound aggressively, take the ball back outside, or immediately shoot the ball again. On
+defense, the player selects from a menu of
+basic defensive formations and a sub-menu
+which allows one to guard against either the
+outside or inside shot, go for a steal, double
+team a particular player and/or play for a fast
+break (multiple choices are available). After all
+the choices have been input, the game offers
+a graphic representation of the resulting play.
+Unfortunately, the game doesn't always
+reflect the data input- The passes which are ordered are not always executed. Further, on
+several occasions a team scored a basket and
+the defensive set was called. Then, the program showed that team, which was supposed
+to be on the defensive, shooting and missing
+a basket in order to set up a fast break for the
+other team. One might also ask why shooting
+a three point shot increases the frequency of
+steals or why teams do not "crash the boards"
+most of the time when they are ordered to
+rebound aggressively. (Software Simulations,
+959 Main St., Stratford, CT 06497, Apple II, C64/128, IBM, $39.95)
+
+Boxing
+T.K.O.: Accolade has always placed a
+premium on visual effects and visceral impact.
+This boxing game offers a fresh visual perspective (face-to-face with the opponent) and an
+impressive artistic quality far beyond the cartoon approach of the company's earlier Fight
+Night product (players actually see damage
+taking place on the boxers' faces). This game
+has much of the appeal of the coin-op
+arcade's Punch-Out, but with more strategy
+and a capacity for two player games. By utilizing the upper half of the screen as one
+boxer's viewpoint and the lower half as the
+other boxer's viewpoint, both players are
+presented with a first person perspectivePlayers really see the punches coming at
+them and it is thrilling to land a solid punch
+on one's opponent. The game also uses a
+side window for damage indicators for each
+boxer and an overhead perspective of the ring
+to show position in the ring.
+Strategy begins with the scouting report
+(Continued on page 44)
+
+Review
+
+Y
+
+ou are an expert programmer, known to the world
+only as Captain Blood. It was your goal to create the
+ultimate, computer science fiction adventure. Working
+alone, you programmed for months to create Hydra, a
+galaxy of 32,768 planets, and the 14 intelligent races that
+went with the game. Each race had their own language, social systems, and personality. To enable them to communicate with each other, you created UPCOM (the Universal
+Protocol of Communication). To facilitate transit between
+planets, you made hyperspace travel a reality. Finally, it
+was finished. The last thing you remembered, before losing
+consciousness, was entering the "RUM' command.
+When you woke-up wondering what had happened, you
+found yourself inside the game! Somehow, your physical
+being had been translated into Hydra. Even worse, your
+genetic structure had been mutated into someone who was
+part-human and part-machine. Five identical clones were
+also created. These clones are now hidden throughout the
+galaxy. You have 2 1/2 hours of real time to find each clone
+and disintegrate it, thereby replenishing your body fluids
+before you degenerate completely into a machine.
+This is the premise behind Mindscape's new graphic adventure game, Captain Blood (CB). The player, as Captain Blood,
+has approximately 2 1/2 hours to find each of the clones
+(called Duplicates). He must transport them up to his
+spaceship and destroy them in a disintegration chamber called
+the Fridgitorium in order to renew his body fluids. When all
+five have been destroyed, the captain will be whole again.
+Once this is accomplished, the fair maiden Torka must be
+found and Hydra exited.
+
+Instrument Checklist
+The copy-protected game disk is accompanied by a 25 page
+rulebook, which describes: the premise behind the game,
+operation of the spaceship and its scouts, and communication
+with each of the fourteen alien races. Display screenshots are
+included, and all instrument functions are fully described.
+Icons used in the UPCOM are pictured and information on
+each race is also included. In short, it is a very good idea to
+study all the documentation thoroughly.
+CB was originally developed in France and, as it begins loading, an excellent musical score written by French songwriter
+Jean-Michel Jarre is heard. Then, since the game takes place
+from a first person perspective, the adventure opens in Capt.
+Blood's spaceship's control room and the player sees what
+Capt. Blood would see. The screen portrays all the controls
+and information needed to play the game: X-Y map coordinates indicating the ship's position; a clock ticking away the
+seconds, minutes, and hours before the good captain
+degenerate into a machine; a viewscreen depicting space as it
+would appear outside the ship; and a control panel representing nine buttons and several more gadgets, all of which
+can be accessed by the mouse. Upon clicking a button, the
+Amiga's speech synthesizer tells what function is being performed.
+
+Finding a Needle in a Haystack
+To find and destroy each of the Duplicates, the player must
+land on inhabited planets and talk with its residents. The trick
+is to find an inhabited planet, then obtain good information.
+Random movement from planet to planet is not a formula for
+success. The game always begins with the player orbiting an
+inhabited planet. Getting to the next inhabited planet is the
+player's problem. Considering the number of worlds available,
+one must be both a good interviewer and notetaker.
+To move from planet to planet, push the Hyperspace button
+and hold onto your acceleration couch! The growing whine of
+
+by Kevin C. Rohrer
+your engines is heard and the planets begin rushing past, to
+be replaced by the colorful kaleidoscopic effect of Hyperspace
+Travel. Once out of Hyperspace, the stars reappear and the
+ship slows to a stop, the nearest planet then coming into view
+as orbit around it is automatically attained.
+
+Threading
+the Needle
+Capt. Blood's
+spaceship is too
+large to land on a
+planet. Instead,
+planetary exploration
+is accomplished by
+sending an OORXX,
+a highly specialized
+living creature
+designed for surface
+exploration. Clicking
+on the OORXX Landing Activator drops
+one from the ship
+into the planet's atmosphere. The
+mouse is used to
+maneuver it up a
+jagged canyon to its
+ultimate landing site
+at the canyon's end.
+It is here that an
+alien will be found if
+the planet is inhabited. Canyon
+Captain Blood
+TITLE:
+walls are steep, high, and twist in
+SYSTEM:
+Amiga, C-64, IBM, ST
+and out, so care must be taken to
+VERSION
+REVIEWED:
+Amiga
+not hit a wall. The OORXX is susPRICE:
+$49.95
+ceptible to damage; six crashes into
+DESIGNERS:
+Phillippe Ulrich
+Didier Bouchon
+canyon walls will destroy it. On
+PUBLISHER:
+Mindscape, Inc.
+some planets, the inhabitants are
+Northbrook, IL
+rather unfriendly and will fire
+homing missiles at the OORXX.
+Naturally, failing to dodge these missiles will also cause its
+destruction.
+
+A Stitch in Time
+Upon landing, the wireframe landscape fills in with fractal
+graphics and, if an alien is present, he or she will appear on
+the ship's display. The lower half of the control panel changes
+to that of the UPCOM control panel and an amusing looking
+pair of lips will be positioned directly below the viewscreen.
+The lips move, of course, whenever the alien has something
+to say. Clicking on the lips causes the UPCOM symbols that
+are being spoken to appear on the viewscreen along with the
+English translation of the alien's message- Players are required
+to scroll through the available icons and, when a needed icon
+is found, click on it to load the icon into a Response Area located to the right of the lips. When finished constructing a sentence, the player simply clicks on the lips and the sentence is
+
+sent. This may sound rather involved, but it is actually quite
+easy.
+Aliens give both information and disinformation. It is up to
+the player to determine fact from fiction. Obviously, what one
+says to the alien has
+a great deal to do
+with what he will say
+in return. Some
+aliens talk gibberish
+or intentionally lie,
+others evade questions by responding
+with another question, and a few tell
+the truth. One will
+also need to return
+to planets previously
+visited to question
+aliens again. Fortunately, the OORXX that is sent to each planet's surface stays
+there and may be reactivated through one of the control
+panel buttons, saving valuable time.
+In some cases, it is necessary to perform some action in
+order to get information from aliens. On some occasions, one
+may have to actually destroy another planet. This is where the
+Planet Destruct Activator comes in. When this button is
+pushed, the planet displayed on the viewscreen lights up
+dramatically and, accompanied by the appropriate sound effects, is destroyed, leaving only empty space.
+Once one of the Duplicates is found, it must be coaxed into
+
+being transported up to the ship and into its Fridgitorium,
+where it will be disintegrated, thus renewing the captain's body
+fluids for another 2 1/2 hours.
+
+The Finished Product
+On the Amiga, all sounds are digitized and in stereo- The
+graphics are impressive and very detailed, with none of the
+jerky movement sometimes visible in less powerful computers.
+The predominant game colors are cool shades of blue and
+purple on a space-black background, all giving an unnatural
+and unearthly effect to the game. The captain's arm is also
+blue, skeletal, and metallic looking as if it, and he, are no
+longer human. This surreal color scheme enhances CB by adding an additional air of the bizarre.
+CB's strengths are an unusual concept (surviving five 2 1/2
+hour time limits by locating an equal number of individuals
+scattered throughout a large galaxy), equally unusual execution (the UPCOM language needed to talk to different alien
+races), delightfully surreal graphics, and the pleasant variety of
+sound. There is enough arcade action thrown in (landing the
+OORXX on planets) to break up any monotony that may be incurred while moving between planets and conversing with the
+aliens.
+Finding aliens to talk to isn't easy, and getting good information out of them is downright difficult. Therefore, finding the
+Duplicates and Torka is not an easy task- Thus, CB is not for
+the beginning adventure gamer, but will be supremely satisfying to those that can overcome the game's obstacles. Those
+garners looking for a difficult adventure, who enjoy unusual
+graphics, like science fiction games, and enjoy arcade sequences will find tremendous play value in Captain Blood.
+
+Review
+by Johnny L. Wilson
+"Gretzky from the top of the slot, moues behind the net, looks
+for Robitaille, fakes a pass to the point, he tries a wrap-around,
+he shoots . . . he S-C-O-R-E-S!" (the crowd goes crazy!) "Wayne
+Gretzky, a power play goal at 19:45 of the third period . . . and
+the Kings lead 6-5."
+The unmistakable rising decibel level of a hockey announcer
+broadcasting a goal is about the only missing bit of hockey color
+in Wayne Gretzky Hockey. The rest of it is there, though, including the sounds of bodies hitting the boards, sirens sounding after
+goals, and the roar of the crowd. Team colors can be changed to
+
+The Great One
+Digitized
+Bethesda Softworks'
+"Wayne Gretzky Hockey"
+
+reflect the dominant color on each team's
+TITLE:
+SYSTEM:
+uniforms, the "ice" is actually scuffed up during
+# PLAYERS:
+play, and the Zamboni really refurbishes the skatPRICE:
+ing surface between periods (if the player wishes to
+DESIGNER:
+PUBLISHER:
+wait for it). Players usually see about two-thirds of
+the rink from a viewpoint directly overhead. This
+angle offers a wonderful perspective from which to
+observe plays unfolding and take note of offensive/defensive positions. It also has the most incredible "Instant
+Replay" feature where players control how much of a play to
+show, the speed to show it, and whether to stop/start action
+"frame-by-frame" as though observing game films. From the
+opening sequence portraying Wayne Gretzky, nattily attired in
+white and black jersey, firing the puck directly at the monitor
+screen (simulating the disintegration of the screen itself), to the
+digitized final buzzer, this is a stimulating game.
+
+Hat Trick
+Actually, Wayne Gretzky Hockey is composed of three distinctive, yet similar, games: "Control Player," "Play and Coach," and
+"Coach Only." The "Control Player" mode, the game offers
+enough fast-moving action for any arcade fan. The ability to play
+at either normal or slow speed and handicap one's opponent so
+that his players function at high school, college, or junior levels
+(as opposed to professional level) means that even those with
+relatively poor reflexes can become competitive in this game.
+However, for anyone who appreciates professional hockey,
+
+Wayne Gretzky Hockey offers much more. The artificial intelligence of the non-controlled players produces extremely realistic
+styles of play. Players are rated from 0-9 in eleven categories: aggression, power, injury (avoidance), skating, puck control, shooting, quickness, fatigue, (tendency to be charged with a) penalty,
+passing, and checking. So, the "meat-eaters" will rack up penalty
+minutes just like real hockey. Also, players with great skating and
+puck control will be able to clear the defensive zone and bring
+the puck across the blue line better than those known for their
+checking and fighting ability. Since the gamer can control any
+player on his team by simply placing the cursor over the onscreen
+player and
+clicking, it
+is possible
+to play
+every position (except
+goalie) and
+every style.
+In addition,
+the game
+is physics
+based, so
+the onscreen
+players
+move realistically according to
+momentum; the
+puck
+caroms
+authentically, and the
+time-scale
+is believable-
+
+The active player
+is controlled using either a joystick or a mouse.
+Wayne Gretzky Hockey
+Amiga
+The joystick control is typical, but the mouse con1.2
+trol is an extremely interesting interface. Gamers
+$49.95
+Bethesda Softworks
+utilizing the mouse place the cursor in the direcBethesda Softworks
+tion they wish the active player to skate, pass, or
+P.O. Box 7877
+shoot. If the cursor is a long way away, the onGaithersburg, MD 20898
+screen figure skates rapidly toward it. If the cursor
+is only slightly ahead of the figure, he skates
+more slowly. This allows the player to carefully define the area
+which the animated figure is to patrol and to be more precise in
+directing their passes. This reviewer found it simpler to shoot accurately for a specific corner of the net with the mouse.
+
+Behind The Bench
+For those who do not like joystick or mouse-driven action as
+part of their sports simulations, there is a "Coach Only" mode
+where garners make the same kinds of decisions which confront
+NHL coaches. Prior to the game, one selects the eighteen different lines to be utilized in various situations: three five-on-five
+lines, three four-on-four lines, three five-on-four "power play"
+lines, three five-on-three "power play" lines, three four-on-five
+"penalty killing" lines, and three three-on-five "penalty killing"
+lines. Players are not permitted to mix-up the lines in the course
+of the game.
+In addition, one must make two types of important coaching
+decisions during the course of the game. First, one can call a par(Continued on page 49)
+
+(Continued from page 18
+
+F-14
+Tomcat
+le it. The first is to keep your "set up to
+fire" distance constant and keep asking
+for permission to fire until you get it (or
+until the bogeys leave). Personally, I
+prefer the direct approach where you
+taunt the enemy into an attack. Fly right
+through their squadron until you provoke
+a fire fight. The only problem in doing
+this is that you never know quite when
+they'll fire. So, when they do fire, you will
+be kept quite busy evading missiles
+through the first portion of the dogfight.
+If you survive long enough, though,
+they'll be the ones on the run. Remember, a stalemate is a loser. Destroy your
+enemy and he'll be sent to Allah, while
+you'll be sent to Hawaii.
+After completing your mission, do your
+best to land and this will boost your
+reputation. If you land in spite of flight
+damage, you'll earn the respect of Admiral Hawk. Of course, ejecting from the
+plane is sometimes the only solution, but
+it will mean answering to the review
+board. Ejecting from a perfectly good
+working Tomcat will destroy your reputation and, maybe, your career. Waiting too
+long to eject may result in injuries too
+severe to allow you to return as a pilot,
+ending your career. Should your reputation continue to improve, Admiral Hawk
+will start to depend on you more and
+more. Of course, this will also mean that
+the difficulty of your missions will increase.
+If you manage to survive through age
+28 with an 85% rating or better, you will
+be sent to Top Gun School. Your fellow
+students/opponents are extremely good
+and success will require you to be better.
+Use the Immelmann. The other students
+initially have a problem defending against
+it. If you use it too often, though, you'll
+find it becoming increasingly ineffective
+against your opponents. They are, after
+all, the best in the world. Should you
+manage to win all your dog fights and
+land successfully, you will be awarded the
+Top Gun trophy.
+Once you reach 36 years of age, you
+are allowed to retire. Pilots who manage
+this seemingly impossible task find a
+variety of careers worthy of their reputations. Remember, this isn't just a game,
+it's a way of life.
+CGW
+
+Conversions
+Received
+For the Amiga
+Alien Syndrome (Mindscape)
+Balance of Power: 1990 (Mindscape)
+Dungeon Master (FTL)
+Fire-Brigade (Panther)
+Galactic Conqueror (Titus)
+Platoon (Data East)
+Space Harrier (Mindscape)
+Time Bandit (Microdeal)
+Zany Golf (Electronic Arts)
+
+For the Apple IIGS
+Balance of Power: 1990 (Mindscape)
+Dungeon Master (FTL)
+Where in the World is Carmen San
+Diego (Broderbund)
+
+For the Apple II+
+Dinosaurs Are Forever (Polarware)
+
+For the Atari ST
+ALCON (Taito)
+Zany Golf (Electronic Arts)
+
+For the C-64
+Dinosaurs Are Forever (Polarware)
+720 Degrees (Mindscape)
+Uninvited (Mindscape)
+
+For the IBM
+Balance of Power: 1990 (Mindscape)
+Dinosaurs Are Forever (Polarware)
+Halls of Montezuma (SSG)
+Strike Fleet (Electronic Arts)
+TKO (Accolade)
+Wasteland (Electronic Arts)
+
+For the Mac
+Crazy Cars (Titus)
+4th & Inches (Accolade)
+Pirates (Microprose)
+Warlock (Three-Sixty)
+
+(Continued from page 30)
+
+The Magic Candle
+wizards and as many people as possible who have moneymaking professions. Put all of them, except Min (who has
+the best charisma), to work when you reach Port Avur. Drop
+off the mages at a guest house and have them learn spells
+while whoever is left goes around town talking to people.
+Later, when you're ready to do some serious exploring, you
+can return to the castle and replace the carpenters, etc. with
+fighting men.
+When outfitting your team, chain mail is a good choice and
+will be sufficient for awhile. Unless you plan to have your
+mages fighting, you don't need armor or weapons for them;
+just see to it that they have a supply of Nift on hand. Later,
+when you head into the tough dungeons, you may want to
+get the wizards some good armor.
+Food should not be too much of a problem. It is relatively
+inexpensive and one ration is good for one day. Buy some
+extra for everyone, then just check on it once in awhile.
+Have your best hunter hunt in the outdoors whenever possible to increase the skill and cut down on the chances of
+dungeon ambushes. Forego training party members until
+you have gotten their learning skills up. Work with the
+mages first. When you find out where you can get "learning
+
+training," go there with as much money as you can and get
+that skill increased as much as possible.
+The same is true for charisma. There is only one place to
+get it increased and it is not cheap. Choose one person to
+be the party "spokesman" and get that character's charisma
+up as high as you can. It isn't important to raise everyone's.
+Once you're ready to start poking around in dungeons,
+make sure each character has protections up. This includes
+using Nift (which protects against physical blows) and shields
+(magical spells to protect against magical attacks). Check on
+these after combat and restore them as needed.
+At the start, work on accumulating sermin for energy and
+drelin for faster travel in the outdoors. Everyone should have
+a good supply of these. Start buying Nift and Gonshi (the
+speed-em-up mushroom) when you're headed for a dungeon.
+Charisma only has an effect on prices when you're dealing
+with the general store merchant. Food, armor, weapons, and
+a night's stay at the inn all have fixed prices which are not affected by charisma. Have your most charismatic character do
+all the buying at the general store. In other shops, each person can do their own purchasing.
+Dwarves roam the countryside with gems for sale. Buy
+them (especially diamonds) whenever you can; the jewels
+can typically be sold in town for about twice what you paid
+(especially in Port Avur) and offer a good way of increasing
+the money supply.
+Be careful you don't get ahead of yourself too early in the
+game. If you find that you're taking a beating from the
+monsters or that every combat is won by the skin of your
+teeth, you shouldn't be around that area yet. Backtrack a bit
+and wait until your team has gotten a little stronger. Or, if
+you feel you simply must snoop around in the outdoors,
+have a good number of teleport spells memorized so you
+can move around quickly to avoid fighting.
+When you get to the later dungeons, take your time and
+figure out your best strategy for each combat. Different
+monster combinations may require different methods to
+defeat. Nothing happens until you "Begin," so you have as
+long as you need to make battle plans.
+Until you have several people to ask for, it's best not to go
+to any villages. You won't accomplish much. Remember that
+the further away from Pheron you are, the higher your charisma needs to be. So you also want a pretty decent charisma
+score, as well as names of residents.
+Be careful in the towns of Sumruna, Delkona, and Knessos. These towns also contain strongholds of the enemy and
+you may walk into one without realizing it until too late
+(there are no "Here be Monsters" signs hanging over the
+door). You can make the townspeople happy (and pick up
+some interesting information) by cleaning them out, although it is not necessary to completing the game.
+Finally, do be patient. There is much to learn in this game.
+You discover something new in each town you visit. Attempting to whip through it won't help at all, and may well put
+you in an impossible position (this is not a hack-and-slash
+story, after all). Finding everyone you need to talk to in a
+town may be trying at times, but is well worth the effort. If
+talking to people is getting you down, take a jaunt in the
+countryside, bop a few monsters, and come back again
+later. There's always something to do here, so take it slow
+and you'll enjoy the game that much more.
+Copyright 1989 by Scorpia, all rights reserved.
+
+Computer Cavalcade of Sports
+(Continued from page 33)
+
+Computer
+Cavalcade
+of Sports
+
+which is displayed on-screen prior to each
+bout. The opponent's style and characteristics
+are displayed on one half of the screen and
+player's can access "sliders," those ubiquitous
+sliding scales, to prepare their boxers for the
+upcoming bout. Deciding on the right stance,
+power hand, type of punch (head or body),
+strength, and weakness may make the difference between victory or defeat. Once the
+round begins, players must use the position
+of the joystick to indicate which of nine different target locations and five different guard
+positions they will use. Guard positions are important for more than defense, however, since
+they also determine what kind of punch the
+boxer will throw. Jabs are thrown from the
+upper guard positions, for example, but uppercuts must be thrown from the lower guard
+positions. In addition to these tactical considerations, players should try to maneuver
+their opponents up against the ropes to enhance the effectiveness of their punches.
+In fact, the only potential disappointment in
+the product is the fact that players can only
+fight fictitious boxers. The game would be absolutely incredible if one could battle "Ali," "Liston," "Marciano," "Louis," and company. The
+game should appeal to fans of the coin-op
+Punch-Out and pure boxing strategy games
+like SSI's out-of-print Ringside Seat alike.
+(IBM, $39.95 and C-64/128, $29.95).
+
+Fishing
+Reel Fishin': Interstel delights in producing
+games with a different slant. Upon one's first
+observation, bass fishing does not seem to be
+particularly fertile ground for a computer
+game, yet Roger Damon has used his skills as
+an experienced strategy game designer to create an intriguing format of economic management, fishing strategy, and mouse-driven ac-
+
+tion. When players manage to be successful
+in all three areas, they can participate in the
+stiff competition of tournament fishing.
+Evaluating the weather, selecting a lake and
+fishing spot, utilizing the right bait, casting,
+setting the hook, playing the fish, and determining the optimal time to enter tournaments
+are the important ingredients of this game.
+Tutorial elements exist for the novice fisherman, as well. The graphics do not push the
+envelope on the Atari ST and are rather
+utilitarian in spots, but they have some very
+nice touches (particularly when the fish is
+reeled in and the representations of the
+various lures in the tackle shop). This program takes longer to play than Rich Tauber's
+Bass Champ, discussed later, and that indicates the essential choice between the two
+programs. Bass Champ opted for a faster
+pace as opposed to some aspects of realism.
+Reel Fishin' offers a slower pace with more
+user control when one is out on the lake.
+(Amiga, Atari ST, $44.95)
+Rich Tauber's Bass Champ: Even if you are
+not a fisherman, this is an addictive program.
+Famous bass fishing champion Rich Tauber
+provides a very accessible tutorial and players
+compete in a tournament against computer
+fishermen. Although the graphics are simple
+and far below the craftsmanship of those in
+Reel Fishin', the utilitarian graphics do have
+some nice touches. We were pleased with the
+contribution the sonar graph makes to game
+play. Strategists will find that paying close attention to the topographical map of fictional
+"Lake Stikapig" combined with judicious use
+of the sonar will help them locate the fish.
+Then, accessing Rich to find out the best bait
+and optimal retrieve to use should put the
+player on the right track (but not always!). The
+screen offers cute little comments when the
+fish are not biting and a simple action sequence using the arrow keys when you get a
+bite. Unlike Reel Fishin', however, players do
+not have the feel that they are really controlling the cast and retrieve. The action portion
+of Bass Champ does not occur until the bass
+strikes and the hook is set. The game does
+keep track of the player's accomplishments,
+total winnings, and accumulated sponsors.
+(Shadowfax Systems, 2005 W. Culver Ave.
+Suite 19, Orange, CA 92668, IBM, $40.00)
+
+Football
+John Elway's Quarterback: Readers who
+have played Quarterback in the coin-op arcades will instantly recognize the personal
+computer version of the game. It is a direct
+translation. Players select from nine offensive
+plays (functionally twenty plays if one reverses
+direction on the nine and considers punts or
+field goals, as well) and six defensive formations (plus special teams to return punts or
+block field goals). On offense, the player takes
+on the role of the quarterback. On running
+plays, the quarterback runs the ball and on
+
+passing plays, the player acts as quarterback
+until the receiver catches the ball (becoming
+the active player). On defense, the player acts
+as the middle linebacker (unless a pass is intercepted or kick is received, then the ball carrier becomes the active player). To keep matters simple, there are only nine players represented on each team. The documentation is
+solid and helpful, but John Elway's Quarterback is the kind of game almost anyone can
+sit down and play in order to receive loads of
+action with little expended effort. (Melbourne
+House, 711 W. 17th St. Unit G9, Costa Mesa,
+CA, C-64/128 and IBM with 5 and 1/4",
+$29.95, IBM with 3 and 1/2", $34.99)
+John Madden Football: Electronic Arts
+products are constructed around a clear ideal.
+They are expected to be simple, hot, and
+deep. John Madden Football, originally
+released for the 64K Apple II series is just
+such a product. It is simple enough in the
+"Quick Game" mode to offer a balanced action/strategy game, but it is deep enough in
+the "Standard Game" to allow players to edit
+teams, design plays, use rosters from actual
+NFL teams (only available on separate data
+disks) which rate professional football players
+in more categories than any other game to
+date, utilize plays from Madden's old Oakland
+Raider playbook, and exploit one-to-one
+player match-ups. The "Chalkboard" (Play
+Editor) provides an extremely elegant method
+of designing new plays or modifying old ones.
+The ability to assign blocks, pass patterns,
+men in motion, and rushing routes is tremendous. The "Chalkboard" even allows players to
+walk through a play and decide if it really
+works. Finally, the game is hot because even
+those who feel uncomfortable with joystickdriven games can compete with those who
+are excellent arcade players. This is because
+the computer players are coordinated enough
+to often "make up" for the "player coach."
+Statistics-oriented players will love the ratings
+system and attention to detail (although some
+will fault the model because the passing game
+is potentially too effective); action-oriented
+players will find an intriguing combination of
+action mixed with strategy, and Apple II
+owners will be amazed at what their machines
+can still do. (Apple II, $49.95)
+
+Golf
+California Pro Golf: Mastertronic just
+released a golf program with two different
+courses and a similar interface to earlier golf
+games (World Class Leader Board or Mean
+18). The interesting variable in this interface is
+the ability to address the ball high or low
+(using the up or down arrows on IBM) or
+deliberately play a slice or hook in addressing
+the ball (using left and right arrows on IBM or
+a swinging arrow on the C-64/128). The
+product certainly offers exceptional quality for
+the price. (C-64/128, $9.99, IBM, $14.95)
+Jack Nicklaus' Greatest 18 Holes of Major
+
+Championship Golf: Readers who are familiar
+with Accolade's best-selling Mean 18 will be
+familiar with the basic interface of this licensed
+product from the same publisher. The basic
+differences between the two products revolve
+around better graphics and more realistic putting in the Jack Nicklaus endorsed product.
+The "Golden Bear" himself selected the most
+challenging holes to be included, designed
+the two additional courses which are simulated, and provides on-screen commentary related to playing each hole. Also, the scorecard
+feature will keep track of either stroke or
+"skins game" play in this latest game. (IBM,
+Apple IIGS, Amiga, $49.95, C-64/128, $29.95)
+
+Hockey
+Power Play Hockey: Electronic Arts' actionoriented USA vs. USSR hockey game uses
+relatively fluid animation with full size caricatures of the players. The game allows one or
+two players to play one-on-one (for that
+refreshing "breakaway" feeling) or a more traditional five-on-five approach (the computer
+controls both goalies in either configuration).
+The game simulates realistic rules (but don't
+expect the referee to call 'em close), utilizes
+simple strategy, and emphasizes arcade action
+at three different difficulty levels. The moves
+look right and the sound is outstanding (it's
+not the Chicago Stadium Wurlitzer, though),
+but there is no statistics base to work from
+and the game is often tongue in cheek from
+the documentation straight through to the
+soundtrack. (C-64/128, $24.95)
+Wayne Gretzky Hockey: See the feature
+review of Wayne Gretzky Hockey elsewhere
+in this issue.
+
+Olympic Games
+Downhill Challenge: The French company
+Microids designed this game which Broderbund has published in the U.S. The animation and sound are extremely representative
+of the subject matter, but the color palette on
+the IBM is disappointing because it is
+restricted to CGA pink and blue. The scrolling
+is remarkably fast. The terrain scrolls by in
+such a way that it really gives the feeling that
+one is travelling over uneven terrain and working to get an edge for making those sharp
+turns between gates. Up to six players can
+compete in slalom, giant slalom, downhill,
+and ski jumping. Each competition, except for
+ski jumping, offers three difficulty levels in
+terms of runs and they all use a first person
+perspective from right behind the skier so that
+the player must react from the same visual
+perspective as the skier. This is the most extremely satisfying ski simulation yet, except for
+one major drawback. It is nearly impossible to
+play on a 286 or 386 processor. There is a
+
+"fix" for this problem, however. The Broderbund technical support BBS [(415) 4923526) from 5:00 P.M. to 8:00 A.M. Pacific)
+has a very small memory resident program
+called, "Whoa!" which can be downloaded and
+allows players to slow down or speed up their
+processors for game purposes. (IBM, $29.95),
+ST ($34.95)
+The Games: Summer Edition: There is
+something for every action-oriented player in
+Epyx's tribute to the Summer Olympics of
+1988. There are sequences which are joystick
+busters (particularly velodrome cycling, hurdling, pole vaulting, and hammer throw), but
+there are also some sequences which require
+considerable thought along with the player's
+coordination (diving, rings, and uneven parallel bars). Of all the events, archery, hurdles,
+and the hammer throw are the most
+straightforward. With the other events, players
+will immediately understand why this is such a
+detailed player manual. It actually takes a flow
+chart to describe the possible ring and uneven parallel bar sequences, not to mention
+the more than two pages of possible dives for
+that competition. The manual also offers
+specific hints for better performances in each
+event and historical summaries of past Olympic competitions. All of the events offer sufficient challenge for the player to keep improving. In addition to the competitions themselves, players will enjoy the care taken to model
+the human body in the animation, the attention to camera angles in presenting the
+panorama of the games (and Opening
+Ceremonies), and the extremely effective fractal graphics utilized to show rapid motion and
+sweeping scenery. (Apple, IBM, $49.95, C64/128, $39.95)
+The Games: Winter Edition: Epyx presents
+unique perspectives in this product. Using a
+television camera perspective rather than the
+standard first person perspective of other action games, the competitions challenge the
+player's reflexes with a variety of rhythm, reaction, and retention checks. Rhythm is important in terms of speed skating and crosscountry where players must coordinate the
+joystick movement with leg movement, as well
+as the slalom event where the trick is coordinating left and right movement through the
+gates. Reaction is important in ski jumping
+where one must press the button at just the
+right time for "take-offs" and "landings;"
+downhill skiing where one must schuss
+through the gates; and luge where one is required to steer sharply through the turns.
+Retention is important in luge because
+players who take the time to memorize the
+various track configurations will have a
+definite advantage in anticipating turns. It is
+also helpful to memorize one's figure skating
+routine in order to coordinate moves and
+music more effectively. The Games: Winter
+Edition offers extremely attractive graphics,
+animation, and visual perspective coupled
+with distinctive approaches to action-oriented
+subject matter. Those who enjoy quick
+
+moving games with multiple players competing will certainly like this one. (Amiga, Apple
+II, IBM, Mac, $49.95, C-64/128, $39.95)
+Winter Challenge: This budget-priced game
+from Mindscape's "Thunder Mountain"
+division provides action garners with five
+winter events. The animation and graphics
+are somewhat cruder than the artwork in The
+Games: Winter Edition and the arcade sequences which are similar (Ski Jumping and
+Slalom) are usually more forgiving in Winter
+Challenge. When players participate in ski
+jumping, downhill skiing, and bobsledding,
+the on-screen view utilizes the typical first person perspective except in the ski jump where
+one must balance his character once he is in
+the air by means of a side view. The slalom
+event utilizes an oblique overhead side-view
+similar to that event in The Games. Downhill
+skiing is distinctive because it uses logs
+stretched sideways along the course rather
+than the familiar "gates" of standard competition. The biathlon event in Winter Challenge
+is similar to cross-country skiing in the game
+discussed earlier. It does not have the realistic
+touches of The Games, however. For example, one must use the fire button to edge
+up hills in the Epyx game, but one's character glides easily uphill when competing in the
+"Thunder Mountain" game. Also, the latter
+game reuses scenery screens over and over in
+the same order. Nevertheless, the target sequences in the biathlon (using an over the
+character's shoulder viewpoint) are simple, effective, and fun. (Atari ST, C-64/128, $9.95)
+
+Racing
+Auto Racing
+Test Drive II: The Duel: The graphics are better and offer more variety than those in the
+original Test Drive. Players can actually drive
+off the cliffs or onto the desert (and face the
+consequences). There are two supplementary
+disks that also add to enjoyment of the new
+product, a "Super Cars" disk of five different
+vehicles (Lotus Turbo Esprit, Ferrari Testarossa, Porsche 911 RUF, Lamborghini Countach,
+and Corvette Zr-1) to add to the Ferrari F-40
+and Porsche 959 on the master disk and the
+"California Challenge" scenery disk which allows players to race down the California
+coastline. Another nice feature is the ability to
+race against a computer opponent as opposed to the game's predecessor which only
+provided for racing against the clock. Those
+who liked the original product will be very impressed with this release, but those who never
+liked the joystick/keyboard steering system of
+the original will want to steer clear of this
+game. Like Test Drive and Grand Prix Circuit,
+controlling acceleration, shifting gears, and
+steering the car by means of the same device
+is extremely difficult and frustrating.
+(Continued on page 55)
+
+(Continued from page 38)
+
+Wayne Gretzky
+Hockey
+titular play for a particular situation.
+There are five plays which the would-be
+coach can order from the keyboard: forwards spread across the attacking zone,
+left wing and center crossing over, right
+wing and center crossing over, forwards
+flooding the left side of the zone, and forwards flooding the right side of the zone.
+Second, one can change lines to keep
+fresh players on the ice. The energy
+rating for the active line is displayed at
+the bottom of the screen. This number is
+continually declining as the active line expends energy. Failing to keep "fresh"
+players on the ice causes the on-screen
+players become sluggish and play poorly.
+Another choice occurs on relatively rare
+occasions: late in the game when one's
+team is behind by only one goal or when
+a delayed penalty has been called against
+the opposing team (since play will be
+stopped automatically when the opponents touch the puck, hence they cannot score). The option of pulling the
+goalie is available to coaches who are
+either aggressive or desperate. This is accomplished with a simple keystroke and
+enables the coach to send an extra attacker onto the ice to replace the goalie.
+It may not sound like the "Coach Only"
+mode leaves very much for the player to
+do in the course of a game, but it is absorbing nonetheless. It is a lot like actually watching a hockey game from atop a
+professional arena, but it is even better
+because of the ability to coach one's
+favorite players.
+
+Power Play
+In spite of all the play value the previously discussed modes have to offer,
+the most awesome way to play this game
+is in the "Play and Coach" mode. In this
+mode, one gets the satisfaction of
+making the same coaching decisions as
+in "Coach Only," but gets to participate
+as an active player on the ice. It is satisfying to select a line with Phil Esposito
+centering it, but it is absolutely thrilling to
+stake out the low slot (directly in front of
+the net), demand a pass, and "one-time"
+it (shoot off the pass) past the opposing
+goalie as though one were Esposito himself.
+
+Penalty Box
+The referee in Wayne Gretzky Hockey
+is simulated very effectively. In fact, the
+referee calls a close enough game that
+players can really feel exultant when they
+"get by with one."
+
+Beyond the overhead viewpoint, there is
+also some extremely nice animation in
+the game. The referee makes his calls
+using authentic hand signals. Delayed
+penalties are shown by an upraised hand
+at the bottom of the rink and the actual
+calls are depicted on a special animated
+scoreboard placed center screen whenever there is a penalty. Whenever a goal
+is scored, there is an animated "reward"
+sequence depicted on the scoreboard
+(sometimes, complete with fireworks). On
+one megabyte systems, there are supposed to be fight sequences on the
+scoreboard. They look nice on the demo
+disk, but no fights occurred on our
+Amiga 1000 with MicroBotics expansion card.
+The only drawback in addition to the
+missing fight sequences relates to the
+team data. The game comes with the alltime great Boston Bruins and Montreal
+
+Canadiens teams. Unfortunately, the
+statistics for Wayne Gretzky do not even
+appear in the game unless one buys the
+NHL team data disks. As of press time,
+these disks were not finished. This means
+that players will have to laboriously enter
+statistics and rate their players themselves. It would have been nice if some
+rosters of modern teams had been
+released simultaneously with the game in
+order to provide some guidance in
+developing the ratings.
+
+Press Box
+The final evaluation of the product
+must be an unhesitating recommendation to anyone who enjoys hockey. Those
+who are looking for a pure action game
+and do not really care about strategy may
+opt for a more traditional arcade game,
+but this reviewer thinks Wayne Gretzky
+Hockey scores a hat trick in all three
+modes.
+
+(Continued from page 24)
+
+Scorpion's
+Mail
+her instructions, as they don't seem to lead anywhere.
+
+Ultima V
+The coordinates given by the Demon for the Shard of Hatred
+are not correct. If you go to that location in the underworld, you
+won't find anything there. What you should do is go down
+Covetous to the underworld, walk south to the mountains, and
+then head off westward. That will put you on the right track as a
+start. Use gems often to see what's around you. Readers have
+also been asking about Smith the talking horse. No, he doesn't
+have anything important to tell you, although it's important to
+know where he is.
+
+Bard's Tale II
+Some people are having a hard time finding the fifth word of
+the ten on level four of Dargoth's Tower. It's in a small room in
+the dark area where the stairs up are located. It's not easy to find,
+because of the spinners, but if you persevere, you'll come across
+it.
+
+Bard's Tale HI
+Folks poking around in Tenebrosia seem to be having trouble
+finding a Shadow Door to go with the Shadow Lock. The door is
+around, just not immediately evident. See what you can do about
+getting into the forest; just keep an eye out for Smokey the Bear
+(hehe). For those messing around in Malefia, make sure you
+bring all your special goodies with you, as you'll be needing them.
+
+Future Magic
+The battlestation is, not surprisingly, confusing and frustrating a
+number of people. The first level has three different "room" configurations which are repeated throughout the level. This can give
+a feeling of walking around in circles, even though you aren't
+(level three is the same way). Each level is nine "rooms" wide by
+eight "rooms" high. Using graph paper and the long-range scanner (for coordinates) you can map the place eventually, although
+patience is needed (for those without patience, I can provide the
+routes to take, but do try it on your own first).
+That's about it for this trip to the backroom. Remember if you
+need help with an adventure game, you can reach me in the following ways:
+On Delphi, visit the GameSIG (under the Groups and Clubs
+menu). On GEnie, stop by the Games RoundTable (type Scorpia
+to reach the Games RT). On The Source, send SMail to ST1030.
+By US Mail (enclose a self-addressed, stamped envelope with
+your questions if you live in the United States): Scorpia, PO Box
+338, Gracie Station, New York, NY 10028.
+Until next time, happy adventuring!
+
+Taking A Peek
+(Continued from page 6)
+
+games in this colorful, casino gambling
+simulator. Blackjack, Roulette, Craps,
+Keno, Video Poker and nine different
+slot machines all follow the rules and
+regulations of the New Jersey Casino
+Control Commission. Now you can lose
+your money without leaving the comfort
+of your home. Mouse or keyboard controls operate the betting and dice rolling.
+IBM (pictured) and C-64 ($34.95), ST
+($39.95). Circle Reader Service #5.
+
+Data East
+470 Needles Drive,
+San Jose, CA 95112
+GUERRILLA WAR: The coin-op hit
+comes to the computer with good looking graphics and color. One or two
+players attempt to overthrow the government with a variety of weaponry that includes bazookas, flamethrowers and
+grenades (your standard Central
+American arsenal). Jungles, tanks, and
+air strikes (along with five levels of difficulty) provide lots of challenge. IBM
+(pictured), and ST ($39.95), Amiga
+($44.95) and C-64 ($29.95). Circle
+Reader Service #6.
+
+Datasoft
+19808 Nordhoff Place
+Chatsworth, CA 91311
+LANCELOT: Three mini-games combine to let the player relive Malory's "Le
+Mort D'Arthur." in this text adventure.
+"Camelot" recreates Lancelot's rise to
+fame, "Logris" fills out the roster of the
+Knights at the Round Table, and "The
+Quest for the Holy Grail" completes the
+trilogy. Beautiful graphic windows give
+this game a lot of flavor. IBM (pictured)
+and Mac ($39.95), C-64 ($29.95). Circle
+Reader Service #7.
+TIME AND MAGIK: A trilogy of time
+travel, graphic text adventures that includes: "Lords of Time"-a scavenger
+hunt through time; "Red Moon"-a search
+for the Magik Red Moon Crystal that pits
+the player against the sinister Timelords;
+and "The Price of Magik"-a showdown
+with the Mad Guardian of the Crystal.
+The graphic screens are really stunning!
+Amiga (pictured) Mac and ST ($39.95),
+C-64 ($29.95). Circle Reader Service #8.
+
+the strength and direction of the shot.
+The game is easy to play, with colorful
+graphics and sound. Amiga (pictured)
+($39.95), C-64 and ST ($29.95). Circle
+Reader Service #9.
+
+Game Tek
+150 S. Pine Island Rd.
+Plantation, Florida 33324
+
+DigiTek
+104 W. Seneca, Suite 4
+Tampa, Florida 33612
+
+DOUBLE DARE: Outrageous physical
+stunts combine with brainstumping
+questions as the Nickleodeon/MTV teen
+game comes to the computer. Get shot
+out of a cannon into a plate of spaghetti, or dare your opponent in this updated
+version of Jan Murray's "Treasure Hunt."
+IBM (pictured) Apple and C-64 ($14.95).
+Circle Reader Service #10.
+
+HOLE-IN-ONE MINIATURE GOLF:
+Up to four can compete over a variety of
+classic and fantasy layouts in this 72
+hole golf game. The mouse determines
+
+HOLLYWOOD SQUARES: One or
+two players compete for cash and a car
+in the computer version of the long running TV hit. The player must figure out
+
+if the celebrity square they've chosen in
+this "Tic Tac Toe" game has given the
+correct answer or is bluffing. The celebs
+even have the one-liners that have made
+this game so popular on TV. The only
+problem is you can't drive away the car.
+IBM (pictured) Apple and C-64 ($14.95).
+Circle Reader Service #11.
+
+Konami
+815 Mittel Drive
+Wood Dale, IL 60191
+CONTRA: The popular Nintendo
+cartridge game comes to the home computer in this one or two player "shoot
+'em up." Players run, jump, and shoot
+their way past hordes of alien defenders,
+while trying to blast their way into the
+alien's lair. Machine guns, lasers, force
+fields, spread guns - they're all here. The
+playing hints include: "Shoot everything
+in sight." Need we say more? IBM (pic-
+
+of combat in this action game. The
+players have separate screens one
+above the other, and must work
+together if they are to get to the evil
+central computer creating the infestation
+threatening to overrun the planet Icarus.
+Both tactics and strategy are required to
+complete this one. Typical Psygnosis
+graphics and sound. Amiga (pictured).
+Circle Reader Service #15.
+
+CCS:
+Scorpion
+19 Harbor Drive
+Lake Hopatcong, NJ 07849
+ANCIENT BATTLES: One or two
+players compete in this ancient warfare
+game and construction kit. The game
+has hidden movement, computer control of subordinate generals, auto-deploy
+of forces, five scenarios (Hydaspes,
+Cynocephalae, Zama, Pharsalus and
+Chalons) and a construction kit to
+design your own battle. This is a good
+looking game on a neglected historical
+period. IBM ($39.95). Circle Reader Service #16.
+
+Actual Screenshots:
+Scorpion
+19 Harbor Drive
+Lake Hopatcong, NJ 07849
+
+tured) and Amiga ($39.95). Circle
+Reader Service #12.
+JACKAL: The player is a member of
+the Green Beret's Jeep Squad in this
+POW rescue mission. One or two
+players operate an all terrain, four-wheel
+drive, super-mobile attack jeep, armed
+with machine guns, missiles and hand
+grenades. (We could use one of those
+on the Southern California freeways!)
+Smooth forward scrolling and top down
+graphics make this easy to play. IBM
+($39.95). Circle Reader Service #13.
+
+Melbourne House
+711 West 17th St., Unit G9
+Costa Mesa, CA 92627
+WAR IN MIDDLE EARTH: Tolkien's
+epic trilogy finally makes it to the computer in this fantasy role-playing/graphic
+animation adventure/war game. The
+player controls Frodo, Gandalf, King
+
+Aaragorn and the good generals, and
+must see that the One Ring is tossed
+into the fires of Mt. Doom. Strategic
+maps show the movement of large forces, while individual screens cover the
+encounters that Frodo and the other
+ring bearers have with the forces of
+good and evil. Frodo must mobilize the
+forces of good, encounter and screen
+Sauron's evil minions, and get to Mt.
+Doom before Sauron finds the One
+Ring. This is a very detailed game with
+many layers of strategy. Amiga (pictured), IBM, IIGS and ST ($49.99). Circle
+Reader Service # 14.
+
+Psygnosis Ltd.
+First Floor,
+Port of Liverpool Bldng.
+Liverpool L3 1BY, U.K.
+CAPTAIN FIZZ MEETS THE
+BLASTER-IRONS: Two players are
+necessary to get through the 22 levels
+
+PURPLE HEART: Another 1 or 2
+player commando game that includes
+the usual weapons. In addition, though,
+you also get Helicopters, Bombers,
+Snow Mobiles (!), Motor Bikes and
+Nuclear Subs. Captured weapons help
+increase firepower and six different
+landscapes provide the variety. C-64
+($29.95). Circle Reader Service #17.
+
+Strategic Simulations, Inc.
+1046 N. Rengstorff Ave.
+Mountain View, CA 94043
+FIRST OVER GERMANY: Flying a
+World War II, B-17 is the order of the
+day in this one player game of air combat. The player starts as a 2nd Lt. pilot
+and selects a crew, practices take-off
+and landing, bombing and gunnery, and
+formation flying. After the training phase
+he must then fly a 25 mission tour of
+duty over Germany. The screens include
+strategic flying and tactical combat. C64 ($49.95). Circle Reader Service #18.
+
+(Continued from page 46)
+
+Computer
+Cavalcade
+of Sports
+
+Drive II: The Duel as well as Accolade's
+earlier high performance racing games.
+(Amiga, IBM, $44.95, C-64/128, $29.95,
+Scenery and Data Disks $19.95 and
+$14.95)
+
+Motocross Racing
+Suzuki's RM250 Motocross: Gamestar
+is known for its action-oriented sports
+games and Dynamix is known for high
+quality graphics. Both reputations come
+together in this racing game which requires fast reactions, thoughtful set-up
+(adjusting the bike for the race), and intuitive strategy for efficiently handling the
+curves and jumps on each of ten different tracks. CGW's pre-release version
+of the game offered impressive scrolling,
+both in terms of frame rate and the intended perception of bouncing over
+bumpy terrain and flying through the air.
+(IBM, $39.95)
+
+Fortunately, the simpler levels of the
+game provide an auto-shift mode which
+makes it easier, but the same lament
+regarding steering is applicable to Test
+
+Soccer
+International Soccer: This British import
+
+offers crude, blocky graphics and extreme
+ly basic play value. It is very similar to
+Atari 2600 games where the play is
+straightforward, but limited to a very few
+moves. At the lower difficulty levels, one
+doesn't even have to pass to one's teammates in order to run up one-sided
+scores against the computer opponent.
+At least, the presentation of the trophy
+has a cute graphic sequence. (CRL, c/o
+Scorpion, 19 Harbor Dr., Lake Hopatcong, NJ 07849, C-64/128, $29.95)
+MISL Soccer: Ed Ringler designs sports
+games which not only emphasize action,
+but also present the player with an awareness of strategy and teamwork. Like
+Mindscape's Superstar Ice Hockey and
+Superstar Soccer before it, MISL Soccer
+(Major Indoor Soccer League) demands
+that the player pay attention to the
+team's fatigue levels and power ratings in
+order to substitute effectively. Also like its
+predecessors, the game allows the player
+to be a general manager and coach by
+making trades and taking a team
+through training camp. In addition, the
+game allows a player to participate in a
+league against computer opponents (not
+against human players, though). The
+
+game utilizes teams modeled and named
+after MISL teams and plays according to
+authentic indoor soccer league rules.
+(Amiga, Apple II, $39.95, C-64/128,
+$34.95)
+
+Tennis
+Serve and Volley: This Accolade action
+game has a distinctive emphasis on
+strategy. Players utilize court maps to
+determine position and aim from a
+strategic perspective. From the tactical
+perspective, one uses performance bars
+(similar to those used in Mean 18's interface) to choose between flat, slice, or
+topspin serves. In the same way, players
+choose to use volley, lob, forehand or
+backhand shots on the returns. The
+game is sophisticated enough to allow for
+fatigue and court types (clay for a longer
+bounce, grass for a slower bounce, and
+hard surface for the fastest and highest
+bounce), as well as keep track of player
+statistics through a single-elimination
+tournament. With three different difficulty
+
+levels, court backgrounds, and court surfaces, players shouldn't get tired of this
+keyboard-driven tennis game for one or
+two players. (Apple IIGS, IBM, $39.95)
+
+Wrestling
+Take Down: Gamestar's wrestling
+game for one or two players is, of course,
+a "take off' on the national "put on."
+Take Down has some of the fun of
+professional tag team wrestling without
+too much "show biz" hype. The wrestlers
+all have their special costumes, "stage
+names," and distinctive moves, but unlike
+those events which are regularly
+televised, there is more action inside the
+ring than outside. Each wrestler comes
+with four pre-programmed moves (accessible at the cardinal points of the joystick
+with the button depressed) and all
+wrestlers have the ability to tag their
+partner, throw a punch, climb the ropes
+and dive on their opponent, and bounce
+off the ropes for a flying body tackle, go
+for a pin, or throw their opponent off
+
+prior to a pin. Joystick operation is less
+confusing than Mindscape's Bop'n
+Wrestle where the same joystick positions
+represent different moves depending on
+the wrestler's position or Data East's
+Tag Team Wrestling where there are
+eight different joystick positions to
+memorize, so it offers less joystick busting and more fluid action. Those players
+who want more moves will opt for the earlier games, but those who want a relatively simple and satisfying game may want
+to consider Take Down for their wrestling
+game. (C-64/128, $29.95)
+
+From The Pressbox
+The current proliferation of sportsoriented titles practically guarantees that
+sports fans can find the type of game
+they are looking for in each sport.
+Whether one is seeking to improve one's
+reflexes or synapses, there is certainly a
+game available to offer a satisfying challenge.
+
+Back Issues
+
+Review
+
+T
+
+hey suffered from scurvy, fever, rusty salt pork,
+
+and seasickness to travel by sea or alkali dust,
+mud bogs, Indian encounters, and cholera to
+travel overland. They migrated toward camps with
+names like Jackass Hill, Delirium Tremens, and Gomorrah. They gambled with profligate abandon, drank in
+bacchanalian excess, and celebrated all the erotic
+pleasures their gold dust could buy. Gold Rush,
+Sierra's latest animated adventure game, celebrates
+those wild and reckless days of the California Gold Rush.
+In this case, the player "becomes" Jerrod Wilson, a
+young gentleman and typical East Coast "city slicker,"
+preparing to seek his fortune in the California gold
+country. In the opening sequence of Gold Rush, the
+four-way split screen gives the player some advanced information of the story that is to unfold. Also, the action
+in this sequence reminded this reviewer of the coming
+attractions for an old movie serial.
+The journey begins with Jerrod standing in Brooklyn
+Heights, New York in the year 1848. It quickly becomes
+apparent that Jerrod's goal is to find passage to California, discover gold and become wealthy beyond his
+dreams. There also is the matter of Jerrod's long lost
+brother. (Maybe the two are somehow connected?)
+After walking around the park, the player should try to
+find Jerrod's home. Give the house the once-over and
+"take" things that you may find. (The game comes with
+an introductory walk-thru to help the player get started.)
+After Jerrod has gone through the house he should immediately head toward town (go west, young Jerrod).
+Early on, players will realize that a time factor is built
+into the game. The current time elapsed can be discovered by pressing the "F6" key. Don't take too long
+because finding passage west becomes much more expensive once the Gold Rush is announced. It may take
+the player 2 or 3 repetitions of the sequences to get all
+the desired tasks completed prior to leaving on his journey. Therefore, make sure that the save game feature is
+used after each new clue is discovered.
+Before leaving for California the player will have to
+decide which route Jerrod will take. Will it be the Overland Trek, the Cape Horn Trek, or the Panama Trek. If
+the player chooses the Panama Trek the total points
+available for the game will change from 250 to 255.
+This is because in History, the Panama Trek was the
+most expensive route, and in some respects the most
+perilous. The player will also have to accomplish many
+tasks including: getting Jerrod's mail, selling his house,
+and buying certain items that will help along the journey
+depending on which route the player has chosen.
+In order to win the game, players will experience what
+it was like to "See the Elephant" (to experience the excitement and the lure of California Gold). One will also
+learn of the ordeals that a traveler in the 1800's would
+have come across. One will be taught the lessons of correct choice in animals for your team or what time of
+year is best to make a journey of this nature. If, by
+chance, the wrong choice is made, Jerrod will pay dearly, with his life! As with the real forty-niners, the West
+will be very relentless.
+Players will learn about bridling horses, poisonous
+plants, eating the correct foods and branding horses.
+When in doubt about specifics, it is helpful to refer to
+California Gold, the 88-page mini-history book included
+with the game.
+The MacNeil brothers have really pushed the Sierra
+
+"Californy"
+or Bust
+Sierra Revisits The "Gold Rush
+by Michael Chaut
+
+development tools to the limit in this product. The more
+than 160 different scenes built into the game make this
+game as large an undertaking as Kings Quest IV. It
+should also be noted that Gold Rush is linear in nature,
+but prospective adventurers should not be
+misled into thinking
+of this game as onedimensional. The
+designers have given
+us many riddles and
+pitfalls to keep us
+busy along the way.
+As the game progresses, the puzzles get
+progressively more difficult. This reviewer
+recommends playing
+through all three
+scenarios. They each
+have their own flavor
+and perspective.
+In terms of game
+play, the use of abbreviations for the
+most commonly used
+terms (i.e. I = look, g
+= get, t = talk) and
+of the "F3" key (in the
+MS-Dos version) to
+"retype" or "echo" a
+command helps to speed up play.
+TITLE:
+SYSTEM:
+
+It should be mentioned that this game
+comes without traditional copy protection, but it does ask the player a ques# PLAYERS:
+PRICE:
+tion concerning the era from the miniDESIGNER:
+history book before game play can
+PUBLISHER:
+begin. The game comes standard with
+five 5 and 1/4 inch disks, two 3 and 1/2
+inch disks, a "Gold Rush Regions" map,
+the mini-history, an MS-Dos Reference Card, and a
+game play book (with walk-thru).
+It is a difficult task to classify Gold Rush. Due to the
+program's historical accuracy (The designers put over
+250 man hours of research into this product, as well as
+verifying its preciseness with an expert on the historical
+era.), it is tempting to call it a "historical simulation."
+However, it also hails with the best of Sierra's adventure games in terms of game play and graphics. Much
+
+Cold Rush
+IBM
+(Soon:Amiga, Apple IIgs,
+Apple Ile/c, Atari ST, and
+Macintosh
+1
+$39.95
+Ken & Doug MacNeil
+Sierra
+Coarsegold, CA
+
+more than a history lesson, Gold Rush is stimulating, enriching and entertaining, a welcome addition to the
+Sierra library.
+Warning:
+This
+section
+of the
+review
+contains
+specific
+hints.
+Players
+should research the
+proper equipment, food,
+and animals
+to use by
+means of
+the mini-history. California Gold provides significant information for
+all three routes to the west.
+Further, the player should save the game regularly as
+Jerrod progresses on his journey. One never knows
+when a pitfall is just beyond the horizon. Since the
+game conveniently provides the player with the ability to
+save twelve different game positions within a directory,
+this gives the player an easy method to backtrack.
+It is important to have visited the town cemetery, taken
+
+a family photo, and found the gold coin before leaving
+Brooklyn. One cannot successfully reach the game's ultimate goal without performing these tasks. Be certain
+to visit the blacksmith at Sutter's Fort, he has an important message. It will also be necessary to pan or dig for
+gold so that Jerrod may purchase the necessary items
+to find his final destination. There are up to fifty places
+that will provide gold and points (1 point each) to the
+player throughout the land surrounding Sutter's Fort.
+Perseverance is necessary to find the right spots. While
+one can win the game with only four "gold strikes", this
+will not allow the player to earn the highest possible
+score. When the player ultimately finds the Gold Mine,
+there are eight visible and twelve hidden clusters of gold
+to be unearthed. Again, these are not needed to win the
+game, however not finding them will take its toll on
+one's final score. For the hidden gold, use the pick on
+the gray shaded areas of the mine walls.
+Players should look for visible and invisible clues. If an
+object cannot be identified, check it out. In order to win
+this game with all possible points Players will have to
+really persist.
+
+Contest Results
+
+Top Ad Scavenger
+Hunt Contest Results
+We had an impressive 175 entries to
+the TOP AD Scavenger Hunt from the
+January issue (CGW #55 pg. 13). Even
+more impressive is the fact that the
+majority of them got all the answers right!
+Wow! You guys (and gals) are good!
+By far the most interesting answers
+came on question #20. We asked "The
+common name of a person appears backwards in an ad. What name and what
+ad?" Our faces are red on this one. At the
+time the question was written, we mistakenly thought Sir-Tech was running an
+ad which included the line "Trebor Sux".
+Trebor, of course, is Robert backwards.
+Since the ad didn't run, the question became void. However, most of you were
+resourceful and found other examples of
+backward names (some stretched a bit):
+Ted, Bob, Pam, Gord, Meg, Sal, Ciryl. Although hardly a common name for a per-
+
+son we thought those of you that noticed
+Marlboro backwards in the Accolade ad
+were particularly clever.
+A couple of you noticed that the name
+of the contest was misspelled
+(Scavanger). Very observant.
+Some of you also noticed that we didn't
+list a prize for this contest. Surprised? We
+certainly were when our copies came
+back from the printer! At first we said
+"Hey, they're having fun, they don't need
+no stinking prizes." But we changed our
+minds. So David Daniel of Redlands
+California, your name has been drawn
+from among the entries as our
+Scavenger Hunt winner. You get a three
+year subscription to CGW.
+Next month we will announce the winners of the TOP AD awards for best ads
+in the January issue as well as the reader
+who came closest to picking the correct
+
+order of finish. We will have an unusual
+contest next issue as well. Thanks for
+playing!
+The Answers to the Scavenger Hunt
+Quiz: 1/ Epyx-29 2/Interplay-22; 3/Infocom-34; 4/Cyborg-50; 5/Sir-Tech-58;
+6/Cinemaware-27; 7/Interstel-65; 8/Taito10; 9/Lucasfilm-5; 10/Omnitrend-46;
+11/Spinnaker-45; 12/June 1950-April
+1951; 13/Simcoarum-60; 14/Star Empire67; 15/Zak McKraken-7; 16/Jeep-30;
+17/Romance of the Three Kingdoms-43;
+18/AH64A Apache in the Microprose Ad55; 19/Jetfighter-35; 20/See above;
+21/Typhoon of Steel-17; 22/Tracon-61;
+23/Aircraft or jet-52; 24/Redline-18;
+25/Blackbeard-8; 26/Cassandra-73;
+27/Malifon-68; 28/Stoneseeker-21.
+
+Hall of Fame / R.I.D.
+
+Be it known to all gentle persons that the above named games have been well
+spoken of by our readers over a goodly period of time. Therefore they have been
+enshrined in the CGW Hall of Fame as
+games of renown and worthy of play by all
+
+Game Ratings Chart
+
+The wait is over! The new, improved CGW Reader Input Device is "online! Beginning with
+CGW #54 (December 1988) we have asked you, our readers, to use our new rating system to
+rate 168 current games. With the new R.I.D. letter grade system you are able to be more
+precise in your ratings- We converted your letter grades to a 12 point numeric scale. Games
+rated A+ received 12 points, Games rated A received 11 points, etc. The individual scores
+were added and averaged- The results are expressed numerically and have the same familiar
+feel of our old 9 point system.
+We have also changed our categories. Whereas in the old R.I.D. system we only had three
+categories: strategy, adventure, and action (and two of those categories were combined on the
+game ratings page); we now have six categories all displayed in the same chart. You can quickly find the top rated games in your favorite category simply by running your finger down the
+"Category column.
+Some games belong to more than one category.
+
+The Categories
+Strategy (ST): Games that emphasize strategic planning and problem solving.
+Simulation (SI): Games based on first person perspectives of real world environments.
+Adventure (AD): Games that allow you to take your alter ego through a storyline or series of
+events.
+Role-Playing Adventures (RP): Adventure games that are based on character development
+(usually involving attributes)
+Wargames (WG): Simulations of historical or futuristic warfare from a command perspective.
+Action/Arcade (AC): Computer games that emphasize hand-eye-coordination and reflexes.
+Note: Next month we will be retiring a number of games to the CGW Hall of Fame. Don't
+miss it!
+
+r,
+
+

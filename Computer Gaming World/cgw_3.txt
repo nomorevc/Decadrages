@@ -1,0 +1,3231 @@
+VOL. 2 NO. 2
+
+MAR. - APR. 1982
+
+Features
+SOUTHERN COMMAND
+
+6
+
+Review of SSI's Yom Kippur Wargame
+
+Bob Proctor
+
+SO YOU WANT TO WRITE A COMPUTER GAME
+
+10
+
+Advice on Game Designing
+
+Chris Crawford
+
+NAPOLEON'S CAMPAIGNS 1813 & 1815: SOME NOTES
+Player's, Designer's, and Strategy Notes
+
+SO YOU WANT TO WIN A MILLION
+Analysis of Hayden's Blackjack Master
+
+ESCAPE FROM WOLFENSTEIN
+Short Stay Based on the Popular Game
+
+12
+Joie Billings
+
+16
+Richard McGrath
+
+18
+Ed Curtis
+
+ODE TO JOY, PADDLE AND PORT:
+
+19
+
+Some Components for Game Playing
+
+Luther Shaw
+
+THE CURRENT STATE OF
+COMPUTER GAME DOCUMENTATION
+NORDEN+, ROBOT KILLER
+Winner of CGW's Robotwar Tournament
+
+TIGERS IN THE SNOW: A REVIEW
+
+21
+Steve Rasnic Tern
+
+25
+Richard Fowell
+
+30
+Richard Charles Karr
+
+YOU TOO CAN BE AN ACE
+Ground School for the A2-FS1 Flight Simulator
+
+BUG ATTACK: A REVIEW
+Cavalier's New Arcade Game Analyzed
+
+PINBALL MANIA
+Review of David's Midnight Magic
+
+32
+
+Bob Proctor
+
+34
+Dave Jones
+
+35
+Stanley Greenlaw
+
+Departments
+From the Editor
+Hobby & Industry News
+Initial Comments
+Letters
+The Silicon Cerebrum
+Micro Reviews
+Reader's Input Device
+
+2
+2
+3
+3
+27
+36
+40
+
+From the Editor...
+Each issue of CGW brings the magazine closer
+to the format we plan to achieve. This issue (our
+third) is expanded to forty pages. Future issues
+will be larger still.
+In this issue we add a new regular department,
+THE SILICON CEREBRUM. THE SILICON
+CEREBRUM, written by Bruce Webster whom
+many of you will recognize from his writings in
+THE SPACE GAMER magazine, will concentrate
+on computer programming as related to game
+design and artificial intelligence.
+You will also note in this issue that most games
+will have a small capsule description called "Basic
+Information". This feature was added due to the
+request of several readers. Your viewpoints are
+important to us. Speaking of your viewpoints, the
+last page of this issue is very important. We want
+to know what you think of the articles in CGW,
+what you think of certain ideas we have, and what
+you think of the computer games being covered in
+CGW. Please take time to respond to "Reader
+
+HOBBY AND
+INDUSTRY NEWS
+Automated Simulations has announced plans to offer its EPYX
+and MIND TOYS products for the
+IBM personal computer. The award
+winning TEMPLE OF APSHAI
+will be the first release (March).
+Automated Simulation's DRAGON'S EYE is now available for
+the Atari 400 and 800 computers.
+Computerware (1512 Encinatas
+Blvd., Encinitas CA 92024) has released two new games for the Radio
+Shack Color Computer, MAZERACE (board game on computer),
+and STORM (arcade game).
+
+Input Device". Not only will it help us to know just
+what you want to read, it will also let the manufacturers know just what you think about the
+games on the market.
+Our congratulations go to Richard A. Fowell
+whose robot, Norden+, won the Robotwar tournament. Richard shares in this issue the story behind Norden+. Thanks Richard. Those readers
+who have been with us since 1.1 know that we also
+have a tournament in progress called "The Greatest Baseball Team of All Time (GBTOAT). Readers
+are encouraged to send in the results of their
+tournaments, which will be published in our MayJune issue. If you do not have CGW 1.1 and 2.1, but
+are interested in the tournament send $1.00 for
+reprints of articles that list the eight teams and
+ground rules of the tournament. You need SSI's
+Computer Baseball or AH's Major League Baseball (modification needed on MLBB) to play the
+tournament. No awards on this tournament; just
+the opportunity to publish your replay results.
+
+Avalon Hill's Jack Dott tells us
+that AH will be releasing 6 new
+arcade games in April for the Atari
+and Apple computers. Also, according to Dott, current projects at AH
+include STOCKS & BONDS and
+MIDWAY CAMPAIGN for the IBM
+personal computer, a naval game
+called ALL HANDS ON DECK,
+RICHTHOFFEN'S WAR, and
+CLOSE ASSAULT (Squad Leader
+type game). No firm dates are available for most of these.
+
+In MISSION ESCAPE's rulebook, CE Software offered a prize to
+the first player to get through all ten
+levels of that game. Steven Allen, a
+resident of Iowa (CE's home state)
+won the prize. Don Brown of CE
+states that the offer has been extended. Another prize of 5 CE Soft-
+
+ware products will be offered to the
+first player outside Iowa to win the
+game. To check on the current status
+of the contest contact CE Software
+at 515-224-1995.
+Volumes 6 and 7 of the Swordthrust series, entitled "The Eternal
+Curse" and "The Hall of Alchemy"
+will be out very soon according to
+CE Software.
+Synergistic Software announces
+its new game APVENTURE TO
+ATLANTIS. A to A, a sequel to
+their popular ODYSSEY adventure
+game, is an adventure game with
+embedded arcade action (Apple 48K,
+$40). Synergistic also plans two
+March releases, NIGHTMARE GALLERY (arcade with supernatural
+creatures) and U-BOAT COMMAND
+(action/strategy).
+
+INITIAL
+COMMENTS
+In addition to games mentioned
+elsewhere in this issue the following
+games have been received by CGW.
+Most but not all of these games will
+receive more detailed attention in
+future issues.
+Cavalier Computer
+P.O. Box 2032
+Del Mar, CA 92014
+THE ASTEROID FIELD: Cavalier's version of the ASTEROIDS
+arcade game. An excellent translation of the popular arcade game
+to the Apple II computer ($24.95).
+STAR THIEF: Arcade game in
+which the player (or players)
+take the role of guards. In your
+spaceship you guard against the
+theft of the powerpods. Apple II
+48K, $29.95 .
+Automated Simulations
+1988 Leghorn Street
+Mountain View, CA 94043
+TEMPLE OF APSHAI: Award
+winning hi-res fantasy adventure
+game.
+UPPER REACHES OF APSHAI:
+
+LETTERS
+Dear Editor,
+I enjoyed reading Chris Crawford's
+view of the future of computer wargaming in the November issue of
+Computer Gaming World. This is
+not necessarily because I agree with
+his vision, but because Chris tries to
+deal with most of the important
+issues facing computer wargaming.
+In fact, I disagree with many of
+Chris' contentions and will discuss
+this under the two broad categories
+of programmers and hardware.
+In general Chris seems to be quite
+displeased with the quality of programmers currently writing wargame software. As an example he
+states that he had not yet met a
+programmer who had "solved the
+mathematics of a hex grid for computer use". This is totally untrue, for
+he has met several programmers
+who have written games for SSI and
+all of them have solved the hex grid
+on the computer. In fact 8 of our 17
+games use a hex grid and they were
+programmed by four different
+individuals.
+Chris also stated that almost all
+
+Four new levels and 150 new
+rooms to add on to TEMPLE.
+HELLFIRE WARRIOR: Sequel
+to TEMPLE. Four levels, sixty
+rooms, new commands.
+THE KEYS OF ACHERON:
+An expansion dungeon for
+HELLFIRE.
+RICOCHET: Abstract strategyaction game in which you maneuver blocks to set up a shot at your
+opponent's goal and try to protect
+your own. (Atari 400/800,
+TRS-80,ApleI:$19.5)
+JABBERTALKY: A programmable word game. Four different
+programs are included, Alphagrammer, Cryptogrammer, Jabbergrammer, and Free Verse. (Apple II &
+TRS-80).
+BEZ
+4790 Irvine Blvd. Suite 108B
+Irvine, CA 92714
+BEZ-MX: Strategy/arcade game
+in which two players, or player
+and computer plan and execute
+attacks on each other's country.
+Weaponry includes MX missiles
+and Bez-1 bombers. Targets are
+airfield, MX sites, factory, cities,
+agriculture (Apple II, $29.95)
+
+computer wargame designers are
+amateurs. If he intended this to mean
+that they are all-designing for the
+love of wargaming and not for money
+I would be forced to admit that this
+is at least partially true. But I get the
+impression his meaning is that most
+designers lack professional skills.
+Once again I must disagree. Would
+he call Charlie Merrow (designer of
+Computer Air Combat) an amateur
+when he has over 22 years of commercial programming experience on
+over 15 different computers. He may
+never have designed a board wargame before, but he's been working
+on computer games for a long time.
+This kind of experience has been
+more often than not the norm, at
+least concerning the designers that I
+have worked with.
+As for pay, I agree that paying
+someone what he is worth is very
+important if you're going to get a
+quality product produced. As for
+SSI, our staff programmers receive
+wages and benefits that are very
+competitive with those received by
+programmers in industry (quite a
+feat considering that we are located
+in Silicon Valley). As for royalties,
+Chris paints a dim picture for the
+part time game designer. Actually, a
+designer stands to make between
+$10,000 and $20,000 from a game,
+
+half of which he will probably see
+within six months after the release
+of his game. I feel that this is ample
+incentive for a programmer to commit his spare time for 4 months to a
+year (especially if he considers the
+project "fun" for at least the first few
+months).
+So, as for programmers I must
+dispute Chris's claim that there
+aren't enough good programmers to
+write good wargames. I have dealt
+with many good programmers writing wargames, and although I look
+forward to working with more in the
+future (and there certainly will be
+more) the programmers we have now
+provide a great deal of creative
+talent.
+As for the computers themselves,
+Computer Gaming World should
+have mentioned that Chris is an
+employee of Atari and thus presents
+his view of the world from a somewhat distorted vantage point. I do
+not agree that the Atari is clearly
+the better computer available today
+for computer wargaming. The graphics used in Southern Command on
+the Apple stack up against the
+graphics of any computer wargame
+available today. As for the disk I/O,
+the Apple has the clear advantage,
+operating at speeds up to 10 times
+that of the Atari. This difference is
+especially important when one is
+trying to design a complex game
+that will maintain a gamer's interest
+during repeated plays.
+Being able to chain programs is
+essential, and the Atari is currently
+clearly inferior. Also, an Atari disk
+can hold only 75% of the information
+stored on an Apple disk, forcing
+simplification. I have no doubt that
+as the Atari comes of age it will have
+the potential of becoming a better
+machine for wargaming, but at this
+time I feel that the Apple is at least
+equal to the Atari, if not considerably
+better.
+As for the statement that 16K
+games are good enough I must once
+again disagree. My work at SSI
+allows me to talk with computer
+wargamers everyday, and the general consensus seems to be that no
+16K game to date (yes Chris this
+includes Eastern Front) maintains
+a gamer's interest past the first few
+games. I attribute this to the lack of
+variability in 16K games. With only
+16K a designer must constantly
+simplify his game, taking away
+options until the game generally
+follows the same course every time it
+is played with little chance for a
+gamer to encounter dramatically
+different situations. On the other
+hand a 48K game can allow for
+different scenarios, more random
+
+events, and most importantly, more
+rules which cause each game to be
+considerably different from the last
+one played. Keeping a 16K game
+from falling into a rut is in my
+opinion almost impossible, and if
+the people I have talked to are any
+indication, I am constantly being
+proven right.
+As you have probably determined
+by now, I disagree strongly with
+Chris on many issues concerning
+computer wargaming, but I do agree
+with him that computer wargames
+will continually improve, and that
+the machines we are currently using
+will eventually be replaced by newer,
+more powerful machines, and I for
+one can't wait to get my hands on
+one.
+Joel Billings
+Strategic Simulations
+Dear Editor,
+I was grateful to see a magazine
+devoted to the aspect of personal
+computing I am most interested in —
+game simulation (particularly sports
+games).
+Unfortunately, my home computer,
+the TRS-80 Color Computer, has no
+Avalon Hill/SSI type software. The
+only obvious solution was to write
+my own — in particular a baseball
+and football replay program. Instead
+of a batter-by-batter simulation, it
+matches statistics for an entire team
+to determine the winner of each
+game. This allows replay of a complete 8-10 team league in less than 30
+minutes, including entry of the team
+data.
+With my game I replayed every
+major league season 1901-1976.
+Using each year's winner, I organized them into 10-year groups for
+each league. I played each of these
+groups through a 162/154 game
+season and these are the decade
+champions:
+National League:
+1906 Cubs
+
+1942 Cardinals
+
+1920 Giants
+
+1952 Dodgers
+
+1928 Cards
+
+1963 Giants
+
+1935 Giants
+
+1973 Reds
+
+American League:
+1910 Athletics 1948 Indians
+1917 White Sox 1957 Yankees
+1927 Yankees
+
+1968 Tigers
+
+1937 Yankees
+
+1969 Orioles
+
+Then I normalized the statistics
+for each league's...winners (compared
+them all statistically to the same
+year — 1940 — then altered the
+actual team data to get an accurate
+
+replay of teams 67 years apart...like
+the 1906 Cubs and the 1973 Reds).
+I replayed these 8 team decade
+winners through a complete 154
+game season with these results:
+
+National League
+1906 Cubs
+1973 Reds
+1952 Dodgers
+1963 Giants
+1935 Giants
+1942 Cards
+1928 Cards
+1920 Giants
+
+88-66
+83-71
+78-76
+77-77
+76-78
+74-80
+71-83
+69-85
+
+American League
+1948 Indians
+1969 Orioles
+1927 Yankees
+1937 Yankees
+1957 Yankees
+1917 White Sox
+1910 Athletics
+1968 Tigers
+
+87-65
+87-67
+83-71
+80-74
+76-78
+73-81
+66-88
+62-92
+
+I used the 1906 Cubs and the 1948
+Indians for a 7-game "Super Series"
+and the Cubs won in 4 straight! I
+thought you might be interested in
+this different approach to determine
+"Baseball's Greatest Team".
+L.V. Beatty
+Norfork, VA
+
+SOUTHERN COMMAND By Bob Proctor
+BASIC INFORMATION
+NAME:
+
+Southern Command
+
+TYPE:
+
+Wargame
+
+SYSTEM:
+
+Apple II with Applesoft
+or Apple II Plus 48K
+
+FORMAT:
+
+Diskette
+
+# PLAYERS: 1 or 2
+AUTHOR:
+
+Roger Keating
+
+PRICE:
+
+$39.95
+
+PUBLISHER: Strategic Simulations
+465 Fairchild Dr. Suite 108
+Mountain View, CA 94043
+(415) 964-1353
+
+Recent issues of computer magazines such as
+BYTE and CREATIVE COMPUTING have been
+been filled with praise for, of all things, a wargame
+called EASTERN FRONT. The large map, the
+ease of play, and the skill and speed with which
+the computer plays make the game a new standard
+against which others will be judged. If you're an
+Apple owner, however, you're probably a little
+envious that the game is only available for Atari
+computers. You can relax now; Strategic Simulations Inc. has introduced SOUTHERN COMMAND for the Apple II (with 48K) and it is as
+good a game as EASTERN FRONT!
+There are more similarities than differences
+between the two. EASTERN FRONT is better in
+some respects — for example, the ability of the
+computer to plan moves while it's waiting for you
+— and SOUTHERN COMMAND is better in
+others. For instance, it has a strategic map which
+lets you view the entire map (EF does not) and it
+has a Save Game feature which any game that
+
+takes 2 hours or more should have (again, EF does
+not). There's no need to say more, those who own
+Ataris will buy one while Apple-owners will buy
+the other.
+HISTORICAL BACKGROUND
+SOUTHERN COMMAND portrays 3 days of
+fighting between the Israelis and Egyptians during
+the Yom Kippur War of 1973. The war began on
+October 6th when Syria attacked the Golan
+Heights in the north and Egypt attacked in the
+south. The Egyptian forces crossed the Suez Canal
+into the Sinai (which Israel had captured in 1967)
+and broke through the lightly-manned Israeli
+defenses. Then, for reasons still unexplained, they
+stopped. This gave Israel time to defeat the Syrians
+in the north and transfer the units there back to
+their Southern Command.
+Even with one front cleared up, Israel could not
+afford to sit passively on defense. Roughly 10% of
+their total population had been mobilized and
+these people were all needed back at the farms and
+factories where they worked. Israeli leaders had to
+find a way to end the war in a few weeks or the
+country's economy would collapse.
+They decided to counter-attack at a weak point
+in the Egyptian line and cross the canal. By
+threatening Cairo, they hoped to force the Egyptian
+units to pull back on defense, allowing Israel to
+re-establish a defensive line along the canal. This
+plan, called Operation Gazelle, worked. SOUTHERN COMMAND gives you a chance to replay
+the initial stages of the Israeli counter-attack.
+GETTING STARTED
+The game may be played by two people but the
+emphasis seems to be more on solitaire play. With
+just one person, the computer always plays the
+Egyptian side. The Israeli objective is twofold: to
+get units onto the west bank of the canal and to
+reduce the number of enemy units on the east
+bank. Victory is determined by a complex point
+system but this is all handled by the computer.
+You may, at any point during the game, ask for a
+recap of the scoring and this includes an estimate
+of the final outcome (nice touch!).
+When you boot the game disk, you see a menu
+which gives you 3 basic choices: start a new game,
+continue one that had been saved, or play a
+demonstration game. Demonstration mode is a
+marketing tool; something you'd use to show off
+the program in a store. Besides the number of
+players, there are several options to choose from
+when starting a new game. There are normally 20
+turns in the game but you can choose to play 10
+instead. The Israelis get 100 points to make up for
+the 10 missing turns. Also, the game normally
+
+starts with all forces in their actual historical
+positions, but there is an option to let the Egyptian
+move all non-infantry units to be in a better
+position. This option gives the Israelis a 20 point
+bonus and can be used with either the 10 or 20 turn
+game. When playing solitaire, there are 2 levels of
+difficulty and each may be played with or without
+hidden units, giving 4 variations of
+computer skill in all.
+GRAPHICS
+SOUTHERN COMMAND uses high-resolution
+full-color graphics to display the map and units.
+The map uses the hexagonal grid seen in most
+board wargames and compared with these, it's an
+average-sized map. It's 28 by 39 hexes but in
+normal mode you can only see an 8 x 13 "window"
+so it seems much larger than it is. You can move
+the window around with scrolling commands or
+by moving a cursor using 6 directional keys. The
+cursor is used to select any one hex; as it nears the
+edge of the map window, the window will move
+with it.
+The various kinds of terrain are distinguished
+mostly by color: blue for water, green for forest,
+orange for light and heavy rough, white for sand
+and blank for clear. The pattern of dots which
+mark the terrain is distinctive, though, and you
+can quickly learn to recognize them in black and
+
+white; thus, there is absolutely no problem playing
+the game on a monochrome monitor. The "B" key
+is designed to make colored terrain show up better
+by changing it all to white. This might be useful if
+it weren't for one error. The unit currently being
+moved normally blinks to help you keep track of it,
+and this blinking stops if you hit "B". I found this
+to be a big nuisance, but fortunately, the game
+looks better in color mode no matter what kind of
+monitor you have so just ignore "B". In color, the
+blinking unit flashes white, or green or orange so
+it stands out against any terrain (nice touch!).
+The units are represented by symbols which
+remind you what type of unit it is . Thus, a soldier
+with a rifle is an infantry battalion, motorized
+infantry is represented by an armored personnel
+carrier (APC), self-propelled guns are clearly
+different from tanks, and artillery, rocket, antiaircraft and recon units have their own symbols.
+Two units may be "stacked" in a hex and when
+this happens an "S" is displayed there. You can
+examine the stack by moving the cursor there.
+Egyptian stacks have a box around the "S" to
+distinguish them from Israeli stacks.
+There are times during any game when you'd
+like to be able to see the Big Picture and
+SOUTHERN COMMAND lets you. A touch of
+the "P" key will display the strategic map. This is
+
+the entire map, and while it is too small to show
+unit types, the positions of all Israeli units are
+clearly marked by a solid square and Egyptians
+by a hollow square. Major terrain types are shown
+(again, readable in either color or monochrome)
+but roads are not. This map requires quite a bit of
+knowledge to interpret. You must know the map
+and remember what kind of units are where to use
+it well. Beginners may find it confusing, and the
+fact that the picture of it on the rear of the game
+box is upside down won't help! Still, it is an
+invaluable feature. Using it, for example I was
+able to learn that Egyptian units were behind me
+on the second day. From then on I paid more
+attention to the reinforcement schedule!
+COMBAT
+Combat is based on a step-reduction system,
+where units lose combat factors in action and
+regain them when they have a chance to "reorganize." If a unit's combat strength is reduced to
+zero, it is eliminated. The number of factors lost in
+combat will depend on the relative strengths of the
+units, the type of units, and on the situation. For
+example, bombarding an enemy with artillery
+before you attack will tend to increase his casualties and decrease yours. Or, if you can attack an
+enemy unit which is trying to reorganize, it will be
+less able to defend itself. The combat system is
+explained in an appendix in the rule book. A look
+at it will tell you such things as: tanks are the best
+units for attacking other tanks and motorized
+infantry but the Israelis can get into real trouble
+trying to use tanks to knock out Egyptian infantry.
+Of course, you could learn this lesson on the
+battlefield, too!
+Much of the game's tactics involves choosing
+the proper mode for each unit. Attack mode is the
+best for combat, although Defensive mode is much
+better against artillery or air attack. River mode
+(for crossing the canal) is particularly weak, with
+Reorganization mode and Transportation mode
+only slightly better. Each mode has its use, however; it's up to you to learn the proper time and
+place for it.
+Besides being rated for combat strength and
+movement, each unit is rated for efficiency.
+Efficiency affects how well the combat strength
+may actually be used in combat, how well the unit
+can change from one mode to another, and how
+quickly it can rebuild once it is pulled from the
+lines and put in Reorg mode. It is in the area of
+efficiency, and only here, that the Israelis have a
+clear superiority. The Israeli commander who can
+find the right time and place to rest and refit
+depleted units will greatly increase his effective
+strength. The computer, as an opponent, is particularly vicious about attacking these units with
+
+artillery and they are very susceptible to this form
+of attack while in Reorg mode.
+THE PLAY
+In regular play, you have complete control over
+the cursor and may move your units in any order
+you wish. Once you start to move a unit, however,
+you must complete it. Just move the cursor to the
+unit you want to move, hit "M", and then use the
+direction keys to move the unit. It will stop moving
+when it's movement allowance is reached, or you
+may hit "Q" to end before then.
+A very good feature, which speeds play quite a
+bit, is the "auto-move" mode. This simply means
+that after you finish moving a unit, the computer
+will automatically move the cursor to the closest
+unit which has not yet moved. If it happens to pick
+one which you don't want to move yet, the "L" key
+will cause it to skip to the next and come back to
+that unit later. It is smart enough to select your
+artillery units first so you can use them to soften
+up this turn's targets. Auto-move can be turned off
+and on at any time. Another nice touch.
+Another innovation in SOUTHERN COMMAND is delayed orders! Instead of moving a
+unit, you give it orders to move and attack (attack
+only for artillery) a given hex IF an enemy unit
+moves into it. I confess I haven't really mastered
+this yet, but the computer uses it if you play the
+most difficult level and it has caught me in several
+nasty ambushes.
+The computer plays faster than any other SSI
+game I've seen. It is almost too fast to follow — and
+would be if it didn't pause to let you read the
+combat results. Of course, if you like, you can turn
+this pausing off so that it will finish its entire
+move in 15 or 20 seconds.
+STRATEGY
+There really isn't much choice about where the
+Israelis will cross the canal. The Suez runs from
+the lower left to the upper right of the map, but the
+right half is dominated by the Great Bitter Lake
+which cannot be crossed. Most units can cross
+wherever the canal is narrow, but Israeli tanks
+need a pontoon bridge. There is a group of
+Engineers who can build one and their slow
+progress toward a crossing sight is the focus of
+attention on the first day.
+The easiest place to clear a corridor for them is in
+the center, right along the shore of the lake. Here,
+only one Egyptian infantry unit must be pushed
+back to open the way. Of course, this leaves a
+rather narrow, vulnerable supply line and creates
+a logical target for a counter-attack. The difficult
+level strategy seems to be characterized by just
+such an attack, delivered with a vengeance!
+
+The Israelis must get units across the canal — 3
+by turn 3, 7 units by turn 9, 11 units by turn 15 — so
+a few units must use their advantage of surprise
+on turn one to run past the Egyptians and cross
+the canal. Once over, they can stake out a bridgehead and maybe wipe out some anti-aircraft missile
+sites. These are worth extra victory points as an
+incentive for the Israelis to do something on the
+west bank besides camp. In fact, a powerful threat
+will force the Egyptian to pull units back from the
+east side, giving evidence that the game is successful as a simulation.
+I haven't mentioned airpower yet. Airstrikes act
+just like very powerful artillery barrages. The
+Israeli Air Force can give ground support within
+certain limits. It may be called in at most, one on
+the first day, twice on the second, and three times
+on the third. You may not get that many strikes,
+however, as there is a random element at work.
+Also, once during the game the Egyptian Air
+Force may be ordered into the air and they will
+disrupt (prevent) an Israeli strike if one is called in
+that turn.
+CONCLUSIONS
+SOUTHERN COMMAND is an outstanding
+game and a very realistic historical simulation.
+The rule book and two reference cards are of SSI's
+usual (high) quality. The only thing I could want
+would be an option to play the Egyptian side
+solitaire, but programming the computer to play
+the Israelis would not be a trivial task. Still, it will
+keep me busy trying to crack that Egyptian defense at the highest difficulty level. I urge you to
+try it too.
+
+SO YOU WANT TO WRITE
+A COMPUTER GAME
+by Chris Crawford
+
+Chris Crawford is
+an employee of Atari
+
+You've had your computer for some time now.
+You've used it to teach yourself how to program
+and to handle a few household problems. You've
+also used it to play games. You have noticed that
+many of the games available for your computer
+are less than perfect. Soon you begin finding the
+technical flaws in them, and modifying some of
+them. The day inevitably comes when you decide
+that you could have done a better job than the
+designer. You tell yourself 'Maybe I should write a
+computer game.'
+
+should be easy! Why then, when so many people
+want to, have so few people been successful
+designing games? There are four main reasons.
+
+There's certainly plenty of motivation to write a
+computer game. Perhaps you have heard stories of
+the fabulous wealth awaiting the designer of a
+successful game. Perhaps you have read magazine
+articles about those wild and glamorous fellows
+who design the games. Or perhaps you are
+motivated by the simple pleasure of making people
+happy with your own creativity.
+
+First, the successful game designers work very
+hard at their games. They are perfectionists who
+spare no effort in the quest for excellence. They
+have an eye for detail, putting in fine points that
+few customers notice. They polish their programs
+endlessly, rooting out all the bugs to achieve a
+flawless product. I know a software evaluator, a
+man of deep insight, who tells me that he can
+always tell top-notch software submissions from
+their user manuals; they are always carefully
+typed and free of spelling errors. Inevitably, the
+software accompanying such manuals is equally
+flawless. I have seen many games by amateur
+designers, some good and some bad, and the only
+common trait of the bad games was insufficient
+effort. There is no excuse for a half-finished game.
+
+Whatever your reasons you are certainly not
+alone. More than a million people own personal
+computers. All over the country, thousands and
+thousands of people are coming to the same
+conclusions that you have come to. There is nothing
+stopping anybody from doing it; you need no
+special training to design a game, nor any special
+equipment other than your personal computer. No
+investment of money is required, nor will you need
+other people to help you with the programming.
+You can do it all by yourself in your spare time. It
+
+The second distinguishing trait of successful
+game designers is their technical expertise. They
+all are completely comfortable with assembly
+language and they all know their machines well.
+No great paintings were ever painted with
+crayons; no great symphonies were ever composed
+with kazoos; do you really think that you can write
+a great program in BASIC? I have yet to see an
+excellent program written in BASIC. I have yet to
+meet a good game designer who did not have total
+mastery of the machine on which he worked.
+
+Technical expertise is a means to an end, but
+technical expertise alone does not qualify anyone
+to write good games. I know a number of brilliant
+programmers who have written wretched games.
+The best game designers are really artists at heart.
+Their games are an extension of their personalities.
+These people are intensely creative because they
+invest so much of themselves into the design
+process. They disdain copying other people's ideas,
+for that would detract from the clarity of their
+self-expression. My advice to the beginning game
+designer is similar to the advice a famous writer
+once gave an aspiring young author: Write a game
+about what you know, not what you think other
+people admire — this is the third factor in successful game design. If all you know is ditch-digging,
+then design a game about ditch-digging. If you put
+your heart and soul into it, if you condense the
+human essence of ditch-digging into that game,
+people will like it. If you only copy an idea somebody
+else has already used, people will see it for the
+cheap copy it is.
+The fourth factor in success with games is
+marketing. Don't try to sell the game yourself;
+turn it over to a software house for royalties. If you
+are truly a good programmer then you are almost
+certainly a poor businessman. Let a good businessman handle the business aspects of the job.
+There is, unfortunately, an element of luck in the
+marketing sector. Three years ago I pounded the
+pavement trying to sell my games to any of a
+number of software houses. Nobody was interested.
+Now I have standing offers from a dozen houses. I
+haven't changed that much in three years; what
+has changed is my reputation. Three years ago I
+was just another unknown software author. Fame
+and reputation — these things can be arbitrary. Be
+patient and make sure your product is good. Keep
+pounding the pavement and your turn will come.
+If you decide to go ahead and write that game, I
+suggest that you follow these steps:
+First, toss the idea around in your head for
+at least a month before you begin any programming work. Think it through first! Don't
+rush in and hack the program together. Make
+sure you know what you are trying to
+accomplish before you begin work. Ask yourself, what will people feel as they play my
+game? What will the game teach them? How
+will it challenge them?
+Second, plan the game I/O before anything
+else. I/O is the big bottleneck in all games; it
+dictates what can and cannot be done.
+Graphics are assuming increasing importance in all games. Carefully plan the graphics and animation that your program will
+
+use. Pay special attention to the input structure of your program. Most poor programs
+suffer badly from poor input structures that
+confuse and frustrate the user. Don't let your
+game be ruined by clumsy or overly delicate
+input systems.
+Third, lay out a memory map and stick to it.
+Decide how much memory your game will
+take. Less memory may reach a larger
+audience, but more memory will allow a
+better game. Allocate specific chunks of
+memory for specific functions. If any function
+needs more space, re-evaluate your entire
+memory map before allocating additional
+space to the function.
+Fourth, develop the algorithms for critical
+functions of the game. Algorithms are the
+critical intermediate step between broad goals
+and specific code. Many beginning programmers leap all too quickly from concept directly into code without taking the time to
+properly frame their algorithms. If you think
+that you can write code without thinking out
+the algorithms behind it then you are either a
+great deal smarter or a great deal dumber
+than I.
+Fifth, write the program. Are you surprised
+that writing the program comes so late? Are
+you surprised that I treat it so perfunctorily?
+If so, you are in for many more surprises
+when you do the game, all of them rude.
+Sixth, playtest the game several hundred
+or even a thousand times. Enlist the aid of
+several friends to playtest it for you, and pay
+attention to their criticisms. Some of their
+criticisms will be bad; ignore those. Some will
+be good; implement them immediately and
+thank your lucky stars for good playtesters.
+How do you know the difference between
+good criticisms and bad ones? I don't know; if
+you ever find out, please tell me.
+Seventh, polish the game.
+Eighth, polish it some more.
+And finally, when you are truly and deeply
+sick of the game and desperate to get it out of
+your hair, polish it for at least another month.
+Polish is the critical element, the final touch
+that turns a good game into a shining beauty.
+I have programmed four computer games
+now; every single one gives me pangs of guilt
+because I did not polish it adequately. Don't
+repeat my mistakes.
+Obviously, the process of designing and developing
+a computer game is a long and painful one. Now do
+you see why so few game designers are successful?
+
+NAPOLEON'S CAMPAIGNS
+1813 & 1815:
+Some Notes
+
+by Joel Billings
+For years player's, designer's and strategy notes
+have been a standard feature of wargames. Sometimes the notes appear in the rulebook itself
+othertimes the notes are published elsewhere. Joel
+Billings, of Strategic Simulations, shares his notes
+on SSI's new game, NAPOLEON'S CAMPAIGNS
+1813 & 1815. The numbers indicate the section of
+the rulebook to which the note relates. Here's to
+better campaigning!
+PLAYER'S NOTES
+3.1 Setting your Line of Communications can be
+crucial early in the game, for your corps will try to
+retreat along the corn line if possible. In this way
+you can ensure that your corps that are far from
+the main army will retreat towards the bulk of
+your forces. An example of this is stretching your
+corn line to the Allied 6th corps in Waterloo
+through hexes 8,9 and 3,12. This will allow 6th
+corps to retreat towards Brussels in the face of a
+major French attack through Tournai. The corn
+line can also be used to create forces, thus allowing
+you to specify the march mode of the corps involved.
+This is the best and only way of guaranteeing that
+your troops will get to where you want them to go.
+If for example as Napoleon you wish to pursue the
+southern strategy in Leipzig, a good tactic is to
+trace your corn line from Leipzig to 9,12 - 9,11 -10,10
+
+- 9,9 - 8,9 - 10,8 - 10,4. This will allow you to give
+force orders to 9 of your corps on turn 1, and will
+allow a quick movement of troops from 10,4 to 9,12.
+In this way you will have direct control over
+whether your army force marches to a possible
+battle south of Leipzig, or takes its time in order to
+arrive fully rested.
+3.4 and 3.5 The starting urgency and contact
+mode can mean the difference between life and
+death for a corps cut off from the main army.
+Giving an urgency of 9 and a contact mode of
+stand to the Allied 1st corps in Waterloo is
+equivalent to signing its death certificate. The
+same could also be said for the Allied 1st and 2nd
+corps in Leipzig. Be very careful to keep your corps
+out of a major battle until your army has been
+united. Also, beware of the sucker strategy often
+used against the Allied 2nd corps in Waterloo. If
+this corps is placed in initiative or attack mode, all
+the French player need do is send a cavalry corps
+to hex 16,15 followed two turns later by 50,000 men
+and suddenly the 2nd corps will find itself about to
+be destroyed. Although there is no best initial set
+up, especially in Waterloo, at least be cognizant of
+the tactics you are set up to defeat, and those
+which may be used to defeat you.
+7.2 By moving your HQ as part of a force, you will
+be able to keep that force stacked together as long
+
+as desired. This will allow for rapid movement.
+Without your HQ, your units will spread out along
+the road, with the last unit moving only after the
+first units have vacated the hex, thus slowing the
+inevitable desired concentration of your corps.
+7.4 In effect this means that units in a ZOC may
+stack as much as desired. This allows you to
+concentrate your troops adjacent to the enemy and
+then attack with your entire force hitting the
+enemy at one time. In order to do this, give your
+units stand orders, and only convert to attack
+orders after your army has concentrated.
+8.0 (A) Movement is by far the most subtle
+element to this game, and the part which gives
+garners the most problems. If your units fail to
+move as you thought they should check for the
+following:
+1) Is it or has it been raining?
+2) Did you give a low urgency (don't expect a
+leader to burn rubber if he has an urgency of 1,
+in fact be happy if he moves more than once
+a day)?
+3) Is the corps commander unaggressive (giving
+an urgency of 5 to Bernadotte is not much better
+than giving an urgency of 1 to Napoleon, and
+giving an urgency of 1 to Bernadotte will put
+him to sleep for the rest of the game)?
+4) Is the unit trying to cross a river?
+5) Does the unit have stand or initiative orders
+while constantly bumping into enemy units?
+6) Is it night or 0500 in Leipzig?
+7) Did you really give him orders to go somewhere?
+8) Are you constantly sending him new orders
+each turn thus eliminating the old order?
+9) Did you initially give him an urgency of 1 with
+his movement orders, and then send him a new
+order to convert to urgency 9, and was that the
+only order you sent him? Don't forget that a unit
+will lose all previous orders whenever he receives
+a new non-immediate order. This is the most
+common mistake made by players. Whenever
+you send a new non-immediate order, even one
+as simple as increasing a corps' urgency,
+remember to also reiterate the movement orders
+you wish the corps to execute.
+8.0 (B) Another problem many people face is
+having their corps suddenly start to march off in
+an unexpected direction. The usual reason for this
+is that a unit moved somewhere due to combat
+(attacking or withdrawing). Units in combat keep
+their old orders (including orders previously issued
+during combat having to do with combat). When
+the unit is no longer facing an enemy it reverts to
+these old orders. Example: A unit had started to
+retreat to 3,4. The player gives an RT order for 3,5.
+When the unit finishes retreating to 3,5 it will
+
+move to 3,4. Use the SC command to check if this is
+happening, and if your unit has 'bad' orders clear
+them with a non-immediate order.
+9.6.1 Ferocity is the key to combat in this game. A
+good leader can hold off a poor leader despite being
+outnumbered by as much as 10 to 1 simply by
+keeping the ferocity low. Rear guards and blocking
+forces should be given urgency 1 in order to
+prevent the high percentage casualties required to
+be routed. A player should only use a high urgency
+in combat when he is willing to accept large losses,
+or when he outnumbers the enemy sufficiently to
+reduce his losses.
+9.6.1.2 Be sure to place your fatigued corps in the
+rear during a battle, for putting them in the front
+will only decrease your odds while increasing the
+chance that the units will rout.
+11.5 The loss of a fatigue point from normal
+marching at night is often an exceptable penalty
+in exchange for speed. The ability to move at night
+should be used especially in Leipzig, due to the
+0500 restriction on movement (the fatigue gained
+at night will be lost during the 0500 turn). Avoid
+force marching at night if at all possible.
+13.2.7 For those who desire to get a corps to force
+march, simply begin a movement order with a
+starting hex that is several hexes away from the
+current location of the corps you wish to move. For
+example, in Leipzig, if you wish a unit in 9,12 to
+move quickly to 9,15, enter a movement order with
+9,15 as the starting hex (and ending hex by
+pressing the space bar). The unit will force march
+until it reaches 9,15. This can be a very useful
+technique when used in movement along a straight
+line for short distances. If, however, the path is not
+straight, your corps may end up traversing open
+ground and crossing unbridged rivers while also
+force marching at night, thus destroying the unit's
+effectiveness.
+14.3 The importance of this section cannot be
+overstated. It is essential that players realize that
+when a force is given orders to move at a set march
+rate, the march rate is only used during the turn in
+which the order was given. In order to keep a force
+moving at a set march rate, the player must
+continue to create the force each turn. In doing this
+without giving further orders to the corps, a player
+can ensure that his corps will move as he wishes
+them to.
+STRATEGY NOTES
+Leipzig (French)
+The key to French strategy is to develop an initial
+plan involving the destruction of a major portion
+of the Allied forces before the Allied armies are
+able to unite. Once the plan is decided upon stick to
+
+it, unless the Allied forces you hoped to destroy
+have withdrawn in the face of your initial thrust.
+Be sure to mask your true intentions as long as
+possible. The game can be divided into two fronts,
+the northern front facing Bernadotte and Blucher,
+and the southern front facing Schwarzenberg.
+Generally it is best to pick one and force march as
+many corps as possible to mass for an attack on
+the enemy forces in the front chosen. Leave only a
+small rearguard to block the movements of the
+other Allied armies, but be sure to leave at least
+one strong leader (6 or Napoleon) with the rearguard. If it becomes impossible to destroy the force
+you are attacking before other Allied armies begin
+to surround you (blocking your retreat routes to
+the west), pick a new corn line and escape before
+your retreat becomes a rout. The French can win
+by causing heavy Allied losses during the first
+three days and then withdrawing the army to the
+west intact.
+Leipzig (Allied)
+Withdraw I and II corps toward Altenburg, standing only after being united with Schwarzenberg in
+hex 9,15. Use III and VII corps to disrupt French
+movements west of Leipzig, or move III corps to
+join the Allied corps in 9,15. Give high urgencies
+(over 6) to corps VI and VIII and order them to
+march towards Schwarzenberg. The key to the
+Allied plan is the ordering of IX and X corps. If you
+believe the French will attack south, order Blucher
+towards Leipzig, but with a low urgency and stand
+or initiative orders until you receive details of
+enemy movements near Leipzig. If you believe
+that the French will strike north, leave Blucher in
+Halle with stand or withdraw orders, and move
+Bernadotte to Halle as quickly as possible. As
+soon as you feel you know where the French are
+going, begin to attack his rearguard while trying
+to attrition Napoleon in the area of his attack (but
+don't allow your corps to be sufficiently fatigued to
+rout). On the last two or three days your objectives
+are clear, 1) take Leipzig 2) block the French
+withdrawal (this can be done if you are able to guess
+his planned retreat route early in the game). The
+VII corps is ideally suited for disrupting a retreat
+from Leipzig.
+Waterloo (French)
+Your only hope is to either crush the Prussian
+army and take Liege, or attack Wellington before
+he has time to concentrate more than three corps.
+In either case a holding force must be used to block
+a union of all Allied corps. Cavalry corps should be
+used to screen French movements and to disrupt
+Allied communications. They can also be used to
+block Allied movements (II and VI corps are the
+easiest blocked) and to capture Ghent, Liege, and
+Brussels if they are ungarisoned. The French
+player must keep his main force together and
+
+move quickly until a decisive battle can be forced
+on a portion of the Allied Army.
+Waterloo (Allied)
+The Allied player should concentrate corps 1-4 in
+Namur (alternatively, leave IV corps in Liege to
+guard your communications) and once there begin
+a move toward Waterloo if the French player is
+attacking Wellington. Concentrate corps 5-8 and
+Wellington near 11,11 and fall back towards
+Brussels if pressed early by the main French
+army. If the French attack towards Namur, march
+to Ligny and further once your corps have united.
+It may be necessary to leave VIII corps behind to
+secure Brussels and your communications line
+from French cavalry raids. Avoid force marching
+if at all possible, for your units have extremely low
+morale and can be easily routed in combat. The
+key is to withdraw early in the game, only accepting combat when your forces have united. Also,
+do not allow your Prussians to be attacked by
+Napoleon for long, for your leadership disadvantage will lead to the destruction of your army.
+DESIGNER'S NOTES
+7.0 It was decided that normally a corps would
+occupy an entire hex of roadway while it was
+moving, thus prohibiting others from moving
+through the hex at the same time. The exceptions
+to this involved either the concentration or withdrawal of an army in the face of the enemy, or the
+use of the army headquarters (logistics staff) to
+assist the movement of an army more quickly
+than otherwise possible (allowing stacked
+movement).
+8.9 Orders to corps were usually vague, designed
+often to be interpreted by the corps commander as
+he saw fit. This is why we developed the idea of an
+order consisting of a stated path of movement and
+an urgency setting concerning the importance
+(and thus necessary speed) of the movement. The
+urgency is also affected by the aggressiveness of
+the commander, accounting for the historical
+tendencies of the commander's interpretation of
+his orders. The affects of urgency on movement
+and combat are the core of the game.
+9.6 The key to the combat system is understanding our desire to enable an excellent leader with a
+small force to hold off a poor leader with a large
+force. The intent was to allow a well led French
+corps to hold for at least one day against a force
+many times its size, and this is why casualties
+are directly proportional to the urgency, allowing
+a good leader to lower the combat urgency and
+thus sustain relatively light casualties despite
+being outnumbered. Also, a good leader can force a
+
+Continued on page 39
+
+BASIC INFORMATION
+NAME:
+
+Blackjack Master
+
+TYPE:
+
+Card Game and Tutor
+
+SYSTEM:
+
+TRS-80 Mod. I, Level II, 16K
+
+FORMAT: Tape
+
+Now the dealer glances toward the tight lipped
+pit boss as he turns over the card hiding beneath
+his black nine. The crowd gasps as it becomes
+visible: the final eight in the deck, giving the
+dealer a total of 17.
+You breath an audible sigh as you accept the pit
+supervisor's chit for $1,500.00 and turn to look
+directly into the smiling blue eyes behind you.
+
+# PLAYERS: 1
+AUTHOR:
+
+Norman J. Wazaney Jr.
+
+PRICE:
+
+$29.95
+
+PUBLISHER: Hayden Book Co.
+50 Essex St.
+Rochelle Park, NJ 07662
+
+Calmly, you watch as the dealer flips cards to
+each player around the table. Your table-limit bets
+of $500 have attracted the attention of several
+casino regulars, and a small ring of admirers has
+gathered behind you. You detect a faint scent of
+flowers as a soft hand gently touches your shoulder.
+The dealer displays a nine of spades as he
+begins his circle of the table. The three players to
+your right each draw cards. Each, in turn, silently
+pushes his hand and his bet to the dealer when his
+total exceeds the conclusive 21 points. You carefully
+tilt the corners of your cards upward; just enough
+to glimpse the two red eights hiding beneath. With
+just a moment's thought, you flip them over and
+slowly push an additional $500 to the edge of the
+green felt. The hand on your shoulder squeezes
+gently.
+The first card slides across the table and you
+quickly lift its edge. Another eight, this time black;
+not what you expected. Without hesitation, you
+turn it over and move another $500 stack out from
+your depleting bankroll. The hand on your
+shoulder tightens perceptibly. Another card leaves
+the dealer's fingers. Closer to the statistical
+probabilities this time: A red king to go with the
+first eight. Quickly, your finger taps the second
+eight. It is hit with a black seven. Again, not what
+you expected. You make a quick decision, calling
+for another card. This time you get a five, for a
+total of 20 on that hand. Moving quickly to your
+final eight, you motion for one more card. This
+time the expected probabilities come through: a
+queen.... of hearts.
+
+If this is your fantasy of a weekend in Las
+Vegas, then maybe BLACKJACK MASTER
+can help make that fantasy come true. It gives the
+blackjack devotee a way of testing new playing
+strategies and betting systems without risking the
+proverbial farm. The program consists of three
+parts: The GAME; the SIMULATOR; and the
+TUTOR.
+The GAME is similar to other blackjack
+programs. It plays blackjack with the player,
+offering all of the options available in a standard
+casino game, including doubling, splitting cards,
+insurance, and that little known possibility —
+surrendering. Bets can be made in any amount
+from $2.00 to $500.00, so money management
+strategies can also be analyzed.
+I have two immediate objections to the game
+program. First, the game always starts you with
+an unrealistic (for me, anyway) bankroll of
+$100,000. I would quickly alter the program logic to
+either provide a less intimidating amount or allow
+the player to choose his own bankroll. I'm not
+comfortable risking $100,000, and, at a maximum
+bet of only $500, it just takes too long to feel that
+you're either winning big or really blowing the wad
+The second objection is more serious. The
+graphics of the game are dull and uninspired.
+Even with the somewhat limited capabilities of
+the TRS-80, a graphic representation of playing
+cards is possible. To limit the depiction of a
+playing card to a small number crammed into a
+box detracts from the visual impact of the game.
+Additionally, the screen text format requires the
+player's eyes to jump between several points on
+the screen; increasing the likelihood of player
+fatigue and mistake. Possibly the 16K memory
+limit prevented the use of graphic playing cards
+due to program size. But, even staying within
+
+these limits, I believe that a better screen layout is
+possible which would improve the visual appeal of
+the game.
+One technical hitch was discovered. After
+running through a few hands in the GAME
+program, I was pulled up short by an "out of string
+space" error. I corrected the problem by increasing
+the cleared space from 800 to 2,000 in line 20 of the
+program. This worked in my 48K machine but
+may not satisfy other models. I suggest you play
+around with this if it occurs in your version.
+The TUTOR portion of the program is probably
+the most useful of the three segments for the
+average player. It continuously deals cards to you
+and to the dealer and asks for your play on each
+hand: hit, stand, double, or split. It then immediately analyzes the correctness of your play based
+on the playing strategy imbedded in its program
+logic (more on that later). If you are wrong, it
+displays the proper play for the hand. At the end of
+any number of hands selected by the player, the
+TUTOR provides a total statistical analysis of
+your play; presenting percentages of correct and
+incorrect calls when hitting, standing, doubling
+and splitting. Thus, the player learns which of his
+decisions are weakest and can concentrate attention on improving those segments of his play.
+The only real objection I find in this part of the
+program, is that the player decision is analyzed on
+only the first two cards dealt in each hand.
+Obviously, if I'm dealt a 4 and a 3, I'll call for
+another card, no matter what the dealer is showing.
+But, what if the third card dealt to me then is a 9,
+giving me a total of 16. Should I hit or stand?
+That's a far more important (and realistic) decision,
+but the TUTOR doesn't contain the logic to help
+with that one.
+One other minor objection is the use of the
+numeral one to represent aces in both the GAME
+and the TUTOR portions of the program. It sometimes caused me to input wrong decisions due
+simply to confusion.
+The final, and most unique, part of the program
+is the SIMULATOR, which is designed to run
+through any selected number of hands using the
+playing and betting strategy chosen by the player.
+It then displays a complete analysis of the
+strategy; including the total number of hands won
+and lost, the number of busts for both the dealer
+and player, and the number of blackjacks, splits,
+doubles and pushes. All in all, a rather impressive
+performance. Unfortunately, the program can
+analyze only about 50 hands a minute, while the
+instructions indicate that about 5,000 hands should
+be processed for a statistically valid result, so
+be prepared for a long wait.
+
+Two other improvements can be suggested for
+the strategy simulation program. First, it analyzes
+only zero-memory strategies. That is, strategies
+that do' not make use of any memorization of
+previously played cards. Experienced blackjack
+players, who utilize different betting and playing
+strategies based on what cards are remaining in
+the deck, may find this too limiting. Another
+limitation is imposed by its use of only one deck of
+cards. Many casinos use a shoe containing three
+or four decks at a time, and, in fact, the GAME
+portion of the program uses four decks. This can
+change the strategies somewhat from single deck
+play.
+Now for the major criticisms. Two problems
+stand out as almost intolerable in this otherwise
+acceptable program: the documentation and the
+method of inputting the player's selected strategy
+for analysis.
+First, the documentation. The instruction booklet is an impressive 60 pages in length with a slick
+cover and quality art work. Of interest to the
+neophyte programmer is a complete flow chart, a
+listing of program logic and a list of all variables
+used in the program.
+The weakness is found in the complexity of
+preparing the tables necessary for inputting the
+player's selected strategy. After carefully explaining how the game is played in terms suitable for
+rank beginners, the instructions continue on into
+statements like: "for every entry next to the ace on
+the worksheet, put an X in the ace row on the
+double down table-hard form under the two card
+total slot". Now that's a mouthful, and enough to
+confuse and discourage all but the most determined
+blackjack players.
+The second major difficulty is in the method of
+inputting player strategy. After using the confusing tables described above to diagram a strategy,
+it must be input into program logic by listing out
+the program and then inserting data statements
+containing strings of l's and 0's at the proper
+points in the program structure. In addition, if a
+player desires to save a particular strategy for
+future use, it must be separated from the rest of the
+program, saved to disk in ASCII format and then
+re-entered into the main program through the use
+of the merge command. Certainly not a job for the
+typical non-programmer blackjack player.
+If this explanation of the strategy input method
+left you confused, then perhaps blackjack master
+isn't for you. But if you're a reasonably capable
+programmer and an avid blackjack player, then
+this program may be your guidebook on the road
+to riches.
+
+Fiction:
+
+ESCAPE FROM
+WOLFENSTEIN
+by Ed Curtis
+There it is...Switzerland! Just fifty more yards to
+the frontier and those dogs can howl all they want
+after that. Those miserable dogs! I haven't had a
+wink of sleep in the past four days because of those
+DOGS!! Hold it... Get hold of your self! Don't let
+those moon-cast shadows get the better of you. Of
+you? Now I'm talking to myself. That last grenade
+must have shook me up more than I thought. That
+last grenade. It seems like a lifetime ago that I got
+out of the Castle. How long ago was it? Lets
+see...the Schweinfurt raid was on the seventeenth,
+August seventeenth. Only last Tuesday. Just hit
+the ball-bearing plant on the swing back from the
+fighter factory, and the rest was home free. That is
+until you lose your engines and half your
+crew to fighters that were supposedly drawn south
+with the other formation. And then, slowly drifting
+down as you watch your B-17 hit the ground in a
+ball of flame. I was sure that they were going to
+shoot me until one of the officers recognized that I
+was a bombardier. All that I remember after that
+was one word which kept reoccurring in their
+conversation--Wolfenstein.
+Time seems to lose much of its meaning as the
+preliminary interrogation took place. "Tell us
+about the Norden bombsight and how it works!"
+"Don't be a fool, captain, you know that you will
+tell us everything before long." "Why make yourself suffer needlessly?" "Your fellow officers have
+already given us the information we need; all we
+ask of you is enough information to check what
+they have given for minor errors which may have
+occurred due to their conditions at the time." On
+and on, over and over with what appeared to be
+random interruptions. It got to the point that I
+wasn't sure anymore about my ability to hold out,
+when it happened.
+That night, a British commando, little more
+than a pile of rags after what he had gone through,
+slowly pushed a pistol, that he had somehow
+gotten, over in my direction. He knew that he was
+through, he insisted, and told me of the plans for
+an Operation Rheingold. I now had a duel
+mission; to keep my information from the Germans, and getting the plans out. More importantly, I now had the means to do at least the first half!
+I was being taken to the interrogation rooms
+
+again when the second miracle happened. As we
+passed another prisoner, who was being taken to
+the holding cells, my guard's attention was off me
+long enough for the pistol to do its work. The other
+prisoner, hit by a stray bullet, at first seemed dead.
+I don't know what made me check his body, but
+turning him over brought a small gasp from the
+otherwise lifeless corps. Coming slowly to
+consciousness, he held on, somehow, long enough to
+give me a possible escape route.
+From that point my escape became one battle
+after another, as I slowly worked my way down
+the building. Off the bodies of the common soldiers
+I scavenged bullets and grenades that cleared my
+way room by room. The chests that I opened
+helped even more as they provided me with a
+uniform, food, and other very useful items. Protected by a bullet-proof vest and in German uniform, my only bane proved to be the equally
+protected and unrelenting SS. I don't know how
+many times I ran from one room to the safety of
+another only to be pursued by those devils. Fanatical, they would walk right into a stream of
+bullets, trusting their vests and Adolf Hitler to
+protect them.
+Throw a grenade and duck around the corner.
+Before I got out of that death-trap, I had developed
+that response to anything...throw and duck. That,
+I'm sure, is why my head feels like something that
+was borrowed from some poor relation. And, that
+last one! If miracles come in threes, then that must
+surely have been the third. I'm still certain that I
+was closer to it, when it went off, than the SS
+officer.
+I don't remember much of what happened the
+next day or two, but it seems that I just kept going
+away from the dogs. It is even possible that the
+Germans, by heading towards the border, kept me
+from wandering aimlessly until they picked me
+up. Even with the way that I feel, the thought of
+the Germans making my escape possible brings a
+grin.
+Oh, well! I've rested enough, and the howling
+grows nearer. Time to check my pockets and go
+those last fifty yards. Lets see, wurst, schnaps,
+pistol, grenades, map, and...oh yes...the plan.
+
+ODE TO JOY, PADDLE AND PORT:
+Some Components for Game Playing
+Luther Shaw
+TG Products of Richardson Texas
+and The Keyboard Company of
+Garden Grove California are probably the best known manufacturers
+of game input devices for the Apple
+II computer. Both companies sell
+game paddles and joysticks. TG Products also sells a switchable game
+port.
+In the year that I have owned my
+Apple II computer I have gone
+through two sets of the low quality
+black-cased paddles which, at that
+time, came with the Apple II computer. The dials for the old paddles
+were often short on the readings on
+the upper end. But the worst component of the old paddles was the
+fire button which was designed for
+light weight electronic duty, not the
+hot and heavy pounding that comes
+from constantly saving the earth
+from invading aliens and the like.
+Happily TG Products and The
+Keyboard Company have made
+available game paddles that are far
+superior to the old ones. The TG
+paddles are encased in rectangular
+plastic cases color matched to the
+Apple. The fire button is large and of
+much better quality than the old
+black-cased buttons. The paddle dial
+control has a substantial feel. If you
+leave your ship/whatever exposed
+to enemy fire it will be your own
+fault not that of the TG paddle which
+retails for $39.95 per pair.
+TKC's paddles are shaped to fit
+comfortably in your hands. The dial
+is designed to allow the player to use
+the paddle as a small dial device or a
+large dial device. It reminds one of
+the small steering wheels of the
+street racers versus the large steering wheels the cruisers used to have
+(does that date me?). The fire button
+is built flush against the case which
+makes it comfortable to use. It is
+apparent that TKC has put some
+
+thought into the human engineering
+of their paddles which retail for
+
+$29.95.
+Like the TKC paddles, the TKC
+joystick fits comfortably in your
+hand. It is weighted which gives a
+high quality feel. The stick itself
+moves smoothly providing accurate
+response. Rather than the two fire
+buttons that you find on most joysticks, the TKC joystick has one fire
+and one dual action. switch. The
+dual action switch has a momentary
+ON position which automatically
+switches back OFF (for use as a
+regular fire button) and a permanent ON position (for continual
+firing). TKC added this dual switch
+with the view that players (as well
+as those using the device for nongaming applications) would like the
+variety of the dual switch. It was
+also hoped that some games would
+be designed to make use of the
+feature. However, after using the
+dual switch I find that it doesn't add
+much and is more difficult to use
+than a second fire button. The Keyboard Company has been considering making the change back to a
+stick with two fire buttons. They
+want to know what the users think.
+If you have used TKC's joystick you
+might drop them a line letting them
+know what you think of their dual
+switch.
+Like their paddles, The TG Products' joystick is encased in a durable
+plastic case color coded to match the
+Apple II. The device has an important feature lacking in the TKC
+stick — self centering. Certain computer games such as CASTLE
+WOLFENSTEIN and FLIGHT SIMULATOR play much better with a
+self-centering joystick. But if you
+prefer a non-self centering stick TG
+Products provides simple instructions-
+
+on disabling the self-centering
+feature. The two fire buttons are just
+like those on their paddles and will
+stand up to a lot of punishment.
+A third item marketed by TG Products is a must for any gamer who is
+tired of having to get inside his
+Apple II to manually switch from
+the paddle plug to the stick plug. Not
+only is manually switching a hassle,
+it can also get expensive if you do
+what I have done — break a pin in
+making the switch.
+SELCT-APORsetouidyrAplIan
+provides switch selectable sockets
+for various game devices (such as
+paddles and joysticks).
+SELCT-APORplugsdirectynoham
+port and allows you to plug in up to
+five devices which would normally
+plug into the game port. Socket #1 is
+a non-switchable socket which directly parallels the game socket. It is
+utilized for sensitive devices for
+which diode isolation would interfere. Socket #2 is switch selectable
+and modifies the device plugged into
+it to operate as paddle 2 and paddle
+3. This is useful in applications
+requiring dual joysticks or four game
+paddles. Sockets #3 through #5 are
+switch selectable ports which may
+be connected or disconnected to the
+Apple II via a switch. At $59.95
+SELECT-A-PORT is not inexpensive,
+but is a worthwhile purchase for the
+serious gaming hobbyist.
+After having played games with
+both sets of paddles this writer finds
+both to be of high quality but prefers
+the TKC paddles due to physical
+design and the cost. The choice of
+which is the better joystick buy is
+more a question of taste. While the
+TKC stick is of costs less ($49.95 as
+opposed to the TG stick at $59.95), it
+lacks the self-centering feature. If
+self-centering is important to you
+then your choice is obvious.
+
+From left to right: TKC joystick, TKC paddles, TG Select-a Port, TG paddles, TG joystick.
+
+THE CURRENT STATE
+OF COMPUTER GAME
+DOCUMENTATION
+Computer game players often give short shrift
+to game documentation. And why not? Too often
+it's a barrier the gamer has to overcome, every bit
+as difficult as the cleverest monster or the most
+ingenious trap. Instead of being perceived as an
+essential part of the game, the manual is seen as
+something between the gameplayer and the game,
+a necessary nuisance.
+I know many computer garners who glance at
+the documentation just enough to discover the
+basic keyboard commands, then throw it into the
+wastecan. I know gamers who copy their friends'
+game diskettes, but don't even bother to borrow or
+copy the manual. They know there will be com
+mands that aren't in the documentation anyway.
+They know there will be situations, objects, special
+rules and conditions which the manufacturer
+hasn't even bothered to include in the manual, so
+usually they're content to just discover for themselves what the rules and limitations are. It has
+become a game within a game — What was left out
+of the manual and where was it wrong?
+I'm not a programmer; I'm a fiction writer,
+writing computer manuals on the side. I do therefore have a bias — I want gameplayers to read
+manuals. But I don't read most of the manuals
+currently on the market as I have a rather low
+tolerance for boredom. Putting aside the issues of
+incompleteness and technical inaccuracies game
+manuals are usually lacking on the most basic
+level of writing — they fail to hold our interest.
+Consider the example set by adventure game
+manuals. These are the worst offenders simply
+because they need to be longer and more detailed.
+Most of us can wade through the page or two the
+average arcade-type game requires. Adventure
+
+By Steve Rasnic Tern
+game manuals, on the otherhand, will typically
+begin with a lengthy description of its cast of
+characters. The thief, the fighter, the priest, the
+mage, etc. When have you ever been surprised by
+these character descriptions? When has there
+been a characteristic which stood out, which was
+unusual enough to mark that character as anything other than two-dimensional? Read a character description in one manual and you've read
+them all.
+Next come the all-important Attributes. Strength,
+I.Q., Speed, Luck, and Constitution make up a
+typical list. Of course, these are merely words
+attached to the numbers in the program which
+enable the computer to simulate the variety of
+human types in the real world. The computer
+plays with these numbers to figure the outcome of
+battles, theft attempts, etc. But the gameplayer
+must think of these attributes as real human
+characteristics, strengths and shortcomings which
+make his characters individuals, before he can
+really enjoy playing the game. Far too often the
+documentation treats these attributes as if they
+were just numbers, providing only the most
+cursory examination of what these attributes
+mean. Often the definitions are fuzzy, overlap
+with each other, or at worst are just plain nonsensical. There would seem to be no compelling
+reason why a character might be stronger in one
+attribute than in another. Each should mean
+something different within the context of each
+character's life: added strength, for instance, will
+mean something different to the fighter than it
+does to the thief. And the case studies of the
+characters in the manual should ideally provide a
+
+context which will make such differences apparent.
+A fighter might use added strength in swinging a
+mace; a thief might use it to scale a wall to reach a
+crown. But perhaps the fighter would not have the
+motivation to use his added strength in this
+manner, and would be unable to scale the wall. Of
+course, in some cases these differences will not be
+accounted for in the game system itself, but they
+can make a big difference in a player's feeling for
+the characters and the situation they are in. The
+game simulation will seem a bit more real.
+But a manual which attempts to work out the
+questions of character and attributes more thoroughly and evocatively may provide an added
+bonus. Using the above example, the manual's
+fuller exploration of character might demonstrate
+to the designer that he should change the Strength
+formula in the program so that the fighter cannot
+use added strength to scale a wall. More complete
+documentation may suggest improvements to the
+way abstract numbers are handled, adding complexity and realism to the game.
+Of course, most of these criticisms apply to the
+"simulation" part of the game. Gameplayers who
+couldn't care less about characters and the fantasized scenario, who are quite comfortable playing
+at a more abstract level in which these attributes
+and characters truly are numbers, will have no
+problem with second-rate game manuals. The
+manuals will be totally irrelevant to them beyond
+a few basic keyboard instructions.
+As a science fiction and fantasy writer, the
+thing I'm most struck by when I read computer
+game manuals is the number of lost opportunities.
+Few manufacturers seem to have realized that
+manuals can be more than basic, skeletal instructions. They can be part of the fantasy world itself:
+a magic book, a historical treatise, perhaps a
+handbook for the sorceror's apprentice. A gateway
+to another world.
+In my desk 1 have a handful of computer game
+manuals. Several of their makers seem to have
+discovered some of the potential for the game
+manual as an actual fantasy object.
+A relatively straightforward treatment is the
+Starship Mission Simulator Operator's Handbook (Harry M. Sweeney, 1979), a manual for a
+number of the Trek-type games. It's a long manual,
+with much discussion of quasi-technical matters,
+game system material which might normally
+detract from the role-playing aspects of the game.
+But Sweeney treats this material as if this were an
+actual Federation manual for the Starship Mission
+Simulator. The reader becomes a cadet or highly
+trained and skilled Federation officer seeking to
+improve his or her skills. The cadet or officer will
+be rated; the simulator gives each mission a
+
+performance rating. The role-playing fantasy
+begins as soon as the gamer opens the manual.
+The documentation becomes a true fantasy object.
+Similarly, Level-10's Rings Of Saturn manual
+takes the guise of briefing papers for a pilot
+employed by a corporation exploiting the mineral
+wealth of the Saturn system. The pilot has been
+ferrying tourists to view the splendor of Saturn's
+rings when a distress call comes in — a research
+ship has been disabled and is slowly drifting into
+the 'A' series of rings. After a short narrative
+placing the gameplayer into this physical and
+social setting, the rest of the manual briefs him on
+the capabilities of his craft and what dangers he
+might expect. The keyboard is treated in the
+manual as if it were an actual command center.
+These two manuals represent a type of manual
+we're beginning to see more of from computer
+game manufacturers. The imaginative transformation of the manual is of the most elementary
+kind, but it can be quite effective in placing the
+gameplayer directly into the fantasy setting.
+Strategic Simulations' manual for Computer
+Ambush does something effective with the problem of character sketches. Near the end of the
+manual the gameplayer will find two "soldier
+dossiers," one for the U.S. Army and one for the
+Wehrmacht. These dossiers contain profiles of
+soldiers in the squad, including facial sketches.
+The profiles are well-written, and most importantly give the gameplayer enough of the soldier's
+background (history, lifestyle, hobbies, etc.) that
+their otherwise abstract attributes (Intelligence,
+Strength, Dexterity, etc.) take on specific meaning.
+These dossiers make the characters in Computer
+Ambush among the most real figures in computer
+gaming.
+The rest of the Computer Ambush documentation, although very thorough, underscores the
+problems involved in writing a manual for a very
+complex game. As in many boardgame manuals,
+the long lists of rules, combat formulas, and
+special conditions make for very dull reading. And
+this is perhaps one reason wargame rules and
+procedures often require many playing hours to
+understand even at an elementary level. The
+solution is not easy to come by, but I would suggest
+that a collection of fake documents containing the
+rules in disguised form — such as "The Conduct Of
+War" by Baron Reich, "A Hand-to-Hand Combat
+Training Manual," or "A Handbook Of Codes Fro
+The French Campaign" — might prove to be part
+of the solution. Using the fake document format
+not only thrusts the gameplayer immediately into
+role-playing, but also produces a manual which is
+much more entertaining, and easier, to read.
+
+Producing such a manual is not easy — when
+poorly executed such fake documents would tend
+to confuse more than clarify — but when well
+thought-out the results should be quite impressive.
+One of the more impressive series of computer
+adventure manuals is Dunjonquest by Automated
+Simulations. These manuals include a basic
+introduction to role-playing for those unfamiliar
+with the phenomenon, a brief fictional narrative,
+descriptions of the monsters, and descriptions of
+the rooms and levels within the dungeons.
+Although simplistic in comparison to the highly
+descriptive Dungeons & Dragons manuals, these
+manuals encourage the gameplayer to visualize
+the fantasy setting to an extent not found previously in computer gaming. Where graphic
+limitations prevent the programmer from illustrating the scene, these short descriptions prod the
+gameplayer's imagination into making up the
+difference. The Dunjonquest manuals provide a
+happy medium between the highly descriptive
+and involved D & D manuals — which would be
+far too cumbersome for the average computer
+game — and simple, skeletal manuals which do
+not engage the player's imagination at all.
+When I was asked to write some of the manuals
+for the Level-10 series of adventure games these
+questions were very much on my mind. The first
+two of these games, Dragon Fire (by Rodney
+Nelsen) and Kaves Of Karkhan, involve the
+same cast of characters. My goal for these two
+manuals was to produce "fantasy packages,"
+which would encourage the gameplayer's roleplaying abilities and use of imagination to a high
+degree.
+The introduction of the Dragon Fire manual
+delves into the psychology of role-playing, encouraging the beginning player to enter the persona
+of one of the DF characters. This is followed by a
+full-length short story which brings the characters
+together and explores major aspects of this fantasy
+world. I felt that the brief narratives in other
+manuals, as rarely as they appear, have a number
+of limitations. There really isn't enough room to
+provide the specific detail, the gradation in mood,
+the "color" required to make a fantasy world come
+to life. The short story form can also show a lot
+more about character than the usually brief
+character descriptions. Motivations can be explored (an aspect lacking in many computer
+games). And of course in a short story you can
+build suspense, and involve the reader in the
+setting in ways not possible in a narrative fragment. What better way to enter a role-playing
+fantasy universe?
+Both Dragon Fire and Kaves include character profiles and detailed character drawings.
+
+These profiles are meant to make the figures come
+alive, relating anecdotes concerning their lives
+before this particular adventure.
+Female warriors are not unheard of in
+these regions, but their homelands, their
+purposes, sometimes even their names,
+have remained secret. Three-finger John,
+the tavern owner, is convinced they hail
+from wandering "daughter bands" of
+amazons who kill their husbands. "They
+eat raw meat and drink the blood from
+dying animals," he tells his barmaid
+with a wink.
+Wizards are said to love disguises...Many
+has been the time he's dressed the part of
+the elm, the weeping maiden, the grasscovered hillock, or the deer in flight.
+You can't find an elf, no matter how hard
+you try. They will always find you. Elves
+are highly secretive creatures, vanishing
+here and reappearing there; they enjoy
+travel more than most anything.
+I also tried to bring some life to the usual
+stopping places of the adventurer on an important
+mission: the ubiquitous weapons shop, armorers
+and tavern. I was tired of shops with no names, no
+proprietors, and worst of all no visual picture which
+readily came to mind while the player was visiting
+there. At Winsome Willy's Weapons Shop: "Willy
+will go to any lengths to replenish his diverse
+stock, including raiding the bloody battlefields,
+ambushing unwary warriors, and has even stooped
+to grave robbing upon occasion. Please watch
+your head; hand axes, maces and battle axes are
+hung just above eye level." At Fliver's & Sons,
+Armorers: "There are no 'sons': Fliver just likes
+the way it looks on the sign... Try not to stumble
+over the customers piled up outside the entrance."
+Level-10's Alkemstone provided a different
+kind of challenge. This was essentially a puzzle
+game, the clues leading you to a real stone (a glass
+sphere) buried somewhere in the world, with a
+prize of $7,500 to the finder (unclaimed as of this
+writing). The task was to create a mythic history
+for the stone. So I tackled this project as I would
+any fiction assignment for The Twilight Zone
+Magazine or Weird Tales, attempting to create a
+mythic tale spanning centuries, involving "real"
+characters in conflict with such primeval forces as
+"The Spectral Serpent."
+A vast creature of stardust and
+moonshine...its disturbing and bizarre
+dreams are ultimately responsible for
+most of the races of people who live
+today. The sun lived within a small
+
+Continued on page 39
+
+Congratulations to Richard Fowell and his
+robot Norden+ — Winners of CGW's Robotwar Tournament!
+
+NORDEN+, ROBOTKILLER
+by Richard Fowell.
+ROBOTWAR is MUSE's game for the Apple
+computer, in which players write control programs
+for robot gladiators. At the UCLA Computer Club,
+fifteen members have been playing ROBOTWAR
+since the summer of 1981. As of January 1982,
+NORDEN+ is one of our top two robots . He is my
+eighth robot, and the fifth in my current series.
+NORDEN+ was designed for multi-robot battles,
+where avoiding damage is more important than
+inflicting it. His intent is to let the others kill each
+other, then kill the weakened survivor. To avoid
+damage, he moves at top speed in both X and Y
+directions. This is fast enough that, even if a robot
+has him dead in his sights, NORDEN+ is usually
+gone by the time the shell gets there. Even robots
+with tracking algorithms, such as its arch-rival
+SCALE, have difficulty connecting. To date, firing
+blindly seems to hit him as often as anything.
+NORDEN+ fights as well as he runs. His ability
+to hit targets while moving at full speed earned
+him the name of the famous World War II "Norden"
+bombsight. He scans to his right, and when he
+sees a target, he computes the angle to which he
+must swivel the gun so that the shell will hit, based
+on how far he will have moved between sighting
+and firing , and on the range to the target. He uses
+his knowledge of instruction execution time and a
+simple arctangent approximation. His offense if
+his weak point, but even in one-on-one combat,
+NORDEN+ will beat any of the robots about nine
+times out of ten.
+Another problem with movement is collisions.
+To avoid robots, NORDEN+ doesn't start moving
+until damaged, giving corner and edge robots time
+to leave the middle. Once moving, he stays away
+from edges to avoid such robots. After turning, he
+looks along his new path for robots, and turns if
+blocked. While waiting initially, he first checks
+the direction he intends to move, then does a
+simple rotary scan. If he spots a robot, he goes into
+a firing routine that includes a simple tracking
+
+algorithm. To avoid walls, NORDEN+ uses the
+information from his scan along his movement
+path and dead reckoning.
+NORDEN+ has lots of room for improvement.
+Rather than detailing his specific implementation, I think it is more fruitful to mention some of
+the tools employed. Two primary design considerations are general strategy and the specifics of the
+robot simulator.
+In strategy, it is important to concentrate on
+things that count. A robot that ignores damage
+while locked on to a robot in multiple combat is
+silly — the others will chew him up while he's
+distracted. In one-on-one, the reverse is probably
+the case. Spending a lot of trouble on improving
+NORDEN+ performance in his stationary state,
+where he spends little time, is not as rewarding as
+improving his performance while moving, etc. All
+too often, designers spend a lot of space on
+features that are rarely exercised.
+To implement things, it is frequently important
+to know precisely how a program will act. We have
+done considerable experimentation with test robots
+on the testbench and in the arena to learn these
+details. Here are some. The program seems to go to
+each robot in order, execute one "tic" of code, move
+the robot, resolve collisions, if any, then go to the
+next. A "tic" of code is one expensive instruction (a
+GOTO, GOSUB, or a reference, direct or indirect,
+to the "real" world, i.e. referencing AIM, SHOT, X,
+Y, etc.) or ten successive cheap (other) instructions
+referred to are the compiled or assembled instructions, which, by the way, make a perfectly valid
+source code. NORDEN+ takes full advantage of
+this by putting as many as nine cheap instructions before each expensive one, since such a
+group of instructions takes only one tic. Incidentally, the X distance moved by a robot in a tic is
+SPEEDX/50, and similarly for Y. For such
+things as dead reckoning and tracking algorithms
+this information is crucial. It also helps to know
+that the gun barrel cools in 9 tics.
+
+There are also some typical useful code sequences.
+If the gun barrel angle is stored in variable A, and
+the scan increment in B, the sequence
+A + B TO AIM TO A TO RADAR
+
+0 - RADAR 0 TO SHOT
+
+is useful. Note the use of A to store the value of
+AIM, which is expensive to refer to, and that the
+test of RADAR leaves precisely the right value to
+be fed to SHOT in the accumulator.
+If anyone has a robot that beats NORDEN+, the
+sample robots, and all other robots they have seen
+in one-on-one combat consistently (we typically
+use twenty-game matches as a standard) I would
+be interested in hearing from them. I may be
+contacted care of this magazine. If not, I hope that
+this article helps someone produce such a robot.
+
+X > 128 -256 TO U
+/ V TO H< 0 90 + 0 TO 0
+85 TO N
+95 TO 0
+11 TO INDEX
+29 / 2 TO J
+1014 * 4 TO E
+SCAN
+O + T + B TO A TO AIM
+58 TO B T + 13 TO T
+IF DAMAGE # D GOTO START
+•A TO RADAR
+3 - RADAR TO R < 0 GOTO SCAN
+TO SHOT
+SIMPLE
+2 TO F
+850 / R TO C
+INAMIN
+A - C - C TO A
+
+MORE
+DAMAGE # D GOTO START
+A + C TO A TO AIM TO RADAR
+1 + F TO F > 10 GOTO SCAN
+3 - RADAR TO P < 0 GOTO MORE
+F < 0 GOTO INAMIN
+R TO SHOT
+GOTO SIMPLE
+START
+-500 TO F
+U TO SPEEDX
+✓ TO SPEEDY
+O TO RADAR
+RADAR > 0 GOTO MAINE
+TURN
+IF H > 0 - U TO SPEEDX
+IF H < 0 - V TO V
+✓ TO SPEEDY
+INDEX + 1 TO INDEX
+O - H TO H
+
+;ROBOT "NORDEN+"
+;BY RICHARD A. FOWELL
+;WINNER OF COMPUTER
+;GAMING WORLD'S
+;ROBOTWAR TOURNAMENT
+
+ADROIT MOD
+1 TO SPEEDY
+256 TO U TO V
+715 TO 0
+100 TO D
+81 TO
+Y
+128 -256 TO V
+-1 135 TO 0
+90 TO L
+99 TO M
+
+90 + 0 TO 0 TO RADAR
+IF H < 0
+U TO U
+IF INDEX > 15 11 TO INDEX
+3 - RADAR TO F > 12 621 + 621
+/ F + 0 TO AIM
+> 12 F TO SHOT
+> -137 GOTO TURN
+MAINP
+-600 TO B
+TRACK TO C
+U TO SPEEDX
+F > -145 TURN TO C
+-500 TO F TO T TO D
+O + DATA TO I
+MAINO
+T + 29 TO T > -77 GOTO TURN
+D > DAMAGE GOTO TURN
+T - 29 > B I TO A
+A TO RADAR
+T > - 99 GOTO TURN < -450 766 TO Z
+3 - RADAR TO F
+< 3 + T > -296 GOTO TURN
+< 3 GOTO C
+T < B GOTO C
+Z / F + A TO AIM
+IF A = I E / F + A TO A
+F TO SHOT
+J + T TO T > - 84 GOTO TURN + 50 TO B
+IF C < TRACK GOTO C
+TRACK
+O TO RADAR
+O - RADAR > 0 GOTO TURN
+TO T
+MAINE) TO C
+621 + 621 TO Z
+DAMAGE TO D
+GOTO MAINO
+
+A New Column .. .
+
+most of the comuter games out on the market). The
+first problem is taking care of itself, but what
+about the second one?
+This column, hopefully, will help to take care of
+the second problem. Its purpose is to provide a
+forum for demonstrating useful AI techniques for
+computer games, with the emphasis on "useful".
+To do this, Computer Gaming World is going to
+need the help of those of you who are actually
+using such techniques in your games right now. If
+you are interested, you are invited to write me, c/o
+CGW, to get information on the format we want to
+follow in this column. If you don't feel that you can
+write the column yourself due to time or other
+constraints, you can submit your ideas and we'll
+write the column to present them. The goal is for
+the techniques to be understandable and applicable.
+When necessary and feasible, program outlines
+and short sections of code will be used.
+
+THE SILICON
+CEREBRUM
+by Bruce Webster
+AN INTRODUCTION
+Artificial intelligence, games, and computers
+have been linked together for, well, as long as
+computers have been around...longer, in fact, if
+you count the "chess automatons" (usually worked
+by a hidden person) of a few centuries ago. In 1950,
+only a few years after the advent of the digital
+computer, Claude Shannon published a paper in
+Scientific American describing an "automatic
+chess player". Since then, computer game playing
+has been a significant area of research in Artificial
+Intelligence (AI). Recently, much of that research
+has found commercial application in specialized
+units that play chess, backgammon, and reversi.
+It has been slower, however, in being applied to
+games for personal computers. There are at least
+two reasons, among others, for this. First, up until
+a year or so ago, most personal computers systems
+did not lend themselves to sophisticated software
+development. Second, there have not been that
+many articles on applying AI techniques to computer games (outside of alpha-beta/minimax
+techniques, which are not easily applicable to
+
+Some of you may be wondering just what areas
+of artificial intelligence are applicable to gaming.
+The answer is; almost all of them. to give you an
+idea of some of the areas we're interested in and
+how they might apply to your programs, here's a
+partial list of topics with some ideas as to how they
+are used in games:
+Making decisions. This is probably the "heart"
+of computer game playing: choosing the best move
+or action. It usually involves two separate problems:
+generating a set of legal moves, and deciding
+which one is best. The classic technique here is
+generating a game tree of alternating moves (so as
+to look several moves ahead) and using some sort
+of evaluation function and alpha-beta/minimax
+techniques to minimize how long you have to
+search to find the best path. Unfortunately, alphabeta/minimax techniques don't work well in "real
+time" games or in games where a given side can
+move several or even dozens of pieces each game
+turn (e.g., your typical wargame). When you have
+lots of units to move, how do you decide where to
+move them all?
+Defining and seeking goals. Typically, each
+player in a game has some goal or set of goals to
+accomplish. When there is a single goal (e.g.,
+putting your opponent's king in checkmate), this
+isn't a problem. But what about when you have
+several goals to accomplish? How does the program
+decide which goal to pursue right now? In some
+games, only a few goals out of a given set need to
+be reached. How do you decide which goals are
+most feasible in a given situation? The program
+may also need to be able to break down a goal into
+a set of sub-goals, each of which is easily defined
+and accomplished. Finally, there are situations
+when a given goal is no longer worth the cost of
+
+achieving it. How does the program recognize
+that, and how does it pick a new goal?
+Representing the "world". A computer game
+is played within its own little "universe", which
+must somehow be represented inside the computer.
+Modelling a chess board and pieces is not a
+difficult task. Modelling a typical wargame map
+and all the attendant counters is another matter
+entirely. Adventure and all its many progeny
+have generated a lot of commercial work in knowledge representation; what are some of the cleaner
+and more powerful techniques in use now?
+Talking with the player. This problem is
+twofold. First, the computer has to somehow convey
+the necessary information concerning the internal
+universe to the player. Second, it must understand
+his commands. Much of this area doesn't directly
+impinge on AI, but the Adventure-like games,
+with their command parsing, do. How do you let
+the player express commands in a powerful,
+straightforward manner?
+Learning. For most of us, the more we play a
+game, the better we get at it. This is not true of
+virtually all of the computer games on the market
+today (which may explain why so many of them
+become boring after a while). For any of you
+currently developing computer vs. player games,
+this would be a marvelous selling point: a game
+which gets better as you do. An added enhancement would be for the program to develop specific
+techniques for specific individuals (which would
+require the individual to enter his/her name before
+each game).
+Recognizing patterns. The program needs to
+be able to interpret the game "universe" and
+recognize certain situations or patterns. This can
+range from something as "physical" as a certain
+configuration of pieces on the game board to
+something as abstract as certain game strategies.
+To do this, the program needs to extract certain
+features or characteristics from the appropriate
+data source and somehow decide what they mean.
+A computer playing OGRE might not have much
+trouble recognizing (and adjusting to) the fourhowitzer defense, but can it pick out a pattern of
+hit-and-run attacks by GEV's (Ground Effects
+Vehicle) and react accordingly?
+As stated at the beginning, AI, games, and
+computers have somehow been always tied together, though usually just in research centers.
+With the rapidly expanding personal computer
+market, however, commercial applications abound.
+Hopefully, this column will help you, the game
+designers and developers to share your expertise
+and generate better, more intelligent, computer
+games.
+
+BASIC INFORMATION
+NAME:
+
+Tigers In The Snow
+
+TYPE:
+
+Wargame
+
+SYSTEM:
+
+Apple II & TRS-80
+
+FORMAT:
+
+Diskette "Apple";
+Tape "TRS"
+
+# PLAYERS: 1 or 2
+AUTHOR:
+
+Landrey, Kroegel, Walker
+
+PRICE:
+
+Apple ($39.95),
+TRS-80 ($24.95)
+
+PUBLISHER: Strategic Simulations
+465 Fairchild Dr. Suite 106
+Mountain View CA 94043
+(415) 964-1353
+
+Few subjects in the history of board gaming
+compete with such ferocity for attention from
+traditional wargaming partisans as the German
+counteroffensive in the Ardennes of December
+1944-January 1945. Tigers In The Snow, a
+recent release by Strategic Simulations, Inc., is
+another of the many attempts to confront the
+design problems inherent in attempting to simulate
+that campaign. Tigers In The Snow is a grand
+tactical first-time attempt by a software company
+to cover the Battle of the Bulge in a computer game
+format. With graphics and memory limitations
+inherent in a 48K Applesoft ROM or Apple+
+version, its one-map solution presents some unique
+design innovations as well as pioneering pit falls.
+The physical components are slick and professional. A thick 1" box (with splashy exterior
+graphics) comes with 4-page "case-organized"
+rules, color map display, and quick-start/order of
+appearance card.
+
+THE GAME SYSTEM
+A traditionally accepted sequence of play is
+presented: German movement; German attacks;
+Allied movement; Allied attacks; reinforcement
+appearance; victory status; and save game option.
+Units are called off for movement and combat in a
+once-through order, as it's not possible to move
+one unit out of the line and another unit back in its
+place (for the most part) on the same turn. During
+the combat segment, enemy units are listed that
+are adjacent to friendly units, and an option exists
+to attack or not attack. If an attack decision is
+made, four different levels of attack are offered:
+major; medium; light; and recon. Units debilitated
+by losses or combat state may shift down in
+method of attack (simulating possible decisions
+by local commanders). Combat resolution is done
+by the program, with results ranging from attrition and no advance or retreat to outright defender
+(or attacker) elimination, advance after combat
+(attacker only), and an option for a second combat.
+Between each phase a summary of general supply,
+fuel, and artillery reserves is posted, along with a
+victory point total for each side. The save game
+option requires an initialized SSI disk.
+One and two-player versions are offered at the
+outset, with the computer capable of taking either
+the Allied or German side in the one-player option.
+Computer strategy, as the Allied player, is typically
+one of straightening out the line, holding key
+points ( victory conditions), and falling back.
+Computer strategy as, the German player, is one
+of pell-mell dashing for victory point locations;
+ignoring problems of flanks and fuel. It's quite
+possible, in the middle of the game, for individual
+German units to become isolated far ahead of the
+main advance, subject to ever-tightening fuel
+
+resource shortages and the inevitable Allied 3 to 1
+attacks by reinforcements. Unit losses are worth
+victory points on a 1 to 1 basis, with no bonuses for
+unit losses while isolated. Marche, Bastogne,
+Rochefort, and northern, southern, western, and
+eastern map edges are worth additional victory
+points.
+Units cannot stack, move through each other,
+break down, or build up. Zones of control impede
+movement (ridged Z.O.C.), preventing retreats,
+and supply unless friendly units are in the enemy
+zones of control otherwise blocking supply. Units
+unable to retreat, when the combat results call for
+such, suffer additional losses. Each unit has a
+combat state, ranging from 0 to 7, which greatly
+affects combat resolution. Combat state changes
+if units move or just "stay put"; possibly showing
+the effects of movement on communications and
+unit cohesion. Combat results which allow an
+advance of three hexes permits the attacker the
+option of a second combat.
+An average "computer as player" turn last 3-6
+minutes, with player interaction necessary for
+defensive strategy and artillery allocation. While
+this 3-6 minute turn may seem long to some, it
+actually goes by fairly quickly since the human
+player is involved with each battle in terms of
+setting his defense and deciding whether or not to
+call for defensive artillery support.
+
+THE GAME AS GAME
+Options exist initially for players to choose
+strength levels for each side, numbered from 1 to 9.
+A historical mix should be 4 for the Allies and 5 for
+the Germans. With a "computer as German
+player" set-up, 7 or 8 for the Germans will allow for
+greater thrills, as the helpless Allied player
+watches the computer Germans blast through the
+thin American lines and surge towards the edge of
+the map to be hopefully repulsed by penny-packed
+reinforcements near the Meuse. With a "computer
+as Allied player" set-up, the Germans are still
+going to have a rough time of it, so a compensatory
+"play balance" rating of "6" for the Germans is
+appropriate.
+The inability of units to attack, break down, or
+re-form into their parent units is as frustrating as
+the inability to move through each other. A more
+suitable approach would have been to allow units
+to move through each other (regiments and
+brigades only), with deleterious effects on movement capabilities and combat state as columns
+become snarled on the few roads available. Combined regiments should be allowed to re-form into
+divisions, again with the above effects. Other
+debilities in this system include the inability of
+theoretically mobile units (such as the hapless
+
+14th Cavalry Regiment) to get out of the way if a
+clear path of retreat is present before combat, and
+the almost hypnotic predilection of German units
+to advance far ahead of supporting elements in a
+near-manic drive for the victory point hexes. An
+evil tactic for the Allied player is to allow one lone
+chewed-up German unit to "break out" and advance across the Meuse, to be later consumed by
+counterattacks from the thus-triggered British.
+
+THE GAME AS HISTORY
+One obvious element that is missing from
+Tigers In The Snow is the presentation of
+road nets. Certainly on the scale presented (10/15
+km./hex) adequate road presentation is difficult
+at best, as several roads would course through
+many of the hexes. But leaving out the road nets
+causes the game to gloss over the problems that
+were so important in the Bulge campaign.
+Namely, that the extreme congestion of German
+columns, traffic and unit control created a situation in which small elements of American infantry (remnants of combat units mixed with support
+troops) were able to force powerful panzer and
+panzergrenadier elements to stop and deploy. This
+necessity of deployment clogged rear areas with
+tangled elements of mixed-up men and material.
+The result was that the German advance was
+often restricted to small scale actions between
+company and battalion sized formations.
+The use of "combat states" is the answer given
+by the designers to the problem of road movement,
+deployment and attack. The higher a units combat
+state, the better prepared it is to attack or defend.
+Units go down in combat state as they move and
+go up as they remain stationary. While not a bad
+way to handle the problems of movement/deployment, this method still leaves untouched some
+important facts concerning the Bulge campaign.
+With roads not represented the importance of
+critical road junctions is only hinted at. Victory
+points are given for holding Marche and Bastogne
+but the important road junction of St. Vith is
+ignored.
+CONCLUSIONS:
+Despite the minor dissatisfaction over the road
+nets, Tigers In The Snow is enjoyable as a
+"situation in doubt" game, with the possibility of
+German break-outs threatening to roll up the
+American line. The tension of hoping your perfectly laid plans don't disintegrate in your face
+can keep you riveted in your seat for hours.
+Although the game is not as innovative as other
+SSI games it is a design which deserves attention
+as part of the improving integration of wargames
+and computer software.
+
+YOU TOO CAN BE
+
+AN ACE!
+Bob Proctor
+BASIC INFORMATION
+NAME:
+
+A2-FS1 Flight Simulator with
+British Air Ace
+Arcade flight simulator
+
+TYPE:
+Apple II or TRS-80 16K
+SYSTEM:
+Diskette or Tape
+FORMAT:
+# PLAYERS: 1
+Bruce A. Artwick
+AUTHOR:
+Tape $25; Apple Disk $33.50
+PRICE:
+PUBLISHER: Sublogic Company
+201 West Springfield
+Champaign, IL 61820
+(217) 359-8482
+
+Ground School For the Flight Simulator
+The A2-FS1 Flight Simulator from Sublogic
+has been available for about a year now. Although
+there are other flight simulators, the Sublogic
+program remains unique for the built-in dogfight
+game. While raving about the simulation, reviewers have called the game "difficult", "challenging",
+and "next to impossible."
+Difficult, you say? Maybe, but certainly not
+impossible. For those of you who have given up, or
+are about to, I would like to pass on the approach I
+used to score my first victories. I assume that
+you're already a reasonably competent Simulator
+pilot. By this, I mean that you can land safely but
+not necessarily on a runway!
+The first step is to take off and fly due west (270
+deg.) about 100 feet above the ground. To save
+time, I just ignore the runway; the plane is heading
+270 to start with and you can take off and land
+ANYWHERE in the Simulator's world — I think
+it's a gigantic parking lot. The low elevation does
+two things: 1) it keeps enemy aircraft above the
+horizon where you can see them constantly and, 2)
+it prevents those same aircraft from diving under
+you and coming up on your tail.
+The basic plan is to come in low and straight,
+shooting all of the enemy planes down while they
+are in front of you and before they can begin to
+play tricks. The differences in the 5 enemy pilots
+and planes will cause them to spread out as they
+come after you. You just point your plane directly
+at the nearest enemy and keep firing by pushing
+the space bar until the little dot disappears. You
+can get confirmation of your "kills" from the score
+
+on the lower right corner of the instrument panel
+— 1 point for each plane shot down.
+Let's return to the cockpit of our Camel, still
+heading 270 at about 500' (ground level is 411'). No
+matter when you declare war (the "w" key), the
+enemy will not take off until you cross into his
+territory. The further you are from his airbase at
+that time, the longer it will take the fastest fighter
+to reach you and the more scattered the enemy will
+be. This is what we want, nobody that I know of
+can tangle with all 5 at once and survive. Our only
+hope is to take them on one or two at a time.
+As you cross into enemy territory, then, you
+should be close to the north edge (the mountains).
+Flying due west from the British airdrome will put
+you far enough north for this strategy to work, but
+you can go further north if you find yourself
+needing more time. In fact, you can fly right
+THROUGH the mountains and go several miles
+further north!
+At this point, I usually switch from the 3-D view
+to the downward view. The latter acts the same as
+radar but has greater range to the sides. You can
+"see" the enemy coming from the south (left) and
+turn to meet them sooner. As soon as the first one
+shows up on the "radar", switch back to the 3-D
+view as this is the only way you can see whether
+your target is higher or lower than you.
+After nailing the first two (they always stick
+close together), you may have to bank left quickly
+to get number 3 in front of you. CAUTION! Don't
+bank too steeply! If you stand the plane on its
+wingtip, it will start to sink like a rock. Remember
+that you're only 90' or 100' up! I think I flew into
+the ground more than I got shot down while I was
+developing this approach. A notch or two more
+throttle will help pull you around quickly. Keep
+banging that space bar!
+By the time you've downed the fourth fighter,
+you will be very close to the enemy airbase.
+Surprise! Fighter number 5 is back on the ground,
+where you can't harm him even with your bomb!
+He won't take off until you enter the square where
+the enemy ammo dump is — your mission was to
+bomb it, remember? This guy is faster than stink
+and, if you head toward the target now, he will be
+on you from behind faster than you can turn
+around! Instead, circle back toward the northeast
+and don't go for the dump until you get back up
+near the mountains. As soon as number five comes
+after you, turn and deal with him as you did with
+the others. Once the skies are clear, you can bomb
+the dump at your leisure. This gives you an
+additional 3 points and you can now take your 8
+point total back home to refuel, rearm, and try the
+whole thing over again. Good hunting!
+
+A REVIEW
+BASIC INFORMATION
+NAME:
+
+Bug Attack
+
+TYPE:
+
+Arcade
+
+SYSTEM:
+
+Apple II and Atari 400/800
+
+FORMAT:
+
+Diskette
+
+# PLAYERS: 1
+AUTHOR:
+
+James L. Nitchals
+
+PRICE:
+
+$29.95
+
+PUBLISHER: Cavalier Computer
+P.O. Box 2032
+Del Mar, CA 92014
+(714) 755-8143
+
+Centipedes, the popular arcade game with the
+multi-colored dancing spiders, the kamikaze fleas,
+and the endless procession of centipedes, is my
+current arcade obsession. So it was with a great
+deal of anticipation that I booted up Bug Attack,
+by Cavalier Computer.
+The player begins Bug Attack with three beetles,
+which can be moved laterally across the bottom of
+the screen. Movement is accomplished by either
+the A/S and or arrow keys, or a game paddle. The
+beetles come equipped with stingers, which are
+fired by either pressing the space bar or the paddle
+button. At the lower left corner of the screen is
+stacked the number of beetles remaining to the
+player. At the top of the screen are the counters for
+the amount of fuel remaining and the player's
+score.
+The graphics of all aspects of Bug Attack are an
+impressive combination of imagery and color.
+Like Centipedes the playing field is dotted with
+randomly placed vegetation. The vegetation in
+Bug Attack, however, varies throughout the
+game; thus far, I've encountered cactus, clovers,
+and bouquets. The insects also vary, with successive
+waves of ants, millipedes, and medflies¬
+
+by Dave Jones
+
+bombarding the player. One of the most appealing
+aspects of the game is the imaginative use of color.
+Each level of play is represented by a different
+color, with the vegetation and the insects changing
+hue as the player advances.
+The insects in Bug Attack are organized into
+waves of ants, millipedes, and medflies. To the
+tune of "When Johnny Comes Marching Home",
+the attack begins with a random placement of
+ants marching back and forth across the screen.
+In wave two, a millipede snakes its way down the
+screen, moving left to right and back again,
+dropping a level at each end of the screen. The
+millipede bears the closest resemblance to the
+arcade's centipede, but unlike Centipedes, striking
+a section of the millipede does not alter the path of
+the rest of the millipede. Wave three consists of
+medflies. The medflies begin in a column like the
+millipede, but follow a semi-circular path around
+the screen. As the column works across the screen,
+individual medflies drop out of the column to
+pursue their own erratic pattern. Only the ants are
+affected by the vegetation on the screen, reversing
+direction and dropping a level when encountering
+the obstruction. The other insects simply move
+through the vegetation.
+Striking an insect with the beetle's stinger
+transforms the bug into vegetation; firing three
+stingers into the vegetation removes the vegetation
+from the screen. Interception of an insect and
+beetle results in the beetle's demise in an explosion
+of color and sound. In addition, the bugs all come
+loaded to the teeth (mandibles?) with an endless
+supply of wicked looking daggers which they hurl
+downward as they trek across the screen. Needless
+to say, the daggers are also inimical to the wellbeing of the beetle. One frustrating aspect of the
+game is that insects can drop daggers with impunity from atop or behind vegetation, but that
+same vegetation blocks any stingers fired at the
+insect. One quickly learns to clear firing lanes
+through the vegetation to allow clear shots at the
+bugs.
+
+Continued on page 38
+
+PINBALL
+MANIA
+by Stanley Greenlaw
+played. To store the high scores on disk you must
+snip out the write protect tab, unfortunately this
+negates your warranty. Thus, Broderbund has left
+us with an undesirable decision to make. I, for one,
+like the all time scores and have altered the
+diskette accordingly.
+
+BASIC INFORMATION
+NAME:
+
+David's Midnight Magic
+
+TYPE:
+
+Pinball Arcade Game
+
+SYSTEM:
+
+Apple II or Apple II Plus
+
+FORMAT:
+
+Diskette (DOS
+
+3.2
+
+48K
+
+or 3.3)
+
+# PLAYERS: 1 to 4
+AUTHOR:
+
+David Snider
+
+PRICE:
+
+$34.95
+
+PUBLISHER: Broderbund Software
+Vista Wood Way
+San Rafael, CA 94901
+
+2
+
+(415) 456-6424
+
+Until this week I thought that I had outgrown
+the all-night game playing binge. So why did I
+look at my watch and see that it was 2:30 AM and I
+was still playing the game I had started earlier in
+the evening? When I have friends over to play
+computer games I, from time to time, remind the
+more zealous players that they need not pound the
+keyboard to bits in order to destroy whatever foe
+they are facing. So why is it that I find myself
+pounding the keyboard so hard that I've caused
+the game to bomb several times? I used to think I
+was a completely sane person. So why did I almost
+throw my Apple out the window when I had 59
+bonus points, a 3x multiplier and then tilted the
+game? I can blame David Snider and Broderbund
+Software for my irrational behavior. It's all due to
+their new game DAVID'S MIDNIGHT MAGIC.
+Players of RASTER BLASTER will instantly
+recognize MAGIC. MAGIC has the same feel as
+the earlier RASTER BLASTER however MAGIC
+is a better game.
+MAGIC is a traditional pinball game that can
+be played on your Apple II computer. The graphics,
+colors, and sounds all combine to produce a very
+realistic pinball game. Up to 4 people can play at a
+time (alternating turns) with top ten scores listed
+after the game. One thing I like very much about
+MAGIC is that, if you wish, the scores are dis-
+
+The pinball field is divided into an upper and a
+lower playing area. Each area has a pair of left
+and right flippers. The flippers are controlled by
+the game paddle buttons. Each button controls
+two flippers (i.e. the left button controls the left
+flipper on both levels). As with an arcade pinball
+game bonus points are scored for hitting certain
+rollovers, gates, etc.
+Although I do not claim to be a pinball wizard I
+have found certain strategies that lead to good
+scoring possibilities. I found that if I divide the
+game into an upper level game and a lower level
+game I can create a high scoring situation.
+Upper level play — 1) Try to keep the ball on
+this level as long as possible by keeping the ball to
+the left of the left flipper. 2) Develop a technique
+for getting the ball to roll down the left side incline.
+' As the ball reaches the left flipper try to hit the ball
+into the "S" trap. This will score 10 bonus points
+and will set up multiple ball play later. While
+trying to get the ball into the "S" trap you will
+most likely hit the five drop targets on the left,
+thus scoring 5,000 and 5 more bonus points.
+Lower level play — Once the ball gets down to
+the lower level concentrate on two things: 1) kick
+the ball through the loop at the upper end of this
+level; 2) get the ball back up to the upper level. The
+former will increase the multiplier (thus shooting
+your score way up there if you have a lot of bonus
+points), while the latter will again increase your
+chances of getting bonus points.
+Something new with MAGIC is the ability to
+"jostle" the game to get extra bounce on your
+shots. This feature, along with the related TILT
+possibility adds a lot to the game. You "jostle" the
+game by hitting the space bar during your shot.
+Some practice here can really help your score.
+However, too much "jostling" can cause a tilt
+which will cause not only the loss of the ball in
+
+Continued on page 38
+
+MICRO - REVIEWS
+CREATURE VENTURE
+BASIC INFORMATION
+NAME:
+
+Creature Venture
+
+TYPE:
+
+Text Adventure Game
+
+SYSTEM:
+
+Apple II (Applesoft, 48K)
+
+FORMAT:
+
+Diskette
+
+# PLAYERS: 1
+AUTHOR:
+PRICE:
+
+$24.95
+
+PUBLISHER: Highlands Computer Services
+
+Stashbuck mansion is the setting for CREAan adventure game that
+utilizes Hi-Res graphics and some clever animation. Your goal is to rid Stashbuck mansion of the
+creatures that are haunting it and to find the
+treasure that your Uncle Stashbuck buried just
+before his death.
+
+TURE VENTURE,
+
+Along the way you will come across objects to
+help you in your quest, including a key, a jar of
+water, a swarm of fireflies, and a bat in a cage.
+Some of the monsters or creatures that you will
+encounter are the boogeyman, the gooey oozlebub,
+and Lucifer himself. Other hazards include a maze
+and a cave-in.
+
+CREATURE VENTURE
+
+abounds with secret
+passages. You must find the clues to the magic
+words that open them. The program, also, gives
+hints in the form of riddles. For instance, a note on
+a bed reads, "Goldie slept here but Alice was
+smarter". Lewis Carroll fans should not have
+much trouble with that one.
+The program is self-documenting. All the instruction needed to run are contained within the
+program. Normally you communicate with the
+program with two word commands but for the
+directions and inventory a one letter command is
+sufficient. Also, it is only necessary to enter the
+first three letters of the verb and the first four
+letters of the noun.
+
+CREATURE VENTURE has a save game
+feature which comes in handy because the program
+tends to end rather abruptly. Another nice feature
+is the summary of commands. Pressing return will
+display the last ten commands. After you have
+ridded Stashbuck mansion of the creatures and
+found the treasure you are offered a chance to play
+the master game and find yet more treasure.
+I think CREATURE VENTURE is an excel-
+
+lent game for beginning adventurers. Many adventure gaves leave the beginner stuck in one spot
+and unable to continue. If you get stuck with
+CREATURE VENTURE, you can always move
+to another part of the mansion, and perhaps find a
+clue to help you with your previous problem.
+Just because CREATURE VENTURE is good
+for beginners does not mean it can not be enjoyed
+by experienced adventure players as well. It will
+provide many hours of challenging entertainment
+for even the seasoned expert. In conclusion I
+would recommend CREATURE VENTURE for
+either the novice or expert. I do not think you will
+be disappointed.
+Computer
+CREATURE VENTURE, by Highlands
+Services, runs on the Apple II (Applesoft,
+48K. disk) - $ 24.95.
+William Zurfluh
+
+DON'T FORGET TO
+MAIL IN THE
+"READER'S
+INPUT
+DEVICE"
+(p. 40)
+ZOSSED IN SPACE
+ZOSSED IN SPACE (Adventures International,
+Box 3435, Longwood, Fla. 32750) $14.95, cassette;
+16K TRS-80; sound, one player, playing time 10
+min. to 45 min.; cannot be saved.
+Zossed in Space is a machine language program
+that challenges you to pilot your trading ship
+through 100 sectors of space, overcome a variety of
+problems, accumulate 100 trading units and
+destroy 10 enemy ships. You have 3 ways of
+fueling, 2 ways of accumulating trading units and
+dozens of ways of getting killed in the attempt.
+Your ship moves from the bottom of the screen to
+the top for each sector. As it appears at the bottom
+of the next sector, the scene changes. And should a
+piece of anti-matter or a meteorite be sitting
+there —BANG.
+There are over a dozen different types of sectors,
+from a maze of anti-matter, to a black hole, to a
+vortex. Once you have been through them a few
+times you will find a strategy which will usually
+get you past. Some of them are so totally random
+Continued on page 38
+
+PINBALL: Continued from page 35
+play but also any bonus points gained with that
+particular ball (hence my irrational behavior mentioned above).
+There also is, under certain circumstances, a
+feature for saving a ball about to be lost down one
+of the side columns. Unfortunately, to activate
+this feature requires striking the z, x, c or v key for
+the left side column or the m, / key for the right
+column. It is very difficult to hit these keys while
+your hands are tied up with the game paddles, and
+fractions of a second are all important. I just try to
+hit the appropriate row of keys with my palm
+hoping that the inevitable "jostle" that will also
+occur (you can't help hitting the space bar this
+way) will not tilt the game.
+In conclusion, I enjoyed DAVID'S MIDNIGHT
+MAGIC immensely and recommend it to anyone
+even remotely interested in pinball action games.
+
+ZOSSED: Continued from page 36
+that they defy analysis. Beating this will not be a
+snap, no matter how much experience you have.
+One other interesting thing about Zossed in
+Space is the use of sound. It is not just an
+embellishment as, in many cases, it is the only
+warning you will get that a problem has cropped
+up.
+While this is an arcade style game, graphics are
+it's weakest feature. Surprisingly, this ceased to
+bother me after I had played a few games. The lack
+of a save game routine annoyed me more, though
+you can put the game on hold while answering the
+phone or putting out dinner.
+This is the kind of game you can introduce to a
+visitor with only a couple of minutes instruction,
+as well as play yourself on a continuing basis. If
+you find yourself stuffing too many quarters into
+arcade machines, this is a fairly good alternative.
+John L.Vogel
+
+BUG ATTACK: Continued from page 34
+
+off the sound for the entire game just to avoid its
+noxious effect.
+
+Each 'garden' in Bug Attack is made up of a
+wave of ants, a wave of millipedes, and a wave of
+medflies. The player begins each garden with the
+fuel counter set at 99. If he fails to clear all three
+waves before the fuel runs out, his beetle will selfdestruct. Losing the beetle in the midst of a wave
+causes the counter to be reset, a fresh pattern of
+vegetation to be redrawn (filing in any firing lanes
+the player may have succeeded in clearing), and
+the wave to restart with a full complement of
+insects. As the player progresses through the
+game, the gardens become more difficult, with
+more ants appearing on the screen (though apparently not more millipedes or medflies), more
+vegetation congesting the screen, and the insects
+dropping daggers with greater speed and frequency.
+In between every two gardens, the action shifts
+slightly. During one such intermission, some sort
+of tableau is staged (it appears to be a dancing bug
+being eaten by a flower); in another, the player
+faces a millipede that carries no daggers, but
+speeds up every time a stinger is fired; and in a
+third, the player faces medflies flying in a
+different formation.
+
+Although the game can be played with the
+keyboard, my experience is that the level of control
+available using keys is inadequate to effectively
+master or enjoy the game. Game paddles are
+highly recommended. Also, the variety of colors in
+the game make Bug Attack one of the most
+beautiful games available for the Apple. Naturally
+the game can be played on a B/W or green
+monitor, but much of the game's appeal will be
+lost.
+
+In general, the sound effects accompanying the
+game enhance play. Appropriate noises accompany the firing of stingers, the transformation of
+bugs into vegetation, and the totaling of the score
+at the end of each insect wave. My one complaint
+about the game is the irksome screeching that
+accompanies the display of the title screen which
+occurs every time the player loses his last beetle. I
+found the noise to be so offensive that I would turn
+
+Centipedes aficionados and arcade purists, who
+insist on an absolute replication of an arcade
+game, will be disappointed with Bug Attack.
+Beyond a common fascination with entomology
+and an imaginative use of color, the two games are
+very dissimilar. The game strategy and mechanics
+of Bug Attack bear no resemblance to those of
+Centipedes. But do not let this dissuade you from
+taking a look at the game; Bug Attack is an
+excellent game in its own right. Normally, I tire
+quickly of arcade games, as the monotony of repeated play sets in. But the novel touches of Bug
+Attack, such as the variety of vegetations and
+patterns of color, and the intermissions which
+break up the action between insect waves, served
+to maintain my interest in the game hour after
+hour. The author of the game is to be complemented on his packing such a successful combination of imaginative flair and technical expertise
+into the confines of the Apple II.
+Bug Attack, from Cavalier Computer, is available for the Apple II (48K) $29.95.
+
+NAPOLEON: Continued from page 14
+large battle on an unwilling foe, allowing for the
+total destruction of the enemy force. Leadership
+was especially crucial in the Napoleonic battles,
+and playing Napoleon's campaigns shows that
+Napoleon can be worth as much as 100,000 men in
+combat.
+11.3 Lines of communication were important for
+both supply and morale reasons. Units cut off
+from their supply lines would not be able to recover
+from their actions as would a unit in supply.
+Armies (especially Allied ones) were often very
+concerned about maintaining their communications lines. In fact it was this fact which Napoleon
+tried to take advantage of in the Waterloo campaign
+(failing when Blucher went against all reason and
+retreated his army from his communications and
+towards Waterloo). Because of this, we have given
+units on their uncut communications lines the
+DOCUMENTATION: Continued from page 23
+house beneath its tongue and the great
+armies of the Dead Lord used its spine for
+maneuvers.
+The Alkemstone itself was formed in the hollow
+between the Spectral Serpent's eyes, and nourished
+there like a baby.
+The goal at least, was to provide a context for the
+game that followed and a fantasy anchor-point for
+the players.
+A good manual will not save a bad game, but it
+will make a good game much better, more accessible, and more satisfying.
+I believe that in the future computer game
+manuals will contain fewer and fewer basic
+operating instructions. We're fast discovering that
+the software itself can provide smoother and
+
+ability to recover from fatigue faster than otherwise possible. The French army put less emphasis
+on maintaining communications with the rear
+areas (since they were usually attacking and thus
+constantly changing the rear area), and for this
+reason we have allowed the French to ignore their
+corn lines for the first 4 days of each campaign.
+14.0 Communications lines were also developed
+for the purpose of funneling the movement of
+armies, causing each army to decide where it will
+launch its offensive operations ahead of time.
+Most armies found it necessary to advance along
+major roads, with the details for supplying the
+army prearranged. The corn line forces this for in
+order to move quickly without fatiguing, an army
+must advance along its corn line (using force
+orders). Thus, although players may leave their
+com line, it becomes difficult to maintain control
+over the advance of their army if they do.
+faster instruction when programmed with enough
+thought. I believe the manual will ultimately b
+part of a multi-media approach including software
+book, playing map and other artifacts —
+packaged fantasy world. Perhaps for a mystery:
+computer game we would even include the clue.
+for the player to examine physically. Reading the
+manual would be like finding the guidebook to
+lost or parallel world on your front sidewalk. You
+would pick up this guidebook, read it, and suddenly:
+find yourself transformed into a citizen of this.
+other world, until recently afflicted with amnesia
+The book would make you want to return there
+The computer would provide a viewscreen
+that world.
+With more sophisticated software we will see
+new medium of entertainment to rival the theater
+TV, movies. The manuals for this new medium
+will have to become part of the presentation; par
+of the fantasy.
+
+READER INPUT DEVICE
+We want your opinion. Please clip or photocopy
+this page, fill it out, and send it in. One of the best
+ways of expressing what you like or dislike about
+CGW and computer games is to send in this form.
+Let us know what you think.
+GAMES
+
+Rate the following games which were treated in
+the first two issues of CGW. Use a scale of 1
+(terrible) to 9 (outstanding) for each of the
+categories below;
+PRESENTATION: Rate the graphics and sounds
+against other games that run on the same machine; GAME DESIGN: Rate the game design
+itself. Apart from the presentation is the game
+well designed, playable, interesting? Are there
+problems in the design which make the game less
+than it should be?; DOCUMENTATION: Does
+the documentation do what it is supposed to (i.e.
+provide the player with the pertinent information
+he needs to play the game well)? Is it well written.
+Is it interesting to read?; LIFE: Does the game
+wear well? Does one bore of the game easily or does
+it still command interest after multiple plays?;
+PRICE: Is the game worth what it sells for?
+
+ARTICLES
+Please rate the articles in this issue on a scale of 1
+(terrible) to 9 (outstanding). If the article doesn't
+interest you enter 0
+
+Enter 0 in the first box for a game which you have
+not played.
+
+What computer system do you own?
+What would you like to read about in CGW?
+
+Would you be interested in a poster series reproducing the various covers of CGW?
+Comments:
+
+

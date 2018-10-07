@@ -1,0 +1,2934 @@
+August 1989
+
+Number 62
+
+Features
+Special Report: More Games From C.E.S
+
+4
+
+Paragon's "Dr. Doom's Revenge"
+
+11
+
+A Cap, Doc, and Spidey Simulator / David M. Wilson
+
+Infocom's "Shogun"
+
+12
+14
+
+35
+
+Sierra's "Space Quest III"
+
+36
+
+Mindscape's "Hostage: Rescue Mission"
+
+38
+
+France's S.W.A.T. Team Simulator / Robert W. Struble
+
+16
+
+A "Cosmic Deity" Simulator From Britain / Biff Kritzen
+
+Britannica's "Archipelagos"
+
+Scorpion's Mail
+
+A Space Janitor Simulator / Chris Lombardi
+
+CGW's Test Lab Lists Tandy 16 Color Games
+
+Electronic Arts' "Populous"
+
+32
+
+Hints on "Manhunter", "Ultima V" and more / Scorpia
+
+A "Richard Chamberlain" Simulator / Dave Arneson
+
+Color Me, Tandy!
+
+Sneak Preview: "Dragon Wars"
+Interplay's New "Fire - Breathing" Simulator
+
+CGW Revisits the Summer Consumer Electronics Show
+
+Why Is "Harpoon" So Late?
+
+42
+
+An "Apology" Simulator
+
+19
+
+A Puzzling Challenge From Britain / Wyatt Lee
+
+Sierra's "Silpheed"
+
+22
+
+Departments
+
+Japan's Samurai Space Pilot Simulator / Sheila A. Carter
+
+What Warped and "Tangled Tales" We Weave 26
+Origin's "Twist" Simulator / Scorpia
+
+Simulations Canada's "Northern Fleet"
+A "Cold Water" Simulator / M. Evan Brooks
+
+29
+
+Taking a Peek
+Conversions Received
+Game Ratings
+CGW Hall of Fame
+Reader Input Device
+
+6
+7
+24
+25
+48
+
+Summer C.E.S. (continued)
+
+s we stood in the
+Orange County
+Airport's baggage
+claim area awaiting our
+baggage from the Consumer Electronics Show,
+we forced our minds to
+stay active by reflecting
+on the products we had
+seen. Boxes of show displays and media kits
+from other computeroriented companies in
+Orange County drifted
+by on the conveyor belt
+as we remembered to .. .
+
+More Games from
+the Consumer
+Electronics Show
+
+"Praise the Lord
+and Pass the
+Ammunition"
+Although the pure wargame seems to be a
+fading genre, Strategic
+Simulations, Inc. was
+preparing to release Red Lightning (on
+IBM and Atari ST), an approach to World
+War III in the European Theatre, and
+Storm Across Europe (C-64), a strategic
+level game using area movement in
+World War II Europe (by the author of
+Colonial Conquest, Dan Cermak). In addition, CGW was informed that Gary
+Grigsby is at work on two long-term
+projects, a World War III game which will
+allow enthusiasts to play with the mix of
+detail they desire, and War in Russia II,
+an updated and enhanced version of the
+Hall of Fame member.
+SSI is not content to simply produce
+historical wargames, however. David
+Landrey, co-designer of the ACW series
+and Battles of Napoleon, is working on a
+pure wargame to be set in the Dragonlance world. In addition, the company is
+close to releasing Sword of Aragon, a
+fantasy wargame with a role-playing flavor
+which seeks to unify fantasy, economic,
+and military elements into one game.
+Avalon Hill Microcomputer Games
+had some surprises up their sleeves.
+Their Atari ST programmers have been
+keeping their compilers hot on World
+War II Wipeout!, based on Victory
+Games' Ambush! (the boardgame hit),
+and the parent company's Third Reich,
+the strategic level campaign game for the
+European Theatre during World War II.
+We were impressed by the game's appearance and are looking forward to getting hands-on experience with the game.
+Military simulations from a first-person
+viewpoint continue to be developed, however. Spectrum Holobyte's Tank will feature authentically modeled polygon-filled
+terrain (courtesy of DARPA's database) in
+order to represent three different types of
+terrain: Ft. Knox (for training), the Middle
+East, and Western Europe. The game
+
+can be played in a simple arcade mode
+or used as a command perspective on
+the platoon level. The controls look like
+authentic M1A1 controls, but the designers have had to add a few extra icons to
+indicate terrain elevation and other matters you would know intuitively in a real
+tank. Fog of war is extremely relevant at
+the highest difficulty level, but is no problem at the lower levels. For those who
+are not arcade oriented, the game does
+not have to be played first-person real
+time. Instead, one can give orders and sit
+back and watch the conflict. This game
+will also be part of the "Electronic Battlefield" series of networkable games to
+come from Spectrum Holobyte.
+Regular CGW readers are already somewhat aware of Microprose's M-1 Tank
+Platoon. In this game, players command
+one unit each of Abrams and Bradley
+AFVs. In addition, there are three different types of artillery support available
+and an A-10 which can be called in for
+air support. The action in this game is intense. Military doctrine has been applied
+more correctly than with any tank simulation to date. The tanks are polygon-filled
+forms, as is the terrain, so the screens
+scroll quickly and everything is fastmoving. There are lots of details in this
+product that you have to see to believe.
+Broderbund's Wolf Pack is not only
+the company's first full VGA game, supporting the entire 256 color palette on
+the IBM, but it allows players to set the
+year of the war (affecting equipment) and
+design scenarios. They are attempting to
+develop a two-player possibility where
+one player (Allies) commands surface
+units and the other (Axis) commands the
+submarines.
+Accolade's Eye of the Storm was
+developed by the team that designed
+Thud Ridge for Three-Sixty. This UH-1
+
+Huey game will use threedimensional filled polygons to
+depict twelve different missions. It is a mission-based
+game with a limited tour of
+duty. Dynamix's A-10
+Thunderbolt II: Tank Killer
+will use VGA graphics with a
+faster frame rate than the
+EGA mode. In accordance
+with the Dynamix
+philosophy, the flight model
+is very easy, but the game allows scenario building to
+allow the player to establish
+his own goals and plenty of
+special effects to simulate
+nap of the earth flying and
+more.
+
+Koei is continuing to work
+on Bandit Kings of Ancient
+China, based on the book
+(Men of the Marshes) which
+inspired Mao Tse-Tung to
+develop his guerrilla tactics.
+"The Victors"
+Sports games will still be hot in the latter portion of 1989. Electronic Arts will
+release an NBA-licensed, five on five, action game entitled Lakers vs. Celtics
+(IBM); Melbourne House will follow the
+success of John Elway's Quarterback
+with Oral Hershiser's Strike Zone, Shark
+Attack: Greg Norman's Ultimate Golf,
+and Rick Davis's World Trophy Soccer;
+Data East introduced their new MVP
+Sports line with ABC Monday Night Football (a game in the style of
+Cinemaware's 7V Sports Football); Accolade has provided for a team editor,
+seven different ballparks, better animation, and league play in Hardball II. They
+will also be releasing a game on international grand prix motorcycle racing, The
+Cycles, and an off-shore power boat
+racing game, Heat Wave. Meanwhile,
+Epyx is hard at work on California
+Games II.
+One of the most challenging sports
+games to be released this year will be
+Broderbund's Playmaker Football
+(Macintosh). This football game gives the
+player the perspective of general
+manager and coach in building up realistic teams and playbooks. Then, it uses a
+sophisticated artificial intelligence to run
+one or both teams. It is extremely
+amenable to league play.
+
+We're Back!
+Now that Summer C.E.S. is over, it is
+great to be back and have a chance to
+watch these programs with so much
+potential come rolling in. Right now,
+everyone is excited. We'll tell you later
+how well they actually play.
+
+Taking A Peek
+
+A.E.C., Inc.
+7506 Broadway Ext.,
+Suite 505
+Oklahoma City, OK 73116
+RETURN OF THE DINOSAURS: A
+dinosaur has slipped through a crack in
+time and is hiding somewhere in the
+player's hometown. He must find out
+what type of dinosaur it is and return it
+to its proper era via the Time
+Transporter. Sounds simple, right? This
+adventure game is really a fascinating
+tutorial that teaches database management to the whole family. The game features four levels of difficulty, and requires players to earn and manage
+money and food, work within time constraints, learn to manipulate a database,
+and explore the town and rural environment. This dino design is definitely different. IBM (pictured) and Apple IIC/E &
+GS ($39.95). Circle Reader Service #1.
+
+Bullseye Software
+P.O. Box 7900
+Incline Village, NV 89450
+FERRARI GRAND PRIX: Macintosh
+owners get the green flag with this Formula One racing simulation. Before
+taking the wheel, drivers can choose
+and handicap their competition, set their
+
+Ferrari's gear ratios, set pit stop ratios,
+and create their own courses and background scenery. Steering with the
+mouse can be a bit tricky, but all in all,
+an interesting treatment of a racing
+simulation. Mac ($59.95). Circle Reader
+Service #2.
+
+Cinemaware
+4165 Thousand Oaks Blvd.
+Westlake Village, CA 91362
+DARK SIDE: It's time again to save
+the world from imminent destruction in
+the latest release from Cinemaware's
+"Spotlight" line of software. The player
+must explore a hi-tech, futuristic military
+base and shut down the Zephyr One, an
+alien doomsday device set on final
+countdown. Players must explore the different sectors of the base and destroy
+enemy energy collectors, while refueling
+and recharging their own lasers and
+
+shields. The smooth scrolling graphics
+and odd colors schemes impart an eerie
+feel. Amiga (pictured), ST, & IBM
+($39.95), C-64 ($29.95). Circle Reader
+Service #3.
+DEATH BRINGER: To free the land
+of Mezron from the tyranny of the
+Deathbringer, the player must travel the
+land in search of five gems that, used
+together, can bring down the evil wizard.
+Similar in look and play to "Dungeon
+Master", this role-playing adventure
+takes you from dungeons to forests,
+towers and temples. A point and click interface makes it easy and fast to get
+around and communicate with the
+many inhabitants you meet (not all of
+them want your blood!), and the beautiful graphics and sound effects make this
+game a very impressive looking entry
+into the genre. Amiga (pictured) & ST
+($39.95). Circle Reader Service #4.
+
+($39.95) Amiga & ST ($29.95). Circle
+Reader Service #8.
+STARGOOSE: We are constantly
+being amazed at the quality of the action games that are being turned out on
+home computers and this game is no exception! One look at the outstanding,
+scrolling graphics on this European arcade hit and you'll see what we mean.
+The player must speed over a smoothly
+scrolling 3-D relief landscape and steal
+six crystals from eight different cities to
+win the game, all the while avoiding the
+usual assortment of machine gun nests,
+laser pill boxes, rocket launchers and attack vehicles. By entering underground
+tunnels, the player can refuel and
+recharge his missiles and shields. The
+tunnel sequences change the perspective to a more traditional 3-D scroll.
+You'll be taking a familiar trip with this
+product, but it never looked better! IBM
+($39.95). Circle Reader Service #9.
+
+Titus Software
+20432 Corisco Street
+Chatsworth, CA 91311
+MLSA
+2201 Drummond Plaza
+Newark, Delaware 19711
+MICROLEAGUE BASEBALL II: This
+stat-based product can be the cure for
+those with that armchair managing itch.
+Players manage one of 32 famous
+teams or create their own for league
+play. With the general manager disk,
+players can draft and trade players as
+well as bring up budding youngsters
+from the farm. A complete set of
+managerial functions let you run the
+show, and a stat disk compiles box
+scores and accumulates league stats.
+Everything a fanatic needs is here, except perhaps a drug testing and
+managerial wagering option! IBM
+($49.95). Circle Reader Service # 5.
+
+Medalist International
+180 Lakefront Drive
+Hunt Valley, Maryland
+21030
+DESTROYER ESCORT: Players take
+command of a WWII class destroyer in
+this action/simulation game which looks
+a lot like Epyx's Destroyer. Commanders escort six different convoys
+through hostile waters, thwarting air attacks with anti-aircraft guns, sinking
+enemy vessels with torpedoes and mortar, and avoiding sub attacks with depth
+charge drops. The ability to vary difficulty
+levels keeps the missions challenging. C64 ($39.95). Circle Reader Service #6.
+
+TITAN: Just when you thought the
+
+Psygnosis
+c/o Computer Software Service
+2150 Executive Drive
+Addison, IL 60101
+BLOOD MONEY: Gone are the days
+when heroes battled evil aliens for the
+sake of honor, valor, and humanity.
+These days, they do it for a buck. In this
+tough joystick-buster, prospective space
+yuppies blast their way through hosts of
+strange creatures while beefing up their
+bankroll. The cash can by used to purchase ship equipment or that condo
+unit on the Andromedian coast. Players
+choose from four different planets, each
+increasing in profit potential and difficulty. Amiga ($49.95). Circle Reader Service #7.
+
+Spinnaker Software
+One Kendall Square
+Cambridge, MA 02139
+QUADRALIEN: Alien nasties have invaded Powerstation ASTRA, contaminating it with radiation and destroying the
+nuclear reactor's cooling system. Players
+direct six special droids on their mission
+to mop up the nuclear waste and
+destroy the responsible aliens before the
+reactor makes Chernobyl look like a
+camp fire. Nice VGA graphics on the
+IBM and a challenging strategic element
+make this a player. IBM (pictured),
+
+Breakout arcade system was dead and
+gone, this product provides another
+variation on the paddle n' brick idea.
+Players slap a "power sphere" around a
+3-D arena, attempting to disintegrate
+bricks while avoiding death squares.
+Eighty levels of fast scrolling graphics
+provide the block breaking challenge.
+IBM (pictured), Amiga & ST ($44.95), C64 ($39.95). Circle Reader Service #10.
+
+Conversions Received
+Airball (Microdeal) IBM
+Baal (Psygnosis) C-64
+Decisive Battles of ACW (SSG) IBM
+Demon Stalkers (EA) IBM
+Designasaurus (Britannica) Amiga
+Dinosaurs Are Forever
+(Polarware) Amiga
+Fast Break (Accolade) Amiga
+4th & Inches Construction Disk
+(Accolade) Mac
+Grand Prix Circuit (Accolade) Amiga
+Gunship (Microprose) Amiga
+Hole-In-One Miniature Golf
+(Digitek) IBM
+Jack Nicklaus Golf (Accolade) Amiga
+John Elway's QB
+(Melbourne House) Apple IIGS
+John Madden Football (EA) Apple
+Legacy of the Ancients (EA) IBM
+The Magic Candle (Mindcraft) C-64
+Ocean Ranger (Activision) IBM
+Speedball (Spotlight) Amiga
+Total Eclipse (Spotlight) Amiga
+World Class Leader Board
+(Access) IBM, Amiga
+
+Review
+
+C
+
+aptain America
+and Spiderman
+both love New
+York. Dr. Doom,
+monarch of Latveria,
+mad scientist and allaround bad guy wants to
+turn New York into
+Nuked York and he's got
+a stolen nuclear missile
+with which to accomplish
+the task. Cap and Spidey
+sneak into Doom's
+fortress. Captain America
+searches for Dr. Doom
+while our friendly neighborhood Spiderman sets
+out to stop the launch of
+the missile. The
+countdown has already
+begun.
+Doom has assembled an
+awesome group of super
+bad guys to defeat our
+heroes. Cap and Spidey
+will face some of the most
+despicable characters ever
+to grace the pages of a
+comic book or the screen
+of a monitor. These
+dudes are bad!
+Paragon bills Dr. Doom's Revenge as an interactive comic
+book. If comics are perceived as primarily being visual, this is
+definitely the case. The art work is definitely the strong point in
+this product. The EGA graphics are high quality and just as colorful as the comic books themselves.
+There are two types of screens in the game, comic panels and
+action screens. The comic panels use great artwork to introduce
+the action sequences and tie each sequence into the storyline.
+Comic screens also serve as the place where players save or restore games. The action sequences also have excellent artwork.
+Higher speed machines will see a bit more background animation, but not enough to really enhance the game to any great extent.
+
+Comic Belief (The Good and Bad)
+Unfortunately, a game needs more than great graphics to be exciting. The stunning visual qualities are greatly overshadowed by
+the limitations of this action arcade game. The game runs slowly
+and the controls seem extremely unresponsive.
+The game is a step in the right direction for comicdom, because the characters don't just look like the famous heroes, as
+they did in Data East's Batman and First Star's Superman,
+they have the opportunity to perform like our heroes. Captain
+America actually fights like the comic book hero. He performs exaggerated mid-air somersaults, acrobatics, flips, etc. and throws
+his mighty shield. Spiderman is a true wall-crawler. He clings to
+ceilings and walls and also does crazy acrobatics. The only difference between the comic and computer incarnations of these
+heroes is that Spiderman's webs behave like clubs instead of
+webs. This means Spidey can't catch thieves "just like flies" (as
+the old T.V. cartoon theme used to say). Super villains like the
+Hobgoblin, Oddball, the Hulk, Boomerang, Electro, Batroc, and
+the Grey Gargoyle as well as Dr. Doom himself cavort about the
+monitor in the appropriate style.
+However, a glaring weakness is that players have few, if any,
+
+DON'T
+
+MESS
+AROUND
+WITH
+"DOOM"!
+by David M. Wilson
+
+Dr. Doom's Revenge
+IBM
+Amiga, Atari ST and C-64 planned
+REVIEWED:
+IBM
+PRICE:
+$44.95
+Mark E. Seremet
+DESIGNER:
+Paragon Software
+PUBLISHER:
+DISTRIBUTOR: Medalist International
+Hunt Valley, MD.
+
+TITLE:
+SYSTEMS:
+
+choices to make throughout
+the game. The program has
+predetermined the rooms that
+Spidey and Cap will enter, as
+well as the villains they will
+face. If you find it somewhat
+odd that Cap will battle Dr.
+Doom (traditionally the Fantastic Four's arch nemesis) then
+you'll be puzzled that Cap will
+also battle Rhino and Electro
+(traditionally Spiderman's
+foes). Players have nothing to
+decide except when to jump,
+hit , dodge, avoid, throw, etc.
+The game is similar to games
+like Renegade or Bad Dudes
+in that game play simply consists of one fight after
+another. That is all there is to
+it. Further, if Spiderman or
+Captain America should happen to lose a battle individually, the game is over. There is
+no chance for the other to
+complete their mission.
+
+The greatest disappointment
+is the disk access time between screens. As important
+as the comic panels are, they
+slow the game down considerably. Perhaps an option could've been added to allow the player
+to skip the comic screen. The disk access from boot to restored
+game (all the way to the action sequence) takes approximately
+three and one half minutes (on an 8088 with CGA graphics about three minutes and 50 seconds on a 286 with EGA
+graphics). The program runs so slowly that players have the opportunity to read almost the complete comic book that comes
+with the game while they wait for a chance to play. If this were
+true only of rebooting the program, the game might prove more
+exciting, but every screen loads sluggishly.
+The Key disk copy protection scheme adds to the aggravation
+of trying to get back to a saved game. Restoring from within the
+game will only restore players at partial strength. Often, to defeat
+a foe, players will need to be at full strength. Backing out of the
+game completely and restoring the last saved position returns
+players at full strength. To get back into the game, players are
+asked questions about their system, level of play and then two
+trivia questions from the biography section of the players manual.
+Then, the insertion of a key disk is required in order to play on
+the copied disks. This game would drive the owner of a single
+floppy drive insane. Inserting the Key disk after having to answer
+questions which could only be found in the game manual seems
+overly cautious.
+When players encounter a foe they simply cannot defeat on the
+upper levels, it is possible to exit the game, return on the beginner level, beat the unbeatable foe (right the unrightable wrong,
+reach the unreachable star, etc.), save, and finally, restore the
+game at the hero or superhero level.
+
+My Kingdom For A Plot
+Dr. Doom's Revenge moves one step forward, two steps back
+for comic-based action games. Most fans would like a little more
+mystery and a little more ability to affect the plot. Comic fans are
+thinking people. Stan Lee has consistently bragged that Marvel
+Comics were the first comics to use college-level vocabulary.
+Computer game producers will soon recognize that garners want
+a little more than just action.
+
+Review
+
+Is It "Shogun"?
+Nope! It's close, but no cigar! I've read the novel,
+waded through the mini-series, and even read the biography of Will Adams, the "real" pilot that Clavell based
+his novel on. In fact, reading the novel will certainly provide the player with some valuable tips on what he/she
+should do. The game, however, differs considerably
+from the novel.
+
+by Dave Arneson
+Dave Arneson is the co-designer of Dungeons &
+Dragons" and founder of Adventure Games, a board
+game company. He is currently involved in an RPG
+campaign based on 16th Century Japan.
+
+It Was a Dark and
+Stormy Night . . .
+A great storm batters
+your ship. After months at
+sea and a heroic crossing
+of two oceans, it looks
+like everything will soon
+be ending.
+As Infocom's Shogun
+opens, you find your
+player character standing
+at the ship's wheel in the
+midst of the storm. Talk
+about starting right in the
+middle of things!
+
+TITLE:
+SYSTEMS:
+
+REVIEWED:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Shogun
+Apple IIGS, IBM,
+Amiga, Atari ST, C-64-128
+Macintosh
+Macintosh
+$59.95
+Dave Lebling
+Infocom
+Menlo Park, CA
+
+In Shogun, the player
+adopts the persona of the
+English Sea Pilot, John
+Blackthorne. The game
+begins on board the
+Dutch Privateer, Erasmus,
+during the most intense
+portion of the aforementioned storm.
+On board with you is a deathly ill Captain, half-dead mate, and an almost totally debilitated crew.
+
+Dave collaborated directly with James
+Clavell, author of the novel, in designing the game. It should come as no
+surprise, therefore, to realize that Shogun requires the
+player to act and think like Blackthorne would have.
+
+Puzzle solving is non-existent. In the first sequence,
+the player is presented with a situation that a real ship's
+captain would have to solve. This is good! The bad part
+is that you have almost no idea what to do! This is not
+good. Here, success is determined by how well you, as
+Blackthorne, thinks and acts, as compared to Clavell's
+novel.
+Therefore, the first job is to get your ship safely into a
+small harbor. The ship may still be "wrecked," but you
+do not necessarily die! Once ashore, the intrepid Englishmen must make his way in a mysterious, war-torn land
+towards his goal.
+
+Literary license aside, however, there is another question which should be asked. Is Shogun, the game, true
+to 16th Century Medieval Japan? Ah, well, "would-be
+Anjin-Sans" (Honorable Needle Watchers), it does not
+taste like Sushi to my humble palate.
+Perhaps, an altogether more relevant question would
+be, "Is Shogun, the game, exciting?" Well, yes and no!
+Hark, Hatamoto! Is that a waffling noise I hear? There
+are some exciting situations, but rather than the stimulation of thinking one's way through to a logical solution,
+one is continually forced to play ..
+
+Guess The Parser!
+Failure to make the proper decision (note the singular!) means that death follows soon after. A wrong
+guess? DEATH! Deviate from the path? DEATH! Take
+too long to come up with the right verb? Death!
+Ah, Anjin-San, you may have noticed a subtle pattern
+emerging. Ah! You are wise in the ways of "The one
+true way" type of game. Thankfully, there are .. .
+
+Hints!
+When is a hint not a hint? When it doesn't help! One
+hint, two hints, four hints, six hints! If you haven't gotten
+it by the end of the list, the last hint should tell you exactly what to do. If you can't figure it out by then, you
+can't figure it out!
+To me, a hint is supposed to be a little shove in the
+right direction. Additional hints for a situation should
+add to your knowledge. In Zork Zero, the hints built on
+each other to the point of telling you exactly what to do.
+Well, at least most of the time. This brought about a
+low frustration level because players could get quickly
+back into the game. In Shogun, there were way too
+many occasions when the last hint was no clearer than
+the first one was. This brought about a very high frustration level.
+
+Artistic Backdrop
+The graphics in Shogun are quite intricate, stunning,
+and beautiful. The pictures are used as borders around
+the text, providing a very nice touch, and as part of the
+story line itself. Some pictures show the rewards
+received for successfully handling situations.
+Well, the pictures are certainly nice to look at and they
+do show what is happening, but they also carry almost
+no intrinsic information about what is happening. They
+are simply there to break up the text. They simply provide a backdrop and enhancement to the information
+conveyed in the text.
+Now, if the designer really wants to make optimal use
+of these illustrations, they need to convey some additional information beyond what is covered in the text. They
+
+should, in a phrase, provide clues and hints! In Shogun,
+unfortunately, they simply provide a nice atmosphere.
+
+Honorable Mentions
+Fortunately, there are some very nice facets about
+
+Shogun. First, there is a lot to the game. Players will not
+win the game without putting in several weeks of game
+play. There are plenty of items to locate, but the good
+news is that you do not have to find every item in order
+to win.
+Second, it is easy to save the game as you go. It is
+also, of course, a very good idea to do so. The nice fact
+about Shogun is that the game is presented like "Chapters" in a book. Therefore, there are enough logical stopping points that players will rarely need to stop "in the
+middle of things." There is also no problem about putting the game on your hard disk for easy saves and access.
+
+Wisdom for Anjin-San (General Hints)
+Once you get the drift of which verbs the parser is looking for, write them down. It will save trying to recall
+them and similar situations will tend to use the same
+command sequence throughout the game.
+Once you have figured out a "Chapter" (situation), it is
+time to save (immediately). This will save considerable
+grief.
+When a situation is described, pay close attention to it.
+Those seemingly meaningless details are important. For
+example (specific information follows), as the game
+opens, you are HUNGRY and NEED rest. So, you better
+get something to eat and manage to get some rest. Of
+course, there is also a raging storm about. Therefore,
+the ship's crew will have to man their stations before
+you go below. If no one is running the boat while you
+go below to snooze, the next sound you hear could be
+waves beating against the rocks ... ROCKS!! Not so obvious is getting something to eat. It is also not obvious
+that you cannot come back at a later time to eat the
+apple. The same is true of getting sleep and saving the
+pilot's log.
+Now, I have no trouble with a mistake in the middle of
+a storm resulting in a rapid demise. It is, after all, a
+crisis situation. However, my character is supposed to
+be an experienced pilot on a ship that he actually
+knows. Why don't I know anything, then? Not to mention the possibility of collapsing from lack of food and
+sleep, why don't I know how close my character is to
+"the edge?"
+This lack of knowledge is invariably fatal. It also means
+doing the same scene several times before solving it correctly. Further repetition is often required in order for
+players to acquire all the items in a scene which can
+score points.
+
+Which Way to the Emperor?
+Making your own inquiries is difficult, time consuming,
+and, many times, profitless. Assuming that everyone
+who plays the game has read the book seems a bit
+much to ask. Of course, having seen the mini-series
+helps, but reading the book is one's best bet with
+regard to finding a great deal of information. Players
+should keep a copy handy, along with a paper and
+pencil.
+
+Frankly, Shogun loses a lot of excitement from the
+book. There is no wandering off the beaten path to explore the land. Shogun is very linear. There is only "one
+true way" to success. Ah, yes!
+Once you succeed as AnjinSan, you can go
+back and get all
+those points you
+missed the first
+time. In the end,
+however, your
+path is still the
+same. Your major
+choices are unchanged.
+As text games
+go, however,
+Shogun is only
+mildly interesting. Nevertheless, messing around in 16th
+Century Japan should be "more than interesting!" This
+game could have been exceptional. Instead, it is merely
+ordinary. Fans of text games will probably like Shogun
+simply for the fact that it is a far different setting from
+the run of the mill fantasy or detective genre they are
+used to seeing.
+For those readers who are still unsure about the entire
+genre of text games, pass on Shogun. In this reviewer's
+opinion, Zork Zero offers a much more satisfying experience.
+
+CGW Test Lab
+
+The Owner's Guide
+to Tandy 16 Color
+Several owners of the IBM Compatible Tandy computers have
+expressed concern that, based on the packaging stickers, it was
+difficult to determine what games support Tandy 16 color
+graphics and which do not. Hence, Tandy Corporation loaned
+the CGW Test Lab a Tandy 1000 in order to determine which
+games do support Tandy 16 color graphics and which do not.
+The following chart shows those IBM games which support
+Tandy 16 color (whether or not it is specified on the package) or
+not. Note: Those games listed as "Yes" on this chart display in
+16 colors. Some games marked "No" simply display in four colors
+on all machines, but can still be played on the Tandy. The chart
+is based upon early game sequences and may not reflect
+the performance throughout the entire game.
+Title
+
+Publisher
+
+3D Game Maker
+Ancient Battles
+Annals of Rome
+Aussie Joker Poker
+Balance of Power 1990
+Barbarian
+The Bard's Tale II
+Battlechess
+Bionic Commando
+Candy Land
+Chessmaster 2100
+Chutes and Ladders
+Club Backgammon
+Contra
+Cosmos
+Cyber Cop
+Demon's Winter
+Double Dare
+Fast Break
+Firezone
+First Over Germany
+Guardians of Infinity
+Guerilla War
+Halls of Montezuma
+Heavy Metal
+
+Scorpion
+Scorpion
+PSS/Datasoft
+Aussie Joker Software
+Mindscape
+Melbourne House
+Electronic Arts
+Interplay
+Capcom
+Game Tek
+Software Toolworks
+Game Tek
+California Dreams
+Konami
+Ishi Press
+PSI
+SSI
+Game Tek
+Accolade
+PSS/Datasoft
+SSI
+Paragon
+Data East
+SSG
+Access
+
+Supports
+No
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+No
+Yes
+No
+No
+No
+No
+No
+No
+No
+Yes
+No
+No
+No
+Yes
+No
+Yes
+
+Heroes of the Lance
+Hidden Agenda
+High Seas
+Hollywood Squares
+The Honeymooners
+Indiana Jones and the
+Temple of Doom
+Jackal
+Jigsaw
+Kings of the Beach
+Life & Death
+The Magic Candle
+Magic Johnson's
+Basketball
+Mini-Putt
+Modem Wars
+Out Run
+Phantasm
+Platoon
+Pole Position II
+Presumed Guilty
+Rack'em
+Red Storm Rising
+Road Runner
+Scavengers of the
+Mutant World
+Serve & Volley
+Sky Shark
+Slots and Cards
+Sorceror Lord
+Space School Simulator
+Speedball
+Star Wars
+Steel Thunder
+Street Fighter
+Street Fighting Man
+Thunderchopper
+TKO
+Total Eclipse
+The Train
+Turbo Champion
+Cinder Fire
+Vulcan
+Wasteland
+Zany Golf
+Zoom
+
+SSI
+Springboard
+Garde'
+Game Tek
+First Row
+
+No
+No
+No
+No
+No
+
+Mindscape
+Konami
+Britannica
+Electronic Arts
+Software Toolworks
+Mindcraft
+
+Yes
+No
+No
+No
+No
+No
+
+Melbourne House
+Accolade
+Electronic Arts
+Mindscape
+Scorpion
+Data East
+Mindscape
+Cosmi
+Accolade
+Microprose
+Mindscape
+
+Yes
+Yes
+Yes
+Yes
+No
+No
+No
+No
+Yes
+Yes
+Yes
+No
+Yes
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+No
+Yes
+Yes
+Yes
+Yes
+No
+No
+Yes
+Yes
+Yes
+
+Review
+t was becoming increasingI
+hard to
+hear above the din
+resounding off the
+walls of the meeting hall. In front of the
+people, high on a platform overlooking
+the vast throng, stood a towering figure of a man. Speaking from a pulpit
+thrust out from the stage, his face
+twisted with emotion, the speaker
+was whipping the crowd into a
+frenzy of emotion.
+Appealing to their senses of right and wrong, good
+and bad, morality and
+immorality, he skillfully arid
+artfully pleaded his case.
+"Death and destruction to the
+evil infidels from the far
+side of the world! May fire
+and brimstone descend
+on them to cleanse and
+cauterize their soil! I shall
+use the POWER to rend
+their land with
+earthquakes! I shall use
+the POWER to twist and
+fold their earth and villages with volcanos! I
+shall use the POWER to
+wash their tainted ground
+with floods! I shall use
+the POWER to turn their
+fields and villages into
+putrid, rotting swamps! I
+shall use the POWER to
+visit them with a plague
+of ruthless, merciless
+knights! And finally I shall
+use the POWER to unleash the Armageddon of the Ages upon
+them and their children, so that for all
+time the history books will render glowing accounts of our land, our people,
+our leader, and our POWER!"
+The mass surged forward towards the
+leader in his pulpit. Swaying in a hypnotic state they moved as one large
+amoeba, one mind, one purpose, to
+meld with their leader; follow him
+across the seas; and give him strength,
+the strength to call forth the POWER.
+But as they began to move towards
+the exits of the hall, they paused at the
+sound of the distant rumbling that was
+becoming louder by the second. And as
+the walls of the parthenon began to
+shake and disintegrate down upon
+them, the leader came to the shattering
+realization that heathens also had the
+POWER ... and the time of the
+earthquakes was now upon them all.
+Populous is a British designed game
+that casts the player in the role of a
+leader, frankly God, or a god, or a deity
+(EA prefers the latter term). As a god, you
+manipulate nature and your people, (the
+chosen ones), to subdue those that are
+not your people (the rest of the world).
+The object, as in all apocalyptic struggles, is complete victory for the chosen
+ones. Sounds grim doesn't it? Yet the
+game was designed on a set of Lego"
+
+he is preparing to
+do the same to
+you! The game is a
+race to develop as
+fast as possible.
+The computer's Al is very sophisticated
+and learns your tactics, so time is of the
+essence.
+The basic function of the game is leveling land for your people to live on.
+Mountains and hills must be flattened
+out and gullies and oceans must be
+filled in so your people can settle. The land is made of com-
+
+And On The Eighth Day...
+by Biff Kritzen
+
+TITLE:
+DESIGNERS:
+SYSTEM:
+PRICE:
+PUBLISHER:
+
+Populous
+Peter Molyneux & Glenn Copes
+Amiga
+$49.95
+Electronic Arts
+San Mateo, CA
+
+bricks in a couple of evenings and as
+heavy-handed as the premise sounds, it
+really is a rather light-hearted game.
+As leader, the player must direct his
+people on a campaign of conquest that
+employs a variety of man-made and
+natural disasters to subjugate the enemy.
+Manna (in this case, closer to the
+Polynesian "mana", i.e. supernatural
+power, than the Hebrew's bread in the
+wilderness, "manna") is the coin of the
+realm in this game and it comes from the
+size of your population. Provide your
+people with flat lands to settle and they
+will begin to be "fruitful and multiply". As
+the size of their cultivatable fields increase, so will the size and sophistication
+of their dwellings. Hilly areas with lots of
+rocks will give you huts and hoes. Large
+flat plains will give you castles and
+swords. The more people, the more
+manna. The more manna, the more disasters you can inflict upon the enemy.
+These are simple economics that let you
+concentrate on the method of destruction you will unleash on the unsuspecting foe. Well, not totally unsuspecting, as
+
+puter Lego-like blocks, each
+block providing a flat surface
+to build on. The more contiguous flat blocks you
+have, the larger and more
+sophisticated the dwelling
+the inhabitants can build,
+with a castle being the pinnacle. Manna is produced
+by the people in their
+homes (kind of like little
+elves sitting home and
+spinning gold) and the
+more you have the more
+things you can effect. It
+costs manna to do everything, so economy of action is important. It costs
+manna to raise or lower
+land, so it's not good to
+go about flattening the
+countryside haphazardly, although the temptation to
+make over the world completely is a little hard to
+resist!
+As your manna level increases you get access to increasingly
+more powerful and deadly natural disasters that you can inflict on the infidel.
+Earthquakes rock the countryside and
+cause land to crumble into the sea,
+taking homes and people with it. The
+land can be rebuilt, but it takes time and
+manna. Swamps are deadlier yet, and volcanos can really give an opponent
+headaches. Rampaging knights are death
+and destruction machines that overrun all
+in their path, cutting a swath through the
+enemy lands and leaving behind burned
+out shells of buildings. They must be
+razed before the land can be built on
+again. Floods wipe out any land that is
+one or two blocks above sea level, so this
+is a good way to make your hillside villages oceanfront resorts. And finally there
+is Armageddon itself, a force that when
+unleashed draws all to that final battleground, where all men fight as one,
+and only one survives. Great stuff, huh?
+The game integrates all of the above
+marvelously well and the player can easily
+concentrate on the destruction at hand.
+The game screen has a strategic map
+showing the whole world ("in your
+hands") that is always on screen, a tactical map that shows any area you want to
+see and work on, a sliding manna scale
+that shows how much power you have
+and what is available in the way of
+
+destruction, and a point and click menu.
+It's elegantly simple in design and layout,
+and orders can be given and carried out
+instantaneously. The graphics are somewhat whimsical and very eye-catching,
+and the colors are simply stunning.
+There are four types of worlds to fight
+over, each one with its own gorgeous
+color palette: the lush, almost tropical
+grassworlds, with cool, refreshing greens
+and cobalt oceans; the sunny yellow, parched desert worlds; the frosty cold, blue
+and white ice worlds; and the ashen gray
+and red, rock and lava worlds. This is a
+beautiful game to watch, and visually rich
+to play.
+You can choose between "Conquest" (a
+set of 500 worlds to fight over), or "Custom games. In "Conquest" the computer
+sets the options and you must fight your
+way to the end, world by world. Five
+hundred worlds isn't as daunting as it
+would initially seem because, based on
+how well you do in each world, you may
+be skipped ahead several worlds as you
+call up the next game. I played around
+forty games in the Conquest series and
+was actually fighting at level 137. So you
+needn't spend the rest of your gaming
+life to finish the set. (But you may want
+
+to anyway.) Simply put, this game is as
+addictive as any that you'll ever play!
+Hours really fly by as you fight your way
+from one landscape to the next.
+If 500 worlds seems like too much to
+conquer, you can play the "Custom"
+game that lets you determine what disasters you or the computer can use in
+the game and what type of land you'll
+fight over. The computer can randomly
+generate thousands of different configurations so this is not a game that you'll
+ever find repetitive.
+Populous is a solitaire game but there is
+an option to play via modem. The computer opponent is excellent so whether
+you play solo or "face-to-face", by using
+the options to handicap the game, you'll
+be more than evenly matched.
+A sample game might go something
+like this. Initially you want to clear land
+for your starting people to build on.
+Don't do too much. You don't have a lot
+of manna to burn, and you want your
+people to spread out over a good sized
+area, which they will do more quickly if
+the cultivated area is smaller. Once they
+spread out, you can further smooth out
+the hills and let their settlements build up
+quickly. Keep an eye on the enemy and
+
+Environmental Impact Report
+Landscape Details
+The grass level is the easiest to play on, people can walk long distances
+to settle on new land, unlike the desert and ice where they walk a small
+distance and die.
+The highest weapon factors are:
+1. Grass landscape
+sword
+2. Rock landscape
+sword
+3. Ice landscape
+none
+4. Desert landscape
+ball and chain
+On the ice landscape, the castle produces the same amount of manna
+as a tent, so don't waste space with a castle.
+
+Building Tips
+Except on ice worlds, start out by building a castle (the best manna
+producer). Once finished, build down. This is done by reducing the level
+of a piece of land adjacent to the castle. This will turn the castle into a
+smaller building and produce a "walker" quicker, who will then settle a
+new piece of land. This technique is called "Sproging". Be sure to replace
+the land you dropped, so your castle will reappear.
+When building flat land from sea level, build up twice on the same spot
+and then flatten down once. This will save you extra builds and manna.
+It's also a good idea early on to keep an eye on the enemy leader. If he
+gets to big, drown or quake him.
+
+Acts of Nature
+A particularly nasty move is to volcano the enemy's plains. This forces
+him to flatten out the area, (using time and manna). If you have the
+power, volcano him twice in the same spot. This turns his land into Tibet,
+
+when you get enough power, quake their
+castles. As you become stronger, swamp
+'em. Send your leader and his people out
+towards the enemy lands to build settlements and fight anyone they come
+across. If you have enough manna, volcano them. Better yet, volcano them
+twice in the same area and create a huge
+stumbling block to their development.
+When you've settled a big enough area
+and they're busy trying to repair the
+quake, swamp and volcano damage,
+build up your leader and create a knight
+or two to go on a rampage. By then, if
+you're a good builder (and destroyer) you
+should have a larger population. Then
+decide whether you want to crush the
+baddies with knights, or "armageddon".
+Armageddon will garner you more points
+if you use it, but you don't get to watch
+your knights slash and burn their way
+through the enemy.
+The game may sound vicious and
+bloody, but it really isn't. The graphics
+and animation are done in such a whimsical manner that playing Populous is
+more like watching a Saturday morning
+cartoon, than sitting through "Platoon".
+This is a great game that you'll find yourself playing it over and over again.
+
+and he might as well forget about the area completely. If you get "voiced",
+just quake your own area and get rid of the rocks. Flatten it out and go
+on from there.
+Earthquakes are a real pain, not bad enough to kill you, just good for
+keeping you busy rebuilding. Keep doing it to him where he has a castle
+grouping.
+Floods turn the game around completely. If you're going to flood the
+enemy, be sure you have villages and people on high ground or you'll lose
+them along with the enemy. This is the "redefine the coastline" option.
+Your desert land in Las Vegas will turn into prime seaside resort property!
+If you get flooded, build land quickly and you can still save some of your
+people from drowning.
+Swamps are extremely deadly, especially if your leader is the one being
+swamped. Swamps can only be dropped on flat land, so keep that in
+mind.
+Knights are the most effective killing machines in the game. If you're
+trying to swamp one, you must get them right underfoot or they'll detour
+around them. Before creating a knight, try and get your leader's population and weapons factor at a maximum. This will give you a strong,
+longer lasting hunter-killer. Knights close together in the same area will
+join together.
+A good way to take over enemy settlements is to place you papal magnet in the center of the opponent's building. Your leader will then move to
+it and take over the building if he's strong enough. This also works to
+build up your leader's weapon factor. Put the magnet in a castle and he'll
+move to it and pick up the more advanced weapons.
+The main tip given by Peter Molyneux, the game designer, was: The
+Louisiana Strategy - If it moves swamp it, if it doesn't move swamp it
+anyway!
+
+Sneak Preview
+
+hat is reality? When
+since the land bridge necesdo thoughts actualsary to connect the stones
+ize into material
+with the obelisk cannot pass
+reality? Does what I think
+over water, sand, or conreally cause something to
+taminated terrain.
+actually be? What does
+Thus far, the game sounds
+philosophy have to do with
+fairly simple. Nevertheless,
+an action-strategy game? In
+there are several factors
+Britannica Software's Arwhich are not immediately
+chipelagos, the first release
+obvious, even in the early
+in the company's new "Fanscenarios.
+fare" line, the science fiction
+Nightmare
+by Wyatt Lee
+(or maybe Psy-ence Fiction)
+on PC Street
+behind the game is founded
+TITLE:
+Archipelagos
+The first factor is time. The
+on a literalization of quesSYSTEM:
+Amiga, Atari ST, IBM
+hostile environment is conREVIEWED:
+Amiga
+tions like these.
+PRICE:
+$39.95
+stantly working against the
+It seems that the Ancients
+DESIGNERS:
+Logotron
+player. The arboreal trees
+PUBLISHER:
+Britannica Software
+imagined lush oases of
+are constantly moving and
+San Francisco, CA
+plush tropical paradises.
+the blood of the Ancients inThese were "Dreamlands",
+cessantly spreads its
+retreats for the mind which
+poison. Even though the
+evolved into a material
+only artificial time conreality (more precisely,
+straint placed on the
+9,999 different material
+player is the 90 seconds
+realities). In fact, they beafter the last stone is
+came so real that alien
+destroyed, one is forced to
+visitors conquered these
+keep on the move berealities.
+cause the blood can
+The alien visitors staked
+spread faster than the
+claim on every archipelagos
+player can build. The only
+by placing networks of
+way to stop the incessant
+obelisks (sort of a cross beflow of putrefaction is to use the assigned key to check the map.
+tween the monolith in 2001: A Space Odyssey and the
+This pauses the program and gives the player a chance to catch a
+Washington Monument) and stones (looking like a minibreath.
+Stonehenge) in order to establish their control over the DreamThe second factor involves the Necromancers. By devouring the
+lands and enable them to destroy the human tenants. Using the
+grassy terrain and turning the squares nearby the target into
+stone network as their base of power, arboreal trees continually insand, they can quickly undo one's strategy in creating the land
+fect the landscape with the blood from those "Ancient" tenants;
+bridge. By devouring the square immediately adjacent to the
+ghosts of the twisted and mutilated Ancients devour the land in
+player's cursor, they can actually cause the player's persona to
+the Dreamlands; Eggs of Blood hatch during ominous
+sink into the quicksand and die.
+thunderstorms and can either contaminate or disintegrate the soil
+Third, the Eggs of Blood cause the entire pace of the game to
+on a given archipelagos; and the Lost Souls of the Ancients
+increase. Fourth, the Lost Souls guarantee that there is no safe
+wander the Dreamlands like whirlwinds of destruction. The early
+place to stand still and pluck energy from the plants that spring
+scenarios only have arboreal trees as obstacles. The other
+up on the countryside. Rather, one must constantly be on the
+obstacles/opponents are added to the scenarios after the player
+move.
+reaches a certain level of proficiency.
+Strategies within the game must be dynamic and flexible. In
+some scenarios, it is best to find every stone and the obelisk prior
+"Mr. Sandman, Bring Me A Dream"
+to doing anything. Then, one simply memorizes the positions,
+In Archipelagos, the player hovers mentally (some might call it
+connects stones to obelisk, destroys all and rescues the given aran astral projection) over the landscape of a given archipelago. Alchipelago from alien domination. At other times, the blood is
+most every archipelago is randomly determined. However, every
+spreading so fast, that one can almost never disinfect enough
+fifth archipelago is bit-mapped so that it bears a distinct shape
+contaminated terrain to connect the stone network and destroy
+(i.e. Britain, Europe, the Logotron Turtle). It is the player's job to
+them. Sometimes, players will need to harvest as much energy as
+connect the entire network of stones and obelisk with an unpossible before even trying to connect the network. At other
+obstructed and uncontaminated land bridge. When, or if, such a
+times, one will have to build up strength as needed in order to
+bridge is built, first the stones and later, the obelisk can be
+connect each stone a step at a time.
+destroyed by simply clicking on the mouse button (This repre-
+
+W
+
+Islands in the Stream
+of Consciousness
+"Archipelagos" Opens
+with a "Fanfare"
+
+sents the process of draining energy from the stones). Once all
+the stones have been destroyed, the player has 90 seconds of real
+time to travel back to the obelisk and destroy it. If he/she is successful, the result is written to disk and the player can advance to
+the next archipelago (or exit the program until the next play session). If he/she doesn't reach the obelisk in time, it is fatal.
+With the energy derived from destroying the stones (as well as
+picking up some energy from uncontaminated plants which crop
+up from time to time), the player can fly around remolding the archipelagos or undoing some of the damage done by the alien adversaries. By pointing to a given point and pressing the assigned
+key, the player can transform water into sand, sand into grassy terrain, and polluted terrain into safe terrain. This will be necessary,
+
+Daydream Believer (Conclusion)
+
+The graphic presentation, from the rise and fall of the arboral
+trees to the unveiling of the Eggs of Blood, is extremely phallic.
+The colors are vibrant (at times, almost violent). Graphically, this
+game is stunning, perhaps even shocking. The documentation is
+sparse, but adequate (even though written in British). The game
+concept is innovative and the play becomes increasingly engrossing. If one is looking for a game that offers a challenging conundrum set against a surrealistic premise, Archipelagos is precisely
+the game. If one is looking for an offbeat product to offer relatively brief, but intense, play sessions, Archipelagos fills that order, as
+well. In short, Archipelagos is a distinctive product that well deserves to be imported.
+
+Review
+
+O
+
+nce, there was an age of glorious colonization and the
+encouraging birth of the Milky Way Union. Now, the
+Union faces a terrifying foe. Enemy, thy name is
+Xacalite. Xacalite is the villainous leader of a group of extremists. His fleet is
+enormous, and with
+the capture of
+GLOIRE, a powerfully built battleship of
+recent construction,
+he is almost invincible. Now, armed
+with the latest in
+weaponry, he and
+his merry band of interplanetary terrorists, have decided
+to overthrow Union
+defenses, and take
+over the reins of
+power.
+
+When an area is successfully completed, it is possible to land
+on a tender to lick your wounds, select new armament, and
+repair damaged parts. Every time 50,000 points are acquired, an
+extra weapon is added to the Silpheed's arsenal.
+
+SPACE
+PILOT
+
+In Silpheed,
+Sierra's newest action-packed arcade
+game, the Milky Way
+Union's Silpheed
+prototype (Super Air
+Fighter SA-08) is at
+your disposal. You
+alone have been
+selected to attack
+GLOIRE, and defeat
+the ruthless Xacalite.
+
+Sights and
+Sounds of Total
+War (Atmosphere)
+The musical compositions are original, and made this reviewer
+somewhat reminiscent of the music found in new age martial arts
+films. Why not? With the expertise of Bob Siebenberg of Supertramp, the accompanying score is better than the music one
+usually hears on arcade machines. This is because the music follows the mood and even the intensity of the moment. However,
+the enjoyment of these musical themes is only as good as your
+sound equipment. Unfortunately, even with the aid of the Roland
+MT-32 Sound Module, for example, the digitized quote from
+Shakespeare (Julius Caesar, Ill, i) spoken by the talking face at
+the beginning of the game is completely unintelligible (fortunately, you can read it in the opening credits).
+The graphics are refreshingly clear, sharp and colorful. However, the background scenes change very little from area to area.
+They are not detailed enough to be considered outstandingly different from each other. Each area of the game almost looks the
+same.
+There are 20 levels to this game, not counting the Final Battle
+In order to win the game, players must destroy the gigantic battleship GLOIRE and defeat Xacalite. To accomplish this, one
+must struggle to steer the Silpheed to the final battle stage. The
+action is extremely intense, and the brief respite between level
+changes is a welcomed relief. A huge talking head starts the
+game, then it's time to get ready for great arcade action.
+There are at least 15 different types of enemies. Each enemy
+has different characteristics and utilizes different flight patterns.
+Players should try to become familiar with them. There are
+guided missiles, super performance air fighters and Kamikaze
+style attackers that refuse to be denied or avoided.
+
+Sierra's "Silpheed"
+by Sheila A. Carter
+
+TITLE:
+SYSTEMS:
+
+REVIEWED:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+SILPHEED
+IBM, Apple IIGS,
+Macintosh, Atari ST,
+and Amiga
+IBM
+$34.95
+S. Uesaka
+and H. Godai
+Sierra
+Coarsegold, CA
+
+It is also a good
+idea to shoot Golans
+and intercept them.
+They have very helpful items inside of
+them. But, beware,
+Golans and asteroids
+look very much alike
+and making contact
+with asteroids can
+hurt. If a pilot loses
+his/her shields and
+suffers too much
+damage, it will cause
+the Silpheed to explode and automatically conclude the
+game.
+Sierra On-Line
+and Game Arts of
+Japan have, once
+again, collaborated
+to produce another
+arcade delight.
+
+Stayin' Alive
+(WARNING: This
+section contains
+specific hints)
+
+Acquire as many weapons as possible. Speed and Full Power
+are probably the most valuable in the earlier levels. The V-Beam
+is helpful in level 3. Also, since Level 20 is extremely difficult, this
+reviewer found it most helpful to use the LASER CANNON and
+the AUTOMATIC AIMING weapons.
+You may also find it expedient to keep a record of the best
+types of weapons used in the different levels. Regardless of the dif
+ferent types of weapons selected per level, the Dogfighter never
+seems to have enough of the right kinds of fire power for certain
+types of enemies. For example, in level 20 it would be a great
+asset, in this reviewer's opinion, if the player were given the opportunity to select at least 2 weapons per left and right sides of
+the ship instead of one. If you select the Laser Cannon and Automatic Aiming weapons for level 20, one side of your ship is extremely vulnerable to flying debris and missile blasts. However, it
+is possible to win with the selections offered; if the Super Dogfighter is doggedly determined.
+Be sure to destroy all Golans and take all items.
+In level 2, nuke the Robayon. This will earn you 50,000 points
+and add another potential weapon to acquire at the next tender.
+Note: Robayons have identical flight patterns and are very difficult to destroy. Be persistent.
+
+Pilot Program (Conclusion)
+Silpheed is exhilarating, nerve racking on the screen excitement. So, if you want to fly through the universe blasting evil in
+all directions, save the minions from the terrible tyranny of the
+ruthless Xacalite, and bring peace to the mighty Milkyway Union,
+SAMURAI
+then slip into the cockpit of the Silpheed destroyer and go for it!
+
+CGW's Top 100 Games
+
+The Categories
+Strategy (ST): Games that
+emphasize strategic planning
+and problem solving.
+Simulation (SI): Games based
+on first person perspectives of
+real world environments.
+Adventure (AD): Games that
+allow you to take your alter
+ego through a storyline or
+series of events.
+Role-Playing Adventures
+(RP): Adventure games that
+are based on character
+development (usually
+involving attributes).
+Wargames (WG):
+Simulations of historical or
+futuristic warfare from a
+command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+
+Game Ratings Chart
+
+Hall of Fame
+The Games In
+CGW's Hall
+Of Fame Have
+Been Highly
+Rated By Our
+Readers Over
+Time. They
+Are Worthy Of
+Play By All.
+
+Review
+
+S
+
+ubtitled "The Misadventures of a Wizard's Apprentice," Tangled
+Tales is the story of how a
+young spell-caster attempts to
+make up for previous errors. A
+booklet enclosed with the
+game explains how your character, mostly through sheer ineptitude and fuzzy thinking, so
+by Scorpia
+angers Eldritch the master
+wizard that he wipes your
+spellbook clean of all its contents.
+Right there, you can tell it's
+not going to be a good day.
+Fortunately, Eldritch is kind at
+heart and gives you the
+chance to repair some of the
+damage. This leads into the
+TITLE:
+Tangled Tales
+first of three connected advenSYSTEMS:
+Apple II, C-64
+tures, through which you will
+PRICE:
+$29.95
+DESIGNER: Gary Smith & Alex Nghiem
+prove yourself worthy of being
+PUBLISHER: Origin
+a mage.
+Londonderry, NH
+The game actually begins
+with the creation of your character. You choose name and sex, then move down to the four attributes of strength, intelligence, speed, and charisma. Each
+comes with a starting value (given as a word instead of a number) that is the bare minimum for a moderately decent character.
+In order to raise one attribute, you must lower another. For instance, you could lower your charisma from Tactful to Offensive.
+This, in turn, would let you raise speed from Brisk to Energetic.
+This is the only chance you have to fiddle with the attributes.
+Once play starts, permanent increases come only after successfully completing an assignment and only one attribute (of your
+choice) can be increased.
+In the first adventure, it will probably be a long time before you
+come across an offensive spell. Thus, you will usually be fighting
+with a hand weapon. So, strength is very important because the
+sooner you kill the monsters, the better off you are. In addition,
+the greater your strength, the more punishment you can absorb
+before dying.
+The best attribute to lower in order to increase strength is charisma. This does have the drawback of making everything you need
+to buy more expensive (by about 20 gold pieces), but the tradeoff is definitely worth the price increase. Later on, after you have
+acquired more spells, intelligence becomes more important, but
+this you can have raised by Eldritch when you finish a task.
+
+Game Play
+Once your character is complete, play begins. You start in your
+room, where Jacob, the butler, summons you to Eldritch's
+presence. With some trepidation, you tip-toe in, and find that
+Eldritch has a little mission for you: replacing the vial of rare admantite dust that you wasted in your last escapade.
+This is not as easy as it sounds. The dust is available in only
+one place, the lair of an evil archmage called Xavier. You can't
+just go waltzing in and pick it up by yourself. You won't even be
+able to get in on your own. This task, like the ones that await
+you later, will require the help of various companions and hirelings.
+A few spells would come in handy, too, and these you must find
+as you explore in and around the town. All the dungeons are
+dark places (of course), so a light spell is your first priority. Fortunately, it isn't difficult to come across and you should have it
+before you leave Eldritch's tower.
+One thing you'll notice rather quickly is that the valley of Fairhaven is a small place. The outdoors is not at all extensive, and
+mapping is not needed. This is also true of the dungeons, which
+tend to be relatively straightforward, with an occasional secret
+door here and there.
+
+What you will also discover
+before long is that you'll have
+to do a lot of running around
+back and forth between
+various locations. Make no
+mistake about it, this is not
+your standard hack'n'slash
+epic. It is more like trying to
+solve the puzzles in a standard
+adventure game, with a lot of
+monsters thrown in your way
+to make your life difficult. Just
+imagine doing Zork I (although the puzzles here are
+generally much easier) with unpleasant critters wandering all
+over the place. You'll get the
+idea.
+Combat has only one purpose: it provides the money
+you need to purchase items,
+hire people to be in your
+party, and get them healed up
+when needed. You get neither
+experience nor goodies for
+defeating monsters. Therefore,
+once you have enough cash to buy what you need, it's best to
+avoid fighting whenever possible.
+You might think that having a big party would be helpful, but
+that's not the case. The more people running around with you,
+the more monsters you face in any combat. This can get to be
+nasty, as the opposition tends to gang up on one or two characters, often leading to an early demise.
+Death, on the other hand, is not such a terrible thing. If you die
+or your entire party goes under, Eldritch whips you back to the
+tower and has you resurrected. Everything remains intact. However, if you should survive but one or more party members die(s),
+you might have a problem.
+In this case, you must go to a priest to get the dead resurrected. This is costly (as it is to get anyone unpoisoned or unparalyzed). If you don't have enough money, you need to pick up
+some cash as fast as you can. Chance, the supposed patron of
+Adventurers, will appear to you the next time you sleep. She will
+tell you that until your comrades have been healed, you will be a
+shadow of your former self. To put it bluntly, only half of your
+spell points are regenerated when you sleep if you do not keep
+your friends in good health.
+Speaking of health, you can heal up and restore spell points
+merely by sleeping. You can do this practically anywhere, although some places are safer than others. Bedding down in a
+dungeon is always risky, but there are times when it has to be
+done. Be certain to stand a watch on such occasions.
+A major part of the game (in all three scenarios) is deciding who
+to have in your party when. Sometimes, you need a character
+with you before another one will join or need a specific NPC to
+help you get past a particular obstacle. Not all of them will stay
+with you, either. A few, having served their purpose, will vanish
+from sight forever. Others, usually those you pay to join, can be
+found again, and for another payment will go with you. Of
+course, there are some, like Alvin, you couldn't get rid of (if you
+wanted to) because they are bound by loyalty or duty rather than
+cash.
+
+Scenario Notes
+In Fairhaven, you shouldn't have too much trouble completing
+your task, once you get the hang of things. The puzzles are fairly
+easy (rather obvious, in fact) and this section of the game seems
+designed more as a learning experience than anything else.
+Remember the lessons, as matters become a more complex in
+the future. Note that Xavier is unbeatable, but your job isn't to kill
+him anyway.
+Once you've returned with the admantite dust, Eldritch gives
+
+you your attribute increase and dispatches you to Violet Valley
+(via teleporter) to end a mysterious drought. Of all the scenarios,
+this is the most involved, and potentially the most frustrating.
+So many things depend on having done something else first
+that you can easily find yourself at a standstill at many different
+points. Then, you have to stop whatever you're doing, backtrack
+a bit, and try to figure out what you're missing.
+For example, you will need the help of
+three different NPC's in the party to get the
+magic carpet away from the Imp. To
+achieve your objective at the end of the
+scenario, you need the assistance of three
+other NPC's. It isn't a matter of having
+people to fight monsters. Rather, each of
+these characters has specific actions to perform at certain locations.
+So, you must be careful about who you
+have in the group at any time, especially as
+several characters are important in more
+than one situation. Inevitably, this leads to
+much running around as you try to determine who can do what,
+where. Once you have found the Recall spell, it becomes a little
+easier. In general, if you come to an obstacle you just can't get
+past, it's pretty certain you are lacking either the right party member or the right item.
+For your final assignment, the little teleportals that link all the
+valleys are weakening. You must go to Springdale Valley, find the
+spell that will regenerate their powers and cast it on the three
+teleportals.
+This scenario will give you some pause for thought, as there
+seems, at first, little to work with. Where before NPC's were all
+over the place, now you find (at the start) only one. Before you
+
+go running off to explore dark caves, it's best to buy everything
+you can (except the Christmas Cookie), so you will have fewer
+problems later. Also, keep an eye out for rabbit traps (Hint: there
+are three of them).
+Since NPC's are fewer here (four in all, three of whom will be
+with you for most of this section), which ones to have in the party
+is not a problem. In fact, most of this last
+scenario is not difficult, once you have the
+three you need. Make sure you talk to each
+NPC after they have joined you.
+The only real difficulty you may encounter
+is dealing with the Devourer (shades of Alternate Reality!). He is absolutely unbeatable in combat and you cannot run
+once you start fighting him. NPC's won't
+help in this circumstance; this is something
+you have to do on your own. Examine your
+list of spells carefully for one that can be of
+use here.
+Once you have strengthened all three portals, you can return to Eldritch for your
+final reward. This will end the game (an automatic sequence). So,
+if you feel the urge to beat on hapless monsters now that you
+know every spell there is to know, do it before talking to Eldritch.
+
+Tattle Tales (Conclusions)
+Overall, the game plays very smoothly, using an improved interface of the type found in Times of Lore. You can either point to
+an icon or use a single keystroke to perform any action.
+Graphics, while not exceptional, are pretty, with minor animations in the close-ups. When moving around, the view in the
+main window is always overhead with an appropriate still picture
+(Continued on page 46)
+
+Review
+
+We congratulate the author of this article, M. Evan Brooks,
+who has just graduated from the United States Naval War
+College in Newport, RI.
+Northern Fleet is a simulation of modern naval operations in
+the North Atlantic. Relying deeply on the American "Maritime
+Strategy" (as enunciated in US Naval Institute Proceedings,
+January 1986), the product enables one to play either the
+American or Soviet naval forces in the region between the
+GIUK (Greenland-Iceland-United Kingdom) Gap and the
+Arctic Ocean.
+
+Background on the "Maritime Strategy"
+The "Maritime Strategy" relies on an early American offensive posture— ". . . early forward deployment of sea-based
+air power is essential to support our allies . . . If war
+comes, the Navy will seize the initiative as far forward as
+possible ... [and] fight our way toward Soviet home
+waters." ("The Maritime Strategy", US Naval Institute
+Proceedings, January 1986). The "Maritime Strategy" has
+been severely criticized as a headlong rush to " . . . lob
+bombs into the men's room of the Kremlin." In fact, many
+officers feel that this pressing forward offensively could
+make the U.S. even more vulnerable in the defensive
+center.
+In all fairness, however, one should note that the
+"Maritime Strategy" does not depend on any particular
+timetable. The offensive posture is dependent on strategic
+realities. Therefore, it may not be as unrealistic as it seems.
+Yet, most naval officers openly criticize the drive to the
+Soviet home bases and support instead the establishment
+of a cordon sanitaire near the GIUK Gap until NATO has
+been reinforced and the Soviet naval forces have taken
+some damage.
+
+will yield a working knowledge of the levels of success. However, Mr. Nichols was kind enough to add some comments con
+cerning victory conditions:
+(1) Norway will fall if the Soviet land forces are allowed 20
+turns of combat; since the war typically begins on game turn
+five and lasts c. 35 turns, NATO must delay the Soviets for a
+minimum of ten turns.
+
+Testing the
+Maritime Strategy
+SimCan's
+"Northern
+Fleet"
+by M. Evan Brooks
+
+Northern Fleet
+1-2
+IBM, Apple II,
+Commodore 64, ST, Mac
+REVIEWED ON: IBM
+PRICE:
+$60.00
+PUBLISHER:
+Simulations Canada
+Bridgewater, Nova Scotia
+
+TITLE:
+# PLAYERS:
+SYSTEM:
+
+What is the optimum strategy? In Northern Fleet, you must
+decide. Your decision determines the fate of the northern allies.
+
+(2) A single strike from a CVBG (carrier battle group) can
+impose a five turn delay in Soviet ground combat operations
+
+Utilitarian Presentation
+
+There are no graphics in Northern Fleet. Game play is accomplished via keyboard input (giving instructions to one's
+task forces and submarines) and plotting locations (known for
+friendly forces, tentative for opposing forces) on a plasticized
+map. Red and black grease pencils have been supplied for
+such purpose, but do not use these instruments. The pencils
+leave a permanent mark on the plasticized map which cannot
+be readily removed. Instead, use a water-based writing tool,
+which can be fully erased.
+
+The documentation is "best described as utilitarian." The rule
+booklet is short, 7 1/2 pages. However, it is sufficient to completely explain the game mechanics. The ramifications of these
+mechanics are left to the player to discover on his own. While
+this reviewer was familiar with the various ship types (e.g. Slava,
+Sovremennyy, Udaloy, Kara), it is doubtful that the "average
+user" is enrolled in the Naval War College or has a readily
+available knowledge base that can explain the optimal uses
+and characteristics of the various vessels.
+This is too bad, because SimCan's Northern Fleet is a valid
+and interesting education for anyone interested in modern
+naval plans and operations. Prior releases (Seventh Fleet, Fifth
+Eskadra, and Grey Seas/Grey Skies are even listed in the US
+Naval Institute's bibliography to the Maritime Strategy). In fact,
+any gamer interested in modern naval operations should
+seriously consider the inclusion of a SimCan product in their
+gaming library.
+Each vessel bears a specific name (e.g. Dallas is a Los-Angeles class submarine), and noted by its class (e.g. L.Angl.-2).
+Yet, at certain times, the name is used, while at other times,
+the program only uses the class number. Unless one clearly
+marks the identification number with the class, exact identification may become illusory -- a minor irritant. The Apple version
+relies on class numbers only (due to memory limitations), thereby achieving at least internal consistency.
+While victory conditions are explained briefly, only experience
+
+While the lack of any graphics may well prove a negative to
+many gamers, its omission is not missed. Northern Fleet is a
+thinking man's game. Optimal fleet use and strike tactics are
+the key to success—not flashy graphics and explosions.
+
+Decision Implementation
+Game play involves determining the placement of friendly forces, and mission assignment. Intelligence sources may give additional details involving approximate enemy locations, and
+combat is resolved by the computer. The mechanics are
+straight-forward; successful employment is a different matter.
+Every turn, one selects the level of warfare, ranging from
+Rising Tensions through Conventional War and Tactical
+Nuclear to Operational Nuclear. Nuclear warfare at sea is something that the U.S. Navy studies, at a distance! Since a single
+burst can destroy a carrier, it is apparent that it can drastically
+change the strategic complexion. Nuclear war at sea favors the
+Soviets, but once operational nuclear warfare begins, there is a
+random chance of global nuclear war with everyone losing.
+
+Escalating levels of warfare does cost victory points, so one
+must weigh a decision to escalate carefully.
+While the carriers are the "big ticket" items (100 points), it
+should be noted that UNREP (underway replenishment ships)
+are worth 25 points (as opposed to a destroyer or frigate worth
+only 5-10 points). These ships are essential to successful carrier operations. Without them, a CVBG can only operate for
+four days without returning to base for armaments and fuel.
+The simulation emphasizes these ships by point value and also,
+by allowing carriers to replenish their Harpoon anti-ship missiles if an UNREP is present. Since the United States Navy only
+possesses around eight AOR UNREP ships capable of maintaining station with a CVBG at high speed, their importance should
+not be underestimated.
+Minefields are employed for both sides, although the Soviet
+ones are twice as effective. This is due to their larger inventory
+(the Soviets currently possess circa 400,000 mines) and their
+emphasis on mine operations. U.S. Naval doctrine considers
+mine warfare, but since "you can't pin a D[istinguished]
+S[ervice] [Cross] on a mine" (as Jim Dunnigan once noted),
+mine warriors receive short shrift.
+The Soviets may initiate a SPETsNAZ attack once in the
+game. Targets include OTH radar (over-the-horizon) in Britain,
+the SOSUS facility (sonar receiving station) in Iceland, or airbases. Since these are noted in priority order and since there is
+a 50-50 chance of success, the Soviet player may as well go
+after the most valuable target.
+Submarine employment must be carefully considered, as well.
+Generally, the Soviets do not emphasize anti-SLOC (interdict-
+
+ing the sea lines of communications), but a NATO player must
+watch for a shift in Soviet usage. Similarly, the U.S. player
+should attempt to destroy the submarines, particularly the
+SSBN (ballistic nuclear missile submarines) in the bastions. Is
+such a mission an escalation of the level of warfare? This issue
+is still debated in naval war college, technical journals and symposiums. The simulation does not consider this to be an escalation. Therefore, seek out and destroy the SSBNs!
+The Soviet computer is difficult to defeat. The U.S. computer
+opponent is much easier, possibly reflecting tactical reality.
+Interestingly, the American computer opponent is most
+sophisticated on the Apple II version (as the last released
+version, additional "smarts" were added).
+Overall, the Soviet mission is straight-forward—defeat Norway
+and maximize U.S. losses through judicious use of land-based
+naval aviation with a sprinkling of surface combat.
+American play is more involved. The following tactics are
+recommended:
+
+The Missile Trap: An optimal tactic in Northern Fleet is to
+maximize attrition of Soviet naval land-based aircraft at minimal
+cost by utilization of the "missile trap". Designer Bill Nichols advocates a deception operation, wherein a small escort task
+force is dispatched into the Norwegian Sea -- but still within
+F-14 CAP coverage. If the Soviets mistake this for a carrier task
+force, they will attack it in force. While the deception force will
+most likely be destroyed, a substantial number of Soviet Backfires and Badgers will also be lost. Also, surviving Soviet bombers will need an additional 24-48 hours of refit before they are
+ready to relaunch.
+This tactic has been used before, e.g. the deployment of picket destroyers off Okinawa during World War II to intercept the
+kamikazes. However, the range of the AS-4 (Backfire) and AS-5
+and -6 (Badger) is sufficient that the aircraft could engage the
+task force outside of US engagement range, thereby creating a
+disaster more reminiscent of the Prince of Wales and the
+Repulse wherein capital ships were destroyed because they
+could not be supported by air assets.
+Tactically, this may be sound, but strategically and politically,
+it may well prove unacceptable to both policymakers and the
+public. Placing a substantial portion of fleet assets "in harm's
+way" with a "Bomb Me" sign is not a way to endear oneself.
+Current Naval officers scoff at this concept. Could it in fact be
+used? Hopefully, we will never have the need to know!
+
+Carrier Sprint: After use of the "Missile Trap", the "Carrier
+Sprint" may well prove the key to victory. Mass the carriers and
+high speed escorts within range of land-based air assets, sortie
+north at high speed, launch a strike, and return to safety. A few
+such strikes can fatally delay the Soviet Northern Offensive and
+assure a NATO victory.
+
+CONCLUSIONS
+In Northern Fleet, much of what is happening is hidden behind the immutable source code of the computer. Nevertheless, it is a clear success as it presents the "appearance" of historical accuracy. Whether or not such a portrayal is indeed accurate will, hopefully, never be revealed. But overall, the SimCan series of naval simulations are definitely worthwhile. They
+present a proper "fog of war" gestalt and plunge the player
+deep into the role of a strategic planner.
+This reviewer's main regrets are that Northern Fleet's limited
+press run engenders a high purchase price and that its
+"utilitarianism" will not appeal to the larger gaming public. It is
+the latter's loss.
+
+Sneak Preview
+
+"Dragon Wars"
+olokai's nose
+began to sting
+as though
+being assailed by one
+of those foul and
+noxious mixtures that
+Halifax loved to concoct. The gag reflex
+began to come into
+play and it was all
+Molokai and his companions could do to
+hold back from filling
+the street with their
+vomit. The ancient inscription read
+"Morgue" and that
+was exactly what the
+stone building was
+being used for. It was
+jammed to the brim
+with the gray, decaying corpses of those
+who had escaped
+from this prison the
+hard way. Graffiti
+etched beside the ancient word voiced its
+own hostile sentiment, "The way out,
+chumps!"
+
+M
+
+animated windows are
+larger than those in
+The Bard's Tale series
+and Wasteland. There
+are more animated
+graphics (ca. 70) and
+they are more sophisticated than the simplistic animation we are
+used to seeing in this
+genre. Also, unlike
+some games, not all
+guards look the same.
+Weapons change and
+sometimes, body position. Third, even
+though every view is
+three-dimensional, the
+automapping feature
+offers a different
+perspective and it is
+the best automapping
+we've seen yet, since
+it accurately reflects
+terrain, as well as the
+basic path the party
+has taken. Fourth, the
+combat messages
+flash one event at a
+time on a window underneath the animation, rather than clearing the animated window and scrolling
+across the screen as in Wasteland. The
+bad guys are always on the screen while
+combat continues.
+
+Interplay's New Role-Playing Game
+
+Molokai started to
+turn and leave, but
+the Wizard Halifax raised his hand and
+stayed the party's exit. His long, bony
+finger pointed to undernourished work
+gangs who slowly carried the hideous
+corpses from the building and stacked
+them into piles of rotting flesh. The party
+waited. Each adventurer wondered what
+the wizard expected to see as his pale
+gray eyes observed the scene. After a
+while, some of the slaves placed several
+corpses into a canvas sack, sewed the
+sack shut, and hurled the entire bundle
+over the wall. The wizard smiled.
+Whatever happened, Molokai was certain he wouldn't like it.
+Escape from the prison compound
+known as Purgatory is the first order of
+business in Dragon Wars, the new fantasy role-playing adventure from Inter-
+
+play. For those who think the fiction
+which began this sneak preview gives
+away too much about the Count of
+Monte Cristo-style escape, rest assured
+that there are, at least, two other ways to
+escape from Purgatory. In common with
+other Interplay products, whether
+developed for other publishers or published themselves, there are multiple solutions for most puzzles.
+The Look
+There is something of the familiar in the
+game screens of Dragon Wars, but there
+is also plenty that is different. First of all,
+the graphics on the Apple Ile are double
+hi-res and the detailing is so good that
+some of us have thought they were
+Apple IIGS graphics. Second, the
+
+The Feel
+The texture of the game is very different. Although the game does make extensive use of well-written off-line paragraphs, a la Wasteland, both character
+creation and combat is considerably different. What the designers have done is
+utilize mechanics similar to Champions
+for combat and character generation.
+This means that one doesn't "roll-up"
+characters, rather, one spends points.
+Each character begins with ten points
+each for his initial attributes in: Strength,
+Dexterity, Intelligence, Spirit, and Health.
+
+Then, he/she has 50 points to spend on
+increasing those attributes, purchasing
+skills, or becoming adept at magic.
+
+Those who use, or even trifle with, magic
+have been put to death or sent into exile.
+In order to protect themselves, several
+city-states have threatened to unleash
+their dragons. The player's task is to discover the motivation behind Drake's
+prohibition of magic and find a way to
+stop King Drake before the unimaginable
+powers of destruction are unleashed.
+
+Also, one doesn't learn a massive
+spellbook in order to be a wizard, one
+selects from four different types of magic
+High, Low, Sun, and Druid. Indeed, the
+spells must be learned by finding scrolls
+with the spell inscribed upon them. Further, in order to cast certain spells, the
+player must decide how many points of
+power to put into each spell. Therefore,
+the game includes much more resource
+management than most fantasy games.
+It also means that even the lowest spell
+never becomes obsolete. The stronger
+the magician gets, the mightier the spell
+has the potential of being.
+As far as combat is concerned, there is
+a new philosophy. Characters have Stun,
+Health, and Spell points. If one's Stun
+points are completely depleted, he/she is
+unconscious. If one's Health points are
+completely depleted, one is dead. In
+Dragon Wars, "Dead" means "Dead".
+There is no resurrection spell to simply
+bring the character back to life.
+Another different philosophy in Dragon
+Wars has to do with the "Monty Haul"
+syndrome. In some games, it seems like
+even the lowliest monsters have some
+kind of treasure. The designers of the
+game have deliberately removed the "Kill
+Monster—Get Gold" approach. As Brian
+Fargo notes, "I've always wondered how
+a pack of rats carried three sets of plate
+mail, anyway." There is treasure in the
+game, but it is not randomly placed.
+
+The Story
+The story takes place in the watery
+world known, appropriately enough, as
+Oceana. Oceana is 85% water. Each land
+mass is an island. The nicest island is
+that "El Dorado" of the world, Dilmun.
+The worst island is the prison colony on
+Purgatory where the game begins. The
+designers have successfully created an environment that feels like a "real" world. If
+one wants to get from one island to
+
+The Verdict
+
+another, swimming, sailing, or taking a
+bridge is essential. We didn't find any
+quick teleport squares or listing of
+teleport spells in our look at the game.
+The premise of the story sounds something like a fable on nuclear deterrence.
+It appears that each island is dominated
+by an autonomous city-state. Though
+warfare between the rival city-states has
+been relatively steady, it has been a conventional war. No side has yet been willing to utilize the ultimate weapon—their
+dragons. Each city keeps a dragon captive within its walls. Should it ever look
+like the city would fall to another citystate, the dragon would be let loose. Although this would undoubtedly lead to
+mutually assured destruction, those in
+power believe that possession of the captive dragons is an effective deterrent to
+conquest.
+Now, King Drake of Phoebus is
+threatening the delicate balance of
+power. His overt goal is the unification of
+Oceana under his supreme rule. In order
+to accomplish his purpose, he has arbitrarily declared magic to be illegal.
+
+It is extremely difficult to say how good
+a game will be or how well it will play
+before seeing a finished product in front
+of one's eyes. However, Dragon Wars
+looks like it has most of the features that
+made Wasteland and The Bard's Tale
+series so successful, plus plenty of features which pen and paper garners have
+always taken for granted and many of us
+have wondered why they weren't present
+in computer role-playing games. It seems
+almost certain that Dragon Wars will set
+a new standard for CRPGs.
+
+Game Hints
+
+S
+
+o, it's August again, and Fred is
+off to the Dark Room of Colossal
+Cave for the annual Grues Convention. Last year they got up a petition to
+ban daylight savings time, but that didn't
+work out too well. I hear that this time,
+they're going to try and convince the Surgeon General that streetlights are hazardous to health (theirs). Somehow, I have
+the feeling this won't do any better.
+Anyway, it's almost time to look in the
+old mail sack. First, though, please
+remember that when you write to me for
+help with a game, you really need to be
+specific about your problem. Before I can
+point you in the right direction, I have to
+have enough information so I know what
+to tell you. Most people do this, but sometimes a letter arrives that says something
+like "Well, I have 8 of 10 treasures in
+Game X, where are the others?". Not
+knowing what 8 those are makes it impossible for me to help.
+Ok, let's see what's in the bag this time.
+King's Quest N: Some folks have
+been spending a lot of time swimming in
+the ocean looking for the whale and not
+finding it (they have, however, found the
+shark without any trouble at all!). That's
+because they haven't paid their courtesy
+visit to Lolotte. Until you do that, the
+whale won't appear. So, drop in (heh) on
+the old bag . . . err, dear and that will
+take care of the problem.
+Leisure Larry II: A number of people
+are experiencing frustrations at the last
+part of the game on top of the volcano.
+Having been there myself, I know how
+you feel. The difficulty in this case is the
+parser, which, being what it is, (not terrific) can't understand what you want to
+do, even though you're doing the right
+thing. I have heard (although not tried it
+myself) that if you use the full name of
+the object you're trying to stuff in, that
+will work. If that doesn't work, try stuffing
+that item, and another, together at the
+same time. A little bizarre, but it should
+get the job done.
+
+Scorpion's Mail
+Ultima V: Several have asked about
+the mysterious sandalwood box. They
+can't get it open and this worries them.
+Well, luckily for you, you needn't worry
+about it. All that's necessary is to make
+sure you have it with you when you go to
+rescue Lord British. He'll take care of the
+rest. If you haven't found the box yet
+(tch!), you may want to take up the study
+of music; it can do more than soothe the
+savage breast. For those having
+problems with finding the Shard of Cowardice in the Underworld, bring lots of
+gems with you (LOTS of em). Look
+around with them carefully, and you may
+see something (no, not the shard). Now,
+think of a way to get there (climbing
+won't do it). Keep it up until you get to
+where the shard is. A long trip, even if
+you do get there in the wink of an eye
+(grin).
+Ultima HI: An oldie, but not forgotten
+(I'll bet the recently-released Trilogy has
+something to do with that). It seems that
+there are a few people out there who are
+having a hard time finding the four cards.
+Well, you'll just have to make a trip
+beyond the whirlpool, and remember to
+search everywhere. Once you know
+where to look, you should find all four of
+them pretty quickly. And remember that
+they have to be used in the right order . .
+. or the consequences will be rather unpleasant.
+Wizardry V: Speaking of cards, some
+folks are missing the last of four (does
+this sound familiar? Deja vu?) needed on
+the seventh level to pass the Lords. Well,
+I'll tell ya a secret: you have to use the
+first three, and when you've done that,
+you'll get the fourth one. But again
+(more deja vu?), you have to do this in
+the right order (and of course do the
+right things inside) before you obtain the
+card. And naturally you'll want to make
+sure you have all four staffs before you
+go messing about in the Maelstrom
+(don't leave home without 'em!).
+Might & Magic II: As I mentioned in
+my article awhile back (March '89), it is
+not necessary to go into the dungeons
+under the castles to complete the game.
+(Continued on page 47)
+
+Review
+
+software and movie industry's 'Summer of the Sequel' is
+pon us. These last few months we've seen more 'Part
+upon
+Twos' than you could shake a Roman numeral at. However, amidst this sea of [twice told tales?] there's one that the masses have been crying for. You know, the one starring that svelte
+man of action and adventure, that handsome herald of heroism,
+that man above all
+manly men. No, not
+Indy! Cpt. Kirk?! Get
+real! I'm talking about
+Roger Wilco, adventurer/janitor extraordinaire.
+
+u
+
+Yes, Roger's back in
+part three of Sierra's
+lampooning space adventure series, Space
+Quest III (SQ III). In
+the previous games,
+Roger has been up
+against a tough lot. In
+the original Space
+Quest, he single-handedly foiled the Sariens'
+plans of universal conquest. In the sequel,
+heckdVoaul's
+sleazy insurance salesman scheme. But this
+time, our hero will
+meet his toughest challenge. He's dealing
+with the slimiest swarm
+of software stealing
+scuzzballs this side of
+Nimbus III, the
+notorious Pirates of
+Pestulon. The "Two
+Guys from
+Andromeda" have
+vanished and rumor
+has it that this pack of
+plagiarizing punks is
+behind it. SQ III sends
+our beloved Roger on
+a galaxy-wide hunt for
+the missing software
+celebrities.
+Those familiar with
+Sierra adventures will
+be familiar with the game play. Players use a combination of text
+commands and/or joystick to maneuver Roger around a 3-D
+world where he manipulates items and solves puzzles, while avoiding the many gruesome (and often hilarious) ways of biting the
+silicon dust. Those who have followed the series, can expect a
+storyline laden with the same colorful sarcasm that marked the
+previous games. Those who haven't need not worry as SQIII can
+be played by those without previous SQ experience, but they may
+miss a humorous allusion or two.
+The game makes marked improvement over it's predecessors in
+most aspects, particularly in esthetics. The EGA graphics on the
+IBM are some of the best from Sierra to date. Further, the
+cinema-like title sequence is outstanding, similar to the movie
+emulating efforts of the folks at Cinemaware. The main graphics
+images are crisp and colorful, though I was most impressed by
+the finer graphic detail utilized in some of the cinematic sequences: shadows fall on Roger whenever lighting is obstructed,
+perspective changes as he walks into the horizon, and facial ex-
+
+pressions reveal horror as you clumsily lead him to another untimely death. Roger is more animated than in his previous incarnations, the animated sequences reflecting the designers' close
+attention to detail.
+While the graphics are well done, the presentation wouldn't be
+half as impressive without the sound. Those fortunate enough to
+have a Roland MT-32
+sound board or
+equivalent will be
+treated to one of the
+best performances
+their sound module
+has given yet. Bob
+Siebenberg, formerly
+with the rock group Supertramp, has put
+together a 30 minute
+score that captures the
+silly, tongue-in-cheek
+attitude of the game
+and will simply blow
+your ThermoWeave
+skivvies off. This sound
+track and the equally
+stunning sound effects
+combine to create one
+of the best sound efforts we've heard since
+the Midi track done by
+Origin for Ultima V.
+
+hates
+of
+Pestulon
+
+by Chris Lombardi
+
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Space Quest III
+IBM
+$59.95
+Mark Crowe & Scott Murphy
+Sierra
+Coarsegold, Ca.
+
+On the unofficial
+CGW Adventure Difficulty Index, SQIII
+rates in the easy to
+moderate range. While
+a few of the puzzles require a little thought
+and experimentation,
+there's nothing that
+will stump the average
+adventurer for long.
+Most of the puzzles are
+fair, and there are no
+objects hidden in
+strange and unlikely
+places.
+
+The number of game
+screens is relatively
+small, as well as the
+number of objects
+players juggle at one time, so it is often not difficult to discern
+which object is appropriate for a certain puzzle.
+As in all Sierra adventures, the game playing strategy involves
+extensive use of the 'Look' command. Fortunately, most of the
+problems that arise from the graphic nature of Sierra's games,
+i.e. being unable to identify an object from it's graphic image and
+also unable to get a text description of it, have been reduced to a
+minimum.
+Liberal use of the 'Save' command is recommended, as the
+wrong path almost always leads to a graphically gruesome death
+In fact, half the fun is finding all the twisted ways Roger can kick
+the mop bucket!
+Those who played the original Space Quest know the frustration of playing an adventure with an inadequate parser. Fortunately, improvements made over the last two games have
+brought the parser up to an acceptable level. While still not the
+
+best in the industry, the game understands a reasonable number
+of synonyms for important verbs and objects. In fact, although
+most sentences beyond Verb' "Object" complexity are out, the
+parser rarely bogs down game play.
+Action sequences have always been and continue to be,
+Sierra's favorite way of adding variety to their adventurers. Unfortunately these hand-eye coordination test have not always
+been done well, and they've
+been justly criticized as cruel and
+unnecessary punishment. SQ
+does have three action sequences, but it's evident that the
+designers have made a conscious effort to improve the
+quality of the sequences and integrate them more smoothly
+into the adventure. One of the
+action sequence takes the form
+of a coin-op machine Roger encounters along the way. It's the
+most difficult action sequence
+and takes a while to get the
+hang of. Those less dexterous
+with the joystick can forego the
+sequence if desired, as the clue
+provided upon mastery is not absolutely necessary to complete the game, though don't overlook
+the game completely.
+The most interesting hand-eye puzzle is actually the climax of
+the storyline in which Roger battles 'the bad guy' using a battletech type cyber-warrior. This is by far the best action puzzle I've
+seen in an adventure. It's fun, it fits nicely into the story, and victory requires a definite strategy rather than just nimble keystrokes. Though adventure game 'purists' may still object to
+these test of physical rather than mental abilities, those who enjoy
+variety will appreciate the designers' effort to create action sequences that are enjoyable and complement the game.
+My only problem with SQIII is the game length. It seems most
+of the design effort went into effects rather than story development, creating a game that feels a bit rushed. While I didn't keep
+accurate time records, the game time for this adventure seemed
+about half that of the others. Thus, when the final credits rolled, I
+still wanted more.
+All told, SQ III is a very nice blend of game and glitter. The combination of graphic effects, animation, action sequences, and
+biting wit leave no room for a dull moment. The game moves
+very quickly and, as a whole, SQ III is a wonderful product and a
+great time. Sierra fans won't want to miss it.
+
+The Journal of Roger Wilco
+The following is an excerpt from a data disk found on a
+deserted parking lot in Coarsegold, CA. It appears to contain GAME HINTS which may be of interest to our readers.
+"Ahem...Testing one...two. Wilco Log Star Date...uh, ah well it
+seems my digital watch has stopped. Pity. At any rate, it
+seems my escape pod has been captured by a hostile alien
+force, drat it all! There goes my vacation leave on Hair Island."
+"Using my keen eye for detail, I've located a hold containing a
+decent looking ship. The ship is missing some vitals but I've
+managed to round up the replacements. I found a motivator
+amongst the junk but I'll need a hand (even a claw would do)
+to lift it. I've also found a power supply, though the ship-board
+rodents didn't appreciate my intrusion. Insert tab A in slot B
+and this bird will be flying in no time."
+"After escaping the alien vessel (what a blast!) I made a stop
+
+on the planet of Phleebut, and eventually found the planets only
+known settlement and tourist trap. The proprietor seemed a nice
+chap though he did have quite a gift of loquaciousness. I sold
+him that stupid stone I've been lugging around. His initial interest in the rock was high, so / got a decent price. Didn't leave
+with all my buckazoids though, as I was talked into buying
+some of the tourist trash. Well,
+I guess it's not all that bad. The
+undies fit quite nicely and the
+Orat is kinda' cute. Upon leaving the joint I ran into someone
+I'd rather not meet again,
+though I don't think I need
+worry. In the end, the musclebound monster was nothing but
+a metallic morsel for one of the
+indigenous creatures that hangs
+around these parts."
+"Ah, Monolith, over a billion
+gastricly disturbed. After inhaling my favorite Monolith meal
+(I've been ordering the thing
+since I was knee high to a
+slime beast), I discovered the
+latest coin-op from Scumsoft.
+Pumped half my buckazoids
+into the thing, though I finally figured out the secret. Once you
+get the chicken directly over the trampoline/landing pad, you let
+the bird free fall and then give one flap up just after the halfway
+point of the decent. The single flap will set the bird down for a
+picture perfect landing (baacock!). More importantly I discovered a secret distress signal from the Two Guys. It's off to
+Ortega to once again save the day."
+"Leaping lava lizards! The travel brochure wasn't kidding
+when it warned to dress light. If it wasn't for my Thermo Weave
+(the super-stretch waist-band snaps back wash after wash!) I'd
+be one crisp custodian. Now to find the source of the defense
+beam."
+"It was only a matter of time before I got past the Scumsoft
+geologists. After that, it was just a small hike to the beam generator. Frankly, Roger Wilco is typically a calm and collected
+guy, but I was quite shaken up after I blew that beam. If it
+hadn't been for my stint on the intergalactic track and field
+team ( ok, ok so I only laundered jock straps!), I'd be the latest
+addition to the Ortegan geography ."
+"Managed to infiltrate Scumsoft's Pestulon base undetected,
+thanks to my gift from Arnoid, R.I.P. Even managed to change
+into something more comfortable. Using this cover, I could
+probably find the items needed to breach that security door."
+"Ah the Two Guys! Once again I save the . . . . huh? Never
+mind. I thought I'd emptied my last wastebasket when I entered
+the battle droid arena. But, in the end, my experience was too
+much for the pimple faced punk. All seasoned battle droids warriors know that if you anticipate the opponent's moves, punching at the same time as he does, you'll land the blow. Also, if
+you can get the opponent on his heels and you're aggressive,
+you can land several blows before he can recover his balance. If
+you get your opponent against the wall you'll limit his range of
+movements making for an easier target."
+"After wasting the kid, it was a textbook escape. Raise a
+shield, lower a shield, blast a pirate into the afterworld. What
+could be easier? The difficult part was facing rejection by Sierra
+president Ken Williams. Oh well . . . unrewarded and unemployed I once again fly off into the sunset. Time for that trip
+to Hair Island."
+
+Review
+
+ou hang precariously
+from the Embassy's escarpment, seconds
+away from the encounter you
+and your squad hoped you
+would never see. The lives of
+innocent victims depend on
+the cool nerves and finely
+honed team skills of your
+men. Your marksmen have already been placed to cover
+the Embassy's exits. Nobody
+Ls getting out but can you
+get in? A hasty rappel from a
+building is dangerous
+enough without the added
+element of gunfire. You wait
+on the signal to move in with
+gut wrenching anticipation . .
+
+The mixture of different
+viewscreens and "camera
+angles" offers an interesting
+"You are there" perspective
+that has rarely been captured
+in a computer game.
+Hostage: Rescue Mission
+also features supporting characters with minds of their
+own. For example, if a
+marksman is left on the
+street for too long without orders, he will seek cover on
+his own.
+The attractively presented
+documentation contains an irritating error of omission. It
+fails to inform IBM users that
+they can press F9 to be
+delivered from the overly
+numbing theme music. Perhaps it's a terrorist mind control technique. Otherwise the
+exciting realism and realistic
+graphics present an interesting variation on the recently
+popular police theme.
+For those less than successful missions there is a
+replay feature allowing the
+replay of all or part of the mission without rebooting.
+Most of this games annoyances are relatively minor
+and easily ignored in light of
+it's playability. Between stages the screen blanks with only the
+power light to comfort you. The musical accompaniment can be
+overcome. The terrible joystick/keyboard response can prove to
+be detrimental to the game play and incidentally to your life.
+Response is sporadic at best, a single keystroke or joystick movement may take four or five tries. This can be vitally important
+when you've just crashed through the third floor window into a
+room full of surprised terrorists. This is an annoying, sometimes
+"fatal", problem.
+
+"CODE BLUE,
+CODE BLUE,
+ALL UNITS...
+by Robert W. Struble
+
+Embassy of Blood
+(The Setting)
+Hostage: Rescue Mission offers tomorrow's headlines
+today in a realistic combination of arcade and strategy.
+TITLE:
+Hostage Rescue Mission
+The game simulates the
+SYSTEMS:
+Amiga, ST,
+demanding realities of a
+C-64/128, and IBM
+deteriorating hostage situaREVIEWED:
+IBM
+PRICE:
+$39.99
+tion in it's final hour. NegotiaDESIGNERS:
+Infogrames
+tions have failed and you
+PUBLISHER:
+Mindscape Inc.
+must lead a team of trained
+Northbrook, IL
+professionals into an imposing three story building filled
+with fanatical terrorists and terrified hostages. Violence is now the
+final option and a lightning fast surgical strike is the only way to
+save lives before the fatal deadline.
+Your team is composed of two three man teams. You must
+guide your marksmen to covered positions around the building
+where they can operate as counter-snipers. Be prepared to dive
+for cover, perform combat rolls and low crawl along the dark
+streets to evade the terrorist's spotlights and withering fire. Once
+in place it's time for the Direct Intervention Team to airland onto
+the Embassy roof. From there they will be able to rappel down
+into the lower floors under cover of your marksmen.
+It's inside the Embassy itself that the nerve wracking pace
+rushes into it's explosive final minutes. Crashing through windows, team members must search out the occupants, differentiate friend from foe and move the hostages to a position of
+safety while dealing with the heavily armed opposition. Your
+weapons stitch ragged holes across the paneled walls. The fanatical terrorist band will use innocent hostages or even their own
+members as living shields while firing at you with deadly accuracy.
+The rooms, filled with bookcases, sofas and desks, soon become
+littered with the bodies of the fallen.
+Once the shooting stops and the survivors are rushed to safety
+you must then brave an even more dangerous foe, the Media.
+Your teams performance is evaluated the same as in life by the
+front page. A successful mission can mean glowing praise and
+possible promotion. The loss of team members, expiration of
+deadlines, or death of a hostage will result in scathing condemnation in the morning press.
+
+Promotional Considerations (The System)
+There are three difficulty levels and five missions from which to
+choose to chose. The more difficult the mission, the less time
+you have to clear the Embassy. The higher levels provide you
+with progressively less battlefield intelligence and fiercer opponents. The higher difficulty levels can only be reached by a
+secret access code gained upon successful completion of the previous level.
+
+Special Tactical Training (Warning: Hints Follow)
+A combination use of keyboard and stick will yield optimal
+results. Use the keyboard until you have gained entry through a
+window then switch to joystick while clearing the building.
+To avoid having to try the impossible feat of picking off a gunman behind a hostage, try running into them and immediately
+leaving the room. The hostage will follow you to safety and allow
+you to deal with the terrorist man-to-man.
+Occasionally a foe will try to escape rather than engage your
+man. Remember that the time spent chasing him about the
+room could be better spent collecting hostages or in the hallways
+where traffic tends to be heavier and lines of sight are clearer.
+Finally, if there happens to be both time and team members to
+spare you may be able to utilize the stairs shooting gallery. This
+can occur when a team member is left on a cleared upper floor
+as a decoy. Terrorists will detect his presence and attempt to
+reach him by charging up the stairs. This tactic both isolates the
+opposition and significantly increases the chance of their elimination.
+
+Disposition (Recommendation)
+With its multiple levels of difficulty and tactical demands, this is
+a game not to be easily beaten and put on a shelf. If the joystick/keyboard response problem did not exist, Hostage: Rescue
+Mission would be an unquestionable value. Even with the problem, it is an exciting and worthwhile experience.
+
+Industry News
+
+Why Is "Harpoon" So Late?
+By Gordon Walton of Digital Illusions
+n fact, why are so many entertainment
+programs late? Are the programmers
+incredibly dumb, the publishers crazy
+and/or tellers of little 'white' lies? I will try
+to cover both the specifics for the Harpoon program and the general reasons
+within our industry that programs are late.
+
+I
+
+The Industry Problem
+The first reason programs in general
+are late is due to the incurable optimism
+that affects almost all programmers.
+Programmers consistently underestimate
+the time it will take to do any programming task. Unfortunately, to be a
+programmer requires an optimistic attitude, as doing a bug-free program is almost impossible, yet all programmers
+believe that they can do this. Worse yet,
+game programs have to be even more
+bug-free than business programs due to
+the fact that the programs have a limited
+life and are not normally updated.
+If a program is breaking any new technological ground, the risk factors in
+scheduling go up by a factor of 10! A
+clone or evolutionary product is much
+less risky to schedule and sell (Hence,
+
+one reason so many products are merely
+a variation on some well known theme).
+Next, entertainment publishers sometimes believe their programmers when
+they give schedules. Possibly, they may
+not fully understand the design and/or
+technical risks. Last, they may believe
+that by adding infinite resources to a late
+project, they can bring it in "Real Soon
+Now".
+
+The Harpoon Problems
+Many of you may believe that converting a board game to the computer
+should be simple. If you just want a representation of the board game on the computer, this might be true. If you want a
+product that takes true advantage of the
+computer's power and interactivity, has a
+reasonably intelligent computer opponent, extends the game such that you
+can do larger scenarios than are normally
+played using the paper rules, and finally
+takes a turn-oriented game and makes it
+a real-time simulation, it is going to take
+some serious development time. Harpoon is interesting in that it is both an
+operational and tactical game, allowing
+the user to not only control groups of
+
+ships and aircraft, but also have control
+over the individual weapons on some of
+these units. Harpoon's hybrid constitution adds considerable complexity to the
+implementation of the final computer
+product.
+Harpoon experienced all of the previously mentioned industry problems associated with producing a product. The
+original team truly believed that they
+could do the program under the original
+schedule. The design and technical
+problems associated with a program of
+this magnitude were underestimated. The
+management of Three-Sixty had confidence in the original team, and did not,
+therefore, challenge the process and
+missed milestones satisfactorily. All of
+these conspired to cause the original slippage. In a heroic attempt to get the
+product out as soon as possible, ThreeSixty more than doubled the resources allocated to the original Harpoon development team. After months of slippage,
+shipping became the goal, but this did
+not address many of the underlying issues that were the true cause of the inaccurate time estimates.
+After Digital Illusions was retained in
+mid-February of 1989 to manage and
+produce the product, we invested almost
+four man months to do design review, additional design and make a detailed
+specification for the entire Harpoon
+product. This process has allowed us to
+identify the problem areas, get a
+reasonably accurate estimate of the time
+and resources required to finish the
+product, and hopefully produce a better
+product.
+You will see the IBM PC compatible version of Harpoon on the shelves before
+Christmas. It will be a breakthrough
+product in that it will allow you to control
+multiple groups of ships/subs/aircraft in
+the first "BattleSet", the "GIUK" (the
+Greenland-Iceland-United Kingdom Gap)
+which contains twelve scenarios ranging
+from simple encounters to full scale battle setups. Three-Sixty will be producing
+additional "BattleSets" for Harpoon, containing 12-16 scenarios, which will extend
+the product for those who want even
+more depth and challenge. The "Staff Assistant" feature will help the player learn
+the art of modern naval warfare during
+play, and can serve as a coach for a
+novice player who might normally avoid a
+product of this complexity. I believe that
+the final product will be worth the very
+long wait.
+Three-Sixty can be reached at (408)
+879-9144 weekdays, during West Coast
+business hours. Please feel free to call to
+get the most current information on the
+shipping schedule. We currently estimate that formal beta testing will start
+in summer 1989 and that the program
+will ship in mid-September. But remember that all developers are optimists, and
+Three-Sixty has committed to not shipping it until it is right!
+
+Tangled Tales
+
+(Continued from page 27)
+
+on the left. In dungeons, the still is replaced with a 3-d view of
+your current location.
+The various NPC's you meet run the gamut from fairly normal
+to pretty zany. The best ones are found later in the game, especially in the third scenario; those at the beginning seem a little
+bland, for the most part.
+On the whole, Tangled Tales is an uneven game. As mentioned
+earlier, it appears to be an attempt to integrate adventure game
+elements with role-playing elements, and this attempt is not entirely successful. Incessant combat is not a feature here and that
+is good. However, there is enough of it that it can become an ir-
+
+ritating obstacle, at least until you
+obtain the Monster Detection
+spell, which allows you to avoid
+any fighting that is not pre-set in
+the game.
+Solving many of the puzzles is
+more a matter of having the right
+people in the party than anything
+else, which reduces the main character to spectator at many critical
+points in the game. A little less
+reliance on all these NPC's would
+have been better.
+A major sore point is the fact
+that you can't make backup
+copies to play from. The game
+comes on two double-sided disks.
+So, given the considerable
+amount of disk access during
+play, the three adventure sides,
+at least, ought to have been
+copyable.
+On the other hand, it is refreshing to have a game that is not
+dependent on how many monsters you wipe out, how high you
+can boost a character's level, or how much treasure you can get
+your hot little hands on. Even better, none of the scenarios feature that tired old "kill the evil whatever" theme. Having NPC's
+that are really important for more than just combat purposes is
+another plus (although perhaps sometimes too important as
+noted above).
+Bottom line: Tangled Tales has both strong and weak points,
+but in the final analysis, it is definitely worth a look by those of us
+who are tired of monster-mashing and treasure grabbing.
+Copyright 1989 by Scorpia, all rights reserved.
+
+(Continued from page 35)
+
+Scorpion's Mail
+No important information is down there, nor any critical items.
+There are a few things you can get past those "No Elves/Dwarves/Paladins/Whatever" signs, but the effort required in shuffling
+the party members around isn't worth the reward. You can do it if
+you like, of course. Just remember it's a side trip and not the
+main event (however, do not neglect the dungeons elsewhere, as
+those are important). It is also possible to finish the game without
+deciphering all the cryptic messages you come across during
+your explorations. So, if you don't find all the messages (or the interleave codes), don't worry about it.
+Manhunter: A number of people have been having a hard time
+finding the Statue of Liberty. Now, living in New York as I do, this
+was no problem for me at all (smirk). Of course, not everyone
+has this advantage (poor souls), so it's understandable that some
+people are experiencing difficulties. I'll bet you've all been going
+for the big island with the star on it. Hehehe. That's not it. Look
+elsewhere (and there aren't too many places to try).
+Well, that's about it for this mail call. Remember if you need
+help with an adventure game, you can reach me in the following
+ways:
+On Delphi: Visit the GameSIG (under the Groups and Clubs
+menu). On GEnie: Stop by the Games RoundTable (type: Scorpia to reach the Games RT). By US Mail (enclose a self-addressed, stamped envelope if you live in the United States: Scorpia, PO Box 338, Gracie Station, New York, NY 10028).
+Copyright 1989 by Scorpia, all rights reserved.
+
+Reader Input Device
+
+

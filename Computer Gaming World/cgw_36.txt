@@ -1,0 +1,3343 @@
+MENU
+
+April 1987
+
+Number 36
+
+FEATURES
+Baseball Game Survey
+Bezbol Been Berry Berry Good To Me!
+
+6
+Johnny L. Wilson
+
+Titans of The Computer Gaming World
+
+12
+Epyx is the First Company Covered in Our New Series Charles Ardai
+
+War In The South Pacific
+SSI's New "Monster" Game
+
+16
+Bob Proctor
+
+Hollywood Hi jinx
+
+22
+Scorpia
+
+Scorpion's Tale Takes Us To Tinsel Town
+
+Might and Magic
+
+24
+Scorpia
+
+A Fantasy Role-Playing Game
+
+Gone With The Wind
+A Survey of Computer Sailing Programs
+
+28
+Russell Sipe
+
+You've Come A Long Way, Baby!
+
+32
+Bruce Artwick's Flight Simulator: An Epic Program Daniel Hockman
+
+Interview With Earl Weaver
+
+36
+
+Weaver Talks About His New Electronic Arts Baseball Game
+
+The Mail Plane Blues
+Computer Moderated Play-By-Mail Games
+
+Ogre
+A Review of Origin Systems Sci-Fi Tank Game
+
+40
+Johnny L. Wilson
+46
+M. Evan Brooks
+
+DEPARTMENTS
+Taking A Peek
+
+4
+
+Screen Photos and Brief Comments
+
+Letters
+
+48
+
+Reader Input Device
+
+55
+
+Game Ratings
+
+56
+
+TAKING A PEEK
+
+Accolade
+20813 Stevens Creek Blvd.
+Cupertino, CA 95014
+DECEPTOR: In this arcade game, released through Accolade's budget
+"Avantage" line, you actually become
+the Deceptor (a quasi-Transformer) in
+undertaking a quest against the evil
+Replicoids. C-64/128 ($14.95). Circle
+Reader Service #1.
+DESERT FOX: This is the Avantage
+line's foray into wargames. DF is a hybrid arcade/strategy game based on
+the exploits of Field Marshall Rommel.
+C-64/128 ($14.95). Circle Reader Service #2.
+Electronic Arts
+1820 Gateway Dr.
+San Mateo, CA 94404
+PHM PEGASUS: This wargame includes eight progressively more difficult scenarios where you command a
+patrol hydrofoil in the "danger zone" of
+the Eastern Mediterranean and Per-
+
+Sian Gulf. Apple, C-64/128 ($34.95).
+Circle Reader Service #3.
+Epyx
+600 Galveston Dr.
+P. 0. Box 8020
+Redwood City, CA 94063
+SUB BATTLE SIMULATOR: If you've
+ever wanted to command on submarine
+in either theatre of World War II, this
+detailed simulation with five levels of
+maps, six different ship class es, and
+four levels of difficulty. Macintosh
+(soon for Apple, Atari, C-64/128 and
+IBM - $39.95). Circle Reader Service
+#4.
+Firebird
+P. 0. Box 49
+Ramsey, NJ 07446
+TALKING TEACHER: A basic
+preschool education program for letter
+identification, pronunciation, and spatial relationships, this program has
+excellent graphics and synthesized
+speech to encourage learning. C-
+
+64/128 ($39.95). Circle Reader Service
+#5.
+TRACKER: In this fast-moving three
+dimensional arcade game, you attack
+renegade cybernetic forces which learn
+and remember your strategy as you
+attempt to destroy them. Players pilot
+skimmer craft through twenty-two interconnected sectors and attempt to
+reach the Central ring (the cybernetic
+brain itself). In order to accomplish
+this, players must defeat Cycloid
+(robotic vehicles) units and destroy
+communications centers along the way.
+C-64/128 ($39.95). Circle Reader Service #6.
+Scorpio Systems
+P. 0. Box 2008
+San Francisco, CA 94126
+PROFE$$OR CRAP$: This tutorial/game on the classic casino gambling game seeks to duplicate the "look
+and feel" of a craps table. You can
+learn the odds and basic strategies,
+
+then create your own strategy during
+the game itself. Atari ST, IBM, and
+Macintosh ($49.95). Circle Reader Service # 7.
+
+CONVERSIONS RECEIVED
+
+Springboard Software, Inc.
+7808 Creekridge Circle
+Minneapolis, MN 55435
+CERTIFICATE MAKER: This is an
+exceptional awards construction set
+with over 200 prefabricated certificates
+to choose from and the tools to make
+hundreds more. Apple, C-64/128,
+IBM, Macintosh ($49.95, $59.95). Circle Reader Service # 8.
+
+For the Amiga:
+Exodus: Ultima III (Origin/EA)
+Hollywood Hijinx (Infocom)
+Moonmist (Infocom)
+World Games (Epyx)
+Zork Trilogy (Infocom)
+
+For the Apple:
+Championship Wrestling (Epyx)
+Gemstone Healer (SSI)
+Marble Madness (EA)
+Realm of Impossibility (EA)
+Spy vs. Spy (Accolade)
+
+For the Atari (8 bit):
+Battle of Chickamauga (GDW)
+Mail Order Monsters (EA)
+Ogre (Origin/EA)
+Rommel: Battles for Tobruk (GDW)
+Spy vs. Spy (Accolade)
+
+For the Atari ST:
+Arcticfox (EA)
+Championship Wrestling (Epyx)
+Exodus: Ultima III (Origin/EA)
+Flight Simulator II (subLogic)
+Ogre (Origin/EA)
+Phantasie II (SSI)
+World Games (Epyx)
+
+For the C-64/128:
+Autoduel (Origin/EA)
+Ogre (Origin/EA)
+Spy vs. Spy (Accolade)
+Starglider (Firebird)
+Warship (SSI)
+
+For the IBM:
+Amnesia (EA)
+Psi-5 Trading Co. (Accolade)
+Where In The USA
+is Carmen Santiago (Broderbund)
+World Games (Epyx)
+
+For the Macintosh:
+Hardball (Accolade)
+NFL Challenge (XOR)
+North Atlantic '86 (SSI)
+
+by
+Johnny Wilson
+As an incorrigible Cubs and Angels fan, I'm not
+sure that the hilarious, albeit racist, line immortalized by Garrett Morris' Saturday Night Live character applies to me. "Bezbol," hasn't always "been
+berry, berry good to me." It has always been of
+great importance to me, however. Like the protagonist of Sinclair Lewis' Babbitt and the great line
+which summarized his value system ("They were of
+eternal importance, like baseball and the Republican Party."), baseball has always been a tremendous
+symbol of hope reborn and hope deferred. Each
+trade, each "meaningless" spring training game, each
+extra inning victory, and each second-guess
+brought new hope and new life into the daily routine. It may have been a barbaric day at work, but
+a victory by the Cubs could redeem it. There have
+been times when I would have been willing to
+make the same deal as portrayed in "Damn Yankees" if only the Mets would fall apart.
+Fortunately, the computer age has enabled me to
+experience new hope (and new anguish) with regard
+to baseball. The emergence of statistics-based
+games has enabled me to replay those extra-inning
+losses and often, turn those frustrations into triumphs. In fact, participation in a computer baseball
+league has allowed me to function as both manager
+and general manager. So what if my Angels lose
+tonight? They can redeem themselves by winning
+on my computer screen with any year's stats. So
+what if I don't like Shawn Dunston's excessive
+number of strike outs? I can always trade him to
+some other team.
+Here is a brief survey some of the computer
+baseball games which are currently on the market.
+The present article will not mention Full Count
+Baseball which will be covered in our next issue.
+Instead, it seems best to begin with some of the
+newer programs which have hit the market, then
+we will attempt to summarize some of the older
+programs which were reviewed in the June-July
+1985 (5.3) issue.
+EARL WEAVER BASEBALL
+(Electronic Arts, available for Amiga; soon for
+IBM; later for the Apple IIgs).
+Undoubtedly the most exciting sports simulation
+to be released in years, Earl Weaver Baseball (EW)
+has it all. Although it is a statistics-based game, the
+graphics and animation are superb. The fluid ani-
+
+mation of the players is kinetically correct. Of
+course, one would expect this from Eddie Dombrower of Mirage Graphics who did the first computer dance notation program for microcomputers.
+Eddie uses a split-screen approach (a la television
+and his own Intellivision product, World Series
+Baseball) in order to show pitching and batting in
+detail and fielding by means of an overview. The
+
+pitcher even differentiates between the full windup and the stretch. Further, you can actually see
+the ball curve when a breaking pitch is thrown.
+That's not all! The sound is magnificent from the
+opening Sousa march to the digitized speech of Earl
+Weaver coming out to argue with the umpire. Teri
+Mason, a flutist herself, is a specialist in sound and
+made certain that even the crack of the bat was
+
+authentic aurally. Of course, the big difference in
+this program is provided by Earl Weaver himself
+(see the interview published in this issue). The
+strategy comes from a series of meetings with
+Weaver throughout a full season. The computer will
+even set up a lineup based on Weaver's percentages
+and has an "Ask Earl" tutorial which is of some interest to those unfamiliar with Earl Weaver on
+Strategy, his authoritative book on the subject.
+The chrome included with the game includes: 1)
+the ability to design and save your own stadium; 2)
+the ability to choose and save your team colors (for
+both road and home uniforms); 3) a general manager function for ease of trading, complete with
+player with suitcase icon; 4) the capacity for instant
+replay and slow motion instant replay; 5) the ability
+to print out lineups using Earl's system; and 6) a
+stat compiler for league play that even allows trading during the season. In addition to all of this, the
+algorithms are not strictly based on statistics. Dombrower has an extensive knowledge of physics and
+has developed a matrix modified by physical laws
+to determine where the ball is likely to land within
+(or beyond) the confines of the stadium. A typical
+play, for example, might go like this: Don Mattingly is at bat against Oil Can Boyd at Fenway
+Park. Boyd pitches. The random number generator
+picks a number which is compared to the combined
+stat matrix formed by the interaction of Mattingly's
+and Boyd's stats. The computer determines that the
+
+result is a double. The program then looks at a
+doubles table to randomly determine what kind of
+double it is (some of the possibilities here might be,
+grounder down the third base line, line drive to
+right center, ground rule double to right, fly ball
+off the left field wall, etc.). The program determines that this particular double is a line drive
+smash down the left field line. Once the ball leaves
+the bat, physics and distances take over. The distance to the wall, the wind, the position of the left
+fielder and his speed all interact to determine how
+soon he is able to field the ball. In the case of
+Fenway park the ball gets to the short left field
+wall very quickly. What may be a double in any
+other park in the league turns out in this case to be
+a long single.
+Not only does the added physics bring more realism to the game, it also adds much to the appearance and enjoyment of the game. A deep fly to
+center may or may not be out. You can't be sure
+until the ball actually comes down. It's exciting!
+The stadium design option is fascinating. You
+can choose: what the color of your stadium will be;
+distances down the lines, to the power alleys, and
+to straight-away center; height of the fences,
+whether your stadium is indoor (with no wind effects) or outdoor; if you will have a pitchers' park
+with lots of foul ground or a hitters' park with very
+little; and whether it will have artificial or natural
+turf.
+If you prefer you can use one of the 32 stadiums
+already on the disk which include some of the
+current parks as well as many classic parks of the
+past. [such as the Polo Grounds, Ebbetts Field, The
+LA Coliseum (with it's left field screen), old
+Yankee Stadium (with the Grand Canyon center
+field and Babe Ruth inspired right field short deck)
+and many many others].
+The general manager option facilitates trading
+and compilation of statistics for league play, as well
+as allows you to edit the players' names so that the
+speech synthesizer can pronounce them.
+The game itself can be played strictly as a
+statistics based game or as a statistics modified arcade game ("Play & Manage" mode). The latter
+mode allows play under four different sets of rules
+(Major, Minor, Semi-Pro, or Sandlot) and the
+player can choose to play where one pitch represents the entire at bat or take the full at bat. In the
+last mentioned mode, one has the chance to use op-
+
+Bezbol (cont.)
+
+tions like "Swing Away" or "Take Pitch," which are
+not relevant to the "One Pitch" mode.
+Most important to armchair managers, however,
+are the actual offensive and defensive options
+which they have to work with. EW is full of options, including specific steal orders (steal of second, third, home, or double steal), differentiation
+between a bunt and a squeeze play, and consistent
+with Earl's strategy, the ability to call for the "Run
+and Hit" play over the "Hit and Run" (although
+both options are present in the game. Weaver contends that the "Hit and Run" is the worst play in
+baseball because it both takes the bat out of the
+batter's hand and has a tendency to hang the runner
+out to dry. The "Run and Hit," however, tells the
+runner to try to steal and the batter only swings if
+he has a good pitch, not just to protect the runner.
+EW allows you to try either one. Rest assured that
+the game itself is not statistically biased against the
+hit and run even though Earl hates the play. Likewise, bunting is statistically accurate even though
+Earl dislikes the sacrifice bunt as a general rule.
+On the defensive side, DV really spices up the
+game. In addition to standard orders like "Visit
+Mound," "Guard Lines," and "Hold Runner," the
+program allows you to shift both the infield and
+the outfield to the left and right according to the
+placement you wish, not some basic formula. The
+program also allows you to ad just the outfield and
+infield depth according to your needs. Further, the
+program allows for pitch outs in steal situations, as
+well as pitching around a dangerous hitter. In bunt
+situations, one has the option of charging from first
+and/or third. In short, EW really gives you the
+chance to think like a manager.
+Finally, in the Commissioner mode you have
+everything you need to set up your own league
+with up to 32 teams in up to four divisions. EW
+will compile stats, print league leaders in all stat
+categories, maintain standings, compile team stats.
+In short, give you everything you need to run a
+league without spending all of your free time calculating averages and standings.
+MAJOR LEAGUE MANAGER
+(Spinnaker Software, available for IBM).
+This is a new incarnation of Pro Manager
+(originally published by Avalon Hill). As noted by
+
+Bill Oxner in a previous baseball survey (CGW 5.3,
+p. 26), this game is tremendous in its stat-handling
+ability. The program still allows the manager to
+"profile" any player (getting a statistical picture of
+his previous performances), compile the stats of
+league leaders in rank order, derive standings from
+won/loss records, and print out all league stats.
+This game isn't simply a repackaged Pro Manager,
+however, because it's been tweaked up quite a bit.
+It is now easier to make trades, create teams, or
+key in a player with your own stats. The description of each play is somewhat more colorful and
+the addition of music adds to the play (but may be
+toggled off, if the player doesn't care for it or
+wants to speed up play). One piece of chrome that
+executives may find interesting is the "Executive
+Pause." This command clears the screen and allows
+you to type anything you wish without affecting
+the game. To return to the game, you simply hit
+the F10 key. This is handy for playing the game at
+work. [Ed.: So that's what you've been doing in the
+afternoons! And I thought you were editing!]
+Unfortunately, the game isn't nearly as rich in
+managerial options as some of the other games
+covered in this article. For example, there are only
+five offensive options (pinch hit, pinch run, bunt
+for a sacrifice, steal with all runners unless there is
+a first and third situation, and hit and run). Defensively, there are five basic choices (defensive or
+pitching change, infield in, guard lines, pitch
+around, and walk). Of these basic choices,
+the first allows replacement of the
+pitcher or any fielder, as well as
+exchanging the positions of two
+players. Major League
+Manager probably
+plays the
+quickest
+of the
+products
+reviewed in
+this article, but I
+can't help feeling
+that this is because
+you can't make as
+many decisions in
+order to affect the
+outcome as you can
+in the other games.
+
+Defensive options are also divided into two
+consecutive menus. The first menu consists of four
+options for the pitcher. These are: 1) pitch aggressively; 2) pitch around the batter; 3) intentionally
+walk the batter; and 4) pitch out. The second menu
+consists of five options for the fielders. These are:
+1) infield in; 2) in at the corners; 3) guard the line;
+4) play aggressively in the outfield; and 5) play behind the runner.
+Another nice touch of Pure-Stat Baseball is the
+availability of three different stadiums (Yankee,
+Dodger and subLogic) which are part of the basic
+game and the stadium disk which contains several
+more. No matter which stadium is used, however,
+the graphics can be disorienting, at first. It seems
+that the entire stadium layout flip-flops on the
+screen, depending on the handedness of the batter.
+Hence, a left-handed batter is seen on the right
+lower corner of the screen, while a right-handed
+Continued on pg. 42
+
+PURE-STAT BASEBALL
+(SubLogic, available for C-64/128 and Apple).
+Although the graphics are reminiscent of Micro
+League Baseball, the managerial choices of this
+subLogic program are far superior. The game is
+playable as a solitaire, two player, or computer only
+contest. It is statistically based and comes with a
+1985 Team Data Disk, as well as the eight great
+past teams which come on the game disk itself.
+Players are rated on defensive range and throwing
+ability, as well as base running ability, bunting and
+sacrifice capability on the offensive side.
+Offensive options are divided into two menus
+presented consecutively. The first menu offers
+seven choices for the batter: 1) hit and run; 2) bunt
+for hit; 3) swing aggressively; 4) bat cautiously; 5)
+sacrifice bunt; 6) hit behind the runners; and 7)
+squeeze bunt. The second menu compliments the
+first with seven choices for the runner: 1) steal second; 2) steal third; 3) steal home; 4) run aggressively; 5) run aggressively if hit to left field; 6) run
+aggressively if hit to center field; and 7) run aggressively if hit to right field. Those latter choices
+are facilitated by the inclusion of the throwing
+ratings for each fielder on the same screen.
+
+Titans
+of the
+Computer
+Gaming
+World
+Part I of V: Ardai on Epyx
+
+by Charles Ardai
+
+Chapter One
+Wherein the reader uncovers the many wonders of
+Epyx games and examines an eternal question, to
+wit: "How do action-oriented games succeed in the
+post-videogame era?"
+——
+
+In the past, all that was necessary for a computer game to be successful was an imaginative title
+or an attractive bit of packaging; the quality of the
+software was incidental. This curious situation came
+to pass as a result of most games being of equal
+play value. With ten versions of "Shoot the Flying
+Lump" competing for your consumer dollar — and
+often no way to compare the games in a store —
+decisions were made on rather flimsy premises.
+What was Starpath's Communist Mutants from
+Outer Space, if not Space Invaders redone? It was
+obviously nothing more than an attention grabbing
+title. Since the title wasn't worth some forty dollars
+worth of entertainment, however, Communist Mu-
+
+tants had its moment in the sun and vanished as
+quickly as HES' Attack of the Mutant Camels and
+Fox's Revenge of the Beefsteak Tomatoes. All of
+which has nothing to do with Epyx and that's a
+darn good thing! If it did, Epyx would never have
+gotten past the Mutant Camel Tomatoes period of
+computer gaming.
+While Mattel was selling Advanced Dungeons
+and Dragons, Epyx was selling the similar Temple
+of Apshai trilogy. When the allure of the former's
+licensed trademark wore off, Mattel's game disappeared. Apshai, on the other hand, is still going
+strong, more than half a decade after its inception.
+There is only one explanation for this and that explanation is the story of Epyx's existence: in the
+end, a good program will always be more successful
+than a poor one.
+So, while Epyx's competitors spent their energies
+trying to find a way to make Q*Bert clones look
+like original games, Epyx busily recruited talented
+designers to write original, high-quality software.
+Today, one doesn't need demonstration models at
+a computer store to be assured of purchasing a
+quality game. If someone wants a top-notch text
+adventure, he buys one of Infocom's. If he wants
+the same high standards in a graphic action game,
+Epyx can be counted on to deliver.
+This is not to say that Epyx hasn't come out
+with some clunkers along the way. As long as we
+are on the subject of text adventures, we might as
+
+well mention Robots of Dawn, an Infocom-esque
+offering based on the bestselling novel by Isaac
+Asimov. It wasn't a terrible game, but it wasn't
+particularly noteworthy, either. For one thing, it
+completely lacked Asimov's distinctive prose style
+(Dr. Asimov told me that he had no input in its
+design.). For another, it used his plot only tangentially. Most of all, however, it just wasn't what
+people wanted from Epyx.
+There were other failures, too: a resurrection of
+the ancient arcade games Star Fire and Fire One;
+Barbie, a reprehensibly empty-headed and sexist
+toy; and Ken Uston's Puzzle Panic, a confusing series of uninteresting puzzles.
+Through it all, however, Epyx has developed a
+well-deserved reputation for creating fine games
+and for adding elements of complexity to even the
+most basic contests. At every turn, Epyx surprises
+gamers with features like split-screen play (Pits top
+II), digitized voice synthesis (Barbie), background
+graphics (Winter Games),complex sports games with
+quickly learned control systems (World Karate
+Championship and Championship Wrestling), and
+products which match unusual concepts with unusually good gameplay (Breakdance, The Movie
+Monster Game, and Impossible Mission).
+Infocom might have done a better Robots of
+Dawn or Electronic Arts might have created a better Fun With Music, but no one could have made a
+better Jumpman. On its own turf, Epyx just can't
+be topped.
+Chapter Two
+
+In which the author acknowledges an error
+——
+You are in the "Software Village" computer store.
+All around you shelves overflow with games, utilities
+and bottles of Monitor Cleaning Solution. Many of
+the games you see are made by Epyx. Behind the
+store's counter, a salesman is reading the "Year In
+Review" article in the December issue of Computer
+Gaming World.
+>EXAMINE GAMES
+Which games do you mean, the Epyx games or
+the others?
+>EPYX
+One game in particular catches your eye. In
+bright red letters its title reads, "The Eidolon." The
+salesman looks up from his magazine and points at
+you accusingly. "You wrote that Activision makes
+"The Eidolon!"
+
+>SALESMAN, I KNOW
+"How could you make such a stupid mistake?"
+>SALESMAN, I DON'T KNOW
+The salesman mutters something unpleasant under
+his breath. "Epyx games are some of the best sellers
+we've got," he says, "but when they make a turkey,
+they should get credit for that, too."
+>KICK SELF
+Done.
+Chapter Three
+
+The article is resumed with a discourse on Epyx's
+award-winning techniques.
+——
+At their best, Epyx games are lavish productions, filled to the brim with the result of what
+Epyx representative Noreen Lovoi calls "tweaking,"
+adding interesting features to a game in order to
+heighten its appeal. At their worst, Epyx games are
+nothing but "tweaks." For instance, Lucasfilm's The
+Eidolon is a collection of imaginative graphic accoutrements with no game to speak of.
+Generally, however, tweaking adds a great deal
+to what are already interesting games. The monitor
+replay in Summer Games II, the facial expressions
+in World Karate Championship, and the crowd in
+Championship Wrestling are all prime examples of
+successful tweaks. None of them are essential to the
+mechanics of the games, but they add depth and
+flavor to the worlds of the simulations. The most
+successful tweaks of all are the Olympic-style
+openings to the "Games" series. From the animated
+sequences to the choosing of nationalities and the
+playing of national anthems, the tweaks frequently
+overshadow the events themselves (not terribly surprising when one considers the occasionally dull
+gameplay).
+How can a joystick's motion be said to simulate
+gymnastics? "Inaccurately," one should answer, "at
+best." Without tweaks, Epyx's software would be
+innocuous and flat, not nearly as entertaining as it
+usually is.
+How does the ability to choose your motorcyclist's jacket style affect Supercycle? It adds to
+one's satisfaction in the same way that the use of
+Godzilla instead of a generic dinosaur affects the
+Movie Monster Game. Tweaks serve a similar purpose in Epyx games as gag lines in text adventures.
+That is, the greater the number (anyone out there
+catch 9 1/2 Tweaks?), the richer the texture of the
+game and the better the replay possibilities. At
+
+around forty dollars per game, players want and
+deserve all the replay value they can get.
+Game quality can be determined by its replay
+value and playability, as well as its graphics, background music and other aesthetic components. The
+best games on the market, and most Epyx games,
+are successful in all of these areas. What sets Epyx
+apart from the pack is the extra polish that is put
+on Epyx products. Musical themes aren't just there,
+they're good. Epyx's one piece of hardware, the 500
+XJ joystick (soon to be available as an Apple and
+IBM peripheral) is not just a stylish handgrip hyped
+by snazzy marketing, but it actually responds faster
+to the player's movements than any of its competitors. Action games are never solely action. They all
+involve multiple levels of play and require strategic
+planning, especially in the new Masters Collection
+line of war simulations.
+Perhaps the best example of the value of Epyx's
+adding extra features to its games prior to release is
+to be found in the visually aesthetic Impossible
+Mission. At heart, the game is nothing more than a
+climbing game tacked onto a simple puzzle and
+time limit. It is only the multitude of special features — realistic voice synthesis, appropriate sound
+effects, colorful and varied scenes, and unique adversaries — that make it an unusually fine game.
+What makes it a classic computer game, however, is
+a pair of otherwise non-essential tweaks. First,
+when the player's character jumps, he doesn't hop;
+he performs a perfectly fluid forward flip. Second,
+when he falls through a gap in the floor at the
+bottom of the screen, the player is treated to a
+horrific scream accompanied by a sound effect that
+suggests plummeting to unimaginable depths.
+That's it — a scream and a somersault. Doesn't
+sound like much, does it? Still, people have written
+to me to say that those features were what
+prompted them to buy the game. I suppose, when
+you think about it, pointed ears and a raised eyebrow don't sound like much either, but they helped
+make at least one television character extremely
+popular.
+Chapter Four
+Which features a perusal of a catalog of Epyx's
+newest releases, including a short review of each.
+
+Though very diverse, Epyx's products can be
+broken up into two basic categories: sports games
+and everything else. In their newest batch of games,
+
+there are five of each. Three of the latter group
+and one of the former group have not been released
+as of press time. Comments based on them are
+based entirely on information provided by the
+company and may change.
+Sports Games:
+Championship Wrestling — With heroes and villains of the squared circle created in imitation of
+Hulk Hogan and his ilk, this game is a rollicking
+good time. Bash heads, use fancy moves, throw
+your foes out of the ring and win the championship
+
+belt. This lighthearted simulation is hard to win and
+is as much fun as the real thing. Of course, some
+people don't like senseless violence. For them,
+there's...
+World Games — This offering is an adequate sequel to computer gaming's most popular non-adventure game series. It includes eight unusual
+events ranging from sumo wrestling to cliff diving
+and takes players to locales like Japan and Canada.
+The graphics are typically excellent, but the mechanics have deteriorated into bizarre joystick patterns which have little to do with the events. Still,
+the game is recommended, if for nothing else, because of the exasperatingly enjoyable Log Rolling
+contest.
+Super Cycle — Similar to the arcade game, Hang
+On, players drive motorcycles along winding roads
+under a variety of conditions. The concept isn't
+Continued on pg. 53
+
+BALI HAI WILL CALL YOU
+
+A Review of War In The South Pacific
+by Bob Proctor
+
+Name:
+System:
+Price:
+# Players:
+Designer:
+Publisher:
+
+WAR IN THE SOUTH PACIFIC
+Apple, C-64
+$59.95
+1 or 2
+Gary Grigsby
+Strategic Simulations Inc.
+Mountain View, CA
+
+Before we go one step further, let me say that
+the full title of this game is War In The South Pacific and that is the first and last time I will spell it
+out. Henceforth it shall be known as WITSP. Since
+that is easy to type, but not so easy to read, I suggest you call it "South Pacific" (unless you're likely
+to confuse it with a musical).
+WITSP is a "monster" game of the Pacific theater
+of WWII. It does not attempt to cover the whole
+Pacific but only the southwestern portion: from
+New Guinea, Truk and Brisbane in the west to Fiji
+and Makin Island in the east. This area saw most of
+the combat (with the notable exception of the Battle of Midway) during the first year of the war.
+This naturally includes: the Battle of the Coral Sea,
+the fighting for Port Moresby, and all of the battles
+for and around the Solomon Islands. The game uses
+a 40x48 square grid where each square represents
+about 50 miles.
+OPTIONS, OPTIONS...
+There are 3 choices of starting date. In each case
+you can choose to play one to eight weeks or a
+campaign game that ends in early March 1943.
+Only ten months at most, you say? Well how about
+ten months of hourly turns, with every ship and
+almost every airplane represented? Fortunately, it
+doesn't have to be that long; you can play a scenario as short as a week, choose eight-hour turns to
+speed things up, and let the computer help you
+manage all those forces. Still a one-week game may
+still take 8-10 hours to play, this is not a short
+game!
+Beginners should start with one of the later start
+dates, 8/8/42 or 10/17/42. These are historical scenarios in that all of the ships that had been sunk
+before the start date are considered sunk. Thanks to
+the loss of 4 carriers at Midway in June, the
+Japanese player starts at a slight disadvantage: 370
+points behind in August. By the later date, they've
+
+closed the gap to 251 points thanks mostly to the
+Battle of Savo Island. Keep in mind that up to 499
+points is still only a marginal victory. Both scenarios focus on the fight for Guadalcanal and both can
+be quite interesting even if only played for 2 or 3
+weeks. See the tables for a profile of the starting
+position of both sides for phase 3.
+The earliest start date is May 1, 1942. This scenario is different, it is not historical. The Japanese
+are not committed to an invasion of Midway,
+therefore all of the ships that were involved there
+
+are available for duty in the southwest Pacific by
+late May. With up to 8 carriers, 5 or 6 more than
+the USN, the Japanese player definitely has the
+initiative and can choose to invade New Guinea
+(and Australia?) or try to establish a base on one of
+the Solomons.
+THE GAME SYSTEM
+At the heart of WITSP are the ships. There are
+over 400 of them in 76 classes. Every combat vessel
+destroyer-sized or larger is represented. Submarines, oilers, attack transports, minesweepers,
+seaplane carriers: they're all here. Only service
+vessels like submarine tenders, hospital ships and
+the network of supply transports are missing. Each
+ship is rated 8 ways: main guns, flak, torpedo
+tubes, speed, flotation, armor, cargo capacity, and
+fuel capacity. In addition, carriers are rated both
+for the number of aircraft they can carry and for
+the number of operations (take-offs and landings)
+they can perform in one hour.
+A turn in WITSP has three parts: an Order Phase
+for each player and an Action "pulse" in which orders are carried out. Normally, the Order Phases
+are skipped so that the action is continuous. If you
+want to change any orders for your forces, you hit
+
+War South Pacific (cont.)
+
+the "0" key at any time and an Order Phase will
+occur after the current pulse.
+The Order Phase lets you give six different
+kinds of orders: task force, carrier, airfield, port,
+army, and commitment. The Order menu also lets
+you review the date and time, turn sound off and
+on, end the game, and see what ships have been
+sunk. It does NOT show you what the current victory point count is, however.
+Task forces are given one of 10 different types
+of "missions". Usually only a few of these can apply. For example, submarines always get a submarine mission and four of the missions will invariably involve loading and unloading in port. For the
+rest, a speed and a destination are required. Each
+side can have up to twenty TF's but usually 5 to 10
+of them will be subs. Each TF is limited to 20
+ships. Often when you need to refuel a large TF at
+sea, much dividing and combining of TF's must be
+done to get all of the ships into a TF with an oiler,
+especially if there are lurking enemy subs that
+make it unwise to leave the oiler escortless.
+Carriers and airfields are much alike. In fact,
+carriers show up under the airfield menu when
+they're in port. The only reason to separate them is
+for convenience, because carriers often need orders
+several times a day and it's nice not to have to
+scroll through a lot of airfields to get to them. Orders are given to air groups (there are ten types of
+missions for these, as well). Fighters can fly CAP
+(combat air patrol over their own base or TF), long
+range CAP, or Strike Escort. Bombers fly strikes
+with either HE (high explosives, used against land
+targets), AP (armor-piercing bombs, used against
+ships), or Torpedoes. All groups can also be assigned to search, to transfer bases, to rest, or to
+break off a mission and return to base. Groups are
+rated for experience and morale as well as the
+number of aircraft. Attention to details—like using
+groups with low experience to fly searches and
+build their rating, or resting groups when their
+morale is low—can reduce losses and pay dividends
+in the long run.
+There are six types of Japanese aircraft and
+eleven US types. Each is rated for range, maneuverability, durability, bomb load, and gunnery.
+Seaplanes are not represented individually, but they
+are active at any operational port with at least ten
+supply points. They always search a 360 degree
+circle out to 600 miles. Float planes are not represented individually either, but are assigned to cer-
+
+tain Japanese cruisers and battleships and conduct
+automatic searches for 300 miles around their TF's.
+The Port Orders menu is used mainly to create
+new Task Forces from the ships currently in a port.
+For WITSP Owners...
+Here are some notes and tips of interest
+to those who already own a copy of WITSP.
+1. Get an accelerator card! Otherwise it
+can take an hour of real time to play a day
+of game time, maybe two hours if there's
+combat.
+2. As with some other SSI games, CTRLS will pause (and un-pause) the game. This
+is crucial if the phone rings and you can't
+wait until the next order phase stops the
+action. This feature is not documented.
+3. Watch out for ships slowed down by
+damage! There is no warning of this, you
+must ask for Orders and inspect each TF to
+verify its speed. When a ship is badly hit,
+the whole TF will slow to match its speed
+which may mean spending another day
+within range of enemy air! Damage gets repaired fast enough to add several knots per
+hour but the TF's assigned speed must be
+increased manually so you have to give orders every hour to keep a TF moving at
+best possible speed.
+If any ship has been used before, you will typically
+have to give the TF a "Replenish" mission so that
+all ships can top off with fuel and ammo before
+leaving port.
+Other Port Orders include the ability to expand
+either the port itself or the local airfields. This is
+done in steps of 25 up to a maximum of 200. Expansion requires Supply Points, which we will discuss soon. The Port Order menu also lets you create
+an Army out of some or all of the garrison.
+The Army Orders menu is then used to control
+these armies. They can move, attack and create new
+bases. There isn't normally much land combat in
+WITSP, which is probably why these routines
+haven't been fully debugged. It's possible to create
+armies with zero troops or supplies, or have an
+army suddenly disband and merge with a nearby
+port garrison. However, I have yet to find an error
+that seriously affects play and certainly none that
+stop the game.
+The last kind of orders are commitments. Each
+
+War South Pacific (cont.)
+
+player receives about 5 commitment points per day.
+These points can be used to buy ship replacements
+from a list of all ships available in the Pacific. It's
+a clever but simple system that keeps replacements
+at a realistic level but avoids a fixed schedule. It
+permits some strategic planning; do you spend your
+12 points on a carrier or a battlewagon? Or is one
+heavy cruiser (4 points) really more effective than
+four destroyers (1 point each)? When a ship is
+heavily damaged in combat but still manages to
+make port, it is sent off-map (home to Japan or the
+US) for repairs. The ship will appear on the commitment list showing how long repairs will take and
+yes, you are forced to spend commitment points to
+get it back!
+The Supply system is unique. Supply points are
+not consumed by operations -- an invisible network
+of transports is assumed to keep everything going.
+Remember this is different than fuel, which is
+consumed by ships and forces them to return to
+port or rendezvous with an oiler periodically. Supply points are used to create new bases and to expand port and airfield capacity of existing bases.
+Since Victory points are awarded for maintaining
+bases -- and the bigger the base, the more points
+you get -- this is an important part of the game.
+Both sides can get double points for bases in
+"enemy territory".
+The last piece of the game system that needs
+mentioning is computer control. Playing WITSP
+would take a lot longer if you had to give every
+single order yourself. Fortunately, you can tell the
+computer to handle any TF or airfield for you. It
+can handle the mundane task of returning a TF to
+Fiji or Truk. For airfields, it can assign CAP,
+search, and even conduct repetitive strikes against
+an enemy base within range. When combat looms or
+when better judgment is required, you'll have to
+take charge yourself. If you put your home base
+(Fiji or Truk) under computer control, it will
+manage all of your forces including committing to
+replacements, sending out patrol and bombardment
+missions, moving up supplies and expanding bases.
+When the action begins you'd better pay attention to the screen. The position of any task forces
+sighted by searching planes is shown along with the
+pilot's estimate of their composition but not their
+course!). As usual, the computer is too predictable
+in that it varies the number of ships but never the
+types. In other words, two carriers might be reported as more or less than two or even as non-ex-
+
+istent, but carriers will never be reported as present
+when there aren't any -- something the green pilots
+of '42 were prone to do. Weather systems also flash
+across the map and it's important to note them in
+order to know where the enemy might be hiding if
+you should come up empty-handed during your
+search process.
+The action pulses can be one, four or eight
+hours long and it is possible to change back and
+forth at any time. Using eight-hour pulses makes
+the game go as quickly as possible, but also makes
+it impossible to fly two carrier strikes in a single
+day or to respond quickly to changing conditions.
+It's usually better to slow things down when a crucial battle is eminent.
+When combat occurs, a brief blow-by-blow report flashes across the screen. If surface combat is
+occurring, you see what type of ship is being fired
+on and what caliber of gun is firing. Only when
+hits occur do you know which of your ships is involved. There are no damage reports, except when
+a ship actually sinks. Anything less than that and
+you are required to examine forces in the next Order Phase to see how bad the damage is. During air
+combat, CAP and flak extract their toll and then,
+the bombers roar in. You have no control over target selection, but they usually go after the biggest
+targets.
+JUDGMENT TIME
+So much for a description; what do I think of
+the game? WITSP is a good simulation, which I expect from Grigsby and SSI, but it is not an easy
+game to learn. Part of this is due to its complexity
+but I also fault the manual for not having any kind
+of tutorial or example of play. Even the inclusion
+of a few simple charts such as the two I've included here would make it much easier for a beContinued on pg. 54
+
+by Scorpia
+Well, I see it's that
+time of year again...
+spring (already?), when
+a young person's fancy
+turns to adventure
+games. So just step right
+in, settle into your usual
+chair, and Fred will pour
+you a tall, cool one.
+Something you'll
+probably need, as in a
+short time you'll be on
+your way to Tinseltown
+to indulge in some
+Hollywood Hijinx.
+Good ol' Uncle Buddy. He was a real fun guy.
+Of course, you'd expect that from the producer of
+such box-office busters as "Vampire Penguins of
+The North", "You Can't Fight City Hall-But You
+Can Blow It Up!", "Slash and Chop Sock Hop", and
+the controversial "Atomic Chihuahuas From Hell",
+to name only a few.
+Alas, Uncle Buddy is gone, and now his wife,
+Aunt Hildegarde, has gone to join him in that great
+Grauman's Chinese in the sky. However, since you
+can't take it with you, they've left behind a tidy
+little estate. Being childless, they decided to leave
+their earthly goodies to one of their many nieces
+and nephews. Which one? Maybe you. All you have
+to do is stay one night in their cozy beachfront
+bungalow, collect 10 "treasures", and the entire
+bundle is yours! What could be easier?
+Probably a lot of things, but there's a lot of
+money at stake here, and above all, you don't want
+your rotten Cousin Herman to get it! Just thinking
+of all the mean tricks he played on you during your
+youthful summers at the bungalow is enough incentive to get you going.
+So, now the funeral is over and you're standing
+outside the bungalow, by the statue of that macho
+screen star, Buck Palace, the Fighting Mailman.
+From here, there are several ways to go. Hi jinx is
+non-linear, and most (but not all) of the puzzles are
+stand-alone; you can solve them in any order.
+A quick tour of the grounds is a good idea.
+
+While the number of locations in all is pretty small,
+it helps to know your way around when you need
+to move fast. Although you might want to stay out
+of the hedge maze until you have the map (with the
+map, there is no trouble at all getting where you
+need to go, but it's a rather tedious route in and
+back, sigh).
+Getting into the house itself is not difficult,
+even though the door is locked. Just pay careful
+attention to the poem on the back of Uncle Buddy's
+photo and you should be inside pretty quickly
+(warning: the poetry is bad, even by Vogon standards).
+Indoors, you'll find a number of interesting
+places to explore. The Game Room, for instance,
+which has a scale model of Tokyo, complete with
+Atomic Chihuahua. However, it's not the dog
+you're after, but the Big Diamond Ring (from the
+movie of the same name) that you want. Unfortunately, the model is covered by a heavy plastic
+
+dome, and there's no way to move it.
+Careful examination shows five buttons just
+outside the dome. I wonder what they do? There's
+only one way to find out! Just be sure to save the
+game BEFORE you start fiddling with those buttons (personally, I thought this was the most fun
+part of the whole game). And remember to save the
+heat for last.
+Of course, you won't want to overlook the private screening room, complete with theater seats
+and its own projection room. Curious place, that
+projection room, it has both a slide projector and a
+film projector. Synchronicity is the key here.
+Along the way, you've probably been finding
+some colored punch cards. Count them carefully.
+There are seven in all and you'll need every one of
+them. While most are right there in plain sight, one
+or two may not be so easy to find. It helps to be
+thorough in your searching.
+Naturally, there is a connection between the
+cards and the super-hi-tech (prop) computer in the
+basement. It takes no great leap of logic to decide
+the cards go into the machine....but in what order?
+Ah, that's the question! Keep your mind on business, and who knows what you might end up with!
+You don't need me to tell you about the fireplace, a favorite area in any adventure for explorations, but those three patriotically-hued statuettes
+on the mantlepiece deserve close inspection. They
+will be helpful in more ways than one.
+
+Before long, you will have probably discovered
+the not-very-well-hidden wall safe. Do save the
+game before you start messing around with the
+combination dial. If you make a mistake, you'll be
+out of luck (somewhat like the trunk in Sorcerer,
+you must be right the first time).
+When you make your way up to the second floor
+(having first figured out a way past the staircase,
+which has a distressing tendency to flatten out
+when you try to walk up), you will probably be a
+little disappointed. There isn't really much up there.
+Oh, there are a couple of items to add to your collection, but most of the rooms are just, well, rooms.
+Even the one with the fancy brass handles in the
+floor is merely, so to speak, "for show".
+However, that panel in the ceiling of the middle
+hallway is a definite attention-grabber. Too bad
+there's no way to open it from this side. Really,
+you'll just have to think of some other way of getting up into the attic. It pays to stay on top of
+things in this case. That's all I have to say on this
+matter. I refuse to leak any further information.
+Getting back down to earth again (really down),
+the crawl space under the parlor has some attractions of its own. Unfortunately, there seems to be a
+small area that you just can't reach; part of the
+floor above is blocking the way. How inconsiderate!
+Well, you certainly can't let that stop you (not
+when you've been doing so well up to this point!).
+Continued on pg. 52
+
+A Review by Scorpia
+
+Name:
+Might & Magic
+System:
+Apple
+# Players: 1
+Price:
+$54.95
+Designer:
+Jon Van Caneghem
+Publisher: New World Computing
+P.O. Box 491415
+Los Angeles, CA 90049
+
+A mystery... a secret... perhaps no
+more than a rumor, since no one has ever
+seen it and no one really knows where it is.
+No one is sure if it truly exists, but scattered across the extensive world of Varn
+are vague hints and cryptic clues, obscure
+signposts to the possibly mythical Inner
+Sanctum. Only the fittest of the fit, the
+most powerful warriors and learned wizards, will be able to unravel the puzzles,
+overcome all the obstacles, and discover
+the truth. It is not a task for the faint of
+heart or the weak of limb.
+Without question, Might & Magic is
+one of THE most extensive computer
+RPG's around. By the time you're finished, not only will you have over 50
+maps, your party will have traversed
+burning deserts and frigid glaciers, cool
+dark forests and rugged mountains, sunny
+groves and restless oceans, and delved
+deep into deadly dungeons. This is definitely world-touring on a grand scale!
+M&M is also one of the most difficult
+games in which to get started, particularly
+if you have one of the earlier versions. In
+those, your party starts out with no
+money, no armor, and only clubs for
+weapons. This does not make for a very
+effective fighting force, especially when
+monsters show up in large groups. Characters die with appalling frequency under
+those circumstances.
+Fortunately, by the time you read this,
+the newer version of the game should be
+out. In that one, the pre-created party
+that comes on disk will have some money
+with them, and you can mug 'em to equip
+your own characters a bit more decently.
+That, of course, is no guarantee they will
+survive, but at least their chances will
+have improved slightly.
+Speaking of characters, there are six
+types in the game: Knights (your standard
+fighter); Paladins (fighters who acquire
+clerical spells at high levels); Archers
+(fighters specialized with bows, and who
+also learn sorcerer spells at high levels);
+Clerics (your standard cleric); Sorcerers
+(your standard magic-user), and Robbers
+(your standard thief). It's a good idea to
+have one of each in the party.
+In addition, you also choose a race and
+sex for your characters. Races available
+are: Human, Elf, Dwarf, Gnome, and
+Half-Orc. If you pick something other than
+
+Human, it will have an effect on the initial
+attribute scores of the character. Create
+some test characters first to see what the
+various effects are, so you don't end up
+unpleasantly surprised.
+The sex of your character has no effect
+on attribute scores or abilities, but there is
+a point in the game where it will be extremely important whether the character is
+male or female. So, have both in the party.
+Take your time when creating the
+characters. You want the best possible attributes for each one. Every little bit
+helps, especially at the very beginning,
+when your party is at its weakest and most
+vulnerable. Later on in the game, you'll
+find ways of increasing attributes, but you
+have to survive long enough to do that,
+and it ain't easy!
+Once the group is created, you begin
+just outside the inn of Sorpigal, one of the
+five towns in the game. Don't think you're
+safe because you're indoors; monsters roam
+the corridors here and in all towns, as well
+as everywhere else.
+A map of Sorpigal comes with the
+game, and shows you most, but not everything, in the town. At least you won't
+get lost. So now it's a matter of wandering
+around town, trying to pick up as much
+information as you can, while staying
+alive.
+At the very start, do not go too far
+from the inn. Inns are the only places
+where you can save the game. This is especially important at the beginning, when
+you'll want to save a great deal of the
+time. Each encounter with monsters that
+you win is very precious indeed, and you
+don't want to lose any of the experience
+points, gold, or goodies you've just fought
+so hard to obtain.
+Fortunately, the saved game stays
+
+saved. Which means if your party gets
+creamed in an encounter, you can re-boot
+and the characters are still there, just as
+they were before they stepped out into
+trouble. Of course, anything found or any
+experience gained after that point is lost,
+but your characters are still alive and
+well...to get creamed again.
+There is a dungeon below Sorpigal (as
+there is under every town except Algary),
+but low-level parties would be wise to
+avoid both dungeons and the great outdoors for some time. I would suggest having at least 3rd level characters before going outside of the town. You will have
+more than enough to handle within the
+confines of Sorpigal itself.
+This mostly means a lot of fighting and
+probably, even more running away from
+fighting than actual fighting. If your party
+is overmatched (a frequent occurrence at
+the start), it's better to retreat than stand
+there and watch your characters bite the
+dust. Monsters can come in groups of up
+to fifteen, which is quite a lot, although
+you won't meet too many of these large
+parties at the beginning. Still, even a small
+group of six monsters (which, by the way,
+is usually a mix and match assortment of
+various nasty types) can be overwhelming.
+So, swallow your pride and beat feet when
+necessary.
+You should especially retreat when you
+see Sprites, number one on every player's
+hate list. While they don't have many hit
+points, they are extremely difficult to hit.
+What makes them such a pain, though, is
+the fact that they cast curses on you. Each
+curse reduces your chances of landing a
+blow on an opponent, Sprite or otherwise.
+As beginning characters will have a hard
+enough time getting blows in anyway, they
+don't need any more problems in this area.
+
+Avoid monster groups with Sprites whenever possible.
+One of the nicer features of combat is
+the ability to use distance weapons: bows,
+crossbows, and slings. Any character, except Clerics and Sorcerers, can use a missile weapon. However, only an Archer can
+use them in hand to hand combat, and the
+first 2-4 characters in the party are usually the ones in direct confrontation with
+the enemy. Thus, most of the time, only
+your Archer and Robber will be using
+bows.
+Of course, if you can use missile
+weapons, so can the monsters. Kobolds,
+Orcs, Thieves, etc., will be shooting at you
+from the back ranks, and naturally, they
+can aim at anyone in your party, including
+those in the rear. Try to get rid of them
+with spells as quickly as you can, while
+knocking out the front ranks to move the
+archers up and out of bow/sling range.
+This is much easier said than done, naturally, and on occasion may even prove impossible. Such is life (or is that, "death"?).
+Eventually, with a lot of patience,
+some luck, and a great deal of saving the
+game, your party will be ready to go out
+into the cold, cruel world. Your first excursion should be to the dungeon below
+Sorpigal, where you will get some idea of
+what's in store for you later on, and also a
+job offer. All you have to do is deliver a
+message to someone in another town. And
+live to tell about it.
+However, don't be in a rush to leave
+just yet. Once you're done with the dungeon, map out the area around Sorpigal.
+You'll get some good practice in outdoor
+mapping. And you'll need it, because there
+is something (or even several somethings)
+of importance in each and every sector.
+Therefore it is crucial to go over every
+
+square in the sector so you don't miss
+anything.
+Actually, mapping in most cases is
+pretty straightforward, and more timeconsuming than difficult. Except, of
+course, in some dungeons, which have a
+few traps for the unwary cartographer.
+Frequent use of the location spell is recommended. You might not be where you
+think you are.
+Among the many sights in the great
+outdoors are castles. Three of these White Wolf, Blackridge North, and Blackridge South - are ruled by Lords who will
+be happy to send you out on quests, a lot
+of quests (seven for each Lord)! and all of
+them necessary for completing the game.
+You won't be able to finish one set at a
+time, because many of the quests are interrelated and you'll have to switch off,
+now and then, from one Lord to another.
+Also, your party might not be strong
+enough for a particular quest at the time
+it's handed to you (low level parties should
+NOT be going out after a Medusa's head).
+That's the moment to use the Remove
+Quest spell, and go visit a different Lord.
+Be careful when dealing with Lord
+Hacker of Blackridge South. He is not altogether a nice guy. Under no circumstances should you ask for another
+quest after you have completed the seventh one (ring of Okrim). Should you do
+so, you'll get an extremely unpleasant, and
+possibly fatal, surprise.
+Throughout your wanderings and
+questings, you'll be visiting all the towns,
+probably more than once. Each of them
+has the standard set of establishments:
+Inn, Smithy, Temple, Training Area, Food
+Store, and Tavern. Prices of most items
+vary from town to town, though Sorpigal
+has the lowest prices in general. Food, in
+particular, is cheap here. A character can
+carry a maximum of 40 units of food; for
+only 5 gold pieces, he or she will get as
+much as necessary to bring the current
+supply up to 40 (even if he or she had only
+1 unit left!). In Dusk, however, it will coat
+you 200 gold pieces for the same amount.
+The taverns are very important. Don't
+overlook them. Each one has several rumors you'll want to hear, although it will
+take repeated visits to get them all. On
+some days, there won't be any rumors, so
+
+you'll have to come back another time.
+Make sure that you do and remember to
+tip the bartender!
+Training areas are where your characters can gain a level, if they have enough
+experience points. This is not free. You'll
+have to pay for it. Also, each time a character goes up a level, he or she will age one
+year.
+The Smithy, as you might expect, is
+the place to buy weapons, armor, and
+miscellaneous items such as torches and
+lanterns (you can also sell unwanted items
+here, too). Each Smithy has a different inventory; not all things are available in all
+places. Magical arms and armor, for instance, can only be purchased in Dusk and
+there only at a stiff price.
+Temples, naturally, heal you of various
+unpleasant conditions...for a price. How
+much they will charge depends on the type
+of healing needed. A quick restoration of
+hit points, for example, is cheaper than reviving the dead. Donations are also accepted. So, when you have a fair amount
+of money, keep handing it over until
+something interesting happens.
+Of course, there is more to the towns
+than the usual run of shops. It will be up
+to you to find out what's there. Map each
+one as carefully as you would a dungeon or
+outdoor area and remember that some
+walls have secret doors. Algary in particular is riddled with them.
+Let's not forget those dungeons, either.
+There are twelve in all and many with
+multiple levels (multiple monsters, too).
+They are nasty places indeed, but essential
+to finishing the game. When messing
+around down there, be on the lookout for
+numbered messages (of which there are a
+total of nine). They'll be found in any
+dungeon with more than one level (so
+don't expect to find 'em below a town;
+those dungeons are strictly single level).
+Did someone say treasures? You bet
+there are treasures, ranging from magical
+weapons to armor to potions and all sorts
+of neat little items. Of course, it's not always obvious just what a thing may be or
+do, so some experimentation is necessary
+(better save the game first!). And, sorry to
+say, some of those magical items are
+cursed. Naturally, you will only find this
+out the hard way. Good thing you can run
+to a temple and have it uncursed, provided
+you can afford it.
+As you can see, this is a major undertaking! So what's it all about, Alfie? The
+first paragraph of this article is what it's
+all about. Might & Magic is not a "
+Find-and-kill-the-evil-wizard" campaign.
+Rather, it is a quest for knowledge and
+truth and you will find it only when you
+find the Inner Sanctum..... wherever that
+is. This is a refreshing change of pace.
+The game is all graphics (no animation), with single-stroke keyboard input.
+The view is 3-D, you-are-there, both indoors and outdoors. The outdoors are
+
+Might & Magic (cont.)
+
+represented by a few simple icons: trees,
+mountains, ocean, desert, and glacier, but
+they are used to good effect. When you're
+in the wilderness, the entire sector is
+loaded in at once, minimizing disk access.
+The same is true for towns, castles, and
+dungeons.
+In combat situations, a single full-figure graphic of the lead monster is displayed, while the right side of the screen
+lists how many and what kinds of monsters
+comprise the total group (at times, this list
+can be depressingly long).
+Mapping, as mentioned earlier, is not
+hard most of the time. Each area in the
+game (indoors or outdoors) is a 16x16 grid.
+The manual contains several blank mapping pages to start with; after that, considering the number of areas to map,
+you're better off using graph paper than
+making copies of a map page. It works just
+as well, and is cheaper.
+The manual needs special mention; it's
+a class act, and one of the best I've seen.
+Over-sized (9x12), spiral-bound, printed
+in crisp, clear, type, well-organized, and
+including a beautiful, fold-out, two-page
+map of Varn (handy spell guide on the
+back!), it's informative enough to get you
+
+started in the game while leaving plenty
+for you to figure out on your own.
+Might & Magic comes on two doublesided disks; you make copies of three sides
+before playing (Side A is used only for
+boot up). The game supports one or two
+drives (two is recommended), and will run
+on any Apple, from the old II through the
+new IIGS. If you don't have an Apple,
+don't despair; the game is currently being
+ported over to the IBM and Commodore
+64; those versions should be out by
+Christmas. Versions for other computers
+will be done in the future, so hang in
+there!
+
+My only real complaints with this
+game have to do with the very real difficulty in getting started, and the Astral
+Plane sequences. Too often at the start,
+my party would run into a band of monsters that were just too much to take on,
+especially with only clubs as weapons. Retreating was not always possible, and new
+characters simply don't have enough
+money to offer a bribe. Getting the party
+up a level or two was a somewhat frustrating experience. Fortunately, once you
+get past that point, things even out somewhat, but it does require patience and determination to obtain a real foothold in
+the game.
+Further, I found the Astral Plane to be
+frustrating, as well as a bit tedious. Such
+an important part could have been better
+handled to be more enjoyable and less ulcer-producing.
+Still, when compared to the game
+overall, these become minor points. There
+is much to learn and enjoy in Might &
+Magic, because its scope and complexity
+are amazing. Don't miss out on it.
+Bottom line: Highly recommended!
+Copyright 1987 by Scorpia, all rights
+reserved.
+
+Three Sailing Programs for Microcomputers
+by Russell Sipe
+When Dennis Conner piloted Stars and Stripes
+across the finish line 1 minute 59 seconds ahead of
+Kookaburra III to win the fourth race of the
+America's Cup Finals (and thereby sweep the series) he brought to a conclusion an incredible computerized campaign to, as they have been saying
+here in the U.S., "win back The Cup". While we all
+recall the drama on the Indian Ocean (the ocean
+spray, the zinc oxide smeared faces, the looks of
+agony and despair, as well as the smiles of victory),
+the fact is that the 1987 America's Cup had been
+fought for the four years (prior to the actual competition) on computer. Just a partial listing of companies that were involved in computerized simulations of Twelve Meter yachts and the America's
+Cup competition would include Digital Equipment
+Corp, Hewlett-Packard, M.I.T., Grumman, Boeing,
+McDonnell Douglas, the Lawrence Livermore Labs,
+Stanford University, and Cray Computer. Therefore, it is little wonder that sailing has now come to
+your micro. During the last year, fueled by the
+frenzy surrounding the Cup, at least three new
+sailing programs have appeared on the market: The
+American Challenge: A Sailing Simulator from
+Mindscape; America's Cup from Electronic Arts;
+and Dolphin Sailing System: Simulator & Instructor
+from Dolphin Marine Systems. What is interesting
+about these three releases is that each is unique. We
+are not looking at three clones here. An avid computerized sailor will find room for all three on his
+entertainment shelf.
+AMERICA'S CUP
+Name:
+System:
+Price:
+Designer:
+Publisher:
+
+America's Cup
+C-64
+$33
+Micro Forte
+Electronic Arts
+San Mateo, CA
+
+The full title is The Official America's Cup
+Sailing Simulation but everyone is going to call it
+America's Cup (AC). Despite the fact that EA calls
+this a sailing simulation, it is less that than a game
+of sailboat racing. In AC the gamer does not need
+to know how to actually execute a tack, or a jibe,
+or to head into the wind, or watch the mainsl' for
+luffing, etc. Rather he must pay attention to wind
+conditions, using the correct sail, keep in mind the
+
+right of way rules, etc. So, you say, that sounds
+like important aspects of sailing to me, what do you
+mean, AC is not a simulator? What we mean is that
+the skills one exercises in AC are the larger skills of
+outfoxing an opponent tactically rather than the
+more basic skills of trimming the sail properly,
+watching the heel angle, etc. Crew skills are minimized; pilot skills are maximized. One can learn to
+play AC well even if they have had no time on the
+water learning the basics of sailing. The same cannot be said for the other two products. Additionally, the skills learned in the other two games can
+be directly translated to the basic skills needed to
+actually sail, while mastery of AC will do little to
+actually show you how to tack from one side of the
+bay to another. This is not to say that AC is not a
+good product, it is an excellent product.
+After watching the America's Cup on ESPN, AC
+has taken on a realism that many gamers never realized was there. Playing AC feels like actually
+racing for the Cup. It's all there, the tactical jockeying for the start line, the perplexing question as
+to which headsail to use when the winds are borderline, the threat of mechanical failure, the rapid
+action of the grinders (yes, even that is simulated
+in AC); the maneuvering to gain position and advantage over your opponent; and the necessity of
+making a clean turn around each buoy, etc. This
+game can become addictive if you love sailing or
+
+even just a good one-on-one contest!
+You can play against the computer at three different difficulty levels, but to really enjoy the
+game, you will want to sail against a human opponent. The tension can be excruciating... but extremely exciting!
+AC recreates the eight-leg three-buoy course
+recently used in the America's Cup held off Fremantle, Australia. You race against another human
+or the computer as you pilot your 12-meter yacht
+through changing weather. Viewing the race from
+overhead (the helicopter view perhaps?) you pilot
+your yacht choosing from between six different
+headsails suitable for the three main wind conditions you will encounter (light, medium, and heavy
+genoas, and the same range for three spinnakers).
+The designers (Micro Forte' of Australia) have
+cleverly worked in the furious action of the
+grinders by requiring a grinding action with the
+joystick to raise and lower the headsails.
+The rules of the International Yacht Racing
+Union Blue Book are incorporated into the program
+and are enforced. For example, failure to give the
+right-of-way to a yacht on a starboard tack causes
+your port tacking yacht to slow down or even stop
+dead in the water. A windward yacht blocking a
+leeward yacht will have a similar penalty assessed
+against it. And so forth.
+The 55 page manual includes the rules of the
+game, a tutor on the basics of sailing, a summary
+
+of the most important rules from the Blue Book, a
+yachting glossary, an America's Cup history, and
+score sheets for recording the results of the America's Cup (OK, so the race is over, you can still use
+the score sheet for your own competitions if you
+wish).
+One irritating feature of the game is the fact
+that when a boat nears a buoy, the split screen
+showing both boats disappears and only the boat
+near the buoy is shown. This is not a problem if
+the two boats are near one another. But it has happened several times in our playing of the game that
+the boats are approaching different buoys at the
+same time. Whichever boat gets to its buoy second
+will be sailing blind since the program defaults to
+the full screen view for the other yacht. There is a
+small arrow on the indicator panel that gives you a
+general idea where the buoy is, but it is inadequate
+in helping you make a good racing turn. The problem could have been solved by having the program
+cycle every two seconds between full view for each
+boat.
+The glossary is good but inconsistent. It is so
+detailed on the parts of the boat that it includes a
+definition for bow and stern but neglects to define
+cats' paws which is referred in the instructions.
+"Cats' paws" refers to a puff of wind affecting a
+localized area such as would causes patches of ripples (the paws) on the water.
+If you enjoyed watching the America's Cup or
+just want a good sail racing game, AC is just your
+"cup of tea".
+THE AMERICAN CHALLENGE
+Name:
+System:
+# Players:
+Price:
+
+The American Challenge
+Apple/IBM flippy; C-64
+1-2
+$39.95
+(C-64 $29.95)
+Designer:
+Chris Lutes Jr.
+Thomas Snyder
+Publisher: Mindscape Inc.
+Northbrook, IL
+
+More of a simulation than America's Cup and
+more of a game than The Dolphin Sailing System,
+The American Challenge (TAC) combines the good
+points of the other two. Sailors will feel right at
+home with TAC, and while the actual task of sailing requires more skill in TAC than AC, non-sailing gamers will not find it overly difficult to learn
+the basics. Sailing in TAC "feels" like sailing. Your
+basic perspective is a view from about 10 feet directly behind your boat looking forward so that
+
+Gone With The Wind (cont.)
+
+your boat is in the extreme foreground and your
+point of sail is on the horizon. When you pinch the
+wind too much (heading up into the wind more
+than you should) you see your boat right itself and
+your speed drop. Come off the wind too much
+without letting out the mainsheet and you see your
+boat heel over excessively (again losing speed). The
+"feel" of sailing is even more realistic when you
+
+have the opposing boat in view. The adrenaline begins to flow as you see him heel over and catch the
+wind. Is your trim correct? Is he pulling
+away/gaining? If I tack now I may gain a few seconds, but will my new course be off the wind
+enough to maintain speed? When playing TAC I
+feel like I am out there in the club race on saturday afternoon.
+TAC can be played against the computer (in
+which case the opposing boat simply represents the
+course taken by the boat having the best time on
+record for the course in question) or it can be
+played against another human using a modem or
+direct cable connection. In the one player mode the
+opposing boat is a "ghost ship" and can be sailed
+into, through, etc. with no penalty. In the two
+player mode the opposing boat is "real" and you
+will need to pay attention to the rules of sailing.
+The game includes a Hot Line Protest Screen which
+assists sailors in resolving collisions and protests.
+The main screen shows the sail boat view. Below this is the instrument panel that shows your
+
+compass direction, the angle of the wind relative to
+your boat, the angle of your sail, your speed, the
+wind speed, the status of the centerboard (up or
+down), and any comments from the race official.
+The game contains eight race courses the last of
+which, the Cup Race, can only be run when your
+boat has recorded the fastest times on the other
+seven courses. Be prepared to spend a goodly
+amount of time on the other seven races as the
+computer's best time on those courses is difficult to
+better. You will have to race nearly flawlessly to
+beat the computer's best times.
+For sailor/gamers this program is an absolute
+must. Non-sailor/gamers will also find it to be a
+good value and may learn some valuable "ground
+school" sailing techniques.
+DOLPHIN SAILING SYSTEM
+Name:
+
+Dolphin Sailing System
+(Simulator/Instructor)
+System:
+IBM
+Price:
+$20 (master); $39.95 per lesson
+Designer:
+Jim Spalding
+Publisher: BCI' Software
+1140 Greenwood Lake Turnpike
+Ringwood, NJ 07456
+(201) 728-7796
+Circle Reader Service #99
+
+For the serious sailor or the person who is more
+interested in actually learning to sail (as opposed to
+just playing a sailing game) the Dolphin Sailing
+System (DSS) should appeal. To get a feel for this
+program imagine it as the Flight Simulator II of
+sailing complete with a tutorial. The detail, the realism, the navigational features; plus the no-nonsense nature of the DSS mark this product not as a
+
+game, but as a serious sailing simulator and instructor.
+The price of the system alone points out how
+this program differs from the others. While the
+master diskette only costs $20, each lesson diskette
+(there are eight of them in the "Sailing Instructor
+System") costs $39.95. The cost of the whole
+"Sailing Instructor System" is $395.00 (nine
+diskettes). And the "Sailing Instructor System" is but
+the first of eleven planned systems (including, for
+example, the racing instructor system, the navigation instructor system, the fishing instructor system,
+etc.). Within the "Sailing Instructor System" there
+are eight lessons. Lesson one teaches you basic
+sailing and takes you out on a single sail CATBOAT in Chesapeake Bay. Lesson two, "Sailing
+Theory", finds you on a sloop with jib and mainsail
+in San Francisco Bay. In lesson three you sail between Boston, Cape Cod and Newport as you learn
+the "Rules of the Road" on a cutter. In the remaining five lessons you learn basic navigation and piloting, racing techniques, cruising techniques, passagemaking, and heavy weather techniques. In these
+lessons you will sail on ketches, catamarans, yawls,
+and motorsailers in such locations as Tampa Bay,
+Lake Michigan, New York Harbor and Long Island
+Sound, San Diego Harbor, Mission Bay, the Pacific,
+Seattle Harbor, and Vancouver Bay.
+Your basic view is from the cockpit of your
+sailboat. Like Flight Simulator, you can select from
+a variety of views: forward, aft, port, starboard, or
+scan the 360 degrees around your vessel. There is
+even a binocular mode that lets you take a close
+look at the detailed features and landmarks that you
+will be sailing near. Beyond the cockpit and binocular views, you have access to a series of very
+graphic and detailed information stations, such as
+the navigation chart, the tactical chart, the navigaContinued on pg. 45
+
+Bruce Artwick's Flight Simulator
+
+You've Come A
+Long Way, Baby!
+The History of an Epic Program
+by Daniel Hockman
+In one of the most vivid memories of my early
+days in computer gaming, I was sitting at an Apple
+II plus computer staring intently and proudly at the
+screen. I had taken my Piper 150 far off the edge
+of the "world" and had executed a turn to begin a
+descent back to the world of gridland. The five
+mile by five mile grid that made up the "real
+world" in SubLogic's A2FS1 Flight Simulator (FS)
+looked like a small postage stamp on the screen. I
+was exploring the "edge of the envelope" and it was
+fun! It was 2 a.m. on a warm summer night in 1979
+(I had begun playing with the simulator at 7 p.m.)
+but I ignored the messages I was getting from my
+tired aching body. Who cares about tense tired
+muscles when you're jazzed?!
+Some six years later I sat down at a new version
+of Bruce Artwick's famous FS. This time I
+manipulated the mouse of an Amiga to make my
+Learjet buzz the Transamerica Tower in San
+Francisco. Then I gave the motorists on the Golden
+Gate bridge a thrill as I did a low "
+the-FAA-frowns-on-that" pass over the bridge. Banking right
+and climbing I toggled the instant replay switch
+and, using the spot plane feature, positioned myself
+at sea level and watched myself buzz the bridge.
+Wow! That's when the title of this article came to
+my mind.
+Computer games tend to be the offspring of the
+hardware on which they exist. As hardware became
+more powerful, programmers developed new techniques to make use of that power, and games,
+thereby, improved. Games that were "hot" five
+years ago look like dinosaurs now, but not so with
+FS. As the technology improved, FS improved with
+it. Very few programs are strong enough to warrant
+the continued release of "new and improved"
+versions. This, then, is a brief history of the
+ongoing development of this epic program that
+every computer gamer should own.
+IN THE BEGINNING...
+In the beginning there was Bruce Artwick and
+Stu Moment. Behold, they were roommates at the
+University of Illinois. Bruce was a computer
+
+graphics specialist and Stu was a devotee of flight
+and a master's degree candidate in marketing. Bruce
+thought it would be a good idea to combine his 3D graphics knowledge with Stu's piloting and create
+a flying simulation. The original work was done on
+punch tape. When the Apple II came out Bruce
+wrote his program for the Apple and called it
+A2FSI Flight Simulator. Having formed SubLogic,
+Bruce and Stu were now in business with a unique
+product. Three months after the October 1978 release of A2FS1, they released the TRS-80 version.
+"LET THERE BE 16-BIT"...
+...and Bruce saw the new 16-bit IBMpc and he
+said "It is good!" So when Microsoft approached
+Artwick about an IBM version of FS, a deal was
+struck. Microsoft was looking for a translation of
+FS, but Bruce felt that the new 16-bit machine offered the chance to develop a new program altogether. With the power of 16 bits and the added
+memory, Bruce could add shaded graphics, realistic
+scenery, actual airports, a slew mode, user definable flight situations, better sound, better flight
+equations, and a more realistic instrument panel.
+The new Microsoft Flight Simulator, with all these
+features, was released on November 11, 1981.
+Next, Artwick and Moment decided to do a new
+8-bit version of FS which would incorporate the
+best features of the 16-bit IBM version. One year
+of development followed.
+THE ADVENT
+And when the praises of the IBM version were
+noised abroad, Bruce did say "Let us make a new
+Apple version in the image of the IBM." And a
+year later, on December 26, 1983, we beheld the
+advent of Flight Simulator II for the Apple.
+The new version was an immediate hit and
+SubLogic recovered all their research and develop-
+
+Speaking of the Amiga (and the other 6800 versions)...
+A NEW HEAVEN AND A NEW EARTH
+
+ment costs in the first month of release. The new
+Apple version was a bit slower than the Microsoft
+product but it was a faithful recreation of the IBM
+version even having an ADF gauge which was
+lacking in the IBM.
+In May 1984 the C-64 version of FSII was released and in November, the Atari 8-bit version
+came out. In early 1985 (at the time of the release
+of the Apple Ilc) code was written for a multiplayer version of FSII. It was tested but not pursued (there was difficulty with the synchronization
+of the planes). At the same time (early 1985) the TI
+Professional, Tandy, and NEC 9800 versions were
+released. The NEC 9800 version was developed for
+the Japanese market which has a large installed
+base of NEC 9800's. This is why there is a Japanese
+scenery disk available. Speaking of scenery disks...
+"GO INTO ALL THE WORLD..."
+In early 1985 SubLogic began working on a series of "scenery" disks (Project USA) that could be
+used in conjunction with the various versions of the
+Flight Simulator. The original concept was to develop a series of disks that contained detailed
+scenery of the entire USA. As it turned out, this
+would have required more than a 100 years to develop. Needless to say, the project was scaled down.
+The San Francisco Star Scenery Disk and Japan
+Scenery Disk still follow the original concept of
+detailed scenery, but Scenery disks 1-6 which covers the Western USA can more accurately be
+thought of as airport disks than scenery disks. The
+airports are there, but the scenery is sparse.
+Presently, SubLogic is working on scenery disks
+7-12 (#7 has just recently been released). Disks 712 will contain more scenery than 1-6. Most of the
+scenery will be along "corridors of interest". Disks 8,
+through 12 should come out at about three month
+intervals. Owners of the Amiga version, however,
+will have to wait until fall to see the new disks.
+
+Awe inspiring! That is the only way to describe
+what Artwick did with the 6800 versions of Flight
+Simulator II. When I first sat down at the monitor
+of my Amiga and began flying around the Bay
+Area I was astonished at what the program had
+become. But first, the story of the development of
+the Amiga and Macintosh versions.
+When Amiga Corp. was developing what would
+become the Amiga 1000 they approached Artwick
+and asked him to do some 3-D graphics work and
+develop an Amiga version of FSII. An agreement
+was reached and Bruce spent New Year's Eve
+1984/1985 holed up in a hotel suite with other
+Amiga developers working feverishly at the keyboard of a "grey box" Amiga (he was developing 3D drivers for the new machine). At midnight the
+developers paused long enough to drink an orange
+juice toast to the new year (as any designer can tell
+you, programming and alcohol don't mix). One
+minute after midnight it was "back to the keyboard".
+When Commodore bought Amiga, Artwick and
+Commodore entered into talks concerning the
+Amiga version of FSII but, unlike the talks with
+Amiga, things did not work out (June 1985).
+At this same time the Macintosh version was
+under development. When the contract on the
+Amiga version of FSII fell through Artwick devoted his efforts to the Mac. Mike Kulas of
+SubLogic also jumped into the project and from
+September 1985 through March 1986 both men
+worked full time on it. The Mac version shipped in
+March 1986. It took extra time to develop because
+the two programmers had to write some of their
+own development tools, including their own assembler which ran 10-15 times faster than the old assembler.
+New FSII features added to the 6800 versions
+included the use of a mouse graphic interface, windows, a map, spot plane views, the capability of
+displaying two 3-D views simultaneously, control
+tower view, super zoom, instant replay, and a second aircraft (a Learjet). The San Francisco Star
+Scenery (from the IBM scenery disk series) was
+incorporated as a standard feature in the 6800 versions.
+Following the March 1986 release of the Mac
+
+version, SubLogic returned to the Amiga version
+
+feedback from customers about the desirability of
+modem/cable linked simulators. The feedback has
+been positive, but it turns out that there is a
+problem with finding the other plane (it's a big sky
+and a small plane after all). SubLogic is considering
+changes to the modem/cable feature that will make
+it easier to find the the other aircraft. The Amiga
+and ST versions shipped in November 1986.
+ALPHA AND OMEGA
+SubLogic's Flight Simulator has come a long
+way. From that marathon flying session in 1979 to
+the present it has never failed to hold my interest.
+But then, that is how an epic should be, right?
+I have slipped the surely bonds of Earth....
+and have touched the Face of God.
+
+and also began developing the Atari ST version. A
+multi-player capacity was added, due mainly to get
+
+--"High Flight"
+John Magee Jr.
+
+EARL WEAVER BASEBALL
+AN INTERVIEW WITH EARL WEAVER
+
+CGW: What can you get it up to?
+Dombrower: Well, there's always a
+random chance you could make him a .70C
+hitter for a short period of time, but you
+really won't keep that because the difference between a .200 hitter and .300 hitter
+involves other things. The power of the
+hitter and his running speed figure in.
+Daglow: The way you need to think of
+it is that the better you get at the timing
+of the game, the better you fulfill the potential of that player.
+
+In January of this year CGW
+editor Russell Sipe and Assistant
+Editor Johnny Wilson interviewed
+Earl Weaver concerning his new
+baseball game, Earl Weaver
+Baseball (EWB) from Electronic
+Arts. Also interviewed were, Eddie Dombrower (game designer),'
+Don Daglow (Electronic Arts
+Producer), and Teri Mason
+(sound and music designer).
+
+CGW: Earl, we have seen a lot of
+products that are closely associated with a
+famous person (Arthur C. Clarke and the
+computer version of Rendezvous With
+Rama for example). The fact is, the famous person in question rarely has any involvement with the development of the
+product. That was the first thing that
+came to our minds when we were told that
+your name was connected with this product. Electronic Arts has told us, however,
+that you were very much involved in the
+design. Could you describe your involvement?
+Weaver: Well, Electronic Arts contacted me about doing a baseball game. I
+was interested because, when I was a kid,
+we were looking for any kind of baseball
+game that you can play. You know, roll
+the dice and move your man and if a certain die came up, you could get him to
+second base. I don't know how many different baseball games that I played as I
+was growing up.And then there was
+football. I don't know if you remember the
+football games where you placed your men
+on the football field and turned on the
+motor to watch the play while it vibrated?
+I thought that was great. But now, when
+something like this (i.e. stat-based sports
+games) comes along and you can make the
+plays yourself, it's great! My son is into
+these stat-based computer games. He's 36
+years old and lives in Atlanta.
+CGW: So, you've played these games
+on his computer?
+Weaver: Not a baseball game. All he
+had was golf and bowling. Whenever I'd go
+visit him, we'd play golf, but we'd never
+play baseball. I didn't even know there
+was one out until Electronic Arts con-
+
+CGW: In the "Play and Manage" mode
+(i.e. arcade mode) how big an affect can
+you have on the batter and his stats?
+Dombrower: You can drive a batter's
+average down quite a bit. You can make
+him a zero hitter, real fast.
+
+tacted me. When they did, I was very interested. I flew out to San Francisco to
+meet with them. What a day that was!
+Now, I've been asked baseball questions
+before, but never like this. And I'm sure
+you CGW fellows could wear me out as
+well. I could only answer a third of their
+questions accurately. But, they kept asking me and they kept asking me. So I got a
+blackboard. I put people in position, told
+
+what they do, where they should be, how
+deep they should be, when you should
+bring the infield in, etc. They asked every
+question that could be answered and they
+asked questions that I couldn't answer,
+after thirty years of involvement with
+baseball !
+CGW: We noticed that in the Play
+and Manage mode of EWB, there is a
+strong arcade element. Does this arcade
+element also play a role if you want to
+play the game as a stat-only game?
+Dombrower: No. In the stat-only mode
+(that is, our "manage" mode) you can only
+affect the actual pitching and hitting by
+ordering a 'pitch out' or a 'pitch around'.
+
+CGW: Let's get back to the algorithms
+in the game. For example how did you arrive at a formula that would determine if a
+player such as Alan Wiggins would successfully steal second against Lance Parrish?
+Dombrower: Well, we go to kind of a
+mixed medium because of my programming background is not in sports, but in
+real world modeling. What we've done is
+rate the players. Lance Parrish's arm is
+rated and Wiggins' speed is rated and his
+lead-off will be somewhat random. The
+time he breaks is somewhat random. Those
+are four variables. There's also the speed
+of the pitch variable (in the arcade mode
+that is). Those things affect the outcome
+of the play. They've just been adjusted
+through manual adjustments. We've taken
+the formulas and tweak them until they
+work. We started out with basically what
+we thought was going to be the model and
+each time, I guess it was five times, now,
+Earl has seen the game, and he would say,
+"This needs to be a little faster. This needs
+to be a little different." He's helped us balance and fine tune it. We've seen things in
+the current playtest version of EWB [Ed.:
+this interview was conducted in January]
+that need to be changed. For example,
+Earl coming out to argue with the umpire!
+CGW: Yeah, we've played the game.
+Earl argues with the umpire, too
+much.(laughter).
+Weaver: Way too much, but you've
+got to realize, it's the other manager coming out to argue half of the time. (more
+laughter).
+CGW: Okay, so let's return to the algorithm that determines if Wiggins is safe
+or out.
+Dombrower: Well, part of it is based
+on the reality of the situation. He runs in a
+real number of feet per second. Now, Par-
+
+rish throws in a real number of feet per
+second. And those two factors more than
+anything affect this.
+CGW: You mean, you go in for physics
+and trigonometry? It's not just percentages?!
+Dombrower: Everything in this game is
+really based on the fact that the ball falls
+at 32 feet per second.
+CGW: Are you serious?
+Dombrower: Oh, yes.
+
+CGW: This is totally different than
+any other stat game. Any other stat game
+is totally based on the percentage chance
+of Wiggins stealing in that situation. This
+is based on physics?
+Dombrower: Well, EWB still uses
+percentages. But physics are used to modify the basic play result called for by the
+statistical matrix. For example, an astro
+turf bounce is totally different than a natural field.
+CGW: Where did you get this approach?
+Dombrower: Well, I have a degree in
+math. A lot of this stuff comes from my
+college education.
+
+CGW: The rest of it?
+Dombrower: I don't know. A lot of it
+you just go to the library and look it up, if
+you have to.
+CGW: While we're talking about
+modeling, this brings up another question
+and this is directly to Earl. In your book
+Weaver On Strategy you give examples of
+charting pitchers. You mention that you
+had on index cards, references to every
+player that had come to bat against the
+Orioles in major league play.
+Weaver: Actually, they cover all baseball, now. In spring training we look at the
+players and see how they hit against us in
+the past. Now, if a guy hit .189 and we
+look at the chart and it says that we
+pitched him down and in, then, he'll primarily see slow breaking stuff, down and
+in and we'd stay with it. If a guy had a
+successful year against us, then, we'd have
+to look at where we'd got him out and
+
+then, we'd go to those spots. Now, a typical example was Sal Bando, who hit us
+just about every other year. We'd get him
+out on the inside part of the plate in 1974,
+and he'd hit .180 against us. Well, Bando
+had his own book and he'd say, "They got
+me out on the inside part of the plate." So,
+the first time we'd see him the next season,
+he'd back off of the plate a little bit and
+whack, now he's hittin' it. So, we have to
+change. Now, you can't do that on a machine. That's the manager and Bando was
+a pretty smart player.
+CGW: Did EA had access to your data
+in working on this project.
+Weaver: Well, yeah!
+
+CGW: They saw your cards?
+Daglow: Yes, he took us into his office
+and let us study them.
+Weaver: Yes, that was in Oakland.
+CGW: Did you actually use this data
+to create the algorithms?
+Dombrower: No, they were a little too
+sophisticated.
+CGW: Earl, did you use a computer to
+keep track of this data?
+Weaver: No. It just wasn't that complicated. As far as my hitters against the
+opposition, I'll tell you what I did against
+Catfish Hunter. Al Bumbry just wore him
+out. Now, I had a sheet on Catfish Hunter
+
+and it would say "Bumbry - .423" and,
+who was on the team with Bumbry, well,
+Brooks [Robinson] was there, .289. You
+know, this helped me decide when to bunt
+and when to swing away. Now, when Ripken plays, there's a couple of guys where
+he's 1 for 33, already. Against a couple of
+these guys, I put on the bunt for the base
+hit. Get one or two guys on and Ripken is
+liable to bunt in the first inning. But,
+there's not that many guys he's 1 for 33
+against.
+Daglow: Earl took us back into the
+clubhouse and had us look at those cards
+so we could figure out how he does it..
+CGW: When you saw those cards, how
+did you use them?
+Daglow: We saw how he fixed them.
+We didn't get the actual data off of the
+cards.
+CGW: Okay, but did Earl's pitching
+cards influence the game design in any
+way?
+Daglow: Yes, it helped us decide how
+computer Earl picks his lineup in the machine, the way he substitutes players,
+pinch hits, etc.
+
+CGW: Let me return to the Wiggins
+example. So, you're dealing with physics,
+here. How fast he is, how fast the ball
+travels, and that. How does the program
+determine how fast he is? It has to use a
+statistic.
+Daglow: The speed rating translates
+into a figure. We use Project Scoresheet to
+detail those ratings. They are located in
+Chicago and publish new statistical analyses on baseball. They're headed up by a
+guy who used to be an insurance actuary
+and programmer. They are the biggest
+baseball research lab and staff in the
+country.
+
+CGW: So, you work with them on your
+subjective ratings?
+Daglow: Yes. But, there is one other
+feature which we have in our game and
+that is, that you can edit the stats. If you
+find that we've done something wrong, you
+can always change it yourself.
+CGW: Let's explore another area.
+Please describe a typical design session on
+EWB.
+Weaver: The first design session was
+
+took place during the off season. It was
+something like ten hours long. It was a
+blackboard session of everything that I
+knew about baseball that I could tell Eddie and the EA people in a ten hour session. From that meeting Eddie developed
+the first draft of the game. Later in the
+year, in Oakland, we played the game for
+the first time. I made suggestions. For example I might say: "this is wrong" or "the
+cut-off man is too deep" or "the runners
+are running too fast." We had two or three
+more sessions like that.
+CGW: Eddie, How did you come onto
+the EA Baseball project?
+Dombrower: I worked on a similar
+project at Mattel for the Intellivision
+called "World Series Baseball". The
+'producer' of EWB was Don Daglow. Don
+was my boss at Mattel before he joined
+EA.
+Daglow: The Intellivision was so much
+more limited than the Amiga but Eddie
+had done such a phenomenal job in the
+physical modeling in "World Series Baseball" that we knew he could do great
+things with the Amiga. Our goal at EA
+was to do the greatest baseball game ever
+
+done; we wanted to emulate the greatest
+manager of all time, and we got our first
+choice on that one, Earl. So when Earl was
+brought on board, I asked Eddie to work
+with us.
+CGW: How much of "World Series
+Baseball" ended up in EWB?
+Dombrower: Well physics are physics.
+A baseball falls at 32 feet per second. Any
+program based on baseball physics is going
+to emulate that. But I did not incorporate
+anything specific to "World Series Baseball" into EWB. Mostly what I took from
+that project was what NOT to do. One
+thing I discovered was that the TV like
+viewpoint in "World Series Baseball" does
+not work. The TV view uses a lot of inferred information. In "World Series Baseball" the basic view was from the centerfield camera, looking over the pitcher's
+shoulder. That perspective is worthless for
+the batter. On the other hand, the pitcher
+does not need the centerfield view in order
+to select his pitch. So the more optimum
+view would be from behind the batter and
+home plate umpire. Obviously this has
+more relevance in the 'play and manage'/arcade mode than in a strictly stat
+
+replay mode. Additionally if you cover up
+any of the bases during the pitching you
+place the players at an additional loss. The
+eye can't readjust quickly to a new screen
+that again shows the bases. Therefore
+EWB has a set view of the field on the left
+side of the screen with a pitching overlay
+on the right side of the screen.
+Daglow: Just for a point of history.
+Eddie was the first designer to use a split
+view in a sports game. After "World Series
+Baseball" and the promotion of that game
+on TV with George Plimpton pushing it,
+everyone began to copy it. But Eddie was
+the first one to do that and no one ever
+gives him credit for that.
+CGW: Well, we'll straighten that out
+[Ed.: Consider it done.].
+CGW: Moving along, the music in
+EWB is great [Ed.: Teri Mason is a professional musician; it shows in the EWB
+music] and the sound effects are SO realistic. Teri, how did you accomplish getting
+such great sound effects?
+Mason: Most of the sounds are digitized. We would take a tape recorder to
+the ball park (Anaheim Stadium) and get
+
+right behind the batting cage. The sound
+
+of the bat crack in EWB comes from actually batted balls during batting practice.
+The sounds of the ball being caught come
+from players playing catch in front of the
+dugout.
+CGW: We are out of time here, but we
+want to ask Earl a question about last
+season. The Angels were one strike away
+from going to the World Series and went
+on to lose the playoffs. Then the Red Sox
+were one strike away from winning the
+World Series and went on to lose. How do
+you rate last year's playoffs and World
+Series?
+Weaver: How do I rate them? They
+were among the greatest! They had to be
+two of the most exciting series in the last
+two to three decades.
+[Ed.: That is, until my Tehachapi
+Steamers repeat as the CGW Baseball
+League World Series Champions this year.]
+Postscript: We were so impressed with
+EWB when we saw it in January that our
+Computer Gaming World Baseball League
+(see CGW #28) not only became involved
+in beta-testing EWB, we also adopted it
+for our league this year!
+
+THE MAIL PLANE BLUES
+or Why haven't I got my turn
+results?
+by Johnny L. Wilson
+Believe it or not, I've got a few friends
+who don't have computers. We still have
+the age-old problem, however, when and
+where to play a strategy game. We've tried
+numerous methods. We've tried
+play-by-mail with one gamemaster trying to do all
+the adjudicating by hand. This works for a
+while, but we usually finish only about one
+in three games. We've tried
+play-by-phone, but none of us are rich and we
+certainly are spread out all over the country. There is, however, a solution. That
+solution is computer-moderated
+play-by-mail.
+Rick Loomis of Flying Buffalo, Inc.
+takes (and rightly so) a lot of the credit for
+such a phenomenon. When he started his
+Nuclear Destruction play-by-mail in 1970,
+the only alternatives were Avalon Hill's
+pbm kits and pbm Diplomacy.
+Loomis began by soliciting players
+from the pbm ads in The General and
+ended up trying to keep up with 200
+players. This was quite difficult to do
+without help, so he asked Steve McGregor
+to write an adjudication program for the
+game and they ended up renting time on a
+Control Data computer in order to keep up
+with the game. In 1972, Steve and Rick
+pooled $14,000 in order to purchase a
+Raytheon 704 (with a measly 4K!) and
+Flying Buffalo ushered in a new era of
+computer games. The Raytheon is now
+28K (and still in use). In the succeeding
+years other companies appeared and the
+computer moderated play-by-mail game
+became a vital part of the gaming hobby.
+The following discussion is a brief survey
+of some of the computer-moderated
+play-by-mail games which CGW is aware of.
+
+of chrome, and lots to think about. The
+results sheet gives a tongue-in-cheek report on how each of your orders fared;
+details the number of blocks your gang
+controls; updates notoriety and morale;
+delineates the demographics for each of
+your blocks and the ones you've scouted
+(for example, 46% derelict, 2% restaurants,
+9% entertainment); accounts for income
+and expenses; and informs you of each
+block's defense level. It gives you a list of
+the "City's Most Notorious Gangs" and
+allows you to find out what the "Barf
+Bags," "Crypt Rats," "Strassekindern," and
+the like are up to. Finally, you get the
+New York City Post reports on the most
+interesting events taking place in the city.
+Your yellow post card begets at least 3
+pages of information. One of the players
+had a unique experience. He heard on the
+street that a movie studio was filming
+"Karate Kid III" on one of his controlled
+blocks. His gang hired on as extras so that
+Pat Morita would teach them karate. I
+particularly liked the turn result where my
+"Skull Busters" took control of the block
+after shaving the heads of two bus drivers.
+Naturally, game players are wondering
+what you can do on that yellow post card.
+Orders involve: ambushing other gangs
+and its counterpart, defending against
+other gangs; spreading your gang's influence by controlling new blocks; enlisting
+recruits in order to build your gang's
+strength; firebombing buildings in order to
+bring down a block's defense level and
+make it easier to control; mugging defenseless victims; pushing drugs; committing armed robbery; spying on other gangs;
+using dope; purchasing weapons or drugs;
+and acting tough. The game mechanics are
+simple but allow for a multiplicity of options.
+The rule book and first two turns for
+It's A Crime are free. After that, each turn
+is $1.50. In the world of PBM, that's a
+bargain. This game is highly recommended, especially (but not exclusively)
+for your first PBM effort.
+
+It's A Crime!
+
+Fleet Maneuvers
+
+It's no accident that I begin with Adventures By Mail's (Box 436, Cohoes, NY
+12047-0436) It's A Crime. Of all the PBM
+games I've played and seen, it seems to be
+the easiest to get into, afford and keep up
+with. I have friends who don't even care
+for PBM that have tried It's A Crime and
+think it's great. It's A Crime puts you in
+the role of an inner city gang leader who is
+trying to take over control of a city which
+consists of almost 10,000 blocks
+(coordinates). You name your gang, scout
+up to four blocks, and issue up to four orders (more on that, later) for each turn.
+Your move can be written in 10 minutes
+on a yellow post card provided by ABM,
+but the detailed report which is returned
+to you provides numerous details, plenty
+
+If you can imagine a multi-player version of Star Fleet I where you are interacting with other captains of a your fleet
+(as well as human opponents in the enemy
+fleets), you have an initial handle on Fleet
+Maneuvers (FM). I say "initial handle"
+because the game is more complex than
+the computer game, even without considering the variables involved when playing
+with other humans (humanoids?). The use
+of the X and Y coordinates on a two dimensional Cartesian plane is similar to the
+computer game, but allows room for more
+intricate maneuvering. Further, players
+have to be concerned with three different
+enemies, rather than the two in Star Fleet.
+FM allows you to be a member of the Alliance (the good guys, roughly equivalent
+
+to the Federation in Star Trek), the Confederacy (an imperialistic splinter group
+from the Alliance), the Donna (A small in
+stature, peace-loving race of incredible engineers, these one meter tall beings are
+deadly when they are threatened.), and
+the dreaded Krell (These are a cross between Klingons and Romulans in Star
+Trek and Krellan and Zaldron in Star
+Fleet I, being both culturally bellicose and
+having a cloaking device.). FM demands
+that its captains make judicious use of
+energy units by making command decisions regarding allocation of energy for
+weapons, shields, life support, command
+control, and sensor scans. Then, if the
+original game isn't complex enough for
+you, the company runs two addition games
+with expanded rules (Fleet Maneuvers 3:
+The Next Dimension, where a Z axis is
+added to create a three-dimensional
+cartesian plane and allow considerations
+like roll, pitch and yaw to be factored in,
+and Fleet Maneuvers 3: The Final Exam,
+where the player attempts to command a
+fighter-type Krell Cub Escort - a highly
+maneuverable "throw-away" ship). Fantastic Simulations (P.O. Box 24566, Denver, CO 80224) is a classy company which
+features professionally printed rules;
+maintains a BBS to assist players with
+
+questions, record turns, and provide a forum for helpful interactive communication;
+and uses the most attractive turn sheet of
+the lot. The rule books have extremely
+helpful diagrams and examples and the
+advanced games have some beautiful
+transparencies available for keeping track
+of defense points, targeting points, and
+maneuvers. The company also publishes a
+professional looking newsletter, CommLink, which contains updates on all the
+games, lists individual player's rankings,
+sponsors contests, and clarifies rules. Rule
+books are free and turns cost $2.50 per
+turn.
+
+Uncovering An "Illuminated"
+Conspiracy
+Though Flying Buffalo, Inc. (P. 0.
+Box 1467, Scottsdale, AZ 85252) runs two
+of the longest running PBM games (Heroic
+Fantasy and Starweb), one of their current
+best is Illuminati, a PBM version of the
+Steve Jackson table top game which really
+enables the fiction to shine. After all, Illuminati is supposed to be based on covert
+operations and paranoia. You don't know
+anything without infiltrating, subverting,
+probing, or controlling these conspiratorial
+organizations. Game play is similar to the
+table game, but seems to be more in tune
+with the fiction when you have to wonder
+who is controlling what than when you can
+see their entire structure laid out on the
+table. You can not only add to your
+power, influence, and wealth, but you can
+corrupt, neutralize, or destroy other
+groups, as well as assassinate other leaders.
+What more could you ask? I've always
+wanted to control the "Morticians" and
+"Radio Evangelists." Now's my chance.
+This game features the best turn sheet
+which FBI has published, yet. The game
+mechanics are easier to get into than either Heroic Fantasy or Starweb and the
+open-ended due dates increase the playability. Turns cost $4.00.
+
+Feudal Lords and Futile strategies
+One of the most interesting and educational games available at the present is
+Feudal Lords (Graaf Simulations, 27530
+Harper, St. Clair Shores, MI 48081 - also
+available through Flying Buffalo). This is
+an incredibly sophisticated simulation of
+ruling a fiefdom in the England of the feudal age. What's so remarkable about the
+game is that it isn't just another conquer
+the world (or galaxy) game. It is a simulation that is actually concerned with the
+"way it was." The barons must provide for
+the peasants and the general economy
+through a series of economic, as well as
+diplomatic, decisions. The baron who sim-
+
+ply goes charging off to conquer other fiefs
+is going to be very disappointed in the
+outcome of this game. Feudal Lords is a
+game system which has such a thorough
+understanding of the Middle Ages that
+even members of the Society for Creative
+Anachronism should be impressed. Food,
+Population, Trade, Natural Resources, and
+Diplomacy are even more important than
+training knights at arms in this game
+(although you should never be at home
+without them, either). Each turn consists
+of up to twelve possible actions, ranging
+from the mundane (mining and agricultural research) to the sublime (a campaign
+for conquest). The rules and turns cost
+$2.50 each and the company recommends
+that you keep $10.00 in your account.
+Some middle schools and high schools are
+using this game as an educational tool to
+introduce life in the Middle Ages to their
+students.
+That's all the room we have for now,
+but I hope to update our readers on these
+games and talk about C2 Simulations' New
+Order (a soon to be released game of space
+conquest and colonization from a new
+company), Flying Buffalo's Heroic Fantasy
+and Starweb, Graaf Simulations' Spiral
+Arm, and Reality Simulations'
+DuelMasters in a future article.
+
+Bezbol (cont.)
+
+Continued from pg. 9
+batter is portrayed on the left lower corner of the
+screen. Once you think of this as being a different
+camera angle, this is somewhat easier to cope with.
+Nevertheless, it can be disconcerting in your first
+couple of at bats.
+The computer manager seems somewhat better
+than "Casey" in Computer Baseball, but not as effective as Full Count Baseball or Earl Weaver
+Baseball. Percentages seem to favor the aggressive
+manager, especially in solitaire mode. I found that
+my fast runners almost never get thrown out and
+when they are, it is usually because I've tried to
+steal with them every other time they've been on
+base. It is exceedingly rare for a runner to get
+thrown out taking the extra base, unless the ball is
+hit to a field where the fielder's throwing rating is
+4. It certainly doesn't hurt to swing aggressively,
+especially with batters who have a high average but
+less power. A player tends to pick up more doubles
+than strike-outs. Aggression is the better part of
+valor in this mode.
+Those who want to have a computer baseball
+
+league will certainly want to give Pure-Stat Baseball
+a chance, since it has a statistics compiler which
+allows both manual and automatic updates of stats,
+the addition of new teams to the stats, and printing
+of individual team stats. It also facilitates the general managers of each team with its capacity for
+trading players. This function makes trades much
+simpler than the earlier stat-based games where
+each statistic had to be entered by hand.
+Pure-Stat is a good value, only to be avoided by
+those who insist on realistic graphics or those with
+64K systems who want a fast-playing game (With
+less than 128K, the program has to access the disk
+for the graphics and this gets tedious). For those
+who want to have a computer league on Apple or
+Commodore machines, Pure-Stat provides a nice
+array of options and plenty of managerial challenges.
+HARDBALL
+(Accolade, most systems).
+Like EW's "play and manage" mode, Hardball is
+
+a statistics modified arcade game. The pitchers are
+not based on real pitchers, but they have characteristics similar to real players. As for the position
+players, the field is pretty level here, unlike statistically based games where actual fielding ability
+based on real performance is important. Strategic
+decisions for the defensive player are reduced to
+simply selecting a lineup, changing players or positions, shifting the outfield or leaving it in normal
+
+position, moving the infield to normal or double
+play depth, or intentionally walking the batter.
+Once those options are decided, the defensive
+player selects one of eight types of pitches: very
+fast, fast, offspeed, straight change-up, sweeping
+curve ball, screwball, sinker, or slider. The offensive player has even more limited choices. He can
+bunt or steal (if he has a base runner), but is primarily concerned with swinging high, swinging
+low, looking for an inside pitch, looking for an
+outside pitch, or swinging straight away. Timing is
+more important than strategy in this game and it
+would probably be disappointing to anyone other
+than an avid arcade fan.
+BASEBALL FANATIC
+(Performing Arts Software, IBM)
+Baseball Fanatic is a stat-based game with an
+interesting twist. It allows the player to set five
+different play levels which affect the probabilities
+related to offensive production. For example: 1)
+Super Slugfest usually nets a thirty to forty hit
+game (more than 10 above the major league aver-
+
+age); 2) Slugfest isn't quite as wild, but usually
+produces almost 10 more hits than the average major league game; 3) Pitcher's Duel allows the most
+minimal production of hits (about 6-10 hits under
+the average) and makes strategic decisions loom
+even larger; 4) Average Big League is for those
+who want a more realistic statistical replay; and 5)
+Pot Luck creates a random setting from one of the
+previous four, so that your strategy is developed "in
+the dark," as it were. The game allows computer vs.
+
+Bezbol (cont.)
+
+computer replays, solitaire mode, and human interplay, as well as facilitates the creation of new teams
+for league play and updates the standings for your
+league from game to game.
+Unlike most statistical games, the game plays
+one pitch at a time, which allows you to mix up
+your pitches and attempt to fool each batter. The
+pitcher uses a numeric menu which allows him to
+select the type of pitch and what portion of the
+strike zone and/or plate he is aiming for. Changing
+speed becomes very significant in this game. Further, the game keeps track of the number of
+pitches thrown by each pitcher and the fatigue
+factor weighs heavily on his effectiveness. The offensive options are primarily limited to bunting,
+stealing, running, and taking a pitch. Beyond these,
+the batter's guess at the pitcher's selections has a
+positive or negative impact on the outcome of the
+at bat.
+The game has color graphics and requires a
+CGA card (or equivalent).
+A BRIEF ANNOTATED BIBLIOGRAPHY
+
+than make up for this. The amount of statistics
+considered for each situation is considerably more
+than most programs and bound to please the most
+avid stat player. At $60 retail, it is also the most
+expensive of the games considered. Apple, IBM.
+Championship Baseball (Activision): This is an
+arcade game which is slightly affected by a statistical database. Action lovers will en joy it, but it's
+not for those who want to recreate professional
+baseball. Championship Baseball does allow for
+drafting players and having league play, however.
+Apple, C-64/128.
+Computer Baseball (SSI): Even more of a bargain
+as part of SSI's "Classics" promotion than it was
+when it was released in 1981, this program is one
+of the most playable and versatile simulations on
+the market. The Computer Gaming World Baseball
+League used this program as its unanimous choice
+during its first three years of existence. The version
+on the market doesn't help with league statistics,
+but does allow for the creation of teams by
+inputting actual statistics from any era by means of an
+easy-to-follow step-by-step process. More than
+30,000 copies of this program have been sold. Apple, Atari, C-64, IBM.
+Micro League Baseball (Micro League Sports
+Assn.): Endorsed by the Major League Players Association, this program features a good balance
+between graphics and statistics. An optional General Manager's Disk is available to assist you in
+trading and drafting players and a Stat Compiler is
+also available as a separate purchase (the game
+doesn't keep stats otherwise). Apple, Atari, C-64,
+IBM and soon for the 68000 computers.
+
+APBA Major League Players Baseball (Random
+House): This is a faithful recreation of the famous
+table-top game. Although short on graphics, the
+decision-making options and text descriptions more
+
+Playing all of these games could well make one
+into a baseball pundit. Of course, as one wag put it
+as early as 1915, "Knowin' all about baseball is just
+about as profitable as bein' a good whittler." (Abe
+Martin's Savings and Sketches). May all your whittlin' be on a 38 ounce bat. [Ed.: CGWBL Tehachapi
+Steamer pitcher Dwight Gooden has whittled on a
+few 38 ounce bats over the past few seasons. Sorry,
+Johnny, just had to sneak that one in there.]
+
+Gone With The Wind (cont.)
+
+Continued from pg. 31
+
+tion station and others.
+As detailed as the actual sailing portion of the
+program is, DSS is just as detailed as a tutorial.
+Within lesson one there are nine chapters. Each
+chapter contains a story and instructional adventure
+which teaches and then quizzes you about various
+aspects of sailing. In the instructional adventure
+you will be given a situation (such as another sailboat crossing your path forcing you to change
+course to avoid a collision). You will then be questioned about the situation. In the present example
+you may be asked which boat has the right of way:
+the boat on the starboard tack, the boat on the port
+tack, etc. If you get the answer correct you gain
+points, wrong answers lose points. Your scores are
+recorded for each chapter of the lesson and a performance analysis is available to compare your
+scores with those of other "students" using the same
+program to learn sailing.
+In preparing this article we spoke with DSS designer Jim Spalding who indicated that there is a
+possibility that the sailing features of DSS could be
+
+put on a single disk program without the sailing
+tutorial and with slightly fewer features. This configuration could be marketed more as an entertainment product than a tutorial. We would like to see
+such a version become available. But even in its
+present configuration, DSS offers a lot of value,
+especially if you are interesting in sailing beyond
+the confines of your computer screen.
+SUMMARY
+There is something intellectually, emotionally,
+and at times spiritually satisfying about sailing. The
+intellectual task of getting from here to there using
+only the wind and your brains is exciting. Being
+out there on the water and knowing that you are in
+tune with nature, as well as using nature's own
+tool, the wind, as your means of transport is a
+spiritual experience. Sailing is a sport/hobby we
+highly recommend and these programs are a good
+introduction to the sailing experience. Prepare to
+come about!
+
+OGRE®
+Name:
+Players:
+System:
+Price:
+Designer:
+
+OGRE
+1-2
+Most
+$39.95
+Steve Jackson
+Steve Meuse
+Publisher: Origin Systems
+Manchester, NH
+
+by M. Evan Brooks
+In 1977, Meta-Gaming released OGRE, the
+boardgame. Quickly becoming a classic for its
+playability and challenge, numerous expansion kits
+and magazine articles (especially in The Space
+Gamer) kept this "simulation" in the arsenal of most
+wargamers. Now, Origin Systems has released the
+computer version, a faithful adaptation of its famous boardgame predecessor. No matter which
+system is used, Ogre utilizes a GEM-like pull-down
+menu system where menus are selected via mouse
+or joystick (depending upon one's system). This
+makes for relative ease of movement and reasonably fast play.
+The heart of Ogre is a one-unit tank against a
+combined-arms defensive in the "future". Anyone
+familiar with Keith Laumer's science-fiction Bolo
+stories will recognize a collateral relative here [Ed.
+Note: Ogre isn't the first computer game to claim
+affinity with Laumer's stories. Synergistic Software
+published Bolo, an arcade game based on the series,
+in 1982. This is definitely not the same game,
+however.]. The OGRE is a cybernetic super-tank,
+computer-driven and sporting enough weaponry to
+devastate an infantry division. The OGRE's sole
+
+mission in life is destruction. The defensive command post is the OGRE's goal because the OGRE
+must destroy the command post and every extant
+opposing force element in order to achieve a decisive victory. Destruction of the command post alone
+will merely yield a minor OGRE victory. For the
+defense to secure victory, it must destroy the
+OGRE, a task which will prove extremely difficult.
+The defense may pick and choose its composition. For the Basic Game, normal force composition
+is made of 12 armor and 20 infantry units, while
+the Advanced Game uses 20 armor and 30 infantry
+(OGRE opponents are Mark III and Mark V models
+respectively). Armor units available include Heavy
+Tanks, Missile Tanks, Howitzers (immobile and
+counting as two armor elements apiece) and G.E.V.s
+(Ground Effect Vehicles, similar to super-hovercraft). Silhouettes delineate each type except for
+infantry, which is available as an actual integer (i.e.
+"1", "2" or "3") and may be combined or broken
+down in a hex.
+As for playability, Ogre best lends itself to solitaire play. The human OGRE has little real strategic or tactical thinking to dissuade him from his
+goal of marching to the enemy Command Post. The
+
+solitaire defense has a difficult job, even in the
+Basic Scenario. The most important strategic guideline is to destroy the OGRE's mobility. Even if all
+weapons systems are destroyed, the OGRE may still
+crush a Command Post beneath its treads.
+The obvious critical decision is the initial defensive mix. A voluminous amount of print has
+been devoted to determining the "optimal" mix (cf.
+The Ogre Book by Steve Jackson Games). A defensive force emphasizing GEVs is one optimal strategy, since these vehicles are the only ones that can
+move, attack and move back before the OGRE can
+react. Of course, they are relatively weakly armed,
+so the net effect is a stinging annoyance which
+hopefully escalates into a fatal crippling of the
+OGRE.
+With their second movement phase, GEVs can
+avoid all casualties from the OGRE's secondary
+batteries (after, of course, its speed is reduced to
+"two" from the initial "three"). Time is critical,
+however, as Lawrence Duffield noted in "Ogres and
+the Fuzzy Wuzzy Fallacy," because OGREs can
+reach missile firing range in six turns and overrun
+a Command Post by the eighth turn. Therefore, the
+defense must reduce the OGRE's mobility from the
+outset. In The Ogre Book, Chester Hendrix opted
+for a four howitzer, mutually-supporting defense.
+This has the effect of reducing the armor assault
+capabilities of the defense, but allowing the massive
+firepower of the howitzers to tear massive chunks
+out of the OGRE. Notice that no reference has
+been made to the infantry. The PBI (poor bloody
+infantry) has the role of acting as grease to the
+OGRE's tread. With their low mobility and inability
+to escape the OGRE's wrath, they serve as suicide
+troops, hopefully buying enough time with their
+bodies as to slow down the OGRE for the artillery
+and armor.
+What is the real critical factor in Ogre? The
+answer is luck. While assaults against weapons systems may mass for best odds, the assault against the
+OGRE's mobility (treads) must be done individually
+at a 33% odd. Thus, when all is said and done,
+Ogre boils down to a die-rolling (or with the computer, a random number generator) contest. If the
+defense gets sufficient 1-3 successful die rolls, then
+the OGRE is doomed. If not, ...
+The computer game is easy to play. The odds are
+displayed on the screen, and the pull-down menus
+are very clear. The map is the traditional one that
+board wargamers were used to; however, the com-
+
+puter does have a benefit. One may design the
+board in any desired fashion. Indeed, it is simple to
+do so by using the map editor. As with any battle
+situation, terrain can have a marked effect upon
+the strategy and result. Craters and rubble are easy
+to insert or delete, and the finished product may be
+saved for future games. Even more important, if
+the gamer feels that he needs more defense, he may
+select the size of the defense of his choice. The
+computer will allow him this license, after confirming that this is indeed the player's desire.
+Ogre is not without its flaws. During tread assaults, especially with infantry, the player may tire
+of having to continually confirm his attacks. But
+even more important is the lack of design options.
+The boardgame version of Ogre allowed the player
+to design his own OGRE. OGRE statistics have
+been published for the Mark I (a beefed-up heavy
+cybertank), the Mark II (larger chassis and more
+guns), the Mark IV (light raider unit) and Mark VI
+(with 3 main batteries and 20 missiles!). Alas, computer Ogre will not allow one to utilize these fearsome beasts, nor to fight OGRE with OGRE.
+Of course, historical accuracy is not a consideration in Ogre. The game's premise is pseudo-science fiction and any resemblance to reality is
+strictly coincidental.
+Greg Costikyan, well known boardgame designer, called the boardgame Ogre "the ideal game
+to play whilst stoned," (perhaps the "beer and pretzels" game for a New Generation?). The world and
+most of that generation has changed direction (at
+any rate, playing with computers and electricity
+"whilst stoned" are not conducive to one's health or
+even the computer's).
+Therefore, even though Ogre
+is a faithful adaptation of its
+parent boardgame, has adequate
+graphics, and can be fun, it
+isn't the bargain at $39.95
+that the boardgame was
+at $2.95.
+
+LETTERS TO THE EDITOR
+
+too modest to write such a letter himself so I took
+it upon myself to point this out.
+The fact that I am also a game designer (King of
+Chicago, ChipWits) shouldn't make you question the
+purity of my motives in writing this letter. (Should
+it?) Kellyn deserves to be known as one of the best
+designers in the business.
+A fan of your mag,
+Doug Sharp
+Minneapolis, MN
+SELF-DESTROYER?
+I have recently purchased the game Destroyer.
+Sadly, I must report, I find several areas that keep
+this game from being in the same class as
+Microprose's Silent Service or Gunship. To be
+specific, there are three areas that really hurt this
+game: 1) a propensity for the ship to self-destruct
+with little or no warning, while in the "Evasive
+Action" or "Pursuit Mode" by running off the map
+or grounding on a reef; 2) a critical absence of vital
+target data information in order to properly employ
+torpedoes or to make an reasonably intelligent
+depth charge attack; 3) the omission of a "Combat
+Information Center" screen (which by the way, is
+where the Captain's real battle station is). The
+C.I.C.'s function is to constantly monitor and plot
+the ship status and all threats to it, while allowing
+the C.O. to be in constant contact with all other
+stations aboard ship. In effect, this is where the
+captain fights his ship from, not by chasing from
+one station to another.
+Tom Cianflone
+Cheektowaga, NY
+Ed.: We welcome our readers comments about
+games. Please try to give specific reasons (as in the
+above letter) for your views and not ambiguous
+comments like, "This is the greatest game since the
+`Leave It To Beaver' simulation!" or "This game
+stinks!"
+DEFENDER OF REKNOWN!
+I enjoyed your review of Defender of the Crown
+but was puzzled by one point. Nowhere is Kellyn
+Beck, the game's designer, so much as mentioned.
+Kellyn deserves credit for his innovative use of
+cinematic effects within a playable, enjoyable
+game. Kellyn is a friend of mine and I know he is
+
+Ed.: Actually, Wyatt Lee was simply abiding by
+an age-old cinematic tradition, ignoring the opening
+credits and leaving before the closing credits were
+finished. We'll try to be consistent in the future when
+we neglect to mention your designs. Frankly, Wyatt
+was so interested in describing the game that he
+skipped by the usual Basic Information box and got
+right to the product. The product will speak for
+itself, like a good film, and Kellyn will eventually
+get the credit he so richly deserves. Film directors
+don't usually become famous in their early efforts,
+either. Look how long it took for Speilberg to get
+his Oscar.
+
+MICRO-WOES FROM MICROPROSE
+I am writing in the hope of alerting your other
+Atari users of problems arising from using
+Microprose software with non-Atari (third party)
+disc drives...Although thousands or perhaps tens of
+thousands of Atari users have chosen non-Atari
+disc drives for their superior performance,
+Microprose software is designed to function only on
+Atari disc drives, without any warning label on the
+outside or inside of the software package that the
+program may malfunction on non-Atari disc drives.
+I have purchased programs from most major
+software publishers; they all run on my Trak disc
+drive except for Microprose. Anyone else out there
+with problems running Silent Service with Trak or
+other disc drives?
+Do you agree that it is unfair to market a program
+without warning that the program may malfunction
+on compatible hardware?
+Barry H. Jacobs, M.D.
+Boston, MA
+
+My Silent Service wouldn't work on my Rana
+drive until the protection was broken. Are other
+recent Microprose releases as screwed up? I won't
+buy them if they are.
+Don
+Union City, CA
+
+change it without telling you how to break their copy
+protection.
+
+POST AWFUL DESTRUCTION SET
+
+There is a definite problem with non-Atari disc
+drives. Microprose takes the position that the
+package specifically says that this is ATARI
+software and since they can't test every possible
+configuration that this ought to be enough. Further,
+the problem relates to the protection scheme. They
+have changed it since their earlier programs (which
+were relatively simple to break, according to the
+company) and that is what is causing the problem.
+CGW would like to see a disclaimer on the box, but
+the company suggests that potential customers
+simply call or write before purchasing a Microprose
+program, particularly with Atari software.
+
+The "Postal Service" has destroyed 2 of the last 3
+issues of CGW (thanks for resending me #27).
+Perhaps an armored box would work?
+Greg Peterson
+Gering, NE
+Ed.: Maybe your postman is a Cray owner who is
+mad because we don't have a Cray column?
+Seriously, though, we'd like to be able to send the
+issues with more secure packaging, but this is
+problematic for us. Formerly, we used a protective
+cover, but the post office kept delivering the covers
+without the magazines. You think we get complaints,
+now! You haven't lived until you hear from a
+subscriber who paid over $2.00 for a protective
+cover!
+
+SOONER BOWL SUNDAY
+
+PROFILES IN VERBIAGE?
+
+The Avalon-Hill football game "Super Bowl
+Sunday" is fun for doing historical replays and
+keeping stats, etc. However, the graphics of the
+game are not only VERY elementary (shades of
+stick-man) but also time-consuming, since it is
+obvious the program has produced the play results
+before the graphics take the screen. Question: Is
+there any way to get inside the program and
+eliminate the graphics so that we can have a quick
+stat-oriented replay? Even if no one here does
+machine-language, I am sure we could follow a
+printed direction sheet that told what to input.
+Avalon-Hill, although very quick to respond to
+service complaints, doesn't seem to be interested in
+this sort of user inquiry.
+S. Moffett
+Kamitsutsui, Kobe, JAPAN
+
+Thanks for "Designer Profiles." This is surely a
+welcome addition to CGW. The interview with Al
+Miller was interesting and informative. I never
+knew Alan worked on the Atari 8 Bit OS (and I
+thought I knew everything about the Atari OS).
+Thanks again CGW for keeping your readers
+informed!
+Ray Forbes
+Oak Park, IL
+
+Ed.: Surprise! Avalon-Hill does care about this
+sort of thing. They have already updated "Super
+Bowl Sunday" so that version 2.1 allows you to
+suppress the graphics with the "G" key. Owners of
+earlier editions can get version 2.1 for $10 plus the
+original disk. Obviously, they can't tell you how to
+
+I really enjoyed your interview with Brian
+Moriarty of Infocom.
+Marian Apgar
+Napa, CA
+Ed.: Thanks! We think the personalities behind
+the games make the games more interesting. We also
+think it's important to know the players in order to
+prepare our minds for future developments in the
+industry. Of course, we could be wrong, so witness
+the next two comments.
+I love the magazine, but you should have more
+reviews and game tips instead of Designer Profiles.
+Cesare Foschi
+Deer Park, NY
+
+Designer Profiles not useful. More strategy tips.
+R. Cary
+Marmora, NJ
+
+WHAT DO READERS AND ELEPHANTS HAVE
+IN COMMON?
+In your Sept.-Oct. '85 issue, 5.4, an article
+written by Roe R. Adams III and entitled "Come
+Cast A Spell With Me" described some software
+from Japan (Black Onyx, etc.) that would be
+released in the U.S. I've been waiting and looking
+and haven't seen it anywhere yet.
+R.A. Upshaw
+Somerville, NJ
+
+MONSTER GAMES!
+Will we see computer games similar to grand
+strategic board games like "War & Peace," "War in
+the East" and the number of WWII Pacific Titles?
+Al Figlia
+APO NY
+Ed.: Hmm, I don't know if we could hook that
+many computers together for a game without using a
+LAN! Seriously, you mean "War in Russia" doesn't
+work for you on that level? I believe that's about as
+close to a monster game as you can get on a
+computer. You might try SSI's new "War in the
+South Pacific," reviewed in this issue.
+
+A PLANE OLD COMPLIMENT!
+Ed.: It's not here, nor there, nor anywhere, so
+beware! Vaporware (those announced titles which
+never seem to show up) is a common problem. In
+this case, Sierra Online was supposed to have the
+license to market "Black Onyx" in the U.S.A. and
+the company has informed us that the deal with
+Henk Rogers' Bullet Proof Software never
+materialized. Remember that Roe's column was
+dealing with trade rumors and expectations at a
+Japanese trade show. Sierra On-Line has gone with
+a U. S. designer for its fantasy line. Wrath of
+Denethenor is available as of this writing, as well
+as the animated adventure series.
+
+I just wanted to let you know, I en joy your
+publication very much. I just received my
+December issue today, and as usual, it is excellent.
+Please keep up the good work.
+Mike Messersmith
+Compuserve Subscriber
+Mr. Messersmith,
+Thanks for the compliment. By the way, we love
+your airplanes.
+
+COMPUTING OUT OF THE CLOSET
+In the Sept.-Oct. '85 issue, Rick Teverbaugh
+mentions in his column he will be reviewing "Great
+American Cross Country Car Race" in his next
+column (along with others). I have missed no issues,
+and still have not seen these reviews. Did the
+column with those reviews not get published, or did
+Rick forget? I was interested in all 3 of the
+programs he mentioned but never reviewed.
+Lewis J. Snyder
+Jamestown, NY
+Ed.: Uh, oh! Even we get caught at Vaporware!
+We had to leave out the column for space reasons
+and felt that the material was out of date by the
+time of the next "Sports Scoreboard." Sorry for the
+inconvenience.
+
+What do the computer enthusiasts of the world
+do with game software that they are tired of
+playing. An avid player can accumulate quite a
+large stockpile of software that will most likely
+never be used again. Not to mention the
+investment, money well spent I might add, that lies
+idle.
+Marshal L. Sudrala
+Phoenix, AZ
+Ed.: Actually, one can advertise adventure games
+with a free ad in the "Swap Shop" in Questbusters
+(the Adventurer's Newsletter published by Shay
+Addams - $15 per year). CGW may well come out
+with a subscriber newsletter to fill in the three "off"
+months that we do not publish. If said newsletter
+comes about, it will most likely have some sort of
+game swapping service.
+
+Scorpion's Tale
+
+Continued from pg. 23
+Pay careful attention to the ceiling in the southern
+half of the crawl space. And don't be afraid to be
+pushy.
+Round about now, you should be pretty much
+finished with the house. If you've been into the
+hedges, you have eight goodies, or seven if you
+haven't (this does not especially matter, as the maze
+can be done at any time).
+So you're thinking about those beach stairs, the
+ones with a few steps missing about half-way
+down. Terrible, how things have deteriorated since
+your childhood days. Actually, it's more than terrible, since you can't jump over the gap, and there's
+no rope anywhere. Life is hard.
+Still, moaning about it won't do much (except
+maybe put the estate in Horrible Herman's hot little
+hands). I wouldn't give you a snow job; there's a
+fast and easy way of going down those very stairs,
+one that will get you to the bottom before you can
+hardly draw a breath.
+Whew! A fast trip indeed, and now you're on
+the beach at last. Both the green match and the
+smoldering fire are important (which reminds me: I
+hope you haven't used the red match yet). Of
+course, it's your job to figure out in what ways.
+While you think about it, a quick stroll of the
+area is in order. You'll find it to be a very small
+area, at that. The only place of interest is the small
+grotto. Which doesn't appear to hold anything of
+interest, except water. Well, I'm sure that sometime
+in the past, Herman told you you were all wet.
+The only problem with being in the dark is that
+you can't see. This is actually a bigger problem
+than it sounds, because while you can walk around
+in the dark, you can't OPEN anything in the dark.
+At least you don't have to worry about Grues. On
+the other hand, a light source would certainly come
+in handy right about now.
+And there is the trick, getting a usable light
+source with you into the bomb shelter (so? what
+did you think was on the other side of the hatch,
+eh?). This is probably the most difficult puzzle in
+
+the game (now watch everyone tell me later they
+got this one right off). But I'm not going to wax
+prolific on this one, you'll have to figure it out on
+your own.
+Once you can see again, a very strange sight will
+meet your eyes. A large safe suspended by a rope,
+a sawhorse with a plank, hooks in the wall, a hatch
+and a greasy chain. What a combination! I recommend making a rough diagram of the set-up, which
+will help to make things much clearer. I also recommend opening the hatch before doing anything
+else.
+Naturally you have a burning desire to get your
+hands on the safe, or rather, its contents. This may
+not be easy. Once you get the safe down (which is
+not hard), you have to get it open (which IS hard).
+Yes, it's another combination lock. And yes, you
+have to get it right the first time, just like with the
+other one.
+However, there's nothing around with anything
+that looks like it might be the combination. Nothing, that is, except the small plaque on the door.
+Hmmmm. Could there be a clue here? Possibly
+several clues? There sure are, and you can count on
+that.
+Now the rest is easy (or ought to be!), and before long you should be out of the shelter and up
+the slope with another treasure in hand. A brief
+stop at the cannon (too obvious to mention!), and
+you're ready for the end game (that is, when you've
+picked up the 10th and last goodie; if you haven't
+done the maze yet, hop to it!).
+Bet you didn't think you'd end up in a prop
+vault, eh? Well, let me give you a little clue. That
+buzz saw is no prop, it's for real. You don't have
+much time here (you probably figured that out already by yourself), so you must act quickly! All I'll
+say is: third time lucky. Good luck!
+Well, I see by the old invisible clock it's that
+time again. If you need help with an adventure
+game, you can reach me in the following ways:
+On Delphi: Stop by the GameSIG (under the
+Groups & Clubs menu). On GEnie: Visit the Games
+RoundTable (type: Scorpia to get there). On The
+Source: Send SMAIL to ST1030. By U.S. Mail
+(please enclose a self-addressed stamped envelope if
+you live in the United States): Scorpia, PO Box 338,
+Gracie Station, NY NY 10028.
+Until next time, happy adventuring!
+Copyright 1987 by Scorpia, all rights reserved.
+
+Epyx (cont.)
+
+Continued from pg. 14
+bad, but I won the game within an hour after
+loading it and I'm a lousy game player (maybe it's
+that Epyx joystick's fault). Forty dollars is a lot for
+a one-shot game.
+World Karate Championship — This is an unoriginal Karate Champ clone, but it's the best one
+available. Seventeen moves are available in the
+quest for the black belt and the game actually does
+require both physical and mental endurance. Great
+scenery adds to the ambience.
+Street Sports Basketball — This is projected to
+be the first of a series of Street Sports games. It
+wasn't available at press time, but it sounds like a
+winner. Three person teams are chosen from rosters
+of players with distinct characteristics and play in
+"one of four different neighborhood scenes." Hazards of street play are all part of the fun.
+Everything Else:
+The Movie Monster Game — This game is a revamped version of the classic Crush, Crumble and
+Chomp. You may control the beast of your choice
+as you rampage through the metropolises of the
+world in search of food, a lost child, or a good
+
+Destroyer — This is an excellent naval simulation, set in the Pacific during World War II. (Ed. See the Letters to the Editor column for some reasons why this might not be considered an excellent
+game.) Seven interesting missions invite would-be
+skippers to test their mettle. There is plenty to do
+and the game doesn't require a vast background in
+war games. It may not be suited for novices, but
+anyone who has ever played computer games and
+won at chess should have a ball.
+Sub Battle Simulator — Another program that
+wasn't released when we went to press, this game
+could be a real treat. It should be historically accurate enough for players to fight in replicas of
+real World War H sea battles. Though Jet Combat
+Simulator wasn't very good, I have high hopes for
+this first in the Masters Collection.
+Create A Calendar — I haven't seen this program, so I'll reserve judgment. The thing makes
+calendars. Can you stifle your enthusiasm? There
+aren't any pin-ups, either. Go to your bank (or local auto parts house) and get one of theirs for free
+so you can save your money for other products.
+Chapter Six
+
+time. It gets a little - tedious after a while, but the
+improved graphics and multitude of play options
+should keep your interest for a while.
+Graphics Scrapbooks I, II, and III — These are
+data files for use with The Print Shop. The first
+two offer one hundred images each, dealing with
+sports and general weirdness, respectively. The
+third, unavailable as yet, dealt with school. The
+graphics are nice and occasionally funny, but
+hardly useful. Then again, I never cared much for
+The Print Shop, either.
+
+In which the author bids the reader a heartfelt
+adieu for the nonce.
+——
+A friend recently remarked that Epyx was like a
+dinosaur and that it creates products that people no
+longer want. Feeling depressed, I went to a computer store and saw a man buying six new Epyx
+games. Does that say something about dinosaurs or
+Epyx? Any way you look at it, though, Epyx and
+action games show no signs of impending extinction.
+Next month: Part Two of Five — Ardai on
+Electronic Arts.
+
+War South Pacific (cont.)
+
+Continued from pg. 20
+ginner to understand the relative strength and position of the forces. Sure, you can compile a similar
+chart in 15 or 20 minutes (once you know what
+you're looking for and learn the menus), but that
+takes hours of study. Anyone trying to learn WITSP
+deserves more help than they get.
+Another factor that confuses beginners is that all
+bases default to computer control. Assume you
+create a new TF or two and then discover, a few
+hours later, that they don't even exist, because the
+computer has broken them down and reassigned the
+ships to new TF's. Air groups that were ordered on
+a mission end up being reassigned to other bases
+and so on. It can be very disorienting. The book
+does mention this and advises that beginners turn
+off computer control of everything to avoid confusion. This is good advice but the warning appears
+on the very last page in the very last section, 24.7
+- Other Notes. Even the explanation of computer
+control is buried at the end of section 21 - Miscellaneous. A section that pulls together these key
+concepts is badly needed.
+WITSP could also be a lot easier to play. A few
+examples should prove this point. The amount of
+information displayed during the most dramatic
+
+part of the game, combat, is pitiful. After spending
+hours (days or weeks of game time) maneuvering
+for a battle, what you see is one line for each hit
+or plane shot down which scrolls quickly by on the
+four text lines below the map. When it's all over,
+you have to call for orders and take the time to
+examine forces in order to really see how bad the
+damage is and how many planes are left. A lot
+could be done to improve this. After all, when
+examining TF's and airfields, the on-screen map is
+replaced with a full screen of text. Why not do the
+same during combat? A more narrative style of reporting would add tremendously to the suspense.
+Another example is the inefficiency caused by
+the way missions are assigned to Task Forces. A
+fleet that has refueled at sea keeps refueling until
+ordered elsewhere. A group of loaded transports
+arrives off Guadalcanal and waits six hours before
+being ordered to unload and, once unloaded, waits
+again to be ordered back to Fiji or Truk. This is in
+spite of the fact that Guadalcanal is a very dangerous place to wait around! This happens because
+there is no indication that the TF has completed its
+mission and needs new orders. It can be compounded by using eight-hour pulses. The solution
+would be the ability to "stack" several orders and let
+the computer take care of them. As it is, only considerable playing time will let you develop a sense
+of how long missions will take. Even with experience, though, it still feels wrong. Did Nimitz have
+to remember to call Halsey exactly at 1500 to tell
+him what to do after refueling?
+These should be taken as criticisms of the game
+and not of the designer and developer. They are
+well aware of the game's faults and, in fact, WITSP
+was delayed more than a year because of them.
+However, the various game modules are all within a
+handful of bytes of filling the memory of the computer -- there just isn't any room to add more! Indeed, a few of the minor "bugs" noted above were
+not corrected because there wasn't enough memory
+to do so.
+Largely because of this experience, this will
+probably be SSI's last monster game for 64K computers. This bodes well for the future as there are
+some very nice computers that run 256K or more
+and have much higher screen resolution. For now,
+though, I can only recommend WITSP to those who
+are very SERIOUS wargamers, have a particular
+interest in the Pacific theater, and have lots of time
+to delve into it.
+
+READER INPUT DEVICE
+
+RID #36 (Use card at pg. 5)
+On this page, a number of games and articles are
+listed for evaluation, as well as some general
+interest questions. When evaluating a game,
+consider such things as PRESENTATION (graphics,
+sound, packaging, and documentation); GAME DESIGN
+(design, playability, and level of interest); and
+LIFE (does the game wear well?).
+For each game or article which you have played or
+read, place a 1 (terrible) through 9 (outstanding)
+next to the appropriate number.
+
+GAME RATINGS
+
+As predicted in CGW #35, SSI's Gettysburg: The
+Turning Point did very well in its first showing on
+our rating list. So well, in fact, that it has landed in
+the number one spot on the strategy side. As future
+ratings come in, expect to see a bit of a decline
+from the initial 7.97 rating for Gettysburg, but not
+much. Another new member of the Strategy Top
+Ten is Master Designer/Mindscape's Defender of
+the Crown which has checked in with a 7.50 rating
+
+(good for 4th).
+To quote from CGW #35: "Ultima IV continues
+its domination of the Adventure/Action Game
+side". The new kid on the block is EA's Starflight
+which joins the list with a 4th place 7.68 rating.
+The big loser among top ten games was Leather
+Goddesses of Phobos which fell from 10th place in
+CGW #35 to 25th spot this time around.
+
+

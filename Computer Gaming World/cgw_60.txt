@@ -1,0 +1,3111 @@
+.
+
+,
+
+June 1989
+
+Number 60
+
+Features
+Abrams Battle Tank
+
+10
+
+EA Treads Across Western Europe / Evan Brooks
+
+The Battle of Eylau: A New Scenario
+
+12
+
+Game Developers' Conference
+
+44
+
+CGW Treks Up the West Coast to Sunnyvale
+
+18
+
+An Experienced Designer Tells All / Steve Estvanik
+
+Data East's "Batman: The Caped Crusader"
+
+39
+
+"Plagiarism" from the Journal of Computer Game Design
+
+Napoleon Treads Over Western Europe / Omar DeWitt
+
+Design Notes for Game Saves
+
+Game Design Abstracts
+
+Fantastic Voyages IV
+
+48
+
+CGW Treks Cross-Country from Lucasfilm to Microprose
+
+20
+
+Batman Treads On Two Arch-Villains / David M. Wilson
+
+Scorpion's Mail
+
+23
+
+Departments
+
+Hints on "Battletech," "Sentinel Worlds," "Wizardry V" et. al.
+
+Hidden Agenda
+
+24
+
+Springboard's Manuel Noriega Simulator / Dave Arneson
+
+Presumed Guilty
+
+26
+
+The "Falcon" Treads On Civil Rights / Scorpia
+
+Journey
+Infocom Treks Across Mysterious Realms / Roe R. Adams III
+
+32
+
+Letters
+Taking a Peek
+Game Ratings
+The Rumor Bag
+Conversions Received
+Reader Input Device
+CGW Hall of Fame
+
+4
+6
+28
+40
+50
+56
+56
+
+Letters
+
+150-200 pieces of software, none pirated. Yes,
+there are programs out there I would like to get,
+but who wouldn't want to own a Rolls Royce?
+Does that justify stealing it?
+Martin J. Hrovat
+Slidell, LA
+Ed: Thanks for the concurring opinion, Martin. We thought the statistics cited by Gilman
+Louie regarding the highly organized Atari ST
+pirates spoke quite eloquently to the problem
+on that machine, as well as piracy in the
+mainstream. As the next writer shows, however, there are "pirates" sailing other than the
+Atari's seas.
+
+Not A Revolting
+Development
+In the Developers' Conference article in CGW
+#56, I noted the statement, "multi-player
+games have not ... been great commercial successes." I think this is because most multiplayer games have long individual turns. Most
+of M.U.L.E., by contrast, involves all players
+with the individual turns themselves being short.
+I suspect this is the key. My three sons and I
+have enjoyed this game for over two years and
+still play it.
+Paul Tenney
+Hernoon, VA
+Ed: You have a good point, Paul, but the article also notes that M.U.L.E. was more of a
+critical success than commercial success.
+30,000 units in sales is not equivalent to a
+"Gold Record."
+
+I very much resent the accusation that ST
+users are more tolerant than others of piracy.
+On the contrary, because of circumstances, ST
+users tend to be less tolerant (on the whole).
+The people I know who are tolerant of piracy
+are Apple, MS-DOS, and Macintosh users. But,
+the ST is the sort of affordable high-powered
+computer that does attract the mostly young
+men who organize piracy through BBS systems. What this means in lost software sales is
+arguable, of course.
+Ruth Coy
+Laurel, MD
+Ed: Mr. Louie's point was not to say that
+Atari ST users are the only ones who tolerate
+piracy. He was lamenting the loss of viability
+in publishing for the ST because of: a) small
+user base and b) organized piracy. Fortunately, some companies are still publishing for the
+ST in the U.S. as an addendum to successful
+ST sales in Europe. Now, even though you are
+probably right that "mostly young men" organize piracy, we want to go on record as
+stating that "Piracy is not manly!"
+
+Articles of Enumeration
+In rating articles for the R.I.D.questionnaire, is
+the standard absolute or relative? Since all CGW
+articles are above average to begin with, I assume you want a relative rating, i.e. compared
+to other CGW articles.
+Bruce Bernard
+Erie. PA
+Ed: Thanks, Bruce. You are exactly right. We
+need to know how each of you readers react
+to each article, because we consider your
+ratings when planning future issues. Try to
+rate the articles on the basis of interest in the
+subject matter (not necessarily how good the
+game itself is), the reviewer's style and approach, and whether you learned anything
+from it.
+
+David Hicks
+Erie, PA
+P.S. You do a good job.
+Ed: Let me get this right. You graded the
+magazine down because the games
+covered were not ones you would like to purchase? To paraphrase Red Skelton's line whenever his gags didn't work, "We just review 'em.
+We don't publish 'em." ('We just do 'em. We
+don't explain 'em.") Of course, we like the next
+grade better.
+CGW Rates A++!
+Robert Panchuk
+Vancouver, B.C. CANADA
+Ed: You're all right, Robert. Even though you
+probably root for the "Canucks!"
+
+Ratings Game
+Another great issue, keep it going! The ratings
+list is a great idea. It helps me decide what
+games to buy. It is usually my final decision
+maker.
+Mark F. Leone
+Southwick, MA
+I don't like the new letter (A-F) grades system.
+Bring back 1-9!!
+Carl Lund
+Bruno, MN
+Rerating games A-F is a great idea!
+David Bove
+Merrick, NY
+Much better R.I.D. system. It's just like school!
+Adrian Williams
+Alva, FL
+
+Strategic Error
+The best strategic game I've ever come
+across has never been mentioned in your
+magazine. It is Strategic Conquest on the Mac.
+Essentially, it is Empire with many refinements
+that raise it way beyond the "clunky" but adequate Interstel implementation.
+Bob White
+Frederick, MD
+Ed: Actually, Bob. We think the "Empire" implementation is rather elegant, as do a large
+number of our readers. As for your assumption
+that "Strategic Conquest" has never been mentioned in our magazine, you might read the
+review in CGW #35 (p. 53) and note its mention in R.I.D. #35. As the song goes, "Never,
+say never, say never again." You never know
+when you might be corrected in print.
+
+Aye, Aye, Gilman!
+Concerning his letter in the April issue of
+CGW, I want to thank Gilman Louie for hitting
+the nail squarely on the head on the issue of
+piracy. Pirates can roll their excuses any way
+they like, but they and those who own the same
+hardware are the ultimate losers. What software
+developer in his right mind is going to develop a
+product over a one to two year period, only to
+have it given away? I personally own between
+
+slash and speed aren't for me.
+
+I would find the games ratings more meaningful if they were divided into broad age groups.
+Also, have you ever considered making the
+rating data available on an online service?
+Bob Wentzel
+St. Louis, MO
+Ed: We like the new R.I.D. ratings a lot! We
+want to hear from the rest of you, though.
+Also, we are experimenting with a couple of
+online ratings devices (Compuserve and
+PCLink). We hope to add others, if these work
+out.
+
+We Move Our Tale For You
+II just read your latest airline anecdote in the
+February C.E.S. Report./ What airline do you
+guys fly, anyway? Ever consider the train? Or
+bus?
+Jeff Petraska
+New Boston, MI
+
+"B"ing Selective
+The April issue (CGW #58) gets a "B." I would
+only purchase a couple of the games mentioned. Sports doesn't interest me. While faster
+and better graphics are nice, it seems that
+game makers have forgotten the storyline. Hack
+
+Ed: Our well-chronicled airline "disasters"
+(which usually begin or end our C.E.S. reports)
+have occurred on a variety of airlines. Thanks
+for your concern for our safety. Of course, if
+Major Bill (Stealey) will continue our flight lessons (see Fantastic Voyages IV), we may not
+have to worry.
+
+Taking A Peek
+
+Nels Anderson
+92 Bishop Drive
+Framingham, MA 01701
+MAH JONGG: It is rare for CGW to
+"peek" a shareware game, but this version of the famous tile game is getting
+play time in our office. Players match
+and remove pairs of similar tiles, while
+trying to reduce the total number of
+remaining blocks to zero. Points are
+scored for matched tile sets. The attractive graphics require an EGA or Hercules graphics adaptor. IBM ($10.00).
+Circle Reader Service #1.
+
+Activision
+3885 Bohannon Drive
+Menlo Park, CA 94025
+LAST NINJA 2: This sequel to The
+I a st Ninja requires players to fight their
+way through seven more levels of play,
+armed with the usual assortment of
+weaponry - swords, staffs, nunchuckas
+and shurikens. Players do battle in the
+streets of New York with cops, samurai,
+alligators (flushed down the sewers),
+and even a ferocious leopard. C-64
+($34.95). Circle Reader Service #2.
+
+Bullseye Software
+P.O. Drawer 7900
+Incline Village, NV 89450
+P51 MUSTANG FLIGHT
+SIMULATOR: Fly in the European
+theatre during summer, 1944. Players
+practice flights in England, then cross
+the channel to fight Mel 09's, strafe
+ground targets, and even buzz the Eiffel
+tower. There are 13 different camera
+angles for watching replays of the wireframe graphic action, and the game can
+be played solo or between two, cablelinked Macs. Mac ($59.95). Circle Reader
+Service #3.
+
+Cinemaware
+4165 Thousand Oaks Blvd.,
+Westlake Village, CA 91362
+LORDS OF THE RISING SUN:
+Twelfth century Japan becomes a bat-
+
+tleground as the player attempts to conquer all of the castles in the land and become Shogun. Great music, gorgeous
+graphics and tricky action sequences all
+flesh out the overall strategic problems
+inherent in conquering a medieval land.
+The player will invade and defend
+castles, control troop maneuvers in battle, pursue and destroy vanquished
+daimyos and fight off ninja assassins.
+This one is well worth the wait! Amiga
+with 1 meg ($49.95). Circle Reader Service #4.
+
+Cosmi
+431 N. Figueroa St.
+Wilmington, CA 90744
+CHOMP!: It's a 'dog eat dog' ... err
+...'fish eat fish' world in this cute, aquatic
+action game. Players control a stir-crazy
+goldfish who escapes his pet store bowl
+and progresses through tropical fish
+tanks, gobbling up food and other fish,
+
+Infocom
+125 Cambridge Park Drive
+Cambridge, MA 02140
+JOURNEY: Look for a feature review
+elsewhere in this issue.
+SHOGUN: The player takes the part
+of English sea pilot John Blackthorne in
+the 16th century. Shipwrecked in a
+mysterious land, he must make his way
+through the exotic, war-torn landscape,
+to ??? Based on the book, the player's
+success will be determined by how well
+he thinks and acts as compared to the
+fictional Blackthorne. Amiga pictured
+and Mac ($59.95). Circle Reader Service
+#8.
+
+Mindscape
+3444 Dundee Road
+Northbrook, IL 60062
+ACTION FIGHTER: This arcade hit is
+transformed to the home computer with
+ultra-smooth scrolling and fast-paced action. Players must carry out five air and
+ground battles to succeed. Starting out
+on a motorcycle, it's possible to find and
+assemble spare parts that ultimately
+transform the two-wheeler into a supercharged aircraft. Amiga pictured
+($39.95), and C-64 ($24.95). Circle
+Reader Service #9.
+POLE POSITION II: "Prepare to
+qualify!" Players get to pilot Formula 1
+racecars over four challenging courses
+in the home version of the arcade racing
+game. Qualifying runs determine the
+player's pole position for the big race. Accelerate, shift, and weave your way to
+the checkered flag. IBM pictured, and C64 ($24.95). Circle Reader Service #10.
+while avoiding capture by the pesky pet
+store cat. The restless goldfish can eventually escape the pet store and brave the
+unknown waters without. Be careful!
+One slip of the fin and you'll receive a
+burial at sea ! C-64 pictured ($24.95),
+IBM ($29.95). Circle Reader Service #5.
+
+Digitek Software
+8910 N. Dale Mabry
+Executive Center, Suite
+#37
+Tampa, Florida 33614
+WESTERN GAMES: Players compete
+against each other or the computer in
+six mini-games with a western theme.
+There's armwrestlin', shootin', quid
+spittin', dancin', milkin' and eatin'. The
+game features cute graphics, digitized
+sound, and uses keyboard or joystick. Is
+
+this really how the West was won?
+Amiga ($34.95). Circle Reader Service
+#6.
+
+Free Spirit Software
+P.O. Box 128
+58 Noble Street
+Kutztown, PA 19530
+THE LAST INCA: Graphics and text
+combine in this adventure game set in
+the land of the Incas. The player must
+find the Crown of Power before the evil
+wizard Zulphosi gets it and destroys the
+Incan people. Along the way the player
+will encounter the Greate Condor, the
+forgotten civilization of the megaterras,
+and the emerald of Xiahuxi. Keep those
+pronunciation dictionaries handy! Amiga
+($39.95). Circle Reader Service #7.
+
+THUNDER BLADE: The ultimate attack helicopter comes to the home in
+this version of the best-selling arcade
+game. The player will fly over
+skyscrapers, mountains, deserts and sea
+to defeat the enemy, lurking in an offsite refinery in the middle of the ocean.
+Excellent graphics, scrolling and sound.
+Amiga pictured and ST ($49.95), C-64
+($34.95). Circle Reader Service #11.
+
+Melbourne House
+711 W. 17th St., Suite G9
+Costa Mesa, CA 92627
+MAGIC JOHNSON'S BASKETBALL: The mystical moves of the 'Magic
+Man' come to the computer in this coinop conversion of "Magic Johnson's
+Fastbreak Basketball." One or two
+(Continued on page 46)
+
+Review
+
+brams Battle Tank (Tank) is a simulation of
+modern armored conflict at the individual tank level.
+The player has a myriad of mission choices (or a
+grand campaign) in the European (Central Front) environ-
+
+A
+
+High Powered
+TITLE:
+SYSTEM:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Abrams Battle Tank
+IBM
+$49.95
+Damon Slye
+Dynamix
+Electronic Arts
+San Mateo, CA
+
+Electronic Arts'
+"Abrams Battle
+Tank"
+
+of appearance; thus, the "T-72" first appeared in 1972,
+while the "T-80" appeared in 1980. The newest Soviet
+tank, the FST-1, is simply a military acronym for "Future
+Soviet Tank." Very little is known about this tank and its
+appearance constitutes the designers' "best guesstimate."
+Weapons Systems: The Abrams Tank has two
+weapons systems—the main gun and a coaxial machine
+gun. The latter is of limited use, since its range is sufficiently short (c. 1000 m.) that one can generally crush the
+enemy PBI (poor bloody infantry) by tread before achieving
+target acquisition. The main gun fires HEAT (High Explosive -- Anti-Tank), SABOT (literally "boot", a shell within
+a shell that is the most effective tank-killer today), and AX
+(an experimental anti-armor, anti-aircraft wire-guided shell).
+AX is noted as experimental, although it is available in the
+game. From the documentation, it would appear that AX
+is a main gun-TOW missile. Such weapons are still in testing stages and have not been field issued. Also, certain ammunition types have been omitted: HEP (high
+explosive -- plastic) [anti-armor], APERS ("Beehive")
+[anti-personnel], AP (armor piercing) and HE (high explosive). The game requires the use of HEAT against
+"soft" targets (i.e. infantry and/or improved structures),
+which is not overly accurate.
+
+Pilbox
+
+Graphics
+Graphics are well-defined, although there are certain
+deficiencies. Internal instrumentation panels are minimal,
+while external terrain features are much better defined
+(This is the exact opposite of Accolade's Steel Thunder).
+Different views are available (from the perspective of the
+driver, gunner or tank commander). Also, informational
+screens are available which yield current status and/or
+damage conditions. Zoom views are available on a toggle
+which yields a 3 or 10 times perspective. This feature is
+well-executed and one can often find and fix a threat at a
+great distance through such features. However, remember
+that utilizing the zoom feature restricts one's total arc of
+view and use it accordingly.
+
+By M. Evan Brooks
+ment of World War III. Although Tank is described as a
+simulation, as will be seen, it is really much more of a
+game and should be considered as such.
+Tank portrays an individual Abrams Main Battle Tank.
+The doctrinal problem is that a single tank in a combat environment has four uses: (1) in a hull defilade position
+(dug-in), it serves as an adequate pillbox (defensive); (2) it
+allows one to withdraw quicker than on foot (retrograde);
+(3) it serves as a coffin (offensive); (4) it serves as an excellent protective shelter in an NBC (nuclear-biological-chemical) environment). The use of armor, in single elements
+and without infantry support, is simply not militarily acceptable.
+
+Documentation
+The documentation is brief, but adequate. All weapons
+systems and scenarios are delineated and this, in turn, serves as part of the protection scheme. Because of this approach, the program may be easily loaded onto a hard
+disk, substantially enhancing access performance.
+Concerning threat vehicles, tanks are noted by the year
+
+The most serious deficiency concerning the terrain is
+that hills and slopes are visible on screen, but until one actually attempts to traverse such terrain, it is virtually impossible to determine whether or not the steepness of slope
+would prohibit successful movement. In reality, a tank
+commander would be able to determine by experience
+and eye-ball the potential of terrain traversability. Since
+such terrain is not visible on the hard copy map, it does
+present an overly artificial constraint on the user.
+
+Game Play
+Military Professionalism: The briefing and mission
+recap is done by one's superior officer, Colonel Wilson.
+However, Colonel Wilson does not resemble any military officer this reviewer has ever encountered. His comments to
+kill "scum-sucking Commies" or his threats to have one executed because of mission failure may furnish some mild
+entertainment, but such attitudes are not "military" in any
+sense of the word. As an officer in the U.S. Army Reserve
+(Infantry), this reviewer felt personally affronted and the
+"game" reinforces the civilian world's worst fears about
+military officers.
+Here to There and Back Again: In order to succeed
+with Tank, study the mission carefully and execute it slowly; in most missions, time is not of the essence (the Mossel
+Intercept is the exception). Therefore, although the vehicle
+can achieve rapid speeds, such usage will merely throw
+
+one into the midst of an enemy ambuscade. The best tactic is a slow but methodical advance. Whenever substantial
+damage is received, a return to the motor park for repairs
+and rearmament is most urgent. One may not fulfill his
+dreams of a hell-for-leather advance, but the slow march
+to victory is a better gaming decision.
+Input is via keyboard or joystick. This reviewer cannot
+speak as to the joystick option (since a 20-mhz card is not
+available), but the keyboard did have certain drawbacks.
+Steering laterally (left/right) is easy with arrow keys, however, maintaining a steady speed after a turn is difficult, as
+one's speed tends to increase when resuming a forward
+vector. This reviewer has been told that the game runs
+rather slowly on the older 8088 chip, which may well
+detract from play value.
+One may switch between turret control and vehicle control. This is quite useful when one wishes to fire at an
+angle, but keep moving in a certain direction. Just remember which control function one is currently using; in a combat situation, turret access may prevent one from realizing
+that he cannot quickly move out of harm's way.
+
+Weapons of Choice: To insure operational readiness,
+make sure that the weapons systems are loaded. This
+reviewer's preference is for the AX; it allows maximum
+stand-off but when used with the zoom feature, it permits
+optimal destruction. The disadvantage of the AX is that it
+requires a minimum range of 770 meters. If an enemy
+vehicle is able to penetrate that distance, one must quickly
+reload with either HEAT or Sabot. Also, although one can
+lock onto a target, practice will reveal that one can often
+achieve significant kill ratios merely by target acquisition
+and not target lock.
+View from Afar: Given the fact that there are four view-
+
+ing positions, only two
+have any real use. The
+tank commander's station
+allows one to determine
+his ground position, while
+the gunner's station allows one to fix and
+destroy the enemy. This
+reviewer recommends
+maximum use of the
+gunner's station. Only
+here can the weapons systems be accessed. The
+commander's position
+should be used to orient
+one geographically, but
+remember to return to the
+gunner station when contact is imminent!
+
+CONCLUSIONS
+Tank is entertaining as a
+game. It offers excitement
+and a chance to destroy
+the nefarious enemy hordes. However, a simulation, it is not. Doctrine,
+professionalism and employment of armor are all lacking.
+As long as one recognizes that this is a game, there is no
+harm done. Nevertheless, do not think that one can
+achieve viable insights into armor tactics in the contemporary combat environment. Abrams Battle Tank succeeds as something more than an arcade-type game. It
+does require planning and careful execution; however, it is
+not a simulation and should not be treated as such.
+
+one could almost be sipping coffee
+and not spill
+a drop. The
+smoothness
+of the ride is
+astonishing,
+almost Mercedes-like.
+The main difference is
+the cost
+
+M. Evan Brooks
+rides The Abrams
+How does one prepare to review a simulation on Abrams
+Battle Tank—obviously, by taking a ride! Now, this reviewer
+recognizes that it is quite difficult to drop down to your local
+tank shop and take a test drive, but there are ways .. .
+While spending annual training at Fort McClellan, Alabama,
+this reviewer was given the opportunity to take a tour of the
+nearby Anniston Army Depot. This depot is the main tank
+repair facility in the United States. If you happen to "total"
+your tank, Anniston is the place to go. The Anniston Depot
+rebuilds the vehicle from virtual scratch. Stretching for acres,
+the facility is a fascinating experience in technology. The factory interior is larger than several football fields and watching
+a tank come together from disparate parts is unforgettable.
+Currently, the Depot rebuilds 4 tanks per week. In a "surge"
+(mobilization), output could increase to over 40 tanks per
+week.
+After seeing the re-construction of an Abrams, this reviewer
+was given a test ride. The most interesting facet about riding
+the Abrams is the smoothness of the ride. Thinking that the
+average speed seemed to be c. 20 miles per hour, this
+reviewer was quite surprised to discover that the actual speed
+was c. 48 mph. Roaring around a test track, we passed over
+a series of "inverted v's" which test the shocks and stability,
+
+(several million dollars) and mileage (low).
+The second time around the track covered the "v's"again,
+only this time at a speed of c. 15 mph. This time, one could
+feel each jolt and bump extremely well. Continued such experiences could lead to internal jellification. Overall, the
+Abrams is a superb vehicle. Having been trained on the
+armor vehicles of an earlier age (the M114 Armored Reconnaissance Vehicle and the M60A1 tank), this reviewer was extremely impressed by the capabilities of the contemporary
+main battle tank.
+The Anniston Army Depot is closed to civilians, but if the
+reader ever has the opportunity to take the tour, this reviewer
+strongly encourages it. I would like to thank Mr. Benny McCain and the staff at the Depot for their kindness and courtesies.
+
+Scenario
+
+Your Scenario
+(The System)
+There are several steps
+in creating your own
+scenarios. I would suggest that you do not use
+the "Generate a New
+Scenario" option. When I
+tried to increase the unit
+count beyond the 47 in
+the Quatre Bras model,
+my Apple version
+chopped the excess off—
+on two occasions. Test
+your version by adding a
+few imaginary units and
+asking the computer to
+Reorganize before you
+spend a lot of time creating your army. The safe
+choice is to Edit the
+Waterloo Scenario
+("WAT" to the computer).
+
+he
+
+Battles of Napoleon construction kit allows the designer to go
+into great detail, but it also has its
+limitations. The box copy says "any"
+Napoleonic battle can be reconstructed.
+However, it is not easy to fit large battles
+into the format. The ideal battle size is
+about two corps per side, fighting over
+terrain covering five square miles. Since
+the largest individual unit in the computer menu is the regiment, any battle
+with division-sized units will be misnamed
+when referred to on the screen. This may
+be no big deal, but it is a limitation.
+
+L'epoque T
+du
+Francais
+Empire
+A Scenario of
+The Battle
+of Eylau
+for SSI's
+"Battles of
+Napoleon"
+by Omar DeWitt
+
+The ideal size of each square is 100
+yards on a side. If the square is to cover
+more area, the range of the weapons can
+be altered and the OP cost for entering a
+square can be changed. However, the
+road movement rate cannot be changed,
+the length of a turn is always 30 minutes,
+and stacking limitations cannot be altered. Whether the square covers 10,000
+square yards or 40,000 square yards, the
+maximum number of men that can be
+placed in a given square is 1,800. This
+limit can be artificially evaded by scaling
+down the unit size so that the number of
+men listed for each unit is one-tenth its
+actual size. That way, 18,000 men would
+fit on a square. Frankly, this writer
+suspects that changing the size to any
+great degree beyond 100 yards per side
+may actually affect the computer
+opponent's play. Whenever I expanded
+the size of the squares, I had French artillery units unlimbering several squares
+away.
+
+The first step in creating your own scenario is
+army creation. It is also the most time
+consuming. Filling in the Leader Organization Table, the first phase, is quite
+straightforward. This establishes a line of
+command. How far down it can go
+depends on the number of corps in the
+battle. In the Unit Organization phase,
+each unit must be assigned to one of the
+leaders listed in the Leader Organization
+Table and each of those leaders must be
+assigned to be present in one of the
+units. After one of my army leaders was
+wounded while in a frontline unit, I
+thought it would be more realistic to create a "Staff' unit of 50-60 men. I would
+put the army leader with that unit and he
+would stay out of the way. Initially, I made
+this a cavalry unit. Unfortunately, even
+though I kept my leader behind the lines,
+the computer opponent puts its cavalry
+to use. Napoleon and his 50 men
+charged on the first turn and, in turn, he
+was wounded. The "Staff' concept may
+have to be limited to games where you
+face a human opponent, although the
+computer was considerably more conservative when I made the "Staff' into an infantry unit and armed them with sabres.
+Next, the Unit Editor phase lets you
+determine the details of each unit. The
+number of men, guns, and skirmishers is
+entered, along with type of unit,
+nationality, and weapon. Some subjective
+decisions have to be made when unit efficiency is entered. Except when a unit
+did unusually well or poorly in a battle,
+there is unlikely to be much comment on
+it in any written account, especially on
+(Continued on page 14)
+
+the brigade level. An educated guess is needed, too, when an OP
+modifier and a melee value are chosen. Later in the process, when
+the units are deployed on the map, decisions can be made on
+facing, skirmishers, road mode, formation, and frontline status. How
+ever, that information should be entered at this time if the unit
+comes into the game as a reinforcement. If a scenario is being
+revised, make sure that all units not in your scenario have the number of men and guns set to zero, or else these units will appear in
+your scenario. Each army can be saved to a separate disk and/or
+you can continue to the next step in the creation process.
+Map creation is the next step and it is easily accomplished. It is a
+good idea to draw the map on graph paper first. The program will
+construct a winding road (or ridge or stream) by following the cursor
+across the map. An "Auto Terrain" option makes it easy to add
+clumps of woods or fields. Pay attention to the elevation of the terrain being added or strange things will happen during play. The
+map, too, can be saved to a separate disk.
+The units that start the game on the map have to be deployed.
+The computer will stack them on the map edges that you choose,
+but you must move them to their starting positions on the map.
+Units not initially presented can be called up if you know their numbers. In one case, the computer changed the reinforcement turn of
+a unit, repeatedly, but it could be put on the map by using the
+"Add" option. Units not deleted from the scenario you are revising
+may appear on the map. They can be eliminated here. Objective
+squares are chosen and point values assigned. These are important
+because they affect the computer opponent's strategy. Defensive
+lines for each army are determined; note that the third defensive
+line is actually the one farthest forward and the first is the rear-most.
+All of these special squares, plus artillery-objective squares will be
+set by the computer if you do not do so.
+The final step is the revision of "Tables." Items that can be
+changed include victory points for casualties; weapon name, range,
+and destructiveness; terrain cost; combat effectiveness in relation to
+formation and terrain; and probability of cavalry charging.
+Although there may be some other factors we wish we could
+change, there is enough rich detail here to keep us more than satisfied.
+
+"Artillerie, Pointer!" (Historical Notes)
+The battle at Preussisch-Eylau, Poland in 1807 was unusual in
+that it was one of the few major battles of the time that was fought
+in winter. The entire field of battle was snow covered and bodies of
+water were both frozen and invisible.
+The conflict came about when the Russian force under General
+Bennigsen moved westward to drive back the weak French left and
+
+establish the Russians on the Vistula, in good position for a spring
+campaign. Napoleon countered by maneuvering his columns in an
+attempt to trap the Russians. Only at the last moment did Bennigsen
+become aware of his danger and withdraw.
+The main column, under Napoleon, came upon the Russians at Eylau
+toward the end of the day (Feb. 6). There was a contained, but vicious,
+fight for the town of Eylau; the intensity of the fight was, no doubt, due
+to the fact that the winner would be able to spend the night in the
+town, rather than the frozen countryside. The French prevailed.
+The next morning, the battle began in earnest. The Russian artillery,
+which outnumbered the French almost 2-1, started a bombardment
+about 8 A.M. Since the corps of Ney and Davout were still on the road,
+the French were outnumbered. To disguise this fact, Napoleon put the
+Guard, usually kept in reserve, in the center of the front lines. Soult
+probed the Russian right, but was roughly handled and pushed back
+easily. Napoleon knew that Bennigsen would realize his weakness and
+counter-attack Soult. He decided on a pre-preemptive attack with
+Augereau's corps on the Russian left. The result was a disaster.
+Augereau's corps started off in good order, but a snow squall came
+up that blinded and disoriented the entire corps. When visibility improved, the French found themselves marching 90 degrees off course
+with their flanks near the muzzles of masses of cannon. The cannon, followed by the Russian infantry, all but demolished the corps.
+The French were now in a very bad position. To try and save the day,
+Murat's cavalry corps was ordered to charge the center of the Russian
+line. What followed was one of the great cavalry charges of all time. The
+cavalry sliced through the entire Russian army, turned around, and
+slashed back through it again. The attack paralyzed the Russians long
+enough so that Davout had time to join the fight.
+Davout's corps deployed on the French right. Soon after contact, they
+were rolling up the Russian left flank. Just as it appeared that the Russians would be trapped in a pincher, Lestocq's Prussian corps appeared. Lestocq had been keeping Napoleon's other column under Ney
+occupied. The Prussians had been able to slip away from Ney and now,
+they appeared to save the day for the Allies. Lestocq smashed into
+Davout's now-tired troops and drove them back.
+As night fell, Ney joined the battle. He did some damage to the Russian right, then fell back to secure the French left.
+Both armies had been badly mauled. It is unlikely that either side
+wanted to continue the fight. Napoleon "won" the Battle of Eylau when
+Bennigsen withdrew during the night (probably due to the fact that
+Napoleon had two relatively fresh corps: Ney's and the Guard).
+Napoleon stayed in place for a couple of days so that he could claim a
+victory, but no one who knew the facts could be fooled. The French
+lost close to one-third of their force and the Russians about one-fifth.
+No general could afford many such victories.
+(Continued on page 34)
+
+Design Notes
+
+Steve is the designer of RAM and The
+Civil War for Avalon Hill Microcomputer
+Games, as well as the programmer of
+TSR's Sniper! for play on Compuserve.
+
+T
+
+here's more to 'user friendly' than
+
+rodents, fast- dropping menus, and
+cute trash icons. It's
+probably more important in
+less showy areas like letting a
+player begin and end the
+game when s/he wishes. An
+amazing number of games ignore this simple concept.
+Despite a designer's imposition of an authoritarian, singlesave system, I can still save my
+game, then quit and rename
+the save file. Or I can
+copy it to another
+disk, then resume
+the game and play
+on. If I die, I just go
+back to my copy.
+Now, though, I curse
+the programmer's
+user-hostile attitude
+that makes me work
+so hard to do what I
+want. (My first article
+for CGW, in fact, was
+a description of a
+disk swapping system to circumvent
+Wizardry's early failings in this area.)
+
+games adds an additional task for the
+programmer. You must have a simple
+method for displaying available saved
+games and letting the player choose
+which one to save or restore. However,
+the additional code is minimal. Using
+Basic and the alternate screen pages on
+the IBM, you can produce clever displays
+
+the same whether it's the first time
+through or the last.
+It's important to remember, too, that
+the type of game will determine the type
+of saves that are possible. For an RPG
+type of game, the main program is a fairly simple loop, alternately executing
+player commands and events.
+A save facility can thus be
+called from almost anywhere
+(Figure 1). A wargame poses
+additional problems, since
+there are many distinct phases.
+Saving a game here is no harder, but restarting is tougher.
+Most wargames solve the problem by allowing saves only at
+certain logical places like the
+end of a cycle of movement and combat. (Figure 2) Usually this is
+no handicap, since any
+cycle takes only a few
+minutes to perform (As
+long as you can make
+multiple saves!).
+
+HAVE YOU
+BEEN SAVED?
+
+From a designer's
+point of view, if you
+want people to play
+your game more
+than a few times,
+you need to make it
+easy to explore and
+try different things.
+Not everyone has the
+time to play each
+game from the beginning. In addition, few
+games have any
+provisions for experienced players, so even after you solve
+all the early problems, you have to go
+back and do them over each time you
+want to play, unless there is a way to
+save 'advanced' positions.
+Some programmers consider it cheating
+to not replay their game from the start
+each time your character is killed. As a
+game designer, one of my guiding principles has been to let the players decide
+what's cheating and what's not. It's incredibly frustrating to play a game in
+which you can die with a wrong
+keystroke after many hours of careful
+play. It's more frustrating when you can't
+reload a game saved from shortly before
+the fatal error to try again.
+Naturally, the ability to save multiple
+
+by Steve Estvanik
+
+with a few lines of code, using just the
+FILES command and the SCREEN() function.
+Early sections of a game often become
+tiresome, even tedious. Most players
+would prefer to save a game after they've
+done the boring and repetitive parts and
+start right in with the interesting stuff on
+subsequent plays. This also says something about current game design. In a
+space game that requires you to repetitively explore, map and mine planets, for
+example, it would be nice if after the Nth
+play, you could let the computer take
+care of that in the form of an automated
+ship to do the fiddly bits while you concentrate on the more interesting aspects.
+Nevertheless, most games treat the player
+
+One place where multiple saves within a
+turn is important is
+when we start to
+design play by mail
+(PBM) or play by
+electronic mail features
+into games. Now,
+players need to exchange disks or files
+during a turn. Figure 3
+outlines the processing
+of a turn of PBM
+Wooden Ships & Iron
+Men as I'm currently
+designing it for the
+IBM version. The exact
+sequence of phases is
+modified, giving a
+slight asymmetry to the
+phases. This minimizes
+the number of times a
+disk changes hands in
+the course of a round,
+but the logical sequence of events
+remains the same.
+The exchange required by the grappling/ungrappling routines can
+eliminated. If the autograppling feature is
+enabled, the computer will decide when
+and who to grapple. This will be most
+useful in the early stages when there are
+few grappling choices anyway, and most
+possibilities are your own ships.
+So, you can start to see that some of
+the most friendly aspects of a game may
+be nearly invisible to players. The idea is
+to make the game as easy to play in as
+many ways as the player desires.
+Flexibility in saving games is a major help
+to learning, experimenting with, and ultimately, enjoying a game.
+
+Gotham Gazette
+
+Special Edition
+June 1,1989
+
+All the News That Fits, We Print!
+
+CAPED CRUSADER
+COMBATS CRIME
+Commissioner
+Gordon
+Summons
+Batman!
+Penguin, Joker
+Create Crime Wave!
+The clouds reflected the
+famous Bat-signal as it
+shone brightly over
+Gotham City last night! "I
+had no choice but to summon Batman," Police Commissioner James Gordon
+told reporters in a press conference held today on the
+steps of police Headquarters.
+"The Joker and the Penguin
+are loose again and no one
+can handle those two except
+Batman!" Commissioner Gor
+don advised the public that
+the "cute" little robot penguins that are roaming the
+streets of Gotham City are
+part of the Penguin's hideous
+plan to take over the world.
+"Saints preserve us!" exclaimed Police Chief O'Hara
+when the commissioner admitted to reporters that
+Batman's arch enemy, the
+Joker had kidnapped Robin,
+the Boy Wonder. "The fiend
+even planted bombs in the
+city's sewer system."
+Batman is up to the challenge in Batman, the Caped
+Crusader, a new computer
+game offered by Data East
+for the C-64/128 and the
+Atari ST computer systems.
+Data East wisely planned the
+release of this game to roughly coincide with the longawaited Batman movie star-
+
+ring Michael Keaton which is
+scheduled for release this
+summer.
+There are two
+scenarios offered in
+this game;Batman
+Vs. The Penguin
+and Batman
+vs. The
+Joker.
+The
+
+Joker scenario is the simpler
+and more interesting of the
+two. This reporter personally
+never cared much for the
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Batman, The Caped Crusader
+C-64/128, Atari ST
+$24.95 (C-64), $39.95 (ST)
+Ocean, Ltd.
+Data East, USA, Inc.
+San Jose, CA
+
+by David M. Wilson
+
+Price: 64K
+Penguin (Waugh! Waugh!
+Waugh!) as a villain anyway!
+
+MUSIC AND
+ART NOTES:
+GOTHAM
+PHILHARMONIC TO
+OFFER
+"BATMAN"
+THEME
+The Gotham Philharmonic
+orchestra will play the Batman theme made popular in
+the television series of
+the 1960's. Tickets
+may be purchased by
+calling the Gotham
+Civic center.
+The ST version of
+the Batman theme
+is a fairly
+reasonable rendition of the familiar
+tune. The C64's
+version is completely different. It's as if
+the conversion
+people didn't care,
+but just took a
+generic adventure
+tune and slammed
+it on the program.
+The C64 has the
+capability to play
+the Batman theme,
+so why didn't the
+programmers use
+it?
+The graphics of
+both games are of
+high quality, especially the ST version. The
+programs operate
+via a series of
+comic book frame
+"windows" that give
+the game the look
+and feel of a Bat-
+
+man comic book that players
+can manipulate.
+
+sion is $1.00 for adults and
+$4.00 for children. Paid admission entitles access to all
+exhibits and all rides.
+
+BATMAN
+LOSES
+FALSE
+TEETH
+
+The discriminating Batman
+fan will want to know why
+there is more than one Joker
+beating up on Batman in the
+funhouse. The Joker is a
+tough nut to crack, even
+when there's only one of
+him. But he is especially
+tough in this game. Every
+manifestation of the clown
+prince of crime carries a bowling pin to clobber Batman
+with. The failure of the
+documentation to explain the
+presence of multiple Jokers is
+unfortunate.
+
+A small group of
+pedestrians were confused
+yesterday when they observed Batman pulling a set
+of false teeth from his utility
+belt. "I guess they were his
+Bat-teeth," one observer commented.
+The game will require
+players to guide Batman
+through a search for useful
+objects. For instance, in the
+Joker scenario, I picked up a
+fish and found I couldn't use
+it until I'd first used the false
+teeth. The fish and all foods
+restore a portion of Batman's
+life/courage/strength etc.
+which is slowly ebbing away.
+Some objects are no help at
+all. Don't bother putting on
+the Clogs (wooden shoes), because they will only slow Batman down. On the opposite
+end of the spectrum, the tennis shoes speed Batman up.
+Further, if Batman gets in a
+particularly hairy situation he
+can put on the false nose.
+Surprisingly, nobody seems
+to recognize him with the
+simple disguise on. Puzzling
+out the use of these and
+other objects keeps interest
+from flagging too quickly.
+Players will have to stand
+right over the objects to pick
+them up. One quick hint: Batman does not need to stand
+directly over the bombs to disarm them. Just use the wire
+cutters from anywhere in the
+room.
+
+GOTHAM
+CITY FAIR
+OPENS
+The annual Gotham City
+Fair opened today at the
+Gotham Fairgrounds. Admis-
+
+BUSINESS
+BOOMS FOR
+GOTHAM
+UMBRELLA
+FACTORY
+If the booming factory
+which just opened in the garment section of the city is
+any sign, the umbrella business is booming in rainy
+Gotham. According to inside
+sources, the new factory is
+operating around the clock.
+In the Penguin scenario,
+Batman will have a hard time
+finding the Penguin's master
+computer. It is obviously at
+the umbrella factory, but the
+Penguin's henchmen will run
+our hero ragged as he tries
+to locate it. Batman's goal is
+to find the computer and
+destroy it. Don't forget to use
+the lift key to go downstairs.
+
+EDITORIAL:
+IS BATMAN
+SLOWING
+DOWN?
+None of us really knows exactly how old Batman is.
+We are sure of one thing,
+though, he's been around a
+
+long time. That may be the
+reason that simple
+henchmen are able to stand
+toe to toe in combat with the
+taped crusader lately.
+Part of the thrill of "being"
+Batman is being able to do
+the extra-ordinary. Batman,
+the Caped Crusader is a
+wonderful maze game that
+keeps players searching for
+the correct objects and using
+them in the right places, but
+the game doesn't let the
+players experience the "feel"
+of being Batman. Our hero is
+not permitted to swing onto
+the scene of the crime with
+the Bat-rope and he spends
+more time running from the
+crooks than bashing them.
+The idea of the game isn't
+to beat the crooks, it's to
+solve the puzzles. In fact,
+there is little advantage to be
+gained in slugging it out with
+henchmen. If Batman beats
+up a bad guy in the ST version, he wins a small morsel
+of food which he can eat for
+extra strength. In the
+
+C64/128 version, there is no
+advantage (no free lunch) to
+winning a fight. Therefore,
+it's usually best for Batman
+to stun his opponents and
+run before they revive and
+shoot him. Often it is an excellent strategy to duck into
+the next room and quickly
+duck back. The villains are almost always gone when you
+return. Does that sound like
+the Batman we know and
+love? There is also no appearance of the batmobile or
+the batplane, even though
+players do begin the game in
+the familiar surroundings of
+the Batcave, and get to use
+the bat-computer.
+All in all, though, true
+batophiles will probably like
+this game even though it
+fails, in some aspects, to
+reproduce the crime-fighting/crook-stomping Batman
+that we expect. There is certainly enough "Pow!" and
+"Socko!" for most.
+—David M. Wilson
+
+Game Hints
+
+y
+
+es, we're here in the backroom
+again (I think I'll have to have the
+place enlarged; the crowd is getting
+bigger all the time). Before we get to the
+mailbag, however, a word (or several)
+about SASE's (self-addressed stamped envelopes). At the end of each column, I always make it quite clear that if you live in
+U.S., you must enclose a self-addressed
+stamped envelope.
+However, every month, without fail, in
+come 2-3 letters that do not include a
+SASE, or sometimes the envelope is
+there but no stamp. Please folks, before
+you send your questions off, make sure
+you have that SASE in there so you'll get
+a reply. Now, on to the games!
+
+Scorpion's Mail
+
+Battletech:
+A lot of people are having trouble in
+the map room at the end of the game.
+As long as you have the manual, getting
+the password is easy. Take a look at the
+star map in there. You should notice that
+there is something that sets several of the
+planets apart from the others. Once you
+know what that is, you should have no
+trouble figuring out the password.
+
+King's Quest IV
+Quite a few folks have been struggling
+with the whale's tongue. It is a tough
+climb, especially if you don't start from
+the right spot, which is the far left. From
+there you want to go mainly on a
+diagonal until you reach top center. It
+just takes a lot of perseverance (and
+maybe a little luck, but it can be done).
+I've heard it's supposed to be easier with
+a mouse, but not having one myself, I
+can't confirm this. Also, several people
+have been wondering when, if ever, night
+will come. Well, you can wait around for
+it, but that does take quite awhile. It's
+much better to get the fruit for daddy
+(remember, that's why you're here in the
+first place?). Once you do that, nighttime
+will come right along.
+
+Bard's Tale III
+The death's-head names in Tarmitia
+have been giving some folks a little difficulty. You get the first name in Berlin
+(just walk all around the place and you'll
+hear it). Then, you go through the
+various portals to the other time periods
+until you find the place where the name
+works. That gets you another name. You
+find where that belongs, you get another
+name, and so on, until you end up back
+in Berlin again with the last name. There
+is, of course, a lot of going back and
+forth until you have found all the names.
+On the other hand, if you are up on your
+mythology, you can bypass all that if you
+happen to know the name of the death's
+head in Berlin (Hint: all the gods are
+gods of war).
+
+Wasteland:
+A number of adventurers have arrived
+at Base Cochise and found themselves
+unable to go any further. Don't bother
+about the computer inside. You can't do
+anything to it, or anything else you see
+there. What you really want to do is make
+a careful and thorough check of all the
+walls inside the base. That should help
+you on your way.
+
+Wizardry V:
+There is no need at all to go into the
+Mystery Playhouse at Manfretti's. Disappointing, especially since you have to pay
+to get in there, but true. You won't find
+anything important inside and you could
+very well end up with your party wiped
+Continued on page 42)
+
+Review
+
+Dave Arneson is the co-designer of Dungeons & Dragons
+and a regular contributor to COW.
+oyais, Chimerica (World Press International) -- Today
+marked the third anniversary of El Hefe's (The
+Chief's) rise to power in this small Central American
+Republic. Whether El Hefe and his communist allies will be
+in power a year from now is questionable. The state of
+emergency he declared early in his rule quickly became a
+
+Hidden
+
+Agenda
+Springboard Software's
+"Banana Republic"
+Simulator
+by Dave Arneson
+
+Hidden Agenda
+TITLE:
+IBM, Macintosh
+SYSTEMS:
+REVIEWED ON: Macintosh
+PRICE:
+$59.95
+DESIGNER:
+Jim Gasperini
+PUBLISHER:
+Springboard Software, Inc.
+Minneapolis, MN
+
+,
+
+state of siege. Today, Chimerica is a ravaged nation, torn
+by factionalism, debt, and war. The alliance that threw out
+the Farsantes is now at war with itself.
+
+Viva El Presidente!
+Opening Hidden Agenda brought dreams of again becoming El Presidente. Instead of the humorous board game
+Junta or Coup D'Etat-style Banana Republic approach I was
+expecting, I found something far more intriguing.
+A lot of work and hard research is evident in this game.
+The portraits of some 30 'significant' personalities can appear during the course of the game. Each one of these
+NPCs comes with a full biography, as well as their own ideas
+of what should be done. From a pool of nine characters,
+three from each party, you pick your ministers and twentyone other leading citizens offer opinions on various courses
+of action. Such actions will determine how successful your
+term of office will be.
+You begin with a three party coalition and a mandate to
+rule by decree for three years. Your ministers reflect the different factions that divide the country. Since there is no possible way to keep everyone happy, you cannot simply steer
+the middle road and expect to succeed. Of course, there is
+no way to keep everyone happy in the "real" world.
+
+Affairs of State (Game Mechanics)
+The game is very straightforward. The rulebooks are helpful, but rarely needed after the first couple of games. A game
+can be played in just under two hours (Of course, it's even
+shorter if there is a coup!). You begin by answering three
+
+questions from a group of reporters. Your answers define
+your goals in the game, your "agenda" as it were. After your
+press conference, you enter the Presidential Palace.
+Your office, an environment of windows and menus, is
+your world. Here, the first order of business is to review the
+nine candidates for cabinet positions and appoint four of
+these as Ministers of: Agriculture, Defense, Internal Affairs,
+and External Affairs. Each "candidate" delivers a comment
+and play proceeds.
+Next, the program allows considerable flexibility. I usually
+begin by reviewing the nine
+progress charts that depict the
+state of the country. Then, I
+refer to the newspaper reports
+from the four different
+newspapers. Note that it is possible to begin with the "Newest
+News" and page backward.
+Since there is generally more
+than one report from each
+paper, it is a good idea to
+page back and study the background of the most current
+events. At this point, I usually
+consult with each minister and
+go over, at least, one matter.
+Also, sooner or later, you will
+experience some Encounters.
+These dialogues represent the
+"heartbeat" of the people. Who
+you end up talking to is a matter of personal choice and intuition. In each encounter,
+one of your ministers will also
+be present. When the NPC
+presents his/her complaint,
+you can either: agree with them, refuse their request, or ask
+your minister for advice. You must then decide who to listen
+to. Sometimes, you can put the item on the agenda and
+consult with your entire cabinet,
+A Crisis is similar to an encounter, except the NPC comes
+uninvited into your presence. As in an encounter, you have
+a minister in attendance, but unlike the previous activity, you
+cannot "put the item on a future agenda." You must decide
+what to do. Later, you may try to go back and revise the
+situation, if necessary.
+In a Coup situation, you must decide whether to resist or
+not. Rarely will you really have much choice in the matter. I
+once had a right wing and left wing coup back-to-back. Fortunately, the army and people backed me up. My advice? Be
+nice to some part of the army. You will need them. The trick
+is not to become controlled by them.
+
+The Middle of the Muddle (Strategic Note)
+I found that taking any sort of extreme measures led quickly to problems. Further, treading the middle way is hard. The
+only times I survived in power were when I leaned toward the
+"pink" side of politics. Of the three parties, the NLF seems to
+have a definite edge. On the other hand, a Liberal position
+will also take its lumps. Such a government seems to
+prevent any right wing coups most of the time. Usually, this
+government sees an elections result with the NLF taking
+power.
+
+Meanwhile On The Right (Strategic Note)
+The Popular Stability party and the Christian Reform move-
+
+ment are both pretty reactionary. Run the country their way
+and the National Liberation Front (guerrilla warfare) will be at
+your throat, Pronto!
+
+• Encounters with some individuals always have the same
+results. The leader of the landless laborers always says the
+same thing, no matter what you do!
+
+My experiment in "Right Wing" political oppression ended
+in early coups and nasty judgments from history (the evaluation at the end of the game). U.S. backed "reactionary" efforts never seem to amount to much. So, an army run by
+the NLF seems to be a "good" choice.
+
+• Relations with the U.S. almost always go bad quite early.
+The worst part about not "toeing the line" with the U.S. is
+that U.S. aid goes down the gutter. This aid being cut off is
+shortly followed by any IMF aid being cut off, as well.
+Without outside funds coming in, the bills pile up quickly
+and the U.S.S.R. will not effectively take up the slack.
+
+The NLF's Gloria Jimenez Fleming seems to work well as
+the Minister of External Affairs. Her major problem is a real
+desire to get involved with the Eastern Bloc. Do this too
+early, however, and money will dry up from both Uncle Sam
+and the International Monetary Fund (IMF). Using her, I
+found myself able to get economic aid from both the Eastern and Western blocs. It didn't last long, though.
+The ministries of Agriculture and Internal affairs call for a
+moderate. You shouldn't use either a Right- or Left-wing
+NPC as Internal Affairs Minister when the game is early. No
+one needs Revolutionary Tribunals or Death Squads any earlier than absolutely necessary.
+
+Talk Is Cheap (Game Hints)
+When you talk to your cabinet, the ministers will generally
+want to talk about what they want to. Often the topics they
+raise will have nothing to do with their position in the
+cabinet. An NLF leader may be in charge of Agriculture, for
+example, but will want to talk about the army all the time. Be
+certain to only choose topics that you want to deal with.
+Everyone has advice. Most advice supports a given NPC's
+personal position. In fact, some of the advice given by ministers seems designed to undercut a "weak" president. This
+"Bad" advice usually comes from ministers whose advice has
+been scorned in the past. Often, a minister who has had his
+advice repeatedly rejected will resign. They will never serve
+again and their faction becomes unhappy with you. Of
+course, simply following everyone's advice also gets you kicked out of office mucho pronto.
+Whatever you actually decide to do, it is very important to
+remember that your decisions are not always followed. To
+find out what is really happening on an important decision,
+you will need to access the papers, talk to people outside the
+cabinet, or .. .
+
+We Interrupt This Turn For A Potential Crisis!
+The first few times I saw the message which indicates a
+potential crisis, I almost jumped through the ceiling. It is
+usually important, but not always. Some people always
+think anything they have to say is important. They are absolutely positive that they would make a better leader than
+you. Watch them!
+A crisis means limited ability to make decisions. Often, you
+only have two choices and sometimes none. What you
+decide may quickly lead to another crisis. After a few games,
+you can see trouble coming and learn how to avoid some of
+the storms.
+
+Revolutionary Limitations (Game Problems)
+• The NPCs' biographies and secret agendas never
+change. The nine persons available for appointment as ministers are always the same and even their reactions can be
+predicted after a few games. The game could use more variation in these areas.
+• Certain decisions seem to be set. For example, there
+will be price controls, no matter what, and cracking down
+en the right-wing Death Squads always leads to an attempted right-wing coup.
+
+This final consideration brings up an important thought. Is
+Hidden Agenda a simulation or a game with political statements? It is, of
+course, a political
+simulation, but it was
+also designed by
+people who made
+decisions somewhat
+subjectively about the
+game's play. It still
+stands well as a
+simulation. Of course,
+such set behaviors
+can be an advantage.
+As El Presidente, you
+do not place anything
+on the agenda by
+yourself. You need someone else to bring it up. Say, isn't
+the Rights Activist always in favor of getting rid of the Death
+Squads? Quick, have my secretary set up a meeting.
+
+The "Hidden" Agenda
+Technically, these are called NPC motivators. Some ministers will vote one way in council and act in their own interests, anyway. Thus, the NLF and the "Old" Army are always
+at each other's throats. In fact, some cabinet ministers will
+perform a three-sixty during a crisis and refuse to back you.
+Some crises have only one answer. For example, if price
+controls are not instituted, it will cause up to 300% inflation
+and have angry workers marching in the streets. If you do institute controls, the "poor" people will riot and demand the
+controls be removed. This leaves you with the choice of calling out the army (not real useful in terms of building
+popularity) or agreeing. Then, comes the next "Crisis" and
+the trade union workers come into the streets demanding
+that the controls be re-imposed! To add insult to injury, the
+"Judgment of History" at the end of the game will say that
+you waffle a lot. This tends to make you feel manipulated by
+the game and that isn't good.
+
+The Judgment Of History (Victory)
+There is no clear-cut victory at the end of the game. After
+some twenty-odd games, I have been elected president twice
+and had my tenure extended once. Nevertheless, what you
+get at the end of the game is an analysis, written in the future, which examines your three years in office. It may not
+sound exciting, but everyone I know who has played the
+game has kept going back and trying to "do better."
+
+The Judgment of the Reviewer
+In my opinion, the game too often goes the way of
+Nicaragua. Personally, I think that the U.S. always coming
+across as a "heavy" is a bit much. To me, the game should
+be more than a political litmus test. Still, if you want a good
+(and deep) simulation game that will keep you coming back
+for more, you will definitely like Hidden Agenda.
+
+Review
+
+"Presumed
+Guilty"
+Cosmi's Game of
+Real Time Intrigue
+
+P
+
+by Scorpia
+
+resumed Guilty is a sort of quasi-adventure set in the
+near future; 1996 to be exact. However, before you
+get around to playing the game, you have to make
+your way through some confusing instructions and an installation utility that
+doesn't work very
+well. If you intend to
+play on floppies, there
+is no problem. You
+simply follow the instructions in the
+manual. However, the
+procedure for installing the game on hard
+disk isn't quite what
+the book says.
+
+Hard
+Driving Game
+(Technical
+Difficulties)
+What you should do
+is ignore the manual
+and proceed as follows: put disk 1 in the
+A drive and type
+SETUPH c: (or
+whatever your hard drive is if it
+Presumed Guilty
+TITLE:
+SYSTEM:
+isn't c). This will begin the inC-64, IBM
+IBM
+REVIEWED:
+stallation, but you will probably
+PRICE:
+$29.95 (IBM), $24.95 (C-64)
+encounter a difficulty when it
+DESIGNER:
+Carrie Carroll
+Ray Hogue, George Johnson,
+asks for the second disk. Mainand Paul Norman
+ly, it will look at the second disk
+PUBLISHER:
+Cosmi Corporation
+briefly, then ask for the disk
+Wilmington, CA
+"with the batch files". That is
+disk 1, as there are no batch files on disk 2.
+So, put disk 1 back in the drive (or, you could just leave
+the first disk in after it asks for disk 2). When it has finished
+re-copying the files, put disk 2 back in your A drive and do a
+COPY A:*.* to get all the files from the second disk onto
+your hard disk. Note also that the directory created is called
+PG, not SIS as the manual states. You can't get around this
+by just using manual copy to get the files onto your hard
+disk. The setup does other things as well, and you have to
+go through the entire procedure outlined above to get the
+game properly on your hard drive.
+There are further technical difficulties when it comes to restoring. There is no in-game save feature. In order to make a
+backup of your position, you first exit the game with the
+"logoff' command, which updates the relevant play files.
+Then you run a utility called BACKUPPG which creates a sub-
+
+directory (with the name of your choice) and copies the play
+files into it. To restore a position, you are supposed to run
+GOBACKPG (and the sub-directory name), which is supposed to copy the files back out. Unfortunately, GOBACKPG
+has incorrect syntax and the files don't get copied back to
+the play files. You can edit the GOBACKPG.BAT file to correct this, or you can just do a COPY SUBDIRNAME\*.* to restore the files (which is what I did).
+
+The Falcon Has Landed (The Story)
+With the technical part taken care of, we can proceed to
+the story. The year is 1996. A new, world-wide computer
+police network, Copnet, has just been installed. You are a
+recently hired investigator for Copnet, waiting for your first assignment. Your initial task is to investigate the death of one
+Ray Lamonte, who was working on a very hush-hush assignment related to "Star Wars" weaponry. Poor Ray died in a car
+crash the previous evening, soon after receiving an award for
+his work in satellite laser weapons.
+As the investigation continues, it becomes obvious that
+there is more to Lamonte's demise than was first apparent.
+You might say there is a conspiracy here (and you'd be
+right!). In fact, Falcon pops up to confirm the idea. Who is
+Falcon? Good question, because you don't know and you'd
+better find out. Falcon doesn't like Copnet. So, he frames
+you for murder. Of course, you'll eventually be found innocent, but the damage resulting from your conviction will
+be enough to cause Copnet to be taken down due to adverse public opinion.
+It's nothing personal, of course. Falcon doesn't hate you.
+You just happen to be in the right (wrong?) place at the right
+time. Thus, while you're working on Lamonte's case, you are
+also trying to piece together Falcon's identity from clues Falcon gives you.
+Every so often, Falcon interrupts proceedings to send you
+a little "lovenote" and show you that another letter in your
+logon password has been discovered (there are 20 letters in
+your password). If he gets all 20 letters before you finish your
+investigation, it's all over for you.
+All your work is done from a computer terminal and is accomplished by the "Feedback" method. Basically, you feed
+back into the computer a lot of the information you get so
+you can obtain more information.
+It is essentially a matter of being thorough and persistent,
+as well as patient, since some results take awhile to come
+back. There are also a number of photographs to look at.
+Make sure you always read the captions. On occasion, the
+important information is in the caption, not the picture.
+A cassette tape comes with the game and contains fictional
+conversations obtained through wiretaps, satellite pickups,
+etc. It's a good idea to listen to the tape once or twice. If
+there are some things you can't make out, don't worry. You
+can always review transcripts in the game itself. The conversations on the tape are not in chronological order, so you
+may want to make notations concerning time and date in
+order to determine the flow of events.
+You also get to play around with DNA imprinting. Eventually, your anonymous agents will obtain DNA samples from
+just about every suspect. These can be used to make forensic comparisons. For instance, scrapings taken from under
+Lamonte's fingernails might be matched up with the DNA
+samples from likely suspects.
+(Continued on page 31)
+
+Game Ratings Chart
+
+The Categories
+Strategy (ST): Games that
+emphasize strategic planning
+and problem solving.
+Simulation (SI): Games based
+on first person perspectives of
+real world environments.
+Adventure (AD): Games that
+allow you to take your alter
+ego through a storyline or
+series of events.
+Role-Playing Adventures
+(RP): Adventure games that
+are based on character
+development (usually
+involving attributes).
+Wargames (WG): Simulations
+of historical or futuristic warfare
+from a command perspective.
+Action/Arcade (AC):
+Computer games that
+emphasize hand-eye
+coordination and reflexes.
+
+(Continued from page 26)
+
+The best way to learn how to use the DNA comparison is
+to match a sample against itself. Move one strip until you
+get a positive match. Then move both strips together and
+see if they continue to coincide (you want the counter to
+show a .95 correspondence). If not, stop, move one strip
+again until you get a match and try again.
+One thing you want to be careful about is not to investigate yourself too soon. When your name turns up as a
+suspect, there is a case file number with it. Entering that
+number shows you the evidence against you. This also triggers Falcon to start hacking your password. You don't want
+that to happen too soon, so hold off on looking at your own
+file for awhile. You must do that eventually, however, in
+order to set off new events that keep the game moving.
+Then, there is UMBRA, the top security clearance available.
+Some information in the computer's data base requires the
+UMBRA password before it can be accessed. Make note
+when you receive a message stating "UMBRA clearance required," so you can enter the clues again later.
+As you might expect, you don't know this password. No
+one is going to give it to you outright. You have to figure it
+out yourself. Falcon will drop a hint about it, but not until 19
+letters of your password have been determined. That is a
+good place to save the game. Then, restore to an earlier
+position so you have some time to try breaking into UMBRA.
+You only get three attempts at the password before a message comes in deactivating your terminal for attempting illegal entry. However, there is a way around this. Don't read
+
+the message. So long as you don't read the message, you
+can continue to work on getting into UMBRA. Once you
+have the password, you can return to your most recent save
+and enter it to read the top-secret stuff.
+The problem is that
+the hint is rather ambiguous. There are a
+lot of associations
+with the final clue you
+get and you can
+spend quite a bit of
+time trying them all.
+To help reduce the
+possibilities, pay close
+attention to the news
+bulletin announcing
+the meeting between
+the president and the
+new Soviet First
+Secretary.
+Overall, Presumed Guilty is a very unevenly-paced game. At
+the start, you have a lot of names to enter into the computer, and things seem to zip along. Then, you hit a dry
+spell and waste a lot of time waiting for results (real-time
+dead time). The most telling point against the game, however, is the fact that it does not seem to have been
+playtested through to the end. Having finally tracked down
+the Falcon's lair, and transmitted an arrest warrant, I sat
+back to await results. They weren't what I expected.
+(Continued on page 54)
+
+Review
+
+Roe is co-designer of Wizardry IV: Return of Werdna and
+contributed to the design of Ultima IV.
+
+A
+
+shadow of evil has fallen over the land. No, this is
+not the beginning of Lord of the Rings, but of
+Infocom's marvelous new game, Journey. The game
+does pay an acknowledged homage to J.R.R. Tolkien's clas-
+
+Long Play's
+
+Journey
+Into Light
+
+ready in place as the game begins. If, however, any character's name is truly offensive to the player, he may be given a
+new one. Bergon is the big fighter, a good fellow to have in
+a fracas. Praxix, the novice Wizard, has a pouch of reagents
+for casting spells. Esher is the physician whose powers of observation provide timely insights at crucial moments. The narrator of the story is Tag, an apprentice food merchant, who
+keeps track of inventory for the party. Nowhere are Tag's features or
+talents really
+discussed,
+but you just
+know from
+the feel of
+the character
+that he has
+Hobbit blood
+in him somewhere.
+
+The jumpoff point for
+the journey is
+the small
+town of
+Lavos. The
+town boasts
+a general
+store, run by
+by Roe R. Adams, III
+a jolly fellow
+named
+Webba, and
+the obligatory
+tavern. Be
+TITLE:
+Journey
+sic epic throughout the story, though.
+sure to thoroughly peruse Webba's store,
+SYSTEMS:
+Amiga, Macintosh
+noting any travel posters hanging on the
+REVIEWED ON: Macintosh
+A black evil has arisen, threatening to cancel
+walls.
+It should be observed that, unlike many
+PRICE:
+$49.95
+out the world. Four stalwart adventurers leave
+DESIGNER:
+Marc Blank
+other adventure games, Journey, has no exto save civilization. Along the way they must
+PUBLISHER:
+Infocom
+cess items. Every item that is not nailed down
+Cambridge, MA
+find four stones held by each of the nonin this game (and an occasional item that is
+human races: blue for Nymphs, green for
+nailed down) is essential to solving a puzzle somewhere
+Elves, brown for Dwarves, and, naturally, red
+along the line. The tavern is full of the usual small town beer
+for Wizards (We have always suspected that they were a race
+guzzlers who are very suspicious of outsiders. The party has
+apart from mankind). The four stones lead to the two other
+to nose around a bit to find anyone who will talk to them.
+stones which, in turn, reveal the secret hiding place of the
+
+Infocom's Tolkienesque
+Adventure Game
+
+"one stone that rules them all!" Trees talk to you, orcs want
+your body parts, and dwarves lead you through an underground citadel where an unspeakable ancient horror lies
+awaiting in the depths. The only items missing are the drums!
+All the time, the party is coaxed on by the master Wizard,
+Astrix, who prods, cajoles, and provides hints about what the
+party should do next. He also dies spectacularly whenever
+the party makes a major mistake and allows evil to win. Now,
+that is motivation to restore the game and try again!
+Note, though, that only the veneer of Journey is
+Tolkienish, for this game heralds the long awaited return of
+Zork impresario, Marc Blank, to what should be the best
+seller list. (Gaming Historians will please note that after much
+heated debate, a panel of experts has finally determined that
+Border Zone was actually written by Sir Francis Bacon). Journey is full of delightful puzzles, superb prose, and finely
+honed legends that will be a challenge to all levels of players.
+The flavor of the puzzles harkens back to the Golden Age of
+Infocom Adventures, and reflects Marc's long standing
+status as a Master Designer. Ah, the Mill mines, the underwater pools of the Nymphs, and the entire town of Zan, all
+await those players who love fine puzzles.
+The game begins with our party of four adventurers, al-
+
+Outside of Lavos, the road forks. Here is the first challenge
+of the game, for without an experienced guide, members of
+the party start dying like flies. Were you one of the clever
+players who secured the services of the disreputable guide,
+Minar, back in Lavos? If you could not decide whether to
+hire such an obvious rogue or not, consult the back of the
+game box (whoever reads the back of boxes!), where it plainly states, "You'll share the adventures of Tag, Praxix, Bergon,
+Esher, and Minar as they solve puzzles . . . "
+I his might be an Infocom first, printed hints on the back of
+the box.
+The fork in the road is where decisions begin and it is appropriately named as Journey's storyline is constantly forking
+into different bewildering arrays of "what ifs." The player is
+strongly advised to keep a very large collection of well
+notated Save Games. These will come into numerous uses
+as the story unfolds and the player frequently slaps himself
+on the forehead while exclaiming, "Oh no, so I was supposed to keep track of [fill in the blank]." Only judiciously
+placed Save Games will avoid the frustration of having to
+replay Journey all over again to reread a special legend or
+note a particular event in detail. Any player who has a printer
+is highly encouraged to print out all of the rather lengthy,
+
+but interesting, legends. A piece here and a subtle piece
+there is often needed much later to solve a puzzle.
+Journey would be a good text adventure game, but what
+elevates it to the dizzying heights of a major work is Marc's innovative command structure. No longer is the player
+chained to yet-another-clever-parser. In this game, almost
+everything is a Mac-like point and click. Each location brings
+up a fresh series of options for the player. Choosing one option may negate other possible choices or open up a whole
+new set of options. Sometimes, an important option will be
+in bold type, other times it won't. It is really important that
+the "Look Around," "Examine," and "Scout" options be
+chosen whenever available, although please note that sometimes Scouts get captured and don't return! Such occasions
+are good spots to Save Game before venturing onward, just
+so the many flavors of paths can be checked out thoroughly.
+"Get Advice" can solicit all sorts of interesting comments and
+further options.
+Other games have tried icon clicking before, so what
+makes Journey so innovative? The answer lies in the manner in which the different options light up and go away as
+the game flows along. There is a very subtle, almost hypnotic effect that sweeps the player along. You notice yourself
+staring intently at the command screen every time you select
+an option, because you have no idea what new options your
+action might cause to spring forth. If you are not careful,
+you will lose control to the game. In fact, you will probably
+plunge down some clever dead end and Astrix will, yet again,
+die flamboyantly.
+A word about "Dead Ends" is necessary. Amusingly
+enough, the manual emphatically states, "There are no 'dead
+ends' in Journey." Actually, the game has many erroneous
+paths that lead to the victory of Evil and Astrix taking the big
+plunge from his high tower. Certainly, each of these paths
+may be construed as a "Dead End"!
+No game is perfect and there are three cautionary notes
+about this one. First, really watch what spells you use to
+solve a puzzle. The quantities of each reagent (earth, fire, air,
+and water) are very limited, and new sources appear at rare
+intervals. Several of the puzzles allow solutions utilizing any
+of several spells. If the player does not consult his pouch's in.
+ventory to see the current levels of each reagent before casting the spell, the players may box themselves into a corner
+later on in the game. The Second area concerns the puzzle
+of how one speaks Elvish. The solution to this puzzle practically necessitates either an eidetic memory or printouts of
+the legends. Even then, the player must make a fairly long
+leap into the realms of logic to come up with the composite
+answer that is needed. Third, and last, is the puzzle of the
+Wizard's Runes over the door. This puzzle is at least several
+orders of magnitude below the calibre of every other puzzle
+in the game. The player's should just type in singularly each
+word in the rune phrase until they hit upon the correct one,
+and ignore any thought about figuring out why, the effort
+would be greatly wasted.
+Graphically, the game excels. Unlike previous Infocom efforts that dipped their toes into the graphic waters, Journey
+takes the plunge. Propelled by Donald Langosy's superbly
+sensitive graphics, the game lives and takes on three dimensionality. The graphics do not need the gimmick of animation to be impressive. Every new scene has a totally new
+graphic and some areas where action occurs have multiple
+graphics. For those elite who have access to a Mac II, there
+is an extra diskette just for Mac II color graphics. The
+graphics fairly leap off the screen at you. Breathtaking, indeed!
+
+Unlike Bilbo Baggin's journal, Tag's story can not be called
+"There and Back Again," because it does not end with this
+game. In the finest gaming tradition, this release is only Part
+One of the "Golden Age Trilogy."
+In this reviewer's opinion, Journey is the best effort to date
+of any game designer struggling to find a new way for the
+game to interface with the player. It goes a long way to
+breaking
+down traditional preconceived notions about
+how games
+should be
+structured.
+However, because it is so
+totally innovative,
+Mediagenic's
+marketing
+division
+(Infocom's
+-parent company) was apparently hard pressed as to what
+label to apply to the game, so they coined yet another new
+one: Role-Play Chronicles. While it is doubtful whether any
+consumer will be able to remember the fine distinctions that
+separate all these adventure game marketing slogans from
+one another, players should ignore the hype and buy "The
+Beer.
+
+(Continued from page 15)
+
+The Battle
+of Eylau
+"Artillerie, Faire Feu!"
+(The Scenario)
+Type
+lnf
+Cav
+Art
+
+French
+65,864
+13,250
+262
+
+Allies
+66,010
+11,130
+508
+
+There was no way to simulate the snow
+squalls that periodically showed up
+during the battle. Except for the absence
+of lakes and streams, then, this scenario
+might be taking place during the summer. To simulate the highly successful
+cavalry charge, the melee factor was
+made high for the cavalry, as was their
+chance-to-charge factor. The infantry is
+less likely to form squares, as well. Apparently, the snow and hard ground
+made it more difficult for infantry to
+defend themselves against cavalry.
+Whether the game is a board game or
+computer game, it is difficult for the designer to force the player to use the Guard
+historically. In fact, Napoleon rarely used
+the Guard. It was always there as a
+threat, but its use was usually either as a
+last resort (Waterloo) or as a coup de
+
+grace (Ligny). The gamer wants to use
+these powerful units early and often, but
+that is ahistorical.
+I experimented with activating the Russian forces more slowly, which would
+have not only simulated history better,
+but would have allowed for a more seesaw battle. The French chewed up the
+pieces, however. The computer general
+has no sense of marshalling forces and
+will send units in against impossible
+odds. Keep in mind when designing
+scenarios that the computer forces
+should be pretty much intact and not
+have to do any fancy maneuvering.
+
+Design Notes
+
+Abstracts from
+the Journal of
+Computer
+Game Design
+Pac-Man™ = Zork™
+by Chris Crawford (Balance of
+Power: 1990 and Guns & Butter)
+In this article, Chris described the possible actions which could take place in a
+game as a "gametree." This series of
+branching points corresponding to actions was previously called a "storynet" by
+Chris. The thesis point of the article is
+that the structure of a story is linear, but
+the structure of a game is more complex.
+He notes that a single playing of a game
+constitutes a traversal of the game tree,
+hence it is structurally identical to a story.
+Indeed, a game might be called a "storygenerator," since it creates a linear story
+in the playing. Further, he observes that
+the number of possible stories (i.e. possibilities of replay) depends on the complexity of the gametree. A scrawny tree
+structure generates very few replays, while
+a bushy tree structure generates an abundance of replays.
+There are two primary approaches to
+creating gametrees: the "hard-wired" and
+"soft-wired" approaches. The former uses
+a tree structure where each node specifies
+the situation in which the player's character finds himself, as well as the
+graphic/sound environment, options open
+to the player, and the consequences of
+choosing each option. Assuming that
+each node provides the player with exactly
+three options and no two options lead to
+the same consequent node, a gametree
+with 1,000 hard-wired nodes would only
+last six turns and offer only 729 possible
+results.
+The soft-wired approach uses a maze approach to spatially track the player's character through the gametree, but assigns
+enough state variables to a given situation that a single maze junction can
+generate an exceptional amount of
+choices. Using Pac-Man as an example,
+the state variables would be: eaten or uneaten food dots, position of the ghosts,
+used or unused power pills, and whether
+the player character is empowered or not
+empowered. Because of these variables,
+
+there can be numerous situations to be
+encountered each time the Pac-Man character reaches a given location. Any of
+these variables can be relevant at any
+point in the maze.
+Crawford compares Zork to Pac-Man by
+noting that each room is a node with the
+range of possibilities open to the player's
+character being dependent on the state
+variables (i.e. does he have the book, the
+candle, or whatever?). Nevertheless, Crawford observes that whereas any variable
+may be relevant to any point in the PacMan maze, some variables are completely
+irrelevant to some of the rooms in Zork.
+To avoid the irrelevance limitation, Crawford suggests that designers try to make
+as many of the state variables function significantly at each juncture in the game.
+In conclusion, the article suggests that a
+maze structure, whether in an adventure
+or arcade game, provides a useful sensory
+format for reducing the options available
+to a player to a manageable number and
+gives visual form to the number of state
+variables available. Hence, the effort put
+into establishing state variables will have a
+mathematically significant effect on the
+gametree itself. The more relevant the variables (in terms of both effect and presentation to the player), the richer the game
+experience.
+
+Culture, Idealism,
+and the Real World
+by Jim Gasperini (Star Trek: The
+Promethean Prophecy and Hidden
+Agenda)
+Picking up on the themes of past issues
+(which stated that the key to the future of
+computer games would be the creation of
+interesting, engaging characters and that
+game results should be crafted in such a
+way that they expand the significance of
+the conclusion), Gasperini noted that Hidden Agenda was completely driven by
+character interaction. He suggested that it
+was possible to have characters which
+
+exist in a believable culture in Hidden
+Agenda because he did not have to
+develop the culture from scratch. Rather,
+he attempted to model a real-world culture. Therefore, there is plenty to "talk"
+about with the NPCs, as well as a shared
+understanding of the environment being
+modeled.
+In addition, Hidden Agenda uses
+dramatic conflict to shape the game (as
+opposed to combat, spending, and puzzlesolving). The player doesn't initiate events
+as much as he reacts to them. Further,
+the game utilizes a non-linear plot where
+making the same choices may lead to different results depending on the ministers
+in the cabinet or the mood of the
+populace.
+Finally, the expanded ending for the
+game where the 'Verdict of History" prints
+out a record of the player's decisions/actions in an encyclopedia format expands
+the ending. As Gasperini notes: "It is largely up to the player to decide if he or she
+won. . . . Thus, we present a text compilation that you must interpret for yourself. .
+.. Though many people will likely feel
+that they 'win' if they are elected to stay in
+power and that they 'lose' if they are voted
+out, the Verdict may make them wonder if
+such a conclusion is always warranted."
+
+How to Expedite
+Conversions
+by Gregg Tavares (Gregg is a programmer at Cinemaware and worked on
+Gunship for Microprose.)
+Asserting that "It has been my experience that converters and conversion
+houses will always do the minimum
+amount of work required to get the
+product finished," Tavares presents a set
+of recommendations for expediting and
+improving future conversions. First,
+developers should write clean code with
+the machine-dependent code separated
+from the machine-independent. Second,
+every keypress should call a function.
+Then, the programmer needs only to
+replace that function rather than searching through the entire program for every
+time that key is accessed. Third,
+developers should set aside special
+routines for drawing to the screen. This
+will enable converters to easily see what
+variables get passed where. Fourth, comment the code. Each routine should be
+commented with a description of purpose,
+variables used, inputs utilized, and variables produced or changed. Using these
+techniques, converters can be assured of
+doing the best possible job on the target
+machine with a minimal amount of
+guesswork.
+
+Industry News
+
+was told with emphatic certainty that I
+was visiting the only supermarket in
+the United States where a bag of
+chips would cost hundreds of dollars. So,
+there I was, standing in the middle of a
+Frye's Electronics Store, surrounded
+by large screen televisions, circuit
+boards, PC compatibles, modems,
+software, potato chips, soft drinks,
+panty hose, candy, and
+magazines. Yes, you read the list
+correctly. I had been tipped to this
+unique blend of consumer
+electronics and consumables by a
+top game designer.
+
+I
+
+This Silicon Valley-based chain
+would surely be frequented by industry insiders . . . I thought. So, I
+lurked about the aisles, seeing
+and hearing all. I was not to be
+disappointed. One well-known
+computer "nerd" was picking up
+the last 2400 baud modem on
+the shelf. "I'll need it for playing
+Dan Bunten's new game from
+Microprose," he said. "They
+haven't even announced the title,
+but it's sure to be multi-player
+and played via modem. Besides, I want to
+be ready for the network version of
+Maxis Software's SimCity." He probably
+didn't realize that there is no firm deal, as
+yet, but the network version with a map
+of the United States on the network is
+being discussed between Maxis and a
+major player in the consumer telecommunications field. Players would design
+their cities off-line, then upload the basic
+design to the map. There, the cities
+would interact on the county, state,
+regional, and federal levels. Current
+events would even come into play. Mississippi flooding, tornadoes, droughts, and
+blizzards would affect all cities in the
+geographical region.
+Suddenly, a horrendous wall of sound
+impacted my eardrums. Someone was
+testing the maximum decibel delivery of a
+stereo system and the sounds of "There's
+a Barbarian in the Back of My Car" filled
+the store. This reminded an Epyx
+employee I know to talk about a distributor in Canada who has refused to
+stock their new Axe of Rage game because the packaging is perceived as offensive. He said the campy barbarian (an
+actual model who was "made-up" for the
+photo session by a Lucasfilm make-up
+wizard) apparently presented a screaming
+berserker with homicidal tendencies all
+too well for the Canadian wholesaler.
+I passed by an aisle that looked like a
+massive electronic Erector Set, idly
+wondering what could be constructed
+out of all those assorted circuit boards
+and chips. Talk about a puzzle! It's
+probably something like the new puzzle
+series from Cliff Johnson, creator of The
+Fool's Errand. The first disk is called At
+
+The Carnival and all the puzzles revolve
+around that theme. To me, though, assembling all those components would be
+something akin to the creation of the
+world. Speaking of creation, Electronic
+Arts is finally about to release Populous
+
+Space seems to be a popular subject
+these days. Atomic Entertainment has
+a space opera style RPG in the works;
+most of the coding on Origin's Space
+Rogue is completed; and Mindscape is
+hard at work on their StarTrek title. Shift
+gears a bit and the science fiction
+fans will be stimulated by
+Interplay's Mean Time, the working title of the time warrior game
+described in April's "Rumor Bag,"
+and Origin has changed the
+name of T.A.N.C., the cybertank
+game where players pit customized nuclear tanks against
+each other's vehicles, to Omega.
+
+The
+Rumor
+Bag
+by Garth Fitzmorris,
+Esquire
+in the U.S. Populous is a real-time
+strategy game hit from Europe where the
+players fight cosmic battles from a quasidivine perspective.
+As I reached the computer section, I
+noticed suspicious activity around a PC
+compatible. I don't know where security
+was, but a fellow pulled a 3 and 1/2 inch
+diskette and asked if I wanted to see
+some screens from Robot in the 21st
+Century. It is a pure shoot-'em-up built
+around a berserk robot theme which features VGA graphics and extremely fast
+sprite-driven graphics. The game is being
+developed by Atomic Entertainment for
+release later this year. This could be a big
+year for VGA graphics with Questmaster 1
+(formerly called Dondra) and
+F-15 Strike Eagle II also supporting the
+VGA technology.
+We were disturbed in our viewing by an
+irate IBM owner who had cornered the
+saleswoman near the software shelf and
+was demanding to know why the store
+had Amiga and Atari ST copies of Empire and didn't have any IBM versions. "It
+was CGW's Game of the Year fer gosh
+sakes!" he complained. She explained
+that it was sold out and there would be
+more by the next week. He didn't seem
+satisfied, so I stepped between then and
+explained that not only would the store
+have Empire in IBM format, but that the
+C-64/128 version was almost ready to
+ship. In fact, Interstel claims that
+Dragon Force and Star Fleet ll will actually ship by Fall of 1989. In addition, I informed him, Interstel has acquired the
+license to several works by Andre Norton,
+including Witch World and Space Queen.
+
+Unfortunately, I had forgotten to
+check my briefcase at the door,
+so it had to be searched. I guess I
+wouldn't make a very good spy.
+Apparently, Ivan and Carol Manley
+do make good spies because their
+real-time Espionage game set
+around the Berlin Tunnel and the
+Roman aqueducts nearby sounds
+very interesting. Accolade will entitle it The Third Courier.
+
+I felt like a real spy, however, when
+I left the store following behind two
+fellows talking in guarded whispers about
+Sandy Peterson's move to Microprose.
+"If he worked on horror modules at
+Chaosium, you can bet he's working on
+a horror game at Microprose," one said.
+The other said, "Yeah, and I bet plenty of
+companies want to talk to Chaosium
+about the Chthulhu license." "It would
+make sense, wouldn't it?" the first one
+said, "After all, pen and paper games do
+seem to translate well to the computer." I
+snickered to myself. One thing is for
+sure. Sandy won't tell them.
+I followed them for a little while and
+figured out that one of them must have
+something to do with Electronic Arts,
+since he referred to the upcoming RPG,
+Keef the Thief, along with Knight School
+and the Thieves' Guild license. The other
+one was probably from Sierra, since he
+knew that the name of Roberta Williams'
+new game is now The Colonel's Bequest
+and the latest Al Lowe product has been
+renamed Passionate Patty. He said that
+the company didn't think Polyester Patty
+would communicate as well as Leisure
+Suit Larry.
+Well, I'm obviously not a very good spy,
+because the one from EA stopped,
+turned around and asked, "Aren't you
+Garth Fitzmorris?" I admitted that I was
+and asked how they had discovered me,
+"Was it my flawless British accent?" They
+laughed and shook their heads. "You
+were the only one in the store with a bag
+over your head." Maybe I'll use that Ninja
+mask Activision sent, next time.
+
+Scorpion's Mail
+out. If you do happen to be stuck in there, you have to look for
+the way out. Make sure you search in the small room at the end
+of the corridor. One of the four rooms has a wire you can trip to
+get your party out of this deathtrap. Since there's no way to tell
+where you are, you just have to keep searching until you find it.
+On the other hand, the Ballroom is important, so don't overlook
+that place.
+
+Manhunter:
+Some folks have been stumped by Trinity Church. Yes, it is
+very important in the game (for more reasons than one). However, until you have been completely through the museum, it's
+not likely that going to church will be of much use to you.
+Remember to look at everything carefully in the last room of the
+museum. Also, for those who are losing their heads at the pawn
+shop, the secret of Trinity should provide some relief.
+
+Ultima V:
+Getting past the first room of dungeon Shame has been a
+problem for quite a few people. This is one place where throwing
+things at the walls won't do anything for you. To find the secret
+trigger, you're going to have to push with your own little hands
+until you find the right spot. Don't be afraid to climb over the
+rocks. Be persistent, and you'll soon be on your way. Also, in the
+final dungeon, the true path to Lord British begins in the room
+with the sandtraps. Of course, you'll have to wipe out everything
+in the room before you can find the ladder (heh).
+
+Future Magic:
+I've heard from a number of people who have been having
+problems getting past the guard with the thermocaster in the battlestation. This one is a bit tricky, but if you time it right, you can
+remove the guard with no danger to your party. What you need
+to do is use your "erase skill" ability as soon as you see the guard
+appearing on your screen (just make sure the guard is targeted
+first or it won't work!). It may take a few tries until you get it just
+right, but it can be done.
+
+Leisure Larry H
+There are some folks who are having a little trouble getting out
+of the airplane, since the door is locked. That's probably because
+they didn't chow down back at the airport.
+That's it for this look in the mailbag. Remember if you need
+help with an adventure game, you can reach me in the following
+ways:
+On Delphi: Stop by the GameSIG (under the Groups and Clubs
+menu). On GEnie: Visit the Games RoundTable (type Scorpia to
+reach the Games RT). On The Source: Send SMail to ST1030.
+By US Mail (remember the SASE if you live in the US!): Scorpia,
+PO Box 338, Gracie Station, New York, NY 10028.
+Until next time, happy adventuring!
+Copyright 1989 by Scorpia, all rights reserved.
+
+Game Developers' Conference
+
+an Bunten closed
+his presentation
+which reminisced
+about the "Golden Days of
+Computer Games" by stating, "The golden days are
+not what's behind us. They
+are yet to come." It may be
+true, but the Computer
+Game Developers' Conference held in Sunnyvale
+on May 7-8 demonstrated
+that there was not quite
+the unanimity in design
+philosophy that the earlier
+and more intimate gatherings seemed to indicate. At
+this conference, pen and paper designers
+contended that programmers should not
+be designers; developers debated art vs.
+profitability; publishers and developers
+hotly discussed an inevitable schism between dedicated game machines and
+disk-based systems; and a software
+publishing executive candidly noted
+during a panel on marketing, "You guys
+probably think of marketing people as
+the Darth Vaders of this industry, anyway."
+
+D
+
+Ars Gratia
+Pecuniae
+
+space tougher to acquire,
+SSG has three possible
+solutions. First, the company is revamping the IBM
+graphics for all future conversions. The first
+American Civil War release
+on the PC has the best
+scrolling we've ever seen in
+a wargame, crisply defined
+unit icons, extremely representative terrain (that not
+only looks like a map, but
+can be adapted via a more
+powerful Warpaint or
+Deluxe Paint II to make
+other terrain) that is
+dynamic (shows snowy weather in IBM
+Russia and destruction when a city or
+building is destroyed).
+
+(Art for Money's Sake)
+
+In spite of divergent opinions, this conference is still the most fecund and
+stimulating environment in the history of
+an infant industry. It is not surprising that
+an industry which is zealously attempting
+to accelerate consumer acceptance
+would have widely disparate visions of the
+future.
+
+Game Machine vs. Computer
+The battle for the consumer's loyalty will
+largely be fought on the battleground of
+the hardware platform to be used. Kelly
+Flock of Mediagenic insisted that the
+idea of a dedicated game machine would
+not go away. It may change, but he
+believes that there will be both a "home
+mainframe" (traditional computer which
+can be programmed for productivity) and
+game machine (platform strictly for entertainment). He does not believe visions of
+a "New Hollywood" (computer entertainment with the cultural impact of film and
+recorded music) will reach fruition until a
+dedicated game machine is widely accepted. Greg Riker of Electronic Arts
+believes that, as early as 1991, "The
+seeds from the split of dedicated game
+machines and the home computer will
+bear fruit." He projects a machine where
+optical media will be the storage of
+choice and dedicated co-processors for
+video and audio will accomplish the work.
+Many developers and publishers see
+these machines as the salvation of the
+entertainment software industry after the
+recent downturn.
+Stuart Alsop, respected industry pundit,
+takes a different tack. He says that
+
+Art vs. Profit in
+Computer Game Design
+videogames are not the problem in the
+current profitability malaise. What
+developers need to realize, plan for, and
+use to their advantage is that computer
+entertainment is a different business than
+videogames. Personal computer based
+entertainment will always be a niche
+market rather than a mass market. He
+stated in the keynote address that consumer electronic companies (i.e. companies focused on mass-market acceptance of electronic products) will never
+understand the personal computer business and that computer companies will
+never understand consumers. The challenge, according to Alsop is to live between the two worlds. His analysis is that
+the big hardware companies are about to
+do just the right thing for all the wrong
+reasons. IBM's endorsement of DV-I (see
+CGW's "Inside The Industry" for May,
+1989) portends a machine with CD-ROM
+(CD-ROM with extended architecture to
+be standard), Windows interface, improved graphics, and a digital signal
+processor. "One hot box," he notes, to be
+sold at $2,500-$3,000 when the price stabilizes. He also projects a low-cost Macintosh at half the cost of the projected IBM
+home computer.
+The projected split between dedicated
+and open game machines brought no
+summary evaluation as to whether
+products designed on future game
+machines would really be able to offer
+the depth and sophistication of games on
+the current hardware. Lord British noted
+one constant that will continue to plague
+the industry for a time, whichever way the
+hardware goes, "The cost of production
+[of computer games] is going up, while
+the profitability is going down."
+
+The Art of
+Designing War
+Ian Trout and Roger Keating from
+Strategic Studies Group chaired
+several conferences. Perhaps the most interesting was the discussion about designing wargames. With wargame sales dropping dramatically in recent days and shelf
+
+Second, the company has taken a leap
+in artificial intelligence during the work
+on the Napoleonic series. The concept to
+be utilized is a "Staff Card," roughly
+analogous to a "Hypercard" stack. The
+card will contain about 250 possibilities
+for the unit it is assigned to. At each
+"hour" in the game, the artificial intelligence will decide what the Corp will do
+and will look at the condition of the entire Army, the condition of the Corp, and
+the "Staff Card." With this data in hand,
+the unit will evaluate the 15-16 possibilities that would be possible (out of
+the 250 total) in a given circumstance. A
+value is added to each decision so that
+the intelligence will prioritize on the basis
+of what has gone before and a randomizer is added to keep matters from becoming too predictable. Then, the intelligence re-evaluates.
+Third, the company is about to distribute its first non-strategy game, Fire
+King, with an aside that it does not use
+the SSG command routines. Nevertheless, Trout demonstrated that the command structure could easily be used in
+non-war games, leading one to believe
+that consideration has been given to
+doing just that. Nothing definite has been
+confirmed with regard to such products,
+however.
+
+Interactivity
+Salvation or Seduction?
+Once again, Chris Crawford evangelistically extolled the virtues of interactivity
+with regard to computer games. Those
+who have read the abstracts from The
+Journal of Computer Game Design occasionally printed in CGW will be familiar
+with the basic tenets of Crawford's interactive gospel: the need for a robust language for the player to communicate
+with the program and related problem of
+context, as well as the necessity of
+(Continued on page 55)
+
+Taking A Peek
+(Continued from page 7)
+
+players can pick n' roll, alley-oop, and
+slam dunk their way through this fast
+paced, two-on-two game. Features include officials, quarterly stats (to keep
+track of your triple-doubles), and a training sequence where players receive instruction from Magic and the chance to
+practice his moves. IBM ($39.99). Circle
+Reader Service #12.
+
+Medalist International
+180 Lakefront Drive
+Hunt Valley, Maryland
+21030
+KEITH VAN ERON'S PRO SOCCER: Indoor and outdoor soccer comes
+to the home computer with this good
+looking action game. Overhead 3-D
+views give the game a sophisticated
+look. Smooth horizontal and vertical
+scrolling keeps the ball constantly in
+view. Players have a variety of shots to
+use, and the indoor version provides
+rebounds off the boards. The outdoor
+version comes with a weather option. Up
+to 16 can control their own teams, so a
+World Cup Tournament can be organized. Handicapping and instant
+replays are also part of the package.
+This looks like the best soccer game yet!
+One or two players, joystick(s) required.
+C-64 ($34.95). Circle Reader Service
+#13.
+
+Mastertronic
+711 W. 17th St., Suite G9
+Costa Mesa, CA 92627
+RAW RECRUIT: Elite basic training is
+the order of the day as players must survive six challenging tests. Desert Terrain
+Rifle Shooting, Cross Country Obstacle
+Course, Fitness Training, Commando
+Assault Course, Pistol Range, and Tug
+of War stand in the way of graduation.
+Joystick required. C-64 ($9.99). Circle
+Reader Service #14
+
+SKATE CRAZY: Gaining the admiration of your roller-skating peers is the
+goal in this joystick driven action game.
+Players increase their "Street Cred" by
+performing dare-devil stunts and free
+wheeling tricks while skating through increasingly difficult levels. Players can
+also pick up trash along the way which
+can be recycled for cash. See, roller-skating is not a crime! C-64 ($9.99). Circle
+Reader Service # 15.
+
+STREET FIGHTING MAN: The Crips
+and the Bloods aren't anything compared to the street-wise thugs you'll
+
+meet in this sock em' up action game.
+Players control Nick "The Hammer" who,
+armed only with his fists and an overblown sense of machismo, must fight
+his way through the alleys, bars, and
+loading docks of the five most
+dangerous cities in America, in order to
+rescue his girlfriend from the hands of
+the gang lords. IBM ($14.99). Circle
+Reader Service #16.
+TURBO CHAMPION: Another game
+in the road racing genre, players
+maneuver their high-performance sports
+car through 8 different raceways, avoiding crack-ups with other cars and the
+typical assortment of oil slicks and roadside obstacles. A special feature allows
+players to construct their own tracks
+with the included Course Designer
+which works in conjunction with Deluxe
+Paint II. IBM ($9.99). Circle Reader Service #17 .
+
+Origin
+136 Harvey Road
+Building B
+Londonderry, NH 03053
+TANGLED TALES: A rich and
+humorous storyline coupled with an
+elegant interface marks this beginner/intermediate level adventure game. The
+player leads a wizard's apprentice
+through a series of quests in which
+he/she gets involved with a number of
+odd-ball characters. The adventure's interface sports a unique blend of both
+the first person, 'dungeon' view and the
+Ultima-like overhead viewpoint. Apple II
+pictured and C-64 ($29.95). Circle
+Reader Service #18.
+(Continued on page 50)
+
+Field Trip
+
+Fantastic Voyages
+
+IV
+
+The Whirlwind Tour Inside the
+Entertainment Industry Continues
+
+part of a fictitious "history." The "stable"
+houses the Lucasfilm Games division;
+the "winery" is actually the technical building; and the "egg ranch" functions as the
+archives, while George Lucas' office, the
+library, private viewing room, and company dining room are all located in the
+main house. The rich oral tradition which
+provides the story behind the house is as
+elaborate as any screenplay Lucasfilm
+has brought to the screen.
+For example, the original Lucasfilm
+property (Industrial Light & Magic's initial headquarters) was located in a building which once housed an egg company.
+One architectural feature of that building
+was a catacomb of cool tunnels where
+eggs had been stored. When Lucas built
+the ranch, he wanted something that tied
+the origins of the company into its
+present locale. That is why the corporate
+archives recreate that look with its own
+tunnels.
+Yet, the reality subtly impinges upon
+the fantasy. If one is observant enough, it
+is possible to see an ethernet plug inset
+in the magnificent Victorian window seat
+located in the main house. If one enters
+the "winery," one finds the technical
+facilities necessary for foley shots (overdubbing) and a sound stage so perfect
+that singers often rehearse their concert
+tours at the facility (Mick Jagger was
+rehearsing a tour during one CGW visit
+and Linda Rondstat was cutting an
+album during another visit). Most Victorian mansions wouldn't have a private
+theater constructed out of recycled wine
+casks either, but the main house has one
+where the bouquet of a historic wine
+aromatically fills the air on humid afternoons.
+
+he
+o
+
+peripatetic editorial staff o f
+CGW continues its whirlwind tour
+f many of the software companies. The purpose of these visits and
+reports is to share the human story of
+the work environment and people behind the scenes that produce the games
+and creativity tools we all enjoy. This
+issue, the story continues . . .
+
+T
+
+Interactive Light & Magic
+Lucas Valley Road weaves through the
+forested hills outside San Rafael like a
+skimmer bobbing through the forests of
+
+Endor. As we cruised through the valley
+(named for another and unrelated
+Lucas), we wondered if the beautiful
+scenery may have inspired the famed
+forest chase in Return of the Jedi. Our
+car paused briefly before the inauspicious
+ranch gates (who would guess that an
+entertainment empire rested in the hills
+beyond?) and our pulses accelerated as
+the gates opened and the car advanced
+into the magic realm known as Skywalker
+Ranch.
+We drove by the oft-pictured
+ranch house and parked under the
+"stable." Each building at the ranch is
+
+It is not difficult to indulge in the fantasy when one enters the library, however. The library not only houses an N.
+C. Wyeth original, but an impressive Maxfield Parrish, as well. In fact, PBS viewers
+would recognize the stained glass window
+in the library as the background for the
+late Joseph Campbell during the The
+Power of Myth series. Not only does the
+library contain enough resources to keep
+the film division busy, but it serves as a
+seminal resource for the games division
+and Industrial Light and Magic (the
+special effects division), as well. Noah
+Falstein, designer of P.H.M. Pegasus,
+remembers that he was doing some
+general reading in the ranch library when
+he conceived of the hydrofoil simulation.
+In general, the working environment at
+Lucasfilm Games is as quiet, creative,
+and productive as George Lucas himself.
+The atmosphere is so close to nature
+that it is not uncommon to have king
+snakes sliding under the doors from the
+hillsides which the complex is nestled
+
+against. As we paused over a quiet lunch in the Solarium, Doug
+Glenn, the Director of Marketing for the games division who left
+the high-pressure world of advertising to join the Lucasfilm
+team, suggests that "Working in an environment like this could
+work two ways. You could become so laid-back you don't accomplish anything or, what usually happens, is that you love it so
+much you don't want to take a chance on blowing this one.
+Here, you can put in 12-14 hour days and not feel it."
+As for George Lucas' paternal presence over the game division,
+it is the founder's intent that the company focus on four quality
+titles per year (ideally, one per quarter). Lucas is involved with the
+games division in three ways. First, he regularly looks at product
+and offers his opinion as to when they are "good enough."
+Second, he personally oversees the licenses of the film products
+(Lucasfilm doesn't always publish the games based on the hit
+films.). Third, he participates in the game division's "Blue Sky
+Conferences" where future products and innovations are discussed.
+In 1989, Lucasfilm Games is expected to publish a follow-up
+game to Battlehawks: 1942, the computer game version of Indiana Jones and the Last Crusade (where Indy undergoes his
+own quest for the "Holy Grail"), and an adventure game by ex-Infocomer Brian Moriarity (tentatively entitled, Loom). The over-all
+impression of visiting the ranch is that the company is serious
+about attempting to shape story and technology together without
+being "seduced by the dark side of the force," whether that be
+marketing forces or technical expedience.
+Whether intentionally or not, George Lucas is building an entertainment empire. As Cindy Williams reminisced at a recent
+
+awards dinner honoring Lucas, "After we finished filming
+American Graffiti, I remember loaning George the fare to take
+the ferry back to his home in Marin County. The next time I saw
+George, he owned Marin County." Whatever the future of this
+company, it is likely to expand the definition of entertainment,
+whether focused through computer software or film.
+
+Samurai War Hero (Cheatin' Death with Major Bill)
+Although the company was almost called Smuggers Software
+(for Sid Meier Users Group Software), the identity of Microprose
+as a company is almost as completely tied up with super salesman/CEO Bill Stealey as it is with designer/programmer extraordinaire Sid Meier. Appropriately enough, both founders of the
+company met over a video game, the coin-op Red Baron. It is appropriate because Microprose not only publishes games, but
+has a houseful of dedicated gamers. Designers, programmers,
+Major Bill, and staffers from any part of the company take part in
+after hours role-playing games, play-by-phone war games, and
+computer games. Some designers, like Arnold Hendrick, arrived
+at Microprose via the boardgaming route.
+In addition, the meeting of Meier and Stealey over a Red Baron
+game was extremely appropriate because "flight" is the keystone
+of Microprose and flying is in Stealey's blood. Everyone at Martin
+State Airport knows the brightly emblazoned T-28 named, "Miss
+Microprose," and nearly everyone stops what they are doing to
+watch her taxi down the runway. CGW's editor-in-chief, Russell
+Sipe, performed his first aileron roll in the plane during one trip,
+while associate editor Wilson opted for more rudimentary flight
+training during the same outing. The CGW editors both agreed
+that "flying" computer simulations helped them in handling the
+(Continued on page 53)
+
+Taking A Peek
+(Continued from page 46)
+
+SJP Enterprises
+P.O. Box 246
+McHenry, IL 60050
+THE DESERT WAR: Players fight the
+WWII North African Campaign in this
+computer wargame for the Mac. The
+game features four scenarios, (including
+a campaign game), armor, infantry, artillery, and hidden movement. This game
+is designed for two players (no computer
+opponent is available). Mac ($34.95).
+Circle Reader Service #19.
+
+Spinnaker Software
+One Kendall Square
+Cambridge, MA 02139
+THE SCOOP: The player gets an opportunity to be a top reporter in 1930's
+London, in this graphic and text adventure game based on a murder mystery
+by Agatha Christie and other members
+of the famous London Detection Club.
+The player must question witnesses, follow suspects and search for clues as he
+races against other reporters from a rival
+paper. An easy to use interface makes
+this game play smoothly. Apple 128K
+pictured and IBM ($39.95). Circle
+Reader Service #20.
+
+Strategic Simulations, Inc.
+1046 N. Rengstorff Ave.
+Mountain View. CA 94043
+HILLSFAR: The latest Advanced Dungeon & Dragons action adventure game
+has the player questing for increased
+skill, gold and magical items. The action
+events include Archery, Maze Exploration, Arena Combat, Lockpicking, and
+Equestrian Challenges. Characters are
+transferable between this game, Pool of
+Radiance, and Curse of the Azure
+Bonds. C-64 ($39.95). Circle Reader Service #21.
+OVERRUN!: This is a modern land
+warfare simulation based on the game
+system developed for Panzer Strike! and
+Typhoon of Steel. Set in 1992, the
+game has new and near-future weapon
+systems, eight scenarios and a construction kit. Also included are larger sized
+maps, new armor types, increased accuracy of fire-control, and counter-battery fire. Apple II pictured and C-64
+($49.95). Circle Reader Service #22.
+
+subLogic Corp.
+501 Kenyon Road
+Champaign, IL 61820
+THUNDERCHOPPER: Not to be con-
+
+fused with the ActionSoft C-64 title, this
+new product is completely compatible
+with the entire line of SubLogic scenery
+disks. The player gets to pilot a highperformance rescue/attack helicopter in
+this flight simulator. Pilots fly training
+missions before going into action on
+land or at sea. Missions include: Armed
+Escort, where the player guides his
+troops through enemy territory; and
+even a Rescue at Sea, which requires
+finding and recovering survivors of a
+major naval engagement. IBM ($49.95).
+Circle Reader Service #23.
+
+Abracadata
+P.O. Box 2440
+Eugene, OR 97402
+RUN YOUR OWN TRAIN: Last
+month, by mistake, we ran a photo from
+Run Your Own Train, and mislabeled it
+as Design Your Own Train. We
+
+apologize for the confusion. As always,
+mass firings will follow.
+
+Conversions Received
+Combat Course (Mindscape)
+IBM & C-64
+Demon's Winter (SS/) IBM & C-64
+Double Dragon (Arcadia) ST
+First Over Germany (SS/) IBM
+Heavy Metal (Access) IBM
+Hole-In-One Miniature Golf
+(Digitek) C-64
+Honeymooners (First Row) C-64
+Indiana Jones $ Temple of Doom
+(Mindscape) IBM & Amiga
+John Elway's QB (Melbourne
+House) Apple Ile/IIC
+Out Run (Mindscape) IBM
+Powerstyx (Magic Bytes) Amiga
+Red Storm Rising (Microprose) IBM
+Twilight Zone (First Row) Amiga
+Zork Zero (Infocom) Amiga
+
+Fantastic Voyages
+(Continued from page 49)
+
+real plane. "You learn to do things deliberately and not over-compensate by moving too fast," offered Sipe. Wilson confessed that
+he had put enough simulated planes into spins to respect the
+controls when he climbed into the T-28's cockpit.
+The company slogan, "The action is simulated, the excitement
+is real," is more than the the insignia painted on Miss
+Microprose's fuselage and imprinted on the pilot's patches on the
+company's flight suits. It is an ideal which is taken seriously. As
+an experienced pilot, Major Stealey continually insists on details
+and features to make the products "feel" right. Even when it
+comes to products which are not based on flight, Major Bill has
+an impact. When we praised the design team of M-1 Tank
+Platoon because all the buildings were "live" (i.e. able to be
+blown up), we were told that Stealey had insisted. When we commented on the secondary explosions displayed when armored
+vehicles were destroyed (a nice touch!), we were told that Major
+Bill had wanted them.
+Authenticity is a hallmark of the company's products. In terms
+of research, the company encourages book purchases. According to Arnold Hendrick, the company has more than $1,000
+worth of Janes' Fighting Ships and Janes' Fighting Aircraft
+alone. When their own resources fail, Arnold notes that the
+Library of Congress is a short drive away. For Sword of the
+Samurai, the design team took time out to visit the Smithsonian
+in order to research the tapestries from the particular time period.
+For M-1 Tank Platoon, Arnold has utilized the "Freedom of Information Act" to request government materials and secured used
+manuals from friends who have served in the vehicles. Research
+is vital to the design concept.
+Another Microprose characteristic is the company's Quality Assurance program. Since the company relies so heavily on inhouse testing, we were curious as to how Microprose avoids tun
+nel vision (i.e. becoming so close to the product that they cannot
+find the problems). According to Al Roireau, they make certain
+that there are personnel that are hands-off on a given project
+until late in the design process. Then, the "hands-off" people try
+to do quirky things to the products they haven't worked on. On
+the next product, there will often be a flip-flop so that everybody
+ends up testing everyone else's products.
+Asked how the company deals with testing IBM products,
+Roireau noted that they use 12 or 13 different IBM clones and 12
+
+or 13 different graphic card configurations to test out their
+products. "Of course, there are always configurations we don't expect. We never dreamed anyone would run a VGA card in monomode, for instance, but it happens."
+We left the Microprose premises with an impression that the
+corporate team really is comprised of Micro(computer) Pro(fessional)s. We also left with another distinct impression. After watching "Miss Microprose" take off under a rapid rate of climb, we
+know that, like Bill Stealey himself, this company intends to keep
+flying.
+
+reboot the system. This happened several times, with the
+lock-up sometimes occurring
+even before the bulletin came in.
+Finally, on about the sixth or
+seventh attempt, using a save
+game just prior to the most
+recent one, I was able to get
+through to the finish. I suspect
+the problem was caused by
+several timed events trying to go
+off at once, jamming the game
+completely at that point.
+Whatever the cause, it made for
+a very aggravating experience.
+The final wrap-up at the end
+was also not very satisfying.
+While the final details of the plot
+are revealed, there are still
+several loose ends left over that
+are not explained.
+
+Presumed Guilty
+(Continued from page 31)
+
+As a news bulletin came in, the screen began to blink and flash
+and everything locked up. No key would work, nothing I tried
+would bring the screen back to normal. My only recourse was to
+
+The sloppiness in this game
+shows throughout, from the errors in the manual through the
+utilities that don't work properly to the numerous typos and
+misspellings in the text, the incessant noise of the game (no way
+to turn off the sound), and the final crash at the end. What might
+have been a reasonably good game is made frustrating and unenjoyable by the lack of adequate quality control.
+Bottom line: It is impossible to recommend such a game in any
+way until the mess is cleaned up.
+Copyright 1989 by Scorpia, all rights reserved.
+
+Game Developers' Conference (cont.)
+
+process intensity (i.e. the program does a
+lot with the player's input). He went on to
+state that even though technology makes
+it possible to have prettier graphics and
+more effective sound, interactivity is the
+basis of the designer's competitive advantage. Posters and film offer prettier images. Compact Discs offer more intense
+audio experiences. But, you cannot truly
+interact with these media.
+"Your mind is not a passive agent." said
+Crawford as he flamboyantly affirmed that
+Interactivity is to human communication
+what the theory of relativity is to weaponry—a historical divide. The ex-college
+professor reached critical mass as he
+shouted, "We are the Manhatten Project
+of Communications. We have it within
+our grasp. Seize it!"
+
+As the conference's futurist of choice,
+Greg Riker went on record with a list of
+probable, hopeful, and visionary advances for the computer entertainment industry. In five years, Riker predicts a wallet-sized 68030 computer with optical
+storage standard and digitized a-v on a
+256 color imagery base. He perceives arcades where a consumer will be able to
+
+test games in an arcade box before
+buying and can download the games to
+his pocket computer if he decides to purchase them.
+By the year 2000, he believes that digital video will be a reality with HDTV standard. In addition, he projects increased
+density of optical storage and stereo
+eyephones with full 3-D (analogous to
+current use of headphones). Further, a
+bold prediction features the beginning
+steps of neural I/O (BI/O).
+Twenty years down the line, the vision
+is more wildly speculative. Riker posits a
+neural I/O standard. He notes that in
+Czechoslovakia, scientists have experienced with electrodes on the side of
+the head and neck, which send low-level
+electrical impulses to fool the inner ear
+into experiencing movement. Prior to a
+more advanced neural standard, he anticipates advancements in forced feedback
+controllers. Jet Propulsion Laboratories already uses controllers to simulate resistance to the user in order to control real
+robots in a remote environment. Can
+consumer applications be far behind?
+In closing, Riker reminded his audience
+of the primacy of the game by playing a
+portion of the "Elementary, My Dear
+
+Data" episode from StarTrek: The Next
+Generation. Data asks the doctor, "Do
+you mean to say there is some value in
+losing?" The doctor replies, "Of course.
+It's the great teacher." The game is still
+afoot, no matter what the technology.
+
+Who Ya' Gonna' Call?
+The assembled designers would call the
+following publishers in each category:
+Best Technical Support: Electronic Arts
+(Runner Up: Microprose); Best Quality
+Assurance: Sierra (Runners Up:
+Electronic Arts, Origin); Most Innovative
+Publisher: Cinemaware (Runners Up:
+Electronic Arts, Microprose); Best
+Producer: Shelley Day (Accolade) and
+Richard Hillemann (Electronic Arts) (Runners Up: Mark Johnson (Activision), Sam
+Nelson (Accolade)); Best Publisher: Accolade (Runners Up: Microprose, Origin)
+
+Verdict of History
+Though it would be impossible to
+describe all the sessions or to measure
+the impact which they will have on future
+products, it is certain that no one can experience this quality of "interaction"
+without the results contributing positively
+to one's work and vision.
+
+Hall of Fame / R.I.D.
+
+Be it known to all gentle persons that the above named games have been well
+spoken of by our readers over a goodly period of time. Therefore they have been
+enshrined in the CGW Hall of Fame as
+games of renown and worthy of play by all
+
+

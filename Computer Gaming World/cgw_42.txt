@@ -1,0 +1,3690 @@
+December 1987
+Number 42
+
+FEATURES
+Plundered Hearts
+
+10
+
+Scorpion's Tale Gives Playing Tips / Scorpia
+
+The Electronic Gridiron
+
+16
+
+A Survey of Computer Football Games / Wyatt Lee
+
+1987 CGW Game Of The Year Awards
+
+22
+
+CGW Gives Awards at DRAGONCON '87
+
+Project: Stealth Fighter
+
+26
+
+Microprose's Latest Reviewed / M. Evan Brooks
+
+Beyond Zork
+
+32
+
+The Review / Scorpia
+
+Secret Agents, Man!
+
+35
+
+Polarware's Spy's Adventures Series / David M. Wilson
+
+Victory At Sea
+
+36
+
+A Common Sense Approach to SSI's WARSHIP / Joseph McMaster
+
+Battles In Normandy
+
+47
+
+SSG's New Western Front Game / Bob Proctor
+
+Firepower
+
+51
+
+A Budget Arcade Wargame / Roy Wagner
+
+DEPARTMENTS
+Editorial
+Taking A Peek
+Reader Input Device
+Game Ratings
+
+4
+5
+63
+64
+
+Editorial
+An
+
+old adage says "don't let the grass grow under
+your feet." Successful magazine publishers live by
+this admonition. In an ongoing quest to maintain membership in that select club (i.e. successful magazine
+publishers) we have constantly looked for more efficient
+means to produce a better product for you, our readers.
+In 1987 we completely revamped the format and
+layout of Computer Gaming World and we are
+delighted with the results.
+The first big change was the now legendary "machine
+specific column massacre". In one fell swoop columns
+died right and left. It was a bloody scene, but someone
+had to do it! Unlike the early 1980's when single or two
+machine titles were commonplace,
+game
+manufacturers now
+release the
+majority of
+their titles on
+four or more
+machines.
+The need for
+specific
+machine
+columns disappeared, for
+the most
+part, with this
+change. The space gained by this change has been put
+to good use according to the letters we receive.
+Concurrent with the pruning of columns was the adoption of themes for each issue (the current issue is our
+"Football Issue"). This was a marketing move and we
+are pleased to say, a move that has paid off in increased sales.
+
+Next, the layout went through significant changes. Up
+through Issue #38 (June-July 1987) CGW was
+produced in the traditional method of pasting up galley
+sheets of type. However, this is the era of desktop
+publishing. In July we joined the revolution and went
+"desktop". Upgrading to the IBM AT, the Hewlett Packard LaserJet series II printer, and the Micro Display
+Systems The Genius 401 full page display monitor, we
+jumped into desktop publishing with Xerox's Ventura
+Publisher.
+The results first appeared in Issue #39 (Aug-Sept
+1987). Not only did the magazine look better, the time
+to produce each issue dropped by 15% and our prepress production costs went down by 25%. Now, let me
+guess—when you read that we have been able to cut
+the cost of production on CGW you say to yourself "so
+what? I don't see you lowering my cost!" Well, you are
+
+right. In fact, the price actually went up with Issue #40.
+The culprits here are inflation and a sizable increase in
+paper cost this year. Nevertheless,our constant quest to
+reduce production costs while improving the magazine
+at the same time explains, in part, why we are the only
+four-color computer game magazine still around when
+once there were eighteen such magazines (1984). So,
+be excited that we are more efficient now! Our gain is
+your gain! CGW marches on!
+Microsoft Word and our subscription to Compuserve round out the basic tools that we use to
+produce each issue of CGW. A good portion of each
+issue is sent to us via Compuserve. The remainder
+comes to us on diskette as IBM text files. The articles
+are edited using Word and then transferred to Ventura
+Publisher.
+In Issue #40 (October 1987) we introduced our new
+logo. The combination of a bold traditional typeface
+used for the word "COMPUTER" (that harkens back to
+the older logo style) has been combined with a new freeflowing treatment of the words "GAMING WORLD." The
+resulting logo suggests the dynamic tension between
+the traditional and the progressive that exists, not only
+in CGW's editorial personality, but also in the computer
+entertainment industry overall.
+Yet another change appears with the issue you hold in
+your hand. Departing from a traditional Times Roman
+typeface, which is common to so many publications, we
+have adopted a new progressive, attractive typeface
+called Korinna ® . We like it, what do you think?
+Stay tuned. More improvements are on the way!
+Russell Sipe
+Publisher and Editor
+
+ActionSoft
+201 W. Springfield Ave. Suite 711
+Champaign, IL 61820
+THUNDERCHOPPER: One of many
+recent releases of helicopter simulations, this simulation is lovingly
+crafted to reflect the controls and
+weaponry of an advanced Hughes
+530MG Defender. The detail in this
+product, supervised by a veteran Air
+Force gunship pilot, is phenomenal.
+Apple, C-64 ($29.95). Circle Reader
+Service #1.
+Activision
+P. O. Box 7287
+Mountain View, CA 94039
+POSTCARDS: If you liked the
+PAPER MODELS interface, you will
+
+love POSTCARDS. This isn't a
+game, but it is entertainment. Ever
+wanted to create your own silly
+postcards? This product offers
+enough clip art, bizarre backgrounds, and catchy captions to
+keep all of your correspondents in
+stitches (or all of your enemies
+angry!). Apple, C-64, IBM ($24.95),
+Apple IIGS, Mac ($29.95). Circle
+Reader Service #2.
+Broderbund Software
+17 Paul Drive
+San Rafael, CA 94903-2101
+WINGS OF FURY: Here's your
+chance to one-up that land-based
+"Black Sheep Squadron." Power-up
+your carrier-based F6F Navy Hellcat
+and find the nearest Imperial
+
+Japanese target. This is definitely
+more of an arcade game than combat flight simulation. Apple II w/
+128K req. ($34.95). Circle Reader
+Service #3.
+California Dreams
+780 Montague Expwy., Suite 403
+San Jose, CA 95131
+VEGAS CRAPS: From the colorful
+dice, graphics and table to the
+audible click of the chips as one
+places bets on the table, this game
+is as addictive as the gambling bug
+itself. The only missing feature is
+that there is no option for multiplayer interaction as there is on a
+real table. Apple II, C-64 ($29.95),
+Atari ST ($34.95), Amiga, Apple
+
+IIGS, and IBM ($39.95). Circle
+Reader Service #4.
+VEGAS GAMBLER: Players will
+swear they are in a casino when
+they see the Video Poker screen in
+this product. This product also contains a simulated Slot Machine with
+five coin pay-off lines, a digitized
+Blackjack table, and computer
+Roulette table with authentic layout.
+Apple II, C-64 ($29.95), Atari ST
+($34.95), and Amiga, Apple IIGS,
+IBM ($39.95). Circle Reader Service
+#5.
+Cosmi
+415 N. Figueroa
+Wilmington, CA 90744
+INSIDE TRADER: This game has
+more market crashes than Wall
+Street had in October, 1987. Don't
+be put off by the "authentic stock
+trading game" billing, this one of-
+
+fers a "real-time" element that is fun
+and challenging. Correlation with
+real market conditions is only coincidental, however. IBM ($24.95).
+Circle Reader Service #6.
+SHIRLEY MULDOWNEY'S TOP
+FUEL CHALLENGE: Like many
+other racing games presently on
+the market, this one allows the
+player to set-up the car for each of
+several events and the special circumstances surrounding them. It
+also has a cockpit view suggestive
+of a three-dimensional perspective
+and a separate "track conditions"
+sequence. C-64 ($24.95). Circle
+Reader Service #7.
+Datasoft
+19808 Nordhoff Place
+Chatsworth, CA 91311
+BISMARCK - THE NORTH SEA
+CHASE: An action-strategy game
+
+that plays on several different levels.
+The strategic elements call for optimal deployment of British ships,
+the use of different screens to
+reflect various battle stations is
+reminiscent of DESTROYER (from
+Epyx), and the action screens offer
+a more colorful presentation than
+earlier games on this subject. C-64
+($29.95). Circle Reader Service #8.
+DARK LORD: No, players do not
+face Darth Vader in this game. This
+is an animated alternate world adventure. The alternate world, appropriately enough, is named Alterworld. Players do have to vanquish
+the evil Warlord, Nequam, however.
+Apple, C-64 ($19.95). Circle Reader
+Service #9.
+FORCE 7: Only one crew member
+Continued on pg. 60
+
+Scorpia's
+Regular hint
+column
+visits the
+Spanish
+Main in
+Plundered
+Hearts.
+
+A
+
+h yes, it's that time of year again,
+when desperate shoppers crowd
+department stores, snowflakes dance
+on bitter north winds, and the strains
+of "Plover the River and Frotz the
+Woods", "Dorn-beasts Roasting on
+an Open Fire", and "I'm Dreaming of
+a Dark Cavern" fill the air. So, step
+right in, settle down by the fireplace,
+and feel free to sing along. Just walk
+carefully past the Christmas Tree
+Monster in the corner (quite harmless
+on an individual basis and he does
+brighten up the place with his swishing tinsel and blinking lights) and
+don't let Fred's traditional shrunkenhead garland on the wall upset you;
+he gets terribly sentimental during
+this season. Of course, if you really
+prefer warmer climes, I have just the
+place for you: a delightful little resort
+in the Caribbean, called St. Sinistra .
+Right up front, I'll tell you that when
+I heard Infocom was putting out a
+gak romance adventure, my stomach
+did flip-flops. This is not to say that
+romance doesn't have a place, just
+that its place is not in adventure
+games. I'm very strong-minded about
+such things (there are those who
+would say prejudiced, but of course
+we aren't going to listen to them). Fortunately, Plundered Hearts turned out
+to be not so bad as I expected. The
+romantic interludes are few and far
+between (whew!), and the game overall has some neat, if not too difficult,
+puzzles. The piracy part, however, is
+just a bit of gloss, as most of the action takes place on land rather than
+on the Spanish Main.
+In a departure from more typical Infocoms, your character is definitely
+female. You get no choice here. Still,
+considering that the lady you portray
+gets to do most of the rescuing and
+
+derring-do in the game, it hardly matters (in fact, you don't have to get
+very far into the game to realize that
+the whole thing is really an inverted
+spoof of traditional romances).
+So here you are, on a ship out from
+London and bound for St. Sinistra in
+the Caribbean. The name alone
+should make you think twice, But
+your dear father is ill and only the
+sight of his beloved daughter can turn
+the tide ... or so you've been told.
+Of course, the whole thing is a dastardly plot, invented by the notorious
+Jean Lafond, governor of St. Sinistra,
+
+who wants nothing more than to get
+his hot little hands on you. Luckily,
+before the ship arrives in port, it is attacked by a pirate vessel commanded
+by the equally-notorious Falcon
+(Nicholas to his friends).
+Nicky sweeps you off to his own
+ship, allowing you the exclusive use of
+his cabin, as well as giving you a letter
+from your father. This missive tells
+you that Nicky, at least, is trustworthy
+and a gentleman, whereas Lafond
+isn't. Believe it.
+Daddy dear is actually in the
+clutches of the perfidious Lafond
+(which is French for "the bottom;"
+how appropriate), and Nicky and his
+pirate friends are off to attempt a res-
+
+cue. Well, that's what they think,
+anyway. In reality, it's you who will be
+doing most of the rescuing here.
+Nicky takes off to attend a ball given
+by the villain, thoughtfully leaving you
+behind for safety. Naturally, no
+heroine worthy of the name is going
+to accept that! So, quick as a wink,
+you slip out the door where you find a
+wardrobe that contains clothing more
+suitable for your upcoming adventures, namely a cabin boy's outfit (no
+one ever notices the reticule attached
+to your wrist; perhaps such things are
+standard gear for cabin boys).
+It doesn't take long before you realize that the stairs going up lead to a
+locked door you can't open (at least,
+not from this side) and the stairs
+going down lead to the hold (which
+also has no exits you can open from
+this side).
+This is rather a ticklish situation,
+since in the hold you notice that a
+slow fuse is burning its way towards
+the kegs of gunpowder stored inside
+a wire cage. The results of the gunpowder being set off do not bear
+thinking about.
+What to do? I suggest finding a way
+topside as soon as possible, because
+there's another nasty situation up
+there, as well. The ship's anchor has
+been cut, and the vessel is drifting
+towards the reefs (this is known as
+being between a rock and a hard
+place).
+Fortunately, stopping the ship is fairly easy. Simply explore all the top
+decks for the proper method. There
+is time for this, because that fuse
+below is a slow one and the reefs are
+the more immediate threat (Imagine,
+a shipload of experienced sailors and
+not one notices the ship is drifting ..
+.).
+Now, you can concentrate on averting the explosion. Obviously, you
+have to put out the fire somehow.
+The lock on the gate can't be picked,
+and there's no way you can climb
+over. Examine that gate carefully,
+however, and you'll see there's a
+space at the top. Perhaps, that will
+give you some ideas. Don't be afraid
+to sacrifice some old clothes for a
+good cause.
+With the ship now saved from
+treachery (obviously, Lafond must
+
+have had a spy in the crew), you have
+some time to go through it more
+thoroughly, picking up all sorts of interesting little items. A chat with
+Cooky (the ship's cook, of course)
+would not be amiss.
+Ok, time to head for shore. Too bad
+you can't swim, and no skiffs are available (I guess Nicky took the only one).
+Still, there is a means of reaching the
+island, if you're not too picky about
+your accommodations. Splash!
+In no time at all, you reach the
+lagoon near Lafond's house. Before
+trying to get inside (front door NOT
+recommended!), check the exterior
+carefully. At this point, you have pretty much two choices: go to the ball
+first and then, rescue Daddy or rescue Daddy first, and then, go to the
+ball. It doesn't matter which order you
+go for, as both activities must be completed before you can get further into
+the game.
+Since you're a well-brought-up
+young lady (which explains why you're
+running around in men's clothing
+and doing men's work ... grin), you'll
+probably want to rescue Daddy first.
+Everyone knows that libraries have
+secret passages in them (especially
+libraries in works of romantic fiction!),
+so you may want to start there.
+Lafond is a tricky rascal, though, and
+discovering the mechanism may take
+some thinking. Don't overlook anything in the room! Try to overcome
+your good manners and handle
+things freely. These are desperate
+times.
+Opening the secret passage isn't the
+only problem. Part of the way along in
+the nether regions is a crocodile. He
+is obviously not a pleasant fellow, but
+there are two ways of dealing with
+him. One is the fast and daring way
+that will have him seeing red, and the
+other is the more genteel method of
+pleasant dreams. Either one will get
+you safely past Mr. Jaws.
+Daddy won't stick around very long
+after you get him out. This is just as
+well, since you have a ball to attend.
+Of course, you know how to manage
+that, right? I mean, you did find the
+gown and you do have the invitation,
+yes? (If no, shame on you...always
+look before you throw!!)
+In the ballroom, Nicky will dance
+
+with you and tell you that so far, he
+hasn't had much luck finding the dungeon where Daddy was being held
+(not surprising, if all he's been doing
+is spending his time here). You can
+tell him about Daddy if you like.
+Your next partner will not be so
+enchanting: Lafond himself, in per-
+
+son. At last, you get to meet the foul
+dog behind all this intrigue! It's best
+not to mention that Daddy isn't down
+below any more. Just let Lafond have
+his say, which includes an invitation
+(or perhaps, an order) to meet him
+later for a private little supper in his
+private chambers.
+Shortly afterwards, there is a commotion! Nicky is being dragged off by
+the guards! Tch, how careless of him!
+Of course we know where he'll end
+up, but that will have to wait for now,
+because the butler comes by to tell
+you that Lafond is expecting you
+upstairs in his room. Your instincts
+may be against it, but you really
+should go. Don't worry, virtue will be
+triumphant (we hope).
+He sure does have a fancy little
+hideaway, doesn't he? This, of
+course, is in the great tradition of all
+egotistical and grandiose villains
+(there aren't any other kinds), and he
+talks that way, too.
+But what's this? The door slams
+open! Nicky, wielding a rapier, bursts
+into the room! Is rescue at hand? Alas
+no, the dear boy barely manages a
+few words before Lafond's minions
+bonk him on the head and drag him
+off again (in the great tradition of all
+heroes, Nicky has a hard head, which
+is probably the only thing that's kept
+him alive for so long).
+Now, it's just you and Lafond. How
+marvelous. At the moment, his back
+
+is turned, and you may wish to try a little underhanded action of your own.
+Just don't go for the too obvious.
+Hmmm, that didn't seem to work as
+expected. Ah well, such is life. Yet, all
+may not be lost. Although Lafond is
+hot to trot, I'll bet you can spice
+things up even more. You could even
+say a little pinch wouldn't hurt.
+Whew! You have managed to save
+yourself from A Fate Worse Than
+Death, but the results are only temporary and I wouldn't stick around
+here if I were you. Besides, there's
+Nicky down below, waiting for you to
+rescue him. Before you rush off,
+though, don't forget the window!
+Down in the dungeons again, you
+find more than just a crocodile in
+your way. Andy Crulley, the nasty
+traitor, is tormenting a helpless Nicky
+with a whip (the standard weapon of
+all bad guys). Oops! He just noticed
+you! Well, just don't stand there,
+defend yourself! Nicky is counting on
+you and besides, a trip down the hole
+is definitely one way. "Take that, you
+blackguard!" you say, "and that!" "Curses, foiled again!" you expect him to
+respond.
+With Andy out of the way for now,
+freeing Nicky from his chains (and, incidentally, bringing him back to the
+land of the wide-awake) is simple. Unfortunately, he takes himself far too
+seriously as a hero (or perhaps he's
+just embarrassed by his performance
+so far) and has thoughts for nothing
+else but sticking it to Lafond. Before
+you can say, "Sail ho!", Nicky rushes
+off once more.
+Being a little brighter than Nicky,
+you probably realize that in his shape,
+he couldn't take on a mosquito,
+much less one of the best swordsmen
+going. Looks like you'll just have to
+haul his ummmmm, posterior out of
+the fire again.
+You arrive just in time, too. Nicky
+and the Big L are having it out in the
+ballroom and our boy is not doing too
+well. An unkind person might even
+say he's losing. In fact, he just slipped
+up and is lying flat on the floor with
+Lafond over him, poised for the death
+stroke.
+Is this the end of our Nicky? Will the
+(Continued on page 14)
+
+(Continued from page 11)
+
+nefarious Lafond prevail? Will the
+spunky heroine, after all, suffer the
+dreaded Fate Worse Than Death?
+Gee, I sure hope not! All that will
+come to pass, however, unless you
+move and move very fast indeed. Just
+think of the quickest way to get from
+the balcony to the ballroom. That
+should do it. Geronimo! (A little
+anachronistic and certainly not ladylike, but these are desperate times).
+Ok! Maybe now you'll be able to get
+off this island in one piece. Don't bet
+on it. Daddy is forcibly restraining
+Nicky from giving Lafond what he
+deserves (the skunk is out cold on the
+floor), and urging everyone to leave.
+Everyone does (Ever notice how
+you're always being left behind?
+Makes you wonder, doesn't it?).
+So, you hop it after them and no
+sooner do you reach the cove and the
+skiff, than who should appear but
+(you guessed it!) Lafond, with Andy
+and a bunch of guards in tow. The
+Big Moment has arrived! The Final
+Showdown is about to start! Tension!
+Excitement! Romance!
+Yes, even at this penultimate moment, there is some of that romance
+popping up again. Actually, Nicky just
+wants to know whether or not you
+love him. Awww, go on, give the poor
+slob a break. He certainly needs all
+the help he can get (as if you didn't
+know that by now, or even much earlier).
+Fortified by your professed love,
+Nicky puts on a dazzling show of
+swordsmanship! (How he manages
+this miracle, given everything that has
+already happened, especially his inept
+showing only minutes earlier, will go
+unremarked).
+Nevertheless, even as Lafond is finally skewered once and for all, the scurrilous Crulley is hastily loading his pis-
+
+tol for a potshot at Our Hero. Yes,
+you're going to have to do it one
+more time (woman's work is never
+done . . .).
+At last! It's all over! Daddy is free!
+Nicky is still alive! You have avoided A
+Fate Worse Than Death! and as the
+stars twinkle in the dark Caribbean
+sky, you and Nicky set sail in the
+Helena Louise (Nicky's ship) for the
+New World, America in the 1600's
+(patriotic music swells in the background) . . . hard manual labor ... unfriendly Indians . . . a pack of squalling brats ... (pssst! Hey Cooky, what
+say we dump this twit overboard, take
+command of the ship, and go beat on
+some Spanish treasure galleons? ...).
+Well (taking a peek at the old invisible clock on the wall), I'll leave you
+now to get on with your own festivities of the season. Before you rush
+off to do that last-minute shopping,
+though, remember that if you need
+help with an adventure game, you
+can reach me in the following ways:
+
+on Delphi, visit the GameSIG (under
+the Groups and Clubs menu); on
+GEnie, stop by the Games RoundTable (type: Scorpia to reach the
+Games RT); on The Source, send
+Smail to ST1030; by US Mail (and I
+say this every time, and still there are
+people who don't believe me: if you
+live in the United States, you MUST
+enclose a self-addressed, stamped envelope to get a reply!): Scorpia, PO
+Box 338, Gracie Station, New York,
+NY 10028.
+Until next time, happy adventuring!
+Copyright 1987 by Scorpia, all rights
+reserved.
+Note: "Dornbeasts Roasting on An
+Open Fire", "Plover the River and
+Frotz the Woods", and "I'm Dreaming
+of A Dark Cavern" are copyright 1987
+by Infocom, Inc, and may be found,
+along with other seasonal favorites, in
+Beyond Zork, which, just by the
+merest coincidence, is reviewed elsewhere in this issue.
+
+T he
+
+crack of shoulder pads,
+grunts from linemen, shouted
+audibles from the quarterback, verbal
+obscenities from the sidelines, brassy
+blare from the marching bands, and
+thunderous roar of the crowd assault
+our eardrums. We are visually stimulated by the bright rainbow of uniform colors,
+the psychedelic patterns of the card stunts,
+and the resplendent glitter of the cheerleaders'
+pom-poms. It is, despite
+the cynical efforts of
+both NFL owners and
+players, the season of football. It
+is also the season when disgruntled computer owners tire
+of second-guessing their college alma mater's coaches or
+play selection of the alleged
+professional coaches. It is time
+to put one's skills and strategy
+to the test on the electronic
+gridiron.
+Computerized football competition seems to fall into two basic
+categories: action/strategy and
+statistics-based strategy. Both
+categories have much to offer,
+but the player will have to make
+the ultimate choice as to which
+program offers the most for him.
+
+dously significant when your onscreen identity is overthrown or underthrown because he ran an incorrect or imprecise pattern (the
+program is very unforgiving on this).
+The graphics present large, smoothflowing, colorful caricatures of foot-
+
+I
+
+Action/Strategy
+
+GFL
+
+Championship Football from Activision's
+
+Gamestar division is one of the
+most revolutionary approaches
+to the action/strategy game. No
+other game can offer the fan
+with no organized football background such an empathetic perspective on the game. The designers refer
+to this perspective as an "inside the
+helmet view" and that is exactly what
+the player receives. The computer
+screen shows what a quarterback,
+running back, or wide receiver would
+see from his helmet. Tired cliches like
+"finding a hole" which trip easily off
+an announcer's tongue become
+meaningful when your offensive line
+fails to open a hole and the opposing
+defense buries you. Matters such as
+"running a pattern" become tremen-
+
+the primary key to success. One can
+select the proper play or defense
+throughout the game and still lose because of poor execution.
+If this was all the game had to offer,
+it would be a popular product, but the
+game offers league play, as well.
+Players can draft any
+one of twenty-eight
+teams in four different
+divisions. Teams are
+ranked in eight different skill categories
+(e.g. coach, offensive
+line, quarterback, etc.),
+so the draft is functional rather than aesthetic.
+That recaps the plus yardage,
+I
+the minus yardage can be
+stated more succinctly. The arcade aspects of the game are
+difficult. Execution must be perfect (or near-perfect) by the
+human player. This is fair when
+two human opponents are playing, but makes for a near-impossible challenge when one plays
+the computer. Further, the "inside the helmet view" may be a
+unique perspective, but the twodimensional computer screen
+makes it impossible for the
+player to have one important
+perspective that the on-field
+player has, peripheral vision.
+This increases the difficulty level
+somewhat. Finally, since the
+graphics portray the "inside the
+helmet view" from the offensive
+perspective, the game offers an
+entirely different (and less
+legitimate) feel on defense. Playing defense is extremely disorienting from this perspective.
+Perhaps, a split-screen perspective would help.
+Whatever one's feelings about the
+game, when the plus yardage and
+minus yardage is added together, this
+action/strategy game is a watershed
+design. It is available for Apple, Atari
+ST, C-64, and IBM. Circle Reader Service #50.
+
+ball players within the player's simulated field of vision and this adds to
+the on-the-field illusion of the game.
+Even if the game simply consisted of
+this perspective, it would be a significant product, but the game has
+strategic depth to it, as well. Both the
+offensive and defensive teams have
+lengthy playlists to select from and
+the program allows thirty seconds between each play for these decisions
+to be made simultaneously by joystick
+input. Unlike most statistics-based
+games, proper play selection is not
+
+4 th
+
+& Inches from Accolade is a
+product with similar appeal, but
+an entirely different feel. In this new
+release, Bob Whitehead (designer of
+Hardball) has provided a "game film"
+
+type screen perspective which allows
+the player to observe both teams from
+the sideline/line of scrimmage frame
+of reference. These graphics are
+colorful caricatures of football players
+and the animation is fluid. The arcade
+action seems fasterpaced than GFL Championship Football because of the wider field
+of view which the
+screen shows and the
+arcade play itself is
+more forgiving than the
+other game. Like the
+game discussed above,
+4th and Inches requires
+the player to control
+each individual ball
+handler, but where the
+former is more realistic
+in terms of execution,
+the latter is easier to
+master on the arcade
+level.
+
+G
+
+ridiron from Bethesda
+Softworks is an action/strategy
+football game which allows for an actual NFL DataDisc® to provide a
+statistics base of authentic players.
+Nevertheless, this is a game where
+
+The new release is
+strategically oriented, as well. The offensive playbook offers eleven formations, ten rushing plays, four kicking
+plays, and fourteen passing plays.
+The defensive playbook offers five
+basic formations and seven defensive
+plays. As in the game discussed
+above, however, play selection must
+be followed-up with careful execution
+in order to be successful.
+The minus yardage involves the lack
+of league play. The game is not setup to accommodate different styles o
+play and continuity of league results.
+Also, the game loses some of its corn
+plexity due to the fact that one is essentially playing the same team every
+game. In spite of the variety in the
+playbook, this essentially reduces the
+over-all effect of the game to a "beer
+and pretzels" effort. Of course, some
+readers may consider that to be plus
+yardage. The other minor problem to
+be considered is that there is a disorienting screen shift on kicking and
+passing plays which slows up the flow,
+of play considerably. In spite of these
+two criticisms, this game is a welcome addition to the genre. It is avail
+able for C-64 only. Circle Reader Service #51.
+
+both play selection and mouse/joystick manipulation are vital to success.
+Plays are, as in the games described
+above, executed in "real time" with
+the player using his mouse to control
+the ball carrier or active defensive
+player. Unlike the games discussed
+earlier, however, the football players
+are represented by colored dots akin
+to the "X and 0" diagrams one sees
+on a coach's chalkboard rather than
+animated figures. On offense, the
+
+mouse controls the ball carrier until
+he either pitches, hands off, or passes. Receivers are identified by a
+stripe across their dot to indicate
+eligibility. The basic playbook contains twenty basic offensive and twen, ty basic defensive plays,
+but the game system allows users to design
+their own plays and add
+to the playbook. In fact,
+players can load up to
+28 custom playbooks
+on a data disk, making
+an extremely viable
+league possibility.
+This game has
+tremendous constructability in that it contains provision for a
+league draft and customizing teams. More
+than the other games
+listed in this category,
+this game is statistics
+critical. Poor receivers
+make for poor probability in terms of
+pass plays, etc. Pure statistics-based
+players will not like it, however, because a poor arcade player can undermine good statistics in a hurry.
+Yet, the game is worthy of note because it takes speed and strength into
+account in determining the results of
+plays where the previous games do
+not. Making contact with the ball carrier is not sufficient to make a tackle
+in Gridiron. The player's strength may
+cause him to drag the would-be tackler along for several yards. This statistical weight isn't often observed in
+computer football games.
+Although this game is only available
+for the Amiga and Atari ST, the
+graphics are not as spectacular as
+one would expect for these machines.
+These machines do add one interesting wrinkle, however. The manual
+suggests hooking up one's videocassette recorder to the video output of
+the Amiga and connecting this with
+the video input of the VCR (as well as
+the audio out channels to the audio
+in of the VCR). By doing this, one can
+create one's own potential instant
+replay of any portion of the game.
+Circle Reader Service #52.
+
+F
+
+ootball from subLogic has been
+around for a while and deserves
+some mention. Even though the action sequences are easier to control
+than in the other games listed in this
+section, the graphics are mediocre
+and, at times, confusing. The most
+minus yardage comes from the fact
+that it is difficult to tell one's team
+members from those of the opposing
+team. This problem really complicates
+the idea of broken field running. Further information can be found in
+CGW #30, pages 20-21, and CGW
+#32, page 12. It is available for the C64 and IBM. Circle Reader Service
+#53.
+
+play announcer if observing a computer vs. computer game.
+The flow of play seems realistic and
+the play outcomes are satisfying.
+Some Amiga owners will not like the
+fact that play selections must be
+entered at the keyboard by one coach
+at a time, but it is the keyboard input
+which allows one to customize plays
+
+Strategy Games
+
+H ead
+
+Coach from MicroSearch
+is an abstract stat-oriented
+strategy game. It is abstract in the
+sense that the players and team
+names are fictional. The NFL requires
+royalty payments for use of real team
+and player names used in games.
+Thus some football games, including
+Head Coach avoid this expense by
+using "typical" stats without associating "real" player names to said stats.
+Head Coach has a lot of good
+things going for it. For example, it has
+the most stimulating sound effects of
+and football game I'm aware of.
+Second, even though the fictional
+teams which come on the disk are
+not based on either college or NFL
+teams, there are several distinctive
+styles and playbooks listed and the
+constructability of this program would
+make it possible to customize one's
+favorite college or pro teams. Third,
+the standard playbook for each team
+is relatively thorough in that coaches
+can direct which running back is supposed to run through which hole
+without having to customize a play. If
+the coach wants to improvise on the
+fly, the program can read a specially
+designed play. If the coach wishes to
+customize a playbook, the program
+can handle that, too. Fourth, players
+can customize uniform colors to
+reflect his favorite team's colors. Fifth,
+each player on the field is identified
+with a number. One could use this
+program to practice being a play-by-
+
+on the fly. After the offensive and
+defensive plays have been input, a
+graphics routine portrays an aerial
+view of the numbered players going
+through their paces. At times, the
+graphics routine can be deceptive, as
+in the case of a scrambling quarterback who seems totally buried, yet escapes to gain a few yards. However,
+the results are usually visually sharp
+and clear cut.
+Minus yardage for this program
+must focus on the keyboard interface
+which, while opening up creative possibilities on the one hand, slows down
+the game on the other. Minus yardage must also be applied for the lack
+of easily accessible files on real NFL
+teams. Circle Reader Service #54.
+
+M
+
+ac Pro Football from Avalon
+Hill is another machine specific
+product which is worthy of note. [Ed:
+The description of this game was
+provided by William H. Harrington.]
+It is a meticulous simulation of
+modern pro football with a host of features. It offers three coaching skill
+levels (in descending order, Cham-
+
+pionship, Playoff, and Contender),
+and the computer opponent not only
+remembers your plays, but is even
+capable of changing the game plan
+in the second half (unlike some NFL
+coaches).
+MPF teams may be selected from
+either the historical matchups from
+Super Bowls I to XX or by mixing and
+matching teams from eras as different as Lombardi's Packers and
+Ditka's Bears. There is even a "Set
+Game Option" to pick up the action
+at any time in any game. Now, it is
+possible to find out if the Minnesota
+Vikings could really have stopped the
+Dallas Cowboys in the final two
+minutes of the '75 NFC Playoffs, held
+onto the lead, and gone on to the
+Super Bowl! There are even weather
+and domed stadium options. During
+game play, continuous offensive rushing and passing statistics are available
+via screen or printer. At the conclusion of the game, complete team
+statistics are available. This detailed
+display should satisfy the most
+demanding sports buff.
+The game has its own special
+graphic pizzazz in addition to its
+strategic challenges. The on-screen
+graphics are superb. The top left half
+of the screen depicts a football field
+in profile. Beneath this display is a
+window that provides a "blimp's eye"
+view of the field. The offense and
+defense are depicted in traditional O's
+and X's with one big difference. They
+are animated! Once the play begins,
+you watch as the players execute your
+play (watch out for that quarterback
+sack!). To the right of the play action
+window, another window alternates
+between displaying an animated
+referee who calls penalties by means
+of official hand signals and a list of
+current team statistics. There is also a
+scoreboard and a few other surprises.
+A full range of play options is available from wide open running games
+featuring Draws, Dives, Traps, Slants,
+Sweeps, and Quarterback Sneaks to
+the aerial circus featuring classic
+Drop Back, Play Action, Roll Out and
+Shotgun passes.
+Minus yardage must be tabulated for
+the only thing missing, sound effects.
+Continued on page 42
+
+IL
+
+ord British was
+there with a
+harem girl at his
+side (at least, during
+the masquerade
+ball) and a multitude
+of working Ultima V
+prototypes in his
+possession. Steve
+Jackson was there,
+brandishing his
+G.U.R.P.S. Horseclans rules and smiling about the success of Autoduel
+and Ogre. Gary
+Gygax, co-creator of
+Dungeons and
+Dragons, unleashed
+his Cyborg Commando game system. Robert Asprin
+and Lynn Abbey
+had left the
+"Sanctuary" of their
+Ann Arbor hideaway
+for a "myth-tical"
+quest into fandom. Michael Moorcock
+was presented with an astonishingly
+life-like replica of "Stormbringer"
+during the costume competition. Bill
+Leslie and Tom Carbone of Omnitrend, publishers of Breach, were
+there in this strange new Universe,
+rubbing shoulders with the amazingly
+un-Paranoid designer, Greg Costikyan. Doug Wood offered his gentle
+presence in this southern Phantasie.
+How could the CGW staff resist?
+Dragon Con '87 was the perfect place
+to present the 1987 Computer
+Gaming World Games of the Year
+Awards. The date was October 2-4,
+1987. The place was Atlanta, Georgia. There, under the shadow of Georgia Tech, we joined with "Trekkies"
+and "techies" for a splendid weekend
+of science fiction and science fact.
+CGW Publisher Russell Sipe chaired a
+panel on "Developing Plot in Computer Games." Richard Garriott, better
+known as Lord British and as the
+designer of the Ultima series, served
+on the panel along with Bill Leslie
+(designer of the Universe series and
+Breach) and Doug Wood (designer of
+the Phantasie series) Sipe began the
+discussion by stating that there are
+three basic elements in computer
+
+role-playing games (or in any story,
+for that matter). These are: 1) environment—the world, universe, and/or culture in which the adventure takes
+place; 2) tension—the challenges,
+combat, and/or puzzles which must
+be resolved; and 3) plot how the
+story actually develops and what the
+story-line is. The designers were
+asked to state the order in which they
+placed these elements into their
+games.
+Lord British responded first. The cutting-edge computer role playing
+game (CRPG) designer admitted that
+he develops the environment first, follows with the tension element, and allows the story-line to evolve close to
+the end. He reiterated the fact that
+each new Ultima is built upon a new
+technology and insisted that this is
+proper because the computer media
+may determine the appropriateness
+of plot.
+We had been under the impression
+that Lord British was something of an
+anomaly in this approach, but Doug
+Wood concurred with this method. In
+the Phantasie series, Doug suggested
+that he had a basic idea of plot elements before he began the project.
+However, the refined plot was the last
+ingredient to go into the product. He
+
+insisted that one
+had to know what
+one needed to happen and the tools
+one had to work
+with (i.e. what one
+can program)
+before he develop
+the plot around
+these limitations.
+Bill Leslie, who is
+hard at work on
+Universe III, told the
+audience that he
+was more comfortable when he starts
+with a story premise,
+then develops the
+programming necessary to present the
+story. He noted,
+however, that as he
+constructed the
+game, it tended to
+influence the final
+product. Therefore,
+the capstone of the
+plot is the last portion of the product
+to fit into place.
+Lord British summarized the answers
+by suggesting that the person who
+develops the plot in detail prior to
+programming has a logistics problem.
+Simply put, "... you don't know how
+much code you're going to use for a
+very small feature in the game."
+Several members of the audience
+wanted to know if the extended
+memory capacity of the 16-bit
+machines would help break this alleged logistics jam. The panel
+responded that 16-bit technology
+isn't going to help because of the
+memory-intensive graphics. The
+audience protested that there might
+be too much use of graphics. One
+participant called the proliferation of
+16-bit "chrome" a "creeping
+munchkinism." Doug Wood felt that
+attitude was going too far and noted,
+that "a game must capture your attention. Graphics and sound accomplish
+that." The audience continued to
+speculate about the need for more
+sophisticated artificial intelligence in
+adventure games. The discussion was
+abbreviated by Lord British's admonition that "Al is not limited by the
+machine, but by the programmer."
+
+Next, Doug Wood expanded on his
+development process by noting that
+he does the puzzles before the plot
+and allows the puzzles to help dictate
+the plot. "If you've done everything
+right," the modest designer stated, "it
+is a straightforward process.
+When the panel was asked how much
+game sequels should be tied to
+former plot lines. Doug Wood
+answered, "I like to reward
+people who played earlier
+games, particularly those who
+won." All three panelists
+agreed that they had made
+marketing decisions not to
+depend too much on their previous releases. In both Ultima and
+Phantasie, though, it was noted that
+there were certain characters who carried over into the later products.
+Sipe asked each panelist to quantify (using percentages) how important they perceive plot to be
+in a CRPG. See table for their
+answers.
+Doug Wood followed up on his
+answer by stating that he
+believes that Phantasie's
+strongpoint is plot. Bill Leslie emphasized that his work has
+moved from trading and incidental combat (the tension emphasis) to more of a character
+and plot emphasis. This means
+that character development in
+the Universe series is taking a
+turn away from attributes and
+toward decision-making, particularly ethical questions within the
+gray areas of life.
+CGW's chief executive also
+moderated a panel on "Programming
+Board and FRP Games." Sipe initiated the discussion with the question, "Why convert Boardgames to
+Computer Games?" Panelist Steve
+Jackson answered the question nonverbally by pulling a wad of currency
+out of his wallet and waving it in the
+air. That obvious reality noted, other
+reasons were examined. Sipe suggested ability to add a computer opponent can play a big role. Lord
+British mentioned the capacity for
+adapting maps and handling bookkeeping. John Miles, one of the
+bright, young talents at Origin Systems, insisted that the computer's
+
+capability for number crunching
+made it ideal for extending the possibilities of combat calculations. Steve
+Jackson, designer of The Fantasy
+Trip, Car Wars, Illuminati, and
+G.U.R.P.S., replaced the Alexander
+Hamiltons in his wallet and suggested
+that the computer's ability to look-up
+tables faster than the most proficient
+
+game master made this a worthwhile
+effort. Bill Leslie exhorted his fellow
+designers on the point that "Com-
+
+puter games should enhance the
+design, not just copy it."
+Having established the ground rules,
+several of the panelists attempted to
+clarify the difference between a "literal
+translation" of a boardgame (a la
+Ogre) and a "free translation" of a
+game (a la Autoduel). Jackson was extremely complimentary of Origin
+Systems' addition of a "real-time
+editor" to Autoduel, for example. Jackson also observed, with regard to
+Ogre, "I believe this is specious, but I
+continually get the comment that the
+Ogre is cheating. 'You cannot get
+that many hits on a D6.' What's really
+happening is that the computer is optimizing its attacks." Lord British concurred with this observation by
+remarking, "Remember that the com-
+
+puter is taking the mathematically accurate option in movement, attacks,
+etc."
+When pressed on specifics, Lord
+British referred to the fact that the
+ogre in Ogre randomizes three major
+offensive stances which set the
+strategic assumptions for that game.
+For example, one ogre hates howitzers. Therefore, its prime targets are howitzers. Bill Leslie
+stated that Omnitrend took a
+different response to artificial
+intelligence in Breach in that
+the strategies are based on personal decisions, rather than
+mathematical decisions.
+Hence, the artificial intelligence bears
+a simulated personality.
+The value of "licenses" was discussed
+with Sipe noting that Strategic
+Simulations, Inc. had recently
+picked up the prestigious rights
+to do computerized Advanced
+Dungeons and Dragons. Lord
+British observed that the real
+value of a license is simply name
+recognition. The main effect on
+the game comes in the area of
+combat system and nomenclature. Bill Leslie agreed, noting
+that "Designers should not
+shoehorn a design into the computer, but concentrate on what
+computers do best - draw maps,
+roll attributes, etc."
+In closing, Sipe allowed the
+designers from Origin Systems
+and Jackson to talk about Undead, Steve's RPG which was originally designed to be a computer game.
+Although it is already published as an
+RPG, Jackson insists that it has too
+much bookkeeping to make it a real
+success as a pen and paper game. As
+a computer game, though, they think
+it should be fast-moving game. The
+seminar was dismissed on this positive note.
+While all this profound discussion
+about computer game design was
+being promulgated, more than seven
+hundred garners were crowding the
+computer game section of the convention to actually play the games we
+were talking about. More than 100
+people played in the Ultima V tournament, while an Origin Systems'
+programmer observed at all times
+
+and took note of potential bugs to improve the final product. Forty different computer game tournaments
+were originally scheduled, but the
+computer games committee believe
+that 6-10 would be sufficient. Tevex
+helped the committee get cooperation from software manufacturers in
+providing prizes and a local computer
+dealer, Computer Works, provided
+almost 40 Laser 128s for the computer room (the convention only
+provided a table in the dealer room,
+space in the program, and a chance
+to sell computers at the convention).
+Computer Software Service
+provided the Atari STs for the Breach
+tournament. Robert Costner, chairman of the committee and president
+of one of the sponsoring user groups,
+states that this group will be hosting
+Origins in 1990 and doing a similar
+competition at that time. We agree
+with the representative from GAMA
+(The Game Manufacturers Associa-
+
+tion) who was reported to have said,
+"This is the best computer gaming
+room I've seen anywhere."
+The final day of the convention was
+the moment we had been waiting for,
+The Computer Gaming World
+Games of the Year Awards. The
+program began with a video-tape
+showing the history of the magazine
+and a light-hearted view of the office
+at Golden Empire Publications
+where this glorious publication comes
+to life. Then, the nominees and
+awards were presented.
+"For Adventure Game of the Year:
+Electronic Arts for The Bard's Tale
+//—Michael Cranford and Brian Fargo
+with Interplay Productions, designers;
+Electronic Arts for Starflight—Greg
+Johnson, Rod McConnell, and T. C.
+Lee, designers;
+Infocom for Leather Goddesses of
+Phobos—Steve Meretzky, designer;
+Infocom for Trinity—Brian Moriarty,
+designer; and
+
+New World Computing for Might
+and Magic—Jon Van Canegham,
+designer.
+And the winner of CGW's Adventure
+Game of the Year is:
+Electronic Arts for Starflight—Greg
+Johnson, Rod McConnell, and T. C.
+Lee, designers." [Ed: Where most
+other space games do one thing well
+(i.e. offer a combat motif, arcade sequence, or flight simulator),
+Starflight gives a holistic experience
+and a great story-line to boot.]
+Next, CGW's coveted Action Game
+of the Year award was presented.
+"For Action Game of the Year:
+Accolade for Hardball—Bob
+Whitehead, designer
+Electronic Arts for Marble
+Madness—Atari Games Corporation,
+designer (Larry Reed, Amiga version);
+Electronic Arts for Earl Weauer
+Baseball —Eddie Dombrower and
+Teri Mason, designers (strategy by
+(Continued on page 62)
+
+For Your Eyes Only (A Brief Dossier)
+
+Systems Analysis
+
+P
+
+ubtitled "America's Newest Top Secret Aircraft," Stealth
+ossibly, the most serious criticism that can be aimed at
+Fighter purports to put the user in the cockpit of the FStealth Fighter is that the product is a synthesis and not
+19 for missions in various world "hot spots". The word "pura radical innovation. While Gunship was an innovation in
+port" is utilized because no one has
+computer game design, Stealth
+published the actual flight specifics
+Fighter is an amalgam of design
+of the Stealth-type aircraft. Those in
+parameters seen previously in F-15
+the know are not discussing the matStrike Eagle and Gunship. In discuster candidly and in conversations
+sions with local retailers, this
+with Pentagon or defense-type inreviewer has been told that Stealth
+dividuals, the topic is quickly
+Fighter is not dominating sales as is
+changed. Thus, while the flight
+usual for Microprose releases. The
+specifics appear reasonable to the
+usual customer comment is, " ...
+layman, there is no way of telling
+another flight simulator??" It is a
+how accurate the simulation is.
+shame if this is true on a larger
+Once again, Microprose has
+scale, because Stealth Fighter is an
+done its outstanding packaging and
+interesting release. As a "ground
+documentation effort. The instrucpounder", this reviewer has little in
+tion manual is clear, concise and excommon with those who sleep on
+tensive. A careful reading of the
+clean sheets at night (e.g. the "wing
+documentation will tell the user all
+wipers"), but nevertheless, the effort
+he ever wanted to know about the
+that went into Stealth Fighter is apStealth aircraft and its utilization.
+parent.
+Aside from technical data (which
+The most radical concept involved
+most users will glance over quickly),
+in Stealth Fighter is that one's
+there are detailed characteristics of
+fighter aircraft is not expected to be
+the various weapons systems (sevena hunter-killer of the skies. Instead,
+teen different ones, plus extra fuel
+the program rewards careful
+tanks and reconnaissance
+avoidance of the enemy until the
+cameras), guidance on fighter tacprimary target is destroyed. Furthertics, a careful walkthrough of a
+more, with the flight dynamics of the
+sample mission, and regional briefaircraft being sacrificed in order to
+ings for the scenarios.
+minimize its electro-magnetic
+In addition, separate maps are ofvisibility, this is a fighter aircraft
+fered for the various scenarios and a
+whose role in life is to avoid deteckeyboard overlay is provided. With
+tion, accomplish a mission and exit
+over thirty separate controls (e.g. InASAP. Detailed dogfighting is an inertial Navigation System,
+vitation to an early demise.
+Strategic/Tactical Map, Target TrackDesigner Arnold Hendrick has
+ing Mode, Threat Display, Weapons
+TITLE:
+made a cogent observation when he
+Stealth Fighter
+SYSTEM:
+C-64/128
+Bays 1-4, Radar Jammer, Infrared
+noted that the F-19 is a "submarine
+PRICE:
+$39.95
+DESIGNER:
+Jim Synoski and Arnold Hendrick
+Jammer, Decoys, etc.), the overlay is
+of the skies". Submarine tactics, the
+PUBLISHER:
+MicroProse Software
+a deeply appreciated user aid and
+careful stalking to secure an unobHunt Valley, MD
+makes the program playable.
+served firing position, is the crux of
+stealth fighter. Unlike submarine warLittle criticism can be rendered against the
+fare, however, once contact is made, the user will find it
+documentation and it is hoped that other desigmuch more difficult to break off and lose oneself in the "Unners might take a page from Microprose's example. As
+friendly Skies." If one survives, one has the potential for
+Microprose has noted, one should attempt to succeed in
+rapid advancement. In fact, beginning as a second
+mission accomplishment and not "fly the algorithms." While
+lieutenant, one has the potential to make brigadier general
+it is difficult to determine what differentiates a Medal of
+and retire after 99 missions. However, given the difficulty of
+Honor mission from a Silver Star mission, this is realistic. An
+the program, it is the rare user who will be retiring for a desk
+individual can never be sure as to how truly successful the
+job as opposed to a final resting place.
+mission was, but overall, mission accomplishment and a
+Of course, Microprose has utilized an aircraft recognition
+safe return qualify as a success, no matter what the tangible
+test in order to access the program other than in a training
+reward.
+mode. Various military aircraft are displayed in the manual
+
+S
+
+and, while the identification is very difficult for the average
+"grunt," it does become more facile with experience and is a
+valid learning tool.
+The scenarios offered are: Libya Training, Libya, Persian
+Gulf, North Cape (of Scandinavia) and Central Europe. One
+may fly in Cold War, Limited War or Conventional War. A
+naval officer objected to the Libyan and Persian Gulf
+scenarios because he maintained that the Stealth technology is simply too valuable to risk in
+that area of the world. Additionally,
+the criticism was raised that the
+costs of Stealth development
+prohibit its employment in all except conventional wars. While this
+may be true, the addition of the
+Middle Eastern Scenarios do offer
+a timeliness that few products can
+offer. Once one has read about the
+latest carrier strike in the Gulf, one
+may go home and try it oneself,
+but this time utilizing the Stealth
+fighter!
+Finally, one may choose either
+ground strike or air missions. The
+problem facing an air mission is
+that using one's air radar quickly
+paints one's plane into a sitting
+duck. A defense expert has noted that Stealth aircraft will
+not be employed alone against air targets. While the Stealth
+may go in by itself, once it has accomplished the mission, it
+would be extremely rare to escape. Thus, supporting escort
+aircraft would most likely be vectored in on another approach to
+serve both as a diversion and as a
+returning escort.
+
+Tactical Employment
+
+W
+
+hile designer Arnold
+Hendrick insists that the F-19
+can, within the parameters of the
+program, defeat opposing fighter
+aircraft, he notes that the veteran enemy pilots are "really
+good." This is an understatement. Rarely will one be able to
+succeed against a veteran opponent.
+The wily veterans will never pass in front of one's aircraft,
+and will utilize an approach and break off circa 120 degrees
+to the rear. Given that fuel is often a vital concern, dogfighting becomes a lesson in misdirected attacks because the
+fuel consumed therein is actually that edge required to safely return home.
+While the Microprose staff feels that proper air combat
+techniques will yield victory, this reviewer's attempts to scissor, speed brake and otherwise obtain a shot at the veterans
+was doomed to failure. Then again, this reviewer admits to
+being a relative neophyte to flight combat maneuvers.
+The cannon utilizes a historical gunsight rather than the
+normal predicting one, i.e. the crosshairs show where the
+
+cannon shells would have hit, assuming one fired approximately a second ago. It does take some time getting
+used to, but it becomes effective against the green and
+average opponents. However, even such opponents are better subjects of missile attacks than cannon. Simply put,
+technology has moved beyond the aimed gun and smart
+missiles can overwhelm even a good pilot.
+In terms of ground attacks, one will also learn that "smart"
+bombs are the rage. The "free fall"
+bomb requires an expert pilot, a
+willingness to fly into harm's way
+for a lethal period, and a bit of luck.
+As Arnold Hendrick admits, most
+pilots will prefer the "smart" bombs
+and only the expert looking for a
+real challenge will rise to the bait of
+free fall weaponry with its inaccuracy and limited range (often
+one-half mile or less!).
+
+The Return Trip
+
+A
+
+criticism rendered against F15 Strike Eagle was that landings were not offered. That has
+been more than corrected in
+Stealth Fighter. Landing options are runway and carrierbased, with difficulty ranging from none (one bounces off
+the land) to easy to realistic. Even the realistic mode is slightly easier than historical, but it is VERY difficult.
+This reviewer has finally managed
+a ratio of one safe landing in every
+five missions. There is so much that
+can go wrong that Murphy's Law
+seems very apropos. Even the designer admits that when he is away
+from the game for more than a day
+or two, he will choose the easy landing mode. Thus, be warned; realistic
+landings are hazardous to one's
+health!
+This also points out Stealth
+Fighter's biggest flaw. While one can normally access targets and receive distance readouts, this is not applicable to
+friendly airfields. Arnold Hendrick notes that this was initially
+in the program, but space considerations demanded its
+deletion (it was replaced by the ground bombing routines).
+Learning to recognize a friendly airfield is definitely not an
+easy task, but familiarity will make the approach easier.
+Rather than directly approaching along the INS route, this
+reviewer recommends a ninety degree approach to roughly
+two INS squares from the airfield. At this point, a slow banking turn (c. 26-45 degrees) should bring one into a proper
+landing pattern. Remember that the field is wider and
+longer than necessary. One may, therefore, land somewhat
+off the center pattern.
+Strangely enough, this reviewer found the carrier landings
+(Continued on page 30)
+
+(Continued from page 27)
+easier than the runway ones. Since the carrier is always the
+middle of three ships and there are few other terrain characteristics, the approach can be made with greater confidence
+and, when the landing is finally made, the carrier arresting
+hooks will quickly bring one's craft to a halt. Given the difficulty of landing, this reviewer strongly urges the acquisition of additional fuel tanks even at the expense of a
+weapons system.
+
+Debriefing
+After a mission, one is suitably rewarded by decoration
+and occasionally promotion. Destruction in the air will
+reveal the flags lowered to half mast, and one's personal
+tombstone, suitably garlanded by a wreath. Capture by the
+enemy gives rise to the Tass headline noting that "Imperialist Spy (Your Name Here) will be punished for aggression against the peace-loving peoples of the regime but that
+a trade has been arranged for a falsely accused Soviet
+diplomat." Returning alive, but with minimal success, will
+leave one drinking alone in the Officer's Club; a successful
+mission will have one being congratulated by two peers;
+and an extremely successful mission will show the bar
+crowded with up to nine fellow pilots, all having a "good
+time" with suitable comments (e.g. "Hey, who used my scarf
+for a bar rag?", "Let's practice carrier landings on the bar",
+"Way to go"). This is a truly entertaining ending, and one
+destined to please most garners. Since success is so hard,
+this reviewer feels that the scene will not quickly exhaust its
+entertainment potential.
+
+Conclusions
+Stealth Fighter effectively demonstrates that the 8-bit
+machine capabilities are being stretched to the limit.
+The friendly airfield identification and the fact that terrain
+bordering sea areas might be blue or green is attributed by
+the design staff to memory limitations. The forthcoming 16bit version will correct these shortcomings, but the majority
+of garners will have to suffer from an uncorrectable problem
+that Microprose acknowledges, but cannot see a solution to.
+Timely? It couldn't be more so. Realistic? Yes, it seems so
+to this writer, but of course I can't document it. Challenging? Definitely!
+
+S
+
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Beyond Zork
+Many
+$49.95
+Brian Moriarty
+Infocom
+Cambridge, MA
+
+Tension
+
+vibrates through the air as
+though it was an almost physical
+force. The Guildmaster of Enchanters
+approaches the end of his quest and
+that ending will also bring about the
+ending of all magic. It is fore-ordained that magic must
+make way for science, but
+there is yet hope. If one
+stalwart soul can be
+found, one who can brave
+unimaginable dangers
+and obtain the fabled
+Coconut of Quendor, then
+all magical knowledge will
+not be lost. Some part of it by Scorpia
+can be saved for a future
+time: a time beyond magic
+... beyond science ...
+beyond Zork
+
+of the pre-created characters already
+on disk or have one randomly
+generated for you.
+These are only starting values,
+though, because your attributes can
+go up (or, in some cases, down),
+depending on your actions during
+play and the results of using certain
+magical items. For instance, your endurance increases each time you
+reach a new level of experience; your
+
+They Did The
+Monster Bash
+
+A Tough Coconut
+To Crack
+
+O
+
+A
+
+s you can probably
+tell from the above,
+the events in Beyond Zork
+are concurrent with those
+in Spellbreaker. While the
+Guildmaster heads for his
+final showdown that will
+remove magic from the
+world, you are engaged in
+a desperate attempt to
+find the Coconut of Quendor, within which the remnants of magical lore can be
+preserved for an as-yet-undreamed-of
+posterity. It will be a very hard task.
+The first order of business is to read
+the manual, because there are a lot of
+new features in this game, not the
+least of which is creating an individual
+character, much along the lines of a
+typical computer RPG, such as an Ultima or a Phantasie.
+Characters come with six attributes:
+Strength, Endurance, Dexterity, Intelligence, Compassion, and Luck. All
+are initially set to a value of 1, and
+you have 60 points to distribute
+among them, however you like. If you
+prefer, however, you can choose one
+
+siderable drawback. You can also
+start off with a low score in Compassion; this won't be needed until the
+endgame portion is reached, by
+which time you will have built it up to
+something respectable.
+Endurance is by far the most important attribute. It governs how much
+punishment you can take before
+dying. Some of those monsters out
+there can hit (or otherwise damage
+you) pretty hard. Fortunately, you can always
+back out of an encounter,
+go to a safe place, and
+rest until your Endurance
+is back to normal. This is
+automatic; you don't need
+anything special with
+which to heal yourself, although there are items in
+the game that can speed
+up the process.
+
+compassion rises if you help certain
+creatures during the game; and your
+strength can be increased by magical
+potions, etc.
+How these attributes interact with
+the game situations is never revealed
+to you; you can't really tell, for instance, whether the monster missed
+you because you had good dexterity
+or good luck. And even that could be
+changing from moment to moment.
+Since Intelligence is the easiest attribute to increase and likely to be the
+first one to go up, you can start with a
+fairly low score here. Try not to set it
+too low, however, or you won't be
+able to read the magic scrolls, a con-
+
+ne thing to keep in
+mind as you play
+Beyond Zork is that the
+monsters are not merely
+monsters. Many of them
+are, in a way, miniature
+puzzles to solve or
+obstacles to be overcome
+by methods other than
+sheer brute force of fighting. True, the monsters
+are all of the "mindless"
+variety. They simply fight
+on, no matter how gravely
+injured, until defeated. Defeated, by
+the way, does not mean death. When
+overcome, they usually crawl off
+somewhere, never to be seen again,
+and this can be frustrating.
+That is why reading the little booklet
+that comes with the game, "The Lore
+and Legends of Quendor", is crucial
+to success. It isn't just window dressing; it contains a lot of valuable information about monsters and other
+things you will come across in the
+game. Keep it with you and consult it
+often, especially when confronted by
+a monster (not all monsters are in the
+booklet, however, and not all creatures in the booklet are monsters).
+
+Often, careful reading will reveal to
+you a way of eliminating the monster
+without having to go the
+hack-and-slash routine.
+When running from monsters (a frequent occurrence), keep in mind that
+each patrols only a certain area, and
+will go no further. For example, the
+cruel puppet stays in the forest and
+won't go after you once you're out of
+it. Also, you'll soon notice that
+monsters tend to show up only in the
+random areas of the world and that
+each location has its own monster or
+monsters, which will be found there
+and nowhere else. There are no
+wandering monsters, as such, in the
+game.
+Of course, there will be times when
+only a bonk from a club or a magic
+blast will do the job. You will have to
+determine those times for yourself as
+you become more experienced with
+the game and its denizens. Overall, if
+you are not familiar with RPG-style
+games, your best bet is to create a
+fairly balanced character, and start
+with that.
+However, Beyond Zork does not
+really follow the classic patterns of
+CRPG's, so if you do have experience
+with them, don't let preconceived
+ideas lead you astray. Armor is a case
+in point. I went through much of the
+game with no armor whatsoever,
+having found, through experimentation, that in most cases, it didn't help
+all that much. Certain armor can help
+in certain places, but in general, you
+can get by without it.
+One of the niftiest features in the
+game is the ability to define function
+keys (some might call them macros),
+to avoid the tedium of typing and
+retyping repetitive commands, such
+as ASK OLD WOMAN ABOUT, ATTACK MONSTER WITH CLUB (or
+axe, or sword), PARRY MONSTER,
+etc. Ten such function keys are available, and you can set them up any
+way you like.
+
+The Random Problem
+Generator
+
+H owever,
+
+there are some features
+of the game that will cause
+people to tear their hair out. Mapping,
+
+for one. Yes, there is a nice little partial map on the screen for you to see,
+in the upper right corner, and that is
+good. What is not so good is the fact
+that parts of the landscape are random.
+Yep, I said random. These areas always have the same rooms, but they
+will be connected in different ways.
+Let's take a simple example, the cellar
+of the pub. You go down there, map
+out the rooms (not many), overcome
+
+the monsters (we hope), and then
+find you can't get out. So you restore
+to an earlier position, find something
+that will help you escape, and go in
+again.
+You soon discover that your previous map of the cellar is useless; the
+rooms are now rearranged into a different pattern, and will have to be remapped. This can sometimes have
+unpleasant consequences, such as
+when running from a monster, only
+to find yourself in a dead end you
+weren't expecting. The only way to
+keep such areas stable is to go
+through them and then save the
+game. That will fix the pattern of
+rooms and connections for a particular location (the cellar, or the
+jungle, or wherever).
+Randomness also extends to the
+magical items. Aside from scrolls,
+there is a stick, a wand, a staff, a
+stave, a cane, and a rod, as well as
+several potions. The properties of all
+these change, within certain limits.
+You never know what you have the
+first time you pick something up, and
+if you restore to an earlier position (or
+
+start a new game) that item will very
+likely not have the same property.
+I discovered this the hard way in the
+cellar. Having found a mysterious
+rod, I pointed it at myself (no other targets being available) and it teleported
+me out of the cellar. How nice! I
+thought. Since I wasn't finished down
+there, I restored the game, did what
+had to be done, got the rod again,
+and pointed it at me. Unfortunately,
+this time it turned out to be a rod of
+Annihilation. Oops.
+Since potions and most scrolls can
+only be used once and most rods,
+etc. only twice, the wise thing is to
+have them identified before you do
+anything else with them. Fortunately,
+this is easily accomplished by running
+to the Magick Shop and asking the
+old woman in charge about the item.
+Hence, the wisdom of setting up a
+function key for ASK OLD WOMAN
+ABOUT comes into play. There are a
+lot of things to ask about. Even better, there is no charge for identification!
+At the start, therefore, the best thing
+to do is nip around the area, one step
+ahead of the monsters where necessary, picking up as much as you can,
+and then drop into the Magick shop
+to find out what you've garnered so
+far. However, don't be in a hurry to
+use it all.
+There is a reason for using magic
+carefully and sparingly. One of the
+most frustrating experiences you will
+have in the game is not only deciding
+how to solve a particular puzzle (or
+even if you have what you need), but
+whether or not the method you have
+used (there may be several solutions)
+will prevent you from solving another
+problem further along in the game.
+The Staff (or rod, or wand, or
+whatever) of Annihilation is one example. It is very handy and blasts almost any monster out of your way.
+You can only use it twice, though. If
+you invoke its powers early in the
+game, a later point may find you up
+against a critter that is just too strong
+for you or too hard to kill with brute
+force. Then, you're stuck. So, you
+must strive to keep a balance among
+magic, muscle, and trickery at all times
+(Continued on Pg. 57)
+
+TITLE:
+SYSTEMS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+The Spy's Adventures In Europe
+The Spy's Adventures in North America
+Apple II
+$19.95
+Mark Pelczarski
+Jeffrey Jay
+Polarware
+Geneva, IL
+
+As
+
+you watch the Dallas Cowboys
+football game (or cheerleaders),
+a shadowy figure approaches you.
+This is the contact you've been waiting for. You reach into your pocket
+for a jewel so that you can pay off
+your informant. He hands you a slip
+of paper with the
+vital clue you need
+to find the infamous
+Dr. Xavier Tortion
+(yes, Dr. X. Tortion).
+Quickly, you refer to
+your dossier and assorted clues. Adding
+your clue to the
+others, you have
+Appalachians. Even
+without buying a
+vowel from Vanna,
+you realize that Dr.
+X is hiding out in
+the Appalachian
+Mountains. It is a
+simple matter of
+flying there to apprehend him.
+This is the premise
+behind Polarware's
+game series, The
+Spy's Adventures
+Around The World.
+The different titles
+include: Adventures in North
+America, Adventures in Europe, Adventures in South America, Adventures in the Pacific Islands, Adventures in Africa, and Adventures in
+Asia. Other titles are planned for the
+future and enhanced school editions
+of each of the titles listed above are already available.
+
+tions are effective, even on a green
+monochrome monitor.
+The game is designed for one to six
+people either working together or as
+spy vs. spy. In the spy vs. spy version,
+
+each player searches for a different villain, but all players compete for the
+same jewels, clues, and informants.
+As play begins, a map is displayed on
+the monitor. The player selects the
+region or country to begin searching
+and that region/country is highlighted
+on the display map.
+
+raising hint, which applies to North
+America only, is to look for jewels in
+the Baja California desert and atop
+one of the rock formations in Monument Valley, Utah
+Players should note that the real skill
+required it the game is not in finding
+Dr. X first, but playing for the highest
+efficiency rating. There are several
+factors which affect efficiency ratings.
+The first, and probably most important, of these factors is locating Dr. X
+on your first guess (players get up to
+three guesses).
+Another factor is the
+number of residual
+jewels and dollars
+the player is able to
+appropriate by the
+end of the game.
+The residuals will
+aid the player's efficiency, as will solving the clue to Dr.
+X's location with as
+few letters as possible.
+The game's
+documentation is
+helpful, though
+most of it is not
+"hardcopy." Only a
+brief description of
+the rules and a
+three-color map are
+provided in
+"hardcopy." The
+thorough documentation is included in
+text files as a dossier
+on each region/country in the game.
+The player accesses this information
+via the "Escape" key at any time
+during the turn. The dossier provides
+a wealth of information on the
+climate, capital, government, and
+points of interest on each region or
+country selected.
+In summary, The Spy's Adventures
+series is quite enjoyable, not to mention educational. The game is a must
+for families with children because of
+its enjoyable methods of teaching
+geography, if not because it is simply
+(and simple) fun. So, if you spy any of
+The Spy's Adventures, appropriate
+them with the residual funds in your
+bank account. It will be money well
+spent.
+
+SECRET AGENTS, MAN!
+
+Those familiar with Polarware's
+(Penguin's) previous titles will not be
+surprised by the graphics created with
+the in-house Graphics Magician. The
+numerous illustrations of real locations keep the game interesting. In
+many ways, the game is much like
+being actively involved in a slide
+presentation of various points of interest throughout the world. The illustra-
+
+by David M. Wilson
+
+Once the player is in the
+region/country, a list of activities or
+places to visit (sort of a What's Happening In . . . like you'd find in a hotel
+room) is provided. Participating in the
+activities or visiting the points of interest may lead the player to a jewel, an
+informant, or a clue about where to
+find a jewel. For example, during one
+visit to California, I visited a major
+movie studio tour. During the tour, a
+mechanical shark swam up as if to attack, but tossed a jewel into my lap instead. Players will find that they get
+higher scores if they participate in all
+the activities and visit all the places of
+interest within the region. Any of
+them could uncover just what one
+needs to find Dr. X. Another score-
+
+McMaster presented our readers
+with extremely thorough research in
+his earlier submission, "Die
+Kriegsmarine: German Vessels in- -
+
+Warship" (Computer Gaming World
+#37, p. 38). This article offers further
+insights.
+
+T he
+
+game of Warship just like actual surface naval
+combat, contains a
+heavy dose of luck.
+While there is no way
+around this fact, there
+are certain rules that,
+if followed, will limit
+the effect of the luck
+factor and should ensure victory more
+often than not against
+your more foolhardy
+opponents. Be
+forewarned, however,
+that I am mot divulging any great secrets.
+What follows is common sense and not
+Revealed Truth. My
+point is simply that
+you may survive bad
+luck with caution and
+cunning, but your
+foundering will be
+even more dramatic if
+you combine carelessness and ill fortune.
+With those caveats in
+mind, let's take a look
+at the ships.
+
+approximately four or five thousand
+yards in front of your battleships and
+cruisers and keeping them between
+your large ships and the enemy vessels, any incoming torpedo salvo will
+
+however, is not realized until its ability
+to make smoke is employed. Against
+a foe without radar (generally the
+Japanese), the sight blocking
+capacity of smoke can be devastating.
+amain the player should form
+be spotted by the destroyers and its
+course reported to you. This should
+a line of his destroyers between his
+give you some time to turn your batmain ships and the expected aptleships directly toward or away from
+proach of the enemy. With your
+the course of the torpedoes and thus
+destroyers' smoke turned on, wait for
+your opponent to
+come within range
+and when your radar
+locks on, open up with
+all of your guns. While
+radar directed fire is
+less accurate than
+visual fire, the enemy
+without radar will not
+be able to fire at your
+at all. And getting the
+first few hits can often
+mean the critical difference between victory and defeat.
+It should be pointed
+out that this "duck
+blind" tactic is particularly effective at
+night. Under the cover
+of darkness, it may
+take the hapless player
+several minutes of unanswered shelling just
+to seek out and find
+the destroyers forming
+the blind. Because of
+this, the Japanese
+player, who will almost
+always be the player
+with the radar disadvantage, should use
+his destroyers as
+by
+scouts rather than as
+Joseph S. McMaster
+escorts. Send them
+out well ahead of your
+big ships until you
+drastically cut your chances of taking
+have discovered the lurking Allies.
+a hit. You will occasionally lose a
+By the way, if you are facing a comdestroyer employing this tactic, but
+puter-run Japanese opponent, I have
+take solace; a sunk destroyer is alfound an interesting trick using
+most always worth fewer victory
+smoke. By switching your destroyer
+points than a torpedo hit on a batsmoke on and off every two minutes,
+tleship. And also remember that while
+the computer will constantly retarget
+a single torpedo will generally sink a
+from the destroyers to the battleships,
+destroyer, it may absorb several more
+when visible, and then back to the
+of that salvo's torpedoes while it is
+destroyers when the battleships disapsinking.
+pear again. Because retargeting rePerhaps a destroyer's true value,
+quires one round of low accuracy
+
+nn,
+
+VICTORY
+AT SEA
+
+Destroyers
+
+T hese
+
+A
+Common
+Sense
+Approach
+to SSI's
+WARSHIP
+
+ships are
+among the most
+valuable and versatile
+available in the game.
+While the drooling novice will be
+tempted to spend all of his "money"
+on the big, powerful vessels, you
+should always buy some destroyers
+with your allotment of Ship Selection
+Points. The key is to remember that
+the purpose of destroyers is escort
+duty. Have them play this role to the
+hilt.
+Destroyers can form a torpedo early
+warning system for your larger ships.
+By forming a line of your destroyers
+
+ranging fire; you can blast away with
+radar fire while the poor computer
+struggles to achieve a single hit. As
+this is entirely unfair, I don't use the
+tactic, but if you are losing all too
+often to the computer, you may wish
+to give it a try.
+A final use of the destroyer's escort
+function is in covering advances and
+retreats. For reasons which will be explained in the next section, there will
+come many instances when you wish
+to increase or decrease the range between your main ships and
+those of the enemy. Such
+range changes should, whenever possible, be accomplished
+under a destroyer's covering
+smoke. There is no sense in
+risking potentially crippling
+damage in an advance or fatal
+damage in retreat. Even if your
+foe can shoot through your
+smokescreen with radar,
+remember that radar directed
+fire is much less accurate than that
+which is visually locked on. Don't
+worry about your destroyers. They are
+harder to hit than any other type of
+ship and there are methods that can
+be employed to decrease the odds
+even further. These are also
+described later.
+For all I've said so far one might get
+the idea that destroyers are essentially
+defensive warships. That is not a bad
+way to think of them, but there are
+times when you may use them offensively. This is particularly true for the
+Japanese player. While destroyer
+guns can be used against other
+destroyers or even the occasional
+cruiser that might stray too close,
+their real offensive power may be
+summed up in one word: torpedoes.
+For the Allied player, this means
+keeping an eye open for opportunistic torpedo shots. If you have a
+surplus, you might even break a
+destroyer or two out of formation and
+go looking for an opportunity. Of
+course, the American playing a 194142 scenario should probably not
+bother with this due to his high "dud"
+torpedo rate in those years (one
+reason to, perhaps, "buy British" early
+on).
+The Japanese player, however, must
+be more aggressive with his
+
+destroyers. The destroyer is the one
+ship type where the Japanese totally
+outclass the Allies. This is entirely due
+to the Japanese Type 93 torpedo.
+If there is a "gamebreaker" in Warship, it is this weapon. Its range is
+three-quarters of the length and
+breadth of the gameboard. It packs a
+warhead more than double the
+strength of the most powerful Allied
+torpedo. It gives the Japanese
+destroyer the ability to, not just badly
+wound, but to actually sink Allied bat-
+
+tleships. That is something the Allied
+destroyers generally cannot do.
+Since the "duck blind" tactic is usually unavailable to the Japanese and
+since Allied torpedoes represent less
+of a threat, Japanese destroyers are
+freer to abandon escort duty. A good
+strategy would probably entail sending in your destroyers well ahead of
+your big ships. After locating the main
+enemy task force, send the destroyers
+in for their initial torpedo runs. Survivors should return to the Japanese
+battleships and cruisers and escort
+them into the desired range. By this
+time, reloading may have occurred
+and the ships may be sent in for their
+final run. Remember to try to make
+your torpedo shots as perpendicular
+to the enemy's course as possible.
+Firing torpedoes at the fast speed setting will increase the chance of a
+strike.
+
+Battleships and Cruisers
+
+T
+
+hese are your main offensive
+weapons. These ship types are
+combined here because the tactics
+for both are the same. In the small
+scenarios, where you may not purchase battleships, your heavy cruisers
+become de facto battleships. In the
+large scenarios, cruiser fire should be
+
+confined, for the most part, to other
+cruisers and destroyers, but be aware
+that the eight inch guns on heavy
+cruisers can penetrate the armor of
+some battleship classes at close
+range. Japanese heavy cruisers
+should be alert to opportunities for
+firing their torpedoes. Japanese light
+cruisers should be treated as "super
+destroyers." They even share the
+smoke-making ability.
+Always begin by analyzing your objectives. While in battleline scenarios,
+this is simply the destruction of
+• your opponent. In bombardment scenarios, the primary
+goal is for one side to exit the
+map. Therefore, planning
+should begin with ship selection. In bombardment
+scenarios, where speed is more
+important, consider buying the
+faster battlecruisers and Kongo
+and Repulse class battleships
+rather than regular battleships.
+They are cheaper than other battleships, while their guns yield equal
+exit points and their extra speed may
+mean the difference between exiting
+the board or not.
+Keep your objectives in mind. If you
+are the side which is supposed to exit
+during a scenario, do not stop to slug
+it out unless you absolutely must!
+Often, this becomes a case of abandoning the injured or standing to
+fight. This decision is difficult and is
+based on too many variables for me
+to offer an ideal solution. Be sure that
+you consider the nature and extent of
+the damage you incur, especially if
+main guns are destroyed ;or speed is
+greatly curtailed. Is there enough time
+left to exit most of your ships? Is that
+enough time for the enemy to sink
+the injured? How much more point
+earning damage is likely to be
+received by each side? How much is
+likely to be repaired?
+In battleline scenarios, the problem
+is mostly one of selecting the proper
+range at which each of your ships
+should engage the enemy. At the end
+of this article, you will find a chart to
+aid in this determination. The chart
+lists penetration values (
+horizonta/vertical) for all of the guns in the game at
+all ranges. For instance, let us take a
+hypothetical engagement between
+
+the American battlecruiser, Alaska,
+and the Japanese battleship, Nagato.
+When the Japanese ship is sighted,
+the American commander will determine that it is Nagato class by the
+revealed information that it is a battleship of approximately 40,000 tons.
+Since the Japanese have only one
+class of that size (40,000/500 = FL
+80), the American knows that it is the
+Nagato. Incoming 16"/45 cal.
+gunfire will confirm this, as it is
+also the only Japanese ship
+class armed with that size gun.
+Speed can also be used to
+determine ship class.
+Employing the chart, then,
+the American player decides at
+what range to engage the
+Nagato with the Alaska's
+12750 cal. guns. There are two
+such ranges. From 24,000
+yards to the maximum range of
+33,000 yards, the 12" guns
+muster a vertical penetration of
+four or more, enough to get
+through the Nagato's 4" deck
+armor. Similarly, from 15,000 yards
+on into point-blank range, the guns
+achieve a horizontal penetration of 12
+or more, sufficient to pierce the 12"
+belt armor. Which should be chosen?
+Unquestionably, the close-in range
+area should be selected. This is further delineated by examining the
+chart in reference to the 16"/45 cal.
+guns of the Japanese ship.
+From 24,000 to 33,000 yards, the
+16" guns have enough horizontal and
+vertical penetration to pass through
+both the Alaska's 9" belt armor and
+4" deck armor. However, by the time
+the range has been cut to 15,000
+yards or less, the vertical penetration
+has dropped to two and can no
+longer get through the Alaska's deck.
+Conversely, taking the Japanese
+viewpoint, the 16-23,000 yard "window" between the two ranges
+described above is optimal. Here, the
+Nagato's own guns can achieve
+penetration, while the American's
+shells will bounce "harmlessly" off her
+sides and decks (although they can
+still ignite fires).
+Therefore, there are times in Warship when you will want to open or
+close the range. If your opponent lies
+at a relative bearing of 90 degrees,
+
+however, don't simply steam toward
+him on a 90 degree course. Instead,
+alternate your course every two
+minutes. To head on a course of 90
+degrees, you might alternate courses
+of 80 and 100 degrees. This makes
+your ship much harder to hit. Further,
+if carefully calibrated with your speed,
+zig-zagging (salvo chasing) will allow
+you to reach your destination in the
+
+same time as a direct course would
+have. Don't forget your destroyer escorts, either. They can also benefit
+from weaving.
+Take care in your route of approach. Try to stay in the opponent's
+bow or stern arc. This not only
+prevents him from bringing all of his
+main guns to bear, it will also silence
+most of his secondary armament.
+All of these tactics are also useful
+n retreat. Knowing when to
+retreat or retire, however, is more difficult. Certainly a ship which has lost
+most of its main guns or had its
+electrical system severely damaged is
+a candidate for withdrawal. Such a
+ship is only a threat to you because of
+its likelihood of taking more pointearning damage. Other types of
+damage, however, make the decision
+tougher. What should you do if your
+only battleship takes a very early hit,
+knocking out its fire control? With its
+gun accuracy halved for the rest of
+the game, its value is dubious. If it is
+your only battleship, however, how
+else are you going to fight off the
+enemy's battleships? Again, there are
+too many variables for an ideal solution. I don't know the answer. Just
+
+remember, dilemmas are one of the
+hallmarks of a great game. Nevertheless, allow me to present a few brief
+rules for retreating and retiring ships.
+First, distinguish between retreating
+(exiting a ship from the gameboard)
+and retiring (exiting a ship to a safer
+area of the gameboard). The difference is that retreated vessels are
+no longer susceptible to damage (or
+repair), while retired ships can.
+Generally, the Allied player
+should choose to retire more
+often than the Japanese player
+because of the Allies' greater
+facility at repair.
+Ships with fire levels above 20
+should consider retreating. At
+that level, you will receive additional damage every two
+minutes. The longer you wait,
+the more you risk a
+catastrophic magazine explosion.
+Destroyers with flooding
+damage should be retired, if
+possible. This type of damage
+repairs much more easily on these
+small ships. On the larger ships, you
+should probably begin retreating
+them when their flood damage
+reaches fifty per cent. The electrical
+systems will begin to short out at that
+point, anyway. Since flooding directly
+affects speed, you will often find yourself rapidly losing the ability to retire
+or retreat such ships.
+Severe electrical damage (over 75%)
+will probably never be repaired sufficiently to get your guns operating
+again, particularly if flooding is causing more such damage. Retreat the
+Ship! Damage from 30-75% calls for
+retiring.
+Never retreat or retire a ship because of damage to the bridge. When
+you take penetrating hits, pray for
+bridge damage because the resulting
+impairment to maneuverability is only
+an annoyance. If your rudder is
+jammed straight, retire rather than
+retreat. If it is jammed left or right,
+you won't have any choice but to go
+in circles. A jammed rudder gives
+your opponent a lot of victory points
+and repairs or detaches fairly easily. If
+it detaches, he still gets his points, but
+you regain your ability to steer.
+(Continued on page 41)
+
+(Continued from page 38)
+
+Let
+
+me conclude with two important thoughts. First, Warship
+should be played as a series of battles
+with players keeping a running point
+tally. At least, have both players take
+each side of a given scenario. The
+
+hints I have given here will often only
+serve to cut losses rather than obtain
+victory, but cutting losses has real
+value in a running series. Second,
+don't continue to adhere to any rule
+that has outlived its usefulness or be-
+
+come counter-productive. Battles are
+very fluid affairs. Ultimately, "Victory
+At Sea" will more often go to the commander who can adapt or who dares
+to take a worthwhile gamble.
+
+THE
+ELECTRONIC
+GRIDIRON
+(Continued from page 18)
+The plus yardage described is due to
+get better as additional Team Data
+Disks are released. Circle Reader Service #55.
+
+S
+
+Super Bowl Sunday, also from
+Avalon Hill, is another statisticsbased strategy game. The plus yardage for this product begins with its
+availability in several formats: Apple,
+C-64, and IBM. Additional yardage
+can be added for the "Champions
+Disk" (sold separately) which features
+twelve classic match-ups from Super
+Bowls past. Tack on plus yardage for
+the ability of a player on offense to
+select which particular running back
+will carry the ball and which receiver
+
+would be the primary target in a pass
+play. Many games do
+not allow this much
+control in play selection. On defense,
+players may choose
+how many and which
+linebackers to blitz,
+which offensive player
+to key on, or which
+receiver to doublecover. Super Bowl Sun
+day is a strategist's
+strategy game which
+would effortlessly go all
+the way to paydirt if it
+were not for the minus
+yardage.
+Minus yardage must
+be assessed due to the
+unexceptional
+graphics. Other minus yardage must
+be assessed for the limited play selections (although these are enhanced
+by the ability to assign particular
+players to a task). Nevertheless, the
+
+name is worth playing and offers
+realistic results. Circle
+Reader Service #56.
+
+3 -in-1
+
+Football
+from Lance Haffner Games is a unique product. This is a
+text-only football
+strategy that is able to
+hold its own with
+products produced on
+a bigger budget. Plus
+yardage for this game
+is gained by recognition that it is available
+on a multitude of
+machine formats,
+team data disks are
+updated yearly, college and professional
+data files are provided, the game is
+easy-to-learn and play, and the
+results are almost always realistic.
+(Continued on page 52)
+
+Name:
+Battles In Normandy
+System:
+Apple, C-64
+# of Players: 1 or 2
+Price:
+$40.00
+Designers:
+Roger Keating
+Ian Trout
+Publisher:
+Strategic Studies Group Inc.
+Walnut Creek, CA
+
+B
+
+attles In Normandy (BIN) is the
+
+latest wargame from Australia's
+Strategic Studies Group. BIN is
+described on the back of the package
+as "an exciting sequel to Battlefront".
+They do use an almost
+identical game system
+but ownership of Battlefront is not required
+to play or enjoy the
+second. Perhaps, "sistergame" is a better
+description. Scenarios
+designed for either
+game can be played
+using the Master Disk
+from the other. There
+may, however, be some
+differences in play
+balance due to the changes noted
+below.
+
+many as 60 battalions under your
+command. These battalions, plus HQ
+units, are what show up on the map.
+Combat battalions come in 14 different flavors, from airborne infantry
+to tank destroyers.
+Unlike most other wargames,
+however, you do not give orders to
+the units that you see on the map.
+You must issue orders to the
+Divisional and Regimental commanders who in turn give orders to
+
+you go running off to be a battalion
+commander whenever a key unit gets
+in a bind.
+This is revolutionary. Conventional
+board games could never do this because there was no computer to act
+as a subordinate commander. If that
+square of cardboard represented a
+battalion, you got to move it exactly
+where you wanted it to be during your
+movement phase. Most computer wargames have adopted the same
+philosophy to date. I
+guess it goes back to
+chess and checkers and
+is pretty deeply ingrained. Nevertheless, it
+is easy to coordinate attacks when you are
+moving all the units. In
+the Battlefront system,
+you choose an objective
+(a town, hilltop, bridge,
+road junction, etc.) or
+an enemy unit to attack
+and the battalions
+choose their own route to get there
+and arrive in their own time. The
+result is definitely not coordinated!
+You watch the screen helplessly,
+swearing at idiotic commanders who
+lead their battalion through a swamp
+to get to their objective instead of
+using a more direct road.
+Is this more realistic? Obviously, it is
+more realistic in a role-playing sense
+for you to wear one hat instead of
+many, but the issue is more complex
+than this. Do your computer-controlled subordinates behave in a realistic
+manner, for instance? In BIN, you
+seem to get disadvantageous behavior but not the opposite. No battalion commander, for instance, will
+attack a nearby enemy if his regiment
+is "engaged" with another enemy elsewhere. No battalion will ever disengage from a heavily pinned enemy
+to slip past and take an important
+town or junction. In other words, you
+never seem to get the benefits of individual initiative, only the loss of control it engenders. This situation could
+be corrected by more detailed
+programming and I have no doubt
+that this will happen as more games
+are written for computers with 256K
+and more instead of only 64K.
+In order to find out whether you will
+
+SSG'S New Western Front Game
+by Bob Proctor
+
+The Corps of the Matter
+(Description of game
+system)
+
+IL
+
+ike Battlefront, BIN uses 6-hour
+
+turns (4 per day with one being
+nighttime) and a scale of 1 kilometer
+per hex. Both sides issue orders each
+turn, then combat is resolved and
+movement takes place. The computer
+will play either side for solitaire play or
+can referee a game between two
+human opponents. As an interesting
+fourth option, the computer can play
+itself. This mode is dandy for
+demonstrating a computer wargame
+to your Aunts and Uncles and it is
+also useful in order to study the
+computer's strategy in a new scenario.
+The Battlefront system puts you in
+the role of Corps Commander. Your
+Corps has up to 3 Divisions and each
+Division has up to 4 Regiments. Since
+each Regiment has 4 battalions and
+the Division has up to 4 extra battalions (which can be assigned temporarily to any of the Regiments),
+each Division can have up to 20 battalions. You may, therefore, have as
+
+the battalions. If you say "Attack," they
+will attack with everything. If you say
+"fall back in reserve," they will fall
+back with everything. Sometimes, of
+course, a battalion will get separated
+from the rest of its Regiment. It may
+get snarled in a traffic jam or be
+routed by enemy attack (forcing it to
+retreat regardless of orders). This
+game system rigidly enforces the role
+of Corps Commander and doesn't let
+
+like the Battlefront/BIN system,
+however, you need to think about
+how you feel about this concept of a
+single viewpoint. Imagine a game
+about night-time combat such as in
+the movie "Platoon." In a role-playing
+sense, creating a realistic point of
+view would mean the player would
+not know anything but what one person could see or hear. They'd have little idea of what was going on in an
+overall sense and the object may be
+simply to survive. A student of military
+history, however, wants to see the
+overall picture clearly and know why
+different attacks and defenses are the
+most effective. For this, they must
+know more than any single participant could know and the game system must convey the important factors in a clear, concise fashion.
+It is hard to imagine a game that
+would satisfy both of these points of
+view. Clearly, they could not happen
+at the same time. In BIN, you have
+lots of control when designing a
+scenario but lots of "fog" once you
+begin to play. Or maybe you could
+play with limited intelligence first and
+then have an "instant" replay that
+would fill in the whole picture.
+Anyway, as the level of the game goes
+from small (squad level, tactical, turns
+in minutes) to medium like BIN (battalion level, operational, turns in
+hours), the commander has access to
+more information. It becomes easier
+to imagine a single person whose
+viewpoint satisfies our "student of
+military history" but besides knowing
+everything the student wants to be
+able to control every unit to test his
+theories of how things SHOULD be
+done. As the level of the game goes
+up and the size of the forces (and
+staff) under the commander increases, the less realistic this perfect
+control becomes.
+So, how about BIN? As stated
+above, it adheres tightly to the point
+of view of a Corps commander. It
+gives you data on weather, terrain,
+unit strength and condition but fails
+to provide any idea of combat odds
+or why a particular combat result occurred. You get a feel for this only
+after many games. Long experience
+is, of course, how real Generals learn.
+(Here's a Philosophical Volleyball for
+
+you game designers: is it realistic to
+put someone without this experience
+in charge of a Corps?)
+When it comes to control of individual units, BIN is too restrictive.
+You can NEVER issue orders for a battalion even though some of them are
+always going to end up in the "wrong"
+place. The only thing you can do is
+pull the entire regiment back into
+reserve and then send it forward
+again hoping they do better. This is
+due to the limited set of commands
+available on the menus. You are locked in the command trailer and can
+never play Patton -- out directing traffic at the critical point. You don't even
+get the satisfaction of sacking a subordinate for a particularly stupid
+maneuver!
+Your orders to a
+regiment are limited
+to just four options.
+What those options
+are depends on
+whether the regiment
+is engaged with the
+enemy, in contact
+with them, or not in
+contact (called
+"ready"). If they are engaged, there
+are four levels of attack giving seven
+possible orders instead of four.
+Under this approach, you cannot assign a regiment to advance toward an
+enemy unit or objective unless it is
+completely out of contact (no battalion is within 2 "hexes" of an
+enemy). There is no way to break contact or disengage except to give the
+Reserve order, which will cause all battalions to retreat toward the divisional
+HQ. This works as long as your HQ's
+are 6-8 hexes behind the front lines
+and admirably displays the use and
+value of "maneuvering room." It
+doesn't work well at all when you are
+crowded into a tiny beachhead and
+your HQ's are on the lines or still on
+the ships. For this reason, the Battlefront system does not seem to be
+well suited to portray an amphibious
+invasion and Normandy is a curious
+choice. Fortunately, only a few of the
+scenarios suffer.
+
+Beach Battle Bingo (The
+Scenarios)
+
+T here
+
+are eight basic scenarios in
+BIN; I say "basic" because each
+one also has from two to four historical variants given. These are changes
+to the "at start" conditions which can
+be made quickly with the Design
+routines. Here are the eight:
+1.
+Omaha
+19 turns, 14x26 map
+Historically, of course, this was a
+contested landing and thus, this is
+the most congested of all the
+scenarios. The only valid strategy is to
+attack everywhere.
+2. Utah55 turns, 14x39 map
+Utah beach, the most westward, was
+
+not contested and a fair-sized beachhead can be grabbed if the US moves
+quickly and uses the 101st Airborne
+well.
+3. Sword23 turns, 14x13 map
+Though this was another congested
+beachhead, the British also have
+paratroops that can, with skill and
+luck, grab a little extra space.
+4. Cherbourg43 turns, 28x39 map
+Thanks to the large map and the
+fact that the Allies start in a fairly
+cohesive line with lots of room to
+maneuver, this scenario uses the BIN
+system to its best advantage. An
+adroit commander can do quite a bit
+here. Taking enough of fortified Cherbourg will still be tough and can be
+made impossible by poor weather
+which not only slows the advance but
+keeps the Allied air support grounded.
+5. Carentan43 turns, 14x13 map
+This is a long scenario, but relatively
+small forces help it play quickly.
+Taking Carentan is usually pretty easy
+for the Allies, but they must also hold
+it against a late German counter-attack.
+Continued on pg. 54
+
+Name:
+Systems:
+Coming:
+# of Players:
+Price:
+Designer:
+Publisher:
+Distributor.
+
+Fire
+
+Fire Power
+Amiga
+C64, Ap2gs, IBM
+1-2
+$24.95
+Reichart von Wolfsheild
+Microilluslons
+Activision
+
+Power is the first in a One-toOne series of low cost arcade
+style games from Microillusions.
+This is a tank-to-tank shoot-'em up
+within two enemy fortresses. Future
+releases in this series will be Turbo,
+an auto racing game with many selectable options, and Galactic Invasion,
+a shoot em up in space with lots of excitement and challenges for your joystick skills.
+Fire Power is well designed to
+provide an individual challenge
+against the computer or two player action using a split screen with two joysticks or over a modem on two
+separate computers. Movement is
+joystick-moderated and guns are
+fixed in the forward direction. The
+goal of the game is to capture the
+enemy flag and return it to one's
+home base.
+The game comes with no printed
+documentation, so the player(s) start
+by selecting the play option or reading the game instructions and hints.
+Then, the player(s) choose from three
+tank designs with various values for
+speed of movement, damage points,
+fuel capacity, number of mines carried, and number of men that can rescued (Note: For modem play, only
+one tank design is used).
+The fire power of each tank is unlimited and continuous with the joystick button held down. Points are
+scored for destroying the enemy's
+tank and any enemy buildings, gun
+emplacements, fuel depots, and
+helicopters. In addition, points are
+scored for rolling your tank over
+enemy units fleeing a destroyed building. This realistic action is complete
+with the sound of a gruesome splat
+and a splotch of blood. [Ed.: I could
+live without this feature.] It clears from
+the display (but not one's mind) in a
+few seconds.
+The sounds used for this game are
+excellent and range from rumbling
+tanks and rocket-firing helicopters to
+explosions of everything destroyed.
+
+Rubble replaces structure and glowing embers remain after the explosive
+destruction of cannon fire. The area
+of each fortress is very extensive, but
+is the same every game.
+Advantage can also be gained by
+rescuing any of your own men. This
+is done by maneuvering your tank
+near them, stopping, and then letting
+them get on board. Take care,
+though, because you can also run
+
+by Roy Wagner
+
+over your own men. When playing
+against the computer, you start with
+only five tanks and an additional tank
+is added for every fifteen men rescued. In the two player version, tanks
+are unlimited, but you can get an additional mine for every five men rescued. These men must be taken to
+the Red Cross station at your base to
+receive these credits.
+Fuel can be obtained by returning
+to your base starting location or by
+destroying enemy fuel depots. If you
+run out of fuel, your tank is
+destroyed. Each time one of your
+tanks is destroyed, you start over at
+your home base.
+Helicopter support for both sides is
+controlled by the computer. They will
+seek out any tank that is inactive. Approaching helicopters can be observed on a small radar screen of the
+
+nearby region. It shows the location
+of tanks, any helicopters, and base
+flag which happen to be within radar
+range of your tank. Helicopters can
+be shot down easily by either tank.
+It is also possible to lay mines by
+pressing the joystick fire button and
+pulling back on the joystick. These
+are proximity mines and show no
+mercy for any tank that comes near
+them. In the heat of a mobile battle, it
+is easy to accidentally move backward, plant a mine, and destroy
+oneself.
+The final goal is simply the capture
+of the enemy flag. The total point
+count is purely for comparison between the two players. There is no
+vanity-board for top scores. At the
+end of a game, a final report is posted
+that shows the total casualties, total
+men rescued, and the total damage
+inflicted. A count is given for tanks,
+men, and helicopters.
+The modem option requires the use
+of two Hayes compatible 1200/2400
+baud modems. A null modem cable
+will not work for use between two
+computers in the same room. The
+modem connection is initiated by
+entering ATDT and a telephone number in a text box and mouse clicking
+on the Call box. Then the other
+modem will answer the call and a
+message to that affect will appear on
+each screen. One of the players must
+click on the Start box and the game
+begins. The split screen only displays
+your movement on one side. The
+other side can be used for typing messages to the other player. A third box
+can be used to Hang Up the connection. The game only comes with one
+disk so each modem player must buy
+their own copy of the game.
+The action, graphics and sound put
+this game directly up there with any
+arcade game - not the home computer variety, but those that take lots
+of quarters to play. The game system
+is somewhat challenging, but does
+not offer much variety or require
+much strategic thinking. I find Fire
+Power to be a fair priced design with
+exceptional presentation. In other
+words, it is a great shoot 'em up arcade wargame.
+
+THE
+ELECTRONIC
+GRIDIRON
+(Continued from page 20)
+Those who desire proof of the last
+assertion need only review the statistical comparison printed in CGW
+#5.5, p. 42. As for the game itself, it
+has improved with age. A recent
+replay utilized the new ability to
+choose the starting quarterback or
+replace the quarterback during the
+game. The computer vs. computer
+simulation genuinely reflected last
+year's grim reality as Marc Wilson of
+the L A. Raiders threw seven (count
+'em, seven) interceptions in one
+game. Another new feature added to
+the latest version is the ability to set
+the goal posts on the goal line during
+a pre-1974 simulation.
+Minus yardage must be noted for
+
+those who want graphics and further
+losses must be assessed for the
+limited play selection. The offensive
+playbook in this game is limited to 14
+plays and the defensive playbook contains only 6 alignments. It is available
+for Amiga, Apple, Atari 8-bit and ST,
+C-64, IBM and Macintosh. Circle
+Reader Service #57.
+
+I
+
+nstant Replay from Software Innovations is not exactly a game,
+but it is worthy of note for those who
+like to replay full seasons of NFL
+games using the computer vs. computer mode. The game comes with
+the full 1986 statistics base for all 28
+professional teams and offers an attractive full-field graphic to display
+field position. Each play is described
+as though a play-by-play announcer
+was calling the game and statistics
+are available at any time during the
+game. It is available for the IBM with,
+at least, 320K of memory only. Circle
+Reader Service #58.
+
+is a real sleeper. Dan Bunten
+designed this game to feature both a
+semi-pro and professional playbook.
+The interface requires paddle entry
+and play selection takes place in a
+real-time mode. There is even a sequence to go through in calling an
+audible. Team Data Disks for individual seasons have been marketed
+through the company catalog and
+this is a very playable game. Why is it
+on the bargain list? It has the minus
+yardage of not having a graphic
+depiction of plays in a graphic age.
+One sees the offensive and defensive
+formations, but only the ball is
+animated on the field. It is available
+for Apple, Atari, and C-64. Circle
+Reader Service #59.
+
+NFL
+
+Challenge from XOR Corporation is still, to this date, the
+cream of the crop. It uses authentic
+NFL statistics which are updated annually and offers the most sophisticated playbook of any of the strategy
+
+games described (with the exception
+of Head Coach). Plus yardage must include the 49 different offensive options and 26 different defensive approaches. The use of chalkboard style
+"X and 0" diagrams to portray the
+results of plays is still effective and the
+capacity for instant replay is a nice effect. The statistics-handling ability for
+this simulation is still excellent and
+the addition of three levels of computer coaching (Conservative, Aggressive, or Balanced) makes the Human
+vs. Computer option that much more
+enjoyable. In addition to the quotation
+from CGW #5.5 lavishly quoted in
+advertisements for the product ("If
+there was such a thing as the 'CGW
+Seal of Approval,' NFL Challenge
+would get it."), plus yardage must be
+appended for the new "roster editor
+disk" which enables owners to keep
+team rosters current in spite of
+trades, retirements, cuts, injuries, and
+line-up changes (an absolute must as
+long as the Rams are in the league).
+
+Another big gainer for XOR is the
+Game Situation Development System. This disk enables the player to
+utilize NFL Challenge to secondguess real game situations, establish
+"what-if situations, or try out new
+strategies in the same situation.
+Mark down minus yardage for the
+fact that the latest version of the
+game still does not offer individual
+statistics. Further minus yardage
+should be noted for the failure to include names along with the numbers
+and statistics for each NFL team.
+Some readers will sack the quarterback upon learning of the $99.95
+price tag for the game. Others will
+give plus yardage for the newly
+marketed economy model of the
+game, Pro Challenge. Pro Challenge uses the same system, but is
+less expensive because it pits two allstar teams together rather than the
+full NFL database. The games are
+available for IBM and Macintosh.
+Circle Reader Service #60.
+
+Battles In Normandy
+(Continued from pg. 48)
+6.
+Villers-Bocage19
+turns, 14x13
+map
+7. Goodwood19 turns, 21x13 map
+8. Epsom3l turns, 14x13 map
+These last three all portray attempts
+by Montgomery to break through the
+enclosing German ring near Caen. It
+is very difficult to drive through a gap
+in the enemy lines in BIN. As soon as
+a single battalion makes contact with
+the enemy, the whole regiment is
+drawn to it and ceases to advance. A
+single enemy unit in good defensive
+terrain can tie up 3 regiments easily.
+As a result, the designers actually
+omit the main thrust in these
+scenarios. About half way through, a
+large force will appear in the German
+rear along with some new Axis units.
+
+Evolutionary Tide Pools
+(Differences Between
+Battlefront and BIN)
+
+For
+
+the record, the following changes were made to the Battlefront
+system to accommodate the special
+conditions of Normandy. Line of
+Supply: Units which have their Line
+of Supply cut still have a chance of
+receiving supplies. This makes this inevitable situation not quite so disastrous. Initial Turn: Games do not
+have to begin on the morning turn.
+For example, both Utah and Sword
+begin on turn 4 so that the action can
+start with a night-time parachute drop.
+Artillery and OffBoard Support: In
+Battlefront, these are normally used
+at half value. In BIN, they are only
+used at FULL strength for assault and
+exploit attacks. HQ Units: HQ's have
+their own movement allowance. Combined Arms Defense: A special
+DEFENSIVE combat bonus is given
+
+when infantry, tanks and anti-tank
+weapons are all available to the
+defense.
+In addition, a new factor for Climate
+has been introduced. This factor
+determines the overall weather pattern. It is useful only to those who are
+creating their own scenarios since all
+Battlefront and BIN scenarios default
+to European climate.
+
+Offshore Shelling
+(Conclusion)
+
+T he
+
+changes to the Battlefront system seem reasonable, even welcome. I personally think Normandy
+was a poor choice as a "sequel" and
+only three of the scenarios (2,4 and
+5) feel "right" to me. The good
+scenarios, however, provide new
+levels of realism for anyone who
+wants to see what kind of decisions a
+Corps Commander must make.
+
+(Continued From Pg. 33)
+es. Don't be surprised if you find yourself doing a lot of restoring.
+
+Trade Deficits and Display
+Windows
+
+The
+
+shops (besides Magick, there
+is one for Armor and one for
+Weapons) have items for sale, and
+these can be bought with zorkmids or
+traded for with various valuable objects that you find on your travels.
+Note, however, that you will only get
+half-price for anything you trade. For
+instance, if you buy the axe, it costs
+40 zorkmids. If you later sell it back,
+you will get only 20 zorkmids for it,
+but it would cost 40 if you wanted to
+buy it again. Plan your trades and purchases with care.
+The new screen layout, once you
+get used to it, is quite nice. On the
+Apple //e, there are two inverse "windows", one long one across the top of
+the screen displaying your attributes,
+armor class, and current location,
+and a larger second one below the
+first that displays the room description. In the upper right hand corner is
+the partial map of the area, showing
+your present location and which ways
+you can go. The map updates with
+every move.
+On the 16 bit machines, the layout
+is even fancier, and you can use the
+mouse to move from place to place
+by clicking on the map. However, if
+you prefer, you can turn off the special screen displays and have everything in all-text, just like any other Infocom. Nevertheless, I recommend
+using the special display (wish this
+was in other games, too).
+Overall, Beyond Zork is a curious
+hybrid. It is mostly tough Infocom ad-
+
+venture with a patina of role-playing
+elements. While the elements are important to completing the quest, I
+never had the feeling that I was, in
+fact, playing an RPG-type game, in
+spite of the monsters I bashed,
+blasted, tricked, or otherwise
+maneuvered out of my way. They
+were, like everything else, simply
+obstacles to be overcome, one way or
+another; it was just that some
+methods were atypical for a standard
+Infocom.
+What this means is, if you're worried
+about the RPG aspects in the game,
+you needn't be; for all the bells and
+whistles, it's still an Infocom adventure, although with a somewhat different flavor and point of view.
+Bottom line: This new approach is
+tough and frustrating, but this makes
+it a good one for experienced players.
+
+New Zork, New Zork
+(Warning: This urbane section of
+the review gives both general and
+specific hints. Enter at your own risk!)
+Since the game is so random in nature and many of the puzzles
+have more than one solution (for example, there are at least five ways of
+getting off Zeno's Bridge), giving
+specific hints for many of the situations wouldn't be of much help.
+As noted before, you should try to
+collect as many magical items as possible at the start of the game. In most
+
+cases, they will be lying right out in
+the open for you to pick up, so it's
+pretty easy to amass a fair number of
+goodies. Of course, with monsters on
+your tail while you're doing this, expect to take a bit of damage now and
+then, so take the item and keep on
+moving.
+The best thing of all to find is the
+Scroll of Recall. This, so far as I was
+able to determine, can be used over
+and over again without losing its
+power. It is extremely handy for getting you out of dead ends and other
+unpleasant places. Of course, you
+never know where it will turn up, so
+you may not come across it for a long
+time.
+You will also need a weapon, so visit
+the wharf for a freebie. While the
+game calls it a shillelagh, you can
+refer to it by the much easier "club." It
+works just as well either way. Later,
+when you've accumulated a few
+treasure items, you can purchase a
+battleaxe or a sword.
+Once you've collected some
+goodies, you can begin working on
+the game in earnest. You might want
+to save first, and experiment with the
+various magical objects (after they've
+been identified, of course), to get an
+idea of what they actually do, and
+what their limits are. Some items, for
+instance, work only on living things,
+while other items can affect almost
+anything, living or not. Better to know
+
+that now, than to get an unpleasant
+surprise in the heat of battle.
+Two areas that should be investigated early on are the pub cellar and
+the lighthouse. Until you've completed those, much of the game will
+be closed off to you. Make sure you
+go over the lighthouse thoroughly in
+your explorations. There is more here
+than may, at first, be apparent. Keep
+the booklet handy.
+The jungle (or rather, the jewel in
+the idol in the jungle) is a
+more-or-less stand-alone puzzle. This one can
+be done at almost any time, provided
+you first get rid of the crocodile and
+bloodworm and have the necessary
+object or two. The sapphire is the
+single most valuable treasure in the
+game and will allow you to buy an
+equally-valuable item you will need
+later on.
+You may have some trouble (perhaps a lot of trouble) with the monkey
+grinder in Accardi-By-The-Sea. He is
+far too nimble for you to ever land a
+
+blow on him and he is also pretty
+quick at dodging or reflecting magical attacks. That doesn't seem to
+leave much, but there is a way. Read
+the booklet.
+When wandering through the dismal
+Fields of Frotzen, keep a careful eye
+on the giant corbies. Fortunately,
+they don't attack, but they will prevent
+you from reaching a particular spot,
+unless you know how to keep them
+away. Observe the scarecrows with
+care, and remember you only get one
+chance to visit the land of Froon.
+Up in the mountains, you will find a
+small village menaced by the annual
+migrations of the dreaded Christmas
+Tree Monsters. Swishing their tinsel,
+blinking their lights, singing "Dwaarnyn The Dark-Nosed Ur-Grue", they
+are kept at bay by a single glyph inscribed in snow. They are also blocking the westward path, and you'll
+have to find a way past them. A caterpillar would certainly help, although
+you won't find any in the immediate
+
+vicinity. You'll have to do a little work
+to get one, too. Meditate on the nature of caterpillars.
+Of all the puzzles in Beyond Zork,
+the single most difficult one is the
+arch in the Ruins and it is probably
+best left for later. Activating the arch
+is no problem. A simple examination
+of it will show you what you need.
+After that, it gets nasty, and solving
+the problem of the helmet will require
+some very intense thought in your
+part. All I'll say is that when you get
+stuck, consider something (perhaps
+more than one) that hasn't seemed to
+have been of any particular use yet in
+the game.
+
+Taking A Peek
+Continued from page 6
+at a time can explore the six level
+Energy Production Plant on Karis.
+Nevertheless, players control one of
+the seven crew members of a Special Forces team in trying to rescue
+earth's survivors from their alien
+captors. The graphics and flow of
+play are reflective of GAUNTLET C64 ($19.95). Circle Reader Service
+#10.
+TOMAHAWK: Watch out for attack
+helicopters in the sky! Datasoft has
+just released this simulation of an
+AH-64A Apache attack chopper.
+This user-friendly game has four different difficulty levels and three
+combat missions to entertain you.
+Atari, C-64 ($29.95). Circle Reader
+Service #11.
+Epyx
+600 Galveston Dr.
+P. 0. Box 8020
+Redwood City, CA 94063
+STREET SPORTS BASKETBALL:
+For those who know that basketball
+is a game for back alleys, driveways,
+and playgrounds, this could be the
+best arcade basketball game
+around. Grease spots, curbs, and
+other hazards add spice to this
+game which is modeled after informal neighborhood roundball matchups. Apple, C-64, IBM ($39.95).
+Circle Reader Service #12.
+Firebird
+71 North Franklin Turnpike
+Waldwick, NJ 07463
+HEARTLAND: Like a scene from
+"The Neverending Story," Harry
+
+finds an old book in the attic and
+enters the five lands (i.e. levels)
+which make up HEARTLAND. This
+arcade/exploration adventure,
+moderated by a choice of joystick/keyboard controls, offers a unique and largely non-violent
+perspective. C-64 ($24.95). Circle
+Reader Service #13.
+JEWELS OF DARKNESS: This title
+is really three illustrated text adventures in one. The pictures are
+simple, but do break up the text
+and make it easy on the eyes.
+These adventures are parser-driven
+fantasy quests built off three text adventures published earlier in Britain
+(Colossal, Quest, and Dungeon).
+Atari, C-64 ($24.95), Amiga, Atari
+ST, IBM ($29.95). Circle Reader Service #14.
+SILICON DREAMS: Kim Kimberley,
+Secret Agent, is the protagonist of
+the first two space adventures in
+this parser-driven space trilogy
+(Snowball, Return to Eden, The
+Worm in Paradise). Like the fantasy
+trilogy mentioned above, these text
+adventures were published earlier
+and now find form in illustrated text
+adventures. Apple, Atari, C-64
+($24.95), Amiga, Atari ST, IBM
+($29.95). Circle Reader Service
+#15.
+Microdaft
+19 Harbor Drive
+Lake Hopatcong, NJ 07849
+SOLAR STAR: Energy is the name
+of the game in this arcade game
+where the player becomes pilot of
+the "Solar Star" recovery vehicle
+and strives to collect vital energy
+crystals from a computer which has
+
+run amok. One must pay attention
+to one's instruments, memorize the
+solar grids, and learn not to be too
+trigger-happy in order to be successful at this game. Atari ($24.95).
+Circle Reader Service #16.
+Mindscape, Inc.
+3444 Dundee Road
+Northbrook, IL 60062
+PLUTOS: With graphics as detailed
+as any in the arcades and sound
+which fully takes advantage of the
+Amiga's capabilities, this space
+"shoot 'em up" gives no quarter. If
+you've always dreamed of fighting
+one grand and glorious battle with
+impossible odds, this may be your
+chance. Amiga ($29.95). Circle
+Reader Service #17.
+Psygnosis, Ltd.
+First Floor, Port of Liverpool Bldg.
+Liverpool L3 1BY, U.K.
+TERRORPODS: A sci-fi action/adventure that allows players to take
+on the role of an undercover
+Federation Agent and attempt to
+discover the secret of the evil
+Empire's Terrorpod machines, this
+sixteen-bit arcade game offers a
+three-dimensional background
+perspective and exceptionally
+detailed graphics. Those who prefer
+strategy to "shoot-'em-up" space
+opera will appreciate the strategic
+elements necessary to be successful in one's cover as a commodities
+broker in space. Amiga and Atari
+($24.95). Circle # 18.
+Sierra On-Line, Inc.
+Coarsegold, CA 93614
+3D HELICOPTER SIMULATOR: Although the simulated skies may be
+full of helicopters, this simulation of
+McDonnell-Douglas' "Apache"
+
+helicopter is different. With a 1200
+baud modem and a similarly
+equipped friend, you can dogfight
+on-line. If you don't have a modem,
+you can still dogfight above scenery
+reflective of the Los Angeles, Paris,
+or New York skylines. IBM ($49.95).
+Circle Reader Service #19.
+THEXDER: Sixteen levels of fastpaced, high-resolution action make
+up this Japanese arcade import.
+The game's name is derived from
+the name of the Thexder Super Assault Vehicle that the player manipulates through the maze in order to
+disable the, guess what, central
+computer which has run amok. The
+twenty different types of alien
+cyborgs generated by the computer
+seem reminiscent of Shamus, an
+earlier arcade hit. IBM PC and PS/2
+with numerous graphic options
+available ($34.95). Circle Reader
+Service #20.
+Softboards
+20 Surville Place
+Mairangi Bay
+Auckland 10 New Zealand
+CONNECT: From "Down Under"
+comes the computer version of the
+popular family game "Connect
+Four." The computer opponent is
+not to be underestimated in this
+well-executed translation of the
+table game. IBM ($20.00). Circle
+Reader Service # 21.
+Strategic Studies Group
+1747 Orleans Ct.
+Walnut Creek, CA 94598
+HALLS OF MONTEZUMA: This
+new release is a tour de force of
+some of the most famous battles of
+the United States Marine Corps.
+Using the ever-evolving and ever-im-
+
+proving Battlefront system, players
+can deploy crack Marine troops
+into battles from Mexico City of
+1847 to Hue of 1968. Will your subordinates "salute smartly and
+charge up the hill?" Apple, C-64
+($39.95). Circle #22.
+
+CGW Meets
+Dragon Con '87
+(Continued from page 24)
+Earl Weaver);
+Master Designer Cinemaware for
+Sinbad and the Throne of the Falcon—Bill Williams, designer; and
+Microprose for Gunship—Arnold
+Hendrick and Any Hollis, designers.
+And the winner of CGW's Action
+Game of the Year is:
+Microprose for Gunship—Arnold
+Hendrick and Andy Hollis, designers."
+[Ed: Thus far, Microprose has held
+the high ground in military
+simulators. Though these products
+are not "flight simulators" or strategy
+games per se, they offer a unique
+hybrid perspective with intense excitement and emotional thrill that is
+rarely experienced elsewhere. Gunship is the hottest of the lot."]
+At this point in time, CGW presented
+
+a Special Award for Artistic
+Achievement in a Computer
+Game. "The winner is:
+Master Designer Cinemaware for
+Defender of the Crown—Kellyn
+Beeck, designer, James Sachs, art
+director, and Jim Cuomo, musical
+score. [Ed: The graphics, animation,
+and sound qualities of Defender of
+the Crown are so remarkable that
+many computer dealers felt that this
+program was selling Amigas rather
+than vice-versa. The detailed
+landscapes and beautiful animation
+make this a product which appeals
+to everyone from pre-teens onward.]
+The next presentation was CGW's
+Strategy Game of the Year. "For
+Strategy Game of the Year:
+Avalon Hill for Under Fire! and Expanded Capabilities Disk—Ralph Bosson, designer;
+Mindscape for Balance of Power—
+Chris Crawford, designer;
+Strategic Simulations, Inc. for
+BattleCruiser—Gary Grigsby, designer;
+Strategic Simulations, Inc. for Gettysburg—Chuck Kroegel and David
+Landrey, designers; and
+Strategic Studies Group for Battlefront—Roger Keating and Ian
+Trout, designers. And the winner of
+CGW's Strategy Game of the Year
+is:
+Strategic Simulations, Inc. for Gettysburg—Chuck Kroegel and David
+Landrey, designers." [Ed: Gettysburg
+is a very superior game, as well as
+simulation, of one of the most critical confrontations between the
+North and South. Set-up options
+allow for historical set-up or a computer-determined randomness for
+each division's arrival so that the
+gamer gets an endless number of different Battles of Gettysburg with
+
+none of them shackled to
+history's timetable.]
+Prior to presenting the
+1987 Computer
+Gaming World Game of
+the Year Award, a belated presentation was
+made. "The winner of the
+1986 Computer
+Gaming World Game of
+the Year Award is
+Origin Systems for Ultima IV Lord British, designer." [Ed:
+As Scorpia once noted, "Ultima IV
+stands alone as an oasis in a desert."
+Ultima IV is a groundbreaking CRPG
+game which emphasizes character
+development without sacrificing plot
+and action. Of course, some may
+scoff that we were so late in presenting this award, but remember—they
+were a year late in releasing it!]
+Finally, the moment for the 1987
+CGW Game of the Year Award arrived. For the first time in the history
+of Golden Empire Publications we
+were so impressed with a design in
+development that we asked to be included in the beta-test phase of the
+product. When we first saw this
+product demonstrated at the 1987
+Winter Consumer Electronics Show
+we realized then that this program
+was going to come as close to being
+the perfect simulation of its subject
+matter that we had ever seen. With
+our involvement in the beta-test
+phase it came even closer to the
+ideal. Therefore we are proud to
+present the 1987 Computer Game of
+the Year award to: Electronic Arts for
+Earl Weaver Baseball—Eddie
+Dombrower and Teri Mason, designers (strategy by Earl Weaver)." [Ed:
+EWB is undoubtedly the most exciting sports simulation to be released
+in years. It has it all and could easily
+have been considered for either the
+strategy or action categories in its
+own right. With the capacity to
+design your own stadium, choose
+team colors (Amiga version), trade
+players, and use instant replays, you
+can't lose.]
+With such worthy winners, it's no
+wonder that California shivered on
+the day we left for the convention.
+Shore up your houses before next
+year!
+
+RID #42 (Use card
+opposite pg. 8)
+On this page, a number of games
+and articles are listed for evaluation, as well as some general interest questions. When evaluating a
+game, consider such matters as
+PRESENTATION (graphics, sound,
+packaging and documentation);
+GAME DESIGN (design, playability,
+and level of interest); and LIFE
+(does the game wear well?).
+For each game which you have
+played or each article which you
+have read, place a 1 (terrible)
+through 9 (outstanding) next to the
+appropriate number.
+
+SSI mounted a successful "Rebel Charge at Chickamauga" in order to take
+the top four positions on the strategy side of our readers' Top 50. SSG's
+"Russia" is managing to maintain its position in the center of the Top 10
+rated games and "Chessmaster 2000" seems to be losing some of its earlier
+strength. Part of the reason for such dramatic movement on the strategy side
+is due to the reclassification of "Gunship," CGW's "Action Game of the
+Year, 1987. As a game which requires both action skills and tactical decisionmaking, this game would be in the Top 10 on either side. So we moved "Gun-
+
+ship" to the Action/Adventure side to be consistent with the award category.
+"Strike yer Union Jack, ye landlubbin"Ulti-mates!' Aargh, we've got ya' in
+our sights!" At least, that's what some of readers are saying as Microprose's
+"Pirates" begins its assault on the Action/Adventure list with ranging shots
+within one-tenth of a point from the venerable "Ultima IV." "Starflight" was
+nudged slightly out of its number three orbital position and some of "Might
+and Magic"'s magic was dissipated as these titles slipped to positions four
+and five respectively.
+
+

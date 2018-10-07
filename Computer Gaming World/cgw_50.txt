@@ -1,0 +1,4061 @@
+August 1988
+Number 50
+
+FEATURES
+Fifty Issues and Proud of It
+
+6
+
+CGW Editor Sipe Reflects On Our History / Russell Sipe
+
+Questron II
+
+8
+
+Scorpia Examines SSI's Popular Sequel
+
+JET and F/A-18 Interceptor Compared
+
+14
+
+Two Fighter Simulations / Daniel Hockman
+
+History of Computer Game Design
+
+18
+
+Another Look at the Early Years / Don Daglow
+
+Win Money in the CGW Scavenger Hunt!
+
+20
+
+Trivia Questions That Can Be Profitable
+
+Obliterator
+
+23
+
+Psygnosis' New Action-Adventure / Douglas Seacat
+
+Stellar Crusade
+
+24
+
+An Overview of SSI's Space Strategy Game / Hosea Battles
+
+The Most Humorous Thing . . .
+
+26
+
+Winners of the CGW Essay Contest
+
+Strike Fleet Command Briefing
+
+28
+
+Tactical Tips for Fleet Commanders / Ronald F. Williams
+
+The Three Stooges
+
+30
+
+Cinemaware "Nyuk"s It Up / David M. Wilson
+
+Seven Spirits of Ra
+
+32
+
+Review of Sir Tech's Egyptian Adventure / Alan Roberts
+
+Tobruk: The Clash of Armour
+
+34
+
+A Look at a Hybrid Arcade/Strategy Game / M. Evan Brooks
+
+Scorpion's Mail
+
+36
+
+Scorpia Serves Welcome Hints to Adventure Games
+
+Star Saga I
+
+40
+
+A Look at a Unique Type of Computer Game / W. Kritzen
+
+DEPARTMENTS
+Taking a Peek
+
+4
+
+Video Gaming World (Katz, Kunkel, Worley)
+
+44
+
+Reader Input Device
+
+55
+
+CGW Hall Of Fame
+
+55
+
+100 Games Rated
+
+56
+
+TAKING A PEEK
+Accolade
+550 S. Winchester Blvd. #200
+San Jose, CA 95128
+
+Arcadia
+711 W. 17th St. Unit G9
+Costa Mesa, CA 92627
+
+BUBBLE GHOST: "I'm Forever Blowing Bubbles" would be a great theme
+song for the protagonist in this unique
+maze/chase game. Since the main
+character is a ghost, players do not have
+to worry about having their characters
+"die" in this action game, but they do
+have to attempt to keep that fragile bubble from popping as they travel through
+36 levels of fans which cause turbulent
+air; monsters who dislike ghostly frolicking; and burning candles which threaten
+to turn the lights out on that poor bubble. Atari ST ($34.95). Circle Reader Service Card #1.
+
+AWESOME ARCADE ACTION
+PACK: This package contains three different action titles. "Sidewinder" (pictured
+below) is a "Zaxxon"-type space game
+which competed head-on in the arcades
+with the more familiar title. "Xenon" is
+another outer space shoot-'em-up which
+offers a familiar feel and challenge to arcade fans. "Blastaball" is an outer space
+"polo" or "hockey" game with a unique
+twist. In "Blastaball," players pilot their
+ships across a zero-G playing field and attempt to move the puck by means of
+missile fire. Amiga ($49.95). Circle
+Reader Service Card #2.
+
+California Dreams
+c/o Logical Design Works
+780 Montague Expwy, #403
+San Jose, CA 95131
+TRIANGO: Imagine an ancient and
+popular game reborn on the computer
+and you can visualize TrianGO. That's
+right! The most recent release from
+California Dreams is a modern variation
+of the venerated oriental strategy game
+of "Go." Further, it offers a computer opponent and "edit" function to enhance
+one's enjoyment. IBM ($39.95). Circle
+Reader Service Card #3.
+
+CAPCOM U.S.A., Inc.
+1283-C Mountain View/Alviso Rd.
+Sunnyvale, CA 94089
+STOCKER: For those who enjoy
+movies like "Cannonball Run" and want
+their opportunity to outwit and outrun
+"Smokey" from coast to coast, this action
+
+(Continued on page 10)
+
+The Greatest Story
+Ever Told
+(Well, maybe not the greatest;
+but it isn't bad)
+by Russell Sipe
+have not always been the publisher and
+editor of Computer Gaming World. I used
+to be a Southern Baptist minister. In 1979,
+I made the hardest decision of my life and left
+the ministry. The reasons were many, not the
+least of which was my dissatisfaction with my
+former denomination's accelerating "evolution"
+into a narrow fundamentalism.
+
+I
+
+However, now, I find great joy and personal
+satisfaction in my role as the publisher and
+editor of Computer Gaming World.
+For nearly eight years Computer Gaming
+World has been a consistent and respected
+voice in the dynamic, exciting, and volatile
+world of computer entertainment. With the
+publication of our Golden Fiftieth Issue, I
+would like to share with you the history of the
+birth and growth of CGW.
+In the spring of 1981 (two years after leaving
+the ministry) I was driving down the Orange
+Freeway near Anaheim Stadium, thinking
+about some problems that I had encountered
+while playing SSI's Computer Air Combat
+game.
+I will never forget what happened next. It is as
+clear in my mind now as it was then. While
+passing Anaheim Stadium on the left I thought
+to myself, "I sure would like to read up on this
+game." However, it occurred to me that no
+one was writing about computer games in any
+detailed fashion. "Someone should start a
+magazine on computer games" I thought to
+myself.
+Then a little voice spoke to me, "Why don't
+
+you do it?". No, I thought to myself, I have no
+experience in publishing. "So what? You can
+learn!" replied the voice. Then, something I
+read somewhere came to mind: the secret of a
+successful business is to find a need and fill it.
+If I personally felt the need for a computer
+game magazine, surely there were others that
+felt it as well. By the time I reached home, I
+was getting excited. I felt I was on to something, but I knew that I needed to gather a lot
+of information.
+For the next two weeks, I talked with a lot of
+people in the computer game industry as well
+as small magazine publishers in the board
+game field. During those two weeks, I put
+together a plan of action to start a computer
+
+game magazine. I knew that I didn't have the
+money to start a business so I formed Golden
+Empire Publications Inc. in June of 1981 and
+took on a small group of investors drawn from
+family and friends.
+Now we needed a name for the magazine.
+More than twenty titles were considered. These
+included such candidates as The Computer
+Gamer, The Floppy Gamer; Software Gamer
+(these three sounded too much like a sci-fi
+magazine entitled The Space Gamer which
+was published by Steve Jackson Games from
+Texas), Computer Games (simple yet elegant
+and powerful); Computer Gaming (see immediately preceding comment); Wumpus;
+Game Bits; Computer Game Review; Game
+Software Review (now used by one of our advertisers); Software Wars; Run Games; and
+Kilobaud Warrior. Computer Gaming World
+was decided upon because it suggested that
+we would do more than just review computer
+games. We were interested in the whole world
+of computer games. We were interested in the
+strategies, in the design aspects of the games,
+in the people behind the games, and in the
+companies that produced the games. Computer Gaming World was conceived of as
+more than a consumer oriented game review
+magazine. We have always tried (we think with
+success) to be something of a trade magazine,
+as well. The positive feedback we get from
+designers, publishers, and game distributors
+are testimony to the fact that we have done
+just that.
+With a name and $6000 in the bank we
+began to put together the first issue of CGW
+which was slated for a November 1981 release.
+By August we found out that we would be
+having competition. Electronic Games (later
+renamed Computer Entertainment) from
+Reese Communications out of New York and
+Softline (later renamed St. Game) out of North
+Hollywood were also scheduled for Winter
+1981 debuts. "Great!" I thought to myself "I've
+not even printed an issue yet, and I have big
+time competition!"
+All three magazines debuted within days of
+each other and the computer game magazine
+industry was born.
+As it turns out Al and Margot Comstock Tommervik (of Softalk and Softline) became my
+good friends and were a source of help to me
+
+on more than one occasion. The relationship
+between the two companies was always warm.
+Although I did not know Electronic Games
+editor Arnie Katz back then, Arnie and I have
+since become good friends and he is now a
+regular contributor to CGW (along with his
+partners Bill Kunkel and Joyce Worley).
+By 1983, the arcade game fad was in high
+swing and CGW had something on the order
+of 18 competing titles on the newsstand. The
+years 1983-1984 were trying times for us. We
+had to compete with higher circulation
+magazines for advertising dollars and
+newsstand space. Nevertheless, our conservative business approach helped us weather the
+storm. Then came the arcade game crash of
+1984. It took down the majority of the computer game magazines with it. By the winter of
+1984, only a few computer game magazines
+remained. By summer 1985 CGW was the only
+4-color computer game magazine left.
+The manufacturers who survived the crash
+and prospered were those companies that, for
+the most part, targeted an older age group
+(especially those consumers who were interested in strategy and adventure games as opposed to arcade action games). Fortunately for
+COW, our readership has always been
+dominated by the adult strategy/adventure
+gamer; an audience that was not only interested in the games themselves, but also in the
+personalities that designed the games and the
+companies that manufactured them. COW
+caters to this readership.
+Currently a monthly, CGW began life as a bimonthly. Reader demand caused us to go to
+a nine issue per year schedule with the
+Jan/Feb 1986 issue. This schedule was maintained until fairly recently.
+In Fall 1987 we started a second magazine
+called Computer Game Forum. It was intended
+to be a quarterly that was more gossip/news/humor oriented than CGW. Unfortunately, CGF did not attract the advertising interest of the manufacturers since it was perceived as being too similar to CGW to justify
+the additional advertising expense. It was discontinued after two issues. However, some of
+the style, humor, and content of CGF was carried over into COW. Additionally, with the
+demise of CGF, CGW was transformed into a
+monthly publication.
+Now it is 1988 and the computer gaming
+world is undergoing a resurgence. Sales are
+up, numbers of releases are on the climb
+again, and, best of all, the front line products
+are getting better and better. I can't think of a
+more positive atmosphere in which to
+celebrate America's first, oldest, and best computer game magazine, Computer Gaming
+World!.
+
+game. Specific monsters inhabit specific terrain
+types (grasslands, forests, mountains, swamps,
+oceans, tombs, and dungeons), and will not be
+found elsewhere. Wandering creatures (who can
+show up anywhere except underground) may offer
+you items, hit points, or information in exchange
+for money. Better weapons and armor become
+available in towns only over time, and slowly at
+that. Most importantly, getting a good foothold in
+the game is just as hard as it was before.
+
+Censoring the "Evil
+Book of Magic"
+Reviewed by Scorpia
+uestron 11 is the follow-up to the original
+Questron. In the previous game, you
+defeated the evil wizard Mantor and hence,
+were left with his evil book of magic which had to
+be destroyed. Destroying
+the book forms the basis
+of the plot for the current
+adventure.
+
+Q
+
+The finished book is invulnerable to all damage,
+so the only way to
+eliminate the foul tome is
+to wreck it before it's completed. Thus, the good
+wizard Mesron sends you
+back into the past, at
+about the time the book is
+nearing completion, and
+you must make your way
+to Mantor's secret lair to
+destroy it.
+However, going back in
+time has its disadvantages:
+you become weaker and
+lose all the good stuff you
+accumulated on your first
+adventure. In fact,
+Questron II is a stand
+alone game in which you
+must create a new character instead of bringing over
+the one you had in
+Questron. So if you can't
+find your old Questron
+disk, don't worry, you
+won't need it.
+TITLE:
+SYSTEMS:
+
+# PLAYERS:
+PRICE:
+DESIGNERS:
+PUBLISHER:
+
+Questron II
+Apple, Atari ST
+C-64/128, & IBM
+(Amiga and IIGS soon)
+Solitaire
+$39.95-$49.95
+Charles Dougherty
+John Dougherty,
+Cyrus Harris, & C. MacDonald
+Strategic Simulations
+Mountain View, CA
+
+As in the first game, your
+character comes with pre-assigned values for all attributes, so
+character "creation" is simply a
+matter of giving the character a
+name, after which you're ready to
+begin play.
+
+Those who have done Questron (or even Legacy
+of the Ancients) will find many similarities in this
+
+You begin with very little: only cheap armor, a
+dagger, some money, food, the evil book of magic
+(which contains the destruction spell), and a gold
+key. Monsters start showing up pretty quickly and
+since some of them can be quite nasty, it's important to find a town with a healing shop as soon as
+possible. Otherwise, you are stuck paying outrageous prices to wandering creatures for hit
+points (if you can afford it). Saving the game frequently so progress won't be lost is a wise move.
+Outdoor combat is pretty much the same as
+before. Monsters seem to pop up out of nowhere
+right next to you (once in awhile you know something is coming, but not too often), and fighting
+begins. You can use hand weapons, or spells if
+you have some. The "Sonic Whine" spell is particularly good against tough opponents (such as
+venom ants), and "Time Sap" can freeze them if
+you'd prefer to run away instead of fight.
+You can also end up fighting the wandering creatures if you're not careful. When they appear with
+an offer, they expect you to accept or reject it. If
+you do anything else, they suddenly turn aggressive and attack. This can also happen if you're
+travelling quickly along the countryside and try to
+move away from them when they show up (which
+can happen at any time). Fighting wandering creatures is not recommended, as they don't carry
+much cash, and they can be difficult opponents.
+Accepting their offers of weapons and armor isn't
+recommended either, as they never have bargains.
+Everything always costs more than you would pay
+in town.
+Your first task is a matt& of wandering around
+the island, noting where the various towns and
+cathedrals are, and locating the castle. Inside the
+castle is a room where you can talk to Mesron,
+who will, from time to time, raise you in level (as
+well as send you on little errands). Level raises will
+also increase some of your attributes. Unlike the
+other games, however, there are no training areas
+where attributes can be increased through arcade
+skill games.
+The towns have a variety of shops, but not all
+towns have all shops, so it's important to make a
+list of who has what (especially in regard to armor,
+weapons, and spells, and the prices being charged
+for these items). Money will not be easy to come
+by at first, so you want to get the most for your
+cash. Healing shops, for some reason, are not
+labelled. You will have to look for an occupied
+table with no sign, which is the usual indication of
+a healer.
+Information can be obtained from only two sources: from certain establishments in the towns, and
+
+from wandering creatures outdoors. Inns, barbers,
+and mystics will, for a small fee, give you a hint or
+clue, one per town visit (note that inns only function as information centers; you can't really spend
+the night in one of them to heal up). The people
+who dance around inside the towns have nothing
+valuable to tell you, and, in fact, have only a
+limited number of stock phrases to say when you
+talk to them.
+The first island has only one dungeon, a tomb
+below Riverside Cathedral. You must go through it
+to obtain certain items. One of them is an object
+that Mesron wants you to get. Another will let you
+in to see the "Holy Ones", and there are others
+which, when retrieved, will allow you to purchase
+"breads of life" from the Holy Ones. These breads
+of life are very important later on in the game, so
+stock up on as many as you can. Of course, there
+will also be chests of gold you can open and loot.
+Since the view in the tombs is an overhead
+perspective, monsters can be seen approaching
+and occasionally, it is possible to outrun them,
+especially if you are on your way out. However,
+most of the time you have no option but to fight.
+Spells will be more helpful then hand-to-hand combat, so make certain you have plenty before going
+in. "Sonic Whine" does not work in the tombs, but
+all other spells will.
+As in both Questron and Legacy, you will have to
+do some looting of the castle chests (both on this
+island and the next) in order to obtain keys (and
+possibly some money!). The guards, as usual, will
+be tough and hit hard, so it's necessary to plan
+looting expeditions in advance, and to come
+prepared with a lot of spells.
+Chests that are opened stay opened after you exit
+the castle, so they do not provide an unlimited
+supply of money. However, leaving the castle does
+"turn off' the guards, and they will not chase you
+when you come again (unless, that is, you start
+opening chests again . . . grin). Naturally, any
+guards you may have killed the last time will be
+replaced the next time you enter.
+Eventually, you will be ready to visit the second
+(and last) island. For this, you must purchase a
+ship, which is best done in Octapoint, and sail
+north until you reach your destination. The second
+island is much like the first, except that the
+monsters here are more deadly. While many of
+them seem the same, they will do more damage to
+you, and will be harder to kill. In addition, there are
+some new critters roaming the outdoors, and they
+are very nasty indeed. Your best bet here is to find
+the one town that sells trained eagles and use that
+for your transportation. This will enable you to
+avoid the majority of encounters.
+This second island has one tomb and two dungeons. Fortunately, the "Twilight Tomb" is somewhat easier to get through than the other one.
+There is a Hall of Maps in Mesron's castle on the
+first island and paying a hefty fee will let you look
+at the map of the twilight tomb. You can make a
+copy of this with some tracing paper (held against
+the monitor), and thus speed your trek through
+this unwholesome place.
+
+The dungeons are even easier than the tombs.
+In the first dungeon, you can get a magic scroll
+that does auto-mapping of each level as you go
+through the dungeons (the scroll works only in
+dungeons, not tombs). Since the dungeon levels
+are fairly simple to begin with, the auto-map feature (once you have it) makes exploring pretty
+much a breeze,
+especially as the
+maps for each
+level are retained
+when you go up
+or down. Thus, remapping is not
+necessary unless
+you leave the
+dungeon and
+come back to it
+later.
+The dungeons
+have a 3-D view,
+and here, too,
+you can usually
+see monsters approaching (unless
+they attack from
+behind or the
+sides). Running is
+rather difficult, however, so you are pretty much
+forced to fight it out. Spells tend to be more helpful than hand-to-hand combat. Some monsters
+can damage weapons and armor, so bring a
+couple of spares with you, just in case.
+Scattered throughout the dungeons are various
+chests, urns, and coffins. Chests generally hold
+gold or weapons. Urns can increase your hitpoints,
+although some are trapped and will cause
+damage. The same is true of coffins.
+Some passageways are
+trapped, so it's
+necessary to examine all corridors before walking through
+them. Once exposed, a trap is
+harmless and you
+can pass it safely.
+Traps stay exposed for as long
+as you are in the
+dungeon. Moving
+between levels
+will not reset the
+traps.
+In the first dungeon, you are looking for the key to open the door
+of the second dungeon (which, by the way, you
+can't enter even with the key unless you have
+reached the level of Knight). As you might expect,
+it will be somewhere on the eighth (and final) level.
+The last dungeon leads, naturally, to Mantor's
+
+(Continued on page 50)
+
+TAKING A PEEK
+(Continued from page 4)
+game could be the answer. It takes 37
+screens to get from Florida to California
+in this game where drivers score points
+for fast times, avoidance of tickets, and
+not running out of gas. (Not pictured).C64/128 ($29.95). Circle Reader Service
+Card #4.
+
+Constellation Software
+17 Saint Mary's Court
+Brookline, MA 02146
+CRYSTAL HAMMER: This European
+import is an attractive "Arkanoids"-type
+game offering 30 different screens. The
+play is similar to the earlier game, but
+adds "intelligent" enemies and "unhealthy" crystals. Amiga ($19.95). Circle
+Reader Service Card #5.
+
+LARRIE AND THE ROBBERY OF
+THE ARDIES: This is a running, jumping, chase game where the player takes
+on a "Tweedie Bird" type persona (a
+seemingly helpless little bird that cannot
+fly, but is pursued by persistent baddies).
+Six different combat enhancements add
+variety to the game. One or two players.
+Amiga ($19.95). Circle Reader Service
+Card #6.
+MISSION ELEVATOR: An espionage
+chase game, this product incorporates
+ideas from several earlier action hits.
+Players must fight their way through 62
+levels of a grand European hotel in order
+to foil the destructive plans of foreign
+agents. Each level has a secret object to
+be located before the counter-espionage
+agent can move to the next level. Amiga
+($19.95). Circle Reader Service Card #7.
+
+Data East U.S.A., Inc.
+470 Needles Drive
+San Jose, CA 95112
+KARNOV: Jinborov Karnovski is the
+
+fire-breathing Russian portrayed in this
+conversion of the popular coin-op game.
+The djinn-like hero (actually, a former circus star) must locate and retrieve the
+Treasure of Babylon from the evil dragon
+(Ryu) who stole it from Karnov's village.
+Ten different combat enhancements (including bombs, boots, and boomerangs)
+are as indispensable to our hero as
+Batman's utility belt is to him. Players
+must defeat the Boss Enemy (Ryu's
+strongest monster) on each level before
+moving to the next. C-64/128 ($29.95).
+Circle Reader Service Card #8.
+
+Discovery Software International
+163 Conduit Street
+Annapolis, MD 21401
+ZOOM: Think of "Pac-Man" in hyperspace and you have an idea of this
+clever game. Each level offers a grid that
+represents a plane or dimension in
+space. The player must trace every line
+
+(Continued on page 49)
+
+Into The
+Hornet's Nest
+by Daniel Hockman
+
+y
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+ou put on the soundtrack from TOP
+GUN. You settle back in your chair
+and close your eyes. The driving bass
+notes that open "Danger Zone" hit your ears
+and body. Suddenly you are
+transported into
+the cockpit of an F18. You jam the
+throttles forward
+to the stops. The
+engines wind up
+into a tremendous
+roar and your craft
+strains against its
+restraints. You ask
+your RIO if he is
+ready. From the
+rear seat he quips
+"Let's boogie!" You
+kick in the afterburner and signal
+thumbs up to
+catapult officer.
+He salutes and
+brings his yellow
+wand down to the deck, and
+F/A-18 Interceptor
+Amiga
+elevates it to point down the
+Solitaire
+runway. Your machine quivers
+$49.95
+Robert Dinnerman
+at full power, the adrenaline
+Electronic Arts
+flows, your heart pounds . . .
+San Mateo, CA
+any second now . . . Wham!
+The catapult fires. You are thrust back into
+your seat as you rush
+down the ramp. In two
+and a half seconds you
+and 16 tons of screaming
+machine and deadly explosives dip off the end of
+the carrier and struggle to
+rise above the angry sea.
+Forty feet, sixty, ninety, a
+hundred . . . you stared
+into the face of disaster
+once more and have survived. You are on your
+way. Its time to rock . . . and . . . roll!!!!
+We often experience life vicariously through
+our computer games. Never is this more true
+than with jet fighter simulators. After seeing
+Top Gun and reading books such as Stephen
+
+Coonts' excellent Flight of the Intruder we
+yearn for these experiences. Experiences that,
+if unavailable in reality, we can have thanks to
+such programs as EA's new F-18 Interceptor, SubLogic's JET, and Spectrum
+Holobyte's award winning Falcon. Since Falcon was reviewed in the February 88 issue of
+CGW (#44), we will not spend much time on
+it here.
+SubLogic's JET was introduced for the IBM
+in June 1985. The Apple and C-64 versions
+came out shortly thereafter. However, it was
+the 68000 microprocessor versions of JET
+that really knocked our socks off. The
+graphics and sounds drew us in. We were in
+the cockpit, our heart pounded faster as we
+closed with the MIGs. We learned how difficult carrier landings could be.
+Now comes F-18 Interceptor. Graphics that
+surpass 68000 JET (and that is difficult to
+do). And the sound! Wow! Talk about realistic
+feel. Here it is!
+As the pilot of an F/A-18 jet fighter you work
+your way through a series of six combat missions in the San Francisco Bay Area. A training mission precedes the combat missions
+and, if you wish, you can simply fly around
+and explore the Bay Area in a MIG-free sky.
+The combat missions are in an increasing
+order of difficulty. After completing the final
+mission, you can start the cycle again, only
+this time the MIGs are meaner.
+The sound is fantastic. You will hear the
+scream of the jet engine; the explosion of missiles, the barrage of cannon fire; all sounding
+very realistic.
+Although there are no realistic air-to-ground
+missions and thus no air-to-ground weapons,
+you can fire your Sidewinders and Sparrow
+missiles at ground targets. Missile strikes on
+the ground appear as
+craters and columns of
+smoke (but you must be
+in the immediate vicinity
+to see these effects).
+Missile strikes against certain buildings also
+produce the smoke
+columns. In particular the
+Electronic Arts buildings
+and nearby structures are
+"live" targets. If for any
+twisted surly reason, or simply because of
+basic human destructiveness you feel the
+need to demolish EA you can take off from
+San Francisco International Airport, loop the
+plane and head south. Seven miles southeast
+
+of SFO you will see the intersection of Highways 101 and 92 (it looks like a giant X). Just
+east and south of this intersection is a pair of
+low triangular shaped buildings with a common parking lot. The northern structure contains the EA development group and the
+southern structure contains EA Distribution.
+Go ahead, make their day! By the way, the tall
+building just to the east of the EA complex
+contains the Ziff-Davis Publishing division
+which produces A+ Magazine and MacUser
+Magazine. It is not true that CGW Editor Russell Sipe asked me to let you know that his
+"arch rival," Bob Lindstrom (who is the new
+Editor at A+ Magazine), is located in the
+southwest corner office of that building,
+about 3/4th of the way up.
+Both 68000 Jet and F-18 Interceptor are
+very engaging products. So which is better?
+Not a fair question for these two. For, as
+similar as these two products are, they are different enough that picking one over the other
+would be like asking which is better, an apple
+or an orange?
+To boil the comparison down into basics, F18 Interceptor is a "toy" in the most positive
+sense of the word, while 68000 Jet is more of
+a "game".
+At a recent Writer's Symposium at
+Electronic Arts Dan Bunten talked about the
+difference between games and toys. A game
+is a competition. Scores are kept, and can be
+bettered. We interact with the environment of
+the game in order to post a higher score than
+our last effort or that of another person. Or,
+we compete simultaneously with other people
+to come out the highest score in the game at
+hand. "Toys" on the other hand, are things
+which we play with. You play a game, you
+play with a toy.
+In talking about software
+"toys" Steve Linhart put it this way:
+Toys are a good model
+for computer entertainment. Children use toys
+to create, learn, and explore; so do adults. There
+are already many successful computer toys for
+adults. These tend to be
+simulations of existing
+adult toys, such as sports
+cars and planes.
+The difference between
+a toy and a game is that you don't
+win [with] a toy. For example, life . .. is
+a toy not a game because there is no
+particular way to win, it's just something
+
+you do. (The Journal of Computer Game
+Design, June/July 1988; 5251 Sierra Rd. San
+Jose, CA 95132).
+In F-18 Interceptor you are playing with a
+sophisticated flight simulator that adds the feature of hostile aircraft to the "world" you ultimately end up exploring. JET is also a
+sophisticated flight simulator which provides
+you with a world to explore as well, but the
+emphasis is on getting a high score as you
+shoot down MIGs and/or bomb
+enemy targets.
+We should mention that the
+non-68000 versions of JET contains the same basic functions
+as the 68000 JET. However,
+not surprisingly, they fall far
+short in terms of sound and
+graphics. This writer finds the
+enemy MIGs to be much more
+deadly at lower levels in IBM
+JET than in lower levels of the
+68000 version. Hint for 68000
+users: When you are about to
+be hit by a missile which you
+have determined you cannot
+avoid, hold down the "5" key on
+the keypad to dampen the degree to which the missile hit knocks
+you off course.
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+
+To compare other features of the
+DESIGNER:
+two products: JET has a wellPUBLISHER:
+developed air-to-ground combat
+feature, while air-to-ground is
+"tacked" on to Interceptor.
+Interceptor's HUD display is more realistic
+than Jet's display. Aerial dogfighting is easier
+and perhaps more satisfying with Jet but
+probably more realistic with Interceptor. Both
+games allow land or sea based operations
+and allow you to choose between an F-16 Falcon and an F-18 Hornet.
+As in real life, carrier landings are difficult and require a lot of practice. Jet
+allows you to load SubLogic Scenery Disks.
+However in the 68000 version, your jet appears oversized when you land on
+Scenery Disk runways.
+Finally, 68000 Jet permits
+a modem hook-up
+- whereby you can fly in
+tandem with a friend.
+The bottom line? I like and recommend
+both, but then again, I also like both apples
+and oranges.
+
+Jet
+Apple, 064, IBM,
+ST, Amiga, Mac
+1-2
+$39.95-$49.95
+Charles Guy (IBM)
+Chris Green (Amiga)
+SubLogic Corp.
+Champaign, IL
+
+Where's
+the River?
+Somewhere in the timeless depths of the mid1960's somebody wrote
+the first computer game.
+Within 24 hours of this
+earth-shaking event,
+somebody else declared
+it to be a waste of time,
+electricity and gray matter.
+
+Over the River
+and Through
+the Woods:
+
+As I chronicled in "The
+Dark Ages of Game
+Design" (CGW #28, p.
+12), the game designers
+of the pre-Apple II days
+were hobbyists. We
+hoped to reach a small
+audience of fellow
+gamers around the
+country who, like us,
+used the late-night "offpeak" hours to sneak in
+their game playing. In
+our school, this was
+necessitated by the fact
+that until games were
+kicked off the system,
+they were eating over
+50% of the computer
+time many weekends.
+After they were kicked
+off they were impermissible and blasphemous,
+and academic computing was once again pure.
+The advent of the
+Apple II in the late '70's
+gave designers the
+freedom to work on dedicated machines where
+no one could tell us that
+gaming was forbidden.
+Apple Trek, Wumpus,
+Eliza, Adventure, Rogue
+and Zork all came from
+mainframe games that
+made the transition to
+micros. It should be
+noted that only in the
+case of Zork did the
+designers have the
+foresight to maintain
+control of their brainchild and successfully exploit it creatively and commercially.
+
+The Changing Role of Computer
+Game Designers
+
+Not all of us were so insightful. In the
+mid-seventies I had a fully-functioning
+fantasy role-playing game on the PDP10, with both ranged and melee combat, lines of sight, auto-mapping and
+NPC's with discrete Al. When I bought
+my Apple, I went back to all my old
+designs to pick the most promising one
+to convert . . . and ignored my FRP.
+
+By Don L. Daglow
+
+Like I say, give the Zork guys credit.
+
+This is the River and
+I Think We're All Wet
+By the summer of 1980, Mattel realized that the Intellivision video game's
+success wasn't a single-season affair and
+set out to hire an in-house game design
+team. I was lucky enough to be one of
+the original five programmers hired for
+
+that team and eventually
+ended up as Director of
+Game Design for Intellivision. I sure as hell
+didn't know what I was
+getting myself into,
+though.
+Picture a building converted from an old Hot
+Wheels factory with a
+second floor added to
+the interior to hold the
+game designers—who
+grew to a staff 110
+strong. Look across its
+expanses and your eyes
+would scan a seemingly
+endless sea of cubicles
+beneath a corrugated
+metal roof and exposed
+air conditioning conduits. The walls and ceilings were painted white,
+the cubicles a consistent
+gray. There were no windows. It was the Big
+Company style. It was
+hardly a creative environment.
+Within that environment, however, were
+some of the most
+talented game designers
+you'd ever want to meet.
+My own team included:
+Eddie Dombrower, the
+designer of Earl Weaver
+Baseball; Rick Koenig,
+author of Racing
+Destruction Set and Ferrari Formula I; Connie
+Goldman, who did
+graphics for Rick's
+projects and for Adventure Construction Set;
+and Dave Warhol, whose
+music and sound effects
+have graced products
+from several major
+publishers. There were
+several other real talents
+who, discouraged by the
+Cartridge Crash of '83,
+left the business for safer
+shores.
+
+Life on our white and gray floor went
+on in a high-security environment.
+Guards at the front door checked for
+properly coded security badges. An additional electronic card key was necessary
+to enter the game design area. This had
+the effect of cutting us off from almost
+all outside input, leaving us in an ivory
+tower where our only contact was with
+
+(Continued on page 42)
+
+T
+
+hat's right, we'll pay $100.00 to
+the reader with the highest score
+in the following trivia quiz. We'll
+even print your name in the magazine.
+That's right fame and fortune. Enough
+money for even Dennis Owens of Old
+Towne, ME to subscribe to CGW for
+over three years (see Greetings from
+Paradise in
+CGW #47,
+p. 10).
+Now's the
+chance for
+all you who
+have been
+claiming to
+have been
+readers from
+the first issue
+to prove it.
+In case of a
+tie, the
+editors will
+come up
+with a special list of questions to determine a sole winner.
+
+Game Design Contest" and what was his
+prize?
+13. In the March, 1988 (#45) issue,
+one of the "Taking A Peek" descriptions
+mentioned a " . . . totally radical warrior
+ninja." What was the name of the game?
+14. In which issue were CGW sub-
+
+21. In which issue of CGW was a "Letter to the Editor" entitled, "Give Me That
+On-Line Religion!"?
+22. Who wrote the "Year In Review" for
+CGW #33?
+23. In which issue of CGW was the
+Desktop Publishing System which we
+use to
+"layout" the
+magazine pictured?
+
+WIN ONE HUNDRED
+DOLLARS IN CGW'S
+SCAVENGER HUNT
+
+24. Which
+issue of
+CGW was
+the first
+regular
+theme issue?
+
+25. "My
+Other Boat
+Is A High
+Speed Combat Patrol Hydrofoil" was the subtitle to
+what review?
+
+For those who haven't been around
+since our first issue, 1.1, note that threefourths of the questions will be from
+more recent issues. The second prize is
+a complimentary two year subscription
+to CGW and the third prize is a one year
+subscription.
+
+26. Who wrote the two first person accounts based on 50 Mission Crush and
+8-24?
+
+Entries must be postmarked no
+later than September 15, 1988.
+
+28. In what issue were both Ultima V
+and Wizardry IV: The Return of Werdna
+first previewed?
+
+27. What particular expertise did the
+answer to question 26 have in order to
+write those articles?
+
+1. What is the score of the Dodger
+baseball game in issue 5.3?
+
+29. What is "The Learning Game?"
+30. What was "Euclid vs. Patton" in
+CGW #39?
+
+2. Find the "Finkas" (artist's signature)
+on the cover of 3.5.
+3. What blooper can be found in the
+table of contents of 2.6?
+
+scribers offered free software and a one
+month free subscription to Quantumlink?
+
+4. Which issue was Vince DeNardo's
+first issue as Art Director?
+
+15. Who is the pilot pictured on page
+23 of CGW #31?
+
+5. What is the punchline of the Chip
+and Ferb cartoon on page 33 of 4.3?
+
+16. In a recent issue of CGW, what do
+Douglas Adams, Isaac Asimov, Jerry
+Pournelle, and Roger Zelazny have in
+common?
+
+6. In what issue did CGW print a fictional ad commenting negatively on the
+televangelism scandals?
+7. In what review did the section
+header, "A Bier Less Filling," show up?
+8. What page number of what issue
+had only the word, "beep" on it?
+9. Which issue of CGW heralded the
+debut of Electronic Arts?
+10. What was the name of the robot
+who won CGW's very first Robotwar
+Tournament?
+11. According to 4.2 (April, 1984), who
+was born on 1-27-84?
+12. What reader won the "Generic
+
+17. What CGW feature, which
+originated in Computer Game Forum,
+uses subtitles in parentheses as though
+they were a description from a
+restaurant's (or perhaps, tavern's) menu?
+18. Which issue of CGW reviewed an
+extremely realistic medical simulation
+called Surgeon?
+19. In which issue of CGW did we
+satirize ourselves and the rest of the industry with columns like "Taking A
+Puke," "Readers' Inkblot Device," and
+"99/4 Boxes of Chips on the Wall?"
+20. Who is pictured on page 17 of
+CGW #32?
+
+31. What do the section headers have
+in common in the article entitled, "Ramparts and Rodents" in CGW #46?
+32. In 1985, one article referenced
+such games as "Bore in the East," "Blasto-Cremo," "Firing Squad," and "E.T. &
+The Turbolaser." What was the title of
+the article?
+33. True or False - Broderbund is a
+Swedish word according to CGW #40.
+34. In the recent "Fog of War" article,
+which game designer quoted von
+Clausewitz?
+35. According to CGW #46, which
+entertainment software company had
+the largest percentage growth in number of employees during 1987?
+36. In what city and state did CGW
+present its Game of the Year Awards in
+1987?
+37. What issue of CGW had the first
+"Conversions Received" column?
+
+38. In what setting did "The Rumor
+Bag" take place in CGW #44?
+
+44. What was "Titans of the Computer
+Gaming World?"
+
+39. What do the section headers have
+in common in the article entitled,
+"You've Come A Long Way, Baby" in
+CGW #36?
+
+45. Which issue of CGW featured "A
+Buyer's Guide to Joysticks and Mice?"
+
+40. What do the section headers have
+in common in the "Uninvited" review in
+CGW #39?
+41. What is the current name of the
+game reviewed on page 12 of CGW
+#30?
+42. What was the name of David
+Cheng's ship which won the first CGW
+"Cosmic Balance Ship Design Contest?"
+43. What recent issue of CGW had a
+chronological listing of SSI's games by
+year published?
+
+46. In Evan Brooks' Kampfgruppe
+replay in CGW #25, is it the Germans
+or Soviets that he suggests have an extremely poor set-up position?
+47. Who was the cover artist on CGW
+#29?
+48. What modern aircraft was featured
+on the cover of CGW #44 and why?
+49. In CGW #43, Roger Bohn stated
+that, in Mech Brigade, a good rule of
+thumb is that 1.x units will be destroyed
+per pulse of firing. Define x.
+50. What was the "Unidentified Aircraft"
+referred to in CGW #45?
+
+Destruction
+Unlimited
+Psygnosis' "Obliterator"
+by Douglas Seacat
+
+O
+
+bliterator is a nice name. It is descriptive, elo-
+
+quent, and brutal. One thing I have always
+noticed about Psygnosis games is that they
+usually have appropriate titles. From such beginnings
+as Barbarian, Arena, Deep Space, and Terrorpods
+comes this new action game. As an adventure game
+following the same format as Barbarian, Obliterator has
+very nice graphics, a simple plot, and the capacity for
+keeping the brain-work down to a minimum.
+The game begins when a large, seemingly invincible
+spacecraft moves into human space, completely
+destroying the entire space fleet. Apparently, man has
+been pursuing his reckless ways again and has created
+quite a few enemies in his conquest of the galaxy. All
+these nasty critters have gotten together and built the
+previously mentioned spacecraft. Invincible against any
+external threat, the Federation has decided to beam
+someone inside the ship. They only have one chance
+and can only send one person. That is where the
+player comes in and assumes the mantle of the (trumpets, please) Last Obliterator!
+
+weapons, as well as the ammunition to make them effective. One of the challenges in the game stems from
+the fact that different creatures require different
+weapons and the more powerful weapons can carry
+only limited ammunition. The wise player will use the
+weakest weapon possible to kill an opponent, saving
+his more powerful weapons (and ammunition) for the
+stronger aliens. The pistol works on most of the aliens
+in the first section of the ship; the
+rifle is effective against most of the
+others; and the blaster should be
+reserved for the rare four or five
+creatures who are immune to anything else. Note that the bazooka
+can kill anything, but should be
+saved for a certain obstacle in the
+middle of the game which cannot
+be destroyed by the other weapons.
+Players should be aware of the fact
+that each room has its own distinctive set of monsters. Only a few creatures can be killed permanently,
+with most reappearing upon reentry
+into the room. While this "reincarnation" can be annoying, it does keep
+the game challenging. To even
+—
+things up, however, the ammunition is
+also replaced, so it is possible to stock
+up on vital ammo by moving back and
+forth between two rooms, picking up
+ammo each time. Purists may claim that
+this is cheating, but what's a little cheating in a suicide mission?
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+Obliterator
+Amiga, Atari ST
+Solitaire
+$39.95
+Garvan Corbett
+David H. Lawson
+Psygnosis
+Liverpool, UK
+
+Naturally, it is a suicide mission, but as an elite commando, you are certain that you can persevere. Within
+the enemy ship, it is necessary to: disable three vital
+ship systems (engines, weapons, and shields), collect
+an important data pack, and finally, steal a shuttle in
+order to escape the crippled vessel right before it explodes. It goes without saying that the alien ship is
+simply jam-packed with bug-eyed aliens, traps, and horrid defensive systems.
+
+Technically, it is not really necessary to kill every
+monster on every screen. Doing so is not only a waste
+of time, but a waste of ammunition, as well. A useful
+tactic is to hit the "Defense" key while running. This will
+cause the Obliterator to roll, often right past his
+enemies. This move not only works on most of the
+creatures, but several of the traps, as well. However,
+one should not use this technique in every situation because there is a good reason for killing most of the
+creatures, the score.
+
+Game mechanics are fairly smooth and efficient. The
+game allows use of either joystick, mouse, or keyboard.
+While playing with the joystick is permitted, this writer
+cannot recommend it because several crucial commands cannot be executed from the joystick. Instead,
+playing with the mouse-keyboard is suggested. The
+various possible actions include: changing weapons
+(choosing between four different kinds), moving in the
+four cardinal directions, jumping, moving into a defensive posture, stopping, entering doorways, picking up
+items, and of course, firing one's weapon.
+
+Instead of having a simple intrinsic value, the score is
+vital in Obliterator. Once all of the tasks have been
+completed, a countdown to the ship's destruction will
+begin. The length of this countdown is determined exclusively by the player's score. If the shuttle hasn't been
+found and activated by the time one's score has
+reached zero, the ship will explode with the Obliterator
+on board. This countdown method can cause some disappointing final scores, but it is an ingenious method
+of making sure the aliens are fought rather than simply
+avoided.
+
+It does not take long to become conversant with the
+commands. Also, experience with the earlier game, Bar
+barian, will speed the learning process considerably
+(even though all of the commands are not the same).
+Once this has been mastered, game-play should
+proceed quickly. The game isn't difficult, although it is
+fun. Basically, the Obliterator must roam the decks and
+elevators of the alien ship, destroy the bulk of aliens en
+countered, and find useful items.
+Since the Obliterator starts the game with only a pistol, the first objective should be to procure other
+
+All in all, I found myself enjoying Obliterator. The
+game is neither particularly original nor extremely difficult, but the graphics are well-executed and the action
+is plentiful. Pure strategists and exclusive adventure
+garners should stay away, but those who like action or
+want something colorful to showcase on their Amiga or
+ST will find this game to be a good buy. In other
+words, know what to expect and you will not be disappointed. After hours of conquest in obscure military
+campaigns or long days in dungeon corridors, a few
+minutes of Obliterator can be quite refreshing.
+
+Jihad
+Junction
+SSI Invokes A "Stellar Crusade'
+by Hosea Battles
+n the 24th Century, both the Corporate League
+(League) [Ed.: Unscrupulous capitalists.] and
+the People's Holy Republic (P.H.R.) [Ed.:
+Despotic communists.] wish to control the Kiffryn's
+Cats Star Cluster. When the League began to
+rapidly explore and
+exploit planets, this
+threatened the restrictive trade policies
+and bureaucratic
+oligarchy of the
+People's Holy
+Republic. Conflict
+was inevitable and
+Stellar Crusade is
+the depiction of this
+struggle.
+
+I
+
+In solitaire mode,
+players must play as
+strategic commander
+of the League. In the
+two player mode, of
+course, one may play
+either side. On the
+ST, all game play is
+mouse-controlled,
+but the IBM version
+is restricted to
+keyboard moderation
+via the numeric
+keypad. Both versions utilize pull
+down menus to enhance the interface.
+
+Balanced
+Budgets
+for Defense
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNER:
+PUBLISHER:
+
+The key to this game is the fact
+that it is a Strategic/Economic
+Space Combat game. Economic
+decisions are crucial to winning
+the game. This is not the standard space shoot-'em-up. Unfortunately, this key area of
+economic determination is also
+the primary flaw in the documentation. Even
+though the manual is organized into sections with
+
+Stellar Crusade
+Atari ST, IBM
+1-2
+$49.95 (IBM)
+$54.95 (Atari ST)
+Norman C. Koger, Jr.
+SSI
+Mountain View, CA
+
+a heading to match nearly each function in the
+game, it never clearly explains the economic principles of the game. The allocation of Production
+Points, as well as the cogent use of Build Points, is
+critical for fleet and colony maintenance. Yet, the
+manual offers little guidance for interpreting even
+basic information provided on the screen. As a
+reviewer, this writer was forced to call SSI directly
+in order to discover what the screen was trying to
+tell me.
+Even after reading the rules over and over again,
+it was impossible to understand the "Research" option. The only reference to be found for this option
+was one paragraph in the glossary under "Effectiveness." It did not explain how to allocate resources
+to research, how much it costs to increase each effectiveness level, or how to find out if it is even possible to increase one's effectiveness level. Again, it
+was necessary to call SSI, only to be told that any
+unused "Production Points" go to "Research" and it
+takes approximately 500 Production Points to increase one's level. Since the economic decisions
+are so crucial to success in the game, one would
+have hoped for better treatment in the manual.
+The mechanics of play consist of two phases,
+"Economics" and "Movement." It can be a very fastpaced game when combat takes place.
+Throughout both phases, a three-dimensional map
+of the quadrant is on the screen. The player can
+turn this map on or off at will.
+During the "Economics" phase, players allocate
+"Production" and "Build Points" to factories and
+starports in order to build ships and raw materials.
+Food production is also handled in this phase.
+One had best pay attention to this, because food
+riots could occur on the player's planets and spoil
+everything. Further, players must assign ships for
+"Transport Duty" in the "Transportation Pool" and
+"Escort" ships to protect them. Without escort
+ships, transports make juicy targets for enemy
+raiders. It is also necessary to allocate resources for
+producing: spare parts (to repair ships), rations (to
+feed soldiers), and armies (to recruit, equip, and
+pay soldiers). Fortunately, there is an "Economic
+Report" available to the player which includes a
+graph on expenditures and suggestions for increasing production.
+
+Command Performances
+for State Security
+During the movement phase, players perform
+fleet movements, design spaceships, scrap old
+ships, load/unload transports and assault ships, assign ships to a fleet, assign ships to a "Command,"
+and assign "Commanders" to fleets. A player may
+only have a maximum of 120 ships per side, a cap
+of 36 separate fleets, and a limit of 20 ships per
+fleet.
+Players have a group of "Commanders" which
+can be assigned to a given fleet. Those belonging
+to the League, for example, have historic code
+names such as Achilles or Patton. Those belonging to the P.H.R. are provided with biblical code
+names such as David and Samson. Each com-
+
+mander is rated on a scale of 1 (incompetent) to 5
+(brilliant) for Attack/Defense/Assault. When a command ship is destroyed, the commander is
+destroyed with it and a replacement is placed in
+the "Commanders Pool." There are more than 36
+commanders for each side. Nevertheless, it is important to assign the best commander to each particular command, because a commander's rating
+considerably affects the outcome of space combat.
+Once all fleet movements are completed and opposing fleets end up in the same system, combat
+occurs. Combat involves both I weapons (warp
+space) and R weapons (real space). Each can only
+attack ships in their respective space. Most raiders,
+for instance, attack from I space. When a weapon
+is fired, it is destroyed and must be replaced with a
+spare upon the completion of combat. As combat
+occurs, explosions take place around the fleets,
+ships disappear, and the count of weapons
+diminishes.
+If a defender loses space combat, surface combat
+will commence. At this point, a small screen appears which shows a ship unloading combat
+troops on the surface of the planet. Surface combat begins and a new combat resolutions screen
+appears. On this screen is a list of attacking and
+defending units. As units are destroyed, they disappear from the list. As reflects any type of warfare,
+the longer the combat lasts, the more population
+and factories are destroyed. It is, therefore, not unusual to conquer a planet only to discover that it is
+barren due to the surface warfare.
+Finally, repairs may be performed if spare parts
+are available within the system. Without spare
+parts, the best planned offensive will stall and become a defensive retreat.
+One last point with regard to combat must be
+the consideration of ship designs. In the design
+mode, all basic ships look the same. However,
+when one begins adding weapons, defenses, and
+engines, the ships change shape. Players are given
+the option of renaming their present ships and
+christening the new ones they create. The design
+screen is graphically detailed and extremely user
+friendly.
+
+Reviewer's Summary
+for Executive Decision
+Though there are not any fancy graphics in this
+game, the game has an appropriate mix of
+graphics and text so that it does not clutter the
+screen. The bulk of the computer's power is utilized in keeping track of the decision points,
+economic consequences, and strategic results in
+the game rather than drawing pretty screens. Furthermore, the computer opponent is extremely
+hard to beat, even on the easiest level of play.
+The game offers seven different scenarios. The
+smallest lasts 10 turns and the largest can last up
+to 100 turns. Though there is no option for creating one's own scenarios, the scenarios provided
+can keep any player busy for a long time. One
+scenario is particularly important. This is the "Exploration Scenario." This teaches players how to es-
+
+tablish a colony and build it up to a self-supporting
+and material producing asset. Since the manual offers a set tutorial which takes a player through
+three scenarios, it is highly advised that players follow the tutorial before beginning serious play.
+There are two minor problems with version 1.0 of
+the game (on the ST). Both are supposed to be
+fixed in version
+1.1. If the Operation Jericho
+scenario does not
+allow the P.H.R.
+player to move
+Task Force #22,
+you have the old
+1.0 version. The
+game locks up at
+that point and
+the only way out
+is to reboot. Also,
+the earlier version
+allows a sudden
+appearance of
+ghost ships
+around turn 44 in
+all scenarios.
+Though these ships cannot be destroyed, they do
+not hinder play. Players who have version 1.0
+should contact SSI for a corrected disk.
+Overall, once players understand the manual
+(and that is a large undertaking), this can be a very
+satisfying game. It is reminiscent of Imperium
+Galactum, but offers more complexity. The
+strategic and economic elements of the game
+seem to be excellent in design, but the manual
+does nothing to help players get into the game.
+The game can be a worthy addition to any strategy
+gamer's software library, but only if he is willing to
+get beyond the early frustration level.
+
+AND NOW,
+FOR SOMETHING
+COMPLETELY
+DIFFERENT
+Winners f th e CG W
+Essay Contest.
+CGW subscribers were asked to complete the sentence, "My most humorous experience while playing a computer game was . . ." The unanimous first
+choice of the editors and winner of the two year
+paid subscription to CGW is Steve DeWall of
+Bethalto, IL. Second choice was Jayson Hogan of
+Seattle, WA. who will receive a one year paid subscription. All other entrants will have an issue of
+CGW added to 'their present subscription.
+
+Editors'
+Choice Award:
+. . . the night my band of adventurers was about to enter another
+dungeon and I heard a noise on the
+basement steps behind me. It was
+the baby's walker tumbling down.
+"The baby is falling down the steps!"
+I screamed. Fortunately, he had
+pushed the walker down the steps
+and was fine. I rushed up the steps
+and picked him up. Just as we got
+into the kitchen, my wife came
+around the corner at full speed. She
+was stark naked and covered with
+soap. When wet soapy feet hit
+lineoleum, disaster is inevitable. All
+three of us ended up under the
+kitchen table, a little shaken, but
+unhurt.
+
+Runner-Up:
+. . . the time I was playing Dungeon Master and left the console
+long enough to cross the room. I
+noticed some movement on the
+screen and yelled across the room
+to my friend, "Kill that Beholder
+before it kills my characters!" My
+Mom, thought I was talking to her
+and, never having used my computer or the mouse before, picked
+up the mouse and attempted to kill
+the monster by applying the mouse
+directly to the screen and pressing
+the button furiously. Needless to
+say, the Beholder proceeded to kill
+all of us, but it was hilarious to
+watch Mom use that mouse.
+
+"STRIKE FLEET"
+COMMAND BRIEFING
+by Ronald F. Williams
+n this article, a CGW subscriber
+shares his successful approach to
+Electronic Arts' and Lucasfilm
+Games' "Strike Fleet." As in our occasional "Strategically Speaking"
+column of strategy tips, CGW cannot
+playtest all the hints
+received. Let the player beware.
+
+keep it within 2000 meters of its mother
+ship. Then, when the Russians fire on it
+(1-5 missiles), manually fly it back to the
+mother ship at full speed. Upon landing
+the helicopter, the Russian missiles will
+explode without damaging either the
+
+TO:
+All commanders
+FROM:
+CINCLANT-FLT
+
+5. When facing enemy aircraft of the
+Backfire Kingfish class, always wait until
+the craft are within 28
+kilometers before launching an anti-missile. In this
+manner, the success probability for interception is
+95% assured. The success
+probability decreases
+proportionally beyond this
+range.
+6. Commanders who
+deploy more than one task
+force in the Russian
+scenarios and hence, encounter dual attacks (i.e.
+surface and submarine)
+during a battle, should
+change all surface ships'
+speed and direction in
+order to stay out of gunnery range and concentrate on the submarine
+threat.
+
+SUBJECT: Tactical
+Considerations
+Evaluation of tactics utilized in recent engagements has resulted in the
+following recommendations.
+1. Create and use a
+matrix of ship capabilities
+(as in the sample printed
+with this article) so you
+know at a glance what
+you have versus what you
+are against. It will also assist you in selection of the
+best ships to utilize in a
+given situation.
+Note that for most of the
+Russian scenarios, a
+preference for DDG Class
+(Arleigh Burke, if possible)
+is recommended. Two DDGs
+carry more anti-missiles than a
+single Ticonderoga. Spruance DDs are
+to be avoided at all cost.
+
+quantity of 12. Backfires always fire at
+the flagship, so do not be caught unawares.
+
+helicopter or ship. This is undoubtedly
+not realistic, but it works!
+
+The primary strategy should be
+centered upon either launching a first
+strike (targeting the Slava class as a top
+priority, because of its matching gun distance) or intercepting Russian missiles
+first, launching a limited counter-strike
+by utilizing the Secret Helo Tactic (see
+item 2, below) to help deplete their antimissiles, and finally, gunning them
+down.
+
+3. Utilize a quick ship change/anti-missile methodology. Track the first incoming missile from the Target Ship by
+using the "M" key and launch an antimissile. Go to the next missile by means
+of the "M" key, "Enlarge Map Range" to
+a size that will include the next target
+ship. Then, use the "C" key to toggle to
+the targeted ship. Remember to keep
+your anti-missile weapon highlighted.
+The speed and ease of use will greatly
+enhance a ship's potential for survival.
+
+2. Use the Secret Helo Tactic to compensate for the Russian superiority in
+anti-missiles. Launch a helicopter and
+
+4. Commanders should change their
+flagship whenever the current flagship's
+anti-missile inventory is reduced below a
+
+7. In terms of surface
+combat, the doctrine
+demands opening range. It
+is sometimes effective to
+close on the enemy and
+alter speed in order to compensate for gun deflection,
+but one should always
+reverse direction before
+entering the enemy gun
+range. Further, when hits drop
+enemy speed, one's own speed should
+be dropped in order to continue
+effective fire. 90% of the time, this is effective.
+
+SUBJECT: Bugs and
+Useful Pesticides
+In the C-64/128 version, some
+program errors and possible solutions
+have been noted.
+1. Scenario 9.3 ("The Road to Kuwait")
+seems to have a map/location problem
+when the location movement command
+is used on the Fleet or Task Force Map.
+The program has a tendency to use the
+next lower map for reference. Consequently, if the player does not refer to
+
+the lower level map, ships will usually
+run aground.
+Solution: Commanders should move
+the ship slowly (four knots) into a position behind the next closest ship and follow until the Depth Warning disappears.
+2. Scenario 9.8 ("Escape to New York")
+
+does not provide the Arleigh Burke class
+DDGs (if replacements for game default
+ships) with the two LAMPS helicopters
+that should be standard equipment.
+Solution: Commanders should be certain that these ships are accompanied
+by one equipped with helicopters.
+
+3. Scenarios 9.8 and 9.9 do not allow
+lock-in of the Sonar On command for
+warships, nor does it allow non-combatants to permanently toggle Sonar On.
+Solution: Commanders, particularly
+those responsible for warships, should
+consistently keep the sonar status as
+
+Sonar On/Radar Off.
+
+of the trio's films. Both versions, however, played
+identically.
+
+Yes, We Have No
+Bananas!
+Cinemaware's "The Three Stooges"
+Reviewed by David M. Wilson
+Either I had just put in the wrong disk, or
+Cinemaware had put a Defender of the
+Crown disk in a box labeled, The Three
+Stooges. There, on my monitor for the entire world
+to see was the
+familiar Defender of
+the Crown title
+screen and the computer was loudly playing the rousing
+Defender of the
+Crown theme. Then,
+suddenly, radio static
+took over as these
+three familiar stooges
+marched out onto
+the screen. Imagine
+my shock when Larry
+said, "This looks like
+a kid's game." It was
+really Larry's voice.
+Moe said, "Shut up!"
+and Curly barked viciously. This gave
+way to the authentic
+"Stooges" theme
+music and the real
+game began. Right
+then I knew that I
+was in for a slapstick
+treat with
+Cinemaware's latest
+release. They had
+captured the Three
+1 Stooges mystic.
+
+E
+
+TITLE:
+SYSTEMS:
+# PLAYERS:
+PRICE:
+DESIGNERS:
+
+PUBLISHER:
+
+As the plot of the "game" unfolds, players discover that the wicked banker, I. Fleecem, is about
+to foreclose on the orphanage's mortgage. Moe,
+Larry, and Curly declare that they'll get the money
+($5,000) necessary to keep the orphanage in the
+good-hearted widow's hands. If players score exceptionally well (earning $7,500), they can even
+provide those much-needed repairs to the house
+which the widow has been putting off. If they want
+to "marry" the widow's beautiful daughters, they
+will need even more.
+So, our boys are off and seeking odd jobs. This
+is done by a moving hand at the top of the screen.
+The hand moves between six different rectangles
+(lined up like one side of a Monopoly game) and
+the player tries to hit the joystick button when the
+hand is on a good choice. The bad choices are
+mousetraps, bankers, or any game segment that
+the player hasn't mastered, yet. Selecting the
+mousetraps causes the "guys" to lose a day while
+they nurse Moe's hand. Stopping on the banker
+will incur both charges (business license fees, back
+taxes, etc.) and ridicule. Of course, players will try
+to make good selections, but as the game progresses, the hand moves faster and faster.
+One of the ways the boys earn money is simply
+by finding money. They find wallets and money
+bags all over the place. If only life were this simple.
+Nevertheless, it is a real laugh to watch all three
+bend over to pick up the wallet and bump their
+heads together. Any Stoogephile knows what happens next. Moe slaps Curly and Larry (with appropriate sounds and exclamations).
+Another method they use to earn money is by
+serving pies, which naturally leads to a pie fight as
+in the short subject, "Hoi Polloi." Players can enjoy
+throwing pies without having the mess (or the
+waste). $10.00 is paid for each pie "served" by
+smacking a guest in the face. Throwing and ducking is not as easy as it sounds, however. Remember that players are using one joystick to control
+three stooges.
+
+Cinemaware's Three Stooges
+game continues the company's
+fine tradition of innovative games
+with excellent graphics and sound.
+Cinemaware calls their products
+"interactive movies" rather than
+"games" and in this product,
+players will almost feel as if they
+are watching one of the trio's popular short subjects when they watch the credit sequences.
+
+The hospital always needs gurney pushers and
+the stooges love to push gurneys. Therefore, in
+the segment entitled "Doctors" (based on the
+award winning short subject, "Men In Black,"
+which, in turn, satirized the popular medical film,
+"Men In White"), players collect money for each
+hall they pass, while they bob, weave, and dodge
+around nurses, wheelchairs, and patients on
+crutches. The patients on crutches are, by far, the
+most fun to knock down, but these collisions will
+cost time, since the goal of the player is to reach
+the operating room at hall 20 before the timer
+runs out. The Amiga version adds points for catching flying medicine bottles and other supplies. The
+C-64/128 version misses this extra feature.
+
+There are, as one would expect, differences between the Amiga and C-64/128 versions. The
+Amiga version has sharper and clearer imagery
+and more clarity in the sound effects and digitized
+voice tracks, but the Commodore's opening
+screens were much more like the original opening
+
+"Boxing" is based on "Punch Drunks" and the arcade game is an example of effective use of the
+split screen. The screen is divided into three sections. In the upper left portion of the screen, Curly
+is shown, in static images, boxing his life away. In
+the upper right, the stopwatch which is being used
+
+The Three Stooges
+Amiga, C-64/128
+Solitaire
+$39.95
+John Cutter
+Timothy Skelly
+David Thiel
+Bill Zielinski
+Cinemaware
+Westlake Village, CA
+
+to time the round is shown ticking away. The lower
+portion of the screen is what is important to game
+play, however. It seems that, as in the film, Curly
+can only win the fight if he hears the tune, "Pop
+Goes The Weasel." Just before the fight, however,
+Larry sits on the violin that he was planning on
+playing the tune upon. Now, Larry must rush into
+town and get something to play the tune on,
+either a violin or radio. He must avoid sleeping
+dogs, wooden crates, open doors, streetlamps, and
+ice blocks. The catch (which sometimes seems like
+a Catch-22) is that he only has until the fifth round
+to return. This is a difficult task to say the least.
+In "Crackers," Curly tries to win the cracker eating
+contest at the lodge. In this portion of the game
+(the idea taken from the short subject, "Dutiful But
+Dumb"), players wrangle with ornery oysters. They
+grab the spoon. The screen digitized directly from
+the film was the most impressive part of this segment.
+Another arcade segment can be important to the
+game. It is the slapfight. This segment will not
+directly provide the stooges with any money, but it
+helps to slow down the hand which selects the
+game segments. The player becomes Moe and
+must win this sadistic battle of nitwits with Larry
+and Curly. Players who want to increase their chances of hitting will have to resort to faking by
+moving Moe's hand repeatedly before striking. The
+
+more hits Moe gives Larry and Curly, the slower
+the hand used in selection will move. Hint: Curly
+seems to be the biggest sucker in the slapfight.
+Stoogephiles
+who tire of
+the arcade
+elements in
+the game
+will enjoy
+the Trivia
+Contest. In
+this event,
+players
+answer multiple choice
+questions
+about the
+boys'
+career.
+Before playing the
+game,
+players
+should read the documentation which details a lot
+of the history of The Three Stooges. Anyone who
+does not read the book, cannot expect to do well
+in the Trivia contest. The C-64/128 version has
+three questions at $200 each, but the Amiga offers
+a larger prize and more animation/sound in these
+sequences.
+Okay, The
+Three Stooges
+game is not for
+everybody, especially if you are
+the kind of person who
+doesn't want to
+ever see
+another The
+Three Stooges
+film, again. For
+those of us
+who remember
+the boys from
+our childhood
+with a great
+deal of fondness, however,
+the game is
+simultaneously
+a delight and
+piece of "living"
+memorabilia. In
+fact, this game
+gave me the
+courage to
+watch a few
+episodes. If you
+are, or were, a
+fan, you will
+enjoy this game
+for its fresh approach to some
+old friends.
+
+The Seven
+Spirits of Ra
+by Alan Roberts
+f you've grown tired of the generic pseudomedieval fantasy games, come with me to the
+deserts of Egypt. Here, since the dawn of civilization, the tale has been told of Osiris, the pharaoh
+of the gods, and his murder, rebirth, and revenge.
+The Seven Spirits of Ra is
+arcade/adventure (80% arcade/20% adventure),
+giving you the chance to
+play the god Osiris. Some
+may prefer more puzzlesolving, but the game is
+certainly better than most
+of the pure arcade games
+on the market.
+
+I
+
+Getting Your
+Just Deserts
+(Game Objective)
+
+title:
+System:
+Price:
+Designer:
+Publisher:
+
+The goal of the game is
+to return to the land of
+the living. Rats, snakes,
+bats, vultures, crocodiles,
+ghosts, mummies, Seths
+(demons) and the arch-villain Set will oppose this
+quest. Each time you
+"die" (a relative term in
+the land of the dead), one
+of your seven lives floats
+away. Lose all and be cast
+in the fiery lake of Abat.
+Not all obstacles in the
+game can be overcome
+by combat. Physical
+obstructions bar your way as well.
+The Seven Spirits of Ra
+Fortunately, each animal species is
+IBM (5.25" disks,
+ruled by a "Master," and once you
+free exchange for 3.5")
+$49.95
+defeat the Master, you can transMacrocom, Inc.
+form yourself into its shape, enaSir-Tech Software
+bling you to bypass those
+Ogdensburg, NY
+obstacles. Even your fellow gods
+will test you. The jackal-headed Anubis, the
+crocodilian Sobek, the four-armed Sekhmet, and
+your own wife Isis must be appeased. You must
+pay attention to hints scattered throughout the
+game. Also, you can regain lost health by finding
+and eating food.
+
+Ankh if you love Isis
+(An Overview)
+Let us embark on a brief tour of the game (those
+of you who'd rather discover for yourselves what's
+
+on the other side of the tomb may skip down to
+the next section). You are on the royal barge when
+treacherous guards pop up with swords drawn.
+What happens? You get annihilated. Next thing
+you know, you are in the Duad (the land of the
+dead). There are three pyramids here and a section
+of riverfront property infested with hostile wildlife.
+The entrances to the pyramids are flashing
+squares marked with ankhs (a cross with a loop at
+the top). Notice that the door to the central
+pyramid is out of reach.
+Inside the pyramids you might find nourishment,
+weapons, and treasure (who says you can't take it
+with you?). Each pyramid hides the gateway to the
+other realms (in the advanced game, which gate
+leads to which land is randomly determined): the
+Swamps of Sebat, the City of Tombs and the
+Caverns of Isis. Somewhere in the caverns is the
+portal to the Passage of Rebirth. After you answer
+the questions of Isis, you will be reunited with any
+lives you might have lost in combat. You'll need
+them. As you pass through the gates of rebirth,
+you are reincarnated as Horus, the avenger. In the
+center of this swamp is the Stronghold of Set, who
+can transform himself into any creature or guardian you have met. If you are victorious, you rise
+into the heavens and ride the celestial barge with
+Ra. A short optional philosophy lecture follows.
+
+Undercurrents in the
+Underworld (Complaints)
+There should be some way to choose the
+"silence" option before the introduction music
+begins. Some of us must face the wrath of roommates or spouses who like to sleep undisturbed.
+What makes an annoying situation worse is that
+the only way to save a game is to quit and restart,
+and, literally, "face the music" again.
+Another problem deals with movement. As you
+move Osiris, he goes to the edge of the screen.
+The screen scrolls along as Osiris strolls along,
+rarely allowing you to see trouble before you step
+in it. The layout is awkward: while most keys used
+in the game are sensibly near the left-hand "home
+keys", one vital function is "p" for pick up (it would
+have been more logical to use "g" for get). Even if
+you have a joystick, you must use the keyboard periodically.
+While it is very clear how much damage Osiris
+has taken, one can only guess how much fight an
+enemy has left. This is especially annoying with
+Set. You find yourself wondering if he is just tough
+or if a specific attack is a complete waste of time.
+The game seems unevenly weighted in favor of
+arcade sequences. Even when players must
+answer a question, they have an unlimited number
+of guesses (unless there is a pack of nasties hard
+on their heels). This could use refinement.
+
+Divine Aspirations (Compliments)
+Although saving a game is not as painless as it
+might be, you can save up to nine times per disk.
+While the graphics themselves are not outstand-
+
+ing, the colors in particular are brighter and offer
+more variety than I've ever seen on a CGA screen.
+The game also ran on my Hercules-compatible
+Compaq screen. You must run the program from
+a backup "play disk" or off the hard disk (the
+original being used as a "keyed master disk").
+There is no hint book, but the game is backed
+by Sir- Tech's Hotline Hint Department and Disk
+Repair Service. Also, with many adventure games,
+once you've solved the game you might as well
+reformat the disk. With the Seven Spirits, however,
+there is an "advanced" game option. The monsters
+are tougher, you can't regain strength by resting,
+and the layout has had some minor changes. The
+questions are the same, though.
+Personally, I'm delighted with the idea of using
+non-European mythology as a basis for an adventure game. The book that comes with the program
+contains a short section on Egyptian religious
+thought. This is the first game I've played all year
+that actually taught me something.
+Even though the game is not as tough as it
+should be, the game is worthy of an above
+average recommendation and it must be given an
+extremely strong recommendation for arcade addicts and teachers.
+
+All's Pharaoh
+in Love and War (Hints)
+[Ed.: Warning! The following material contains
+specific hints and strategies.]
+Your first item of business is to find the sword,
+the only weapon you can get without transforming. Get the staff of fireballs and lightning bolts
+ASAP. Learn to juggle these three weapons quickly, as some monsters are vulnerable to only one or
+two attack forms.
+Fireballs travel a short distance and explode,
+while lightning bounces. Use caution; if your opponent is too close, you'll both take damage. Fight
+ghosts in a large room (they are invulnerable when
+walking through walls) and use the Staff of Fire (it
+has a faster rate of fire). You can only have one
+missile in the air at one time (from either staff), so
+avoid using lightning in wide-open spaces unless
+necessary. There is a patch of water in the
+swamps. Lure your enemies here, where you can
+maneuver (remember, you can only use weapons,
+pick up or drop items in human form).
+Also monsters and food are placed randomly. If
+you don't like what you see when you cross
+through a gate, back out and try again.
+
+Tobruk: The
+Clash of Armour
+
+In solitaire mode, one may only choose German.
+With two players, both German and British options
+are available.
+
+Review by M. Evan Brooks
+
+Additionally, one may choose the arcade subgame option (on or off) and a previously-saved
+game may be loaded for play.
+
+T
+
+Tobruk is played in discrete player turns. Each
+isonefthwrmulaionscve- Tobruk
+day consists
+of two movement and assault phases
+(Axis first) followed by resupply and the command
+phase (air/engineer support).
+
+ing desert warfare during World War II.
+Datasoft has attempted to bridge the gap between arcade garners and strategy wargamers in
+this release.
+
+Look
+and Feel:
+Graphics and
+Documentation
+Tobruk's map and
+character set are very
+reminiscent of
+Microprose's
+
+Decision in the
+Desert (Gazala
+scenario), except the
+former is not as crisp
+or detailed. Since
+Tobruk was released
+in 1988 and
+Decision in 1985,
+this gives one pause
+for thought.
+
+TITLE:
+SYSTEMS:
+PLAYERS:
+PRICE:
+DESIGNERS:
+PUN.
+
+levels. The only difference is that at the expert
+level, the British computer opponent is more aggressive and mobile.
+
+Tobruk: The Clash of Armour
+C-64/128
+1-2
+$34.95
+Steven R. Williams
+Datasoft
+Chatsworth, CA
+
+The documentation
+is adequate. The
+rules are explained,
+and a historical background briefing is
+given. However, the
+historical analysis is a
+cursory "bare-bones"
+narrative. No historical delineation of tactics or operational
+strategy is given.
+
+A brief bibliography is included.
+For those interested in additional
+background to the Gazala Campaign, this reviewer would suggest: Atlas of the Second World
+War (ed. Peter Young), Panzer Battles (MG F.W.
+von Mellenthin), Rommel (Desmond Young), or
+The Desert Generals (Correlli Barnett).
+
+The Play Is The Thing: Mechanics
+Joystick operated, Tobruk is easy to use. Upon
+booting, one may select either novice or expert
+
+Movement next to an enemy unit initiates combat, and one may use the arcade option at this
+time (assuming that at least one AFV [armored
+fighting vehicle] is available).
+During the command phase, one may utilize air
+and engineer support. Air support consists of allocating assets between air superiority, air strike
+and interdiction; engineer support consists of allocating "spanners" (the British term for wrenches,
+showing Tobruk's British origins) between battlefield vehicle recovery, sabotage of enemy
+vehicles or mine operations. This use of engineer
+assets is an innovation and illustrates their importance. However, aside from the mine/countermine
+operations, the engineer operations are "hidden"
+from the user and their actual impact is difficult to
+determine.
+Strategically, control of Tobruk determines the
+victor; alternatively, reducing the enemy to two
+units will also yield victory.
+Based upon the minefields, early operational
+movement by the Axis is virtually pre-determined.
+A flanking movement southwards should engage
+Bir Hacheim (historically defended by elements of
+the Free French and the Foreign Legion).
+Countermine operations should seek a path
+through the minefield in the region of "The
+Cauldron". When the path is cleared, mobile elements should accelerate through the gap and
+move onto Tobruk. The southern elements will assist in this operation, and depending upon tactical
+finesse and expertise, Tobruk should fall without
+any real problem.
+The basic problem with the simulation is that alternative strategies are unavailable. The northern
+Axis forces (Italian divisions) have a mobility factor
+of "1"; since most German forces (which are located in the south) have a mobility factor of "6", it
+does not take a Clausewitz to determine optimum
+strategic maneuver.
+Assuming that the Axis is careful to move his
+supply dumps forward, the British computer opponent is easy to defeat. Attacks in the north are
+wasteful for either player; mobility is lacking, and
+the computer opponent leaves much of the British
+force structure alone. Historically, the British
+responded piecemeal and without any coherent
+command strategy, but this did not have to occur.
+
+(Continued on page 41)
+
+W
+
+ell, it's August, and Fred
+is off at the annual Grues
+Convention being held (as
+usual) in the Dark Room of Colossal
+Cave. I understand that this
+year they're going
+to try and get
+Daylight Savings
+Time repealed
+(grin). Anyhow,
+with Fred away
+and the dog days
+of summer upon
+us, this is a good
+time to trek into
+the cool back
+room and peek
+into the (overflowing) mailbag.
+
+back issues, or copies of articles
+that appeared in previous issues, of
+COW. You have to write directly to
+the CGW address to order back is-
+
+Wasteland (clues carefully irradiated over a glowing atomic pile):
+A number of people are having
+some problems with opening the
+cylinders at Base
+Cochise. What is
+needed here are
+some keys (NOT
+secpasses); if you
+don't have one for
+each cylinder, it's
+very likely that you
+missed something
+at the Citadel. Go
+over each room
+thoroughly. Also,
+there is a pattern
+involved here,
+which can be
+figured out only
+by trial and error.
+
+Scorpion's Mail
+
+Before we get to
+the letters,
+though, I'd like to
+remind everyone
+that it really is
+necessary, if you
+live in the United
+States, to enclose
+a self-addressed,
+stamped envelope
+with your questions. Otherwise,
+you aren't going
+to get a reply (a
+SASE is not
+necessary if you
+live outside the
+US).
+Also, I really do
+try to get a reply
+out the day after I
+receive a letter,
+and usually can
+manage that.
+However, mail service has been very
+erratic lately.
+Sometimes a letter can take as
+much as a week
+or more to reach
+me, when another letter from someone else in the same state (or even
+city) will arrive in my box in only a
+couple of days. I have never figured
+out why this is so, but it is. So when
+you write, keep in mind that a
+response could be delayed by the
+vagaries of the US Postal Service.
+Finally, I am not able to provide
+
+Bard's Tale I
+(answers served
+"on the rocks"):
+Some folks are
+being puzzled by
+the "one of cold"
+riddle in
+Kylearan's Tower.
+This one is actually simple to
+answer, if you've
+paid enough
+money to the bartenders at the
+taverns.
+
+sues (copies of individual articles are
+not generally available). Check the
+listing of back issues before ordering anything. Some back numbers
+become sold out and if the issue
+you want is not listed, it is no longer
+available (photocopies of articles
+from out of print issues run $1.00
+each). Now, on to the games!
+
+Bard's Tale III
+(hints displayed
+on a bed of
+"iceberg" lettuce):
+The Ice Keep in
+Gelidia seems to
+be a popular
+problem these
+days, specifically
+getting past the
+wards of the three
+towers. If you
+don't mind freezing a bit (or even
+if you do), wander
+around the outdoors until you locate
+the hut. Inside you will find something to put you on the track of the
+solution. Don't overlook the phrases
+by the wards, and keep your manual
+handy (you'll be referring to it often).
+Beyond Zork (silken solutions
+with a dash of color): Caterpillars
+
+seem to be in short supply here
+(grin). Most people know that these
+are "baby butterflies", but they are
+stuck on how to change the butterfly back to a caterpillar. This one is a
+bit tricky, but with a little thought
+and experimentation, you may be
+able to grind out the answer.
+Return of Werdna (pre-sliced advice in cube form): Several people
+are getting a little ahead of themselves in this one by marching up into
+the cube before finishing everything
+below, especially Hell. Unless all the
+puzzles (except the witch) are completed, going into the cosmic cube
+isn't going to help you much, and
+you certainly won't be able to get
+out of it (this IS a one-way trip).
+Take some time to get everything
+else done first, so you can avoid
+frustration.
+Ultima V (a partial list of
+dangerous food supplements): A
+surprising number of people are
+
+having trouble keeping up their
+Avatar status. Usually this is a result
+of taking things that don't belong to
+them, especially crops from the
+fields to supplement food supplies.
+These crops aren't yours to take.
+You really have to buy food in the
+towns. Taking food from tables isn't
+quite as bad, but should also be
+avoided. Remember, Avatars are
+good and good people don't steal.
+However, it is ok to take things that
+are in abandoned areas. Also, on a
+different problem, before you enter
+the final dungeon, do make sure
+you have everything you need with
+you. The entrance is strictly oneway. You can't change your mind
+and go back out again.
+Might & Magic (a savoury hint
+roasted to a "golden" brown): A
+bunch of folks have gotten pretty far
+into the game, only to discover they
+are lacking the gold key, and usually
+because they forgot to search in a
+
+certain stronghold. The only thing to
+be done in this case is to go back
+and re-do the first task of the game.
+After its successful completion, revisit the stronghold and search at
+the proper time.
+That's about it for now. Remember
+if you need help with an adventure
+game, you can reach me in the following ways:
+On Delphi: visit the GameSIG
+(under the Groups and Clubs
+menu). On GEnie: stop by the
+Games RoundTable (type: Scorpia
+to reach the Games RT). On The
+Source: Send SMail to ST1030. By
+US Mail: (Don't forget the SASE if
+you live in the US!): Scorpia, PO Box
+338, Gracie Station, New York, NY
+10028.
+Until next time, happy adventuring!
+Copyright 1988 by Scorpia, all
+rights reserved.
+
+The Stars...
+My Destiny
+
+The computer acts as a gamemaster throughout
+the game by moderating combat, keeping track of
+players' locations, handling trade transactions, and
+updating personal possessions. It also directs the
+players to the proper paragraphs to read, depending on their situation.
+
+by William "Biff" Kritzen
+n 2815 A.D., the majority of the human race is
+afraid of space. They are cloistered in the Nine
+Worlds (Earth and eight colonized planets) in a
+region called the Galactic Fringe. Even though
+space travel has been practical since the invention
+of the dual-axis hyperdrive in 2257, humankind's
+attempt to colonize "Beyond the Boundary" came
+to an abrupt halt in 2490. The "Space Plague," a
+gargantuan epidemic caused by an organism of
+alien origin, killed more than half the humanoid
+population of the galaxy, threatened the extinction
+of civilization, and forever changed mankind's attitude towards space.
+
+I
+
+Now, a Space Patrol enforces the "Boundary,"
+that one-way border around the Nine Worlds in
+order to prevent anything like the "Space Plague"
+from ever happening again. Now, anyone may
+leave the area enclosed by the Boundary, but they
+may not return.
+Thus far, the Boundary has proven effective in
+keeping ships from entering the Nine Worlds for
+three centuries, keeping humanity safe from the
+unknown. Of course, this does provide for a bit of
+stagnation, as well. After all, no new discoveries,
+no new challenges, and countless lost opportunities hardly seem compatible with a growing
+standard of living. Finally, there are those who
+sense that something is amiss .. .
+STAR SAGA:ONE: Beyond The Boundary is the
+brainchild of Andrew (Wizardry) Greenberg, Rick
+Dutton, Walt Freitag, and Mike Massimilla. The first
+science fiction, role playing, adventure game in a
+planned trilogy, Star Saga is a genre-buster. It can
+be compared to no other game on the market. The
+best way to describe Star Saga's playing experience
+is to compare it to participating in the Foundation
+series of books by Isaac Asimov. We're talking
+grand scale adventure here, folks.
+From one to six can play the game. Each human
+player takes the role of one of six characters. These
+can be temporarily added or suspended as realtime situations require ("I can't game tonight, the
+horses have cholic;" "Russell! Telephone!;" and "It's
+two in the morning, I'm outta here!" are all situations that arose during our gaming sessions. Fortunately, the game is designed to make it convenient to simply suspend one character and continue play.).
+The game is non-graphic and driven by text in
+booklet form. There are lots and lots of paragraphs
+(thirteen booklets of them to be exact). Each booklet is 48 pages long and there are 888 total entries.
+Actually, you don't need to read all of them to successfully complete the game, but the richness of
+the prose and the compelling story line will undoubtedly keep you exploring and experiencing all the
+universe has to offer.
+
+The game plays very smoothly and moves quickly,
+although it takes around 60-80 hours to complete.
+Each turn, a player has the option to pilot his ship
+through space, land and explore planets, trade
+cargo at planetary commodity exchanges, meet
+with players to exchange cargo or secret information, or interact with any
+non-player-characters that he may
+meet on various planets. The
+player inputs orders into the
+computer and is, in turn,
+directed to the appropriate
+paragraph to read. These
+paragraphs may lead to further options and paragraphs
+or may cause the player's turn
+to end, sometimes prematurely. (Meeting a space pirate
+who cleans out your cargo
+hold does put an unexpected
+crimp in that shopping spree
+you were going to have on
+Rialla!) Since there are thirteen text booklets,
+other players can input their
+orders while you're reading
+the results from your turn.
+This keeps the game moving relativeTITLE:
+ly quickly, once you get used to the
+SYSTEMS:
+system. It is rare for two people to
+need the same booklet at the same
+# PLAYERS:
+PRICE:
+time.
+DESIGNERS:
+
+With all of the booklet shuffling and
+PUBLISHER:
+page turning going on, the room has
+the decibel level of a library when the
+game first starts. As the players
+progress, though, they get negotiable commodities
+such as iron, computers, fuel, weapons and most
+importantly, information. This is when the interactivity of the game really comes into its own. Each
+character starts the game with a set of goals to accomplish. This usually sends everyone out into the
+void in different directions seeking their own
+separate destinies. As they explore and gain information, there is a need to trade and interact with
+the other players. The initial competition between
+the characters eventually gives way to a mutual
+cooperation. It's a big universe out there and it's
+tough to tackle it alone. However, in spite of the
+need for cooperation, there does seem to be a
+place in this game for a personal grudge, or two.
+In addition to the exploration aspects of Star
+Saga there is an economic subgame that runs
+through the main plot. Each player starts the game
+with three of his ten cargo bays filled with goodies.
+It is up to him to determine what and when to
+trade. Most of the planets to be discovered will
+
+Star Saga: One:
+Beyond the Boundary
+Apple II, JIGS,
+and IBM
+1-6
+$79.95
+Rick Dutton
+Walt Freitag
+Andrew Greenberg, and
+Mike Massimilla
+MasterPlay
+Tampa, Ft
+
+trade their products for items they can't naturally
+produce. Sometimes, they'll trade three for one (if
+you've got what they need). Knowing what
+planetary exchanges offer, and what they need, is
+one of the most valuable pieces of information in
+the game. When you start the game your ship is
+basically the stripped down, economy model. Your
+personal armor and weapons consist of clothes and
+hands. So to emulate the bug-busting marines in
+the movie Aliens you'll need to upgrade just a bit.
+Fortunately, there are several space docks and
+weapons emporiums located in the galactic fringe.
+Of course, finding them is
+another matter. Consequently, the early portion of the
+game finds everyone
+crisscrossing their way
+through space and cashing
+in on whatever little milkrun
+they've been able to set up.
+Eventually, as their needs
+and shopping lists expand,
+the trading routes are also
+enlarged and inter-player
+trading begins to come into
+the picture. Information now begins to become a
+valuable trading commodity. Eventually, with the
+right knowledge, and a little luck, (avoiding Silverbeard, the pirate), you can end up with a pretty hot
+ship. Drone trading ships are really handy little
+items to have. They can travel instantaneously to
+any part of the galactic fringe, and handle most
+trading transactions, leaving you free to carry on
+with whatever business you're about. At the end of
+your turn, the drone ship returns with your cargo,
+ready for next turn's trading orders. Drone ships
+come in three, four and five bay models, so you
+can increase your cargo handling capacity by fifty
+per cent. Also, if your ship is attacked by pirates,
+anything on your drone is non-piratable. So you've
+got your own untouchable stash! Everybody should
+have one of these little babies, they're invaluable!
+The combat subgame is handled completely by
+the computer. It determines the combat situations
+you encounter and picks the weapons and armor
+you will use. There really is no tactical ability in the
+game, but within the combat area, there is plenty
+of room for maneuver. There are six categories in
+both personal and ship-to-ship weaponry: three in
+attack (contact, projectile, and special); and three
+in defense (armor, mobility, and special). The computer determines the best ability you have in each
+category (this will change depending on the opponent) and compares it to your opponent's best
+abilities. This is translated into a numerical score
+for both offense and defense. A total score of one
+hundred is needed for success when attacking or
+defending, so it is possible to successfully defend
+against an opponent's attack, yet fail to press your
+own attack home. This can result in no harm to
+you, but an equally undaunted foe. So, whenever
+possible, upgrade your combat capabilities. The
+combat sequences seemed to bother some of our
+more bloodthirsty players slightly, (our Traveller roleplaying group tends to lean more towards Aliens
+than Starman) but the approach to combat integrated nicely with the rest of the game. It would
+
+have been nice to have been able to choose some
+of the combat options ourselves, though.
+I don't want to go into anymore detail on the
+game because part of the magic of Star Saga is
+the sense of wonder that unfolds as you play. The
+prose is as well-written as anything you'll find in the
+science fiction section of your local bookstore and
+the story line is tight and well-plotted. Each player
+is free to do anything he wants all through the
+game, yet behind it all is a gently guiding hand that
+makes sure everyone gets where they should eventually go ["There's a divinity that shapes our ends,
+Rough-hew them how we will." Hamlet(Act V, scene ii)].
+Once the game is finished, the players can go
+back and explore places they didn't have time to
+visit initially. It is also possible to replay the game as
+a different character, since each character has a different set of goals in the game and will undoubtedly experience different adventures along the way.
+I've played the game completely through twice and
+will probably run through once more before the sequel comes out. Unfortunately, that won't be until
+next year. Waiting will be very difficult.
+Star Saga:One Beyond The Boundary is probably
+the most unique and well-written role-playing experience yet to appear in a computer game. It will
+also stand up to any human-gamemastered roleplaying game on the market today. The people at
+Masterplay have expanded the state-of-the-art in
+computer storytelling to new extremes with this
+product. Our entire play group was absolutely
+blown away by it. It is humorous, challenging,
+frustrating, exciting, and addictive. I can best sum it
+up by describing the end of our first night's session
+with the game.
+Eyes glazed, Johnny Wilson looked at his watch
+in disbelief.
+"Biff, it's two in the morning!"
+"Oh no, it can't be," I replied. "I've got to go feed
+my animals."
+"My wife's gonna kill me," whined Johnny, "I
+was supposed to help the kids with their
+homework!'"
+
+I looked back at the computer screen. Johnny
+looked at the booklet in his hand.
+I looked again at Johnny, and he looked up at
+me. We both looked at the screen.
+"Just a couple more turns and then we'll go," I
+hesitantly ventured.
+"Move over," Johnny happily replied, "I need to
+explore that subterranean passageway on Fiara."
+"No, you fink! I haven't been there yet," I
+responded.
+My protestations were drowned out by his cackles as his fingers punched the computer. Anxiously awaiting my next turn at the keyboard, I
+watched the clock tick towards three A.M.
+
+Tobruk: The Clash
+of Armour
+(Continued from page 34)
+In short, Tobruk recreates the Gazala Campaign,
+but without the stress or alternate strategies available to either side.
+When combat is initiated, one may choose to participate on an individual vehicle level. Enemy targets appear as vehicles or fortifications. One's tank
+may close with the enemy, using fire and
+maneuver. However, eventually, one's tank will be
+destroyed; there is only so much that a single
+vehicle can do in a maelstrom of combat.
+That is the deficiency of the arcade option. No
+real player gratification is achievable. While
+Datasoft has assured this reviewer that the arcade
+results figure into the overall resolution of the battle, it is obscured from the user, thereby rendering
+the arcade option to a little-used variation.
+
+Conclusions
+Tobruk is an introductory-level game. It accomplishes what it sets out to do, but without any
+real elan or joie de vivre. The use of engineer as-
+
+sets is commendable, but their effect appears minimal.
+Tobruk has strong competitors in the
+marketplace. Decision in the Desert covers the
+same situation and offers an additional four
+scenarios, plus one can play
+solitaire as either side and switch
+from side to side in mid-game.
+Game Designers Workshop's
+Rommel: Battles For Tobruk is
+based on the same campaign and
+offers an extremely detailed simulation, albeit with crude graphic
+portrayal. Rommel at Gazala from
+Simulations Canada offers a command perspective from either side
+sans graphics and Strategic
+Studies Group has recently
+released Rommel: Battles for North Africa which
+utilizes the versatile Battlefront system for the
+same subject. With so many choices, it will depend
+on whether the consumer is looking for a wargame with arcade elements thrown in, a carefully
+researched series of desert scenarios, a command
+perspective, or detailed simulation.
+Simulations should break new ground or cover
+old ground in new and/or alternative conceptualizations. While Tobruk has an interesting operational
+interface, it is not groundbreaking in either of the
+above senses.
+
+Over The River
+(Continued from page 18)
+
+each other and whomever we could talk
+to in local stores. It was not a good way
+to keep a finger on the pulse of the
+market.
+Senior executives made periodic forays
+to check on our progress, wandering
+from cubicle to cubicle to look at
+games. Some were pleasant and made
+reasonable comments. Others were
+petty and dictatorial ("That background
+ought to be blue. Change it."). In the
+end the dictator types had less impact
+than the others, since they never played
+the games anyway and thus, had no
+idea whether their orders had been carried out. Nevertheless, I spent a great
+deal of time talking my best designers
+out of quitting after being the targets of
+such visits.
+The cartridge era had four distinct
+periods, each with its implications for
+game designers. The first period, from
+1978-1981, was the time of the Obvious
+Design of the Obvious Product. The
+proper route for a design was a straight
+one: show the action, tally the score.
+Sports games were the biggest sellers,
+largely because buyers knew what they
+were getting before they opened the
+package.
+Game designers of the time worked for
+big companies (Atari, Mattel), drew
+average programmer salaries (but not
+royalties), and didn't have their names
+on the products. Management regarded
+their programming skills as the source
+of their value and game design was
+often snorted at as an illusory talent:
+"Anybody coulda made that baseball
+game, but I was the one who said we
+oughta do it."
+The second era, which ran from 198182, centered on the conversion of the
+latest coin-op hits to the home
+machines. The speed of development
+now became absolutely critical, so a
+game would be ready for the home
+while it was still hot in the arcades.
+The most visible symptom of that rush
+was the VCS version of Pac-Man, a
+cartridge awaited with such passion and
+rushed to market so hurriedly that over
+1,000,000 copies were sold in the first
+few months of its life. Unfortunately, the
+game was released before its time and
+featured ghosts and a Pac Man that flickered irritatingly and game play that
+didn't feel balanced. The game's sales
+ground to a halt as its bad reputation
+
+spread by word of mouth, and Atari had
+to absorb huge losses on returns. Score
+one for quality.
+Ironically, it was during the third era, a
+brief time in 1982-83, that game designers finally began to get some of their
+just rewards. There is a story (perhaps
+apocryphal) that Pac-Man was finished at
+all only because of a special mid-project
+"arrangement" for programmer royalties.
+The success of Activision after being
+founded by four former Atari game designers (including Alan Miller and Bob
+Whitehead, who later left to found Accolade) led Atari, Mattel and Coleco to
+take a second look at how they handled
+their creative staffs.
+Royalties of the time were in most
+cases minuscule, but they nonetheless
+began being paid. Names of designers
+began to appear in small print on the
+backs of packages and in manuals. In
+fact, the companies began working overtime to recruit the best ones away from
+their competitors.
+Nevertheless, before the industry could
+really mature, new voices sounded the
+coming in 1983-84 of the fourth era—
+and the cartridges' death knell. Dazzled
+by the success of Atari, Mattel, Coleco
+and Activision, hordes of imitators
+jumped into the market. Quaker Oats
+even founded a video game subsidiary!
+In late 1982, the number of cartridges
+manufactured by all these companies far
+outstripped the demand. Many of the
+games were absolutely awful, but
+retailers, riding a 3-year sales burst, kept
+ordering everything anyway.
+Christmas, 1982 was a disappointment
+and by early 1983, the game-playing
+public had made the choices which the
+manufacturers had refused to make.
+Many of the games still sat on store shelves. Returns started rolling back in to
+the publishers. Several companies went
+under rapidly: Games by Apollo, Fox
+Videogames, ❑.S. Games and others.
+Further, once they were bankrupt, they
+could no longer take returns from the
+stores. Retailers cut their losses by cutting their prices and the $4.95 specials
+we still see today appeared in a
+marketplace where normal prices had
+averaged $35. Surviving publishers with
+large inventories started selling better
+games at bargain prices to cut their losses. The $35 carts looked overpriced by
+comparison, and even the best games'
+sales slowed to a crawl as the $5 specials swallowed all remaining demand.
+More bankruptcies followed, and Atari,
+Mattel and Coleco disbanded their game
+design staffs.
+The first Cartridge Wars were over.
+
+(I'm sure you've noticed that I've
+made no reference to the Nintendo
+craze that has repeated the Atari and
+Mattel Phenomenon of 8 years ago.
+That's because for American game
+designers the Nintendo is a non-event:
+virtually all the work to date has been
+done in Japan. Only the future will tell
+if the design process ever crosses the
+Pacific as efficiently as the container
+ships and the letters of credit now do.)
+
+How Deep are the Woods?
+While the big companies publishing
+Coin-Op Conversions and sports games
+were dominating the cartridge world,
+small companies like Sirius, Broderbund, Infocom, Automated Simulations, SSI, On-Line Systems and
+others were quietly building the home
+computer game market.
+Instead of large in-house staffs, these
+companies usually combined a few
+game designers who were employees
+(often the founders themselves) with a
+group of external programmers. These
+independent designers had the same
+relationship with the game companies
+that book authors have with traditional
+publishers: they submitted their games
+for consideration, the publisher chose
+the good ones, and the authors were
+paid a royalty.
+Authors' names appeared prominently
+on these game packages long before
+the practice infiltrated the cartridge
+world. Names of that early era like Bill
+Budge (Raster Blaster), Dan Bunten
+(Computer Quarterback), Chris Crawford
+(Eastern Front 1941), Jon Freeman
+(Temple of Apshai), Dan Gorlin
+(Choplifter) and Doug Smith (Lode Runner) became familiar to garners and
+were associated with quality products.
+Many of those same designers continue
+as leaders of our industry today.
+From 1978-82 most of the notoriety
+outside the computer game world went
+to the cartridge games. Yet, today's industry is directly based on the structure
+that was evolving in the disk-based
+world at the same time, the world which
+Computer Gaming World chose to
+cover when it first appeared in 1981.
+The small publishers succeeded where
+Atari, Mattel and Coleco had failed, and
+a key element in that success was, and
+is, their view of "Computer Game Designers" as special individuals with unique
+talents who are worthy of all our
+respect. I can think of no more appropriate conclusion to reach in an article to honor the fiftieth issue of Computer Gaming World.
+
+Video Gaming World
+By Arnie Katz, Bill Kunkel
+and Joyce Worley
+
+N
+
+idea: a jumping/climbing/shooting game for
+the Nintendo Entertainment
+System!
+
+Video
+Gaming
+World's
+Newswire
+
+When a consumer buys the
+NES, he gets a free copy of
+Super Mario Bros. packed inside. Video game designers
+seem to believe, however, that
+the user will thereafter be looking
+for endless rehashes of that admittedly excellent game. Within
+the past year, we've seen such
+thinly-veiled SMB clones as
+Ghosts 'n Goblins (CAPCOM),
+Kid Niki, Radical Ninja and Karnov (Data East). Now that the
+Nintendo game manufacturing
+community has turned corporate
+licensing eyes on the world of
+old video and computer games,
+guess which titles they find most
+appealing? Why, jumping/climbing/shooting games, of course!
+
+-Compiled by Joyce Worley
+The glamor of soaring sales,
+expected to hit $1.25 billion in
+'88, is the name of the game.
+Videogame experts estimate a
+40% increase in hardware and
+software sales for the current
+year. Nintendo was the clear
+winner in 1987, taking an estimated 65% share of market in
+hardware sales. Atari's share of
+the hardware market is estimated at 24%, Sega at 8%,
+and other companies at 3%. ...
+Atari has scheduled over 19
+new games for the XE system
+this year, most of which are highquality computer game conversions licensed from their original
+publishers. Among them is the
+award-winner, Into the Eagles
+Nest, a classic high-action excursion into Hitler's stronghold .. .
+Camerica's wireless, remote
+control, infrared-system
+Freedom Stick lets the player
+move 20 feet away from the
+screen, with either automatic
+rapid fire or manual action. The
+accessory is compatible with Nintendo, Sega, Atari, and Commodore.. . . Who ya' gonna'
+call? Ghostbusters, of course,
+coming this Autumn for NES
+from Activision.. . . LJN Toys
+crossed an invisible line in bad
+taste with their latest NES game,
+A Nightmare on Elm Street,
+which actually casts the gamer
+as Freddy Kruger and sends him
+out to kill teenagers. Not nice!
+Friday the 13th takes a more
+heroic, if more scary, stance and
+sends the gamer on a search for
+Jason and his Zombies.. . . The
+
+Battlefields of Napoleon
+(Broderbund) lets NESers command the troops through simulations of eight of Napoleon's campaigns. Designed by the same
+crew that produced the best-selling Deadly Towers . . . SNK
+Corporation goes to war in
+Iron Tank: The Invasion of Normandy, for NESers who have always wanted to spearhead an assault against German headquarters.. . . Video games in big
+
+ow, here's an original
+
+TITLE:
+Super Pitfall
+SYSTEM:
+Nintendo
+# PLAYERS:
+1-2
+PRICE:
+$35.00-$40.00
+DESIGNER:
+Pony, Inc.
+(from David Crane's original)
+PUBLISHER:
+Activision
+
+biz: Acclaim Entertainment
+has merged with Gamma Capital Corporation, making it a
+public corporation.... CAPCOM USA will bring Willow
+home from the movies, for the
+NES, later this year.. . . The
+Magic of Scheherazade (Culture Brain) is an Arabian Nights
+fantasy, with magic, battlefields,
+flying carpets, and a variety of
+tools and weapons. It should be
+available in January, 1989... .
+NESers control style and direction of serves, rushing the net,
+or playing the backcourt in Racket Attack (Jaleco. Specially
+marked sweepstakes packages
+give buyers a chance to win tennis equipment and lessons. ..
+Sega is giving players a look at
+their new games. The Sega
+Games Preview VHS video tape
+($7) shows sample levels of ten
+games.. . . The hands across
+the ocean most likely have joysticks in them. Palan Electronics
+of London, England sold over
+180,000 cartridges for Atari
+
+TITLE:
+SYSTEM:
+# PLAYERS:
+PRICE:
+PUBLISHER:
+
+Jaws
+Nintendo
+1
+$35.00-$40.00
+LJN Toys, Ltd.
+
+2600 in 1987 and expects the
+total to reach one half million
+pieces for this year. About 50%
+of their sales go to Europe and
+the rest are for English joystick
+jockeys. 75% of the Palan
+products are Activision titles,
+but the company should have
+ten original 16K Double Chip
+games ready for the holiday
+buying season. Top titles last
+year were: Space Shuttle, Pitfall,
+Hero, and Decathlon. This year
+should include: Ghostbusters, Pitfall II, and River Raid. Lou Fine,
+Managing Director of Palan, estimates that there are 7 million
+Atari 2600 units worldwide and
+of these, 1.5 million are in
+England. The company is booming and, in fact, has openings for
+Atari 2600 programmers. If you
+think you have the Right Stuff,
+write to Lou at: Palan
+Electronics, Ltd., Prestwich
+House, Brunswick Industrial
+Park, Brunswick Way, London
+N11 1HX, England, and tell him
+we sent you.
+
+Super Pitfall is a compendium
+of images and characters taken
+from the two Pitfall games
+designed by David Crane for the
+old Atari 2600. Shamefully,
+Crane is not even mentioned
+anywhere in the documentation.
+These characters and images
+were transformed by Pony, Inc.
+into a SMB rehash that most
+NES users will be able to play in
+their sleep. Certainly, there is
+nothing in the game itself to
+keep them awake.
+Super Pitfall centers around adventurer Pitfall Harry and the
+search for a priceless diamond
+that disappeared along with his
+daughter (Rhonda) and Quickclaw the cowardly lion (How
+many of you remember that Pitfall enjoyed a deservedly short
+life as an animated TV series?).
+The trio turned up missing just
+before the game commences.
+What Super Pitfall is really
+about, of course, is jumping/climbing/shooting. Wherever
+reality and the established SMB
+play system come into conflict,
+hackney triumphs. For example,
+objects such as guns, medicine
+and keys periodically appear on
+the playfield, but since the designers want Pitfall Harry to jump
+whenever possible, the objects
+are suspended in mid-air, rather
+than located on the ground.
+Super Pitfall employs the same
+macro-style side view as the
+original Pitfall games. Harry and
+
+his adversaries (snakes, scorpions, cavemen, etc.) are viewed
+in side perspective, but more
+than one level is visible on
+screen simultaneously. While
+Harry explores the surface, for example, subterranean levels can
+be seen underneath him, providing a tantalizing look at treasures
+and dangers to come.
+Pony visually reshaped the
+characters to look like the short,
+squat beings seen in other SMB
+clones. These characters move
+in a slow-motion, floating style
+that is at unsatisfying odds with
+the action game format.
+If you simply must have
+another jumping/climbing/shooting game for your NES, Super
+Pitfall is a cute enough entry. It
+employs the Pitfall characters in
+an appealing new scenario with
+play mechanics that Nintendo
+gamers will find comfortable, if
+somewhat familiar.
+—Bill Kunkel
+now,
+A And
+for something
+LJN
+completely different .
+Toys, a company previously best known for its WWF
+Wrestling dolls, burst upon the
+videogame software scene with
+one of the most original, entertaining programs in the NES
+universe. Jaws is a creative,
+multi-phase action adventure in
+which the player battles Universal Pictures' giant shark and a
+whole cornucopia of his minions.
+Jaws begins with the Map
+Screen, rendered in an attractive
+angled overhead perspective
+rather than the flat 2-D most
+maps display. This chart fills
+several screens and the scrolling
+is remarkably smooth.
+The player's ship is docked
+safely at a port until it's moved
+to sea via the directional control
+pad. The player continues to sail
+until the ship strikes something.
+This might be Jaws himself, represented on the Map Screen by
+his trademark dorsal fin when he
+is close to the player's ship or
+some other form of undersea life
+too small to visually register on
+the map at all. A transmitter allows the player to keep track of
+Jaws' position sonically.
+The game advances to the
+Side View scenario, a verticallyscrolling contest in which the
+player shoots at a variety of targets from jellyfish and rays to
+small sharks and even Big Bruce
+himself. When hit, the rays and
+jellyfish sometimes transform
+into bonus objects to be collected by the diver to increase
+his energy level, enhance his
+speed, or acquire points. These
+
+points can be used at the two
+other available ports to pick up a
+tracking transmitter or increase
+energy level.
+The higher the diver's energy
+level, the more lethal his blasts,
+but it takes a pretty heavy energy level to even put a dent in the
+big guy.
+Players who triumph on the
+Side Screen scenario are periodically granted a bonus screen
+in which they drop bombs on
+scampering jellyfish from an
+airplane that zips back and forth
+across the
+top of the
+screen.
+Once the
+player sufficiently
+builds his
+own power
+and
+depletes
+Jaws'
+strength
+level (displayed at
+the bottom of the
+screen), the game
+TITLE:
+moves to the Final
+SYSTEM:
+# PLAYERS:
+Scene. This gives
+the player a first-per- PRICE:
+PUBLISHER:
+son view from the
+front of his boat.
+The shark-hunter must ram into
+Jaws with the boat's prow to
+finish him off.
+Jaws is rich in the small details
+that make a game playable over
+long periods of time. The farther
+one sails from the coast, for example, the deeper the water.
+Take my word for it, you do not
+want to confront Big Bruce in
+the shallows!
+The graphics, animations and
+game play in Jaws are all first
+rate. If this is any indication of
+what LJN can produce in the
+videogame theater, they should,
+forget about the wrestling dolls
+and buckle down to full-time
+game design immediately!
+—Bill Kunkel
+
+nce again, Sega offers
+home gamers an opportunity to stave off nuclear
+devastation. Global Defense is
+essentially a 2-D version of
+Sega's 3-D hit, Missile Defense.
+The player again represents
+mankind's last hope of averting
+a global holocaust.
+
+O
+
+The game is divided into offensive and defensive halves. In
+fact, both phases feature offense
+and defense in that the player
+must attempt to obliterate incoming missiles launched "from
+secret bases located all over the
+
+galaxy." This must be coupled
+with his other duty, to protect
+the "Global Defense Satellite,"
+the weapon with which the
+player launches his anti-missile
+assault.
+In the offensive phase, the
+GDS is seen from a side view (as
+are missiles and other projectiles), whereas the Earth is
+viewed from the upper edges of
+the atmosphere. The player
+manipulates the GDS with the
+Sega controller while passing
+high above the planet. One of
+the action
+buttons
+provides
+direct
+guidance
+of the
+GDS and
+the second
+button
+fires the
+satellite's
+laser cannon which
+is aimed
+via an
+onscreen
+cursor.
+
+Global Defense
+Sega
+1-2 Players
+$40.00
+Sega
+
+In addition to the
+incoming missiles,
+the GDS must also
+deal with land bases
+(which launch surface-to-air weapons), killer satellites, "crab ships," and attack
+probes. Each time a missile or
+other incoming weapon gets
+past the GDS, a unit on the
+player's "Damage Meter" lights
+up. Direct hits obliterate the
+GDS.
+
+If the GDS successfully
+negotiates its journey, a space
+shuttle appears, scoops it up,
+and carries it to the Defensive
+phase, which is sort of a cross
+between Missile Command
+(Atari) and Space Invaders
+(Taito). From far out in space
+(so far that the curve of the
+planet is clearly visible at the
+base of the screen), the missiles
+which slipped by during the first
+phase now appear in the far distance. The projectiles pop over
+the edge of the earth, continue
+toward the top of the screen,
+then arc slowly downscreen (following the curvature of the
+planet) to move directly toward
+the GDS and the player. Once
+the missiles attain proximity to
+the GDS, they hover briefly
+before floating toward the bottom of the screen and earth's
+helpless cities. The player,
+employing the onscreen cursor
+firing system, must destroy each
+and every missile. If even a
+single stray hits home, the game
+is over.
+Graphics and animations are
+
+attractive and make for an exciting contest, but the mixed
+perspectives (combining bird's
+eye and side views on a single
+playfield) are visually disconcerting. Moreover, the direction pad
+controller is noticeably inferior to
+tracball (or even, joystick) controllers in games where the cursor
+must be moved rapidly around
+the screen.
+—Bill Kunkel
+
+The Modern
+Home Arcade
+-by Bill Kunkel and Arnie Katz
+Back in the late '70s, if you
+asked a home videogame designer/programmer where he got
+his ideas, he would probably
+respond: "The arcades." At least,
+that's what the most honest
+ones said. Most video games
+from this period were, in fact,
+scaled-down and thinly-veiled
+reproductions of classic coin-op
+arcade games.
+The battle for the lucrative
+home market heated up by the
+end of the decade. It was no
+longer enough for a game to
+simply look like, play like, and
+contain most or all of the
+original's elements. The previous
+free-wheeling design style caused
+legal complications, while also
+failing to capitalize on the
+popularity of the play-for-pay
+hits. Publishers began actually
+buying the rights to the coin-op
+hits and, before long, it reached
+a point where there was no arcade game so worthless that
+someone wouldn't make an overvalued offer for its home marketing rights.
+Today's home videogame
+market is still driven by the arcade hits, but there are some significant differences from those
+halcyon days. For one thing,
+today's coin-op hits don't have
+the media visibility of their precursors from the early '80s. Game
+like: Space Invaders, Pacman,
+Defender, and Berserk were
+media sensations whose names
+and graphics were universally
+recognized by consumers. As a
+result, those consumers frequently based the decision of which
+videogame system to purchase
+based on the availability of
+specific titles within that system's
+inventory.
+Since none of the contemporary arcade hits command
+that kind of recognition, the different systems on today's
+market distinguish themselves in
+terms of their style and intended
+market position. Nintendo is
+the "all family" system with a
+
+(Continued on page 47)
+
+(Continued from page 45)
+vast library reflecting the tastes
+of both youngsters (lots of jumping and climbing games with cartoon-like graphics) and adults
+(sports titles and adventure
+games). Sega, on the other
+hand, is the "cool" system with
+the "hot" graphics, appealing largely to teenagers and other arcade gunslingers. It offers sizzling visuals designed more for
+realism than cuteness, plus an incredible 3-D system.
+Atari, the only old-timer in the
+current videogame picture,
+seems to be positioning itself as
+the "classics" company. The
+lineup for its 7800 videogame
+system emphasizes high quality
+versions of early '80s arcade classics (Joust, Asteroids, Pole Position, etc.), while the XE catalog
+consists mostly of home computer hits from the same period
+(Archon, Lode Runner, David's
+Midnight Magic, etc.).
+The relationship between coinops and home video games has
+also changed in another way.
+While Atari was the only major
+player of the early '80s, with
+fingers in both the home and
+coin-op markets, both of today's
+big guns, Nintendo and Sega,
+are established coin-op creators
+with considerable credibility—
+and vast product catalogs—in
+the arcade universe.
+Nintendo dominates the picture in terms of quantity. Not
+only do they have access to the
+inventory of former Nintendo
+hits, but through licensing deals
+with prolific coin-op producers
+like Data East and Capcom, the
+NES library is potentially almost
+unlimited.
+Ghosts 'n Goblins, a recent
+release from Capcom, is an excellent example of what the Nintendo Entertainment System can
+do. The game is, essentially, a
+spooked-up version of Super
+Mario Bros. with more shooting.
+The player is cast as a brave
+knight whose princess is captured by a winged demon during
+the game's attractive animated
+prelude.
+In order to rescue her, the
+player's knight must pass
+through a series of seven gates
+(a schematic map of these is displayed after each loss of a life).
+When the player reaches the end
+of each section, a key to the
+next gate appears. Guarding
+these portals are a rogues° gallery of zombies, ghosts, demons,
+and assorted things that go
+bump in the night. There is also
+a series of jars. It seems these
+demons are rather compulsive
+about bottling up all captives
+
+and treasures (Haven't they
+heard about Tupperware?).
+These urns contain new
+weapons, as well as bonus
+characters who bestow extra
+points when rescued.
+While hardly groundbreaking,
+Ghosts 'n Goblins represents the
+kind of game that made Nintendo famous. Similarly, Sega's
+After Burner serves as a good ex-
+
+Zone, the classic first-person
+tank combat contest set in the
+near-future.
+This home version makes a
+half-hearted effort to duplicate
+the vector graphics which gave
+the coin-op original its distinctive, crystalline look, but this
+game's strength lies in a simple,
+but powerful play mechanic. The
+user is a tank command attempt-
+
+computer chips. It may be tough
+to find some of the new games
+for the Nintendo this December.
+In fact, a few of the titles
+premiered at CES may not debut
+in the stores until 1989. With
+that small warning delivered, let's
+preview the cartridges everyone
+will be playing this winter and
+beyond.
+
+Licensing Line-up
+After a lapse of several years,
+publishers have returned to other
+media as a source of inspiration
+for new video games. More licenses are in active development
+right now than in the previous
+three years combined!
+
+ample of the kind of game that
+system strives to offer.
+After Burner is the first game
+that uses Sega's new 4MB technology and the enhanced
+graphic capabilities this added
+memory provides is abundantly
+obvious. After Burner uses the
+same pseudo-first person
+perspective as most driving
+games (Pole Position, Out Run,
+etc.). The player's vehicle (in this
+case, an F-14 Thunder Cat) appears in the center of the screen
+as a visible guide. In addition,
+The HUD (Head's Up Display) offers a small radar sight, as well
+as a pair of target cursors (cannon and missile sights).
+The landscape moves beneath
+the F-14 like the surface of a rolling cylinder (one of the less
+pleasing visual elements), but
+the five different classes of
+enemy aircraft are rendered in
+remarkable detail. The action
+scenes, the heart of the
+program, look appropriately spectacular and the explosions are
+some of the best effects ever
+seen in a videogame.
+The game's only real problem
+is the use of twin sighting cursors in addition to the player's
+on-screen vehicle serves as a
+large cursor, a visual guide to
+keep the player appraised of his
+relative position. In After Burner,
+the cannon sight often disappears against the large F-14 and
+the player is forced to fire blind.
+This game doesn't offer the
+same kind of rich simulation experience provided by MicroProse or subLogic flight
+simulators, but then, those
+games don't have explosions like
+After Burner!
+Old-timers who decry the overreliance on hot graphics and the
+lack of old-fashioned game
+values can turn for solace to the
+Atari XE and games like Battle-
+
+ing to destroy an army of rebel
+war machines with nothing but a
+cannon and a crude radar display for allies.
+
+Reggie Jackson Baseball and
+Walter Payton Football (both
+Sega) are both arcade-style
+sports contests endorsed by
+these all-time greats. They combine realistic graphics with lots
+of player options for grandstand
+managers and coaches. A star
+of more recent vintage headlines, John Elway, has endorsed
+John Elway's Quarterback
+(Tradewest), a Nintendo
+gridiron cartridge.
+
+Whatever your taste in arcade
+games, one thing is certain: the
+world of home arcading has
+never been richer. Home translations of arcade hits are virtually
+indistinguishable from the
+originals. What's more, these
+translations reach the home
+market much quicker than they
+did in the "old days" (when coinop manufacturers were reluctant
+to undercut future arcade earnings). Whatever your taste in arcade games, there is a
+videogame system out there
+that's got just what you're looking for . . . and no tokens or
+coins are required!
+—Bill Kunkel & Arnie Katz
+
+Licensing comes to the golf
+links with Lee Trevino's Fighting
+Golf (SNK Corporation of
+America) for the Nintendo. This
+detailed simulation presents multiple views of 18 demanding
+holes.
+
+SPECIAL
+REPORT:
+Fall Video
+Game Preview
+
+Notable movie-based games include Robocop (Data East) and
+Platoon (Sunsoft) for the Nintendo, as well as Rambo III for the
+Sega system. All have non-stop
+combat action and, in addition,
+Rambo III has the kind of
+frenetic pace which can really
+give the light phaser a workout.
+
+Publishers strut their software
+at the Summer Consumer
+Electronics Show in Chicago
+-by Arnie Katz, Bill Kunkel,
+and Joyce Worley
+Everyone agreed it couldn't
+happen. When the videogame
+bubble burst in 1983, people assumed another fad had gone
+bust, never to return.
+The 1988 Summer Consumer
+Electronics Show proved that
+video games are back with a
+bang. Huge hardware and
+software sales gains and rosy
+projections for the holiday
+season sent optimism into the
+stratosphere at the convention.
+The only thing stopping even
+faster growth is the shortage of
+
+Hulkamania runs wild in
+Wrestlemania (Acclaim). The arcade-style mat game features
+Hulk Hogan, Andre the Giant,
+Randy Savage, and other stars
+of the World Wrestling Federation in real-time ring action.
+
+Mindscape's first group of Nintendo releases include a game
+based on the Road Runner cartoons. The player helps Road
+Runner avoid trucks, falling
+rocks, cannon balls, and the
+tenacious clutches of Wile E.
+Coyote.
+GameTek will have an entire
+Nintendo line based on wellknown T.V. game shows. Jeopardy and Wheel of Fortune, both
+of which have all the visual frills
+the shows' fans expect, are now
+available. Coming soon are
+Double Dare, Super Password,
+Classic Concentration, Hollywood Squares, Card Sharks,
+and "junior" editions of both
+Jeopardy and Wheel of Fortune.
+
+The whole family will enjoy
+Monopoly (Sega) based on
+Parker Brothers' durable money
+game. Animated tokens and an
+unusual pseudo-3-D perspective
+pump fresh life into this classic.
+Airwolf (Acclaim), based on
+the television series, is a helicopter flight simulation for the Nintendo system. The player pilots
+the super-chopper on a mission
+to rescue hostages.
+
+the best-selling Ultima 111 computer adventure to the Nintendo.
+The player directs a four-character party against the villainy of
+Exodus.
+Shanghai (Sega) is certainly
+the most unexpected videogame
+of the year. Match pairs of delicately colored tiles in this
+cerebral strategy contest which
+seems light years away from
+blowing up aliens.
+
+Leaping from the pages of
+their "ground level" comic book
+to the video gaming screen are
+Teenage Mutant Ninja Turtles
+(Ultra). The solitaire gamer
+fights "Foot" Clan Ninjitsu warriors in this martial arts epic.
+
+Spy us. Spy on the same system, mixes two hot trends: It
+was originally a computer game
+and is, in turn, based on the
+comic strip from Mad magazine.
+One of two players search for
+secret plans while harassing the
+other agent with traps.
+
+Coin-Ops
+Come Home
+
+California Games, Epyx's
+computer hit, is going the
+videogame route. The multievent action-sports title will be
+published by Milton Bradley for
+the Nintendo and by Sega for its
+own system. Milton Bradley also
+plans to release another Epyx
+program, World Games for the
+Nintendo.
+
+During the videogame lull,
+1984-1986, few arcade games
+made a dent in the home
+market. The typical computer
+gamer is about two decades
+older than the average arcader,
+so computer entertainment
+software stresses relatively complex and cerebral simulations.
+The videogame and coin-op
+audiences, however, overlap extensively. As a result, quite a few
+hit quarter-snatchers will make
+their debut for home systems
+before the end of the year.
+Promising a monstrously good
+time is Rampage (Data East)
+for the Nintendo. Based on the
+Bally Midway coin-op,
+Rampage casts the player as a
+creature on the loose with 128
+screens awaiting destruction.
+Also from Data East is Cobra
+Command, an enhanced version
+of the 1985 helicopter rescue
+game.
+Paperboy (Mindscape), for
+the Nintendo, is another coin-op
+classic long overdue for a home
+version. Bizarre obstacles
+menace the heroic paperboy as
+he makes his daily delivery.
+Tensen is releasing one of the
+few arcade games which lets
+players cooperate against a common enemy in the Nintendo version of Gauntlet.
+Further, Sega plans to turn
+several of its recent arcade hits
+into video games. Shinobi,
+Thunderblade, and Double
+Dragon will all be in stores for
+holiday gift-giving. Tradewest
+will issue a Nintendo edition of
+Double Dragon.
+
+Born on
+the Computer
+Ultima (FCI) brings a colorful,
+if slightly streamlined, version of
+
+Original Designs
+Sega will enter the role-playing
+arena with Phantasy Star, its
+first 4 MB cartridge. The player
+saves the Algol system in a
+game which features both space
+travel and multi-level threedimensional dungeon.
+An adventure with a lighter
+touch is Kid Kool (Vic Tokai)
+for the Nintendo. The hero of
+this arcade-style quest has three
+days to find the nine wonder
+herbs to save King Voldam.
+For sophisticated Nintendo
+players, Jaleco offers
+Robowarrior. Its 27 stages of play are
+crammed with action, but the
+large number of weapons,
+enemies, and puzzle rooms
+provide plenty of opportunity to
+exercise the gray matter.
+720' from Mindscape is a
+cross between a skateboarding
+sports cartridge and an adventure. Waiting to test your abilities
+are the local hotshots of Skate
+City.
+
+The Round-up
+Even this lengthy survey can't
+cover all the new titles for the
+Nintendo and Sega, despite this
+month's expanded Video
+Gaming World. The safest
+prediction is that the biggest
+problem for video garners is likely to be how to make the budget
+stretch far enough to get all the
+hot cartridges.
+
+(Continued from page 10)
+in the grid before proceeding to the next
+one. Nevertheless, there are enemies
+which are designed to erase the player's
+lines and enemies which "kill" the player's
+icon with a mere touch. These enemies
+offer enough of a challenge so that even
+the programmers claim not to have been
+able to advance beyond the 12th level in
+this 50 level game. Amiga ($29.95).
+Circle Reader Service Card #9.
+
+Koei Corporation
+20000 Mariner Avenue #100
+Torrance, CA 90503
+NOBUNAGA'S AMBITION: Another
+beautifully crafted game from the makers
+of "Romance of the Three Kingdoms"
+(CGW #49, p. 39), this product offers 18 players the opportunity for military,
+
+economic, and diplomatic conquest in
+16th Century Japan. Although the game
+mechanics and user interface is simple,
+players will want to keep their von
+Clausewitz "On War" and Sun Tzu's "The
+Art of War" beside them in order to do
+well in this fascinating wargame. IBM
+($59.95). Circle Reader Service Card #10.
+
+Mastertronic
+711 W. 17th Street #G9
+Costa Mesa, CA 92627
+DEMON'S FORGE: A graphic adventure in the traditional sense of parserdriven, illustrated stories, this product
+presents the saga of a renowned
+gladiator struggling for his life. Sentenced to death, the gladiator has one
+chance for survival. He must enter,
+navigate, and safely exit "The Demon's
+Forge," that infamous dungeon exit from
+whence no hero hath escaped in centuries. Apple/IBM flippie in 5.25" ($9.99),
+IBM in 3.5" ($12.99), both ($14.99).
+Circle Reader Service Card #11.
+
+KNIGHT GAMES: Remember the tournaments in "Ivanhoe" and "Robin Hood?"
+This game offers many of the same individual combat competitions: archery,
+axe duels, ball and chain flailing (morningstar combat?), crossbow competition, pikestaff contests, quarterstaff bashing, and sword fighting. C-64/128
+($9.99). Circle Reader Service Card #12.
+NINJA MISSION: The screens look
+like several other martial arts games, but
+there is a plot line to this action adventure. The player's ninja must enter the
+evil tyrant Akuma's infamous fortress of
+death and retrieve the invaluable "Shichi
+Nin No Kami," seven jade idols with mystical powers which are vital to the survival
+of a defenseless village. Naturally, the
+seven jade idols are scattered throughout
+the floors (levels) of the fortress. Amiga
+($19.99), as "Ninja" for Atari 8-bit, C64/128, IBM in 5.25" ($9.99), IBM in 3.5"
+($12.99). Circle Reader Service Card #13.
+microillusions
+17408 Chatsworth St.
+Granada Hills, CA 91344
+MAIN FRAME: The fiction behind this
+game sounds like a tired sci-fi potboiler.
+A massive computing system begins to
+function independently and a hostile Al
+is set loose upon civilization. Obviously,
+the player is intended to stop this
+nefarious and increasingly homicidal
+matrix. There are plenty of different
+screens and arcade sequences for the
+character to conquer, however. In the air,
+on the land, and under the sea, those
+who want more action than story line will
+like this adventure. C-64/128 ($39.95).
+Circle Reader Service Card #14.
+SKY TRAVEL: While it is not a game,
+this delightful astronomy/planetarium
+program is certainly well-conceived and
+documented. The program functions in
+conjunction with the manual to offer
+several planned planetarium-type experiences, but also offers enough "constructability" to create one's own
+planetarium shows. Apple IIGS ($52.95),
+C-64/128 ($49.95). Circle Reader Service
+Card #15.
+Microsoft Corporation
+16011 NE 36th Way
+Box 97017
+Redmond, WA 98073
+FLIGHT SIMULATOR III: The newest
+version of the famous flight simulation
+program is even better than its predecessors. The graphics on the IBM version (in
+(Continued on page 53)
+
+level. Eat all your breads before going down to the
+last level (you won't have time once you're there!).
+The ending (when the book is destroyed) is
+nowhere near as grand as that of Questron. In
+fact, it's pretty tame by comparison, since it is
+mostly text with a few graphics thrown in, making
+the end "reward' barely adequate to the task accomplished.
+
+(Continued from page 9)
+secret lair at the bottom. This lair (as in Questron)
+is actually a castle level, chock full of guards. In addition, the moment you set foot on this level, Mantor will start hitting you with mind zaps every move
+you make. Therefore, your time here is limited.
+You must fight through the guards and find the
+room where the book is being prepared as quickly
+as possible, before you run out of hitpoints (and
+no, you can't kill Mantor this time around).
+This is where those breads of life are so important (you have been saving them up, I hope). Not
+only do they restore lost points, they actually increase points. It is, therefore, possible (with
+enough of them) to have thousands of hit points,
+which you are certainly going to need on Mantor's
+
+Aside from going into tombs and dungeons there
+is little to do in the game except fight monsters
+(and castle guards) to accumulate gold, and trek
+around the towns looking for better weapons and
+armor. Puzzles are virtually non-existent. Destroying the evil book of magic, when you finally reach
+it, is extremely simple to do. Aside from the
+guards, no one will try to stop you, so there is not
+even a grand, climactic finish to the game.
+The manual is not expansive, but is certainly adequate for the game. It contains enough to get you
+started, including brief descriptions of the
+monsters that inhabit various areas and dungeons,
+as well as some background information on the
+quest.
+Bottom line: Not equal to the original; best for
+the beginner, not the experienced.
+Copyright 1988 by Scorpia, all rights reserved
+
+TAKING A PEEK
+(Continued from page 49)
+EGA or VGA mode) are as seductive as
+those in the 68000 versions and the formation flying option, opportunity for
+modem link-up, and use of pull-down
+menus make this version a real jewel.
+IBM ($39.99). Circle Reader Service Card
+#16.
+
+Mindscape
+3444 Dundee Road
+Northbrook, IL 60062
+ROAD RUNNER: Life may not be like
+a "Road Runner" cartoon, but this arcade
+game certainly is. Not only does the
+player get to flee Wile E. Coyote on foot,
+but some of those wild inventions from
+Acme come into play throughout the
+game. A hierarchy of bonus points (for
+everything from completing a level
+without missing any birdseed to "destroying" Wile E.) adds to the challenge of this
+game. (Not pictured). C-64/128 ($34.95).
+Circle Reader Service Card #17.
+WILLOW: True to the movie and, in
+the EGA version, offering lovely graphics,
+this action/adventure game uses seven
+action sequences from the film to retell
+
+the story. The first sequence begins with
+the player trying to smuggle the baby
+out of the castle. Then, the viewpoint
+changes for the next sequence and
+those of future sequences. IBM ($39.95).
+Circle Reader Service Card #18.
+
+modern naval helicopter, but it is engaging (and addictive) on the order of
+"Space Invaders." In fact, the feel of the
+play is similar to that arcade classic.
+Apple IIGS ($39.95). Circle Reader Service Card #21.
+
+PBI SOFTWARE, INC.
+1163 Triton Dr.
+Foster City, CA 94404
+
+Scorpion
+19 Harbor Drive
+Lake Hopatcong, NJ 07849
+
+ALIEN MIND: Upon arriving at the Zekford Biological Research Space Station,
+characters discover that all human life
+has been eradicated. Instead, the heroes
+of this action/adventure must face over
+100 unique creatures in the course of exploring the five levels of the space station
+and confronting the "Alien Mind." Apple
+IIGS ($39.95). Circle Reader Service Card
+#20.
+
+BLACK SHADOW: The beautiful
+graphics and two player competition
+(using either mouse or joysticks) carry
+this arcade product. The action screens
+look like detailed versions of "Zaxxon,"
+but they are wrapped by character
+screens and other atmosphere sequences which offer something of a cinematic
+quality to the opening of each "mission."
+Amiga ($34.95). Circle Reader Service
+Card #22.
+
+MONTE CARLO: This gambling
+casino simulation for the IIGS offers: Baccarat, Blackjack, Craps, Poker, Roulette,
+Slot Machines, and Trente-et-Quarante.
+Play is completely mouse-driven and the
+documentation clearly defines all of the
+options available.(Not pictured). Apple
+IIGS ($39.95). Circle Reader Service Card
+#20.
+SEA STRIKE: This arcade game
+provides plenty of action, great sound,
+and finely-etched graphics. It is hardly a
+realistic depiction of the capabilities of a
+
+FOUNDATION'S WASTE: This is
+another arcade spaceship shoot-'em-up
+with that three-dimensional feel. The
+game offers four long levels of arcade
+combat, an upbeat soundtrack, and an
+animated finale. Atari ST ($39.95). Circle
+Reader Service Card #23.
+
+Simon & Schuster Software
+1 Gulf and Western Plaza
+New York, NY 10023
+NOT A PENNY MORE, NOT A
+PENNY LESS: This parser-driven
+graphic adventure is based on the novel
+by Jeffrey Archer. The protagonist is an
+American professor engaged in post-doctoral work at Oxford University. Having
+been bilked by a wealthy con-man, the
+object of the game is to accomplish a
+countersting and get your $1,000,000
+back. The Atari ST version uses a
+speech synthesizer for the various characters in the novel/game, but the C-64 version lacks this feature. Atari ST ($39.95),
+C-64/128 ($29.95). Circle Reader Service
+Card #24.
+
+Strategic Studies Group
+P.O. Box 261
+Drummoyne, 2047, AUSTRALIA
+ROMMEL: BATTLES FOR NORTH
+AFRICA: The "Battlefront" system, as
+refined and enhanced through the
+prolific sequels, has finally come to the
+North African campaign. The command
+point-of-view and limited intelligence associated with the system should be ideal
+for this particular combat venue. The
+variety of equipment utilized during these
+battles can also serve as building blocks
+for other scenarios. Apple, C-64/128
+($39.95). Circle Reader Service Card #25.
+
+Reader Input Device #50
+this page, a number of games and articles are listed for
+evaluation. Some general interest questions are provided, as
+well. For each game you have played or article you have
+read, place a 1 (terrible) through 9 (outstanding) next to the
+appropriate number on the card provided opposite page 4.
+On
+
+The Computer Gaming World Hall of Fame
+welcomes "Gettysburg," "Gunship," "Might 6
+Magic," and "Starflight" into the ranks of
+games which have proven themselves over
+the course of time to be top-rated games.
+After being rated a significant number of
+times by our readers, members of the CGW
+Hall of Fame are chosen by the staff of CGW.
+Once inducted into the Hall, the game will be
+retired from the current Game Ratings List.
+As a consumer, you can be assured that any
+game in the CGW Hall of Fame is an all-time
+favorite.
+
+Game Ratings
+In terms of Action/Adventure, "Bard's III" seemed fated
+to grab the top spot. Moving three titles to the Hall of
+Fame allowed for plenty of movement on that side as:
+"Ultima V" moved into fourth position with trumpets blaring "Hail, Britannia!;" "Questron II" eclipsed its predecessor by a tenth of a point; and "The Train" found itself
+
+on track for a top 10 finish. "The Three Stooges" could
+stumble into the top 10 during the next ratings period if
+they are not pulled over by the blaring sirens of the fastmoving "Police Quest."
+In the "Strategy Top 50," the declaration of "Gettysburg:
+The Turning Point" as a national landmark (induction
+into the CGW Hall of Fame) opened up room for
+"Balance of Power" and "Colonial Conquest" to accuse
+each other of imperialism by means of their triumphant
+entries into the top 10.
+
+

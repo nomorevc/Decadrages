@@ -1,0 +1,4497 @@
+April 1984
+
+Vol. 4 No. 2
+
+FEATURES
+SO YOU STILL WANT TO WRITE A COMPUTER GAME . 11
+Chris Crawford on Game Design
+
+LEARNING BRIDGE
+Goren Computerized
+
+CARRIER FORCE
+The Fog of War at Its Foggiest
+
+DIRECTORY OF GAME MANUFACTURERS
+
+16
+Bob Proctor
+22
+Tom Cheche
+
+24
+
+Annual Directory of Companies and Their Games
+
+ROBOTWAR TOURNAMENT RESULTS
+
+36
+
+An Incredible Finish
+
+PLANET PHOTON
+
+41
+
+"Live" Sci-Fi Gaming Comes to Dallas
+
+Departments
+Inside the Industry
+
+6
+
+Taking a peek
+
+8
+
+Letters
+
+12
+
+Hobby and Industry News
+
+14
+
+Dispatches (M.U.L.E. Designer Notes)
+
+17
+
+Scorpion's Tale (Starcross Tips)
+
+20
+
+Tele-Gaming
+
+32
+
+Name of the Game (Software Superstars?)
+
+20
+
+The Commodore Key
+
+39
+
+Micro Reviews (Parthian Kings, Planetfall, Axis Assassin,
+Hard Hat Mack, Oil's Well, Conquering Worlds)
+
+43
+
+Reader Input Device
+
+50
+
+Game Ratings
+
+48
+
+INSIDE THE INDUSTRY
+by Dana Lombardy
+
+In the December, 1983 issue we gave
+you the results of the survey regarding
+how the readers of CGW buy computer
+games. Most of you (55.1%) said you buy
+fewer computer games now, and that
+you're more selective about the ones you
+do buy.
+Last issue (February, 1984), we published the results of a survey that asked you
+what kinds of non-computer games (wargames, role-playing games, etc.) you
+played before and after you became involved with computer games. Most of you
+(46.9%) still play many of the same noncomputer games as you did before you
+became a computer hobbyist, but almost
+one-third of you (31.0%) have stopped
+playing these other types of games and
+now play computer games exclusively.
+This time our survey asks you what
+types of computer games you play
+regularly, and what features you like best
+in computer games.
+For the purposes of this survey, let us
+say that there are roughly five categories
+of computer games: adventure (roleplaying; wargame; arcade; abstract; and
+sports or other strategy.
+Adventure computer games would include such games as Zork; Ultima; Maces
+& Magic; Wizardry; Temple of Apshai;
+Questron; Suspended; and Castle Wolfenstein (which also has arcade features).
+Computer wargames include historical
+and science fiction battle simulations,
+such as: Robotwar; Cosmic Balance; Warp
+Factor; Computer Diplomacy; Eastern
+Front; Battle of Shiloh; Computer Ambush; Combat Leader; Close Assault;
+Bomb Alley; TAC; Paris in Danger; Legionnaire; Eagles; Operation Whirlwind; and
+North Atlantic '86.
+Computer arcade games include, as
+only a very small sampling: Choplifter;
+Lode Runner; Donkey Kong; Pac-Man;
+Frogger; Centipede; Zaxxon; Flight
+Simulator; Q-bert; Lunar Leeper;
+Jawbreaker; Flying Tigers; and various
+pinball games.
+Abstract computer games include:
+Sargon; Fortress; Pensate; and other
+chess, checkers, and backgammon style
+games.
+Sports and other strategy computer
+games include: Computer Baseball; Computer Football; Championship Golf; Corn-
+
+puter Facts in Five; Cartels & Cutthroats;
+M.U.L.E.; etc.
+Some games have features that could
+place them in more than one category.
+For example, Flying Tigers has both arcade and wargame features.
+The above list is meant to provide a
+guideline to enable you to answer the
+following questions.
+
+Use R.I.D. card in the
+back of magazine
+to respond to this
+survey.
+Part I (Questions 1 through 5)
+Check each category of computer game
+that you play at least five times a month:
+1.
+
+Adventure
+
+2.
+
+Wargame
+
+3.
+
+Arcade
+
+4.
+
+Abstract
+
+5.
+
+Sports/Other
+
+Part II (Question 6)
+Put the number of the one category of
+computer game that you play the most
+(your favorite):
+1.
+
+Adventure
+
+2.
+
+Wargame
+
+3.
+
+Arcade
+
+4.
+
+Abstract
+
+5.
+
+Sports/Other
+
+Part III (Questions 7 through 10)
+Check each type of play you're involved
+in at least three times a month:
+7.
+
+Solitaire (you against the computer)
+
+8.
+
+Player vs. Player (you against
+another player using the same
+computer)
+
+9.
+
+Tele-Gaming (you against another
+playing or computer in a network
+using a modem)
+
+10.
+
+Spectator Mode (you watch the computer demonstrate or play against
+itself)
+
+Part IV (Question 11)
+Check the one type of play that you do
+most each month (your favorite):
+A.
+
+Solitaire
+
+B.
+
+Player vs. Player
+
+C.
+
+Tele-Gaming
+
+D.
+
+Spectator Mode
+
+Thanks for taking the time to tell us the
+types of computer games you play. The
+results of this mini-survey will be published in a future column.
+
+Game Playing Aids from Computer Gaming World
+COSMIC BALANCE SHIPYARD DISK
+Contains over 20 ships that competed in the CGW COSMIC BALANCE SHIP
+DESIGN CONTEST. Included are Avenger, the tournament winner; Blaze,
+Mongoose, and MKVP6, the judge's ships. These ships are ideal for the gamer
+who cannot find enough competition or wants to study the ship designs of
+other garners around the country. SSI's The Cosmic Balance is required to use
+the shipyard disk. PLEASE SPECIFY APPLE OR ATARI VERSION WHEN
+ORDERING. $15.00
+
+ROBOTWAR TOURNAMENT DISKS
+Diskette #1 contains the source code for the twelve entrants in CGW's Second
+Annual Robotwar Tournament. Diskette #2 contains the seventeen entrants in
+the recently completed Third Annual Robotwar Tournament. Muse Software's
+ROBOTWAR required to use these diskettes. Please specify which diskette
+when ordering. $15.00 each or $25.00 for both.
+
+CGW BASEBALL DISK
+Contains the four teams of the All Star League reported on in 3.3 (AL West All
+Stars, Al East, NL West, and NL East); the six teams of the 1982 Winter League
+(see 3.3), the eight teams of the Greatest Baseball Team of All Time
+Tournament, and a reprint of the results of The GBTOAT tournament from
+issue 2.3. SSI's Computer Baseball Apple version required to use data disk.
+Apple version only. $15.00
+Send check or money order to: Computer Gaming World, Disk Order Dept.,
+P.O. Box 4566, Anaheim, CA 92803-4566. California residents please add 696
+sales tax. Allow 3-4 weeks for delivery.
+
+Activision Inc.
+2350 Bayshore Frontage Rd.
+Mountain View, CA 94043
+KABOOM!: The home video machine
+comes to the home computer. Kaboom
+is just one of many video cartridge
+games that Activision and others have
+translated into home computer format. You play again the computer's
+mad bomber or a human opponent as
+you attempt to catch bombs which are
+tossed with ever increasing speed.
+Strictly for the arcade fiend. Each of
+the Activision games is available (or
+will be) for the Atari, C-64, and
+Adam/Colecovision systems.
+MEGAMANIA: Space Invaders meet
+your nightmares. Fight off invasions
+of hamburgers, ice cream sandwiches,
+radial tires, steam irons and other
+unspeakable horrors. Nothing new
+here in terms of design, but the
+graphics are humorous. If you are a
+Space Invaders fan, you will like it.
+PITFALL: You are Pitfall Harry searching for treasures in a danger filled
+jungle. Much like B.C.'s Quest for
+Tires in design elements.
+RIVER RAID: Pilot your aircraft up
+the river blowing up bridges while
+avoiding helicopters, ships, jets, etc.
+
+Atari Program Exchange
+1346 Bordeaux
+Sunnyvale, CA 94086
+
+EXCALIBUR: Chris Crawford game
+set in a fantasy world based on the
+legend of King Arthur. The large scope
+of the game includes economics,
+diplomacy, magic, wars and battles,
+friendship, loyalty, treachery, etc.
+Atari. $30.00
+
+Avalon Hill Game Company
+4517 Harford Rd.
+Baltimore, MD 21214
+
+UNDER SOUTHERN SKIES: A
+simulation of the exploits and sinking
+of the German Pocket Battleship Graf
+Spee. Either solitaire (computer is
+British) or two player, USS has a
+strategic as well as tactical game. Nice
+graphics. Look for a future review.
+Apple.
+
+SPACE COWBOY: An arcade game
+in which you must escape from prison
+and pilot your ship to safety. Good
+45 ° graphic view. Atari.
+
+Blue Chip Software
+19818 Ventura Blvd. Suite 204
+Woodland Hills, CA 91364
+BARON: Real estate simulation game
+which doubles as an educational vehicle for learning about investment
+finance. 60 months of real estate
+trading is compressed into a one hour
+exercise. Many systems.
+
+Cheapsuit Software
+P.O. Box 923
+Iowa City, IA 52244
+
+STAR FERRY: A strategy game of
+passenger travel to the stars. With
+limited capital you, as the owner of a
+starship company, must build ships,
+explore for habitable planets, and
+transport emigrants there. Apple.
+
+Davka Corp.
+845 N. Michigan Ave., Suite 843
+Chicago, IL 60611
+
+SAMSON AND DELILAH: Arcade
+game based on the biblical story of
+Samson bringing down the Philistine
+temple. C-64 (Apple coming). $24.95.
+
+Magnetic Harvest
+P.O. BOX 255
+Hopkins, SC 29061
+GNOSIS VII: Very interesting program. Gnosis is a complex word logic
+puzzle set within a role-playing
+scenario. Your goal is to discover the
+secret names of seven Lords of Power.
+Check it out. Apple. $19.95.
+PLANETMASTER: You are in charge
+of a sanctuary satellite and charged
+with selecting and maintaining six endangered alien species. Variations in
+the needs of the various species, all
+coexisting in the same environment
+
+make for a real challenge. Apple.
+$24 .95 .
+Maximus
+6723 Whitter Ave.
+McLean, VA 22101
+SAFETYLINE: A software movie narrated by Max the Cat which presents
+safety tips to children. Children are
+taught how to cross streets safely and
+what to do when they get lost. Four
+games reinforce the safety tips.
+Disk/cassette ($34.95). Cassette only
+($29.95).
+STORYLINE: Clover the Clown
+guides children though the fairy tales
+
+"Rumpelstiltskin" and "The Ugly
+Duckling". Four games also included.
+Atari. See "Safetyline" for prices.
+Microprose Software
+10616 Beaver Dam Road
+Hunt Valley, MD 21030
+MIG ALLEY ACE: A well done split
+screen 3–D air combat game. The
+split screen allows two players to sit
+in separate cockpits (using one computer). Players can fight one another
+in F-86's or dogfight cooperatively
+against MIG-15's. The simulated aircraft are capable of real jet aircraft
+maneuvers. Atari. $34.95.
+
+Micro Lab
+2699 Skokie Valley Rd.
+Highland Park, IL 60035
+CRISIS MOUNTAIN: The original
+Apple version of this game was put
+out by Synergistic Software. An arcade game that requires strategic
+planning. You must face a multitude
+of perils as you seek to defuse terrorist
+bombs set to blow up the Western
+Hemisphere. Atari. $35.00.
+MicroSPARC Inc.
+10 Lewis St.
+Lincoln, MA 01773
+HALLOWE'EN: Arcade game in
+
+which you attempt to survive in a
+dark mansion on Hallowe'en night.
+Apple.
+
+Pryority Software, Inc.
+25570 Chiquito Place
+Carmel, CA 93923
+FORBIDDEN QUEST: Here is
+something new. FQ is the first in a
+series of Artext(TM) adventures
+which combine prose with original
+art prints. Each game will include 5
+8(/2) by 11 prints which contain clues
+that can be used in solving the adventure. Apple.
+
+Superware
+2028 Kingshouse Rd.
+Silver Spring, MD 20904
+
+AFTER PEARL: A strategic level
+simulation of the War in the Pacific.
+Scrolling map covers much of the
+Central and South Pacific. You fight
+for control of bases in the 40 turn
+campaign game. Midway and Yamato
+learning scenarios included. Players
+move task forces, all combat is controlled by computer. Actual combat
+resolution is pretty simplistic. Atari.
+Continued on p. 46
+
+Chris Crawford
+
+Some time ago I wrote an article for
+Computer Gaming World entitled "So You
+Want to Write a Computer Game." Since
+the article was written, the computer
+games industry has undergone many
+dramatic changes. The eternal truths of
+1981 are the outdated misconceptions of
+1984. How have the tumultuous events of
+the past 24 months affected the prospective computer game designer?
+Some things have not changed at all.
+For example, in the previous article I
+wrote:
+"No great paintings were ever painted
+with crayons; no great symphonies
+were ever composed with kazoos; do
+you really think that you can write a
+great program with BASIC?"
+It is just as true today. Assembly language
+is still the only development language for
+serious game designers.
+Another constant element is the fickle
+nature of fame and fortune. Vast wealth
+has descended upon some designers who
+were lucky enough to be at the right place
+at the right time. I know of several very
+worthy game designers whose brilliant
+designs just haven't caught on. My own
+experience has underlined the quirkiness
+of the marketplace: EASTERN FRONT
+(1941) has sold very, very well, but
+LEGIONNAIRE — every bit as good as
+EASTERN FRONT (1941) plods along
+with slow sales.
+Some of the advice I gave in the original
+article is even more applicable today. I
+emphasized the importance of polish, adjuring the designer to "polish, polish,
+polish" that game until he was absolutely sick of it. Today, I can only add emphasis to the hyperbole of the original article. Computer games have improved in
+the last two years, and much of the improvement has been the polish. Games
+like M.U.L.E. raise the stakes for
+everybody; the market will no longer
+tolerate slipshod design or lack of polish.
+Another factor that is even more impor-
+
+tant today is originality. Two years ago,
+I ranted in isolation against the army of
+soulless clones assailing the games buyer.
+Now, the consumer has taken up the cry.
+The most foolish thing you could do right
+now is attempt to sell another PAC-MAN,
+SPACE INVADERS, or DEFENDER ripoff. People are utterly sick and tired of
+that stuff. Even the VidKid, a youngster
+who review video games in a nationally
+syndicated column, has taken to complaining about the lack of originality in
+the current crop of games. There is no
+point in designing a game unless it is truly
+original.
+Some things have changed a great deal
+in the last two years. The most important
+change from the point of view of the game
+designer is the loss of focus in the
+machine base. Three years ago, life was
+simple: you designed for the Apple,
+period. Two years ago, you had to choose
+between the Apple and the Atari Home
+Computer.
+But the last twelve months have seen a
+great deal of confusion. Texas Instruments started coming on strong, then
+dropped out of the marketplace. Commodore came out of nowhere with their
+Commodore 64, which quickly became
+the hottest-selling machine in the
+marketplace. Then came the Coleco
+Adam and the IBM PCjr, both of which
+stirred up intense interest, most of which
+has been deflated. As of this writing, the
+C64 and the Atari Home ComputerTM are
+still the dominant machines in the games
+marketplace, but the sense of confidence
+has been shattered. Nobody knows what
+to predict.
+Another big change has been slowly
+creeping up on us for years. The 48K diskbased game is finally the standard. This
+was always the case with Apple software,
+but software for other machines, especially the Atari Home ComputerTM , was frequently designed for 16K of RAM and
+provided on either a cassette or a ROM
+
+cartridge. 48K RAM is now a standard,
+and the diskette is the best way to
+distribute the software for this size.
+The final big change is in the nature of
+the software development team. Two
+years ago, the individual reigned
+supreme. The tight coding requirement
+of games for 16K machines gave the individual a great advantage over the team.
+But the demand for bigger games has
+made it more difficult for the individual
+to keep up. More and more, we are seeing software produced by teams. Richard
+Garriott, Dan Bunten, and Jon Freeman
+are examples of notable game designers
+who are really team leaders rather than
+lonely individuals. Even I, the squawking
+exponent of rugged individualism,
+resorted to a team effort to execute EXCALIBUR. As we move to bigger
+machines, the team may become even
+more important.
+So where does this leave you, the prospective game designer? We are seeing a
+transition from a cottage industry to the
+big-time. Three years ago an individual
+working at home could revolutionize the
+industry. But, times are changing; it's getting harder for that to happen. I believe
+that the individual working at home can
+create a successful game only by (a) working full-time on the effort, or (b) obtaining
+the assistance of a support organization.
+Prospective game designers who find this
+disheartening should console themselves
+that it is at least a measure of the maturation of our industry.
+Chris Crawford heads a game
+design/research group at Atari, Inc.
+
+Copies of Crawford's original
+article which appeared in CGW 1.1
+are available for $1.00. Send requests
+to CGW, Box 4566, Anaheim CA
+92803-4566, Attention: Reprints
+
+Please advise me. I have an Apple Ile with an Apple controller
+card and a Quintron disk drive. When I boot SSI's Computer
+Quarterback it shows the company's name name and the three
+options. But, before I can pick one, it moves on and shows
+characters from the program. I have tried to correct the problem
+by removing the 80 column card, but have not altered the results.
+Cesar Baldemor, Bellflower, CA
+The problem that you have had is due to the fact that some early
+copies of Computer QB do not run on a IIe. The game has since
+been altered to adjust for the problem. If you send back your disk,
+SSI will replace it at no cost. SSI wants our readers to know that
+they have a technical hotline for such problems: 415-964-1200 during normal business hours (Pacific time).
+I would like to see more objective criticisms of games, their
+short comings as well as their strongpoints, even if it means being uncomplimentary to advertisers. Also, print more detailed
+strategy tips and techniques. Your magazine isn't the only game
+in town, but it certainly is the best. How about going monthly?
+Lee Bishop, Santa Monica, CA
+With the limited space available and the number of titles being
+released on the market, we can very seldom justify giving much
+space, if any, to games which our reviewers didn't like. The ex-
+
+ception to this rule is in the case of feature releases from one of
+the major software houses which, in our opinion, fails to live up
+to the quality expected by the game buying public. We would love
+to publish more strategy tips articles if good ones are submitted.
+Our writers come from our reader base. In addition to strategy articles we are also looking for more reviews of Avalon Hill games
+as well as designer's notes articles on the more popular games.
+Anyone "listening"?
+Your newer readers (such as myself) need access to copies of
+CGW before 2.3. How about a book of all articles published
+before 2.3?
+Lance King, Painesville, OH
+That is a possibilty in the future (if there is enough interest. For
+now, we will provide a photocopy of any article in our out-of-print
+$1.00.
+for
+issues
+Since I subscribed to CGW I haven't been disappointed. I am,
+however, a bit concerned about the attitude among some software firms and dealers that the Atari is a game not worthy of
+good simulations or business software. Obviously they are
+wrong. Although the bucks are hard to come by, I usually buy
+at least one item of software per month. Wake up manufacturers
+and Dealers!
+James B. Phipps, Katy, TX
+Have the survey results from INSIDE THE INDUSTRY 4.1 (on
+wargamers switching to computer games) been communicated
+to the manufacturers and designers in GAMA? [Ed. Note —
+GAMA stands for Game Manufacturer's Association of
+America. GAMA's membership consists primarily of those companies that design strategy board games, role-playing games and
+other paper media games for serious gamers].
+I'm a grognard in the wargaming hobby (20 plus years). I have
+not bought a board game in 15 months and I have started to
+dispose of my 200 plus game collection. I would gladly subscribe
+to a magazine that devotes more space to wargaming and less
+to fantasy, sci-fi, and arcade material.
+James Butters, Rockville, MD
+Yes, the staff of CGW meet with members of GAMA at the recent CRAFT, MODEL & COLLECTIBLES show (ex-HIA show).
+We shared the information that our survey uncovered (namely that
+31% of those that used to play board wargames have given them
+up now that they play computer wargames).
+Unfortunately we were not encouraged by the general response
+from the board game manufacturers. But Avalon Hill has
+been into computer games for several years and their 1984 releases
+look pretty good. And Task Force Games has released two games
+but were more excited about their Civil War game that they expect to release later this year, calling it their "first serious computer wargame".
+TSR Hobbies has "discontinued computer games temporarily....
+but will be coming back in 1985" according to TSR president Kevin
+Blume. TSR Hobbies, which gave us DUNGEONS AND
+DRAGONS, released 3 computer games in 1983, none of which
+did that well in the marketplace.
+Game Designer's Workshop is working on three games. A sci-fi
+game based loosely on their board game IMPERIUM, a Civil War
+game based on the battle of Chickamauga, and a North Africa Campaign game which is the favorite of GDW's Frank Chadwick.
+
+HOBBY AND INDUSTRY NEWS
+Davka Corporation, the Chicago-based
+producer of bible and religious software,
+announced the BIBLE ACTION
+SERIES. Two new games, SAMSON
+AND DELILAH and JERICHO, are the
+first products in the line. They bring
+familiar arcade action to the world of the
+Bible. A dozen games in all are planned,
+with titles such as FORTY DAYS AND
+FORTY NIGHTS, MOSES AND THE
+MOUNTAIN, and DAVID AND
+GOLIATH.
+Avalon Hill is releasing a four disk
+space fantasy adventure entitled
+JUPITER MISSION 1999. It will run on
+Atari home computer systems. The advanced look we had at the Hobby Show
+in Anaheim was impressive. No price
+listed.
+Strategic Simulations will be releasing
+50 MISSION CRUSH, a B-17 roleplaying game, for the Apple, Atari, and
+C-64 in May ($39.95). The monster game
+WAR IN RUSSIA (Apple and Atari) will
+be released in May with a whooping
+$79.95 price tag. RAILS WEST (Apple &
+Atari) will be out by the time you read this.
+C-64 conversions (all now available): Germany 85, RDF, Fortress, Cosmic Balance.
+Atari conversions for Epidemic and
+Broadsides are now available.
+SORCERER, the second release in Infocom's ENCHANTER series of adventures in the mystic arts, should be on
+dealer shelves by the time you read this.
+SORCERER is written by Steven Meret-
+
+zky, the author of the popular game
+PLANETFALL.
+Infocom also announced that their
+Techno-Hotline was now in service. The
+number-617-576-3190—will provide
+dealers and customers quick answers to
+problems of a technical nature, though
+not, they emphasised, for hints or orders.
+ZORK IN PRINT....Tor Books of New
+York are publishing a trilogy of decisionmaking books based on the ZORK theme.
+Authored by Infocom's S. Eric Meretzky,
+the titles are ZORK: The Forces of Krill;
+ZORK: The Malifestro Quest; and ZORK:
+The Cavern of Doom. Although the books
+will feature some of the characters in the
+ZORK interactive adventures, plots will
+differ.
+Activision, Inc. and Atari, Inc., announced that they have agreed in principle to form a joint venture company to
+distribute software electronically to the
+home. The venture company's service
+would use broadcast technology to
+transmit software to a home receiver that
+plugs into video computer systems. This
+service would be extended later for use
+with home computers. The proposed
+electronic distribution service would
+license software from a wide variety of
+suppliers, including Activision and Atari.
+
+Online database revenues will climb
+over the $10 billion mark in 1994, according to International Resource Development Inc.
+
+It has been said that if automobile
+technology had advanced at the rate of
+computer technology over the last 30
+years, a Rolls Royce would cost $2.50 and
+get two million miles to the gallon. True,
+unless the particular technology one had
+in mind were that of the GE Fluid Computer, which attempted to use water instead of electrons for switching circuits....or, the Interplex round teleprinter
+computer that could multiply 12 x 12 and
+never get anything but 143 ... or, the
+RCA BIZMAC, a vacuum tube dinosaur
+that took so long to build it was obsolete
+before it was done (it was so big that its
+operators wore roller skates.) These bits
+of trivia and other arcane facts about
+computerdom are the subject of a new
+book entitled THE NAKED COMPUTER, available now in bookstores.
+Some samples:
+• The first computer "bug" was actually
+a moth that met its demise in a relay of
+
+the Mark I analyzer at Harvard. The carcass is still taped to a page in a log book
+at the Navy museum in Virginia.
+• "Our products now are known/In every
+zone"....is just one line from the official
+IBM song, "Ever Onward,"not published by the company in 25 years but
+reprinted in its entirety in the book.
+• The most well-traveled Dungeons and
+Dragons player: Han Shan S. Scott, an
+18-year-old student at San Jose State College, who racked up 45,000 minutes of
+unauthorized computer and telephone
+time playing games on computers as far
+away as Taiwan and Sweden. He was arrested in May 1981 playing Canyon
+Bomber.
+• A scientist at Hughes once inscribed
+100,000 angels on the head of a pin; he
+says that now he could inscribe over 500
+million. The original 100,000 were lost
+when the pin rolled into a crack in the
+floorboards.
+• The most famous artificial intelligence
+program, ELIZA, was written by an
+M.I.T. professor to prove how difficult
+meaningful communication between
+humans and machines would be to
+achieve. He had ELIZA mimic the
+responses of a psychiatrist to show how
+ludicrous such conversation could get.
+Instead, the program was lauded by the
+psychiatric community as a boon to
+therapy. The M.I.T. professor was so
+disenchanted he became a severe critic
+of both the psychiatric community and
+the computer business.
+The hardcover book, 335 pages, is broken
+into 20 chapters with subject matter ranging from industry personalities and computer firsts to robotics, artificial intelligence, and computer art. An extensive index is included. It is available in
+hardcover only, for $15.95.
+More than 170 software publishers expect 1984 to bring good to excellent profits in software, according to a survey of
+215 publishers by TALMIS, Inc. Fortyfour percent of respondents stated that
+unit sales increased by 100% or more
+during the previous twelve months.
+Fourteen percent stated that unit sales
+increased by more than 150%! And not
+one publisher reported decreasing sales.
+International Grandmaster and U.S.
+Chess Champion Larry Chritiansen, 28,
+has concluded an endorsement agreement with CYBER Enterprises, manufacturer and distributor of CYBERCHESS,
+chess improvement system compatible
+with most personal computers. CYBERCHESS is available for the IBM PC,
+
+PCXT, PC Jr. and most MSDOS compatibles; TRS-80 and Tandy 2000; Apple;
+and C-64. CYBER Enterprises, 17517
+Fabrica Way -K, Cerritos, CA 90701
+
+Warner Software, Inc., the recently
+formed subsidiary of Warner Publishing,
+Inc., has acquired a substantial interest
+in First Star Software.
+
+Dr. Albert Mehrabian, a prominent
+U.C.L.A. research psychologist, and his
+research associate, Warren J. Wixen,
+have just completed a research project on
+video game popularity. Their findings
+are explained in the December issue of
+Psychology Today magazine. The researchers believe the best way to predict the
+commercial success of a game is to examine the emotional impact that the
+games have on players. Using the emotional impact the researchers were able
+to develop several psychological techniques that allow them to predict the success of a video game. Some of the emotional dimensions that related to the success of a game were arousal and
+dominance (feeling of being in control).
+When the games elicited a high state of
+both arousal and dominance, they were
+much more likely to be popular and commercially successful. The aggression or
+"Shoot em up" emotion that many games
+created was not a factor in the success of
+a game. Women, surprisingly enough, enjoyed playing video games more than
+men. The researchers concluded that
+they do not play as much as men because
+the manufacturers have not created
+games that appeal to them. Women
+desired games that were slightly less
+arousing and more pleasant; games like
+Frogger as opposed to Defender. The
+researchers finally state that manufacturers should design future games with
+a much broader emotional appeal.
+
+THORN EMI Video is marketing its
+first games for the Apple II and IIe computers. The company released a new
+game, LIBERATOR, as well as its bestselling SUBMARINE COMMANDER
+on diskette for the Apple computers. In
+addition, THORN EMI will release on
+diskette for the Atari computers its
+popular game, COMPUTER WAR, based upon the film, "War Games."
+
+Xor Corporation has obtained the first
+microcomputer software license granted
+by the National Football League Properties. The product, tentatively called THE
+NFL CHALLENGE, will run on the IBM
+PC, PCXT, PC Jr. and other compatible
+microcomputers. it will be released at the
+start of the 1984 NFL season. The
+challenge consists of first allocating
+resources to build an NFL team, and than
+creating coaching strategies to win NFL
+games against the computer, representing any designated NFL team.
+ADVENTURE INTERNATIONAL,
+headed by Scott Adams, has signed a
+long-term licensing agreement with
+MARVEL ENTERTAINMENT
+GROUP. The terms of the multi-million
+dollar royalty agreement specify that
+ADVENTURE INTERNATIONAL will
+create and market a series of at least
+twelve home computer graphic adventure games featuring the entire MARVEL
+UNIVERSE. MARVEL will create a
+special series of companion comic books
+tentatively called Quest Probe to tie into
+these programs. Initial release is targeted
+for late Spring, 1984.
+
+DATAMOST announced that it was
+moving to larger quarters. The new address will be 20660 Nordhoff Street,
+Chatsworth, CA 91311.
+The NATIONAL CBBS DIRECTORY
+is now available to all computer users
+who communicate over the telephone.
+This directory contains over 1000 computer bulletin board telephone numbers
+which are organized in numeric sequence. The directory also contains a key
+field which identifies relevant information such as the BBS type, its baud rate,
+operation hours, and special comments
+specific to each BBS. Many of the bulletin
+boards contain programs which you can
+download into your system at no charge
+to you. The directory is available for $2.00
+post paid from: Thomas Wnorowski,
+3352 Chelsea Circle, Ann Arbor, MI
+48104.
+In a departure from the home entertainment computer software upon which
+Synapse has built its reputation, president Ihor Wolosenko announced the formation of a new product division. The
+first program in a series of personal
+healthware titles from this division is
+
+RELAX(TM), a stress reduction system
+designed to offer a complete stress reduction system for use with home computers.
+Using biofeedback, RELAX allows you to
+monitor your stress levels by representing
+muscle tension graphically on your computer monitor. The RELAX workbook
+that is included with the software helps
+you to understand your reactions to stress
+and also provides suggestions for managing and reversing those reactions. An
+audio tape guides you into deep relaxation. RELAX also allows you to program
+in subliminal messages that will reinforce
+your relaxation responses. RELAX, from
+Synapse's new software division, will be
+available in late spring, 1984. It will be
+available on diskette, cassette tape, and
+cartridge for the Apple, Atari, C-64,
+VIC-20, and the IBM PC. No price was
+listed, but look for it to be in the $150
+range.
+As reported last issue, Yaquinto and
+Poulos Publications are working on a
+joint software venture. The marketing
+company name will be FIVE STAR
+SOFTWARE (P.O. Box 631, Elk Grove
+Village, IL 60007). Their first release will
+be The Tarot Teacher which should be
+out by the time you read this. Apple and
+Atari releases over the next two months
+will be Timeship, Murder at the End of
+Time:(Apple), Decision—North Atlantic ,Ultimatum, Ironclads:(Atari).
+
+Computer Gaming World is proud to announce the
+addition of a new junior editor, Rebecca Michelle
+Sipe. Ms. Sipe joined the firm on Jan. 27, 1984,
+weighing in at 7 pounds 0 ounces (19 inches). Operations Manager Suzanne Sipe, who was instrumental
+in bringing Rebecca into the organization, is quite
+pleased with progress so far, but has complained
+about the late hours the new employee seems to be
+keeping.
+
+BRIDGE:
+Goren
+Computerized
+by Bob Proctor
+BASIC INFORMATION
+Goren's Learning Bridge
+Made Easy
+Tutorial
+TYPE:
+Apple
+SYSTEM:
+FORMAT: Disk
+#PLAYERS: 1
+$79.95
+PRICE:
+PUBLISHER: CBS Software
+Greenwich, CT
+NAME:
+
+Here's something different! While not
+exactly a game itself, it's a program that
+teaches you how to play a game. It is a
+good product and unique at this point in
+time, but do NOT expect computerbased instruction. What you get is a book
+by Charles Goren and a diskette of practice exercises. Whether this is worth $80
+to you will depend on how much you
+already know about bridge and how
+much you enjoy drill and practice.
+
+OPENING THE BOX
+Inside, you find the diskette, a 2-page
+User's Manual, and a 130-page Player's
+Manual. The User's Manual can be ignored if you've ever used a computer
+before. The Player's Manual is the meat;
+it contains all of the actual instruction.
+The first chapter covers the rules of
+bridge. The next 9 chapters teach you
+about bidding following Goren's system
+of counting points for high cards and
+distribution. The last two chapters cover
+the play of the hand (after the bidding is
+over). The style is good but very compact,
+thanks to Goren's experience in writing
+about Bridge. You'll go quickly until you
+reach unfamiliar material and from then
+on you'll have to read slowly and carefully. You'll even find it necessary to reread
+some sections.
+SO WHAT DOES THE COMPUTER DO?
+Basically, you read a chapter from the
+
+manual and then practice what you've
+learned using one of the exercises on the
+diskette. It's important to master each
+skill before going on. For example, Exercise 1 lets you count up the point values
+of hands, a skill required by all subsequent lessons. Later exercises let you
+practice making opening bids or responding to opening bids made by your partner
+or opponents.
+There are eleven computer-based exercises. The first ten all give you practice
+with some aspect of the bidding and generate hands randomly. This means you
+can practice as much as you want. The
+eleventh exercise brings it all together. It
+uses 100 pre-determined hands, so once
+you learn them all, you're done. They
+demonstrate progressively more complex
+ideas and mix elements of both bidding
+and play.
+The screen display is clear and functional and is useable with either color or
+monochrome monitors. The cards are
+usually shown in the middle of the
+screen — their ranks and suits marked on
+the corners. During play, your hand appears at the bottom of the screen and the
+dummy's hand at the top. You are never
+left guessing about what you are supposed to do and whenever help is available
+(with the ? key), this fact is noted. If you
+ask for help, the screen shows a summary
+of the rules pertaining to the current
+situation. This is useful for review.
+If you make an incorrect play, the feedback follows one of two patterns. Most
+
+often, the computer will simply say, "No,
+there's a better play", and show you. It
+never explains why its choice was better,
+although it's usually obvious IF you've
+been reading carefully. On a few crucial
+plays, however, the program will give you
+a second chance. If you miss a second
+time, a short sentence appears to tell you
+why you should make the play indicated.
+This is very effective, and almost makes
+you feel as if Goren were looking over
+your shoulder. Unfortunately, it doesn't
+happen very often. For $80, it would have
+been nice to have the 100 practice hands
+on a separate disk (or the back side) so
+there could have been more of this kind
+of feedback. If there were enough of it,
+you could learn most of the game without
+having to resort to the book.
+CONCLUSIONS
+CBS calls the package a "bridge learning system" and this is a fair description.
+The book and the exercises are tools
+which you can use in whatever manner
+works best for you. If you're an absolute
+novice, you'll probably find the going
+tough at first. There is nothing to help you
+learn the rules of the game except ten
+pages in the book. An exercise on scoring
+would be a natural, for example, since
+bridge is second only to Mah Jong when
+it comes to weird scoring.
+If you're a good player, you'll enjoy
+testing your skill on the practice hands.
+However, you may be irritated by not being able to play the hands "your way";
+you must follow the book. Still, if you're
+willing to delve into the book for explanations, I'll bet you'll learn something.
+The program is best, then, for a person
+who already knows the rules of bridge but
+very little else. They can jump right into
+the lessons on bidding and benefit most
+from the drill and practice exercises. Just
+remember that contract bridge is a complex game. It is unreasonable to expect to
+learn to play it well without a considerable amount of effort and practice.
+Beware of false expectations, then, there
+is just no way to make it really "easy".
+
+DISPATCHES
+Insights From the
+Strategy Game
+Design Front
+
+M.U.L.E. Designer Notes
+
+Dan Bunten
+of Ozark Softscape
+
+I am grateful that so many of you have
+enjoyed M.U.L.E. and voted it into the
+top five on the game ratings list. Several
+people have even asked that I explain the
+design of M.U.L.E. My purpose in
+writing this column has always been to
+offer information that would help future
+game designers become better than those
+of us now struggling. If you are not a
+potential designer then I hope I can help
+you be a more discriminating consumer
+because, in the final analysis, informed
+buyers are what will push this field to new
+heights. So, with that purpose in mind
+and a great deal of humility, I will
+describe in as much detail as you can
+stand the decisions that were made in the
+design of M.U.L.E.
+First, let me switch from the singular
+"I" to the plural "we", since I am part of
+the group Ozark Softscape. This product
+was a result of the exciting synergy between myself, my brother Bill Bunten, Jim
+Rushing and Alan Watson who make up
+our group. We also received considerable
+input from Joe Ybarra, our producer at
+Electronic Arts. Initially we had decided
+to do a business strategy game for multiple players. This was going to be similar
+
+to my previous game, CARTELS & CUTTHROATS. The new game was going to
+have more graphics and better playability than Cartels. An element from a game
+I had written in 1978 called WHEELER
+DEALERS was going to be the new twist
+for this product. Wheeler Dealers was a
+16K cassette program for the Apple
+whose main feature was a four player
+"real-time" auction. Although Wheelers
+had only sold 150 copies (it included a
+kludgy hardware device and sold for the
+outrageous price of $54 in 1978), it had
+always seemed fun to me because of its
+auction. So we decided to try something
+similar.
+Since this new game was going to be an
+interactive multi-player game, we looked
+around for a model for a successful game
+of this type. The quintessential model was
+Monopoly. Our first step, therefore, was
+to discover some of the elements that
+made Monopoly such a successful game.
+Bill said it was the "tokens" (the battleship was always his favorite)! We all
+laughed, but as you can see in the final
+version of M.U.L.E., we included
+something of the flavor of the tokens in
+the form of "species selection". The main
+point we came up with that made
+Monopoly different from most other
+board games (and from all computer
+games) was the fact that it isn't "ruledriven". Its rules are just the framework
+for a social interaction with other players.
+People playing Monopoly do a number of
+things outside the game system like swapping property, special deals, loans, etc. In
+addition, players adopt certain styles
+towards other players such as the "soft
+touch" (in our family, Mom would always
+let you off without paying rent), or the
+"cutthroat" (who forces you to mortgage
+property to pay the exact amount). The
+implications for our design in all of this
+were that we wanted our game to offer as
+much flexibility as possible.
+Although Monopoly is a real-estate
+development game, we felt that a theme
+dealing with pioneering in space was
+more exciting in this day and age. (In fact,
+"Planet Pioneers" was the original title
+for the game.) Thus, acquiring and
+developing land was to be one of the main
+elements of the game. In Monopoly, once
+you own a group of two or three properties you can move to the next phase of
+development. In M.U.L.E. we decided to
+have a more economically realistic model
+that affected your performance. Thus, we
+included elements of economies of scale
+(adjacent properties doing the same kind
+of production) and learning curve (the
+more properties doing the same type of
+work the higher your per unit production). In this way the computer could
+bring something new to the party. Much
+greater depth in the game trade-offs is
+possible without added complexity for
+the players.
+
+At this point, we had the main concepts
+laid out. The new game would be a multiplayer land development game with a
+real-time auction. However, concepts
+alone do not make a game. We needed a
+scenario that would allow us to "feel" our
+way through the myriad decisions needed to complete the design. Bill and I had
+both read a book by Robert Heinlein called Time Enough for Love. One of the
+many stories in that book dealt with the
+main character's efforts to colonize an
+undeveloped world. In the story, there
+was a curious paradox in the fact that a
+galactic high technology culture would
+still develop new worlds much like the
+pioneers of the old west. The civilization
+would allow settlers to attempt to turn a
+"marginal world" into a productive
+planet. If the pioneers succeeded, the
+world would be accepted into the federation. If they failed then the federation
+hadn't lost much. The intriguing point for
+us in this story was that a highly
+developed civilization would still depend
+on the personal drive of a few individuals
+with relatively primitive tools to create
+new production capacity. This fit with
+our own philosophy, that a man with a
+dream is worth more than a dozen corporate planners.
+We had part of the backdrop for our
+design. One of the specifics that came out
+of the scenario dealt with something quite
+similar to the "40 acres and a mule"
+method of pioneering. In Time Enough
+for Love a genetically designed
+burro/donkey/horse/mule provided the
+main non-human energy resource. We
+liked that idea but considered a miniature
+"Star Wars Walker" more attractive.
+Alan's son had a foot high model that
+became the first M.U.L.E. From that
+point, we simply exaggerated the comic
+head-bobbing to create a more friendly
+creature. Since our M.U.L.E. was a robot,
+we figured he could be programmed to
+create different products. This gave us
+one of those wonderful flashes of closure
+in game design. Instead of having the
+player specify a certain production type
+for a particular plot using menus or
+keyboard entry (as is common in strategy
+games on the computer), we were able to
+use our animated creature to provide continuity. You get a M.U.L.E. out of the corral, outfit him in one of the shops to make
+a certain type product, and then deposit
+him on your plot of land. This is the same
+thing as telling the computer you want
+plot #15 set up for product #2. But it's a
+whole lot more fun!
+Another element of the world we were
+creating was that it would have to be completely self-supporting. This would add
+the pressure that would make the game
+challenging. Another Heinlein book The
+Moon Is a Harsh Mistress provided inspiration for this element. In this book the
+Continued on p. 42
+
+STARCROSS
+
+As told by Scorpia
+
+Ah, glad to see you drop in again! This
+time, we're off on a hi-tech adventure, far
+away from deep and dank dungeons. So,
+fasten your seatbelt, and we'll liftoff to
+Starcross!
+First, you're going to be needing the
+map that came with the game. The location of the alien ship changes from game
+to game, and without the map, you won't
+be able to figure out what the proper coordinates are for getting to it. So, make sure
+you don't lose that map!
+There isn't too much to do while you're
+on your way through space to the mystery
+ship, so you might just as well enjoy the
+descriptions as you fly along. Eventually, you will be captured by the ship, and
+that's where the game really begins. Leaving your own vessel, you will find
+yourself just outside the Red Airlock. Getting it open is the first puzzle of the game.
+The solution to it is really simple.
+Careful examination of the sculpture,
+along with a little thought about your
+origins, should get the airlock open pretty quickly. This will also provide you with
+the first of the twelve rods you will be collecting throughout the game.
+Once past the airlock, you will find
+yourself in a truly alien world. Much will
+be incomprehensible at the start (and
+perhaps for much of the game, if not all
+of it!), so the best thing to do at this point
+
+is just save the game, then wander around
+for awhile, mapping as you go. Once you
+have a fair idea of the layout of the ship,
+and where you can find certain objects,
+you're ready to play the game in earnest.
+Now, as you went around the ship, you
+probably found yourself running across
+various strange creatures (and even one
+familiar one .... don't go walking around
+in the dark!!). All of them, in one way or
+another, will be useful to you; the trick,
+as always, is finding the right way of dealing with them.
+For example, there are the rat-ants. Not
+terribly intelligent, but they do know how
+to protect their nest ... and the red rod
+that's stuck in it. The answer to this problem is one that you wouldn't ordinarily
+associate with an Infocom game, and is
+the least satisfying of all the solutions in
+the game. But you do need that red rod for
+something, so it's best to get it now.
+Once you have that, you might also
+want to pay a visit to the spider who lives
+behind the blue airlock. Unlike the ratants, he is quite intelligent, and even
+friendly. He has something for you, IF
+you have something for him. Remember
+that he's bored; what might you have with
+you that could keep him happily occupied
+for awhile?
+
+Well, by now you have several rods, and
+you're probably wondering what, if
+anything, to do with them. Don't worry,
+they all have a purpose. What you need
+to do now is pay a visit to the Grasslands.
+Explore around there, and you should
+find a hatch without too much trouble.
+Once you open it and go inside, you'll probably get an idea or two about the uses of
+the rods. A little knowledge of chemistry
+is helpful here, but not absolutely
+necessary. Trial and error works pretty
+well, too. Remember to take with you
+anything you might find here.
+Ok, now you need to make your way to
+the Yellow Airlock; beyond it will be
+another rod. You may find that the door
+is a bit harder to open than the others
+were, but don't let that stop you! There is
+also a basket inside the door; make sure
+you pick that up, because it will come in
+very handy!
+Then it's off to the lab in the Blue Hall,
+where you will find a mysterious silver
+sphere, and some strange controls. A little messing around shows you that you
+can make the sphere larger or smaller by
+twisting a dial; when you do that, a blue
+rod is revealed inside the sphere! Alas,
+you can't just pull it out.
+Looking around, you see a red disk and
+
+a green disk. Pick them up, because they
+are needed here, and in some other circumstances as well. It will take a little experimenting on your part to figure out
+what the disks do, and quite a bit more to
+see how they should be used in this situation. I'll just tell you that neither disk
+should be put on the sphere, and that you
+shouldn't forget what you found in the
+Yellow Airlock.
+After getting the blue rod (and making
+sure you have the disks with you!), head
+along to the Computer Room. Investigation of the computer should reveal to you
+what needs to be done pretty easily, and
+now you have a gold rod to add to your
+collection. Don't worry about all the fancy displays here; once you have the gold
+rod, you've done everything necessary in
+this room.
+While you've been moving around, you
+may have noticed a little mechanical
+"mouse" that collects trash. This
+machine is quite important; it will help
+you to obtain another rod. It isn't
+necessary to follow it around, however;
+just be a litterbug. When the item you
+dropped has disappeared, you'll know the
+mouse has been by. Of course, you *do*
+have to drop the right item (does that have
+you going in circles?).
+Right about now, it's time to pay your
+respects to the Weasels. Make your way
+
+to their village, and wait until the chief appears. He will be anxious to trade with
+you; feel free to give him what he wants
+... just make sure that you get what you
+need, so be assertive!
+When you have that, hang around.
+There is something else the chief can do
+for you, so don't let him out of your sight.
+Eventually, you will see why that is
+necessary, when you reach the Green
+Airlock. This is a tricky spot, in more
+ways than one. Make sure you check out
+everything in the area; you should be leaving with a couple of extra items. Speaking of leaving, you can't just walk out the
+way you came in; try doing that, and
+you'll find yourself in a whole lot of trouble! There is, of course, another way
+ou t ....
+Once you've figured out what that is,
+you'll want to go to the Observatory.
+Here, you'll need to look around very
+carefully indeed; pay close attention to
+the room description and your inventory.
+Don't leave empty-handed.
+Which reminds me, somewhere along
+the way, you should be sure to pick up the
+raygun from the Weapons Deck. It will
+come in very handy, in more ways than
+one. Now it's time to look at those
+mysterious bubbles in the Grasslands.
+Getting to the first one should present
+Continued on p. 46
+
+CARRIER FORCE: THE FOG OF WAR AT ITS FOGGIEST
+by Tom Cheche
+
+Carrier Force
+NAME:
+Wargame
+TYPE:
+SYSTEM:
+Apple, Atari
+#PLAYERS: 1 or 2
+Gary Grigsby
+AUTHOR:
+$59.95
+PRICE:
+PUBLISHER: Strategic Simulations
+Mountain View, CA
+
+The emergence of the computer
+wargame has provided the serious
+wargamer with three distinct advantages
+over board games. The computer can attend to the minute bookkeeping details
+that slow down the play of a board
+wargame. The computer can provide an
+opponent of varying levels of
+competance. And the computer can create
+and maintain that most difficult element
+to simulate .. the "fog of war."
+Military Commanders have always
+been forced to make decisions based on
+information that was, to one degree or
+another, incomplete or inaccurate. The
+problem in board wargaming has always
+been finding a realistic method of parcelling out that information in such a way
+that the opponents experienced a "fog of
+war" as close as possible to the actual
+situation. The computer wargame
+dispenses that information in the most
+realistic and playable method available.
+Prior to the emergence of the computer
+wargame, it was this lack of a true "fog
+of war" that detracted from the playing
+of board simulations that dealt with aircraft carrier warfare during WWII. One
+
+of the most fascinating chapters in
+military history, the carrier battles of
+1942 lost much of their tension when
+bogged down by the often tedious procedure of airborne search. Search procedures had to be conducted one air
+group at a time, one hex at a time with the
+success or failure of the search in each
+hex being determined by the weather conditions and other factors. It was, at best,
+a chore.
+But, in the quest for a detailed board
+simulation, the methodical search procedure had to occur. Hard-core garners
+accepted the monotonous searches as
+part of the price they paid for realism, all
+the while revealing to their opponent
+where they were conducting searches by
+calling out the hex coordinates; a most
+unrealistic situation.
+In all of the board game treatments of
+aircraft carrier operations, from MIDWAY, to FAST CARRIERS, INDIAN
+OCEAN ADVENTURE, AND FLATTOP the impression left was that while
+the feel was close, it missed the mark.
+There was always a sense, after playing,
+of not quite experiencing the true tensions, the true sensations, the taste of
+
+what it was really like in carriers during
+the uncertain days of 1942.
+With the release of CARRIER FORCE
+(CF) by Gary Grigsby, Strategic Simulations, Inc., takes a giant step towards closing the gap between reality and simulation. Author Gary Grigsby has described
+CF as being "about as foggy as a game can
+get," and that is a fair assessment. With
+only a few exceptions, players know only
+what their search has revealed, and even
+then the search information is not always
+to be believed.
+CF is an operational level treatment of
+the four great carrier battles of 1942 in the
+Pacific. Coral Sea, Eastern Solomons,
+and Santa Cruz are contested on a scrolling, high resolution map of the South
+Pacific area including the Solomon
+Islands, and portions of New Guinea and
+northeastern Australia. The map for the
+Midway scenario is separate and relatively featureless, representing only the
+Midway atoll.
+Like all SSI products, CF can be played
+between human opponents or the computer can provide a very competent opponent as commander of the Japanese
+forces. There are multiple levels of difficulty, and there are provisions for
+historic and random starting locations.
+During each turn (one hour game time)
+players must maneuver task forces,
+launch land based and carrier based searches, form attack and patrol missions,
+ready aircraft, launch and recover aircraft, move air groups and conduct air
+searches, and resolve combat.
+In all of the scenarios the initial turns
+will find the players creating air groups
+in order to get search planes up as soon
+as possible. Land bases can fly off longlegged search craft that can remain aloft
+Continued on p. 47
+
+I
+
+Directory of
+Game Manufacturers
+Our First Annual Computer Game Manufacturer's Directory will be helpful in keeping up with the changing marketplace. Computer game manufacturers are hard to keep up with. Although there are new names in the field. 1983 was a year that saw more "players"
+drop out of the game than join the game. Additionally many companies moved during the year. This list is current as of April 1, 1984,
+although we are are sure that there are companies missing that should be here.
+Game titles are listed for each company. Where the company puts out more than 10 games, generally the 10 highest sellers are
+listed. The machines that the companies support with entertainment software are also listed.
+Anything Software Co.
+P.O. Box 60219
+Palo Alto CA 94306
+Apple
+Plain Vanilla Games
+Aardvark
+2352 S. Commerce
+Walled Lake MI 48088
+Phone: 313-669-3110
+C-64, VIC-20, Coco, Timex,
+Labyrinth, Trek Adventure, Derelict,
+Dungeons of Death, Pyramid, Mars Quest
+Academy Software
+PO Box 6277
+San Rafael CA 94903
+Phone: 415-499-0850
+C-64, VIC-20
+IFS (Flight Simulator), Typing, Tutor & Word
+Invaders
+Actioncraft
+5753G E Santa Ana Cyn Rd.
+Anaheim Hills CA 92807
+Phone: 714-998-7117
+Apple
+Pick-a-dilly Pair, Speedway Classic
+Activision
+2350 Bay Shore Frontage Rd.
+Mountain View CA 94043
+Phone: 415-960-0410
+Atari
+River Raid, Kaboom!, Mega Mania, Pitfall
+Adventure International
+Box 3435
+Longwood FL 32750
+Phone: 800-327-7172
+Support: 305-862-6917
+Apple, Atari, TRS-80, PC, C-64 Coco
+Sea Dragon, Preppie, Adventure Series (13
+Titles), Stone of Sisyphus, Labyrinth of
+Crete, War, commbat, The Curse of Crowley
+Manor, Saigon:The Final Days, Eliminator
+and others
+Anthro-digital, Inc.
+103 Bartlett Ave.
+Pittsfield MA 01201
+Phone: 413-448-8278
+PC
+Gambling Games I
+
+Apropos Technology
+350 N. Lantana Ave., Suite 821
+Camarillo CA 93010
+Phone: 805-482-3604
+VIC-20, C-64
+Dr. Floyd, Wordplay, Type For Your Life
+
+Ark Royal Games
+P.O. Box 14806
+Jacksonville FL 32238
+Phone: 904-777-1543
+Coco, C-64
+Across The Rubicon, Guadalcanal, Bomber
+Command
+
+Atari Program Exchange
+1346 Bordeaux
+Sunnyvale CA 94086
+Phone: 408-727-5603
+Atari
+TypoAttack, Excalibur, Getaway, Kangaroo,
+Quarxon, Salmon Run, Galahad and the Holy Grail, Dandy, Bellum, Raid on Gravitron,
+and others
+
+Atarisoft
+1399 Moffett Park Dr.
+Sunnyvale CA 94086
+Phone: 408-743-4132
+Apple, Atari, PC, C-64, VIC-20 TI
+Pac-man, Centipede, Defender, Stargate, Digdug, Donkey Kong, Robot-Ron:2084, Picnic
+Paranoia, Protector, Shamus, Galaxian,
+Superstorm
+
+Artsci, Inc.
+5547 Satsuma Ave
+North Hollywood CA 91601
+Phone: 213-985-5763
+Apple
+Draw Poker, Roulette, Craps, Apple 21,
+Gomoku, Photar, Starmines, Reversi, Best of
+Bishop, Microgammon II, Baker's Trilogy,
+Cross Words, Poker Solitaire, Cypher Bowl
+
+Avalon Hill Game Company
+4517 Harford Rd.
+Baltimore MD 21214
+Phone: 301-254-5300
+Apple, Atari, C-64, PC, Timex, TRS-80,
+VIC-20
+Over 50 Titles including Under Southern
+Skies, Tournament Golf, Panzer-Jagd, Dreadmoughts, Tac, Paris in Danger, Computer
+Diplomacy, Legionnaire, Tanktics, Dnieper
+River Line, Telengard, Parthian Kings and
+others
+
+Artworx Software Co., Inc.
+150 North Main St.
+Fairport NY 14450
+Phone: 716-425-2833
+Atari, Apple, C-64
+Alley-oops!, Gwendolyn, Vault of Zurich,
+Bridge 4.0, Compubridge, Strip Poker,
+Monkeymath, Monkeynews, MonkeyBuilder And More
+
+Avant-garde Creations
+P.O. Box 30160
+Eugene OR 97403
+Phone: 503-345-3043
+Apple, PC, VIC-20, C-64, Atari, TI
+Hi-res Computer Golf 2, Pro-Courses 2,
+Trompers, Lazer Maze, Jump Jet, Word
+Scrambler & Spelling Tutor
+
+Atari, Inc.
+PO Box 50047
+San Jose CA 95150
+Phone: 408-745-2000
+Atari
+Eastern Front (1941), Ms. Pac, Pole Position,
+Jungle Hunt, Dig Dug, Joust, Robotron,
+Pengo, Moon Patrol, Donkey Kong Junior
+
+Bram, Inc.
+18779 Kenlake Place, N.E.
+Seattle WA 98155
+Phone: 206-486-8428
+Atari, C-64
+Zombies
+Bez
+PO Box 19654 Suite 236
+Irvine CA 92714
+Phone: 714-752-3888
+Apple
+Bez-mx, Bez-off, Double Trouble
+Big Five Software
+PO Box 9078-185
+Van Nuys CA 91409
+Phone: 213-782-6861
+
+California Pacific
+757 Russell Blvd.
+Davis CA 95616
+Phone: 916-756-2921
+Briley Software
+PO Box 2913
+Livermore CA 94550-0291
+Phone: 415-455-9139
+C-64, VIC-20, TI
+Blackjack Tutor, Fur Trapper, High Seas,
+Mansion!, Museum!, Pentagon!
+
+Apple, C-64
+Lady Tut, Lord British Starter Kit (Ultima &
+Akalabeth), Hungry Boy, Bill Budge's 3-d
+Graphics System & Game Tool, Cosmos Mission, Bill Budge's Genesis (Trilogy & Space
+Album)
+
+Atari
+Miner 2049er
+
+Blue Chip Software
+19818 Ventura Blvd. #204
+Woodland Hills CA 91364
+Many
+Millionaire, Tycoon, Baron, Squire
+
+Blythe Valley Software
+Box I Hwy 41 Silver Crk Cntr
+Oakhurst CA 93644
+Phone: 209-683-4735
+Apple, Atari, PC
+The Story Book Series (Hansel & Gretel,
+Briar Rose, The Storyteller), The Milky Way
+Merchant. Snel'Imanrl'
+
+Broderbund Software
+17 Paul Dr.
+San Rafael CA 94903
+Phone: 415-479-1170
+Apple, Atari, C-64, Vic, PC
+A.E., Arcade Machine, Choplifter!, David's
+Midnight Magic, Drol, Lode Runner, Matchboxes, Operation Whirlwind, Seafox,
+Serpentine, and others
+
+Budgeco
+428 Pala Ave.
+Piedmont CA 94611
+Apple
+Pinball Construction Set
+
+CBS Software
+One Fawcett Place
+Greenwich CT 06836
+Phone: 203-622-2525
+Apple, Atari, C-64, PC, Jr
+Goren: Learning Bridge, Murder By The
+Dozen
+
+CE Software
+801 73rd Street
+Des Moines IA 50312
+Phone: 515-224-1995
+Apple
+Swordthrust Series (7 Games), Wall Street,
+Mission Escape!
+
+Continued on p. 28
+
+.
+
+,
+
+Cheapsuit Software
+Box 923
+Iowa City IA 52244
+Apple
+
+Data Trek
+121 West E St.
+Encinitas CA 92024
+Phone: 619-436-5055
+
+Star Feery
+
+Apple
+Maze Craze Construction Set, Willy Byte
+
+Coleco Industries, Inc.
+999 Quaker Ln, South
+West Hartford CT 06110
+Phone: 203-725-6000
+Adam
+Broad Range of Titles For Adam
+Comdata Computer House
+320 Summit Ave.
+Milford MI 48042
+Phone: 313-685-0113
+VIC-20, C-64
+Supercuda, Ape Craze, Escape Mcp, Firing
+Line, Maelstrom, Pegasus Odyssey, Circus,
+Perseus & Andromeda, and others
+
+Counterpoint Software
+4005 West Sixty-fifth St.
+Minneapolis MN 55435
+Phone: 612-726-7888
+Phone: 800-328-1223
+
+Dilithium Software
+8285 SW Nimbus Suite 151
+Beaverton OR 97005
+Main Phone: 503-547-2713
+Other Phones: 800-547-2713 (Support)
+Many
+
+Golden Flukes and Great Escapes: How to
+Write Your Own Adventure Games
+Dataknight
+Normandy Circle
+Glenmoore PA 19343
+Phone: 215-431-8900
+Apple, PC, Jr
+
+Discovery Games
+936 W. Hwy.36
+St. Paul MN 55113
+Phone: 612-488-6843
+
+Grand Slam Trivia (plus Additional Trivia
+
+Apple, TRS-80
+
+Disks)
+
+Chennault's Flying Tigers, Lafayette
+Escadrille, and other games
+
+Datamost
+20660 Nordhoff
+Chatsworth CA 91311
+Phone: 818-709-1202
+
+Dolphin Microware
+410 Stanford Ave.
+Palo Alto CA 94306
+Phone: 415-321-6333
+
+Apple, Atari, C-64
+
+Atari
+
+Over 40 Titles Including: Aztec, Bilestoad,
+Snack Attack, Mr. Robot
+
+Hexmaster
+
+Apple
+
+Datasoft
+19808 Nordhoff Place
+Chatsworth CA 91311
+Phone: 818-701-5161
+
+Quizagon
+
+C-64, Atari, Apple, PC, Jr, TRS-80
+
+Don't Ask Computer Software
+2265 Westwood Blvd., -B-150
+Los Angeles CA 90064
+Phone: 213-497-4514
+Phone: 213-397-8811
+Apple, Atari
+Abuse
+
+Sands of Egypt, Moon Shuttle, O'Riley's
+
+Mine, Pooyan, Bruce Lee, Genes Is, The
+Creative Software
+230 East Caribbean Drive
+Sunnyvale CA 94086
+Phone: 408-745-1655
+
+Dallas Quest, Zaxxon, Lost Tomb, and
+others
+
+C-64, PC, Jr, Apple
+
+Dataworks
+P.O. Box 236
+Deep River CT 06417
+Phone: 203-526-9257
+
+Crisis Mountain, Save New York, Moon
+Dust, Dragon Hawk, Choplifter, In the
+Chips, Bumble Bee, Pipes
+
+Dynacomp, Inc.
+1427 Monroe Ave.
+Rochester NY 14618
+Phone: 716-442-8960
+Support: 716-442-8731
+16 Systems
+Over 90 Game Titles
+
+Apple
+Tank Platoon!
+
+Cross Educational Software
+PO Box 1536, 1802 N. Trenton
+Ruston LA 71270
+Phone: 318-255-8921
+Apple
+Aquarium, Dinosaurs, Spell-a-Vision, Blitzkrieg II
+
+Cyber Enterprises
+17517 Fabrica Wy -K
+Cerritos CA 90701
+Phone: 714-523-8382
+Apple, C-64, PC, Jr, TRS-80
+Cyberchess Chess Improvement System
+
+Davka Corporation
+845 North Michigan Ave., -843
+Chicago IL 60611
+Phone: 800-621-8227
+In IL 312-944-4070
+Apple, PC, C-64, Atari, TRS-80
+
+Bible Baseball, Create-a-quiz, Crumb Eater,
+Crumb Sweeper, Fuzzball, I.Q. Baseball, The
+Lion's Share, The Philistine Ploy, Samson
+And Delilah
+
+Designware
+185 Berry St.
+San Francisco CA 94107
+Phone: 415-546-1866
+Toll Free: 800-572-7767
+Apple, Atari, PC, C-64, Jr
+Crypto Cube, Spellicopter, Math Maze,
+Creature Creator, Spellakassm, Spellagraph,
+Trap-a-zoid
+
+Data Equipment Supply Corp.
+8315 Firestone Blvd
+Downey CA 90241
+Phone: 213-923-9361
+
+Earthware Computer Service
+P.O. Box 30039
+Eugene OR 97403
+Phone: 503-344-3383
+Apple
+Volcanoes, Star Search, Zoo Master, Black
+Belt
+
+Electronic Arts
+2755 Campus Dr.
+San Mateo CA 94403
+Phone: 415-571-7171
+Apple, Atari, C-64
+Archon, M.U.L.E., Murder On The
+Zinderneuf, Pinball Construction Set, Hard
+Hat Mack, One On One, Axis Assassin,
+Worms?, D-bug, Standing Stones, and others
+
+VIC-20, C-64
+
+Digital Marketing Corp.
+2363 Boulevard Circle
+Walnut Creek CA 94595
+Phone: 415-947-1000
+Support & Sales 800-826-2222
+
+Electronic Courseware Systems
+309 Windsor Road
+Champaign IL 61820
+Phone: 217-359-7099
+
+Zarcon, Silly 64, Star Defender, Lazer Com-
+
+PC, CP/M
+
+C-64, Apple
+
+mand, Space Trader
+
+Orbquest, Astrododge
+
+Ear Challenger
+
+Epyx
+1034 Kiel Ct.
+Sunnyvale CA 94086
+Phone: 408-745-0700
+Apple, Atari, PC, Jr, C-64, VIC-20, Adam
+A Temple of Apshai, Dragonriders of Pern,
+Oil Barons, Gateway to Apshai, Silicon Warrior, Mission Impossible, World's Greatest
+Baseball Game, Sword of Fargoal, Crush
+Crumble & Chomp, Upper Reaches of Apshai, and others
+Eti Software
+Box 686
+Dover MA 02030
+Apple
+Program X: The Ultimate Puzzle
+
+First Flight Data Systems
+Box 555
+Kitty Hawk NC 27949
+Phone: 919-441-6480
+Apple
+Bull Run
+First Star Software, Inc.
+22 East 41st. Street
+New York NY 10017
+Phone: 212-532-4666
+Apple, Atari, VIC-20, TRS-80
+Astro Chase, Bristles, Panic Button, Rent
+Wars, Flip Flop, and others
+
+Gamestar, Inc.
+1302 State St.
+Santa Barbara CA 93101
+Phone: 805-963-3487
+Phone: 805-963-6820
+Atari, C-64
+Baja Buggies, Starbowl Football, Star League
+Baseball, On Field Football
+Gamma Software
+PO Box 25625
+Los Angeles CA 90025
+Phone: 213-473-7441
+Atari
+Hockey, Soccer
+
+H.A.L. Labs
+4074 Midland Rd., Suite 23
+Riverside CA 92505
+Phone: 714-359-8480
+Apple, C-64
+Super Taxman II, Sheila, Stellar Triumph,
+Vindicator
+
+Flexible Software
+P.O. Box 5841
+Charlottesville VA 22905
+Phone: 804-979-0973
+Apple, PC, C-64
+Portfolio
+
+Hayden Software
+600 Suffolk St.
+Lowell MA 01853
+Phone: 800-434-1218
+In MA: 617-937-0200
+Apple, Atari, C-64, PC
+Bellhop, Crystal Caverns, Final Conflict, Go,
+Golf, King Cribbage, Microscopic Journey,
+Reversal, Sargon III, and others
+
+FTL
+7907 Ostrow St
+San Diego CA 92111
+Phone: 619-279-5711
+Apple
+Sundog
+
+Highlands Computer Services
+14422 Southeast 132nd
+Renton WA 98056
+Phone: 206-228-6691
+Apple
+Oldorf's Revenge, Tarturian, Creature Venture, Mummy's Curse, Cosmic Combat
+
+Homecomputer Software
+1307 S. Mary Ave., Suite 209
+Sunnyvale CA 94087
+Phone: 408-735-8400
+Apple, C-64, Atari, Jr
+Kids Say The Darndest Things To Computers, Pro Golf, Plaqueman, Tangrams,
+Stories Alive! (series)
+Homeware
+Box 3062
+Ruston LA 71272
+Apple
+Appledowns, Mystic Oracle
+Howard W. Sams
+4300 W. 62nd St.
+Indianapolis IN 46268
+Phone: 800-298-SAMS
+Support: 800-348-8558
+Apple, PC, VIC-20
+Ape Escape, Czorian Siege, Reyatta,
+Spud/mug Shot, Voyage of the Valkyrie,
+Caves of Olympus, Bermuda Race, Music
+Games
+Human Engineering Software
+71 Park Lane
+Brisbane CA 94005
+Phone: 415-465-4111
+PC, C-64, VIC-20, Atari
+Attack of the Mutant Camels, Gridrunner,
+Pharoah's Curse, Shamus, Lazer Zone, Maze
+Master
+Hy-Tek
+6502 Micro Drive
+Dayton MD 21036
+Phone: 301-854-0058
+Apple
+Profit Motive
+
+Ibidinc
+179 Allyn St. Suite 607
+Hartford CT 06103
+Phone: 203-547-0085
+Apple, PC, C-64, Atari
+The Alpine Encounter
+'magic
+981 University Ave.
+Los Gatos CA 95030
+Phone: 408-399-2200
+Atari, Jr, TI
+Demon Attack, Microsurgeon, Baseball,
+Football, Wing War, Quick Step Laser Gates,
+Moonsweeper, Fathom
+Independent Software
+1342 Second St.
+New York NY 10021
+Phone: 212-772-2960
+Apple
+Key to the Storm, Socket Wilderness,
+Ringside
+Infocom Inc.
+55 Wheeler St.
+Cambridge MA 02136
+Phone: 617-492-1031
+Many
+Zork Series (I, II, III), Starcross, Suspended,
+Deadline, The Witness, Enchanter, Planetfall, Infidel
+Insoft, Inc.
+7833 Southwest Cirrus Drive
+Beaverton OR 97005
+Phone: 503-641-5223
+Apple, PC
+Zargs, Grapple, Spider Raid
+Island Graphics
+PO Box V
+Bethel Island CA 94511
+Phone: 415-684-2664
+Atari
+Tax Dodge
+
+Kelcom Management
+30 Southampton Drive Sw
+Calgary Alb Canada
+Phone: 403-253-5397
+Apple
+The Exchange
+
+Koala Technologies
+3100 Patrick Henry Dr.
+Santa Clara CA 95050
+Phone: 800-227-6703
+In Ca: 800-632-7979
+Apple, Atari, C-64, PC
+Spider Eater, Dancing Bear
+
+Krell Software
+1320 Stony Brook Road
+Stony Brook NY 11790
+Phone: 516-751-5139
+Orders: 800-842-8679 (outside NY)
+Apple, Atari, C-64, PC, TRS-80
+Adventures In Flesh, The Black Death, Botticelli, Plato's Cave, and others
+
+The Learning Company
+545 Middlefield Rd. –170
+Menlo Park CA 94025
+Apple
+Bumble Games, Gertrude's Puzzles, Rocky's
+Boots, And Others
+
+Learning Well
+200 South Service Rd.
+Roslyn Heights NY 11577
+Phone: 516-621-1540
+Support: 800-645-6564
+(outside NY)
+Apple
+Space Math, That's My Story, and others
+
+Jay Gee Programming Co.
+7185 Blue Hill Dr.
+San Jose CA 95129
+Phone: 800-227-1617 X 217
+In CA: 800-772-3545 X 217
+Atari
+Devil's Dare, Attack of The Spelling Bees
+
+Legionnaire Games Inc.
+1415 Dillingham Blvd.
+Honolulu HI 96817
+Phone: 808-845-2527
+Apple
+Ringside
+
+Jor-And
+Box 9180
+Glendale CA 91206
+Phone: 818-247-6658
+Apple
+Secret Agent-Mission One
+
+Lor Inc.
+Rt. 2 Box 185
+Rigby ID 83442
+Phone: 208-745-8977
+C-64
+Ophir, Terrain, Strafe
+
+Mach-ina Strategy Games
+161 Aragon Ave., Suite 202
+Coral Gables FL 33134
+Phone: 305-443-0027
+Atari
+Chancellor of the Exchequer
+
+Magnetic Harvest
+Box 255
+Hopkins SC 29061
+Phone: 803-783-3151
+Apple
+Planetmaster, Gnosis Vii
+
+Micro Lab
+2310 Skokie Valley Rd.
+Highland Park IL 60035
+Phone: 312-433-7550
+Apple, Atari, C-64, PC, Jr. Adam
+Miner 2049er, Dino Eggs, Death in the Caribbean, The Heist, Scraper Caper, Globe Grabber, Crisis Mountain
+
+Micro Magic
+908 Memorial Parkway Nw
+Huntsville AL 35801
+Phone: 205-536-1290
+Apple
+Boa
+
+Micro Program Designs
+5440 Crestline Rd.
+Wilmington DE 19808
+Phone: 302-738-3798
+Apple
+Edu-cave
+
+Micromate Software
+Box 20245
+Tallahassee FL 32316
+Atari
+Gridiron Glory, Ramblin Gamblin, Asteroid
+Artist
+
+Micromax Systems Inc.
+6868 Nancy Ridge Dr.
+San Diego CA 92121
+Phone: 619-457-3131
+Support: 619-457-0311
+Apple
+Cubit
+
+Microprose Software
+10616 Beaver Dam Road
+Hunt Valley MD 21030
+Phone: 301-667-1151
+Atari, C-64
+Floyd of the Jungle, Hellcat Ace, Spitfire Ace,
+Mig Alley Ace, Nato Commander, Solo
+Flight, Wingman
+
+Microsoft Corporation
+10700 Northrup Way
+Bellevue WA 98004
+Phone: 206-828-8080
+Apple, PC
+Olympic Decathlon, Adventure, Flight
+Simulator
+Mind Games
+420 S. Beverly Dr., Suite 207
+Beverly Hills CA 90212
+Phone: 213-277-8044
+Apple
+The Desecration
+Mind Systems Corp.
+P.O. Box 506
+Northampton MA 01061
+Phone: 413-586-6463
+Apple
+Airsim-1, Spitfire Simulator, Airsim-3
+Mmg Micro Software
+PO Box 131
+Marlboro NJ 07746
+Phone: 201-431-3472
+Atari, C-64
+Final Flight, Phoenix Lair, Pyramid Run, Rat
+Race, Timber!, Chomper, Mmg Music Box,
+Trivia Trek
+Moxie
+2049 Century Park E. Ste 5264c
+Los Angeles CA 90067
+Apple
+The Great Escape Utility (for use with Castle
+Wolfenstein)
+
+Muse Software
+347 North Charles St.
+Baltimore MD 21201
+Phone: 301-659-7212
+Apple, Atari, C-64
+Titan Empire, Advanced Blackjack, Robotwar, Intellectual Decathlon, Caverns of
+Freitag, Castle Wolfenstein, International
+Grand Prix, Rescue Squad, The Best of
+Muse, Abm
+
+Mystic Software
+PO Box 536
+Lakeside CA 92040-0536
+Phone: 619-443-9776
+VIC-20, C-64
+Sorcerer's of the Amazon, Catacombs of the
+Pharaohs, Eerie Mansion, Death Probe of the
+Srulizons, Crystals of Killimanjaro,
+Monopoly 64
+
+Navic Software
+P.O. Box 147270
+North Palm Beach FL 33408
+Phone: 305-627-4132
+PC, Apple, C-64
+Jury Trial II
+
+Nexa Corp.
+PO Box 26468
+San Francisco CA 94126
+Phone: 415-387-5800
+Apple, Atari, Msx
+Delta Squadron, Cybernation,
+Captain Cosmo
+
+Odesta
+3186 Doolittle Drive
+Northbrook IL 60062
+Phone: 312-498-5615
+Sales: 800-323-5423
+Apple, Atari, PC, C-64
+Chess 7.0, Checkers 2.1, Odin, Backgammon
+5.0, How About A Nice Game of Chess!
+Omega Microware
+222 S. Riverside Plaza, –2234
+Chicago IL 60606
+Phone: 312-648-4844
+Apple
+Nightfalls
+Origin Systems, Inc.
+1545 Osgood –7
+North Andover MA 01845
+Phone: 617-681-0609
+Apple, Atari, C-64, PC
+Exodus: Ultima III, Caverns of Callisto, Car
+Wars
+Orion Software
+P.O. Box 2488
+Auburn AL 36831
+Phone: 205-821-5113
+Support: 800-821-8088
+PC, Jr, C-64, Apple
+Pits & Stones, Paratrooper, PC Man, j-bird
+
+Phoenix Software
+64 Lake Zurich Dr.
+Lake Zurich IL 60047
+Apple
+Sherwood Forest, Mad Rat, Gemini, Masquerade, Queen of Phobos, Bats In Belfry,
+Adventure In Time, Birth of the Phoenix
+Piccadilly Software, Inc.
+89 Summit Ave.
+Summit NJ 07901
+Phone: 201-277-1020
+Apple
+Star Blaster, Suicide, Falcons, Warp
+Destroyer, Martian Soil, and others
+Program Design, Inc.
+11 Idar Court
+Greenwich CT 06830
+Phone: 203-661-8799
+Phone: 203-792-8382
+Atari, C-64
+Moon Base Io, Clipper, Swamp Chomp, Star
+Crystals, Shaft Raider, Jerry White's Game
+Machine
+Programmers Software
+2110 N. 2nd St.
+Cabot AR 72023
+Phone: 501-843-2988
+Apple
+IFR Flight Simulator
+
+Progressive Peripherals
+2186 South Holly, Suite 2
+Denver CO 80222
+Phone: 303-750-5713
+C-64
+Gothmog's Lair, Cyberworld, Perplexian
+Challanger, Perplexian Challanger/Spanish
+Language, Wizard
+Pryority Software Inc.
+P.O. Box 221959
+Carmel CA 93922
+Phone: 408-625-0125
+Apple, PC, Jr
+Forbidden Quest
+
+Palisades Software
+2230 Palisades Dr.
+Appleton WI 54915
+Phone: 414-739-2636
+Apple
+Video Vegas
+Parker Brothers
+50 Dunham Road
+Beverly MA 01915
+Phone: 617-927-7600
+Atari, C-64, VIC-20, TI
+Qbert, Popeye, Frogger, Super Cobra,
+Tutankham
+Penguin Software
+P.O. Box 311
+Geneva IL 60134
+Phone: 312-232-1984
+Apple, Atari, C-64, PC, Jr
+The Coveted Mirror, The Quest, Transylvania, Minit Man, Bouncing Kamungas,
+The Spy Strikes Back, Spy's Demise, Ring
+Quest, Pensate, Pie Man, and others
+
+Quality Software
+21601 Marilla St
+Chatsworth CA 91311
+Phone: 818-709-1721
+Apple, Atari, PC, C-64
+Ali Baba And The Forty Thieves, Beneath
+Apple Manor, Fastgammon, Qs Reversi, Pro
+Poker, Block Buster, Name That Song, Starbase Hyperion, Tank Trap, TariTrek, and
+others
+Quintech Systems, Inc.
+1271 Dundee Rd., Suite 44b
+Buffalo Grove IL 60090
+Phone: 800-621-0660
+Inside IL 800-572-0440
+Atari
+Down The Garden Path
+
+Rainbow Computing
+9719 Reseda Blvd.
+Northridge CA 91324
+Phone: 818-349-0300
+Orders: 800-423-5441
+
+Sentient Software
+Box 4929
+Aspen CO 81612
+Phone: 303-925-9293
+
+Softlore Corporation
+8714 Wellesley Manor
+San Antonio TX 78240
+Phone: 512-691-2800
+
+Apple, PC, Atari, C-64, Epson
+
+Apple, PC
+
+Cyborg, Oo-topos, Gold Rush, Congo
+
+Lordlings of Yore, Traders of the Torrid
+Zone, Archyologist
+
+Apple
+
+Sierra On-line Inc.
+Sierra On-line Blg.
+Coarsegold CA 93614
+Phone: 209-683-6858
+
+Spectral Associates
+141 Harvard Ave.
+Tacoma WA 98466
+
+Stellar Defense
+
+Apple, Atari, C-64, PC, Jr, Adam, Coleco
+
+TRS-80, VIC-20, C-64
+
+Wizard of Id, Prisoner, Sierra Championship
+Boxing, Learning Fuzzywomp, Kings Quest,
+Wiz Type
+
+Pengon, Lancer, Lunar Rover, Whirlybird,
+Cubix, Froggie, Galagon, Ghost Gobbler,
+Devious, Beam Rider, Storm Arrows, Androix Attack and others
+
+Rebel Software
+1440 Quince
+Denver CO 80220
+Apple
+Pinball Magic
+Reston Publishing Company
+11480 Sunset Hills Rd.
+Reston VA 22090
+Phone: 703-437-8900
+
+Silicon Valley Systems
+1625 El Camino Real
+Belmont CA 94002
+Phone: 415-593-4344
+Apple
+
+Spinnaker Software Corp.
+215 First St.
+Cambridge MA 02142
+Phone: 617-868-4700
+
+Snapper, Lancaster
+
+Apple, Atari, PC, Jr, C-64, Adam
+
+Apple, Atari, PC, C-64
+Moviemaker, Paint, Middle of the Road, Lizzard, Wordworx, Apple Graphics Games,
+Multiploy and others
+
+Simulations Canada
+PO Box 452
+Bridgewater NS B4V 2X6 Canada
+Phone: 902-688-2808
+
+Rhiannon (Games For Girls)
+3717 Titan Dr.
+Richmond VA 23225
+Phone: 804-272-7770
+
+Apple
+Fifth Eskadra, Grey Seas, Grey Skies, Fall
+Gelb
+
+Snooper Troopers 1&2, In Search of the Most
+Amazing Thing, Aegean Voyage, Trains, Up
+For Grabs, and others
+Strategic Studies Group
+336 Pitt St.
+Sydney 2000 Australia
+Phone: (02) 264-7560
+Apple, C-64
+Reach For The Stars
+
+Apple, Franklin
+
+Jenny of the Prairie, Cave Girl Clair, Chelsea
+of the South Sea Islands
+Right Stuff Software
+904 Berkley
+Carpentersville IL 60110
+Phone: 312-426-4449
+Apple, PC, C-64
+Carrier Combat, Word For Word
+
+Sir-tech Software, Inc.
+6 Main St.
+Ogdensburg NY 13669
+Phone: 315-393-6633
+Apple, PC
+Wizardry: Proving Grounds of the Mad
+Overlord, Knight of Diamonds, Legacy of
+Llylgamyn, Wiziprint, Police Artist, Star
+Maze, Galactic Attack, Rescue Raiders,
+Crypt of Medea
+
+Sirius Software, Inc.
+10364 Rockingham Dr.
+Sacramento CA 95827
+Phone: 916-366-1195
+Sansoft Plus
+Box 590288
+Houston TX 77259
+Phone: 713-482-6898
+Apple, Franklin
+
+Apple, Atari, C-64
+Capture The Flag, Escape From Rungistan,
+Kabul Spy, Twerps, Type Attack, Wayout,
+Blade of Blackpoole, Sneakers, Repton and
+others
+
+Strip Blackjack, Pinup Jigsaw, Sex-o-graphic,
+Lucky Slot, and others
+
+Screenplay
+Box 3558
+Chapel Hill NC 27514
+Phone: 800-334-5470
+C-64, Atari, Apple, PC
+Pogo Joe, Asylum, Ken Uston's Professional
+Blackjack, Institute, Playful Professor, Dunzhin, Ka ye, Wylde, Ziggurat
+Sensible Software, Inc.
+24011 Seneca
+Oak Park MI 48237
+Phone: 313-399-8877
+Apple
+Quadrants 6112, Cyclotron
+
+Skyles Electric Works
+231-E South Whisman Road
+Mountain View CA 94041
+Phone: 415-965-1735
+C-64
+Stix, Tank Atak, Lord of the Balrogs, Goblin
+Towers, Halls of Death, 3-D Glooper, Crazy
+Kong, Xerons, Wildfire
+
+Softdisk
+3811 Saint Vincent
+Shreveport LA 71108
+Phone: 318-868-7247
+Apple, C-64
+
+The Chiang Chest, Tmh Disk #1, Dan Tobias
+Disk #1, The Best of Larry Selzer, The Right
+Stuff
+
+Strategic Simulations, Inc.
+883 Stierlin Rd., Bldg. A-200
+Mountain View CA 94043
+Phone: 415-964-1353
+Orders = #800-227-1617, ext 335 or
+in CA 800-772-3545, ext 335
+Apple, Atari, C-64, PC, TRS-80
+39 Titles Including, Combat Leader, Computer Ambush, Knights of the Desert, The
+Cosmic Balance, North Atlantic '86, Computer Baseball, Computer Quarterback, Germany 1985, Carrier Force, Guadalcanal
+Campaign, Fortress, Questron, and others
+Sublogic
+713 Edgebrook Drive
+Champaign IL 61820
+Phone: 217-359-8482
+Apple, Atari, C-64, PC, TRS-80
+Flight Simulator II, Night Mission Pinball,
+Space Vikings, Music Maker, Whole Brain
+Spelling, Saturn Navigator
+
+Superior Software
+4312 Arizona Avenue
+Kenner LA 70065
+Phone: 504-468-2273
+Apple
+The Quest For The Holy Grail, Asteroid Belt,
+Doom Valley
+
+Supersoft Inc.
+PO Box 1628
+Champaign IL 61820
+Phone: 217-359-2112
+Apple With CP/M-80
+Nemesis, Dungeon Master, Analiza II, Star
+Jump
+
+Swearingen Software
+6312 W. Little York –197
+Houston TX 77088
+Phone: 713-937-6410
+
+Three Sigma
+Box 716
+Morrisville PA 19067
+Phone: 215-295-3399
+
+C-64, PC
+
+Apple
+
+Pick That Tune
+
+Fireware Pinball, Vegas Video, Secret of
+Easter Island, Detective, Game Pak, The
+Gene Scene, Space Spikes
+
+Synapse Software
+5221 Central Ave.
+Richmond CA 94804
+Phone: 415-527-7751
+Atari, Apple, C-64 And Others
+Blue Max, Quasimodo, Alley Cat, Fort
+Apocalypse, Dimension X, Rainbow Walker,
+New York City, Encounter! and others
+
+Tronix
+8295 South La Cienega Blvd.
+Inglewood CA 90301
+Phone: 213-215-0529
+Atari, C-64, Apple
+Poker Sam, Chatter Bee, Teletari, Juice, Kid
+Grid, Suicide Strike, Motocross, Waterline,
+Slalom, and others
+
+Wadsworth Electronic Publ.
+10 Davis Dr.
+Belmont CA 94002
+Phone: 800-354-9706
+Apple, PC, Atari, C-64
+Algebra Arcade, Survival Kit For Apple
+Computer Games (book)
+Weekly Reader Family Software
+245 Long Hill Rd.
+Middletown CT 06457
+Phone: 800-852-5000
+Apple, Atari
+
+Turning Point Software
+11a Main Street
+Watertown MA 02172
+Phone: 617-923-4441
+Apple
+Task Force Games
+1110 North Fillmore
+Amarillo TX 79107
+Phone: 806-376-6229
+
+Pentapus
+
+Fat City, Chivalry, Stickybear Basketbounce,
+Stickybear Bop, Old Ironsides, Beach
+Landing
+Windcrest Software, Inc.
+Monterey Ave.
+Blue Ridge Summit PA 17214
+Phone: 717-794-2191
+
+Atari
+
+Apple, C-64, Atari
+
+Survival, The War of the Worlds
+
+Panzer War, Baseball's Best Analogies
+
+Telephone Software Connection
+Box 6548
+Torrance CA 90504
+Phone: 213-516-9430
+Apple
+Go-moku, Chess Connection, Lunar Lander
+II, Tele-gammon, Wall Street Journey, Keno
+Master, World Currency Trader, Computer
+Concentration, Apple Anguish, Picture Puzzle Program Note: Programs Delivered By
+Modem
+
+Ultrasoft
+24001 SE 103rd Street
+Issaquah WA 98027
+Phone: 206-392-2317
+Apple
+
+Wolffware
+2004 E. Kensington Blvd.
+Shorewood WI 53211
+Phone: 414-332-1360
+Phone: 414-332-2892
+Apple
+Sports Complex
+
+The Mask of the Sun, The Serpent's Star
+
+TG Products
+1104 Summit Ave., Suite 110
+Plano TX 75074
+Phone: 214-424-8568
+Atari
+Nightstike, Droids, Ozzy's Orchard,
+Abracadabra
+
+T.H.E.S.I.S.
+PO Box 147
+Garden City MI 48135
+Phone: 313-595-4722
+Orders: 800-354-0550
+Atari, Apple
+Big Math Attack, Smart Shopper, Number
+Blunder, Word Scramble, Hidden Words,
+Guessword, Cribbage, Casino I, and others
+
+Thorn Emi Video Programming
+1370 Avenue of the Americas
+New York NY 10019
+Phone: 212-977-8990
+Atari, Apple, VIC-20
+Submarine Commmander, Jumbo Jet, Pilot,
+Soccer, Kickback, Computer War, River
+Rescue, VIC Music Composer, Major League
+Hockey, Fourth Encounter
+
+Versa Computing
+3541 Old Conejo Road, 104
+Newbury Park CA 91320
+Phone: 805-498-1956
+
+Zapata Microsystems
+PO Box 461483
+Garland TX 75046
+Phone: 214-494-4433
+
+Apple
+
+Atari, TI, Apple
+
+Meet The Presidents, Globe Master II, Solar
+System, Alphabet Squares, Color Me, Here's
+Hollywood, Battle Sight
+
+Games Pac I, Games Pac II, Games Pac III
+
+Victory Software
+1410 Russell Rd
+Paoli PA 19301
+Phone: 215-296-3787
+Adam, C-64, VIC-20
+Adventure Pack I, Adventure Pack II, Annihilator, Bounty Hunter, Creator's Revenge,
+Galactic Conquest, Grave Robbers, Kongo
+Kong, Labyrinth of the Creator, Metamorphosis and others
+
+PLEASE
+TAKE TIME
+TO FILL OUT
+READER INPUT
+DEVICE
+
+TEL-GAMIN
+FANTASY ROLE-PLAYING
+Patricia Fitzgibbons
+
+Fantasy role-playing. The phrase evokes
+a myriad of images: lean-jawed swordsmen arrayed in plate armor; pious
+monks raising holy symbols heavenward;
+lithe elvish maids, their ears attuned to
+every forest sound; enigmatic mages hurling fire balls across a dungeon chamber.
+Ancient runes and abandoned ruins.
+Treasure beyond imagining. Inconceivable danger and ... glory.
+
+Players who have conquered the computerized worlds of Wizardry and Ultima
+look for new and even more exciting
+"character development" schemes. Fantasy role-playing games, such as
+Dungeons & Dragons, Traveller, and
+Runequest capture the imagination. Can
+these complex gaming systems be played
+via computer and modem? They can, and
+are.
+In this issue and the next, I'll report on
+the growing availability of online fantasy
+role-R) playing games ("FRPGs"). FRPGs
+of all types — from medieval conquests to
+futuristic space operas — may be played
+in real time on multi-user telecomunications systems or by messages on electronic bulletin boards. To participate in
+these adventures, all that a tele-gamer
+needs is an interest in fantasy role-playing
+and an online "playing field."
+One such locale is the multi-user conference area ("CO") on CompuServe's
+Gamers' Special Interest Group
+("GameSIG"). Almost immediately after
+GameSIG was created in late 1982, the
+first of many subsequent FRPGs began.
+A DungeonMaster, or "DM," who was an
+experienced FRPG'er, gathered together
+a group of GameSIG members who
+agreed to meet online once every week to
+play. The DM prepared several short text
+files which described the game, and
+uploaded them into GameSIG's database.
+These files contained basic information
+about the gaming system used, the rule
+modifications made by the DM, which
+character classes were to be allowed, and
+an overview of the "world" in which the
+game was to be set.
+
+After studying the rules, the group met
+in the CO area and, using the online dicerolling function, "rolled up" the random
+numbers which generate their alter egos'
+attributes (such as strength, intelligence,
+and dexterity). At the scheduled game
+time, they met in CO to commence their
+adventure. Somewhat ironically, the little band of comrades embarked on their
+fantasy quest by using computers and
+online communications — the seemingly magical creations of modern
+technology.
+One of GameSIG's most active DMs is
+Al Williams, a thirty-eight year old software manager from Concord,
+Massachusetts. Al played or DM'ed
+FRPGs for ten years before joining
+GameSIG. He quickly organized groups
+of other members to play Runequest and
+Bushido. Both games have run for almost
+a year. Here is an excerpt from an online
+Runequest episode:
+DM: As you approach closer, the
+features become clearer. It is a
+human form, surmounted by an
+enormous bull's head.
+Elmond: Tie feet together with rope.
+Lagos: Excellent precaution, young
+man! Shall we explore these chests?
+Elmond:: And tie the hands.
+
+DM:: You may do so, but the hands
+are braced half a meter apart on the
+axe handle, and you cannot force
+them closer.
+Elmond: Either this is a live
+minotaur or it is a statue. Or, even
+worse, there is a medusa nearby. Tie
+the arms to the body then.
+DM:: That can be done, at the
+elbows. The forearms are unbound
+in that case.
+Elmond:: Okay, check for traps on
+the casks.
+DM:: Like to try "spot hidden?"
+Elmond: Yes.
+DM: Go ahead.
+***DICE*** 4/10
+Elmond: Boo!
+DM: Hard as you look, you can see
+no traps on any casks. You may try
+a couple of times more if you wish.
+Did Elmond find any traps? If so, could
+he disable them? What was in those
+chests, anyway? Operating just as a
+"regular" DM would in a face-to-face
+game, Al set up the scenario for his
+players and stated the results of the die
+rolls. The players, who attempted to "stay
+
+in character" throughout the game, made
+instant decisions about their choices of
+action as the story unfolded.
+I asked Al about the advantages of
+online FRPGs. "There's more opportunity for imagination in online gaming," he
+replied, "letting you picture settings exactly as you want them. Players are also
+somewhat easier to get." Al's views were
+reinforced by another GameSIG DM,
+Marc Robertson of St. Louis. Marc is a
+twenty-five year old programmer/analyst
+who feels that " ... the garners here are
+dedicated. I moved to St. Louis about ten
+months ago, and as yet I haven't found
+anyone here who is willing to meet
+regularly for Runequest, AD&D, or any
+other FRPG. On GameSIG, I can get
+together a group that will meet regularly.
+That's important for a good FRPG
+campaign."
+Many FRPG'ers begin playing while in
+high school or college. Then, they
+graduate, move away, get jobs, and have
+difficulty forming a new gaming group.
+Online games, however, attract players
+from cities all across the United States. If
+a player from Tulsa drops out, the DM
+can replace her with a Seattle resident.
+Thus, these games can continue for
+months, even years.
+Although several GameSIG DMs
+recruit only experienced players — one
+game, in fact, is for "adults only" — most
+encourage novices to join. GameSIG
+members who have little or no familiarity with fantasy role-playing are invited to
+silently observe any gaming session.
+Members may also read the transcripts of
+past games; these files are stored in a
+database.
+Perhaps the most enjoyable aspects of
+online FRPGs are the opportunities they
+provide for players to meet new friends
+and experiment with various playing
+styles and strategies. Tom Woolley of
+Dallas, Texas started playing FRPGs in
+college. Now twenty-four years old, he
+runs an AD&D campaign on GameSIG.
+Tom likes to inject new ideas as well as
+"new blood" into his games. "I have the
+good fortune to DM a group of people that
+have each learned to play in a slightly different manner," Tom said. "The
+challenge becomes greater because you
+are not sure of what a person will do in
+a certain situation. Through online gaming I have seen and developed many new
+and interesting methods of dealing with
+situations that, with a static group, were
+constantly handled one way by the player
+characters."
+Online gaming isn't cheap. Most FRPG
+groups commit to two hours per week of
+connect time which adds up to about $50
+monthly on CompuServe. Besides the expense, telecommunications problems —
+such as slow system response time — occasionally occur. Al Williams elaborates:
+"Player turnover is high. System glitches,
+
+slow periods, and "drops" are frustrating
+obstacles to game flow. Disadvantages
+notwithstanding, I'm hooked!" Tom
+Woolley expressed similar sentiments: "It
+is quite difficult to explain a rather complex mapping problem or to explain
+something to a player who simply doesn't
+understand what you are talking about.
+However, these disadvantages in no way
+detract from the game as far as I am concerned. This is due to the fact that the difficulties are far outweighed by the advantage gained through meeting people from
+other areas of the country."
+
+Meeting people. Those words seemed to
+crop up constantly in my conversations
+with online FRPG'ers. Of course,
+GameSIG members aren't actually seeing
+their new friends, and everything they
+learn about each other comes from a
+series of typed sentences that appear on
+their monitor screens. Nevertheless, according to Tom Woolley, the lack of inperson contact may very well promote
+friendship. "The online games are an
+added bonus for people who won't play
+face-to-face because of their perceptions
+of themselves or their personalities.
+Someone who cannot express himself
+due to shyness or even because of a
+physical handicap has free rein to do as
+he pleases online without silly prejudices
+getting in the way."
+A five-foot tall teenager with a poor
+complexion can become a courageous
+fighter, broadsword flashing in battle, or
+a daring starship captain, navigating the
+perimeter of a black hole. An overweight
+housewife with a sink full of dishes may
+be transformed into a sylph-like minstrel
+or a cunning sorceress. Even a young student at the Alabama School of Fine Arts
+in Birmingham can take on the deified
+role of the DungeonMaster: "Don't tell
+my players how old I am! Good players,
+much older than myself, take me seriously here." (I won't, I promise!)
+Next time, we'll look at the ways in
+which fantasy role-playing games are run
+on electronic bulletin board systems
+("BBSs"). Until then, here are several
+modem numbers to get you started with
+gaming BBSs:
+Cyberon — 201-226-0341
+(West Caldwell, NJ)
+Dragon's Lair — 213-595-9346
+(Long Beach, CA)
+Crystal Castle — 313-856-3804
+(Toledo, OH)
+Mines of Mori a — 713-871-8577
+(Houston, TX)
+The Game Grid — 818-701-6380
+(Reseda, CA)
+For more information about CompuServe, call (voice) 800 - 848 - 8199.
+
+CONQUERING WORLDS (Cont.)
+seconds to get to zero.
+When the game begins you control only
+one planet of a particular star system. The
+computer displays a representation of the
+star system with the orbiting planets and
+uses colors to show who has control of
+what planet. (The planets revolve in realistic orbits).
+Each planet has a limited number of
+natural resources that can be extracted.
+At the beginning of each player's turn
+these resources are used to construct new
+ships. More materials are available for
+shipbuilding if the star system is completely under your control.
+Ships travel from planet to planet under
+impulse power, using warp power for interstellar flights. Sometimes travel won't
+be possible due to random gravitational
+fields. This must be kept in mind when
+the enemy is closing in for the kill.
+The supreme commander is always
+located in his base. This base can travel
+just like ships, however bear in mind that
+if your base is captured you lose the game.
+The scenario for CONQUERING
+WORLDS is not new, and only slightly
+different in overall concept from other
+games. It is similar to GALACTIC ATTACK and TITAN EMPIRE. If you own
+either of the two games, you will find
+CONQUERING WORLDS to be similar.
+James A. McPherson
+
+Ladies and Gentlemen ...
+
+WE HAVE A DRAW!
+Robotwar Tournament Results
+
+Rarely have we seen as exciting a finish
+to a gaming event as took place in the 3rd
+Annual CGW Robotwar Tourney. After
+an incredible 14 hours of play (using four
+computers) and 360 battles, there was a
+dead tie for the championship!
+DRAGON4A and MUSTANG will
+share the Co-Championship and split the
+$100.00 cash prize. Stanley Chen
+(MUSTANG) of Bridgeport CT and Doug
+Hogg (DRAGON4A) of Los Angeles will
+each receive a check for $50.00 from
+Muse Software who gracious provided
+the case prize and trophies for the winners. Muse Software will also be sending
+ROBOTWAR T-Shirts to each participant. Doug Hogg, Frank Krogh
+(OMNI-2B), and Robert Hogg (SERPENT)
+attended the tournament. With four computers running at once, you can imagine
+what a basket case Doug was as he watched Dragon4A and Mustang go nip and
+tuck right down to the wire.
+Twenty contestants (17 entrants and 3
+fill-in robots) fought through 60 battles in
+the round robin. The five high scoring
+robots that went on to the finals were
+MUSTANG, DRAGON4A, NORDENIB
+(Richard Fowell of Palos Verdes Estates
+CA), SABOTUR (Pat Bachelder of An-
+
+drews TX), and BUCWEAT (Tom Schai
+of Roseville MN).
+In the 50-battle finals Dragon had pulled into a 6 point lead after 40 battles. But
+in the space of 4 battles Mustang caught
+him. Dragon again pulled ahead only to
+be caught in #48. In #49 Mustang went
+ahead by a single point. Then, in an incredible finish (in battle 50) Mustang
+helped pummel Dragon to 63% damage
+while only having 12% damage himself.
+It was looking good for Mustang. All
+Mustang needed was to have Dragon be
+eliminated in the battle before himself.
+After a near collision between Mustang
+and Norden and a few more hits Dragon
+had 77% damage to Mustang's 44%
+damage. Then Dragon scores a direct hit
+on Mustang (D:77%/M:60%). At this point
+Norden is eliminated. Sabotur and
+Bucweat are throwing their two cents in
+here and there.
+Then the incredible finish which took
+about 10 seconds. Dragon is hit
+(D:93%/M:60%), but before Mustang can
+relish his lead he scans backward at
+Dragon and runs into Bucweat who is sitting near the upper right hand corner of
+the battlefield (D:93%/M:86°%). One second later Bucweat scored a direct hit on
+the errant Mustang and Mustang was
+
+gone! All Dragon4a needed to do was survive until Sabotur or Bucweat bit the CRT
+dust. But in a true Hollywood style finish
+Sabotur or Bucweat (we don't really know
+which) put a final fish, bullet, sword,
+what-have-you, into Dragon's creaking
+side and down he went. A "dead" tie
+(literally); 117 to 117.
+********
+
+ROBOTWAR is an Apple computer
+game available from Muse Software. In
+RW you use limited programming space
+to design a robot that will go onto the "battlefield" and fight against other robots.
+The 4th Annual Tourney will be here
+before you know it. Start designing now!
+If nothing else, the 3rd annual RW
+tourney proved that the best RW robots
+are being designed by members of the
+POSTAL ROBOTWAR CLUB OF
+AMERICA. All five finalists are active in
+that group. If the one tourney per year
+that we run is not enough for you, or if
+you want to get involved with other people who love Robotwar, contact Frank
+Krogh (Box 5337, North Hollywood CA
+91616).
+The seventeen contestants in the 3rd
+Annual Robotwar Tourney are available
+on disk for $15.00. See ad elsewhere in
+this issue.
+
+obstacles and aliens wishing to do you
+harm. Your goal is to pickup power
+crystals which must be delivered to your
+star bases while passing through 13
+checkpoints using less than three ships.
+A short version of the game is also
+playable with only six required checkpoints. One or two can play and the high
+score is displayed but not saved for future
+reference. The game display is outstanding with vertical scrolling of your flight
+path.
+
+THE
+COMMODORE
+KEY
+
+Roy Wagner
+
+PERPLEXIAN CHALLENGER by
+Steven Luedders from Progressive
+Peripherals & Software is a
+shot-emupinac(qolrthemay).
+You sit looking out into space with gages
+at the bottom of the screen displaying the
+energy, fuel, and laser power available.
+Alien craft attack you, some of which
+release energy, fuel, or laser pods that you
+can attempt to pickup to boost your own
+supplies. One to four players can participate selecting one of four possible ship
+configurations. The top 20 scores with
+ship type and player initials are displayed
+between games and saved to disk. Some
+of the graphics and sounds were exceptional and very creative.
+THE ATTACK OF THE PHANTOM
+KARATE DEVILS from Phantom Software is a game of karate revenge (ala
+Bruce Lee). Your task is to destroy the
+army of phantom karate devils (you only
+see their eyes and hands), reach the Control World and destroy the bombs located
+there. It is quite a challenge and your
+joystick provides you with all the
+movements necessary (walking, jumping,
+kicks, and punches). You must fight off
+much of the enemy's army and dodge
+oriental stars while passing through
+several different screens. The actions is
+exhausting but function key 1 lets you
+freeze the action.
+These games showed good use of the
+capabilities of the C64 (sprites, sound,
+and hi-res graphics). They did not offer
+much variety, but lots of challenge.
+
+FOR THE COMMODORE 64 ONLY
+Last time I promised to tell you about
+some games that are only available for the
+C64. Most software companies now produce software for the big three (C64,
+Apple, and Atari) so that they can hit all
+of the big markets at once. I did find some
+software out there that, so far, is only
+available for the C64. Of them,
+NEUTRAL ZONE and BEACH-HEAD,
+from Access Software have been
+previously mentioned by this column.
+POWERSTAR by Barry Kurtz from
+Datamagic is a space game wherein you
+travel down a space corridor destroying
+
+Recently I have enjoyed playing BC'S
+QUEST FOR TIRES, a regular computer
+cartoon wherein you try to get THOR
+over all sort of adverse terrain to help
+CUTE CHICK. It is a lot of fun and the top
+10 scores are saved to disk. I have also
+been enjoying the latest adventure from
+Infocom called INFIDEL in which you
+seek to find a pyramid lost in the Egyptian
+desert and obtain all its treasures. If you
+can figure out the hieroglyphs on the
+walls, they will serve as clues/hints to the
+many puzzles and predicaments of the
+pyramid. As usual for the adventures
+from Infocom, the dialogue can be very
+humorous and the images formed in your
+brain are certainly the closest thing to
+reality.
+
+ORIGINAL PROGRAMS, COPY
+CLONES, or BASED ON A THEME
+Our industry is currently deluged in a
+flood of new games, some of which are
+original ideas, some are based upon
+popular themes, and others are copies
+(authorized and not) of other games.
+Many of the successful computer games
+have come from games that have stood
+the test of time and come from classic
+board games (checkers, chess, and
+backgammon) or card games (blackjack,
+poker, and cribbage). Still others have
+come from role playing games like
+DUNGEONS AND DRAGONS, from
+statistical simulations of sports, and from
+simulation of historical/fictional combat.
+The most successful, of course, have
+come from arcade games (SPACE INVADERS, PAC-MAN, DONKEY
+KONG, and FROGGER). A few,
+however, were original computer games
+(STAR TREK, ADVENTURE, and
+LUNAR LANDER).
+The number of truly original ideas has
+been quite small. Most of the games we
+see are copies or imitations of previously conceived ideas. Many of these are
+disappointing because they were quickly coded to make money on an idea that
+was making money. The games look very
+much like the originals when you first see
+the screen, but generally do not perform
+anything like the original. They typically are slow moving and have few of the
+options contained in the original.
+There are also versions based on the
+original idea that are worth buying. In
+these the idea has been expanded upon
+and made better. The fact that it is a lot
+like another game doesn't really bother
+you. Many of this group are "authorized"
+by the company that produced the
+original. (These should be good bets it you
+liked the original.) Atarisoft has gotten into this business, producing versions of
+their popular games for all major brands
+of home computers.
+By the time these authorized versions
+are available, however, I am usually tired
+of the original from playing it at the arcade. This is where I really like the variations on the original theme. I'm tired of
+DONKEY KONG now that Atari finally
+has it available for me, but I enjoy having
+JUMPMAN, MINER 2049er, and HARD
+HAT MACK. Q-BERT and its close
+clones don't interest me, but POGO JOE
+I want.
+In the final analysis there are no short
+cuts to creating a good game. The oldest
+of ideas can be made fresh and enjoyable
+by the addition of some original thought
+and a lot of hard work.
+Special thanks to Dennis and Rob at
+Gamesmanship and Bob at DES for their
+help.
+
+THE NAME OF
+THE GAME
+
+puter community, we tend to get no more
+respect than Rodney Dangerfield. Sales
+clerks at computer stores still regularly
+ask if Free Fall is involved with skydiving.
+Mention Lord British's real name in conversation, and the most likely response is,
+"Richard who?"
+Some of this is likely to change.
+SILICON, SI — SILICONE, NO
+
+SOFTWARE SUPERSTARS?
+
+Jon Freeman
+
+There has been a good deal of talk of
+late regarding the existence of
+"superstars" in the software business.
+What is a software superstar? Are there
+any? Will there ever be? Is this a case of
+much ado about nothing, or is there some
+long-term significance to "stardom?"
+I confess at the outset to a substantial
+aversion to the term "superstar" in any
+context. It's a prime example of linguistic
+inflation: i.e., the devaluation of language
+through absurd hyperbole (whence the
+term "hype"). However, it suits our present purposes admirably, because it suggests both the image we're going to examine and the degree of accuracy we're
+likely to find.
+As far as I can tell, software superstars
+belong in the same category as Bigfoot
+and little green men from Mars. The
+closest thing the computer field has to a
+superstar is Steve Wozniak, who's even
+inspired a character in a TV series ("Boz"
+in Riptide), but he's known for his hardware expertise and the US festivals, not
+software — and how many people would
+recognize him on the street, anyhow?
+Who else is there? Bill Budge? Lord
+British? Anne (the other half of Free Fall)
+and I? I don't think any of us even qualify
+as "stars" ... yet. Admittedly, we've all
+been written up at least once in a largecirculation periodical (Free Fall in USA
+TODAY, Bill in the WALL STREET
+JOURNAL, and Lord British in —
+ahem — the NATIONAL INQUIRER),
+but by and large the Real World has never
+heard of us. No groupies, no mention in
+the gossip columns, no guest spots on the
+Tonight Show, no mansions in Bel Air.
+In fact, even in the much smaller com
+
+Resistance to software "superstars"
+seems to stem from two causes: taste
+(disliking the idea) and judgment (finding
+the notion unlikely).
+Some of the most vocal critics of the
+idea are software publishers who view
+bylines for designers and programmers
+with the enthusiasm of King John for the
+Magna Carta. The resulting mixture of
+wishful thinking and heel-dragging is on
+a par with the self-serving arguments of
+the established that newcomers (any
+potential competitor entering the market
+more than a week after whoever is making the statement) just can't make it
+anymore. Unless you are a publisher of
+similar inclination, it is hard to sympathize with someone whose idea of a
+generous royalty is 2.2%.
+More universal — and more reasonable — is a distaste for the star syndrome:
+arrogant, egotistical behavior elevated to
+an art form; greedy agents and sycophantic hangers-on; conspicuous consumption; a senseless devotion to the minutiae
+of a star's private life; a glaring discrepancy between perceived value and apparent
+reward.
+Fortunately, such Tinseltown customs
+are likely to remain alien to Silicon Valley.
+It is hard to take seriously "Bill Budge's
+Bits & Bytes" or "Garriott's Guerillas" as
+prime-time network fare, Yankee
+Stadium filled for an Andy Greenberg lecture on PASCAL, or nude photos of Steve
+Dompier in a gossip magazine called
+SILICON SECRETS. Amusing, yes; likely, no. This does not mean we will never
+have software stars, however; it only
+means computer programmers are not
+going to be viewed or treated as rock stars
+or matinee idols.
+WHO WAS THAT MASKED MAN?
+A far better analogy, it seems to me, is
+that between the software business and
+book industry: i.e., the programmer or
+designer as author. A novelist's work goes
+on "behind the scenes;" it is the end
+product — the book — that counts. So it
+is with software. We want a good game;
+most of us don't care who the programmer is dating or what brand of toothpaste
+the designer uses.
+This does not require best-selling
+authors — or software developers — to
+labor in anonymity. Stephen King and
+Charles Shultz, for instance, are certainly famous in their way; yet you would probably not recognize either one — or Dan
+Gorlin, for that matter — in the super-
+
+market. In the long run, a popular game
+designer is as likely to appear on Johnny
+Carson — once — as the writer of next
+season's "Passion's Torrid Torrent" and
+as likely to return, afterward, to the same
+relative obscurity the rest of us enjoy.
+Even if we don't have to put up with
+superstars and superstardom, you may
+still wonder why anyone would — or
+should — bother turning programmers
+into software "stars" at all.
+For one thing, if programmers work as
+hard and bring as much pleasure as
+writers or musicians, they deserve similar
+rewards. More importantly, recognition
+of individual achievement goes hand in
+hand with increased awareness of the difference between the work produced by
+the best designers and programmers and
+the junk thrown together by hacks and
+plagiarists. If you think I've belabored this
+point elsewhere, consider the recent letter writer who swore the Atari 800 could
+not display more than eight colors at
+once. If a CGW reader and a long-time
+computer owner knows so little of the
+computer's capabilities, consider the ignorance of the novice computerist. With
+inexperienced teenagers in fly-by-night
+magazines giving rave reviews to the
+latest Pac-Man clone, it's little wonder
+most of us get stuck with second-rate software and hopeless hardware.
+COMES THE REVOLUTION ...
+It doesn't have to be this way.
+Software stars can offer their
+audience — those who play the games
+and purchase the software — the same
+thing that well-known authors offer their
+readers: quality, consistency, the satisfaction of expectancy. Readers of Robert
+Parker's detective stories know the new
+Spenser novel will be a treat; Stephen
+King fans buy each new King chiller as
+soon as it appears. Why should software
+be different?
+Some publishers — Infocom and Electronic Arts are obvious examples — work
+to instill a similar sense of brand loyalty
+in their customers, but publishers in
+analogous fields have not been particularly successful at it. Few readers remember
+who published the latest best-seller, and
+even fewer people watch Magnum, P.I.,
+because of the channel it's on. For software publishers, the presence of
+recognized stars can bring a measure of
+predictability to an industry dominated
+by uncertainty. Software stars will not
+eliminate all the bad software on the
+market, but they will keep some of the
+good stuff from being lost in a morass of
+mediocrity.
+The key is simple enough: if designers
+and programmers can achieve and maintain consistent high quality, they will
+become true software stars, and the
+unpleasant crapshoot that is software
+buying may become the real pleasure
+we'd all like it to be.
+
+PLANET PHOTON'
+"Live" Sci-fi Gaming
+Photon is coming. What is Photon? It is
+an alien planet located in Dallas Texas. It
+is also the first of a new futuristic kind of
+high-technology, life-sized "living video
+game." Players wield light phasers that
+win (or lose) them points in a computercontrolled contest of wiles, wits and agility, competing against themselves and
+against time in a spacious, other-worldly
+setting of experimental electronic music,
+pulsing lights, swirling fog and alien
+planet props.
+"For our customers, we believe this will
+be the ultimate fantasy-like, space age experience," says George A. Carter III, the
+38-year-old innovator of Photon. Slated to
+open in Dallas in late March, Planet
+Photon's players will find themselves:
+
+• Doing battle in a surrealistic
+8,000-square-foot "extraterrestrial
+territory".
+
+• Wearing the components of space-age
+warfare that include helmets with highfrequency radio transmitters and
+receivers; laser-like "guns" that trigger
+sensors when their bursts strike their
+targets; high energy battery belts and a vest
+that contains a microprocessor to analyse
+and report on its wearer's activities.
+
+• Joining one of two teams of 10 players
+each that begin the Photon game on opposite sides of a heavily carpeted and
+catacombed playing area and seek to battle their way across the floor to the other
+team's home base.
+
+• Seeking to avoid the momentary, 10 second computerized disarming of their
+own gun which occurs when they are
+struck by photon beams of the opposing
+team or by narrow light beams that
+occasionally erupt from the alien planet itself.
+
+• Hoping to build their own point scores
+two or three points at a time by "stunning"
+members of the opposing team and
+avoiding being stunned themselves—and
+by pushing through, during the six
+minutes or more that the game is in progress, to to opposing team's home base,
+which is worth bonus points.
+
+The idea for Photon assumed shape in
+Carter's mind over several months after he
+first witnessed the laser gun battles in
+"Star Wars". "At first, I had a survival-like
+game in mind but soon realized that what
+I envisioned needed to take place indoors," recalls Carter. "After all, we are
+dealing with combinations of microcomputers, radio frequency equipment, light
+sensing mechanisms, video display electronics and experimental music that
+often pushes the state of the art."
+
+DISPATCHES (Cont.)
+moon became a penal colony where convicted criminals were sent but no supervision was provided. Heinlein postulates
+a society where everything is made and
+sold (even water and air) within a completely unfettered free-market economy.
+The main credo of this society was
+"there's no such thing as a free lunch"
+(TNSTAFL). Even justice was a commodity to be bought. When two people
+had a disagreement, they would hire a
+judge who would decide the case. (One
+common decision was to throw the offender out the air-lock.) Thus, our initial
+design for the new game was to have absolutely no "government intervention" or
+external authority.
+With our main design concepts as the
+skeleton and our scenarios to "flesh out"
+our ideas, we began to design the way the
+game would look and work. Our world
+would have three kinds of terrain: river
+valley, mountains and plains. Each of
+these would affect the production of commodities. The commodities would be
+food, energy, Smithore and Crystite. Food
+was generic for all things needed for personal survival (air, water, food & shelter).
+Only a minimum amount of food would
+be needed each "turn" and once that was
+met there would be no incentive for more
+production. Energy would reflect all of
+the "variable costs of production" for the
+other commodities. Energy would be
+needed to produce any other item.
+Smithore was to be a mining product that
+was available everywhere but in variable
+quantities (based on the number of mountains in a plot). This commodity would be
+the basic "cash crop" of the planet and
+would have an average price that was better than food or energy. Thus, we would
+create a friction where players would
+prefer to produce Smithore because of its
+higher return but if everyone did ti, they
+would all starve or run out of energy to
+produce anything. Crystite (the raw
+material for "Dilithium Crystals") was the
+most profitable product. Its price would
+fluctuate randomly from Smithore's
+average price to three times that value.
+Crystite deposits were not apparent to the
+player and would require assays to determine its underground "contours".
+Shortages and surpluses of the
+necessities would occur and these would
+be "resolved" in the auctions. Thus, we
+felt we had the makings of a very dynamic
+process. During play-testing we added
+even more pressure to the system. We
+made food needs increase significantly at
+predictable points. (We invented a rationale that said some of your relatives
+had arrived from home.) Smithore was
+hooked into the supply of M.U.L.E.s so if
+no one produced it the supply of
+M.U.L.E.s would run out. Also, the price
+
+offered for Smithore would shoot up to
+twice the average price of Crystite if there
+was a shortage of M.U.L.E.s so that
+Crystite production was not always the
+optimum strategy. All of these conflicting
+pressures created a lot of action in the
+auctions. Prices for food could even exceed all other commodities in times of
+famine but would plunge immediately
+when a bumper crop came in.
+In the first implementation of
+M.U.L.E., all land was sold in competitive
+auctions. However, this led to a runaway
+game where the player with the most
+money would get the most land and then
+make the most money. Thus, we had to introduce a "land authority" that provided
+each player with a free plot each turn. I
+wrote a routine that moved the cursor
+across the available plots from left to right
+as a temporary test to see if land grants
+would work. We got so used to it that I
+never go around to replacing it with some
+more elegant mechanic.
+As we went along we developed many
+of the details that made the game flow better. We made the town explode up from
+a single plot among 45 on the map to a full
+screen when you entered it. This gave
+more resolution where we needed it
+while still making the town seem part of
+the map and not a non sequitur screen.
+We made the bar charts (that tell players
+their status in each commodity) animate
+through the phases of usage, spoilage and
+production. This helped people understand the flow better. We made production occur on the map screen as a process
+that builds suspense rather than giving
+the final results that the computer already
+knew. We added "ticking timers" (which
+get faster as the time is running out) that
+both inform the player and build excitement. Some items were a result of
+mistakes that looked neat. On the summary screen, a character was accidentally made double size and we decided to use
+it on the last turn to denote the winner.
+
+Many things were also taken out as the
+design was executed. Depletion of
+Crystite as it was mined, claim jumping,
+loans between players, and bankruptcy to
+mention a few. Overall, we discovered
+that the best option was usually the
+simplest one. It is often difficult for a
+designer to prevent "creeping complexity". You want to keep adding things that
+will make the game more interesting.
+However, the more separate items you
+add the more likely you are to dilute the
+design rather than enhance it.
+The last pieces written into the game
+were the best as far as I am concerned.
+Random outcomes (earthquakes, pirates,
+fires in the store) added the unpredictability needed in any game. "Chance
+cards" that affected individuals added a
+personal touch while also adjusting
+player standings somewhat. (The winner
+can one get bad luck and the loser can only good luck.) Collusion in the auctions
+allowed players to make private deals to
+help each other or to thwart an opponent.
+This provided the flexibility we were
+after. The worst part of the game design
+was the solitaire play. But we took refuge
+in the fact that M.U.L.E. was a multiplayer game. (Single player M.U.L.E. is
+considerably better than single player
+Monopoly!)
+Curiously, the single element of
+M.U.L.E. most often noted has nothing at
+al to do with the game! It's the original
+"rock theme" that we commissioned Roy
+Glover to write. It used to bother me that
+out of the 300K of source code and the 18
+man-months of work the thing people
+noticed most was the thing that took the
+least effort. But now I've resigned myself
+to the point that anything that makes people enjoy our product sounds good to me!
+Dan Bunten is the author of COMPUTER
+QUARTERBACK, CARTELS & CUTTHROATS, and CYTRON MASTERS.
+He is also the lead designer of the Ozark
+Softscape group that wrote M. U.L.E. and
+SEVEN CITIES OF GOLD.
+
+Parthian Kings
+NAME:
+Strategic/Fantasy
+TYPE:
+Apple II
+SYSTEM:
+David W. Bradley
+AUTHOR:
+#PLAYERS: 1 to 4
+$25
+PRICE:
+PUBLISHER: Avalon Hill
+Baltimore, MD
+The King is dead, and the kingdom is in
+chaos. Who will gain control of the fallen
+crown? Will it be you, or one of your less
+worthy opponents? Only you can decide
+the issue, with your decisions turning the
+balance for or against your cause. The
+King is dead! Will you be the next to
+mount the throne?
+In PARTHIAN KINGS (PK), each
+player must make several early decisions
+which may press him to an early victory,
+or condemn him to an inevitable defeat.
+This is due to the fact that the players control many factors not usually given to
+manipulation. These factors include in
+order of their occurrence: the name and
+characteristics of their army's units, the
+selection of their capitol from the
+available towns, and the make-up of their
+armies from the previously designed
+units. The players must also decide on
+several factors which concern them all
+equally. These include the map's terrain,
+the number of towns and their features,
+the number of players (up to four, with the
+computer being able to control up to three
+of these), and whether or not magic is to
+be used.
+One of the two most important decisions that the player must make is the
+design of his army's units. Each unit type
+is first named, then assigned hit points,
+attack strength, long or short or no range
+fire, armor factor, and a movement
+allowance. The computer will then, using
+the information specified, determine the
+unit's cost and give you the option of accepting the created unit type or rejecting
+it and trying again. As you are limited to
+creating only five unit types, their design
+is critical and will either help or haunt
+you throughout the game.
+
+The other decision that you need to
+consider carefully is the selection of your
+capitol. If you are the third of fourth
+player, then you may be faced with the
+least of evils for a choice. It is for this
+reason that the last player(s) should be
+given the task of placing all or some of the
+towns. This caution is justified due to the
+fact that if your capitol falls, you then lose
+the ability to raise taxes or create new
+units.
+There are two different army designs to
+consider based on the choice to have
+magic or none in your game. If the game
+is without magic, then it is best to have a
+well balanced design for your army's
+units, as both the weakest and strongest
+possible units have their uses. This is
+changed considerably by the introduction of magic. Due to a spell which your
+wizard will normally gain early in the
+game (OSCARDE, which randomly adds
+to the number of one of your five types of
+units), it is advantageous to have one inexpensive but balanced unit and four
+maximum units. This would mean that
+the successful casting of this spell would
+give you an 80% chance of gaining units,
+each of which would normally cost an entire turn's income early in the game. This
+can give you a great advantage at a point
+when you can reap the greatest benefit.
+It can, however, be turned against you
+should you allow an opponent to bring his
+wizard within range of your capitol, due
+to the reversed effect this same spell has
+when cast upon enemy towns.
+One potentially weak point of PK is its
+lack of a save game option. This is largely made up for, however, by the inclusion
+of an option which allows the players to
+specify a long or a short game. The long
+game continues until there is a sole King.
+With the selection of the short game, the
+number of turns in the game is determined by the players (five turns being suggested for a short game).
+Other features of PK include very good
+solitaire play, a well written and clearly
+laid out rule book, and the ability to save
+your army designs and scenario maps on
+a separate disk (actually this latter ability is required). One wonders why, considering the mandatory saving of these
+factors on disk, the game itself could not
+be saved to disk. Just another of life's little mysteries.
+Parthian Kings is a very challenging
+game due to the large role the player has
+in developing the factors which determine his starting position. The play goes
+smoothly once the dynamics of unit
+movement is mastered and combines
+with the setup options to give you a
+
+tremendous feeling of control. As a good
+example of the new crop of military
+games with a fantasy setting, PK has those
+features which should insure that you
+will continue to play it for a long time to
+come. The King is dead, and the Kingdom
+waits to find out who will next mount the
+throne.
+Curtis Edwards
+
+NAME:
+Planetfall
+S.F. Adventure
+TYPE:
+SYSTEM:
+Many
+#PLAYERS: 1
+AUTHOR:
+Steve Meretzky
+PRICE:
+$49.95
+PUBLISHER: Infocom Inc.
+Cambridge, MA
+Planetfall is a text adventure game that
+begins with you, a lowly ensign, scrubbing the decks of the Stellar Patrol Ship
+Feinstein. Your life has never seemed
+worse, and your future looks very bleak,
+boring, and uneventful. Right about this
+time your ship is rocked by an explosion.
+In order to save your life you rush to the
+nearest escape pod and are jettisoned out
+into space. By using your wits, you are
+able to ride the escape pod down to the
+nearest inhabited planet. There you are
+marooned on one of two islands on the
+planet.
+Your mission, besides finding food and
+a safe place to sleep, is to get rescued from
+the planet. But your first order of business
+is survival. Finding a safe place to sleep
+is not difficult but you must find food
+before your emergency ration kit runs
+out. Once you have the food supply and
+know where it's safe to sleep you can
+begin your real adventure (Watch out! In
+this adventure you can even get sick and
+dream while you sleep.)
+On the island you will find two huge
+deserted complexes which must be mapped (Kalamontee and Lawanda). In your
+wandering through the first complex you
+will meet a robot named Floyd. In the
+beginning, Floyd might be a nuisance
+because of his incessant babbling, but as
+you have probably already guessed he
+
+plays an important part in the completion
+of the game. Floyd's interaction is a very
+unique concept in this game. It adds
+animation to the game without relying on
+graphics. (In certain parts of the complex
+I had already mapped I found myself hurrying through the rooms. As this left
+Floyd far behind, I ended up slowing
+down to wait for Floyd to catch up.)
+There are more than 100 rooms in
+Planetfall and each one has its own very
+detailed description. Part of the enjoyment to these games is just reading these
+descriptions. I found myself wanting to
+know more about the complex — why for
+example, it was deserted, and where all
+the people went.
+The puzzles in Planetfall involve
+special access cards, tools, and the fixing
+of machines that have broken down. I
+found the solutions to be logical with just
+enough depth to give me problems but not
+enough to cause me aggravation.
+The documentation is almost as enjoyable as the game itself. With the software you get a diary, post cards, an I.D.
+card, and a manual. The diary looks handwritten and is on Stellar Patrol letterhead,
+it tells about a few days of the Ensign's
+boring life. The post cards are very funny. The manual as always should be read
+carefully. Often the problems you run
+into throughout the game can be made
+easier with the help of some clues or explanations from the manual.
+For those of you that are text game or
+NAME:
+Conquering Worlds
+TYPE:
+Space War Game
+SYSTEM:
+Apple II
+FORMAT: Disk
+#PLAYERS: 1 to 3
+AUTHOR: Walt Hochbrueckner
+$29.95
+PRICE:
+PUBLISHER: Datamost
+CONQUERING WORLDS is a space
+wargame with both strategic and arcade
+action. As the Supreme Commander of
+your civilization you must conquer and
+capture planets from the enemy(s)
+civilization(s).
+There are two types of games that you
+can pick from; you can either choose to
+defeat all of your opponents or to conquer
+all of the planets. There doesn't appear to
+be any difference in the way the game is
+played under either type. It just makes a
+difference as to how the game is scored
+in the end. Whichever is picked, when the
+end occurs the computer will calculate
+your score, and keep a record of it.
+You are able to play against the robot
+(computer) alone or you can also have up
+to two additional human players. Depending on the size of the game you
+desire you can also choose from 4 to 32
+star systems where each star has 2 to 8
+planets in orbit.
+Each turn of the game covers a period
+of 10 years. During these 10 years (120
+
+Infocom fanatics this is another excellent
+adventure to add to your collection. The
+addition of Floyd the robot as your partner is a unique boost to the interactive
+nature of these games and I hope to see
+more of this type of creative innovation
+in future games.
+For those of you who have never played
+these types of games before, Planetfall
+would be a good place to start.
+James A. McPherson
+
+months) you can move your ships between planets or between stars as well as
+change the location of your base. Since
+you can only get detailed information on
+the star system where your base is you
+have to move your base to get new information. You have to be careful here
+because, when you move your base between star systems, there is a random
+chance that the star system you warp to
+will be completely controlled by the
+enemy and you will have to battle it out
+to the end. If you lose, you not only lose
+your ships but your base as well.
+When you warp to a new star system or
+planet and attack you enter the arcade
+mode. If you do not care to do the arcade
+game you can preset the game parameters
+and have the computer determine the outcome. (The arcade portion became repetitious and uninteresting after a few
+rounds so I changed over to the automatic
+mode, with no real loss). The arcade
+shoot-em-up results are based strictly on
+who has the last ship still flying around,
+so I always tried to attack with around 7
+to 9 ships. This way the screen is not too
+crowded with my ships, which would increase the chance of a random hit, but
+would also be of a substantial quantity so
+that I would have at least 2 chances to attack. Each attack wave is a countdown of
+100 time units which typically takes 30
+
+imagine Pac-Man on a tether that you can
+retract with the touch of a button. He
+enters at the top center of the maze and
+snakes his way at right angles munching
+up dots (oil pellets) and avoiding the touch
+of his foes (Oozies and Land Mines) who
+continuously glide across the screen.
+Clear out one screen and you get another,
+tougher one. Essentially that's Oil's Well.
+You can select three speeds for the
+Oozies and Land Mines. The speeds are
+cutely named Regular, Unleaded, and
+Premium. Regular is reasonable, and
+Unleaded is tough. Premium, though, is
+so fast that it might have been more
+appropriately named Rocket Fuel.
+In the more difficult mazes there's less
+distance between some turns and there
+are fewer easy routes — a feature which
+makes it more challenging for you to get
+to some of the Oil Pellets. After you mine
+an oil field, your refinery (located at the
+top one-fourth of the screen) appears
+closer to completion. If you clear out all
+eight of your fields you can retire or select
+a higher speed and start over.
+The cast of characters in OW is wellbalanced; there aren't so many bad guys
+that you feel hopelessly overwhelmed.
+And, getting ahead isn't too easy. You feel
+like you gain points the old fashioned way
+... you EARN them.
+At the beginning of each game you get
+three Drill Bits which last about a minute
+and half each. The drill bit and pipe
+retraction is, perhaps, the most amusing
+feature of the game. By just slightly
+touching the trigger button you can partially retract them. This maneuver allows
+you to get out of danger's way in a hurry
+while staying deep within the
+underground maze.
+While clearing screens you rack-up ten
+points for each Oil Pellet you munch and
+1000 points for each super-charged
+deposit called a Goblet. This makes the
+Goblets important since every 10,000
+points you get an extra drill bit. Another
+element on your side is the Petromin, a
+sort of power pellet located deep within
+each maze that slows down the Oozies for
+a few seconds and allows you to gobble
+up deeply buried Oil Pellets.
+The bad buys in this game prey on your
+two weak spots: your pipe and your drill
+bit. The Land Mines detonate when your
+Drill Bit touches them; though they pass
+right over your pipe without damage. The
+Oozies work just the opposite of the Land
+Mines, destroying your pipe just by
+touching it while your Drill Bit can
+munch them right down (and get 20 to 170
+points each for doing it.)
+Oil's Well is a very good game. But for
+a few minor flaws it might have been a
+great game. OW lacks a few of the standard features that many hard-core home
+arcaders have come to expect; high score
+save to disk and two-player competition
+mode. Also, the underground creatures
+
+Continued on p. 35
+
+Continued on p. 46
+
+NAME:
+TYPE:
+SYSTEM:
+
+Oil's Well
+Arcade
+Apple, Atari, C-64,
+Coleco
+FORMAT:
+Disk or Cartridge
+#PLAYERS: 1
+AUTHOR:
+Thomas Mitchell
+PUBLISHER: Sierra On-Line
+Coarsegold, CA
+Oil's Well (OW) develops the old "clean
+out the maze" concept in a fun, new way.
+To see OW in your mind's arcade do this:
+
+AXIS ASSASSIN
+
+Trip Hawkins, President of Electronic Arts says he wants EA games
+to be simple to learn, hot (full of action) and deep (they grow with you).
+Axis Assassin definitely meets all
+these criteria.
+You, the famed Axis Assassin, can
+fire forward or, by reversing direction, behind you, and can move in
+any of four directions. With only
+three ships, you are engaged in a
+fierce fire fight with a whole slew of
+deadly enemies. Your battle ground
+is a geometric shape suspended in
+space and infested with Hunters,
+Spinners, Drones, Spores and Mutant
+Guards. For each successful traverse
+of a web (one of the geometrical
+figures) you gain a thousand bonus
+points and the dubious honor of moving on to a different and more dangerous design of web.
+For each web you have a single
+Pulse Bomb which, when set off, will
+disintegrate every fighter in the web.
+If you time it perfectly, and detonate
+your pulse bomb just as you are prepared to blast your way on to the next
+web, you can instead blast your way
+into The Nest for a deadly encounter
+with The Master Arachnid. Be careful, though, for this may only be a
+more sure way to die. Should you
+actually survive your encounter with
+the Master, you will emerge back onto another segment of the web having gained another Assassin to help
+in your quest.
+When you've completed twenty
+web sweeps, you'll be elevated to the
+even more deadly environs of Zone
+Two, where the battle becomes, if
+anything, more intense and challenging. At the ultimate levels you'll eventually run across the yellow Xterminators, who never die except in
+pairs. Good Hunting!!
+
+Axis Assassin is strongly reminiscent of the arcade game Tempest.
+You score points for blasting web
+strands, fighters, and for surviving
+web sweeps. The most frustrating
+part for me was having fighters slip
+sideways across the web to zap me.
+The hardest part of the game itself,
+at least to this poor finger twisted
+writer, was trying to survive the encounters with the Master Arachnid.
+In just about a month of playing
+the game, I've come back from the
+nest only three times. Usually, I find
+it no more than a spectacular way
+to suicide.
+This game is definitely fast moving
+with very nice graphics. From a
+design point of view, my only complaint is that the joystick controller
+gives you a little too much mobility.
+Many many times I found myself
+shooting completely across the web
+when I really only wanted to go a
+strand or two. In using your pulse
+bombs, try to be patient. Remember
+that you only get one per web sweep,
+so hold off until the whole bloody
+web seems filled with fighters, then
+zap them all into oblivion. Don't hold
+off too long, though, since a pulse
+bomb at the precise instant of transfer to the next web will detour you
+into The Nest. And, as stated above,
+even if you're not ready for it, the
+nest will be ready for you.
+As suggested on the game package,
+try to hug the bottom and sides of the
+web as long as possible, and really try
+to avoid looking at your score while
+playing. It's a sure way to bite the
+dust . . . stardust, that is.
+David Long
+
+HARD HAT MACK
+
+Hard Hat Mack (HHM) is another
+arcade game by San Mateo based
+Electronic Arts. HHM requires you
+to complete three distinct construc-
+
+tion duties while avoiding Vandals,
+OSHA Inspectors, and a variety of
+other on-the-job hazards.
+Level one involves picking up four
+sections of girder and placing them
+in four gaps found in the building.
+You automatically pick up the girder
+sections, and just as automatically
+put them down in the holes when
+you cross them. You can jump over
+the holes and can also jump off the
+edge of the construction area. Jumping off of the left edge is suicide, but
+at the bottom of the right edge lies a
+springboard which, when you time
+your jump correctly, will usually
+bounce you back up to the level just
+above where you jumped off. The
+only exception to this is when you
+jump off of the very top level, which
+then lands you back on the lowest
+level. You can also move up and
+down by climbing the chains between levels, and through utilization
+of the elevator which runs along the
+left edge of the building. The elevator
+is normally found at ground level, but
+by jumping up and ringing the bell
+at the top you can call the elevator up
+to you. The catch at level one is the
+bouncing rivet. This lovely bouncing
+beauty falls, with semi-regularity,
+across the screen, and, in spite of
+your hard hat, will wipe you out if it
+hits you. At any rate, in between the
+rivet, the vandals, and the OSHA inspector, you have to lay all four sections of the girder in place, and then
+grab the rivet gun (not to be confused
+with the bouncing rivet) and rivet
+them in place. When you've finished
+this, you'll receive a bonus (the faster,
+the better) and move on to level two.
+At level two your task is to gather the
+lunch boxes which are scattered
+about, while still avoiding the various
+job hazards. These include the
+crusher, the pinchers, the heater, and
+the dynamite keg. Once you've
+touched all the lunch boxes (when
+you touch them they disappear), you
+must ride the moving girder to the
+top. From there, you must jump to
+the conveyor belt with perfect timing
+to avoid the blast furnace and have
+the magnet lift you up on to level
+three. The hardest part of this level,
+at least for me, was avoiding the
+crusher and the pinchers.
+
+Level three is, in my opinion, the
+easiest. You use the twin springboards at the bottom and a moving
+elevator / conveyor belt to collect
+metal ingots and drop them into the
+rivet making machines at the bottom.
+Here, as at all other levels, you must
+watch out for the vandals and OSHA
+inspectors, but most of the other
+traps are fairly easily avoided.
+After level three, you have the
+pleasant duty of going on to level
+four, which is a more difficult version of level one in that there are two
+bad guys after you instead of one.
+Again the bouncing rivet is the worst
+danger to your continued career, but
+you should also be careful not to get
+caught between the two vandals /
+OSHA inspectors.
+HHM appears to me to be a brand
+new concept in arcade action. In the
+first place, nobody has ever made
+a game out of the construction industry of which I've heard. Secondly,
+although at first glance this might be
+taken to be similar to Donkey Kong,
+Apple Panic, or Miner 20 49er, the
+resemblance ends there. Thirdly, you
+can continue virtually forever, or as
+long as your supply of HHM's hold
+out. You start the game with three
+and get only one additional man at
+7000 points with no further reinforcements. One minor anomaly
+does exist. Your bonus points count
+down from the time you begin working on a level, but they reset to the
+maximum when you loose a Mack.
+For example, at level two you can
+successfully gather all the lunch
+boxes and see your bonus drop down
+to around 2000 or 1500. If you then
+suicide, the bonus will jump back up
+to 5000 and you will make it to level
+three with at least a 4500 bonus. So,
+in the short run, you can score higher
+by selective suicide. In the long run,
+however, with only one bonus man,
+you'll have to find a better tactic. I've
+been playing HHM for nearly six
+weeks, and it isn't getting old yet.
+Remember to pick up as many
+bonus objects as you can, and watch
+out for the bouncing rivet . . . and
+when you break 100,000 points, do
+write in and let us know.
+David Long
+
+TAKING A PEEK (Cont.)
+DAWN OF CIVILIZATION: Strategy
+game for 1 to 4 players which abstracts
+the spread of man at the beginning of
+civilization. The object is to have the
+largest number of tribes on the board
+at the end of play. Players build
+legions, cultivate farms and manage
+food and land resources for their
+growing populations. Atari.
+
+Strategic Simulations
+883 Stierlin Rd. A-200
+Mountain View, CA 94043-1983
+
+QUESTRON: If you liked Ultima, this
+is the game for you. Similar enough to
+Ultima that SSI has a licensing agreement with Richard Garriott, Questron
+takes you into the Empire of the same
+name. You must find Mantor and steal
+his Book of Evil Magic. Questron is a
+circumnavigable world of some
+57,000 squares that contains a large
+variety of interests. However, as we
+can tell you from experience, don't run
+to the nearest gambling hall after each
+"find". Kirk, you have got to be more
+conservative with your money!
+Review coming. Apple, Atari. $49.95.
+
+Sublogic Corp.
+713 Edgebrook Dr.
+Champaign, IL 61820
+
+FLIGHT SIMULATOR II: To put it
+simply, every Apple owner should
+have a copy of this program. It is an
+outstanding example of what can be
+done in 48/64K. Not to mention the
+fact that it does an excellent job at
+simulating small aircraft flying. Over
+80 airports are included in four
+scenery areas: New York, Chicago,
+Seattle, and L.A. Other scenery areas
+are available separately. Sublogic is
+pursuing the possibility of FAA approval of FSII as a training device. Apple 48/64K. (IBM Flight Simulator by
+Microsoft is same program). Atari and
+C-64 versions coming.
+
+SCORPION'S TALE (Cont.)
+no problem at all; getting in should be
+equally easy. What's that? You say you
+don't have a silver rod? Sure you do, you
+just don't realize it yet! Its location will
+become obvious after the great shake-out;
+just think about that for awhile.
+Now, the other bubble is a slightly different matter. You can't just walk over to
+it, or climb up to it. However, as you
+might have suspected, there is a way to
+get there. If you recall your physics, for
+every action, there is an equal and opposite reaction.
+Once you arrive at and enter the other
+bubble, you will find a use for all the remaining rods. Here you are on your own,
+as what needs to be done can be determined only by trial and error (although again,
+if you know some physics, part of this will
+be easier). But, when you figure out the
+exact sequence of moves, you will bring
+the game to a triumphant conclusion!
+Well, that seems to be about it for "Starcross". Next time, we'll talk about a game
+that is much different and full of magical
+happenings: Enchanter. 'Till then, happy
+adventuring!
+* * * NOTE! * * *
+Just after the February issue went to
+press, I was notified that my mailbox
+place would be closing at the end of
+January. They continued to hold mail for
+current customers until about midFebruary; after that, all mail was returned to sender. Since CGW was already
+printed, there was no way to get a notice
+in about the change. My apologies to any
+of you who had letters returned because
+of this problem. Of course, I have a new
+mailbox, and you can now write to me at
+the following address: Scorpia, 207 E.
+85th St. Suite 240 New York, NY 10028.
+I would also like to remind correspondents that, if you want a personal
+reply, you MUST include a selfaddressed, STAMPED envelope
+(however, this does not apply to readers
+living in foreign countries where
+American stamps are unavailable)!
+For those of you who are online, I can
+be reached on the Source at ST1030, and
+on CompuServe on page GAM-310.
+OIL'S WELL (Cont.)
+lack internal animation. (These criticisms
+aren't meant to imply that the game's not
+fun — it's lots of fun.)
+The action's well-paced, the difficulty
+progressive. While getting to a higher
+level is somewhat dependent on getting
+the right breaks — good eye-hand coordination, timing, and strategy are essential. Oil's Well offers an exciting treatment of a maze-munch game that you
+won't grow tired of after ten or twenty
+plays.
+Dave Stone
+
+CARRIER FORCE (Cont.)
+all day long. All other aircraft would do
+well to be back on the ground by nightfall,
+since operational accidents increase at
+night.
+Depending on aircraft type, planes can
+travel a certain number of hexes each
+hour (hexes are 50 miles wide). As each
+plane or group of planes passes through
+a hex, search occurs. The quality of that
+search can be improved by "spending"
+more of that hour's movement points
+searching the same hex more intensively. For example, an aircraft capable of
+traveling 150 miles in one hour could:
+— travel the full 150 miles, expending
+one movement point in each of the three
+hexes in the course of a cursory search.
+— spend two of the three available
+movement points in hex, then after
+locating nothing, move on to another hex
+and spend the last point searching in the
+new hex.
+— spend all three points searching in
+the same hex.
+Once air groups are created, all the
+player must do is decide the direction in
+which the group will fly. As each movement point is expended the computer
+conducts searches, and if something is
+spotted the player receives a report of the
+sighting and a symbol is displayed on the
+map noting the location of an enemy task
+force.
+This simple act of computer-mediated
+search is the glue that holds CF together.
+It is swift and exciting, and it can be
+frustrating. Search planes are unarmed,
+and if they are jumped by CAP they
+always get shot down. And it is here that
+one flaw surfaces.
+Whenever air combat of any kind takes
+place, the location of that combat is
+shown on the map. Whenever a search
+plane is jumped by CAP the searching
+player is notified that the plane has been
+shot down, and the hex in which it happened is indicated on the map. Common
+sense tells you that if a search plane is
+jumped by CAP over a certain hex, then
+there must be something of consequence
+steaming along on the surface in that hex.
+Essentially, what this means is that a
+search plane that is jumped by CAP will
+always manage to get off a radio message
+of the sighting and location before he goes
+down.
+
+Picture yourself sitting in the Combat
+Information Center aboard the Lexington
+at Coral Sea, watching air groups inching
+across a map towards the marker that
+denotes the last known position of a
+Japanese task force.
+Whether or not the enemy TF has been
+spotted by a search plane during the hour,
+attacking air groups, logically enough,
+must also spot the target TF on their own.
+And the farther from home an attacker
+
+flies, the greater the chance that he will
+fail to spot the enemy. Weather conditions can also prevent spotting a target.
+So there you sit, having shot your bolt,
+waiting for the Lexington's SBD
+Dauntless dive bombers, now approaching the end of their tether, to arrive
+over the target. On the map the air group
+marker moves onto the target hex, eclipsing the symbol denoting a Japanese task
+force. The SBDs have less than an hour
+before they must turn around, otherwise
+they will fail to make it back to their
+carriers.
+The SBDs are directly over the IJN task
+force, but in the deteriorating weather
+they cannot spot their target. One movement point is used. Only one more
+remains.
+You order the bombers to continue the
+search and they do, with still no ships
+spotted. The SBDs have failed to find the
+target. Faced with the prospect of losing
+the entire squadron to ditching, you
+reluctantly steer the bombers back
+towards the Lexington, and steer a course
+for "point option" where you will retrieve
+your aircraft.
+There is another side to that coin,
+though. On more than one occasion my
+radar has detected an incoming raid, my
+CAP has intercepted incoming attackers,
+that, and the weather meant that the
+Japanese were unable to spot and attack
+my ships. The weather is impartial.
+
+Task force movement is accomplished
+in an effective manner. Each hour, task
+forces accumulate movement points,
+which are then expended through such
+things as changes in headings, and air
+operations. When a task force has accumulated 50 movement points, it moves
+into the next hex on its current heading.
+Aircraft carrier operations are
+hampered by insufficient wind across the
+flight deck, so it is necessary to turn a carrier into the wind for most major air
+operations. In addition, the deck capacity
+of carriers is extremely important, and
+the management of flight deck space is
+clearly the most important skill to master.
+Maintaining a smooth flow of air operations is a complex task. CAP and search
+planes must be launched and landed. Air
+strikes, combining fighters, bombers, and
+torpedo planes must be launched, formed up overhead, and sent on their way.
+Meanwhile, there are aircraft returning
+and circling overhead, waiting for the
+chance to land. And you, in overall command, must keep track of wind direction,
+heading and traffic on the flight deck. Not
+surprisingly, a task force that is busy with
+air operations, frequently moving into the
+wind to conduct those operations, will
+make little headway in any direction but
+directly into the wind during a period of
+extended air operations.
+
+Gary Grigsby aptly describes the computer opponent as "not terribly creative
+tactically, but his staff is superb." And indeed it is. While you are grappling with
+the problem of having been too aggressive, having launched so many
+bombers that you must watch an entire
+squadron of fighters in the landing circle
+ditch for lack of available deck space, you
+will be chagrined to realize that the
+Japanese computer opponent does not
+make that same kind of mistakes.
+There are some limitations to the structure of the program that make it rather
+unforgiving, and thus, give the computer
+opponent an edge. For example, once an
+air group has been placed in the Landing
+Circle the group cannot be "waved off"
+... it must land in the next hour, and it
+must land in the task force in which it was
+designated to land during the previous
+hour. If you have a one carrier task force,
+even if it occupies the same hex as
+another carrier task force, and if there are
+no air operations left for the designated
+carrier, there is no way for you to safely
+land those planes on an alternate carrier.
+The lesson then, is to always be aware of
+your aircraft situation.
+CF lends itself to having two human
+players share duties in a game against the
+computer opponent. It is a handful to plot
+and log effective search patterns without
+either missing an area or duplicating
+searches. It is also a chore to keep track
+of aircraft operations such that returning
+aircraft have a place to land. And, it is a
+chore to make sure that attack aircraft can
+reach their targets and still get back to
+their carriers, especially if those carriers
+must zig-zag into the wind to launch or
+retrieve planes while the strike is enroute
+to its target.
+Dividing those duties among two or
+more players, so that one player is the
+overall TF commander, and the other is
+either an individual carrier commander
+or the overall group commander, will
+allow for more people to participate
+without slowing down the game. It will
+also reduce the likelihood of a bookkeeping foul-up that could strip a carrier of
+many of its planes. In initial playings of
+CF, I have found more of my plane losses
+coming from such foul-ups than from
+Japanese actions.
+CF has been exhaustively researched,
+and beautifully produced. In many ways
+it is the kind of game that we had in mind
+several years ago when we were
+daydreaming about where the wargaming hobby was headed now that the computer had arrived. The tedium of bookkeeping is gone, replaced with the real
+feel of the "fog of war."
+Tom Cheche provided historical research
+in the development of CARRIER FORCE.
+
+R.I.D. was prepared with the help of SPEED STAT by SoftCorp International, Westerville, OH 800-543-1350
+
+See page 50 for details on the Reader Input Device
+
+There were 253 RIDs turned in by press time for this
+issue.
+Newly rated games and updated game ratings are
+listed with bold type in the table on page 48.
+GAME RATING
+The table on page 48 includes games evaluated by our
+readers. For a game to he included in this listing it must
+first have been offered for rating in our regular RID
+rating system. Games offered for evaluation are those
+covered in the magazine and/or those having a good
+sales record during the time of evaluation. Once offered
+for evaluation, the game must have been evaluated by
+a sufficient number of readers to be included in the
+results. Any game not evaluated by at least 10% of the
+respondents was not included in the results.
+Games were rated on a scale of 1 (terrible) to 9
+(outstanding). Respondents were asked to consider such
+things as PRESENTATION (graphics, sound, packaging, documentation); GAME DESIGN (design, playability, interesting?); LIFE (does the game wear well?)
+RID #13 (Use card provided)
+On this page a number of games and articles are listed
+for evaluation. Please take time to evaluate these games
+and articles. Use the guidelines above for game evaluation. Leave blank any game which you have not played
+enough to have formed an opinion.
+Please rate articles on the basis of the article itself,
+not your opinion of the game being reviewed. Enter a
+zero for any article that does not interest you.
+
+INSIDE INDUSTRY SURVEY
+Questions 1 through 11 relate to the INSIDE THE INDUSTRY survey questions as detailed on page 6 of this
+issue. Part I of that survey requires that you check mark
+the appropriate numbers (1 through 5). In part II (question 6) mark the number of the appropriate category.
+Questions 7 through 10 require checkmarks as per Part
+III. Question 11 (Part IV) requires a letter of designation.
+
+

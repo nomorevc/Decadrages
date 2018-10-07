@@ -1,0 +1,5192 @@
+I
+
+VOL. 3 NO. 2
+
+Mar.-Apr. 1983
+
+Features
+SOME READER COMMENT
+
+9
+
+Comments from R.I.D.s
+
+COMPUTER GAMES IN 1983
+A Report on CES and HIA
+
+COSMIC BALANCE
+
+10
+Russell Sipe
+
+Tactics and Ship Design
+
+14
+Floyd Mathews
+
+An Overview of the Series
+
+18
+David P. Stone
+
+ZORK!
+ULTIMA II
+The Revenge of the Enchantress
+
+LATCH ONTO THE BULL
+The "Bear" Facts about MILLIONAIRE
+
+ROBOTWAR TOURNAMENT RESULTS
+
+23
+James A. McPherson
+26
+Johnny L. Wilson
+30
+
+Results of CGW's 2nd Annual Tourney
+
+LISTEN TO THE MOCKINGBOARD
+Sound and Speech for the Apple II
+
+EPIDEMIC
+"An Apple (or PC) a day. . ."
+
+READER INPUT
+
+33
+Thomas Cleaver
+39
+Valerie Trott
+48
+
+Game Ratings of the Past 10 Months
+
+Departments
+Letters
+
+2
+
+Inside the Industry
+
+3
+
+Hobby and Industry News
+
+3
+
+Real World Gaming
+
+4
+
+Taking a peek
+
+5
+
+Atari Arena
+
+20
+
+The Learning Game
+
+36
+
+Microcomputer Mathemagic
+
+38
+
+Micro Reviews
+
+41
+
+Reader Input Device
+
+48
+
+Dear Editor:
+I am an avid gamer and have
+been for all but a few early years of
+my life. I advanced through the various levels of the gaming world
+much like any other gamer my age,
+and I faced the same dreaded
+problems what with the lack of
+opponents and the mounds of
+paperwork involved with role-playing. Therefore it was only natural
+that I realize the potential of the
+computer in this area. However all
+the computer related magazines
+began to drift more into the technical aspects of computing and a
+well written detailed review of gaming software became harder to find.
+Then came COMPUTER GAMING
+WORLD. Long had I wished for just
+such a magazine and I pounced on
+a subscription faster than a starving
+dog on a ham hock. I have read
+and re-read every issue thus far and
+I look forward to each new issue
+impatiently. However, of late I have
+began to fear that you too will be
+drifting to a more technical aspect
+rather than staying with your namesake. There have been several hints
+in various articles that you may
+indeed include articles of a technical nature and although it may be
+selfish, I hope you will refrain from
+doing so. There are multitudinous
+articles on that end of computing
+in other magazines and as a result I
+do not subscribe to them but I buy
+them one issue at a time depending upon interest. You are the official voice of the computer gamer
+and as such are filling a void inherent in us all. Please try to keep it that
+way lest we drown in a sea of
+technicalities.
+Another bothersome area for me
+is the sniveling rivalry between
+computer enthusiasts. There is the
+APPLE group, the ATARI group, the
+TRS-80 group, the PET group, and
+lord knows what others. Many times I
+have felt that I am personally being
+chastised because I happen to own
+an APPLE II PLUS. I have nothing
+against ATARI, TRS-80, or PET owners.
+Why do they insist upon making
+snide remarks about the APPLE II
+PLUS? For example there are three
+such remarks of childish rivalry in the
+
+READER COMMENTS, page 43 of
+your VOL. 2 No. 5 issue, I quote,
+"There is a senseless preference
+shown for APPLES and ATARIS over
+the TRS-80 graphic junkies."; "Too
+many games are first developed for
+the APPLE then converted to the
+ATARI. ATARI users must then suffer
+with sub-par graphics and sound";
+and "Go monthly and put in some
+ATARI articles, This past issue had
+more for the ATARI than other. But
+APPLE users have enough magazines of their own without giving
+them 3/4ths of this one also"
+un-quote,
+Competing for top honors in the
+'My computer is better than yours"
+contest does nothing to further the
+hobby of computer gaming, but a
+little understanding and co-operation could make quite a difference. I
+agree that when it comes to software and software reviews practically every computer system except
+for the APPLE suffers. The question is,
+who do you blame for this problem?
+The editors cannot justifiably be
+blamed as they rely heavily on outside contributions, so who on the
+outside can be blamed? Is it reasonable to lay the blame on the
+ATARI users because there is an
+insufficient amount of good software and/or software reviews for the
+TRS-80? Of course not. The only people who can be blamed are the
+users themselves. Someone has to
+write the software and the reviews,
+therefore if the PET users feel left out
+then they must accept the responsibility of doing something to correct
+the situation. The same would hold
+true for any computer system and
+the users of that system.
+I would like to see the computer
+enthusiasts of today come together
+in friendship and co-operation to
+make the hobby as exciting and
+rewarding as it can be. While there is
+nothing wrong with loyalty to a particular computer system, detrimental comments about other computer systems can easily be avoided
+and should be, for they serve no useful purpose.
+Stephen Stahl
+Brazoria, TX
+
+Dear Editor:
+Thank you for promoting Robotwar activities. It is a game that
+requires continuing competition
+with other players to be fully
+appreciated.
+I was very frustrated when I found
+out I'd missed your first tournament. I
+couldn't rest until I'd organized a
+local tournament, which we've
+been holding every 2 months ever
+since. Richard Fowell, creator of
+"Norden", is one of our club
+members. We are currently holding
+our tournaments at Rainbow Computing Inc. 9719 Reseda Blvd., Northridge, California.
+Concluding there must be others
+in this great country that might be
+searching for Robotwar
+competin.Ialsrgzd"pot
+Robotwar tournament. It is held the
+1st of every month with a $4 entry
+fee to cover prizes and postage.
+Anyone interested may receive rules
+and mailing instructions from:
+Frank Krogh
+P.O. Box 5337
+North Hollywood, CA 91616
+We've had 3 postal tournaments
+as of December 1st, 1982. The
+winners were: "Stalker" by Pat
+Bachelder from Andrews, TEX;
+"Norden2" by Richard Fowell from
+Palos Verdes Estates, CAL; "Samoth"
+by Tom Schai from Roseville, MINN.
+Good luck on your 2nd Annual
+Robotwar tournament.
+Frank Krogh
+
+INSIDE THE INDUSTRY
+by Dana Lombardy,
+Associate Publisher Game Merchandising
+
+Last issue we listed almost 400
+different new game software titles
+that were released in 1982. Looking
+at the data provided by the survey
+forms returned from the computer
+game publishers, we find some
+interesting facts.
+Out of over 150 computer game
+software publishers, 81 listed their
+1982 game releases, 6 were still
+active but had no new game
+releases, one was out of business,
+and one was no longer publishing
+game software. 69 were sent forms
+but never replied, despite two
+separate requests. Of the 81
+responding, a total of 394 games
+were produced in 1982 (about 5
+games per company). If we assume
+that at least 60 of the nonresponding companies also had
+game releases last year, that would
+bring the total number of computer
+software games published in 1982
+to 694!
+A list of the 30 most prolific game
+software publishers follows. Even
+when including the games from
+none-reporting companies, these
+30 software publishers (20% of the
+
+HOBBY AND
+INDUSTRY NEWS
+Broderbund Software, Inc. has entered the
+CARTRIDGE game market with its first two Atari
+cartridge releases: CHOPLIFTER! and SERPENTINE.
+Both games are 16K.
+Broderbund also announced its entry into the
+VIC-20 market with three cassette programs
+MARTIAN RAIDER, SHARK TRAP, and
+MULTISOUND SYNTHESIZER. All three programs are
+for the unexpanded VIC-20 and have suggested
+retail prices of $19.95.
+THE GAMES NETWORK, a
+computer-gasbylcompn,hasredtulofis
+Iwo month charter membership drive ( November
+1, 1982 - January 1, 1983). According to Thom
+Keith, Executive Vice President of Network Affairs,
+"a total of 190 systems signed charter membership reservations, 166 systems signed charter
+agreements and an additional 11 systems
+became affiliates." During the first two weeks of
+January, 103 more systems signed on, bringing
+the total to 470 systems; representing a potential
+of over five million subscribers. The Games
+Network will go "on line" in September.
+SubLOGIC has announced the release of their
+game, "NIGHT MISSION" PINBALL for the IBM PC.
+The game will run on any IBM PC with 64K and an
+
+game manufacturers) account for
+nearly half of all game releases in
+1982. In fact, just counting the top
+ten on the list shows that these firms
+(7% of the industry) account for
+one-quarter of all 1982 game
+software releases.
+It must be noted that this list does
+not rank the companies by their
+
+size or the number of any one
+particular game sold. Some of the
+publishers with only a few game
+releases in 1982 had tremendously
+successful titles. This list is just one of
+several methods of measuring
+America's most rapidly-growing
+hobby: computer gaming.
+The 30 Most Prolific Computer
+Game Publishers of 1982
+Number of
+Releases
+22
+20
+19
+18
+15
+14
+13
+13
+
+Publisher
+Avalon Hill
+Atari Program exchange
+Thorn EMI Video
+Datamost Inc.
+Spectral Associates
+Epyx/Automated Simulations
+Adventure International
+Broderbund Software Inc.
+
+IBM Color/Graphics Monitor Adapter. It will be
+available on disk and sell for $39.95.
+McKelvie Programs, P.O. Box 53076, Phila., PA
+19105, has released GAMEMASTER, a new
+program for the Timex-Sinclair and ZX-81
+computers. GameMaster is a control and record
+keeping system for role-playing fantasy adventure games. It is compatible with TSR's
+Dungeons and Dragons role-playing game.
+
+13
+13
+13
+11
+11
+11
+9
+9
+7
+7
+6
+6
+6
+6
+5
+5
+5
+5
+5
+5
+5
+5
+
+Futureview Inc.
+Gebelli Software Inc.
+Sirius Software Inc.
+Hayden software
+Strategic Simulations Inc.
+United Microware Industries
+Artworx Software Co. Inc.
+Sierra On-Line Inc.
+Datasoft Inc.
+Synergistic Software
+Avant-Garde Creations
+Insoft Inc.
+Sublogic Communications
+Syncro Inc.
+C&C Software
+Computer Kinetics Corp.
+Creative Software
+Instant Software
+Micro Lab
+Spinnaker Software
+Swiftly Software Inc.
+Synapse Software
+
+(The remaining 51 companies
+that reported publishing games in
+1982 had four or fewer titles
+released.)
+
+as a character's gold, experience, attributes,
+spells, and other items that Wizardry players
+need printed.
+Two more new releases from Sir-tech are PITS
+OF PERIL, an arcade game for the Apple II (48K),
+and POLICE ARTIST, a childrens game which is
+basically a face recognition program for ages 7
+to 14.
+
+Michael C. Katz , former vice president of
+marketing and corporate communications at
+Coleco Industries, has been named president
+and chief executive officer of EPYX Sunnyvale,
+CA.
+
+Penguin Software has announced that, as of
+March 1, 1983, they will be lowering the price of
+their games to $19.95. This will include both their
+old titles and their new ones (Thunderbombs
+and Crime Wave).
+
+Automated Simulations/EPYX has updated its
+computer football game, TUESDAY MORNING
+QUARTERBACK to reflect the 1982 football season. The game is available on disk for the TRS-80
+(48K) and the Apple II (48K). It sells for $29.95.
+
+Softwaire Centre International now has 22
+franchises opened or under construction nationally. Over 100 locations may be secured by June,
+according to their president, Glen Johnson.
+
+Automated Simulations/EPYX have also expanded their line of products for the VIC-20. The
+new additions are SWORD OF FARGOAL; RESCUE
+AT RIGEL; CRUSH, CRUMBLE AND CHOMP!:
+MONSTER MAZE; and RICOCHET. The first three
+are 16K cassettes with a suggested retail price of
+$29.95. Monster Maze is available on cartridge
+and retails for $39.95, while Ricochet is 8K on
+cassette for $19.95.
+Sir-tech has announced the release of the
+third WIZARDRY scenario, LEGACY OF
+LLYLGAMYN. Also out for Wizardry is WIZIPRINT, a
+printout utility designed to print such information
+
+Infocom, Inc. and Osborne Computer Corp.
+have announced an agreement that paves the
+way for Osborne to distribute the full line of
+Infocom's entertainment software.
+Avalon Hill has added three new titles to their
+list of games for the IBM PC. COMPUTER FOOTBALL
+STRATEGY, VC, and B-1 NUCLEAR BOMBER all
+require 48K and sell for $21.00, $25.00, and $21.00
+respectively.
+
+Continued on p.40
+
+REAL
+WORLD
+GAMING
+
+PROGRAMMING
+For those who may have joined
+this series late, here is a brief recap
+of the previous installments.
+A simulation game is a game that
+mimics a real world field of interest.
+It can allow players to experience
+some of the excitement of being
+anything from a stunt pilot to a millionaire businessman. In the last
+three issues we have covered the
+System Definition, Data Collection
+and Model Development phases in
+constructing a simulation game.
+System Definition is the first step. It
+is similar to making an outline of
+your subject for a speech or an article. You define a "system boundary"
+that tells what things are "inside
+elements" and what things are
+"outside influences". At this point
+you also list the relationships between
+the elements of the system.
+Next comes Data Collection
+where you observe and investigate
+the system you have chosen as the
+basis for a game. You try to answer
+the questions "How often do things
+happen?", "What quantity of things
+occur?" and "How do things affect
+other things?".
+In Model Development you take
+all the pieces of information that
+you collected about your system
+and "boil them down" to probabilities, averages and ranges. All outcomes and relationships have to
+end up as some form of numeric
+data or you can't use them in your
+game.
+Now that everyone is up to date
+
+we are ready for the next step
+—Progamin.
+Although this phase
+does include actual computer programming, it involves much more
+than just writing code in your favorite language. You are now faced
+with the job of designing a GAME!
+Up until now we have talked about
+developing a simulation model. This
+model (if done well) should be a fair
+representation of what things are
+like in the real world. But, just as
+animation by itself does not make a
+good arcade game, a good simulation game needs more than simply
+a model!
+The previous three sections of this
+column covered some of the technical aspects of the design of a simulation game. The information presented was mostly objective since
+systems simulation is based on
+scientific methods. However, the
+design of a game is more of an art
+than a science. There are very few
+rules and even those are occasionally broken to produce good games.
+So, the things I present here cannot
+be footnoted and referred to in a
+text book. They are "approaches"
+that others and myself have used to
+create games.
+One approach uses a tool called
+a story-board. This is a script of the
+game as it will be experienced by
+the players. The story-board will help
+you examine the flow of the game
+before you spend a lot of time writing the program. Included in the
+story-board are all of the main features you will use in your game. This
+information will allow you and others to better imagine what it will be
+like to play your game. It is easier to
+revise your design to fix any problems at this point than later when
+you are chasing program bugs.
+One main element the storyboard helps you visualize is how the
+players will interact with the model.
+From the standpoint of the model
+design, the key question previously
+was "How does the system function?". Now you have to decide
+"How will the players affect the system?". The player interaction with
+the system can be thought of as
+their decisions. There is some rela-
+
+Dan Bunten
+
+tionship between the number of
+decisions you allow the players and
+the realism of the simulation. But it is
+not a simple relationship. Participants in real life systems typically
+(though not always) have numerous alternatives open to them.
+However, it is not necessary to give
+players all the options the system
+can support to make a realistic
+game. For instance in a business
+game I wrote, Cartels & Cutthroats,
+only seven decisions were needed
+by players to manage their hypothetical companies. Obviously, in
+the real world there are many more
+factors for a corporate president to
+analyze. However, for playability it
+was more important that the decisions made be direct and simple.
+Even with this small number of inputs
+it was possible to create a very realistic "feel" through a mixture of randomness and factor influence.
+Thus, to complete your game
+design you need to know how many
+and what types of decisions players
+will have to make. You must also
+plan how they will input the information. Although a keyboard provides
+the greatest flexibility, serious consideration should be given to game
+input devices. Paddles and joysticks
+are a lot less intimidating than a
+keyboard to almost everyone. In
+addition, from a programming point
+of view it is often easier to flag bad
+inputs from a joystick than to catch
+a bad key press or misspelled word.
+Input is only half of the player
+interaction of your game. The other
+part is the output from the system to
+player. Although it is possible to
+produce a simulation game where
+all of the output is in the form of text,
+my own experience indicates this
+may not be desirable. In 1979 I wrote
+a football game, Computer Quarterback that was based on exhaustive research on the outcomes of
+combinations of offensive and defensive plays. For each running play
+against each defense I derived five
+values that were used to generate
+outcomes. For each passing play
+there were seven variables used to
+determine the outcome against
+each defense. Overall, this model
+Continued on p.47
+
+In addition to games mentioned elsewhere
+in this issue, the following products have been
+received by CGW. Some of these products will
+receive more detailed attention in future issues.
+Readers wishing to review any of these
+products should contact CGW.
+Adventure International
+Box 3435
+Longwood, FL 32750
+MACES & MAGIC #2—THE STONE OF
+SISYPHUS: A graphics/text adventure game
+by Chameleon Software. Several of its unusual features include a well executed
+coded hint sheet and very large numbers of
+potential weapons and types of armor. Atari
+(48K), Apple II, TRS-80.
+
+Avalon Hill Game Co.
+4517 Harford Rd.
+Baltimore, MD 21214
+ALIEN: A computer game based on the
+theme of the movie of the same name. The
+alien, which will metamorphose to more
+deadly forms as time goes on must be
+detected then captured or destroyed. Apple
+II. $28.00
+GFS SORCERESS: The first in a continuing
+series of games based on the saga of Joe
+Justin and Selena Sakarov. A two-word text
+adventure game. In addition to the disk and
+rule book you get "Restless Universe" a fictional story that introduces the adventure
+and the "Galactic Federation Naval Officer's
+Manual."
+
+CBS Software
+Hagerstown, MD 21740
+K-RAZY KRITTERS: A Space Invaders type
+game for the Atari 400/800. 10 levels of play.
+Cartridge.
+Funsoft
+28611 Canwood St.
+Agoura, CA 91301
+TIME RUNNER: Similar to a maze-chase
+game, TR involves the hand-eye skills of
+running around a maze and the strategy
+skills of surrounding parts of the maze to gain
+points. Wrap your trail around a box and get
+so many points. Atari 400/800 disk or tape
+(16K). $29.95
+Hexcraff Inc.
+P.O. Box 39
+Cambridge, MA 02238
+GENESIS - THE ADVENTURE CREATOR: Here is
+a real sleeper. Game generating programs
+are becoming more and more popular (e.g.
+The Arcade Machine, Pinball Construction
+Kit). Genesis is an adventure game generator. In "The Creator" portion of the program
+you create your map, objects, commands,
+and text. You can create your own custom
+adventures. We like it. Apple II (Atari, IBM PC,
+Comm64 coming). $49.00
+Howard W. Sams & Co.
+4300 W. 62nd St.
+Indianapolis, IN 46268
+CAVES OF OLYMPUS: A hi-res adventure
+game using two-word command format.
+
+You must explore the Caves in search of a
+spaceship with which to escape the Laren.
+Animation and sound effects are nice
+additions to the standard adventure game
+format used in COO. Apple II.
+
+MUSIC GAMES: Using the reinforcement
+technique of learning, Music Games teaching the elements of music. Categories of
+games/lessons are: Ear Training, Listening,
+Note Recognition, and Rhythm. The hi-res
+program even includes Bach's "Solfeggietto"
+at a tempo of your choosing. Apple II.
+(lmagic
+P.O. Box 2055
+Saratoga, CA 95070
+DEMON ATTACK: (lmagic has translated their
+popular Demon Attack Atari VCS game to
+the Atari 400/800. The cartridge based
+arcade game is well done graphically,
+however the game design itself is nothing
+new (basic Phoenix type game). Game
+variations allow two player games, advanced games, and tracer shots that can be
+controlled after firing. Atari 400/800
+William Kaufmann, Inc.
+95 First St.
+Los Altos, CA 94022
+AWHAT'SOFUNYBCMPTERS:
+book of cartoons by S. Harris. The Cartoons
+cover such subjects as artificial intelligence,
+invasion of privacy, and home computer
+applications. $6.95 in paperback.
+
+Metacomet Software
+P.O.Box 31337
+Hartford, CT 06103
+THE PROGRAMMABLE CUBE: A simulator and
+game based on the popular Rubik's Cube .
+The simulator shows all six sides and simulates
+motion for each move. A complete solver
+guides the user step by step through the
+solution of any scrambled cube. The program
+uses a simple-to-learn special programming
+language. Apple II.
+Mirror Images Software
+1223 Peoples Ave.
+Troy, NY 12180
+Color Graphics Adapter necessary on all Mirror
+Images IBM games.
+HEXTACY: A symbolic ' territorial war game
+with some similarities to the Oriental game
+GO. However, unlike GO, "stones" need not
+be exclusively surrounded by one's opponent's stones. A stone surrounded by more
+than one player's stones is captured by the
+player with the most stones surrounding said
+stone. The significant thing about Hextacy is
+that it can be played by up to three players
+plus the computer as the four player. Apple
+and IBM PC. $34.95
+
+HIDE AND SINK: You play against the computer in this sea war game. There are three
+versions of play: Standard H&S, Super H&S,
+and Super-Salvo H&S. The standard version is
+basically a souped-up computerized version
+of the pencil and paper game "Battleship".
+Your ships are hidden on a 10x10 grid and
+the enemy takes shots trying to hit your
+hidden ships while in your turn you try to hit
+his hidden ships. "Super" and "Super-Salvo"
+add missiles and increased firepower. A
+nighttime option makes sighting more
+challenging. Apple and IBM PC. $34.95
+SPYDER: A arcade game of invading the
+cave of the Arachnid King. Play involves
+shooting descending Spyders, stooping
+crawling Spyders, and destroying eggs. The
+number of points awarded for each Spyder
+or egg killed depends on such factors as how
+you killed it and where it was at the time. IBM
+PC.
+TACHYON: An arcade game with elements
+of the old "Star Trek" computer games. The
+galaxy is divided up into 25 quadrants. Each
+quadrant contains one of the following:
+refueling station, space storm, blackhole,
+enemy fighters. Action within a quadrant is
+executed in arcade like action as you use
+your lasers and torpedoes to survive. IBM PC.
+
+Muse Software
+347 N. Charles St.
+Baltimore, MD 21201
+THE CAVERNS OF FREITAG: This is going to be
+a popular game. According to some of the
+people at Muse TCOF is better than their
+popular Castle Wolfenstein. We agree. TCOF
+is an underground fantasy adventure in
+which you work your way through a large
+maze to seek out and destroy the evil dragon
+Freitag. You can select from three different
+display modes. The three modes allow you to
+get a variety of overhead views: from close/
+detailed to far/plain. Other features include
+spells, increasing rank, selectable speed and
+level of play. Apple II.
+Nexa Corp.
+P.O. Box 26468
+San Francisco, CA 94126-6468
+CAPTAIN COSMO: An arcade game that
+has similarities to Defender but has the
+appearance of a children's game. Both the
+fiction and graphics of the game seem to be
+geared to youngsters. You as the good
+Captain must turn the grumpy Munchies into
+happy Smilies with your Somanizer ray.
+Spacey Stacey and Devious Dan attempt to
+thwart you. However the appearance of the
+game notwithstanding, at advanced levels
+CC is just as challenging as any arcade style
+game. Apple II. $35.00
+
+Penguin Software
+830 4th Ave.
+Geneva, IL 60134
+PIE-MAN: A "different" kind of arcade game.
+You are working in an automated bakery
+(we don't know why your job hasn't been
+automated). You must take the pies as they
+come out of the conveyor, put whipped
+cream and a cherry on them then take the
+finished pie to the pie bin. Sacks of flour,
+greasy floors, and tipsy wedding cake bakers
+make your job more difficult. Apple II. $19.95.
+Note: It is nice when companies add little
+extras to their products or packaging. In the
+case of Penguin Software, they take their
+mascot(s), penguin(s), and situate him/
+them in the artwork in a manner related to
+the game. In Pie-Man the penguins wear
+baker's hats.
+SPY'S DEMISE: A arcade game in which you,
+the spy, attempt to reach the top floor of the
+Russian diplomacy mission and capture an
+encoded message. Play involves crossing
+each floor while avoiding the guards. Each
+floor contains parts of the encoded message.
+When all parts are gathered you can crack
+the code and send the answer to Penguin. If
+you are the first person from a state of the
+U.S.A. or Canadian province, or other country
+to solve the puzzle you can win a Spy's
+Demise T-Shirt from Penguin. Apple II. $19.95.
+Note: The penguins are wearing "spy" coats.
+
+TRANSYLVANIA: A hi-res two-word adventure
+game in which you rescue your basic
+damsel-intr.Gphcsaewldon.ApI
+$19.95. Note: the penguin runs away from the
+haunted mansion, eyes covered in fear.
+Rena-Soft
+1070 Shary Circle
+Concord, CA 94518
+ARTESIANS: A four-level arcade game in
+which you attempt to steal water-filled jugs
+from the fourth floor ("it's the water" you
+know). The first level is a Pac-Man like maze.
+Level two involves crossing conveyer belts
+and walkways (Frogger). Level three involves
+negotiating moving gears and barrels
+(Donkey Kong). The fourth level is where you
+fill your jars. Apple II. $34.95
+
+Strategic Simulations
+883 Stierlin Rd. Bld, A-200
+Mountain View, CA 94043-1983
+GALACTIC ADVENTURES: A science fiction
+adventure game with spaceship and manto-man combat. Based on the Galactic
+Gladiators game, GA expands the scope of
+GG while providing the ability to design
+adventure campaigns for others to play.
+Apple II. $39.95
+
+Sierra On-Line
+36575 Mudge Ranch Rd.
+Coarsegold, CA 93614
+CROSSFIRE: The IBM PC version of the popular
+arcade/strategy game. You must destroy
+aliens before they destroy you as you make
+your way around the city streets. $29.95
+ULYSSES: The IBM PC version of Hi-Res
+Adventure #4. You are Ulysses in this twoword adventure game. You must retrieve the
+Golden Fleece. Two disks. Documentation is
+beautiful, $39.95
+Soft Images
+200 Route 17
+Mahwah, NJ 07430
+BLACK JACK STRATEGY: A totally new Black
+Jack program by Norman Wazaney Jr. This
+one is much more user oriented than
+BLACKJACK MASTER (TRS-80, see review in
+2.2). The program includes the game, a
+black jack tutor, and a simulator in which
+you can try out your strategies. The system
+provides step-by-step instructions to help
+raise the player's level of skill—without relying
+on card counting, Apple II. $69.95
+PANDEMONIUM: A word game for the Apple
+and TRS-80. The object of the game is to
+place twenty-five randomly generated let-
+
+ters onto a five-by-five playing board matrix
+in order to construct three, four, and five letter
+words. There are several game variations
+available. Any number from one to a full
+party can play. S39.95
+SINGLES' NIGHT AT MOLLY'S: Two solitaire
+card games make up SNAM. Royal Flush uses
+a 5x5 matrix and 25 randomly drawn cards.
+The object is to place the cards onto the
+matrix in such a way as to achieve the
+highest possible score. Sly Fox is a computer
+version of the 2 deck solitaire game which
+requires more skill than luck to win. Apple II.
+S29.95
+Sirius Software
+10364 Rockingham Dr.
+Sacramento, CA 95827
+FLIP OUT: A nice little strategy game in which
+a hi-res screen of gates open and close to
+trap or release marbles which must be made
+to fall to the bottom of the playing field. A
+mental challenge. There are nine different
+playing "fields". Apple II. Atari.
+WAVY NAVY: A Space Invaders type game in
+which your ship rides giant waves while trying
+to shoot down enemy aircraft. The wavy
+effect adds the challenge of varying the
+distance to the enemy aircraft. Underwater
+mines must also be avoided. Apple II. Atari.
+
+SubLOGIC Corp.
+713 Edgebrook Dr.
+Champaign, IL 61820
+NIGHT MISSION PINBALL: The Atari version of
+NMPB is now out. An 18pg. Adjustment
+Manual comes with the game to customize
+it to your liking. See micro-review in 3.1. S34.95
+
+THESEUS AND THE MINOTAUR: A 3-D full color
+maze game in which you must rescue the
+princess Ariadne. Not nearly as detailed as
+Wizardry but somewhat better for graphics.
+The creatures appear in the maze itself,
+rather than in a separate window. Apple II.
+
+Xerox Education Publications
+Computer Software Div.
+Middletown, CT 06457
+TSR Hobbies, Inc.
+P.O. Box 756
+Lake Geneva, WI 53147
+DAWN PATROL: DP has promise as a more
+detail flight/combat simulator in the tradition
+of SubLOGIC'S Flight Simulator and British Air
+Ace. However it takes time to learn the
+system and the upper wing is positioned
+realistically but annoyingly right across your
+forward line of sight. Apple II.
+DUNGEON: A computerized version of their
+popular board game of the same name. As
+a solo adventure forget it. As a multi-player
+game (up to eight can play) in which each
+player is vying for the same treasures,
+Dungeon is worthwhile. Good graphics and
+packaging. Apple II.
+
+OLD IRONSIDES: For some time now we have
+wanted to see a good "Fighting Sail" era
+naval game incorporating many of the
+elements of "Wooden Ships and Iron Men",
+Avalon Hill's award winning board game on
+fighting sail. Although Old Ironsides is not as
+detailed as the AH board game, it does an
+excellent job of recreating the "feel" of naval
+combat under sail power. The two ships each
+have six guns per side and six rounds of
+power. Guns can be eliminated. Powder is
+used up. Powder is replaced at a rate slower
+than you fire rate therefore you must keep an
+eye on your ammo. You can sail off in the fog
+and fire from it's safety. All-in-all a very good
+game of which we hope to share more in our
+next issue. Apple II. S39.95
+STICKYBEAR BOP: An animated shooting
+gallery of Stickybears, ducks, planets, balloons, etc. Each round requires more skill. Free
+posters and stickers. For ages 3 and up. Apple
+II. S39.95
+Mind Games, Inc.
+420 So. Beverly Dr., Suite 207
+Beverly Hills, CA 90212
+THE DESECRATION: A hi-res/text adventure
+game with a difference. Embedded in the
+game are three arcade game sequences.
+At certain points in the adventure you will be
+faced with an arcade game challenge. If
+you fail to survive the arcade sequence, you
+die and must start over. TD is the first in a
+planned series of games. Apple II. S37.95
+
+SOME READER COMMENTS
+Here are some answers you readers sent to us in
+response to recent questions on the READER INPUT
+DEVICES.
+
+THE MOST IMPORTANT OCCURRENCE IN
+COMPUTER GAMING IN 1982 WAS:
+
+WHAT WAS THE PRIME REASON YOU
+PURCHASED A PERSONAL COMPUTER?
+
+— The capture of the gaming market once
+dominated by Apple and TRS-80 by the Atari.
+— SSI's acknowledgement of Atari gamers and
+their expansion of their Atari line.
+
+The breakdown on this question from RID #5 was:
+Entertainment
+Business
+Education
+Programming
+Word Processing
+
+74%
+17%
+9%
+5%
+3%
+
+Several readers indicated two reasons why they
+bought a computer hence the responses totaled more
+than 100% by category. Those that picked two
+categories picked entertainment along with one of the
+other four.
+
+WHAT WAS THE SINGLE MOST IMPORTANT
+GAME RELEASE AND/OR OCCURRENCE IN
+THE COMPUTER GAMING HOBBY AND
+INDUSTRY IN 1982?
+This question, also from RID #5, brought a wide
+range of responses. Most of the respondents selected a
+game release as the most important game/event of
+the year. Topping the list of MOST IMPORTANT GAME
+RELEASES OF 1982 were: Guadalcanal Campaign (25
+votes); Choplifter! (12 votes); Wizardry (11 votes);
+Eastern Front (7 votes). Others that received votes as
+the "most important game release in 1982" were:
+Legionnaire; Galactic Gladiators; Southern Command;
+Pursuit of the Graf Spee; Napoleon's Campaigns 18131815; David's Midnight Magic, Time Zone, Ultima II, The
+Mark of the Sun, Cytron Masters, Aztec. Among those
+selecting a "Most important occurrence in computer
+gaming in 1982" there was a wide range of opinions.
+Here are some of those opinions:
+
+— Announcement of the improved Apple II
+coming out early in 1983.
+— That the news media awoke to the booming
+growth of the microcomputer and told the general
+public.
+— Introduction of strategy/action games which
+combine strategy and arcade action.
+
+DO YOU PREFER BUYING GAME PROGRAMS FROM DISCOUNT MAIL ORDER
+HOUSES OR FROM LOCAL RETAILERS?
+WHY?
+This question which was asked in RID #4 gained a
+lot of response. Everyone had an opinion on this one.
+Of those responding the breakdown was:
+Local Retailer
+58%
+Mail Order House
+38%
+Both
+4%
+The most common reason given for buying from the
+local retailer was the opportunity to preview the game.
+the most common reason given for buying from a mail
+order house was lower prices. The question of customer
+support was a toss-up. Some felt they got better
+support form the local dealer since he could often
+replace a product on the spot. Others thought that
+they got better support from the mail order house
+which knew more about the games and had a better
+selection from which to choose. Some said that they
+would like to buy from local retailers but because of
+Iocation (Alaska, Spain, etc.) were forced to shop
+through the mail.
+
+COMPUTER GAMES IN 1983: A Report
+Russell Sipe
+
+The Winter Consumer Electronics
+Show held recently in Las Vegas gave
+us a glimpse of what will be the trends
+in computers in 1983 and beyond.
+CES, which showcases consumer electronic products, covers much more
+than computers, but this particular
+edition of CES illuminated the fact
+that personal and home computers
+are the wave of the future in the
+electronics field.
+
+THE CHANGING
+MARKETPLACE
+Perhaps the most significant fact
+that CES revealed was that the line of
+demarcation between personal computers and home video systems has
+disappeared.
+Until very recently it had been safe
+to say that there were two types of
+machines which play computer
+games in the home. One of these
+being the home video machine
+(costing less than $300 and cartridgebased), represented by machines like
+the Atari VCS, Mattel Intellivision,
+Magnavox Odyssey, and ColecoVision. The other type machine one
+could play computer games on was
+the personal computer such as the
+Apple, Atari 400/800, IBM-PC, TRS-80
+etc..
+However with the introduction of
+the Vic-20 in 1982, the cost of
+computers coming down, and the
+functional power of the game
+machines increasing, we can no
+longer look at the field as two distinct
+entities. Manufacturers are now
+looking at the home electronic market
+more as a continuum which they can
+reach with three types of machines,
+the home video machine, the HOME
+
+computer, and the PERSONAL computer.
+The home computer is seen as a
+machine which IS a microcomputer
+much like the personal computer but
+is marketed for the family and
+designed to meet applications in the
+home rather than in business. For
+example, the Atari 400/800 is now
+seen as a home computer and the
+Apple computer is seen as a personal
+computer. The former costs less,
+emphasizes entertainment and other
+home related functions such as
+educational programs. Choosing this
+type of target and combining it with
+mass merchandising techniques has
+resulted in Atari by passing Apple.
+Game manufacturers, realizing this,
+have begun to change emphasis
+from the Apple to the Atari. While the
+Apple has been used by many as an
+entertainment device, its' main
+function is perceived to be as a
+business or professional machine. The
+IBM pc also falls into the personal
+computer category.
+According to David Blumstein,
+Executive V.P. of Softsel, a major
+software distribution company, the
+Apple is now on the decline as an
+entertainment machine in terms of
+market share. The manufacturers are
+looking instead to the mass market of
+the home computers such as the
+Atari 400/800, Commodore Vic-20,
+and TI 99/4A. Blumstein goes on to say
+that "the (game software) industry is
+following the marketplace and the
+marketplace is in the small home
+computers".
+"This is not to say that Apple is being
+abandoned", says Blumstein, "There
+will always be good Apple game
+products. In fact the Apple products
+
+should be of better quality in the
+future (due to the competition from
+the home computers)". The Apple
+games will become more and more
+strategic and cerebral oriented while
+the home computers will maintain
+the arcade orientation presently so
+popular. Arcade games will not
+disappear on the Apple but strategy
+and adventure games will dominate
+personal computer game software in
+the future speculates Blumstein.
+Jon Loveless, of Synapse Software
+which has several Atari 400/800
+programs on the market, also sees
+"thinking" games as the wave of the
+future. People are becoming dissatisfied with the hand-eye co-ordination game and are beginning to
+look for something more mental
+according to Loveless.
+Something of the same viewpoint
+can be seen in the thinking of Mattel
+Electronics. At the computers/games
+conference held at CES Richard Hoag
+of Mattel pointed out that Mattel will
+be putting emphasis on "user modifiable games". User modification is a
+feature found on many strategic
+games (e.g. the ability to select the
+forces and or strengths of each side in
+a military simulation).
+Another aspect of the changing
+computer game marketplace is the
+status of the individual game designer. One speculates about possible
+raiding of personal computer game
+companies by the big mass merchandising cartridge game manufacturers to find top game designing
+talent. At this point it has not been a
+problem, but what about the future.
+Doug Carlston of Broderbund Software
+feels that personal computer software
+houses such as Broderbund will always
+be able to be attractive to game des-
+
+igners not only because they pay well
+but also because designers working
+in or with personal computer software
+houses are an active part of the
+creative process, not just a cog in a
+corporate wheel. Carlston sees this
+creative relationship between the
+companies and the designers as a
+key reason that companies like
+Broderbund will be able to compete
+effectively with the mass market
+giants.
+
+No one has to be told that the
+market for computers and computer
+games grew enormously in 1982. In
+terms of computer games, entertainment software makes up 45% of the
+volume for home computer software
+and, according to Future Computing
+of Richardson Texas (a consulting
+group on computer marketing), that
+market share should grow to 58% by
+1987. The only other area that is
+expected to grow is educational
+software which now makes up 12% of
+the software but should command a
+21% share by 1987 (see chart).
+With the growth of the personal/
+home computer marketplace comes
+the growth in Number of products
+available. In recent days both Atari
+(Atari 1200) and Apple (Ile) have
+released new computers. While these
+two machines are more business
+oriented and fall into the personal:
+computer category, never-the-less
+they will bring more customers into
+the computer game marketplace.
+Mattel has announced the release
+of the Aquarius Home Computer
+System. Retail price for the basic unit
+will be under $200. Some of the more
+popular Mattel Intellivision games will
+be available for the Aquarius Home
+Computer.
+Mattel also plans to release a
+computer keyboard upgrade to their
+Intellivision game system and call the
+new system the Entertainment
+Computer System. It will, according to
+Gary Moskovitz, Mattel Marketing
+director, be "right between video
+games that compute and computers
+that play video games".
+The Sinclair and TI 99/2 computers
+are two low-cost entries that bear
+watching in the months ahead.
+If CES revealed nothing else, it
+revealed that computerized entertainment will be a major force in the
+1980's. There is in that marketplace a
+need for the game retailer who can
+offer computer game products and
+give the consumer expert advice in
+choosing where to spend his entertainment dollars.
+
+HIA REPORT
+Another show of importance to
+computer garners took place in January.
+The Hobby Industry Association of
+America (HIA) held it's annual convention and trade show in Anaheim
+during the last week of the month.
+One of the divisions of HIA is Adventure
+Gaming. The member companies of
+this division are major manufacturers
+of strategy board games as well as
+role-playing games. These companies
+produce most of the "Dungeons and
+Dragons" type games as well as nearly
+all the strategic and/or wargames
+that can be found in any game store.
+Avalon Hill has been one of the few
+companies in HIA that have also been
+producing computer games. Although not a member of HIA, SSI is
+another computer game manufacturer whose games are similar in
+subject matter to the type games
+produced by these board game and
+role playing game companies.
+While it is true that computer games
+have not been a major product of
+these companies, this year's HIA is
+significant in that many HIA/
+Adventure game members made it
+known that they are working on
+computer games. In 1983-1984 we
+will see many of these companies
+enter the computer game field with
+releases of personal computer games.
+EON PRODUCTS will be developing
+computer games for The Children's
+Computer Workshop. ColecoVision
+has licensed to do FLYING BUFFALO's
+role-playing ga, has released there
+first three games, Dungeon!, Dawn
+Patrol, and Theseus And The Minotaur
+(all for the Apple). DISCOVERY GAMES
+has a WWI air game for the TRS-80
+entitled Over There. In March they will
+release a game called Flying Tigers
+which places you inside the cockpit
+of a WWII fighter (Apple II). STEVE
+JACKSON GAMES is talking with
+companies about computer versions
+of some of their games. Nothing firm
+yet. TASK FORCE GAMES showed 16K
+computer versions of their board
+games Starfire!, Survival, The War of
+The Worlds, and Asteroid Zero-Four
+(all for the Atari 400/800). GAME
+DESIGNER'S WORKSHOP is working on
+an Apple version of their Asteroid
+game (not to be confused with the
+arcade game Asteroids). YAQUINTO
+GAMES is releasing computer versions
+of several of their board games:
+Timewar, Starfall, C.V., Panzer,
+Shooting Stars, Swashbuckler (not to
+be confused with DataMost's Swashbuckler - a totally different game),
+Attack of the Mutants, and Market
+Madness. These games will run on
+
+Apple, Atari, TRS-80, IBM-PC, Vic-20,
+and Commodore 64 (can you believe
+it?!). AVALON HILL GAME COMPANY
+demonstrated several new games at
+the show including The Alien, Gypsy,
+Flying Ace, Close Assault, Space
+Station Zulu, Facts in Five, and
+Fredricksburg. CYBER ENTERPRISES displayed the new disk version of their
+TRS-80 chess program, Cyberchess.
+The were three computer industry
+companies showing at HIA. In addition
+to COMPUTER GAMING WORLD,
+DATAMOST and RESTON SOFTWARE displayed their wares.
+All-in-all it looks like there will be
+many more companies producing
+strategy computer games in 1983.
+This is a plus for the hobby. However, a
+word of caution is in order. Successful
+board games sometimes make poor
+computer games. It will behoove
+designers and manufacturers to
+analyze what goes into a successful
+computer game and make sure that
+their games, whether translations of
+board games or original designs,
+contain sound computer game
+design elements (e.g. good human
+engineering and documentation,
+etcetera),
+
+COSMIC BALANCE:
+Tactics and Ship Design
+
+Cosmic Balance is possibly the
+best tactical space wargame available today. It has many positive
+features, such as the ability to design
+an infinite number of new ships,
+simultaneous movement and fire, a
+variety of weapons and equipment,
+intricate tactical possibilities, a very
+competitive subroutine for solitaire
+play, the "feel" of a good Startrek®
+episode, good graphics, optional
+combination with a new strategic
+game, and the speed and sophistication of machine language programming.
+Good tactics and ship design
+require a basic understanding of the
+available weapons and equipment.
+With this in mind, the manual proves
+to be very informative, and the
+summary of systems on the last page
+is very helpful.
+The tactical options in this game
+are numerous and complex. The
+following ideas are only an introductory guide. On the first turn you
+should check the mass of the opponent's ships. If his mass is greater
+than yours, then you should immediately try to disengage unless
+you have reason to believe that he
+has unarmed transports/or lower
+technology ships. Do not hesitate. If
+you decide to run, then RUN. If his
+speed is equal to or greater than
+yours, he has ten turns to overtake
+you before you can warp out. If he
+inflicts sufficient damage to your
+warp drive, your ship will explode if
+you try to warp out. You cannot risk
+even one reconnaissance pass because your first approach may be
+your last.
+
+Floyd Mathews
+
+On the first turn, if you discover
+that your mass is greater than the
+enemy fleet's, then you should press
+him closely and try to destroy as
+many ships as possible in the first ten
+turns before he warps out.
+
+he will move next, but you should
+try. You may be able to detect
+patterns in how he maneuvers
+which will enable you to predict his
+next move.
+
+If both fleets have about equal
+mass, then you should approach
+cautiously in an oblique or spiral
+course. If the enemy fleet begins
+inflicting more damage than you,
+he may have higher technology
+ships or better designed ships, and
+you should try to disengage immediately.
+
+In general, you should not move
+in straight lines too often; making it
+easier for the opponent to predict
+your next move. It is better to approach your target in a curving or
+spiral maneuver in order to keep
+him guessing, and also to hopefully
+trigger premature fire by him at
+long range if he has set his weapons to fire at the "last instant"
+command.
+
+If you have any ships that have
+mainly long range weapons, such as
+Ship A (see listing); they should ob-
+
+viously stand away from the enemy
+ships. However, if the range exceeds
+100, the computer's ships may automatically try to warp out in solitaire play after ten turns.
+If you have more than one ship
+with short range weapons, you
+should keep them in a close formation and try to gang up on a single
+enemy ship, preferably his smallest
+ship first. Once you select your
+target, it is probably best to stay
+close and continue firing at it, as
+your fire will become increasingly
+destructive as you wear down his
+shields. Additionally, you will probably get more victory points for
+destroying one ship than for partially
+damaging two and, in the new strategic game, there will be automatic
+free repairs for all damaged ships
+which escape.
+Carefully observe which shields
+the enemy is firing through, what
+types of weapons he fires, and
+whether his fire is more effective
+than yours at different ranges. If it
+appears that he has few weapons
+in certain areas, try to maneuver
+one or more ships in close on that
+arc. If your weapons are more effective at a certain range than his,
+then try to keep that minimum distance between your ships. If he is
+using weapons for which you have
+special defenses, such as belts, then
+be sure to keep your belts fully
+charged. All of this is easier said
+than done, as you don't know where
+
+You should try to plot courses
+which will bring you in close to the
+target and then back out to a safer
+distance all in the same turn. As you
+make your pass by the target, your
+short range weapons should be set
+on the "time point" command to
+blast him at the estimated shortest
+range, but do try to leave some
+margin for error in the angle of your
+approach, or your weapons may
+not be able to bear on the target. If
+you are successful in timing your fire
+at the shortest feasible range, and if
+his weapons shoot at longer range,
+you should be able to inflict substantially greater damage than you
+receive. Try to avoid ending the turn
+in a position close to his ship, as this
+might give him a free "cheap shot"
+at the start of the next turn.
+You should use the "time point"
+command to set your weapons to
+fire in several bursts on consecutive
+time points in order to inflict maximum damage, not all on the same
+time point. Each burst should be
+calculated to inflict about 40 damage factors in order to overwhelm
+any shield. After the shield is penetrated, if any damage factor strikes
+a layer of armor, all additional
+damage in that time point will be
+deflected. Therefore two bursts of 40
+damage factors each in two consecutive time points will probably
+be more destructive than one burst
+of 80 in one time point. Armor will
+deflect much of the damage from
+each burst, therefore it is better to
+have several smaller bursts than
+
+one large burst. As you begin to
+wear down his shields, you should
+try to reduce the size of each burst
+to 30 or less on a greater number of
+time points, as less damage will be
+needed to overwhelm his shields.
+The plasma torpedo is the only
+weapon which can destroy armor
+sectors, but it must be used at point
+blank range to be effective. If it is
+fired at long range, it will not inflict
+as many damage factors, or the
+target may simply turn away from it
+and outrun it. Ideally, you should try
+to time this weapon to fire at a
+range of five or less as the target is
+moving toward you, so that he will
+have less time to take evasive action. You should also try to launch
+one light seeker on the same turn
+as you fire the plasma torpedo so
+that the seeker will hopefully reduce
+his belt strength before the plasma
+impacts the target.
+If you are giving more damage
+than you are receiving, then press
+him closely so that he will not have
+time to recharge his shields or escape. However, if he succeeds in
+breaching one of your shields, you
+should try to withdraw temporarily
+to repair the shield before making
+another close pass. Try to keep the
+breached shield facing away from
+him until it is recharged.
+If an enemy ship takes a straight
+line course away from you, this probably means either you have critically injured him and he is trying to
+escape, or you have destroyed
+enough of his subwarp drives so
+that he can no longer maneuver at
+subwarp speed and is coasting
+away from you. Either way, you
+should immediately pursue and try
+to finish him off. If you observe that
+he has no weapons covering one of
+his four rearward facing arcs, then
+try to overtake him with a converging course approaching through
+that arc. It may be unchivalrous,
+but it is better to pound a cripple
+through a defenseless arc than to
+trade punches through his strong
+arcs.
+Your priorities for allocating your
+ship's power to its various systems
+will change as the tactical situation
+changes, but the following generalities should be useful in most situations. Electronic counter measures
+are a good investment of power,
+and you should always use them.
+Electronic counter-counter measures are also very effective. Speed
+and course changes should be your
+second priority for allocation of
+energy except at point blank
+
+ranges. At short ranges you should
+give priority to charging and firing
+weapons over recharging shields,
+but reverse this order of priority at
+long ranges. Draining shield batteries in order to obtain additional
+power to boost other equipment is
+not a good idea, unless this is your
+only way to charge all of your weapons at short range.
+The program's subroutine for solitaire play against the computer is
+very effective, and you can improve
+your own play by understanding
+how the computer "thinks". On
+each turn the computer first identifies which arc of each of its ships
+has the strongest combined value
+for both shields and weapons, and
+then plots a course which will hopefully turn that arc toward the closest
+player ship. Hence, if arc one or
+eight is the strongest, the computer's ship will fly directly toward the
+target. If arc four or five is the
+strongest, the computer's ship will
+fly directly away from the target. If
+arc two is the strongest, the computer's ship will spiral toward the
+target in a clockwise turn. If arc
+seven is the strongest, the computer's ship will spiral toward the
+target in a counterclockwise turn. If
+arc three or arc six is the strongest,
+the computer's ship will spiral away
+from the target in a clockwise or
+counterclockwise turn. If all arcs
+have equal strength, the computer
+arbitrarily selects arc eight as the
+strongest, and tries to turn that arc
+toward the target. If the range between the computer's ships and the
+player's ships exceeds 100, the
+computer's ships may try to warp
+out after ten turns. Be warned, the
+computer is very effective at predicting the target's course and timing fire at the closest range.
+The computer's priorities for allocating power to its systems are as
+follows: First, it charges multiple turn
+charge weapons such as disruptors
+and plasmas. Second, it charges
+electronic counter-counter measures, and third it charges belts.
+Fourth, it makes speed and course
+changes, and charges single turn
+charge weapons such as phasers.
+Fifth, it charges electronic counter
+measurers. Lastly, it charges transporters for boarding parties and
+recharges shields.
+
+The main idea about ship design
+is that there is no single perfect
+design. If you know the capabilities
+of the opposing ship or ships, you
+can probably create a special design which will be superior to that
+particular opponent. Therefore, you
+
+should always design your ships
+secretly and arrange to play against
+unknown ships in order to get the
+most challenging competition.
+The starship designs provided with
+this article are only introductory
+models, and each could be improved with modifications. Each
+ship is a large dreadnought designed for command by the computer in solitaire play against a
+human player, but you could of
+course use or modify these ships for
+use by a player.
+The major consideration in designing ships is the intended use of the
+ships. For the new strategic game, it
+will be important to develop new
+designs for large unarmed transports, fast commerce raiders, small
+unarmed scout ships, and cheap
+slow convoy escorts. But for the
+CGW starship design tournament,
+you should probably concentrate
+on single dreadnoughts for ship to
+ship combat. Under the tournament's 250 victory point ceiling for
+entries, a single dreadnought should
+have several advantages over an
+entry composed of several smaller
+ships. First, the single dreadnought
+will have more space for weapons
+and equipment than any entry
+composed of several smaller ships.
+Second, ships in multiple ship entry
+would have to duplicate the single
+dreadnought's costs for warp drive,
+armor, shields, subwarp drives, engines and belts. Third, the dreadnought's size should give it greater
+survivability than any smaller ship,
+therefore even if all the judges do
+well against a dreadnought entry,
+the dreadnought will at least have
+a better chance of escaping with a
+respectable score by warping out to
+safety after the tenth turn.
+
+Ship A is a fighter carrier which
+should be effective against any
+single ship with a small number of
+belts. It has no armor and high
+speed, just like a naval aircraft carrier, and has strong rear arcs so that
+it will spiral away from the opponent. Lacking armor and short
+range weapons, it depends on
+speed and distance to escape injury. This design may not be able to
+destroy another dreadnought before it warps out, but it has a good
+chance of running up a small positive victory point differential, which
+could be decisive under the CGW
+starship design tournament rules.
+Ship B is designed to transport
+boarding parties for capture of
+enemy ships. This type of ship could
+be a big winner in the CGW design
+tournament because you get extra
+
+victory points for capture of enemy
+ships. This design requires lots of
+engines and excess power because
+transportation of boarding parties is
+a very low priority in the program's
+solitaire play subroutine. The target's
+shields must be penetrated before
+marines can be beamed aboard.
+Although this ship is very slow and
+clumsy, it doesn't need much maneuverability because transporters
+have unlimited range and are
+omni-directional. The forward arcs
+have been made much stronger
+than the other arcs so that the
+
+COSMIC BALANCE
+STARSHIP DESIGN
+TOURNAMENT
+Computer Gaming World announces it's COSMIC BALANCE
+STARSHIP DESIGN TOURNAMENT.
+Design an unbeatable ship using
+Strategic Simulation's COSMIC
+BALANCE and you can win a
+free SSI game of your choice. All
+entries must be received by
+CGW by April 30, 1983, in accord
+with the following tournament
+rules:
+1. One entry per person. CGW
+reserves the right to publish descriptions of all entries. Your entry
+disk should be labelled with your
+name, address and telephone number. The disk envelop should be
+labelled with your name, address,
+phone number, either Apple or
+Atari, and each ship identified by a
+letter commencing with the letter
+
+computer will turn the ship toward
+the target in order to hopefully close
+to effective phaser range.
+Ships C, D and E are short range
+siege phaser dreadnoughts. Ship C
+has strong forward arcs and speed
+so that the computer will hopefully
+rush in close enough to increase
+the effectiveness of its short range
+weapons. Ship D has high speed
+and a strong arc two so that the
+computer will hopefully spiral in to
+increase the effectiveness of its
+phasers. Ship E is very slow, but it
+
+"A" for your first ship, along with
+tech level. Include return postage if
+you want your disk back.
+2. A panel of three or more judges
+will play each entry. Each judge will
+use a ship or ships consistent with
+the tournament rules. Your entry will
+be played by the computer at level
+two in solitaire play.
+3. Each entry must be worth no
+more than 250 victory points. Each
+game will be played on Scenario
+Five: Dogfight. There can be no
+more than four ships per entry. Each
+ship must have a range of one, and
+no ship can have a maximum
+speed greater than 32. No dreadnought can have more than 12
+drives.
+4. Each entry will play each judge
+once. The difference between the
+entry's and the judge's victory points
+will be recorded at the end of the
+game. Each entry's score differentials
+against all judges will be averaged.
+The entry with the highest average
+score differential will be declared
+the winner of the tournament.
+
+has omni-directional weapons so
+maneuverability is less important.
+This ship will not be able to run
+away, but it should inflict a lot of
+damage on any pursuer. Ship C
+also has a plasma torpedo, as it is
+the only design which the computer
+will probably be able to bring to
+point blank range where plasmas
+are most effective. The computer is
+usually ineffective in using plasma
+torpedoes, as it tends to fire them at
+long range.
+Continued on p.40
+
+5. After ten turns, if any entry
+warps out of retreats to a range of
+more than 100 from the judge's
+ships, and if the judge's ships do not
+pursue, then the entry will not receive
+full credit for any victory points
+recorded unless the entry suffered at
+least 25 percent damage; if the
+entry suffered less than 25 percent
+damage it will only receive half
+credit for any victory points recorded;
+if the entry suffered zero damage
+then it will receive zero credit for any
+victory points recorded. The purpose
+of this rule is to discourage ship
+designs which immediately retreat
+from the judge's ship or ships, because each game with such a
+design might last too long or might
+end in a stalemate if the judge
+decides not to pursue.
+6. Send entries to COMPUTER
+GAMING WORLD, P.O. Box 4566,
+Anaheim, CA 92803-4566. Mark your
+package "Anaheim Ship Design
+Contest"
+7. Winner will be announced in
+the July-Aug. 1983 issue.
+
+I
+
+ZORK!:
+An Overview
+
+David P. Stone
+
+cave creatures that make meals of
+adventurers when the lights go out.
+Also, Zork I is inhabited by a thief
+who is apt to pick a fight, pick your
+pockets, or both.
+
+BASIC INFORMATION
+NAME:
+
+Zork I, Zork II and
+Zork III
+TYPE:
+Adventures
+SYSTEM:
+Many
+FORMAT:
+Disk
+# PLAYERS: One
+AUTHORS:
+M. Blanc, T. Anderson.
+D. Lebling, B. Daniels
+PRICE:
+$39.95ea.
+PUBLISHER: INFOCOM
+
+The Zork trilogy is a series of three
+enjoyable, exciting-to-experience,
+text-oriented adventures. Unfortunately, describing an adventure,
+without revealing clues, is like trying
+to describe a treasure chest without
+saying exactly what's in it. You'll just
+have to believe me, Zork is filled
+with many valuable jewels, and
+forgive me if I inadvertently slip you
+a clue to solving one of its many,
+many mysteries.
+In ZORK I, The Great Underground
+Empire, you begin your adventure
+west of a great white house. From
+there you must explore and gain
+entrance to the underground
+empire. Points are gained by finding
+the twenty treasures and putting
+them into the trophy case. But, as
+you might expect, the treasures are
+not easily found, First, riddles must
+be answered, puzzles solved, and
+hazards (such as an axe wielding
+troll) overcome.
+The most common hazards are
+the grues. Grues are carnivorous
+
+In ZORK II, The Wizard of Frobozz,
+you begin in a Stone Barrow,
+already within the underground
+realm. You earn adventuring points
+by discovering treasures and by
+accomplishing difficult feats. As in
+Zork I, this usually means using the
+right objects in the right room in the
+right sequence. The consequence
+of failing to do so is death or
+frustration, or both. Zork II is
+inhabited by a prankster wizard
+who is obsessed with hexing you
+with spells that begin with the letter
+"F". Unlike the thief in Zork I, the
+wizard is more of a nuisance than
+an adversary.
+In ZORK III, The Dungeon Master,
+your goals are to discover treasures
+and solve puzzles such as how to
+successfully operate the machinery
+in the technology room. The
+documentation for Zork III states
+that "...your quest hinges upon
+discovering the secret purpose of
+the Dungeon Master who will
+oversee your ultimate triumph — or
+destruction — in the realm of Zork."
+These words have left this adventurer
+truly puzzled. I achieved the total
+potential score (seven out of seven),
+yet I did nothing to make that
+game description make sense. So,
+there may be even more to Zork III
+than I've discovered.
+Each adventure in the trilogy is
+different (and sold separately, by
+the way), yet each retains the same
+feel and flavor — like visiting three
+different towns in the same foreign
+country. Each adventure occurs at
+a definite point in time in the history
+of Zork. The adventures are pretty
+much independent, although I
+would recommend experiencing
+them in sequence.
+The original Zork was developed
+over five years ago on a DEC
+System-10, inspired by the Crowthers
+and Woods original adventure:
+Colossal Cave. Zork I and II are
+based directly on the original Zork
+
+(with only a few changes and a few
+new predicaments). Zork III is, as far
+as I can tell, entirely new. More
+details on the history of the
+program's development can be
+found in these articles by the
+game's authors: "IEEEE Computer",
+April 1979, and "byte", December
+1980. (Good reading if you're into
+adventure software design.)
+Many features, besides its longevity and years of play-testing, come
+together to make Zork great.
+However, the one feature that
+makes it truly superior is its userfriendliness. Most of the userfriendliness can be attributed
+directly to the parser. A parser is the
+portion of an adventure computer
+program that analyzes your input
+and, if well done, responds appropriately. What this means to the
+adventurer, is that Zork allows you
+to enter commands not only as
+complete sentences, but as very
+complex complete sentences. For
+example:
+TELL THE ROBOT "PUSH THE TRIANGULAR AND THE SQUARE BUTTON."
+In other adventures, I sometimes
+knew what I wanted to do, but had
+to experiment with different combinations of two word (verb/subject)
+input to overcome the program's
+limitations. Not so with Zork. Virtually
+every one of my commands was
+understood.
+To add to its adventurer-friendliness, Zork tries harder than any
+other adventure I've ever seen to do
+what is commanded. Consider this
+exchange (Zork's replies are in
+parenthesis):
+OPEN THE DOOR
+(Which door do you mean?)
+TRAP
+(Done.)
+Notice that Zork discriminates
+between like objects (in this case,
+different doors) in the same
+location, and a single word of input
+is all it takes to get you going again.
+If Zork makes an assumption
+about your command, it lets you
+know:
+
+OFFER WATER
+(To the Troll)
+Adventuring is further facilitated
+by Zork's ability to recognize
+abbreviations and to accept
+multiple commands by recognizing
+commas, conjunctions (such as
+"and" and "but"), and periods. So,
+this command is valid:
+N.NE.SE.DROP ALL BUT LAMP
+ZORK recognizes the above
+abbreviations (for compass directions) and carries out your command. You can even ask "WHERE"
+and "WHAT" questions!
+WHERE IS THE LAMP
+(You are carrying it.)
+Even though the Zork parser is
+state of the art, its not definitive.
+Due to space limitations, Zork
+
+sometimes does not recognize
+words that it uses in its colorful,
+detailed room descriptions. This is
+true despite the fact it does
+recognize over 600 nouns and 100
+verbs.
+As I mentioned above, Zork is all
+text—that means no graphics. None
+are needed. The authors have not
+skimped on the vividly detailed
+descriptions of each location;
+descriptions to which not even Atari
+graphics could do complete justice.
+For example:
+SOUTH
+Great Cavern
+This is the center of the great
+cavern. A great room of
+flowing color has been carved
+out of the limestone.
+Stalactites and stalagmites of
+
+many sizes are everywhere.
+The room glows with dim light
+provided by phosphorescent
+moss, and weird shadows
+move all around you. A narrow
+path winds among the stalagmites. There are many little
+trails leading in here and
+there, but a good one leads
+southwest toward the edge of
+the room, and another leads
+northwest.
+These eloquent descriptions give
+their readers a real sense of the
+place. However, they are more than
+just flowery verbiage that takes up
+disk space. Often, clues to solving
+the mysteries of Zork are cleverly
+embedded in the prose.
+Zork is like most other adventures
+in that it consists of many episodic
+plots (one episode, for example,
+being to acquire a particular
+treasure). You must do the routine
+things that all adventurers do: fight
+foes, explore room, find objects, and
+piece them together to solve
+puzzles that yield treasures (or
+points). As always, objects are
+seldom useful in the same room in
+which they are found (for example,
+don't count on finding a locked
+chest and a key that fits in the
+same room.) Usually the obstacles
+or riddles can be solved by logic or
+common-sense (like finding keys to
+doors). Occasionally, they are
+not-so-logical (like rubbing things not
+ordinarily rubbed).
+The mechanics of testing your
+hypotheses about how to use
+objects or get past obstacles is
+nicely done. For starter, the Zork
+screen display is straight-forward.
+The text scrolls up (and off) and the
+top line displays your status: location
+( by room name), score, and
+number of turns taken. You always
+know where to look — either at the
+very top or the very bottom of the
+screen.
+There are a host of special oneword commands to simplify and
+facilitate your adventuring (wouldbe adventure software designers
+take note). For getting into and out
+of the adventure there's QUIT, REContinued on p.46
+
+Allen Doum
+
+THE ATARI ARENA
+BASIC INFORMATION
+NAME:
+Alien Garden
+TYPE:
+Arcade/Memory Game
+SYSTEM:
+Atari (400 or 800)
+# PLAYERS: 1
+Bernie DeKoven and
+AUTHOR:
+Jaron Lanier
+BASIC INFORMATION
+NAME:
+Plattermania
+Childrens Game
+TYPE:
+# PLAYERS: 1 to 4
+Micheal Rarren and
+AUTHOR:
+Bernie DeKoven
+BASIC INFORMATION
+Monster Maze
+NAME:
+TYPE:
+Maze Arcade Game
+# PLAYERS: 1
+AUTHOR:
+Robert A. Schilling
+ALL: SYSTEM: Atari (400 or 800)
+PRICE:
+$39.95
+PUBLISHER: EPYX (Automated
+Simulations, Inc.)
+Sunnyvale, CA
+Not every Atari owner has a disk
+drive. Not every Atari owner has a
+tape drive. But we all have cartridge
+slots. This is one of the reasons that
+software publishers are, and will be,
+producing more games in cartridge
+format. But there is another reason
+that is more interesting for computer
+garners.
+Last year twice as many 400's
+were sold than 800's. That means if
+a software publisher produces a
+game that requires more than 16K
+RAM, he limits himself to about one
+third of his potential market (plus
+those people who have upgraded
+their 400's, of course). Not all of that
+16K is available for the programmer's use, however. Hardware
+and operating system overhead
+requires memory; so do screens
+and/or custom character sets. While
+several very good games will fit into
+16K, there are many that do not,
+Disk or cassette storage can only
+partly provide relief, Cassettes aren't
+random access, and even disk I/O
+time will take the pizazz out of an
+arcade game.
+Cartridges become the great
+compromise. With up to 16K ROM
+
+added to the system with a
+cartridge, the amount of programmer usable memory is more
+than doubled. (Cartridge memory
+overlays RAM if you have at least
+40K. 8K cartridges only overlay the
+last 8K of a 48K system.) That means
+that games that require 32K for a
+disk version, may require only 16K
+for the cartridge version.
+The drawback is that cartridges
+are more expensive to manufacture
+than disks or cassettes, so the prices
+will be generally higher. Even so,
+1983 is likely to be "The Year of the
+Cartridge". The larger market open
+to cartridge games means that
+there may soon be a glut of new
+cartridge titles.
+Alien Garden is the first of three
+new cartridges from EPYX. In this
+game the player moves a "cosmic
+critter" through a garden of 24
+flowers. At first all of the flowers are
+identical, but when the "critter's"
+mouth, wings, or stinger touches a
+flower, the flower will react in one of
+three ways:
+1. The flower may grow.
+2. The flower may "mutate" to
+the next generation of flower.
+3. The flower may explode, eliminating that part of the critter.
+The garden constantly scrolls
+vertically, reversing direction at the
+ends, or when any of the above
+reactions take place. If the player
+loses his mouth, the game ends. The
+wings and stinger will regenerate
+any time a new generation is
+introduced. The critter's mouth can
+eat the flower. If this happens the
+player scores one point for each
+part of the flower eaten, times the
+number of different generations in
+the garden.
+While the patterns caused by
+"growth" are nicely done, the rest of
+the graphics are poor. What is
+particularly disappointing is the
+lack of color. Graphics zero (0) is
+used, with white on a black
+background. Some of the flowers
+are green or purple thru "artifacting". However, only four flowers
+can be on the same horizontal line.
+That means, if graphics one (1) or
+
+two (2) had been used instead,
+each generation could have been
+displayed using a different color.
+The critter is displayed using
+player/missile graphics, and since
+these have their own color registers,
+the critter didn't have to also be
+white; but it is.
+Alien Garden seems to be best
+categorized as a combination of
+arcade and memory games, although there is no way to adjust
+either the difficulty or the speed of
+play.
+Plattermania is based on the
+juggler's routine of balancing
+spinning plates on top of poles. At
+each level the players (up to four,
+taking turns) must keep spinning an
+increasing number of plates for at
+least eight seconds. Bonus points
+are awarded for more plates or
+more time. The player controls a
+clown that slides back and forth,
+starting or spinning the plates with
+a touch of the action button. Any
+
+plate that falls before the goal is
+reached counts against a supply of
+plates. When that supply is gone,
+the game is over.
+During each round the number of
+plates left is displayed, the goal
+appearing during the interludes,
+which are nearly as long as the
+rounds of play. Since the same
+circus tune plays during each
+interlude, with no way to turn it off,
+this game seems aimed at children,
+but the children who played it for us
+got bored nearly as fast as the
+adults.
+Monster Maze uses a somewhat
+familiar theme. The player (one
+only) wanders through a maze
+picking up gold bars that lie almost
+everywhere. There are monsters
+chasing you, but if you get one of
+the vitamin pills that are laying
+about, you can destroy them.
+
+There are three major differences
+between Monster Maze and
+
+(surprise!) Pac-Man. First, the maze
+has 16 levels. Holes in the floor of
+one level, will drop the player, or
+monsters, down to the next. Second,
+the game is played from a point of
+view inside the maze. It is not strictly
+animated, as you jump to the next
+space. You can get an overhead
+view, but may not move while doing
+so. Third, the graphics are terrible.
+This game will also be available on
+the TRS-80, with no changes
+necessary in the maze graphics
+except background color. (The
+monsters in the Atari version use
+player graphics, and there are some
+sound effects.)
+The speed of play is slow, even at
+the higher difficulty settings, and
+the monsters move more quickly
+while the player is moving than
+they do while he is standing still.
+In all three of these games the
+ideas seem undeveloped and the
+implementation amateurish. Alien
+Continued on p.40
+
+ULTIMA II: A Review
+
+before Mondain was rubbed-out he
+had been training an apprentice. The rumor continues by stating
+that this apprentice has grown even
+more powerful than Mondain and
+that the new evil spreading throughout the land is the result of this force.
+Your quest is to find and destroy
+MINAX, enchantress of evil, apprentice of Mondain.
+
+IN THE BEGINNING
+
+Ultima II
+TYPE:
+Fantasy
+SYSTEM:
+Apple II
+FORMAT:
+Diskette
+# PLAYERS: One
+AUTHOR:
+Lord British
+NAME:
+
+PRICE:
+PUBLISHER:
+
+$59.95
+
+Sierra On-line
+
+You can stop holding your breath,
+ULTIMA II has finally arrived. Lord
+British's sequel to ULTIMA continues
+the saga with enhanced detail and
+a larger universe.
+This is an adventure across time
+and space that takes you from threedimensional dungeons deep in the
+ground through time doors to the
+future and interplanetary trips
+throughout our solar system, plus
+more!
+This colorful hi-res program has
+you traveling across a scrolling
+landscape of grasslands, mountains,
+and oceans with constantly moving
+waves.
+The game resides on two disks with
+three sides of data. Along with the
+instruction book there is a cloth map
+of the world showing the approximate locations of the time doors. It is
+wise to read the instructions carefully.
+
+THE QUEST
+In Ultima I your quest was to
+destroy the archevil Mondain. At
+the time of his demise you might have
+thought that the adventure was
+finished. However, rumors have been
+spreading, and it is believed that
+
+As in ULTIMA, you must create your
+character and play the game on a
+separate play disk; you only use the
+master disks for booting and going in
+to space. This does save wear and
+tear on the original disks.
+To create your character you must
+distribute 90 points between the five
+attributes (strength, agility, charisma, wisdom, and intelligence),
+choose your sex, class, and profession.
+In distributing points for attributes I
+concentrated on giving the most to
+agility and intelligence, recognizing
+that each attribute must have a
+minimum of 10 points. Agility is your
+skill at wielding a weapon and I
+wanted to be able to use the
+deadliest weapon as soon as I could.
+Intelligence increases your skills in
+bargaining and, more important, in
+the casting of spells. You learn
+quickly in the dungeons and towers
+how important this ability can be.
+Strength determines the damage
+you can inflict on a foe in a fight.
+Stamina reflects your ability to
+defend against attack. Charisma
+governs your success in bargaining
+with merchants and Wisdom is what
+you need to cast spells successfully.
+Once you begin play you will be
+able to increase your attributes as
+high as ninety-nine. This is not as
+easy as it sounds, nor is it inexpensive.
+In your choice of sex (sorry folks,
+only male and female is available)
+you can increase certain attributes.
+A male character will increase your
+strength by ten and a female will
+increase your charisma by ten.
+You then pick between five races
+and four professions: human, elven,
+
+James A. McPherson
+
+dwarven, hobbit and fighter, cleric,
+wizard, thief. Each of these adds
+points to certain attributes.
+There are also magic spells
+available to clerics and wizards. You
+have nine spells in three categories:
+Spells both Clerics and Wizards
+can use:
+1. Light—creates magical illumination
+2. Ladder down—teleports you down
+one level in a tower or dungeon
+3. Ladder up—teleports you straight
+up one level in a tower or
+dungeon
+Cleric's Spells:
+4. Passwall—destroys the wall in
+front of you
+5. Surface—teleports you immediately to the surface
+6. Prayer—calls for divine intervention to destroy your foe
+Wizard's Spells:
+7. Magic Missile—offensive magic
+weapon
+8. Blink—randomly teleports you
+anywhere on the same level
+9. Kill—attempts to obliterate your
+foe by magic
+These spells are purchased in
+stores and can only be used in
+dungeons and towers. They are for
+killing and teleporting.
+When your character is complete
+you are ready to explore Ultima II.
+
+THE WORLD OF ULTIMA II
+There are five time periods in
+Ultima II connected by time doors
+that appear off and on throughout
+the game. In order to be confident
+of your whereabouts these time
+doors should be mapped, which you
+can do with the aid of the cloth time
+map provided.
+The time periods range from the
+predawn legends era to the postapocalyptic A.D. 2112. Each period
+has unique locations and inhabitants to help or hinder you in your
+quest. You must talk or as they call it
+"transact" with everyone in the
+game otherwise you will miss some
+important clues, clues that are
+required to finish your quest. You
+may even meet someone you know.
+Continued on p.45
+
+LATCH ONTO THE BULL:
+The "Bear" Facts About MILLIONAIRE!
+Johnny L. Wilson
+net worth and status of up to 14
+players, the prodigious amount of
+data involved in each different
+market environment means that
+only one game can be saved at a
+time. This is not clearly stated in the
+original manual, but will be cleared
+up by a new manual which is now
+in preparation.
+
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+
+Millionaire
+Investment Strategy
+Apple, Atari 400/800,
+IBM PC, Osborne
+and other CP/M systems
+FORMAT:
+Disk
+# PLAYERS: 1
+PRICE:
+$79.95 to $99.95
+PUBLISHER: Blue Chip Software
+Woodland Hills, CA
+
+Ever notice how many books there
+are about How to get rich in the
+stock market? Ever wonder why
+someone who had really gotten
+rich on the market needed to write
+a book? I know I have. I'm also glad
+that Jim Zuber didn't write a book.
+He took his experience on the stock
+market and used it to create a
+useful instrument with which to
+educate and entertain. MILLIONAIRE
+doesn't pretend to offer an esoteric
+system for making one's fortune, but
+it does have a marvelous capacity
+for introducing one to the basic
+mechanisms of the stock market. It
+doesn't offer the spurious potential
+of making a killing on the market
+that some fictionalized simulations
+do, nor the exotic gimmicks like
+selling short (see UNFAIR CRITICISM).
+It does, however, offer the user a
+chance to improve his/her investment sense through experience and
+increased options at each level of
+expertise. MILLIONAIRE is an exciting
+game, but its availability for
+business-oriented computers
+suggests its potential as a teaching
+tool, as well.
+
+MILLIONAIRE enables one player
+to buy and sell fifteen different
+recognizable stocks in five different
+industry groups over the course of
+seventy-seven weeks of transactions.
+The computer creates ninety-one
+weeks of stock market environment
+and reveals thirteen weeks of history
+before the player is allowed to
+begin purchasing securities. Each
+week (game turn), the player will
+receive four basic tables of data
+prior to the "command mode"
+(where the player may research,
+buy or sell). These are: 1) Stock
+Market Graph (showing the overall
+market trend); 2) Industry Group
+Graph (one graph from one of the
+five groups, each week); 3) News
+(earnings reports, volume
+indications, industry trends,
+company announcements and
+news which may affect business);
+and 4) Market Report (changes in
+prices, high and lows, and average
+share changes on the market.
+After this sequence, the player is
+free to do research (examine
+graphs of individual stocks or industry groups, review news reports,
+or peruse his portfolio); start a
+transaction (buy, sell or borrow);
+advance to the next week; or save
+the game. IMPORTANT NOTE ON
+SAVING THE GAME: though the
+program is capable of retaining the
+
+Each player begins play with
+$10,000 as a Novice and seeks to
+increase his net worth to the levels
+of $12,000 (Investor), $18,000
+(Speculator), $40,000 (Professional),
+$100,000 (Broker) and, of course
+$1,000,00 (Millionaire). Each plateau
+adds new variables of strategy. For
+example, an Investor is able to buy
+on margin (borrow a percentage of
+the total purchase price of your
+stocks), while a Novice works on a
+strict cash basis. Once a player has
+achieved a net worth and status,
+the computer keeps it on record
+and the next game begins from
+that net worth. This enables up to 14
+players to "compete" over a long
+period of time.
+
+SYSTEM DEFINITION
+(see CGW 2.5, p. 35)
+In creating the simulation, the
+designer studied years of financial
+journals in order to determine the
+relationship of earnings, volume,
+news announcements, general and
+industry trends to specific stocks.
+The fifteen stocks were selected on
+the basis of their more or less typical
+behavior. In general, the research
+showed that there are three basic
+variables which work together at an
+approximately equivalent weight.
+These are: 1) the overall stock
+market picture (Bear -, Bull +, or
+Mixed); 2) the industry group
+(growth, glamor, stable or
+depreciating); and 3) the stock
+itself (sound corporate management and policy, growth potential,
+solid marketing base and reasonable research and development).
+The documentation noted that
+earnings reports are often discounted (Wall Street-ese for
+"ignored") and that volume can
+indicate either big gains or big
+
+losses. Therefore, the change
+probabilities are based on the three
+major indicators noted above.
+There are, according to the
+designer, approximately 1521
+possible combinations of stock
+prices alone and an equivalent
+number of possibilities for the
+general market and industry trends,
+as well. The fact that these
+probabilities influence each other
+indicates a very satisfying "continuous" probability system as
+opposed to the strict "discrete"
+probability of boardgames and less
+sophisticated programs (see CGW
+2.6, p. 16 for further information).
+This enables the player to use
+
+realistic strategies in playing the
+game.
+
+STRATEGY NOTES
+Pay attention to news! Every news
+event has effect on a given stock
+and often on an entire industry
+group. for example, a technology
+innovation by IBM will usually
+indicate a swift rise in IBM prices for
+the next week or two and often has
+a derivative effect on CONTROL
+DATA and NCR, as well. In my
+games, hard times for BENDIX (Auto
+Industry Group) is a significant
+signal for me to unload GENERAL
+MOTORS or AMERICAN MOTORS, as
+well.
+
+Pay attention to trends! Since the
+trends of the market in general,
+industry group and stock in particular are given equivalent weight
+in the probability matrix, it is highly
+unlikely that a stock will rise when its
+own industry group and the market
+in general are declining. I can testify
+that this is a realistic feature, having
+owned hotel stock during the 1974'75 Bear Market due to the Arab Oil
+Embargo. My company had increased earnings and real growth
+and expansion, but couldn't buck
+the trends.
+Discount earnings! Very rarely
+does an earnings report cause a
+significant change in the real stock
+
+market. This is, perhaps, because
+there are numerous ways to "hide"
+actual earnings in corporate expansion, depreciation, new acquisitions and tax shelters. Therefore,
+very rarely do they affect the stocks
+within the parameters of the game.
+Dollar cost average! In spite of
+the obvious educational opportunities to be gleaned from this
+program, it is, after all, also a game.
+Now, whereas I might want to sit out
+of the real market for a time, I
+usually want to get into a game as
+fast as I can. That can be fatal in
+MILLIONAIRE, because it faithfully
+creates some realistic Bear markets,
+What can be done?
+One strategy is dollar cost averaging. This means to buy stock in
+small quantities on a regular basis
+instead of one large quantity all at
+once. Many people eschew this
+strategy because you have more
+brokerage fees, but it is successfully
+used in real life by small investors
+through the New York Stock Exchange's Monthly Investment Program (MIP). The theory is that 100
+shares of stock at $10 each needs
+to appreciate $2 per share for the
+investor to make 20% on the
+investment. However, 200 shares of
+stock at $5 each only needs to
+appreciate $1 per share for me to
+make 20% on my investment.
+How does that help me make
+money during a bear market? First, I
+select what I believe to be a sound
+stock (for example, EXXON). I buy
+10 shares of EXXON at $60 per share
+($600 invested) and it starts to go
+down in price. Some weeks later, I
+spend $600 more to buy EXXON at
+$40 per share. I now have 25 shares
+and have spent $1200 (plus commissions of course). If I had just held
+on to the first 10 shares, the price
+would have to reach $66 per share
+for me to make 10%. However, by
+buying on the down trend, my
+average cost on 25 shares is $48 per
+share and the stock only needs to
+recover to $52.80 instead of $66 in
+order for me to make 10%. I keep
+buying the stock at regular intervals
+and bring the break-even point
+down. This way, I can be in the
+
+market without worrying about
+whether it has actually hit bottom
+or not. This enables me to "play" the
+market on the downside while
+continually minimizing my risk
+(assuming the stock is sound
+enough to ever actually recover).
+The "dollar cost averager" won't
+make phenomenal amounts of
+money, but if he selects sound
+investments, he should make
+consistent profits.
+Be careful with options! When a
+player reaches the level of Speculator ($18,000), he is eligible to use
+CALL options. A CALL option anticipates a significant rise in a stock, so
+it provides for the investor to be
+able to purchase the stock at a
+slightly higher price (the STRIKING
+price) at a later date. This assumes
+that there will be a much higher
+purchase price on the stock at the
+later date and thus, the investor
+makes money on the difference in
+value. Since options are much less
+expensive than stock, the investor
+stands to make significantly more
+money if he is correct than he would
+with the full purchase price of the
+stock at stake. When a player
+reaches the Professional ($40,000),
+he may use PUT options. A PUT
+option anticipates a significant
+decline in the stock, so it provides
+for selling the stock at a slightly
+lower price (the STRIKING price). This
+means that the difference between
+the much lower price and the
+slightly lower STRIKING price (if the
+investor is correct) is the potential
+profit.
+Since options are a time valued
+mechanism, recognize that values
+of options usually drop as they near
+their expiration dates. This means, of
+course, that one should only invest
+in options on stocks where there is
+an expectation of significant
+fluctuation in the relatively near
+future. For example, it would be
+foolish to be hedging against a
+Bear market using "dollar cost
+averaging" and then invest in CALL
+Options on the same or related
+stock. As the manual notes, it is
+possible to see the stock make a
+moderate gain and still have the
+player lose money on the option
+
+because the expiration date is so
+near.
+
+UNFAIR CRITICISM
+It has been suggested by some
+gamers experience with the other
+"stock market games now on the
+market, that the game suffers from
+a missing mechanism. Many who
+are new to the strategies of
+investments are disappointed because the possibility of "selling
+short" is not available in the
+simulation. This is undoubtedly
+because "selling short" (selling stock
+on credit that you don't actually
+have) is an exotic strategy which
+depends on a very hefty line of
+credit. It seems superfluous to a
+market which has PUT options. If the
+investor feels a stock is headed for a
+certain decline, he stands to make
+much more money by playing the
+less expensive PUT options (which
+enables him to option for more total
+shares) than taking the riverboat
+gamble of "selling short" on the
+expensive market value of stock
+itself.
+
+WISHFUL THINKING
+DEPARTMENT
+Because of the enormous amount
+of data to be saved for each game
+environment and the problem with
+saving more than one game, I wish
+that the program allowed for saving
+onto a separate disk, similar to
+several other programs. This would
+make wonderful use of the potential
+for 14 players to use the program
+and compete against each other
+on a continuous basis.
+I also wish that more than one
+player could buy and sell in the
+same market. My profits and high
+score in a Bull market may be very
+poor compared to a friend's
+moderate gains and relatively low
+score in a bear market. The only
+way we can actually compete is to
+work in the same "game time"
+frame. I realize this would probably
+entail using both a game disk and
+data disk, but it would be worth it.
+Continued on p.40
+
+ROBOTWAR: Tournament Results
+
+possible situations in which his robot
+might find itself and program accordingly, making the game great for
+learning computer logic. Most robotwar designs are the end product of
+months of refinements.
+
+THE ROBOTS
+ARC MAN — entered by Bill Logsdon
+of Tulsa, OK. Arc Man travels in a wide
+clockwise circle, varying his right hand
+turns according to the distance from
+the walls. Arc Man uses a vector
+movement routine based on "a two
+term Taylor's approximation of the
+sine function".
+Anaheim (CGW) — The people
+here at COMPUTER GAMING WORLD
+are still buzzing over the recently held
+CGW ROBOTWAR TOURNAMENT in
+which, as Howard Cosell would say,
+"Armored automatons of Armageddon reduced each other to piles of
+robotic refuse, fit only for recycling."
+Twelve quarrelsome cybernetic
+competitors were entered in the
+competition (along with 3 fill-in
+robots). In an exciting contest
+DRAGON, by Doug Hogg of Los
+Angeles, rolled away as the big
+winner.
+The competition was fierce with the
+pre-tournament favorite, NORDEN B,
+finishing third. NORDEN B, an improved
+version of NORDEN+ who won last
+year's tournament was tied for the
+lead after the round robin but was
+held at bay in the finals by the likes of
+DRAGON, CORNER, and HOT ROD.
+Three robots which came with
+Robotwar, by Muse Software, were
+used as fill-ins or "shills".
+THE GAME
+Robotwar, by Muse Software, is a
+game in which players design robots
+using a special robotwar computer
+language not unlike BASIC. Once the
+robots are designed and tested they
+are put up against one another in
+battle. As many as five robots can be
+on the battlefield at one time, moving,
+searching for one another, and firing
+their cannon when they see an enemy
+robot (all other robots are enemies).
+Once a robot is on the battlefield the
+player/designer has no control over
+the actions of his creation. He must
+anticipate, in the design stage, the
+
+AROUND — another entry by Bill
+Logsdon. Around goes around the
+outer perimeter of the arena in a
+counter-clockwise manner. In effect it
+becomes a bottom robot, then a side,
+then a top, etc.
+BOTTOM — A fill in robot from the
+original game. Bottom goes to the
+bottom of the playing field then travels
+back and forth scanning upward and
+firing at any robots he sees.
+CORNER — entered by David A.
+Jones of Tulsa, OK. Corner heads for a
+corner position (usually the upper
+left) and, in that tuck position, can
+maximize his scan and firepower by
+reducing the area to be covered to a
+90 degree arch. When damaged,
+Corner steps out of the corner
+momentarily to minimize damage
+from repeat fire. Corner watches
+closely for "edge" robots making their
+way toward him (the bane of any
+corner-type robot).
+DIAMOND — Another Bill Logsdon
+entry. Diamond remains stationary
+until damaged. When hit he high-tails
+it to another wall at an angle with the
+overall pattern looking like a diamond.
+He has a high speed tracking routine
+that can destroy center moving
+robots.
+GRAVE — entered by Robert Hogg
+(Doug Hogg's 8 year old son who
+programmed it himself, although
+Doug wrote down some code for
+him). Grave goes back and forth
+across the top firing downward. He
+will stop when he sees a side robot
+directly below him and fires continually until the other robot moves or
+dies.
+
+DRAGON — the tournament winner
+by Doug Hogg of Los Angeles, circles
+the screen just off the edge efficiently
+strafing robots along the side. He will
+also, in some situations scan into the
+middle and attack center-type robots.
+The secret in Robotwar is to survive.
+Points are awarded for surviving rather
+than for killing. If a robot can avoid
+getting damaged he will win regardless of whether he inflicts a great deal
+of damage (let the other guys slug it
+out, I'll just stay here out of the way
+and win). This design philosophy has
+a flaw however. Obviously some firepower is needed, for eventually only
+two robots will be left in a battle. A
+passive robot is then doomed. Dragon
+is a robot that is designed to minimize
+damage. And, even though his firepower is not as effective as NORDEN B,
+or CORNER, he does pack enough
+punch to take out an opponent. His
+pattern, just off the edge makes him
+less likely to be damaged. He won't
+collide with the edge and corner
+robots, and is far enough from the
+center to avoid direct run-ins with
+center robots.
+HOT ROD — A bottom robot that
+travels left and right shooting upward
+even if no target is detected. It checks
+both to the right and left for other
+bottom robots and will fire at same
+until death of one or the other. The
+random shots are more effective than
+one might expect. When a robot is
+spotted fire is very accurate.
+Hot Rod was entered by Frank
+Krogh of Los Angeles, Cal.
+JAWS — Another entry by 8 year old
+Robert Hogg. Jaws makes his way to
+the bottom center of the field. Where
+he is effective in hitting center robots
+such as Norden.
+MOVER — A fill-in robot that moves
+when he is hit, It search 360 degrees.
+NORDEN B — entered by Richard
+Fowell of Palos Verdes Estates. A
+refined version of last year's winner,
+NORDEN+; Norden B has a very
+effective tracking algorithm and is
+impressive at hitting robots while
+moving a high speeds. Norden B waits
+a short time to allow side and corner
+robots to clear the center then begins
+an elliptical movement pattern that
+changes when hit.
+
+RANDOM — Another fill-in robot.
+Random moves in a random fashion
+firing if he sees another robot.
+THOR II — entered by David
+Meredith of Merrimack, NH. Thor II is
+corner robot who heads for the nearest
+corner. He often lost on slug-outs with
+"Corner".
+WILDMAN — entered by Neal Buck
+of Tulsa, OK. The editor's favorite (for
+it's colorful nature, certainly not for it's
+ability to win). Wildman is a 100%
+offensive robot (his victims certainly
+thought he was offensive). When he
+spots another robot he charges pellmell after it firing all the way. Robots
+on the move could escape his
+tracking about two thirds of the the
+time, but the other one third of the
+time they were in for real trouble.
+Robots that did not move—died.
+Unfortunately for Wildman, his offensive nature was his own demise as
+he had no damage checking routine
+which caused him to walk into certain
+death more often than not.
+ZIGZAG — entered by Algis Seskus
+of Broken Arrow, OK. Zigzag moves in
+a zig-zag fashion searching three
+times on each leg of the zig-zag.
+
+THE CONTEST
+All robots competed in a round
+robin in which each contestant robot
+faced each other contestant an
+equal number of times (24 battles for
+each robot). The top 5 robots entered
+the finals. There was a tie for the fifth
+position between Corner and Arc
+Man. Corner won the best of 7 playoff
+to go to the finals. The finalists fought
+25 battles against one another with
+DRAGON coming out comfortably on
+top. Congratulations to DRAGON and
+it's designer Doug Hogg!
+ROBOT "DRAGON"
+
+BY DOUG HOGG
+
+BEGIN
+223 TO S
+IF Y > 127 GOTO CHECKDOWN
+IF X < 127 GOTO SLOWUP
+GOTO SLOWRIGHT
+CHECKDOWN
+IF X > 127 GOTO SLOWDOWN
+GOTO SLOWLEFT
+
+SOUP
+O TO K TO H
+O - S TO V TO SPEEDY
+GOSUB MOVEIT
+BLOWUP
+30 + R * 4 TO SPEEDY
+GORIGHT
+90 TO K
+O TO V
+S TO H TO SPEEDX
+1000 * 3 TO J
+GOSUB MOVEIT
+SLOWRIGHT
+O - R - 30 - 5 * 4 TO SPEEDX
+GODOWN
+180 TO K:
+S TO V TO SPEEDY
+O TO H
+GOSUB MOVEIT
+SLOWDOWN
+O -- R - 30 - 5 * 4 TO SPEEDY
+GOLEFT
+270 TO K
+O TO V
+O - S TO H TO SPEEDX
+10 TO I
+IF 5 < W TO I
+I TO W
+GOSUB MOVEIT
+SLOWLEFT
+:30 + R * 4 TO SPEEDX
+GOTO GOUP
+MOVEIT
+K - 8 TO L
+K + 90 TO M
+N -- 5 TO RADAR
+K + 180 TO 0
+24 - RADAR TO R
+IF R > 0 N - 2 TO AIM
+IF R
+0 TO T TO SHOT
+IF T = 1 DATA + 1 TO DATA
+INDEX + 1 TO INDEX
+• 4 1 TO INDEX
+IF DATA < 2 K - 17 TO AIM
+IF DATA > 1 K + 85 TO AIM
+IF R < 24 205 TO SHOT
+0 = H TO SPEEDX
+= V TO SPEEDY
+K + 203 TO N
+1 TO 6 TO T
+GOSUB MT
+ENDSUB
+LOOKBACK
+O TO RADAR
+O - RADAR TO R
+> 0 0 TO AIM
+IF R > 0 R + 27 TO SHOT
+-256 -- R TO R
+IF R < 0 > -105 ENDSUB
+BACKSHOT
+N - 4 TO N TO RADAR
+25 - RADAR TO R
+25 TO T
+> 25 N - 1 TO AIM
+IFR
+
+MT
+K TO RADAR
+O - RADAR TO R
+0 > -105 ENDSUB
+0 K TO AIM
+IF R > 0 R -10 TO SHOT
+IF R > 0 1 TO DATA
+L - 4 TO L TO RADAR
+G - 1 TO G
+< -2 ENDSUB
+O - RADAR TO R
+> 0 TO T
+> 0 -675 * 3 / R + 20 + L TO AIM
+IF R > 0 TO SHOT
+0 0 TO DATA
+IF DATA < 2 GOTO LOOKBACK
+M TO RADAR
+-15 + W TO F
+O - RADAR TO R
+> 110 J
+R TO F
+IF R
+0 < 111 -3 TO F
+M + F TO AIM
+R + 24 TO SHOT
+215 TO SHOT
+GOTO MT
+
+ROBOTWAR DISK
+OFFER
+Can't find an opponent for your
+ROBOTWAR creations? Want to find
+out how to make better robot
+designs? Looking for new blood?
+Then you will want to get CGW's
+Robotwar diskette.
+CGW's Robotwar Diskette contains the source code for all
+entrants from our Second Annual
+Robotwar Tournament (with the
+exception of Norden B) including
+the winner DRAGON. The disk also
+includes last year's winner,
+NORDEN+. Twelve robots in all.
+To order send a check for $10.00
+to COMPUTER GAMING WORLD,
+P.O. BOX 4566,
+ANAHEIM, CA 92803-4566.
+California residents add 6% sales
+tax. Allow 2-3 weeks for delivery.
+ROBOTWAR is a trademark of Muse
+Software. Robotwar runs on an
+Apple II with 48K and Applesoft in
+ROM.
+
+Listen To The Mockingboard:
+Sound & Speech For The Apple II
+
+Thomas Cleaver
+separate outputs which can be
+plugged into a stereo system or
+directly into speakers, I have found
+that the signals are quite strong, so
+that direct connection to speakers
+gives plenty of volume. One of the
+outputs provides sound effects, and
+the other provides synthesized
+speech. Both outputs have volume
+controls. The board retails for S299
+(talk is not cheap).
+
+SOUND EFFECTS
+You sit down before your computer and boot your new game disk. A
+wizard materializes on the screen,
+accompanied by a clap of thunder
+from your eighty watt stereo sound
+system. The mage points a bony
+finger at you and asks in a voice like
+the rustle of dry leaves, "Do you dare
+accompany me to the Lair of the
+White Worm?" You answer in a
+quavering voice, "Yes, my liege.
+Lead on." And the adventure begins.
+What's this? Games that talk? And
+respond to spoken English? Well, yes
+and no. The above game is still a
+dream, and it will not be a reality
+until further hardware and software
+advances are made.
+Speech recognition by computers
+is still in its infancy. Some progress
+has been made in speaker-dependent voice recognition, but you
+have to train the computer to
+understand your voice, and massive
+amounts of memory are required
+just to recognize a few words.
+Speaker-independent voice recognition, which would be required for
+the game described above, is still
+at least ten years away from being
+practical.
+But computer speech is here
+today. Sparked by Texas Instruments
+research into linear predictive coding (LPC), as used in
+Speak-and-Spell, and Votrax research in phoneme synthesis, there are now several
+speech peripherals that can be
+purchased for personal computers.
+The Mockingboard is one of them.
+The Mockingboard Sound/Speech
+I plugs into any of the peripheral
+slots of the Apple II. It has two
+
+You may ask, "Why do we need
+special sound effects hardware
+when we can get all the sound
+effects we need through the Apple's
+built-in speaker?" The things that
+have been done in sound generation within the Apple are truly
+amazing. The typical Joe Computerfreak doesn't realize the contortions
+a programmer has to go through to
+get a specific sound from Apple's
+crummy little speaker. He must write
+his code in machine language, and
+he is limited to doing but two things:
+pushing the speaker cone out and
+pulling it back in; therefore he must
+make each sound by "bit-banging"
+— driving the speaker cone in or out
+at precisely spaced times. And worst
+of all, he must "integrate" the sound
+effects with the rest of the program.
+For example in an arcade game
+program the programmer must
+move an object on the screen,
+bang the speaker, check to see if a
+key has been pressed, bang the
+speaker, check for object collisions
+on the screen, bang the speaker,
+etc. I have the greatest respect for
+the Budge's and Gebelli's who can
+make all this sound and motion
+seem so smooth.
+Special sound effects hardware,
+such as is available in the Atari and
+the Commodore 64, make this programming task much easier. You
+just set up the sound you want, start
+it running, then go back to your
+display and operations program.
+This sort of thing is possible in the
+Apple only by use of additional
+hardware, such as the Mockingboard, plugged into a peripheral
+slot.
+The sound effects channel in the
+Mockingboard is based on the
+
+General Instrument AY-3-8910 Programmable Sound Generator chip.
+It contains three tone generators, a
+noise generator, a mixer, and an
+envelope generator. The frequencies
+of the three tones can be very finely
+controlled so that, for example, a
+three-note chord could be produced. The noise generator can be
+used to produce sounds like gunshots and explosions. The envelope
+generator provides various amplitude modulation schemes for the
+sounds; for example, a rising and
+falling amplitude with noise as the
+input will produce a sound like
+waves on a beach.
+Sweet Micro Systems, the manufacturer of the Mockingboard, provides a demo diskette to show off
+the sound effects. They include
+bomb, laser, pump, helicopter, train,
+and several others. They are all fairly
+well done, but they aren't much better than could be expected from
+speaker bit-banging. The disk also
+contains a music routine, which is a
+bit better. It uses the Apple keyboard
+as a piano.
+There was no software which
+showed how to program the sound
+generator chip, how to edit sound
+effects, or how to use the capabilities of the board in your own programs. There weren't even any
+useful comment statements in the
+demo programs.
+To make matters worse, the accompanying documentation was of little
+help in this respect. The instructions
+for developing custom sound effects
+were sketchy, at best, and were
+directed to the machine language
+programmer. A BASIC programmer
+would be S.O.L. if he tried to use this
+manual. By fooling around in
+machine language I was able to
+make a few rudimentary sound
+effects, but I quickly determined
+that a sound effects editor was a
+minimum software requirement.
+
+SPEECH EFFECTS
+The speech channel of the Mockingboard is based on the Votrax SC01 Speech Synthesizer chip. It uses
+Continued on pg.47
+
+the
+learning
+game
+This month we'll look at four Apple games suitable for
+pre-schoolers. When reviewing software for young
+children, I pay particular attention to three factors. Let's
+look at these first to set some guidelines.
+First is simplicity. It's confusing to have to press the
+escape key in one place, the return key in another,
+and the spacebar in a third. Better to have one key
+serve the same function everywhere; this is an
+important factor in what the ads call "userfriendliness". I call it simple common sense. Adults
+cope better with poor design since they can read
+instructions on the screen. For non-readers, the
+program must be kept simple enough that they can
+remember what to do. This usually means a menu — to
+remind you what is available and to simplify (one
+keystroke) the process of getting there. Clever use of
+pictures and graphics can help too.
+Another important aspect of software for kids is errortrapping. This is the ability of the program to ignore or
+recover when you do something wrong. Children often
+like to try something just to see what happens; this is
+the primary way they learn about the world.
+Sometimes they experiment within the context of the
+program (and any good game for kids should allow
+this), sometimes they'll experiment outside — like
+hitting the RESET key "just for fun". This curiosity is good;
+if you discourage it in any way, you discourage
+learning. And a program that has to be re-booted is
+certainly discouraging. When testing these games I
+tried as many "experiments" as I could. I also gave
+them to the kids with encouragement to try anything
+that wouldn't damage the disks.
+JUGGLES' RAINBOW
+NAME:
+Spatial concepts
+TYPE:
+Apple II+, 48K, 3.3
+SYSTEM:
+Diskette
+FORMAT:
+BACKUP:
+$12 by mail
+# PLAYERS: 1
+$45.00
+PRICE:
+PUBLISHER: The Learning Company
+Portola Valley, CA
+
+BOP-A-BET
+Alphabet
+Apple II+, 48K, 3.3
+Diskette
+None
+1
+$34.95
+Sunnyside Software
+Fresno, CA
+
+by Bob Proctor
+
+My children (one is six and one eleven) and their
+friends also help me evaluate the third important
+aspect of these games: longevity. By this, I simply mean
+how long any one child will stay interested in it. That
+natural curiosity mentioned above will cause them to
+play ANY game once. There is a tendency, though, to
+grow bored with a game before the skills involved are
+truly mastered unless there is something that motivates
+them to keep playing. It has to be enjoyable and stay
+enjoyable. This means you shouldn't do or say anything
+which suggests failure.
+Let's start with the game designed with the youngest
+"users" in mind. This would be JUGGLES' RAINBOW from
+The Learning Company. It uses brightly-colored
+rainbows, butterflies and windmills plus lots of music
+and will even keep infants entertained. It requires no
+reading skills, anyone who can recognize the numbers
+from 1 to 3 can use it without help. Option four on the
+menu, the question mark, is a configuration screen
+that lets anyone who CAN read turn off the sound or
+the picture clues (thus forcing the player to read the
+wordclues). Once you select a number, you don't have
+to hit any specific key. The keyboard is divided into
+banks of keys to teach the concepts of left, right,
+above, and below. You can divide the keys with a strip
+of yarn or paper —blue is best since the program uses
+a blue bar to divide the screen.
+When your child begins to learn the alphabet,
+consider getting BOP-A-BET. This is a maze game where
+you steer a boxing glove using four keys. You bop
+MICRO MOTHER GOOSE
+Pre-school arcade
+Apple II+, 48K, 3.3 P or J
+Diskette [DOS 3.3)
+Copyable
+1
+$39.95
+Software Productions
+Columbus, OH
+
+SPELLING BEE GAMES
+Spelling
+Apple II+, 48K, 3.3, P
+Diskette
+None
+1 to 4
+$29.95
+EDU-WARE
+Agoura, CA
+
+letters in alphabetical order by pushing the space bar
+and if you bop them out of sequence nothing
+happens. The object is to bop as many as you can
+within a time limit. When you boot the disk, there are
+some questions that let you change the time limit, the
+speed of the bopper, the keys used, and choose upper
+or lower case. This part requires an older person who
+can read but once started, four and five year-olds will
+have no trouble.
+
+Of the four, only MICRO MOTHER GOOSE is copyable.
+The good people at Software Productions even provide
+a label for your extra copy, which impressed me more
+than the posters and stickers that also came with it. A
+back-up copy of JUGGLES' RAINBOW is available by
+mail for $12. This is much less convenient, but
+reasonable compared to those that are copyprotected and offer no backup at all! That hardly
+seems appropriate for software aimed at children.
+
+MICRO MOTHER GOOSE will also entertain infants. It
+allows you to select one of nine nursery rhymes; it plays
+each tune while the words and some animated
+graphics appear on the screen. The menu (only half is
+shown) is well done — it has a distinctive symbol
+alongside the words so that non-readers can use the
+game once they get familiar with it. Many children will
+know some of these rhymes, so seeing the words on the
+screen may help in learning to read. However, only the
+very young (with no concept of reading) want to see
+the rhymes more than once, what older kids want to
+do is play the three arcade games which are also part
+of this package. These games are based on themes
+from nursery rhymes and require paddles. The simplest
+is Lamb Scram, where you help Mary get three lambs
+through a hole in the hedge before the Big Bad Wolf
+gets them. Then you have Splat!, wherein you catch
+eggs as they fall off a wall. Finally you have London
+Bridge-out, which is our old friend Breakout (or Brickout) in new clothes. Although much simpler than other
+versions of this game, it is still the most difficult of the
+three. These games are well done and should provide
+kids in the three to six group with lots of fun — unless
+older kids are playing something else, in which case
+the younger crowd will want to play the same thing.
+
+All of these games seem immune to inaccurate keypressing, although three of them have done nothing
+about the RESET key. In JUGGLES' RAINBOW, The RESET
+key restarts the current module, in the other three it reboots the disk. This may not be much of a problem with
+late-model Apples, since they can be set up so that
+CTRL and RESET must be pushed at the same time, but
+owners of earlier Apples will have to give special
+training or physically protect the RESET key.
+
+The last game we'll look at this month is SPELLING BEE
+GAMES from Edu-Ware. This is a set of four games which
+share a common vocabulary and theme — each of
+the words is represented graphically by a hi-res picture.
+The games are Squadron, Skyhook, Puzzle, and
+Convoy. Squadron requires two players and paddles;
+each player flies an airplane to "shoot down" the word
+that matches the picture at the bottom. The other
+three games are all for one to four players. In Skyhook,
+you see a picture and some scrambled letters; you use
+the paddle to control a helicopter to pick up letters
+and put them in the right place to spell the word. In
+Puzzle, you get a few seconds to memorize six pictures
+before they are concealed; players then take turns
+guessing where the picture was that goes with the
+word at the bottom. Convoy is a truck race in which a
+picture appears at the top of the screen and players
+take turns typing the next letter in the word; each
+correct guess moves your truck forward a little. Note,
+that Convoy is the only game that requires you to hit
+the actual keys for each letter. There is a configuration
+module which can be reached by pressing a "secret"
+key from the menu. It allows parents or teachers to
+select the vocabulary units used, There are 22 units on
+the disk; they begin with simple two and three letter
+words and get more complex, up to a third or fourth
+grade level.
+In terms of simplicity, three of these four games can
+be used by the age groups for which they were
+intended. BOP-A-BET would also qualify except for
+those questions at the start which set up the game.
+However, you also have to ask yourself if your children
+(or students) can be entrusted with the only copy of a
+$30 to $40 disk.
+
+Of this month's four games, SPELLING BEE GAMES is
+the only one that the play-test group asks for now that
+testing is finished. Of course, this is due in part to their
+average age level, which is too old to be enthralled by
+nursery rhymes, but it is also a credit to the graphics
+since the kids ask for it (sometimes) instead of any of
+the arcade games we have. It is an excellent example
+of the motivational value of games because it is similar
+to, but much more popular than, Edu-Ware's SPELLING
+BEE AND READING PRIMER which doesn't use the game
+format.
+The following abbreviations are used in the SYSTEM
+requirements: P- paddles, J-joystick, 3.3.=DOS 3.3
+Whenever an Apple II+ is specified, an Apple II with
+Applesoft in ROM may be used.
+
+Its time again for another issue of
+Computer Gaming World and Microcomputer Mathemagic. First of all,
+did you find a winning strategy for
+the game of FIFTY? For those of you
+tuning in for the first time (where
+have you been?), this game is
+played by two players who alternate
+turns in picking a number. In each
+case, the players choose from '1, 2, 3,
+4, 5, 6 and a running tally is kept. First
+player to make the tally hit 50 wins.
+
+multiples of 7, you will find this to be
+the unique winning strategy.
+
+In the last issue of CGW I gave one
+computer listing of a program which
+allows one to play against either a
+human or computer opponent.
+Recall that the computer opponent
+plays first and the program prompts
+for whether you wish it to play
+somewhat randomly or completely
+logically. (In the latter case, the
+computer is unbeatable, as you will
+see momentarily from a discussion
+of strategy).
+
+TABLE #1
+
+If you played enough, you should
+have discovered that whoever goes
+first has a natural advantage in the
+game, but this is not obvious at first.
+In fact, when people first play, they
+usually pick numbers randomly for
+the first few turns. When the tally hits
+the thirties, the action slows down as
+the players begin to think: "What
+should I pick now?".
+This leads the player to examining
+his optimum situations. When the
+tally is getting close to around 40,
+you would like to have the total be
+43 (which is 7 less than 50, please
+note) after your turn. Why 43, you
+ask? Well, the opponent has to pick
+at least 1 and at most 6. If he picks '1,
+the total becomes 44 and you can
+pick 6 on your next turn to win. On
+the other hand, the most he can
+pick is 6, for a total of 49 after his
+turn, so he can't win. You can probably see now that no matter what
+he picks, you can then win.
+Okay, so what about the previous
+turn? Well, by the same kind of reasoning, you would like the tally to be
+36, which is 7 less than 43. Why? So
+then no matter what your opponent
+picks, you can make the total after
+that turn become 43. Specifically, if
+he picks x, then you pick 7-x. (If he
+picks 1, you pick 6; if he picks 2, then
+you pick 5, etc.)
+If you trace this argument backwards, subtracting more and more
+
+Whoever goes first can always win
+by first picking 1, and thereafter,
+whenever your opponent picks x,
+you pick 7-x on the immediately following turn. This insures that at the
+end of your turns the running totals
+are 1, then 8, then '15, then 22, then
+29, 36, 43 and finally, 50.
+
+PLAYER #1 PLAYER #2
+1
+3
+4
+1
+6
+5
+2
+6
+1
+3
+4
+1
+6
+5
+2
+
+TOTAL
+4
+9
+20
+28
+32
+37
+48
+50
+
+TYPICAL GAME IN WHICH COMPUTER (#1)
+WINS BY THE STRATEGY (TRS-80 VERSION)
+
+I still invite readers to consider the
+questions raised last issue. For
+instance, what happens if you alter
+the game to include fewer choices,
+such as only being able to choose
+2,3,4,5 each time; or playing for
+more points; or making the choice
+of numbers vary each turn. (You
+could let players choose 1 or 2 only
+second turn; 1, 2, 3, or 4 on their third
+on their turn, and T
+son). he possibilities are quite endless, and I would
+be glad to hear from readers about
+interesting variations.
+
+ported by other computers (although
+Apples and some others have comparable commands, I have been
+told), so I had to provide what I
+could. Okay, enough about style for
+now...Let's look at something new!
+
+THE McDONALD'S
+PERMUTED CHANGE
+PROBLEM
+Last issue I mentioned that I would
+like to provide something of a programming challenge, and this is it.
+First, the problem itself and its history. Approximately seven years
+ago, while still living in New York
+City, I went into a McDonald's restaurant and noticed the following
+interesting incident. I ordered a
+meal that cost $1.85. I handed the
+counter person a ten dollar bill, and
+noticed that my change, $8.15, had
+the same exact digits as the price.
+This led me to the question: Are
+there other prices (other than $1.85
+or $8.15) whose change from $10.00
+contains the exact same digits as
+the price itself?
+My challenge to you is to write a
+BASIC program to find all such prices. Send these to me and I will publish the best ones a few issues down
+the road.
+Next issue I will have some new
+goodies for you. In the meantime,
+send all your comments, questions,
+suggestions, and so on to me
+directly:
+
+One other thing that I would like
+to see are superior programs. These
+might be programs which have better error catching routines, superior
+displays, etc. In fact, I wonder how
+many readers noticed my goof in
+Microcomputer Mathemagic column
+#1 (Vol. 2, #6) in which both program listings have prompts "Press
+any key to continue" instead of
+what I should have had, "Press
+ENTER to continue". (I was confusing
+INKEY$ with INPUT at the time,
+evidently).
+
+For personal replies, which I will be
+pleased to make, it would help if
+you would enclose a self-addressed
+stamped envelope.
+
+In a similar vein, surely some
+reader can provide a nicer display
+than the one I gave for FIFTY last
+issue. The problem is to make a program applicable to and compatible with most major brands of computers. The original program used
+the "print @" command for the TRS80 to obtain a nice display. Unfortunately, this command is not sup-
+
+Dr. Michael W. Ecker is Assistant
+Professor of Mathematics at the
+Pennsylvania State University, the
+Worthington Scranton Campus, in
+the Scranton, PA. area. His ambition
+is to be able to say that he is Associate Professor of Mathematics at
+the Pennsylvania State University in
+the Scranton, PA, area.
+
+Dr. Michael W. Ecker
+COMPUTER GAMING WORLD
+Luzerne 8
+Viewmont Village
+Scranton, PA. 18508
+
+EPIDEMIC: "An Apple (or PC) a day. . ."
+
+Valerie Trott
+DAY 3
+US clean suits totally ineffective!!
+The virus is too small and goes
+right thru the filter units. . .worst
+of all, the US HAS infected
+Canada!
+
+BASIC INFORMATION
+NAME:
+Epidemic
+TYPE:
+Strategy
+SYSTEM:
+Apple, IBM-PC
+FORMAT:
+Disk
+# PLAYERS: 1
+PRICE:
+$34.95
+PUBLISHER: Strategic Simulations
+Mountain View, CA
+UNEDCOC (United Nations Emergency Disease Control Center) Mt
+Olympus, Antarctica
+DAY 1
+Meteorites impacted last night in
+the United States, Scandinavia,
+and India, triggering raging
+epidemics of a strange alien
+disease in each region.
+Disease rate in the US is the
+lowest of the three, at 2.4 on the
+1 to 5 scale, with 5 indicating
+Pneumonic Plague level. We've
+hit Scandinavia and India with
+Gamma Globulin treatments.
+DAY 2
+Over 88 Million dead worldwide.
+Epidemic in the US now 2.7 and
+rising. Scandinavia Gamma
+Globuinefctvslow
+average, deathrate stable. Indian
+epidemic is at stasis, and so will
+not spread or escalate—a good
+buffer zone.
+Today we instituted a 5 day
+"Clean Suit" policy in the US.
+Effects should be felt immediately
+to some effect and strongly
+within 2 to 3 days,
+
+In Scandinavia, the Gamma
+Globulin treatments are having
+only miniscule effect. . .and we
+can't recall the mobile teams in
+less than two more days!! They're
+dying like flies!! ETA of the
+Pheumonic Level in THREE DAYS!!
+The only bright point is that India
+has been cured!
+DAY 6
+This epidemic is getting out of
+hand! US entered Pneumonic
+Phase, 145 million dead, and the
+disease has spread to Central
+America. Western Europe and
+China both getting worse, and
+the Soviet Delegate is calling for
+Nuclear Sterilization of North
+America.
+DAY 7
+Greenland, Eastern Europe, and
+the Soviet Union now infected!!
+Mass panic spreading worldwide
+as total deaths approach one
+billion. Anti-Pneumonic Remedy
+#4 failed in US, total destruction
+of all sentient life in that region
+expected in three days!!
+DAY 9
+We haven't got a chance. . .the
+epidemic is too widespread. . .we've
+tried everything„ . too late. . . feel
+feverish, . .can't think clearly
+. .why are there green and
+purple spots on my hands?... .
+can anyone out there hear
+me???
+Thus ended my first attempt at
+Level Four, the easiest level of SSI'S
+New introductory strategy game
+Epidemic. The world is broken down
+into fourteen geographical regions
+which are menaced by a swarm of
+meteorites carrying the deadly alien
+microbes which, on its last swing
+thru this part of space, wiped out
+the dinosaurs!!
+Each turn you'll view a world
+
+status update, telling you how many
+have died in each area, how long
+before the regional epidemic
+reaches Pnemonic Phase (becomes
+airborne and even more deadly),
+and whether the infection level is
+rising or falling.
+This update helps you formulate
+your overall strategy, after which
+you'll get a radar update (showing
+locations of approaching meteorites) and finally a world map
+update with a menu allowing you
+to obtain detailed regional information, to initiate attempted
+cures and/or fire missiles at incoming meteorites, and even to
+nuke areas that are too far gone!
+Unfortunately, you have a very
+limited number of actions per turn.
+At levels 4 and 3 (the two easiest)
+you have only two options per turn,
+while at level 2 and 1 (the hardest)
+you have three options per turn. This
+often leads to conflicts between
+whether to treat an already infected
+area or launch a missile at an
+incoming 'target' to try and prevent
+additional regional infections.
+Your primary strategy should be
+to create stasis zones (infection
+level between 1.0 and 2.0) which
+will prevent the spread of the
+epidemic to other regions. If a
+region slips past stasis and is fully
+cured, you may regret it very quickly
+when that region becomes reinfected and you have to start all
+over again.
+The best cure you have is Interferon. Unfortunately, you only have
+one day's supply of Interferon per
+epidemic per region, and you just
+can't be everywhere at once. All
+remedies except Interferon last for
+more than one day — two to five
+days is the range — and each has
+its own effectiveness curve.
+The catch is that any given
+remedy can be more or less
+effective than anticipated, and
+once you start something, it has to
+run its course before you can try
+another remedy. For example, in
+the game described above, when
+the "clean suits" in the US were
+Continued on p.46
+
+COSMIC BALANCE (Cont.)
+For ship to ship combat between
+dreadnoughts, the following generalities should be useful in designing
+new ships. A high technology ship is
+usually stronger than more numerous lower technology ships. Crew
+efficiency of one is adequate for
+high technology ships. For a dreadnought with short range weapons,
+about 15 to 20 percent of the total
+space should be armor, and don't
+skimp on shields. A ship with mostly
+short range weapons needs lots of
+protection in order to get in close,
+hit hard, and get back out safely
+again. Siege phasers are the most
+economical short range weapon,
+but you should also have about
+one photon torpedo to drain shields,
+and one plasma (if you can afford
+it) to destroy armor. Give your ship
+extra engines as you will need the
+extra power to repair shields and to
+change course when you take
+damage. You should have about
+five to ten marine detachments on
+board as insurance against transporter ships like Ship B. You don't
+need many because one surviving
+crew or marine detachment can
+operate the ship. You should have
+about 12 to 16 belts as insurance
+against ships like Ship A. All ships
+must have a range of at least one if
+you plan to use them in the new
+strategic game.
+A final word of caution: if the
+situation looks desperate, don't be
+ashamed to run away before the
+dastardly Klingons breach the
+shields. Discretion really is the better
+part of valor. Even the immortal
+
+John Paul Jones once said, "Give
+me a fast ship, for I intend to sail in
+harm's way!" Good luck and good
+hunting!
+
+Other projects being worked on at SSI include
+a WWII European Theatre game which will cover
+the war from England to Moscow. Land, sea, and
+air units will play a role in this "monster game".
+Gary Grigsby is working on an Eastern Front WWII
+game which will run on the Apple and Atari.
+Using the Guadalcanal game system, the game
+will involve strategic and tactical movement
+modes in a week-per-turn format.
+Bruce Ketchledge ( Dneiper River Line—Avalon
+Hill) is working on a Geo-political game for SSI. It
+will involve economic, political, and military
+elements and will run on the Apple and perhaps
+the Commodore 64. Look for it this summer.
+Several SSI games are being translated to the
+Commodore 64 including BATTLE FOR
+NORMANDY and COMPUTER BASEBALL. There is
+still no projected date for the Atari 400/800
+version of COMPUTER BASEBALL (problems with
+getting the out-of-house programmer to deliver).
+
+MILLIONAIRE (Cont.)
+
+SUMMARY
+
+INDUSTRY NEWS (Cont.)
+Blue Chip Software (see the review of
+Millionaire in this issue) has announced a new
+commodity market simulation—TYCOON.
+TYCOON will allow players to engage in complex
+trading of futures contracts in gold, soybeans,
+Treasury bills, foreign currency, pork bellies and
+other commodities. It will be released first for the
+IBM PC and followed by versions for the Apple,
+CPM and CPM 86. The simulation will retail at
+S79.95 for the Apple version and $99.95 for the
+other versions.
+PDI (Program Design, Inc.) has announced
+that they have moved their headquarters. The
+new address is: 95 East Putnam Ave., Greenwich,
+CT06830.
+There are four new releases from Avant-Garde
+Creations for the IBM PC: AIR TRAFFIC
+CONTROLLER, TERRAN JEOPARDY, FEDERATION,
+and LAZER MAZE. All four games retail for $29.95
+and all but the first require the Color Graphics
+Adapter.
+Coming soon from Sirius Software on ATARI disk
+is the hi-res adventure game THE BLADE OF
+BLACKPOOLE ( $39.95).
+Strategic Simulations has moved. Their new
+address is 883 Stierlin Rd. Bid. A-200, Mountain
+View, CA 94043.
+SSI has released the long awaited revised
+version of COMPUTER AMBUSH. They have also
+released their Battle of Britain game, FIGHTER
+COMMAND. Both run on the Apple II. SSI will have
+a number of April releases. RAPID DEPLOYMENT
+FORCE-1985 which is the second release in the
+"When Superpowers Collide" series (Apple);
+NORTH ATLANTIC-1986 by Gary Grigsby (Apple);
+KNIGHTS OF THE DESERT which covers the North
+African Campaign in WWII. KOTD will run on the
+Apple, TRS-80, and Atari (joystick control in the
+Atari version). Other April releases will be COSMIC
+BALANCE 2: THE STRATEGIC GAME for the Apple
+and Atari; GALACTIC GLADIATORS for the IBM-PC
+and the Atari.
+
+MILLIONAIRE is a stimulating
+experience for anyone who enjoys
+the strategic decisions inherent in
+high finance. Its system definition,
+based on careful research and
+continuous probability, makes the
+game both realistic and fascinating.
+The levels of expertise and their
+varied options, along with the
+potential for different market
+environments, give the game an
+assured longevity in the strategy
+gamer's library.
+ATARI ARENA (Cont.)
+Garden, for instance, takes over a
+minute to begin, and must be
+rebooted to start with a new
+garden. None of the games have a
+pause command, None of them
+record a high score.
+The standards for cartridge games
+have been established by games
+like Star Raiders and Missile
+Command. Broderbund is bringing
+out at least Choplifter and Serpentine in cartridge form. Synapse
+plans to release all their games in
+cartridge, with Shamus already
+available. Against competition such
+as that, any company producing
+cartridge software is going to have
+to come up with solid, professional
+products if they want to compete.
+Have you heard? Atari is bringing
+out an expanded Eastern Front on
+a cartridge. The year is going to get
+better.
+
+BASIC INFORMATION
+NAME:
+Championship Blackjack
+TYPE:
+Educational & Entertaining
+SYSTEM:
+IBM-PC
+Disk
+FORMAT:
+# PLAYERS: 5-Card
+6-Micro
+PUBLISHER: PC Software
+San Diego. CA
+
+Blackjack lovers this is it! With
+Championship Blackjack from PC
+Software you can play under realistic conditions using the rules from all
+the gambling funspots. Before going
+into the details, a rundown of the
+features and playing options available with Championship Blackjack
+should be enough to convince you,
+as it did me, that it is an outstanding
+blackjack software package which
+is even better than the hard-wired
+setups you put your quarters into at
+the casino while you're waiting in
+line to see a dinner show.
+The game options include:
+• All allowable plays are supported,
+including stand, hit, double, split,
+resplit, insurance, and surrender;
+• Single or multiple decks;
+• Tournament and double exposure play;
+• Choice of casino rules, including
+Vegas Strip, Vegas Downtown,
+Atlantic City, Tahoe, and Reno;
+• Ability to set your own rules;
+• Julian Braun's Basic and PointCount System strategies.
+The game features include:
+• Monochrome and color displays,
+with sound;
+• Menu-driven screens;
+• Player statistics;
+• Simulations.
+The game is so complete that about
+all you can't do is order cocktails
+and look at the dealer's eyes when
+he checks for blackjack.
+The game will accommodate up
+to six players and any of these can
+be played by the computer itself.
+Players automatically have their
+moves checked against the basic
+strategy developed by Julian Braun
+
+and, additionally, player's moves
+can also be checked against
+Braun's Point-Count system. Poor
+decisions based upon these systems, are then indicated by appropriate messages.
+The general flow of the game is as
+expected. Cards are shuffled, bets
+are placed, hands are dealt, and
+players make their decisions. What
+makes this game an excellent
+instructional tool, is that at the
+upper left of the screen, the program displays the running count,
+the true count (since you can't
+actually see the shoe to see how
+many decks are left), the recommended move using basic strategy,
+and the recommended move using
+the Point-Count system. And, if you
+still can't make up your mind, there
+is a help screen available to show
+you all the options.
+I played the game on an IBM
+monochrome display and found the
+graphics to be excellent. The screen
+layout is similar to that green felt on
+a blackjack table. Cards are dealt
+face-up, down cards down, and hits
+and splits are neatly overlapped.
+Player's names, their current bankroll, and current bets are always displayed at their respective places on
+the table. The statistics screen is very
+helpful and lets you know at any
+time how everyone is faring, this is
+most important in tournament play
+and when running simulations.
+The only recommendation I have
+for the developers of the game is an
+added feature that will allow practice drills on such things as softstanding rules, soft-hitting rules, pair
+splitting decisions, double down
+decisions, and surrender decisions.
+If you are a beginning blackjack
+player, a hearty welcome to the
+game. You won't find a more helpful
+and enjoyable way of learning than
+Championship Blackjack. If you're
+an expert, counter, tournament
+player, or professional, you will find
+Championship Blackjack to be an
+outstanding computer game.
+Good luck, and see you at the
+tables!
+Jim Zegers
+
+BASIC INFORMATION
+NAME:
+Microbe
+TYPE:
+Action Adventure
+SYSTEM:
+Apple Dos 3.3.48k
+FORMAT:
+Disk
+# PLAYERS: I to 10
+AUTHOR:
+Robert Clardy
+PRICE:
+$44.95
+PUBLISHER: Synergistic Software
+Renton. WA
+Robert Clardy and Synergistic Software have done it again! As much
+of a breakthrough as ODYSSEY was,
+Clardy has outdone himself with
+MICROBE. It's like nothing I've ever
+played. Read on and find out why.
+Do you remember the movie
+"Fantastic Voyage"? The one where
+a submarine was shrunk down to
+microscopic size and injected into
+the vein of a critically ill patient? The
+tiny sub navigated the venous
+system, fended off the attacking
+antibodies and white cells, and
+went on to clear the blood clot in
+the brain.
+MICROBE is based on a similar
+scenario. Any of a number of things
+can be wrong with the patient (but
+it's always something in the brain).
+You and your crew, starting in a leg
+vein, must make your way to the
+brain by passing through various
+organs of the body. At a minimum,
+you must pass through the heart
+(twice), the lungs, the brain, and all
+the connecting veins and arteries.
+On your journey you may hook up to
+the kidney to coat your ship with
+antibody repellant, the liver to take
+on more fuel, and the lung to replenish your air. You will be attacked by
+germs, viruses, and the body's own
+defense mechanisms.
+If you play alone, you must take
+on the roles of all the sub's personnel:
+captain, navigator, pilot, technician,
+and physician. And that will keep
+you VERY busy. I like playing with
+three or four others, with everyone
+taking an appropriate role. The
+captain runs the keyboard and
+gives the orders. The navigator
+keeps track of where in the body the
+sub is. The pilot uses a game paddle
+to steer the sub while looking at a
+display of the sub's position; he must
+
+avoid oncoming traffic (red and
+white cells). The technician takes
+care of repairs, keeps track of
+inventory, and fires the laser, when
+appropriate, while viewing a
+stunning display out the front
+window of the sub. The physician
+monitors the patient and prescribes
+drugs and other treatment.
+All of the above is accomplished
+in real time while frantically consulting manuals, reading the radar
+scope, taking blood tests, etc. And
+it's fun! But also, it's educational.
+Anyone who plays this game can't
+help but learn some anatomy,
+physiology, and pharmacology. I
+have been exposed to plenty of
+programs that claimed to be educational games, but this is the
+ONLY one that succeeds.
+MICROBE is designed to work with
+VOTRAX, ECHO, and MOCKINGBOARD
+speech products. My version runs
+with the Mockingboard, which adds
+special sound effects and a talking
+computer. I like these features in
+MICROBE, but I'd like the game
+even without them.
+I thoroughly recommend MICROBE
+to garners of every stripe for the
+enjoyment it provides, and I recommend it to everyone else for its
+educational content.
+Tom Cleaver
+
+BASIC INFORMATION
+NAME:
+
+Conquest (formerly Call to
+Arms)
+TYPE:
+Strategy/Wargame
+SYSTEM:
+IBM PC 64K. with color
+graphics card
+FORMAT:
+Disk (for one single-sided
+disk drive)
+# PLAYERS: 2-4 computer and/or
+human
+AUTHOR:
+Mike Falkner
+
+Risk fans rejoice! Your favorite
+board game is now available for use
+against one, two or even three
+
+computer opponents. You no longer
+have to scrounge around at odd
+hours of the night hoping someone
+will take your challenge. With the
+aid of your PC you can choose to
+fight in Europe of 1942 or Scotland
+1750.
+Like the popular board game,
+CONQUEST is a strategy war game.
+The object is to conquer territories
+adjacent to countries which you
+hold. CONQUEST has several enhanced features which are not in
+Risk. Fast moving computer oppobeforit'syuncag.A nents provide only breathing time
+fine text window displays all the
+necessary information as battles
+ensue. The graphics employed outline and color-in conquered territories quickly.
+At the beginning of a turn, you are
+allotted a certain number of armies.
+You can deploy them wherever you
+see fit. Troops not deployed are
+stored for your next turn. Next, you
+can either attack or finish your turn.
+Each country is displayed with the
+owner's color and the total amount
+of occupying armies. After attacking
+and defeating the enemy, you
+decide how many troops to leave
+and how many to move into your
+new territory. After this decision, the
+computer fills in the newly conquered land with your color. Attacking continues until you decide
+to stop. For the last move of your
+turn, you can pull troops away from
+the front lines to be stored along
+with your allotted armies for the next
+turn. In this way, you can muster
+strength for counter attacking or even
+defending your front lines.
+To start the game, you can
+choose the number of armies to be
+placed in each country. Three is
+suggested, although the experienced player can decide to start
+with up to nine. If you like to show off
+your computer, you can have two,
+three or four computer opponents
+square off at each other. Any combination of human and/or computer
+opponents up to four can play.
+Ownership of countries at the start
+of each game can be the same, or
+you can opt to have the countries
+randomly distributed. When time is
+short and the war is still on, a "save"
+feature permits you to continue at a
+later time.
+One major problem occurred
+when I was loading in the European
+map. After being prompted by the
+computer, the map of Europe was
+drawn in. Just before the countries
+were colored in, I received an error
+
+message stating "out of memory
+2080". From that point, it was impossible to proceed. After contacting
+Sirius I finally was lead to the easy
+solution. It seems that because my
+machine has an asynchronous communications card, Basic will automatically allocate a communications buffer when it boots up. So to
+prevent this from happening, make
+sure you type in Basica/ c:0 instead
+of Basica (as the directions call for).
+This will cause Basic to start up with 0
+buffers. With this problem solved, I
+had no trouble loading in the
+European game.
+All in all, CONQUEST is an enhanced version of a popular board
+game. The several options of game
+set-up provides variety that makes
+the game life last after countless
+use. Graphics and text window
+display are done well. The documentation is adequate, although
+the directions should address errors
+that could occur with loading more
+adequately. The gamer who enjoys
+spending hours and hours on one
+detailed battle may not appreciate
+the ease and uncomplicated nature
+of battle. However, most gamers will
+enjoy the swiftness of execution and
+the ebb and flow of battle. The
+graphics used in drawing both
+Europe and Scotland are clear and
+well depicted, and the text displaybox provides important information
+such as players turn, countries doing
+battle and odds and outcome of
+each battle. With the addition of
+some sound routines, this game
+could become a classic, As it stands,
+CONQUEST is a very enjoyable game,
+simple to learn and challenging
+enough for the serious computer
+gamer.
+Mark Lacine
+
+NAME:
+Super Taxman 2
+TYPE:
+Maze-Chase
+SYSTEM:
+Apple II 48K
+FORMAT:
+Disk
+# PLAYERS: 1-5
+AUTHOR:
+Brian Fritzgerald
+PRICE:
+$25.00
+PUBLISHER: H.A.L. Labs
+Riverside. CA
+
+Taxman move over and make
+way for the newest in eat-the-dots
+games, Super Taxman 2.
+
+the submarine's speed, damage
+indicators, amount of air left, battery
+charge, position of the submarine
+relative to the sea bottom, and a
+game clock.
+The second screen is the Sonar
+Scope. It looks, sounds, and works
+like a real sonar scope. Two indicators are added to this screen; tonnage sunk and Hydrophone Chart.
+The Hydrophone shows the player
+which direction to steer to intercept
+the convoy.
+
+ST2 is described as a new improved
+version of the original TAXMAN.
+Actually it's a totally different version
+of the classic maze games.
+In this one, you're a little pieshaped tax-collector who has the
+undesired job of collecting all the
+money dots while trying to save his
+hide from angry citizens. Sounds
+pretty easy right? Well not so fast!
+First there are four all-new mazes,
+instead of the traditional one maze
+game. And as if that wasn't enough,
+in order to earn an extra man you
+have to complete an ultra-fast challenge stage (every three mazes).
+Gratuitously Brian Fitzgerald, the
+program author, provided us with six
+energy dots instead of the usual
+four.
+Other features include a levelselect option, that allows the player
+to choose any of the ninty-nine levels at which to start, and a pause
+function. For the young at heart, Mr.
+Fritzgerald has given us five new
+cartoons and some bouncy music.
+The cartoons can be viewed before
+the game and at various levels, The
+music, on the other hand, pops up
+throughout the game. Finally, as in
+Taxman, Super Taxman gives the
+black and white/color option.
+The graphics are very well done,
+and the animation is virtually flickerfree. Sound is an exact carbon of
+Taxman.
+Instructions are included with the
+game, they're short but adequate.
+Controls are user-definable keyboard. No Apple joysticks here but
+for you true game players comes
+the Gismo an inexpensive ($15, $10
+with the coupon included with
+Super Taxman) device which allows
+the use of an Atari-type-joystick with
+ST2.
+The challenge of Super Taxman is
+to use the energy dots wisely. It's not
+always easy to do when you have
+petty citizens on your tail. One strategy I found is to concentrate on finishing the maze rather than trying to
+eat all the citizens when they turn
+blue. Despite the fact that mazechase games have been overused,
+ST2 is a nice little game.
+Anthony Melendez
+
+NAME:
+Submarine Commander
+TYPE:
+Strategy/Action
+SYSTEM:
+Atari 16K Cartridge
+# PLAYERS: 1
+PRICE:
+$39.95
+PUBLISHER: Thorn EMI Video
+
+It's World War II and you are in
+command of a diesel submarine
+somewhere in the Mediterranean.
+Your mission: to destroy all enemy
+merchant shipping in these waters.
+You've tracked this convoy for ten
+minutes and you're ready to strike.
+Up periscope. The convoy's lead
+ship is a destroyer. Fire one! Fire two!
+You watch as both torpedoes strike
+the ship and it begins to sink. Turning your attention to the second
+ship, a tanker, you fire two torpedoes. Two hits! Suddenly your sub
+shudders. You're under fire from the
+second destroyer! Dive! Dive! Reduce
+speed, stop all engines. You wait,
+not daring to breathe. Finally, the
+sound you dreaded most begins —
+Depth Charges!!
+This is the action in the Thorn EMI
+Video game cartridge, Submarine
+Commander. As Commander of a
+WWII Submarine, the player must
+sink all convoys in the area. The
+player has a limited supply of fuel,
+torpedoes, air, and charge in the
+batteries. To recharge batteries, and
+replenish air supply, the sub must
+surface. Surface speed is faster than
+underwater speed, but uses more
+fuel. Scoring is based on the amount
+of fuel left, torpedoes remaining,
+and game time.
+The game makes excellent use of
+the Atari's graphic and sound
+capabilities. It has three screens. The
+first screen is a detailed map of the
+Mediterranean, showing the submarine's position, positions of all convoys and land masses in the area.
+Each screen has indicators showing
+compass heading of the sub,
+amount of fuel and torpedoes left,
+
+The third screen is the most important. This is the periscope view. This is
+where all the action takes place.
+This screen shows clouds, water, and
+the ships. As the ships enter the view,
+they're black shapes. The closer they
+get the more detailed they become.
+When torpedoes are fired they
+appear on screen and move toward
+the target. A 3D effect is achieved
+with your torpedoes receding in the
+distance. When a torpedo strikes
+a ship, the water billows up in the
+explosion with excellent sound
+effects as the ship slowly begins to
+sink. Ships can also fire back as evidenced by flashes and sounds of
+their guns. If the sub takes a hit, the
+whole screen shakes.
+There is one minor problem in the
+game. Moving the submarine,
+especially in the heat of battle is difficult to grasp. The sub doesn't turn
+as fast as the player wants. This slows
+down the action, but once the
+player gets used to it, it isn't that
+noticeable.
+The game is in real time using the
+joystick and keyboard. There are
+nine levels of play with ships on levels seven thru nine possibly requiring
+two hits to sink. There are four types
+of ships: destroyers, tankers, cargo,
+and PT boats.
+The game ends when the sub runs
+out of fuel, air, sinks, or the battery
+charge is depleted; while scoring is
+based on the length of the game
+the tonnage sunk, and the amount
+of fuel used. The user manual is very
+good, covering all aspects of the
+game. This game will appeal to
+those who like arcade graphics
+and sounds, but enjoy a sense of
+wargaming.
+Hosea Battles
+
+ON VACA TION
+Silicon Cerebrum and
+Route 80 are on vacation.
+Look for them again next
+issue.
+
+NAME:
+TYPE:
+SYSTEM:
+
+Battle for Normandy
+Wargame
+Apple, Atari 400/800,
+TRS-80
+FORMAT:
+Disk or Tape
+# PLAYERS: 1 or 2
+PRICE:
+$39.95
+PUBLISHER: Strategic Simulations
+Mountain View, CA
+
+SSI's Battle for Normandy (BFN),
+continues the design and development tradition of Tigers In The Snow
+with additional refinements. Covering the initial Normandy landing
+through the build-up prior to
+Operation Cobra, the game takes
+14 turns (June 6 through June 30) in
+two day increments. Included are
+air and naval firepower capabilities,
+weather and logistical considerations. The game can be played
+with two players or solitaire with the
+computer acting as the "German"
+player.
+The regimental and brigade-sized
+units cannot stack together, and
+once a move is made the player is
+committed to that move. A cycle of
+rotation through available units for
+movement continues five times in
+order to select the sequence of
+what units will move first. Unit
+capabilities are displayed during
+movement and combat, showing
+designation, combat strength,
+leadership and fatigue ratings,
+supply condition, rated effectiveness, terrain stacked on, and
+movement factors left during the
+current turn. When units move into
+an enemy unit's zone of control
+they stop, but are not obliged to
+attack (rigid zone-of-control).
+Moving into an enemy unit's zone of
+control consumes four movement
+points unless moving directly from
+one enemy zone of control to
+another, which consumes eight
+movement points.
+Units must remain within two
+hexes of a depot unit or beachhead
+hex to remain supplied. Units that
+are unsupplied receive deleterious
+
+effects to movement, combat, and
+fatigue ratings. General allocation
+of available Allied amphibious
+transport occurs once every turn
+(two days), and such allocation
+must choose between differing
+percentages of amphibious (unit
+transport), combat supply, general
+supply, and fuel. Beachhead units
+are quite vulnerable to attack, and
+their loss will result in a shut-down of
+that beachhead with a diminution of
+general amphibious transport
+capabilities.
+The amphibious assaults in the
+first turn will require one or two
+divisions to be landed for each
+beach defense to be cleared.
+Beachhead units automatically land
+first, followed by airborne landings
+and ground units during the first
+turn. As the invasion and build-up
+continues, depot units can extend
+the line of supply two hexes from
+beachheads.
+The menu presents a one or twoplayer option, along with options for
+variable Allied and German
+strengths in air and naval firepower,
+transport capabilities, reinforcement
+times, leadership and combat
+ratings, and the ability of the
+Germans to move the first day. An
+average move takes about ten to
+fifteen minutes, with about two to
+three minutes used by the computer
+in the solitaire version of play for
+resolution of German movement
+and combat. The sequence of play
+is traditional — the Allies move and
+then attack then Germans move
+and attack, and finally the end of
+turn results are displayed (with a
+save game option).
+As a historical simulation, BFN is a
+great improvement over Tigers in
+the Snow. The Normandy campaign
+is sufficiently well documented to
+provide correct orders of battle for
+the level of units presented (regiments, brigades, and divisions).
+Once again, as in Tigers, regiments
+and brigades cannot stack together
+or move through the same hex at
+the same time. This last element, in
+BFN is a contradiction of wellestablished unit frontages for the
+period. Nevertheless, this game is a
+generally good representation of
+the Normandy landings and buildup.
+The time used in the computer's
+moves is a dramatic improvement
+upon earlier SSI titles, having a
+minimum of "dead time" as the
+computer moves units and determines combat. No option is presented, unfortunately, for checking
+
+at the end of a movement phase to
+double-check with the player for
+acceptance of that turn's movement. Overall, Battle for Normandy
+is an enjoyable game that will allow
+multiple playings and repeated
+playings with equal satisfaction.
+NAME:
+TYPE:
+SYSTEM:
+
+Space Strike
+Arcade
+IBM PC. 64K, color
+graphics adapter
+FORMAT:
+Disk
+# PLAYERS: 1
+AUTHOR:
+Michael Abrash
+PRICE:
+$29.95
+PUBLISHER: Datamost, Inc.
+Chatsworth. CA
+SPACE STRIKE is a Space Invaders
+type game for the IBM-PC. As one
+would expect, the object is to stop
+the aliens who march across the
+screen from reaching the bottom or
+from destroying your space tank
+(gun). Points are given for hitting the
+alien saucers which travel quickly
+across the screen from time to time.
+High scores are saved to disk.
+The strong points of the game
+include the option of using either
+keyboard or joysticks. Using the
+keyboard is quite cumbersome and
+not suggested if you want to achieve
+any reasonable score. This is not the
+fault of the programmer, but is
+generally the rule for any arcade
+game where agility is needed. The
+author, however, has made it possible for you to change the playing
+keys so that you can select the ones
+that are the most convenient. You
+also have the option to turn the
+sound off and to freeze the game in
+progress.
+SPACE STRIKE is a simple but
+effective game of Space Invaders.
+Graphic quality for the aliens, space
+creatures and missiles is fair. The
+graphics displayed when an alien
+ship is hit is first rate. The accompanying sounds add to the effect.
+When hit, the alien spacecraft
+fragments into many discernable
+pieces which gently float down the
+screen. The destruction of your
+space tank is also finely illustrated.
+Once hit, your craft fragments into a
+mass of tiny pieces as it is strewn
+about the screen.
+In conclusion, SPACE STRIKE is a
+new name for an old game. This
+doesn't change the fact that it is a
+well programmed, error-free game.
+It is recommended to those who are
+looking for a good quality Invaders
+program.
+Mark Lacine
+
+ULTIMA II (Cont.)
+As you travel through the time
+periods you will visit villages, cities,
+castles, dungeons, and towers where
+you can purchase food, spells,
+transportation, armour, and weapons. You can even stop in at the
+local tavern to have a drink and
+hear the local gossip or bribe the
+barkeep for a hint.
+You also have an entire solar
+system to explore with each planet
+having its own features and towns to
+visit. You might even discover the
+whereabouts of the mysterious
+Planet X.
+
+SUGGESTIONS
+Your first quest upon entering
+ULTIMA Ills to safely make your way
+to the nearest settlement to arm
+yourself against the nastier inhabitants that roam the world. You also
+must not forget to make sure you
+have enough food to last for awhile.
+Otherwise you can die if you're too
+far from a village and can't get
+back in time for food. I found this out
+the hard way.
+I spent a lot of time the first few
+tries making new player disks until I
+was able to get close to the water
+and board a frigate. (You need
+"something" in your possession to
+be able to board the frigate but it is
+obtained by doing battle with the
+inhabitants and should not take
+long). It is difficult staying alive until
+a frigate appears. However, once on
+the frigate you patrol the shores of
+the continents and attack the Ores,
+Devils, and Balrons with the ships
+guns. You will find that you lose little
+or no hit points during the battle
+and it doesn't take long to build up
+your inventory of gold, possessions,
+and experience points. The best
+time period for this is the Pangea.
+When you initially travel through
+the time doors you end up being
+stranded on one continent until a
+frigate ventures close. This sometimes
+took a while and I was determined
+to find a solution to this lack of
+transportation. Once you are on a
+frigate you can get other frigates.
+Instead of firing on hostile frigates,
+head for land and dock your frigate.
+Then board the hostile frigate. It will
+become friendly. You now have two
+frigates. In this manner any number
+of frigates can be docked by the
+different time doors. This can be very
+helpful to you as you travel about.
+When you press the "Z" key you
+are shown the status of your characters attributes, experience points,
+and inventory. You have to keep a
+
+careful watch on five items, but four
+of these items deserve special
+attention. They are attributes,
+torches, keys, and tools. You are
+allowed to have 99 of each but go
+just one point above and the total
+resets to zero. It's not healthy to have
+any one of your attributes go to zero,
+let alone having to lose keys that are
+very hard to come across. Experience
+points were very important in ULTIMA
+I and you strive to increase them but
+in Ultima II they are not important
+and if you get above 9999 the
+counter will just reset to zero.
+There are dungeons and towers
+which are similar in detail to other
+popular games but are not really
+necessary areas to explore to win
+the game. However, I did enjoy
+mapping the levels and there were
+definitely new twists added that I
+have not experienced in other
+dungeon-type games. It is very
+expensive to reach the highest floor
+in a tower or the lowest level in a
+dungeon.
+Remember to visit all time zones
+and planets. Transact with everyone
+you can, it is very easy to let the most
+important contact slip through your
+fingers if you are not careful.
+There is one weapon you need
+before you can effectively attack
+Minax and that is the magical
+quicksword ENILNO. The instructions
+say you cannot buy it, you must earn
+it. I had to buy it.
+You use a lot of money in ULTIMA II
+trying to get information so it is wise
+to know where and how to get
+restocked quickly.
+My copy of Ultima II was one of the
+first off the production line. When
+you first build your character you are
+allowed to spread 90 points between the five attributes. If you didn't
+give at least 30 points to strength it
+turned out you were not able to
+wear either the reflector or power
+armor. Without the reflector suit on
+you could not venture out into
+space. I was lucky and gave my
+character 30 points initially and
+never saw that problem. Although I
+never was able to wear the power
+suit which would have made me
+less vulnerable to hits. This has been
+corrected by Sierra On-line.
+The game has a nice feature in
+that it automatically saves your
+character at certain points in the
+game. Even this did not help me in
+one instance, I had ventured out
+into space with very little food and
+was unable to get close to a village
+
+to buy food without dying. At this
+point in the game my character
+had been very strong and I was able
+to travel throughout the time periods
+without too much trouble because
+of the possessions and vehicles I had
+accumulated. I hated to even think
+that I would have to start over. I
+found a partial solution for anybody
+who gets in this predicament. Start a
+new character on a new disk and
+build him up so he has about 5000
+hit points and the same amount in
+gold. Somewhere in this new game
+remove your new disk and put your
+old disk into the drive. Press Q to
+save. The computer will save your
+new character on your old disk. You
+will then still have use of whatever
+frigates, planes, or shuttles that your
+previous character used. I do not
+know if this will work in all instances
+and I recommend it only as a last
+resort, it did save me a lot of time.
+One thing you learn quickly while
+piloting a shuttle is that you only
+have one chance to land. If you do
+not land on grass you die, no
+exceptions. The shuttle will continue
+to circle every planet until you press
+a key so it is wise to allow it to initially
+circle every new planet once before
+you land so that you know what you
+are getting into.
+When you first get into combat
+you start acquiring items that you
+have no idea what they are used for.
+You usually end up finding out the
+hard way so watch your cursor every
+chance you have during battle for
+hints.
+One of the most difficult item(s) to
+find and obtain are the keys. Let me
+just say that the initial few are costly
+but there are ways to use these first
+few to build up more than you will
+need.
+
+CONCLUSION
+The world of ULTIMA II is vastly
+improved over ULTIMA I. The villages,
+castles, and towns are all unique;
+the oceans and lakes even have
+animated water. My only thought
+as I finished the game was that very
+little of this enormous work was
+really utilized as being required to
+complete the game. It was almost
+as if this was only a small initial
+quest to give you the lay of the
+land and that additional scenarios
+would be released, each one using
+more of the game until the
+"Ultimate" quest was finished.
+Therefore I was not surprised at the
+little ad that appeared at the
+bottom of my screen at the
+completion of this quest. It said
+that.
+
+ZORK! (Cont.)
+START, RESTORE, AND SAVE (with up
+to five different saves). For controlling the amount of detail given in
+room descriptions there's BRIEF,
+SUPERBRIEF, AND VERBOSE. And, for
+making a printed transcript of your
+adventure there's SCRIPT and
+UNSCRIPT to turn a printer control on
+and off.
+Even the running problem of every
+adventurer — getting killed —is
+handled with finesse. Instead of
+forcing you to start over at square
+one (perhaps with a re-boot), Zork,
+in most cases, scatters your possessions and reincarnates you near
+where you began the adventure.
+So that I don't lose my reviewer's
+license, or my credibility, I guess I
+should mention a few of Zork's
+shortcomings. The trouble is that for
+a game of its type Zork has no
+serious flaws. If Zork does have a
+flaw, it is that the empire is, perhaps,
+a bit too fanciful — it lacks an
+internally consistent theme. For
+example, Zork I contains, among
+other things, an Egyptian Tomb
+room, a troll room, a Flood Control
+Dam with electrical power, and the
+Gates of Hades. Don't get me
+wrong, these places are exciting to
+discover, explore, and relieve of
+their treasures; but what are they
+doing in the same world? Of course,
+not all adventurers would agree
+with me that "organic unity" is
+important, or even relevant.
+There is one other feature of Zork
+that I almost considered a flaw, but
+am now not so sure. Unlike a wellmade play, or a well-written short
+story, in which all pieces must move
+the plot forward or contribute to the
+whole, Zork has a few, but just a
+few, puzzles that either don't have
+solutions or that don't need to be
+solved to reach the adventure's
+conclusion successfully. I can't
+decide whether these puzzles are
+supposed to be red-herrings or cliff
+hangers.
+Zork is currently available on
+several computers, which explains,
+in part, the existence of an
+organization called the Zork User's
+Group (Z.U.G.): an independent
+company licensed by Infocom.
+Z.U.G. provides (sells) such
+paraphernalia as clue booklets, guidemaps, a full color poster of Zork I (to
+commemorate your visit) and even
+souvenir buttons. Z.U.G. gives (and I
+repeat) a special caution, that their
+guidemaps reveal locations and
+items that an adventurer may want
+
+to discover for himself. With that in
+mind, P didn't look at my Zork I
+guidemap until I was confident I
+had fully mapped out everything. I
+must admit I took special delight in
+comparing the accuracy of my
+map (consisting of several sheets of
+yellowed paper, Scotch-taped
+together) with the official one
+(nicely drawn and printed, of
+course).
+Zork is vast and intricate. I
+counted over 100 interconnecting
+rooms in Zork I alone. This means
+that map making is imperative.
+Examine everything. Remember
+that, especially in mazes, there are
+ten different directions (eight
+compass directions, plus up and
+down). Also, don't hesitate to reexplore old paths. Occasionally,
+new passages open up as you solve
+mysteries, or as events outside your
+control (like earthquakes) occur.
+Finally, even though Zork is a singleplayer adventure, don't go there
+alone if you can help it. It is
+definitely an adventure to be
+shared and enjoyed.
+0
+EPIDEMIC (Cont.)
+completely ineffective, I still had to
+wait out the five full days of the
+attempted cure. Which meant five
+days of unhindered growth!
+Once a region hits P-Phase
+(Pneumonic level) your options
+change from the eight standard
+cures to the four Anti-Pneumonic
+Remedies (APR's). Each of these
+has a different percent chance of
+success, but the effectiveness of the
+remedy is inversely related to its
+chance of working successfully. For
+example, APR 4 has only a 20%
+chance of actually working, but if it
+does, the disease level will be
+reduced by 80%. Conversely, APR 1
+has an 80% chance of working, and
+if it does, the disease level will be
+reduced by 60%.
+My feeling is that unless it is a last
+ditch effort, APR 1 is the way to go.
+Two successful applications of APR
+1 will cure an area, while any nonfunctional APR will only waste your
+turn option and let the disease run
+merrily along its course.
+The ultimate solution is to nuke a
+region. As might be expected, this
+will destroy all the microbes in the
+region. It also has the rather
+unpleasant side effect of destroying
+all other life in the region as well,
+but it will stop the spread of the
+disease. Be careful about nuking
+
+the US, USSR, and Europe, though,
+since these areas control the missiles
+which are your only chance to stop
+the incoming meteorites. If you lose
+your high-tech areas, the effectiveness of your missiles will plummet.
+The only negative I found was
+that at level one, the tracking of
+eight individual radar targets
+(incoming meteorites) was slightly
+tedious. I don't have any suggestions as to how to streamline this,
+and the additional meteorites do increase difficulty, but I got tired of
+waiting out this phase at this level.
+Also, if we could somehow have
+been presented with a parameter
+variation option, that would have
+been nice. Perhaps we could vary
+the number of meteorites, increase
+or decrease the growth and spread
+of disease, or move our command
+post from region to region where it
+might be susceptible to the disease.
+In conclusion, Epidemic is a good
+beginning level strategy game with
+excellent graphics. The game provides a real challenge to constantly
+better your score by curing the
+world as fast as you can. It is easy to
+learn and highly addictive. My
+brother, a pure arcader came over
+for Christmas dinner and played
+four full games of Epidemic before,
+during, and after the holiday feast.
+
+REAL WORLD (Cont.)
+used almost four thousand variables
+to simulate 36 offenses against 24
+defenses. However, the original version did not sell anywhere near my
+expectations. The most reliable
+advice I received admitted that the
+MOCKINGBOARD (Cont.)
+phonemes, 64 of them, to create
+continuous speech. Phonemes are
+fundamental speech sounds which
+can be strung together to form
+words. A typical five-letter word may
+contain ten phonemes.
+The demo diskette has a very
+limited vocabulary. It speaks one
+sentence and a few unconnected
+words. The speech is easily understandable, but it sounds very
+mechanical. The Cylons in Battlestar
+Galactica were opera singers in
+comparison. But it was speech. My
+computer was talking!!
+There was no software to help the
+programmer create his own words,
+and an examination of the BASIC
+code for the demos provided no
+help. The documentation was good
+enough so that a determined
+machine language programmer,
+such as myself, could use it to
+produce spoken words. I had a fine
+time making the computer insult
+anyone who happened to be
+around.
+
+THE MANUFACTURER
+RESPONDS
+My work with the Mockingboard
+generated several questions which I
+was not able to answer. So I called
+Sweet Micro Systems to get them.
+Mr. Rod Nakamoto, the designer of
+the board, spoke to me. He said that
+a utility disk was in preparation
+which would contain a sound effects
+editor, a phoneme editor, and a
+method for saving phoneme strings.
+This disk will be included free with
+the Mockingboard, and those that
+have already bought the Mockingboard will also be eligible to receive
+the disk free. This answers much of
+my criticism of the software and
+documentation included with the
+board, but I have not reviewed this
+promised utility diskette, and I
+therefore cannot attest to its quality.
+Another product which is available
+for the Mockingboard, and which
+the manufacturer was kind enough
+to send me, is the Text to Speech
+Algorithm diskette ($39.95). It will
+allow you to put English words into
+BASIC statements so that the corn-
+
+model was the most complete ever
+done but that the lack of graphics
+and sound effects made the game
+a poor seller. In 1981 I rewrote part of
+the program to create a second
+edition that had Hi-Res graphics
+and sound effects. However, without
+totally discarding the original
+
+puter will say them. It works very well,
+however words have to be spelled
+phonetically (spell chemistry with a
+K).
+
+BUT WHAT ABOUT GAMES?
+If you are into games, but not into
+programming, you may not care
+about producing your own speech
+or sound effects. You want to improve your gaming experience by
+adding speech and better sound
+effects. But you don't spend a lot of
+money on hardware that the game
+companies aren't going to support
+with software. It's too soon to tell yet
+if the Mockingboard will be well
+supported with game software, but
+at this writing two games are already
+out: MICROBE, by Synergistic Software, which is reviewed elsewhere in
+this issue, and THUNDERBOMBS by
+Penguin. Sweet Micro Systems reports that the following games, soon
+to be released, will use the Mockingboard:
+Tactical Armor Assault (Avalon
+Hill) Crime Wave (Penguin).
+
+BUT SHOULD I BUY IT?
+The Mockingboard is for you if
+A) You are a gamer who can't
+wait to have your computer start
+talking.
+B) You are a machine language
+programmer who wants to fool
+around with voice synthesis and
+sound effects.
+C) You are writing user-friendly
+special purpose computer software
+which would be significantly enhanced by providing user instructions in spoken English, e.g. an
+automated bank teller.
+The Mockingboard Sound/Speech
+I is available in many computer
+stores, or it can be ordered directly
+from Sweet Micro Systems, 150
+Chestnut Street, Providence, RI 02903,
+for S299 + $2.50 shipping.
+
+design, I couldn't do much to make
+the game more attractive to the
+mass market.
+Needless to say, a simulation
+game that includes color graphics
+and sound will do much better than
+one without such features. These
+things must be designed into the
+program from the start because of
+their sizable memory needs and
+their overall importance to the product's success. Since the realism of
+a model is reduced as memory is
+used for other things, there is a
+trade-off involved here. If you concentrate on the model too completely you reduce your potential
+audience. However, if you sacrifice
+too much realism you end up with
+an arcade game and those type
+games have their own design constraints and problems. Thus, you
+have to decide what the proper
+balance of realism and playability is
+to suit your subject, your audience
+and your budget. I personally prefer
+to write the kind of games I enjoy
+playing and adjust my design as
+needed to get the income I need.
+Although this phase of game
+design was called "Programming", I
+haven't written a word about programming a computer. Computer
+programming is to game design as
+spelling and grammar are to writing.
+They are tools to use in accomplishing your design not ends in themselves. Also, there are many people
+more qualified than I am to write
+about programming.
+Next time we will cover the last
+step in game design — PLAYTESTING.
+
+R.I.D. was prepared with the help of SPEED STAT by SoftCorp International, Westerville, OH 800-543-1350
+RID#6
+There were 169 R.I.D.s turned in by press time for this issue. The breakdown of users was: Apple (58%); Atari (33%); Others (9%). The mean score for
+RID #6 was 6.83 (our highest average yet). The scores of games evaluated in RID #6 were reduced by .46 to adjust them to the overall mean of 6.37
+that has been adopted for RID score comparisons. The scores for RID #6 have been incorporated in the overall rating table below.
+GAME RATINGS
+The following table includes all games evaluated by our readers since May 1982. For a game to be included in this listing it must first have been
+offered for rating in our regular RID rating system. Games offered for evaluation are those covered in the magazine and/or have a good sales record
+during the time of evaluation. Once offered for evaluation the game must have been evaluated by a sufficient number of readers to be included in
+the results. Any game not evaluated by at least 20% of the respondents owning the machine that the game runs on were not included in the results.
+Games were rated on a scale of 1 (terrible) to 9 (outstanding). Respondents were asked to consider such things as PRESENTATION (graphics, sound,
+packaging, documentation); GAME DESIGN (design, playability, interesting?), Life (does the game wear well?).
+R.I.D. #7 (Use card provided)
+On page 46 a number of games and articles are listed for evaluation. Please take time to evaluate these games and articles. Use the guidelines
+above for game evaluation. Leave blank any game which you have not played enough to have formed an opinion.
+
+

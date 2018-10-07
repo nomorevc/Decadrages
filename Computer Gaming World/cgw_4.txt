@@ -1,0 +1,3269 @@
+VOL. 2 NO. 3
+
+MAY - JUNE 1982
+
+Features
+6
+
+WIZARDRY: PROVING GROUNDS...
+
+Mark Marlow
+
+Review of Sir-tech's popular fantasy game
+
+10
+
+A BEGINNER'S GUIDE TO STRATEGY AND
+TACTICS IN EASTERN FRONT
+
+Bob Proctor
+
+TIME ZONE: AN INTERVIEW WITH ROBERTA WILLIANIS
+
+14
+16
+
+VOYAGER I: SABOTAGE OF THE ROBOT SHIP
+
+Dave Jones
+
+Avalon Hill's new game reviewed
+
+SOME SCENES FROM THE 7TH WEST COAST
+COMPUTER FAIRE
+
+20
+22
+
+LONG DISTANCE GAMING: GAMES VIA
+THE SOURCE AND COMPUSERVE
+
+Deirdre Maloy
+
+26
+
+JABBERTALICY, IN DEPTH
+Automated Simulation's word game reviewed
+
+Marty Halpern
+
+GREATEST BASEBALL TEAM - RESULTS
+
+30
+
+OLYMPIC DECATHLON: A CLASSIC COMPUTER GAME
+Muse's popular game analyzed
+
+THE EAGLE HAS LANDED: A TRS-80 REVIEW
+Adventure International's Lunar Lander game reviewed
+
+SWASHBUCKLER: ANOTHER KIND OF PIRACY
+A new game from DataMost
+
+32
+Russell Sipe
+
+34
+Richard McGrath
+
+36
+Michael Cranford
+
+Departments
+Letters
+Hobby & Industry Notes
+Initial Comments
+Atari Arcade
+Silicon Cerebrum
+Writing for Computer Gaming World
+Reader Input Device
+
+2
+4
+4
+18
+24
+39
+40
+
+LETTERS
+FROM "CARTEL" AUTHOR
+Dear Editor:
+A magazine that deals exclusively
+with the field of computer games is
+an idea whose time has come! As a
+computer games designer (I have
+written Computer Quarterback and
+Cartels & Cutthroats for SSI) I was
+optimistic about the impact a publication such as yours could have on
+our young industry. However, after
+considering the Micro-Reviews in
+your Jan/Feb issue, I am seriously
+concerned as to whether that impact
+will be as positive as it could be.
+With an ever expanding array of
+competing products available each
+month, responsible reviews that
+give authors and publishers critical
+feedback and that provide consumers with reliable information to
+aid buying decisions are a major
+part of the role of a publication such
+as yours. Regrettably, at least as regards the Jan/ Feb Micro-Reviews, I
+feel your accomplishment fell short
+of your promise. The review of
+Cartels & Cutthroats, of which I am
+co-author, was very disappointing
+both in itself and as regards potential comparisons with another
+business program reviewed at the
+same time.
+So as not to sound "sour grapes" I
+will tell you that Cartels has been
+reviewed in print by educators, economists, management training consultants, and observers of the microcomputer software field (most notably David Ahl - owner and publisher
+of Creative Computing) --all of whom
+had high praise for the achieve.
+ments of Cartels & Cutthroats. In
+addition, the information that my
+publisher has received in the form of
+"feedback/warranty cards" indicates
+that purchasers are equally pleased
+with this product. Since its introduction a year ago 99% of the people
+returning cards (a demographically
+diverse group) have stated that
+Cartels was fun to play. Cartels was
+also ranked consistently first or
+second in playability and realism
+against SSI's impressive portfolio of
+20 games by consumers during that
+year. Thus, I feel safely sure of the
+quality of Cartels & Cutthroats even
+though your reviewer had doubts.
+Although the overall impression
+of your review was positive, the reviewer wrote an awkwardly unbalanced report on the game. The basis
+on which a product must be judged
+
+is against its objective and how well
+it is met. In several places on the
+packaging and in the game manual
+Cartels states its goal to be a playable game built on a foundation of a
+very realistic business simulation.
+If we look only at those sections of
+your review that deal with this issue
+such points as follow are made:
+"well executed economic simulation", "quite good...market simulations", "well executed and allow
+interaction by players", "a good
+introduction to micro-economics",
+and "an excellent program". However, the overall impression of reviewer ambivalence is conveyed by
+the fact that with each positive
+comment (dealing with an issue of
+major importance to the objective of
+the game) there is also a negative
+comment (concerning some superficial element of the program). The
+casual reader, therefore, gathers a
+mixed impression from sentences
+like: "The market simulation seems
+quite good although even the manual
+admits that beyond 40 quarters the
+economic simulation begins to breakdown". The two points are hardly
+parallel! The reason we said the
+simulation "may" breakdown is
+that we never played a game that
+long. In Cartels a short game is 8
+quarters, a normal game 10 or 12
+quarters, and a long game (requiring over 8 hours to play) would
+be 20 quarters. Why would anyone
+consider not being able to play a
+game for over 16 hours (40 quarters)
+as a serious flaw?
+Another draw-back, at least according to the reviewer who devoted
+an entire paragraph to it, is the
+"tedious" graphics and sound effects. In our play-testing, these features were found almost universally
+appealing. In fact, the cute sayings
+and animated interlude that the
+reviewer considered repetitious were
+introduced as a result of "human
+engineering" that found that people
+had a better "feel" for the time
+pattern of the game if such delays
+were introduced. In my observation
+it was disruptive to people who
+spent a relatively large amount of
+time observing the results of their
+previous plans and developing strategies for the next turn if the computer simply returned the results
+instantaneously. The delay was
+introduced to "simulate" the fact
+that the player's review and planning took place at a "no-time-interval" between three long months
+during which plans were implemented, products were manufactured,
+and sales were made. Although few
+
+players of Cartels are aware of this
+reasoning, the vast majority found
+that the animated interlude made
+the game "feel better". A reviewer
+could very well miss the subtlety of
+this element, but one not so obsessed
+with "delays" might have at least
+not wasted a whole paragraph on a
+point that in no way reduces the
+game's overall fitness as a playable,
+realistic business simulation.
+However, though I obviously take
+issue with the perceptions of your
+reviewer concerning Cartels & Cutthroats, I feel the greater damage is
+done by the fact this demonstrates
+your lack of a standard policy for
+reviews. Product reviews can potentially help consumers choose between competing programs, but if
+your current review practices are
+continued, we are back to "buyer
+beware". The review of Cartels &
+Cutthroats was preceded by a similar look at a program called "Wall
+Street" by Donald Brown. I do not
+wish to "pick on" Wall Street, but a
+comparison of the two products and
+reviews is a perfect example of how
+the lack of a formal review policy
+destroys your credibility. While the
+reviewer of Cartels points out the
+limitations of its 15 page (12,000
+word) full-size typeset manual, no
+mention is made of the six page
+(2400 word) full-size notes that accompany Wall Street. Cartels &
+Cutthroats is packaged in SSI's
+attractive four color box (that has
+become the industry standard for
+sophisticated software products) and
+includes a short rules reference card
+and a pad of planning sheets while
+Wall Street is in a simple "zip-lock"
+bag with a disk. Cartels & Cutthroats costs $39.95 while Wall Street
+sells for $29.95. I won't attempt to
+make distinctions in the less tangible aspects of the two products
+except to say that they differ significantly in realism and playability.
+However, the overall impression in
+the Wall Street review was slightly
+negative and in the Cartels review it
+was somewhat positive. I am certain
+that if one reviewer wrote both
+reviews (instead of the two very
+different writers you employed) there
+would have been much broader
+distinctions drawn than appeared
+in the Jan/Feb issue.
+I propose that you have a panel of
+reviewers for each field of interest
+(such as business games, wargames,
+adventures, etc.) who would communicate frequently enough to standardize their perceptions. Thus, even
+if different reviewers look at dif-
+
+ferent products the overall rating of
+a product would reflect some objective standard. This method has been
+used very effectively by InfoWorld. I
+hope you accept my suggestion in
+the constructive spirit in which it is
+offered.
+Dan Bunten
+Management Systems Engineering
+Little Rock, AR
+As Lucretius said "What is food to
+one, is to others poison." This is with
+no one more true than with computer garners. There are many different types of computer games
+which appeal to many different
+types of gamers. We try to keep this
+fact in mind when we select the
+articles/ reviews that will appear in
+CGW. As an individual, I find Cartels to be a better game than Wall
+Street. But, as an editor, I must
+realize that every review need not
+necessarily reflect my own bias. If I
+feel that a review has misrepresented a game in either direction, I
+will reject it or return it for correction. However, as you point out,
+the overall tone of the Cartel review
+was positive while the Wall Street
+review was somewhat negative.
+Your suggestion for a panel of
+reviewers in various areas is a good
+one which I would like to implement
+as time goes along. As of now, we
+continue to look for more "quality"
+writers to make CGW the type of
+magazine that all computer gamers
+would like to read. --Ed.
+
+games is to discover things on your
+own, but it can be quite frustrating
+until you find the correct procedure.
+For example, I lost three of my best
+Swordthrust characters trying to
+scale the cliff in Swordthrust #3
+(Kidnapper's Cove) before I learned
+the alternative from a friend.
+Joe Ankenbauer
+Council Bluffs, IA
+Dear Editor,
+I am greatly enjoying CGW. However, I hope you will PLEASE avoid
+giving away answers to challenges,
+as was done in Deirdre Maloy's
+review of Ultima. For example,
+comments such as "will always be
+caught...in that city"; "can be found
+on the third floor of a dungeon";
+"can be reached only by boat or air
+car" spoil the reader's fun of discovering these facts for him/herself.
+ANY clues spoil the fun.
+
+As these two letters illustrate there
+is a disagreement as to the merit of
+including hints for adventure games.
+We have decided to compromise.
+When hints are included in an
+article they will be in slip code. The
+reader must shift each letter one
+position to translate the hint. In this
+manner we hope that those who
+want the clues can get them and
+those who do not will not read them
+accidentally. - Ed.
+
+Dear Editor:
+I am glad to see a publication like
+Computer Gaming World at this
+time. The two local computer stores
+do not stock a large selection of
+computer games, and it's nice to be
+able to keep abreast of the latest
+developments in computer games.
+I do have two suggestions that I
+would like you to try to incorporate
+into your magazine. First of all, it
+would be nice if there were a few less
+articles about computer wargames
+-not all of us are wargame fanatics. I
+myself would prefer more articles on
+fantasy & adventure games. Secondly, I would like to see a column
+that would provide would-be adventurers like myself hints for the
+various games (e.g., Wizardry, Swordthrust, Zork, Dunjonquest, and/or
+the Scott Adam's Adventure Series).
+I realize the main objective in these
+
+There also seems to be a preoccupation among your staff with
+wargames. Although these can be
+enjoyable, the arcade style games
+are much more exciting and hold
+one's interest longer than a game
+that may take hours or days to
+complete.
+The graphics and sound are far
+superior on the Atari 800 and it's
+time the computer gaming world
+realized this fact. Software for the
+Atari is growing by leaps and bounds
+and soon will equal Apple in numbers.
+I feel that your magazine must
+cover all the major computers so
+that it will be a representative publication for the great big computer
+gaming world and not just another
+orchard for Apple.
+Phil Karst
+Indianapolis, IN
+
+Ken Sherwood
+Reading, PA
+
+2.1 COVER
+Dear Editor,
+
+of the numerous new games for Atari
+were even mentioned. Every game
+(except 1 TRS-80 game) review was
+for the Apple.
+
+I would like to congratulate you on
+the quality of your new magazine, it
+looks like you are off to a great start.
+In particular, the cover of vol 2, no. 1
+is fantastic. It exactly captures the
+status of computer gaming at the
+present time. Personal computers
+bear the same relationship to the
+human race as the 2001 monolith
+bore to the pre-humans. If you ever
+publish a poster series, this should
+be among the first.
+W. B. Brogden
+Port Aransas, TX
+
+NOT ENOUGH ATARI
+Dear Editor:
+The cover of 2.2 should have been
+an Apple grove instead of a maze of
+hedges! There was not one article on
+games for the Atari. Only a handful
+
+Hurray for Atari users! The paucity
+of Atari reviews in CGW to this
+point is due to the fact that we
+haven't had much of a response
+from Atari gamers. Atari users--lets
+hear from you.
+CGW began business with an
+Apple II last summer. We expressed
+interest in Atari articles (and
+TRS-80)whenvrcamito
+with those users. We have just
+purchased an Atari 800 and hope to
+cover the Atari market more completely. You will note that a regular
+department on Atari-arcade games
+begins in this issue—Atari Arcade.
+Manufacturers of Atari computer
+game programs are encouraged to
+send review copies of their products.
+We are still looking for TRS-80
+reviewers. Richard McGrath can't
+cover the whole field no matter how
+much he'd like to.
+
+PLEASE
+TAKE TIME
+TO FILL OUT
+READER INPUT
+DEVICE
+(P. 40)
+
+HOBBY AND
+INDUSTRY NEWS
+Broderbund Software has released
+DUELING DIGITS and LABYRINTH for the Apple II computer.
+They have also released an Atari
+version of their popular APPLE
+PANIC. All three sell for $29.95.
+DALE ARCHIBALD has recently signed a contract with the Field
+Newspaper Syndicate to write a
+weekly computer software and hardware review column. You may see it
+in your local newspaper in the near
+future.
+SSI will be publishing the first
+"monster wargame" for the computer. GUADALCANAL CAMPAIGN
+(slated for late June/early July release) will be 292 turns long in the
+campaign scenario. The four basic
+scenarios are Coral Sea, Battle of
+Eastern Solomons, Battle of Santa
+Cruz Island, and Guadalcanal. Each
+ship, plane and battalion of the campaign is represented. Can be played
+as a two-player game or against the
+
+computer (computer plays the Japanese). Air, land, and sea battles.
+Wow! It will sell for $59.95.
+When SSI released ROAD TO
+GETTYSBURG they added a new
+twist to their games--the option of
+fighting the tactical battles with
+miniatures. They went back and
+added this option to NAPOLEON'S
+CAMPAIGN'S 1813 & 1815. If you
+have the old NAP. CAMP. 13 & 15
+disk you can return it with $5.00 for
+an updated disk. Their address is
+465 Fairchild Dr., Mountain View,
+CA. 94043.
+By the time you read this magazine SSI should have the 1981
+COMPUTER BASEBALL team
+data disk available (including the
+season stat complier). Send $15.00
+for disk.
+Those that would like to have the
+GBTOAT teams (see results in this
+issue) on disk can drop a postcard to
+J.K. LEE 1519 Santa Teresa, So.
+Pasadena, CA 91030, for information.
+Automated Simulations is sponsoring RICOCHET BOUNCE OFF
+(a national championship tournament for their action/strategy game).
+
+INITIAL
+COMMENTS
+In addition to games mentioned
+elsewhere in this issue the following
+games have been received by CGW.
+Most but not all of these games will
+receive more detailed attention in
+future issues.
+Cavalier Computer
+P.O. Box 2032
+Del Mar, CA 92014
+MICROWAVE: A maze-chase
+game which pits "Teddy the Salvage
+Man" against the decadent aliens.
+Teddy patrols a spaceship picking
+up faulty equipment while avoiding
+the aliens. Microwave dishes can
+be dropped which kill aliens.
+Data Most
+19273 Kenya St.
+Northridge, CA 91326
+All Data Most games run on
+Apple II with 48K.
+CASINO: Five casino games are
+available on this $39.95 disk-roulette,
+poker, keno, blackjack and baccarat.
+
+You can get information from your
+local computer store or write directly
+to Automated Simulations at P.O.
+Box 4247, Mountain View, CA 94040.
+Deadline for entries is June 30, 1982.
+Automated Simulations new golf
+game, FORE!, should be available
+early in May.
+SSI will release SYMTRON
+MASTERS in early June. SM is a
+futuristic robot combat game with
+tactical aspects and limited control
+over robots through the commander.
+It will cost $39.95.
+Avalon Hill has a long list of titles
+coming out in the months ahead. By
+the time you read this DRAW
+POKER, BOMBER ATTACK,
+TANK ARCADE, ROAD RACER/
+BOWLER and SHOOTOUT AT
+THE OK GALAXY should be out.
+According to AH these will be aimed
+at the Atari 400/800 markets with
+selected titles on the Apple, Pet, and
+TRS-80 Color Computer. COMPUTER BASEBALL STRATEGY
+should be RD, G.F.S. SORCERESS,
+COMPUTER FACTS IN FIVE, and
+ALIEN.
+
+SNACK ATTACK: Data Most's
+maze-chase game. Five levels of
+play keep this $29.95 game interesting.
+COUNTY FAIR: Shooting Gallery
+arcade game similar to the coinoperated arcade game. $29.95.
+THIEF: Similar to the coin-operated arcade game BEZERK.
+$29.95.
+H.A.L. LABS
+P.O. Box 2411
+Riverside, CA 92516-2411
+TAXMAN: Billed as "the definitive
+version of the popular game" this
+Apple II game looks just like the
+popular arcade game. Keyboard
+play. $23.00.
+Spectral Associates
+141 Harvard Ave.
+Tacoma, WA 98466
+COLOR SPACE TRADERS:
+Economic game of establishing
+space shipping lanes. Similar to
+the board game ACQUIRE. Runs
+on the TRS-80 Color Computer
+(16K gives low-res graphics, 32K
+gives hi-res graphics).
+COLOR SPACE INVADERS:
+TRS-80 Color Computer version
+
+of the popular arcade game. Nonextended basic.
+MADNESS AND THE MINOTAUR: An adventure game of
+the Traditional "two-word command"
+type. TRS-80 Color Computer. Nonextended basic.
+GHOST GOBBLER: A TRS-80
+Color Computer version of PACMAN. 16K non-extended basic
+required.
+Avalon Hill
+4517 Harford Road
+Baltimore, MD 21214
+COMPUTER STOCKS &
+BONDS: Computer version of
+AH's board game STOCKS &
+BONDS. Available for the
+TRS-80,ApleIPEtari40/8,
+and IBM personal computers. Disk
+versions $25.00; tape versions
+$20.00.
+GUNS OF FORT DEFIANCE:
+Strategy/arcade game in which
+you command a 19th century artillery piece repelling cavalry, infantry or another artillery piece.
+Runs on TRS-80, Apple II, Pet,
+Atari 400/800 and IBM personal
+computers.
+Lighting Software
+P.O. Box 11725
+Palo Alto, CA 94306
+MASTERTYPE: A typing instruction system/game using a hi-res
+game format to teach/improve
+typing skills. Seventeen progressive
+lessons help develop mastery of
+the whole keyboard. Apple II
+48K.
+Voyager Software
+P.O. Box 15-518
+San Francisco, CA 94115
+STARSHIP COMMANDER: A
+hi-res space combat simulation in
+which the player simulates the
+various aspects of being a commander of a starship. You must
+manage a crew, allocate power,
+maintain shields, navigate, fire
+weapons, and destroy up to three
+enemy vessels. Look for more in
+our next issue on this very well
+designed program. Apple II 48K.
+L & S Computerware
+1589 Fraser Dr.
+Sunnyvale, CA 94087
+CROSSWORD MAGIC 2.0: Updated version of their crossword
+generation program. Puzzles can
+be created, saved, printed out, worked
+on monitor. $49.95.
+
+Strategic Simulations
+465 Fairchild Dr. Suite 108
+Mountain View, CA 94043
+THE ROAD TO GETTYSBURG:
+a computer simulation of the Gettysburg campaign based on the Napoleon's Campaigns 1813 & 1815
+game. Apple II 48K, $59.95.
+THE PURSUIT OF THE GRAF
+SPEE: Younger brother of Computer Bismarck. This one recreates
+the final days of the German pocket
+Battleship Graf Spee. Tactical battles
+can be fought on-line or with
+miniatures. Apple II 48K. $59.95.
+AIR COMBAT DATA DISK:
+Contains over 70 new aircraft
+from WWII and the Korean War.
+$15.00.
+Sir-Tech Software, Inc.
+6 Main Street
+Ogdensburg, N.Y. 13669
+KNIGHT OF DIAMONDS: the
+second scenario for their popular
+Wizardry role-playing simulation.
+Highland Computers, Inc.
+14422 S.E. 132nd
+Renton, WA 98056
+Five hi-res adventure games (all
+Apple 48K):
+GOBLINS: (animation); $27.50.
+MUMMY'S REVENGE: (full
+color hi-res); $30.00.
+OLDORF'S REVENGE: $19.95.
+TARTURIAN: $24.95.
+CREATURE VENTURE: (animation); $24.95.
+Gamma Software
+P.O. Box 25625
+Los Angeles, CA 90025
+HOCKEY: A high-speed game
+of hockey. Two to four players
+control the two teams in this exciting game which rewards skill.
+Similar to the Atari home video
+version of hockey. Requires 16K
+and sells for $29.95.
+80-Northwest Publishing Inc.
+3838 South Warner St.
+Tacoma, WA 98409
+THE CAPTAIN 80 BOOK OF
+BASIC ADVENTURES: 252 page
+book with listing for 18 different
+adventure games. Includes 10 chapters
+of background material about writing
+and playing adventures. All for TRS-80.
+Nice introduction by Scott Adams.
+$19.95.
+
+BASIC INFORMATION
+NAME:
+Wizardry
+TYPE:
+Graphic Adventure
+SYSTEM:
+Apple II 48K
+FORMAT:
+Disk
+# PLAYERS: 1
+AUTHOR:
+Andrew Greenberg &
+Robert Woodhead
+PRICE:
+$49.95
+PUBLISHER: Sir-tech Software
+6 Main Street
+Ogdensburg, NY 13669
+
+HEAR YE, HEAR YE! Our Noble Lord and Most
+gracious ruler, Trebor the Beneficent, has need of
+brave men and women with stout hearts and
+strong constitutions to undertake the task of
+recovering an amulet; treacherously stolen by the
+evil wizard Werdna. Be ye warrior, wizard, priest
+or thief-human or otherwise-ye are welcome! Adventurers are invited to meet at the tavern of
+Gigamesh. Successful candidates will be knighted
+and hired into the king's service. Please leave
+name and address of next of kin at the Adventurer's Inn. (We need to know who to bill in case of
+accidental death or dismemberment!)
+Such might be the bulletin posted in a medieval
+town in some epic fantasy tale. WIZARDRY:
+The Proving Grounds of the Mad Overlord is a
+
+game of epic proportions comprising nearly 14,000
+lines of code on both sides of a diskette. The
+brainchild of Andrew Greenberg and Robert
+Woodhead, WIZARDRY is the culmination of
+nearly 21/2 man-years of intensive effort. The
+original WIZARDRY program was written in
+Basic which proved too slow to make the game a
+viable product. The game was rewritten in Pascal
+but was delayed until the release of a runtime
+system which would allow the game to be played
+on Apples without language systems. The final
+result is a game which is superbly playable but
+with enough variation and complexity to whet the
+appetite of the most discriminating adventurer.
+THE WORLD OF WIZARDRY
+WIZARDRY is a fantasy role-playing game
+modeled on the Dungeons and Dragons game
+concept with the computer assuming the role of
+the Dungeon Master. The world of "The Proving
+Grounds of the Mad Overload" consists of a castle,
+an inn, a tavern, a trading post, a temple, the
+training grounds, and a three-dimensional maze,
+ten levels deep, below the castle.
+The training grounds located at the edge of
+town, are the first of several stops you must make.
+Here, you enter a name and/or password for your
+character. You are then given a choice of races.
+Wizardry characters may be humans, dwarves,
+elves, gnomes or hobbits. At this point you are
+asked to choose the character's alignment. A
+caution here, only characters of similar alignment
+can travel together. For example, neutral characters may travel with either good or evil alignment
+groups, but good and evil may never mix. The
+
+computer then generates a random number of
+points which you may add to the character's basic
+attributes. The six attributes are Strength, I.Q.,
+Piety, Vitality, Agility, and Luck.
+Based on the character type you pick and the
+points you assign, you may choose one of the
+classes which appear on the screen. Beginning
+players will usually be allowed to pick fighters,
+mages, priests, and thieves. As the characters
+gain experience, you will have the option of changing the class of your character to an elite class. The
+elite characters are bishops, lords, samurai, and
+ninja.
+However, there are drawbacks to changing the
+class of your character. The first and foremost
+drawback is that your character loses all of his
+experience points. The second is that your character will age. Attributes tend to decline after age 50
+and the effectiveness of spells, etc., will decrease in
+direct proportion to the decline in attributes.
+Now that the characters are created, the next
+stop is Gigamesh's Tavern. Parties are assembled
+here before entering the maze. After the party is
+assembled, a trip to Boltac's Trading Post is in
+order. There is a wide selection of weapons, armor,
+and magic spells. Boltac has been known to run
+out of items so don't rely on Boltac's for all of your
+equipment. Some very powerful items can be
+found by opening chests in the maze. Any items
+you cannot use can be sold back to Boltac at half
+the retail price.
+
+ENTERING THE MAZE
+Anytime you enter the maze, you will automatically be in camp. The first time you enter you
+should EQUIP the entire party. As you do this, the
+armor class of each player who has purchased
+armor drops considerably. The lower the number,
+the stronger is his armor. When you leave camp,
+the maze appears in 3-dimensional aspect in the
+upper left corner of your screen. Movement is
+generated using either "R" and "L" for right and
+left, "F" for forward or the "A", "W", "D" group for
+left, forward, and right respectively. When you
+come to a door, you must use the "K" command to
+kick in the door. Some rather nasty surprises are
+usually waiting for you on the other side.
+
+MAGIC SPELLS
+Probably the single most fascinating aspect of
+Wizardry is the ability of priests, mages, bishops
+lords, and samurai to cast spells. Wizardry comes
+with a book of some fifty spells which the magic
+users can cast by uttering a magic word. Arcane
+sounding words such as MILWA and LOMILWA
+can shed light in certain situations. The spells
+cannot all be used at the outset. As in real life, the
+
+ability to use certain things must be gained
+through experience. Therefore, in order to be able
+to cast the higher level spells, your character must
+gain enough levels to learn these spells. Another
+nice little item worth remembering is that you only
+have a certain number of spell points. Once these
+are exhausted you must leave the dungeon and
+rest up before the points are renewed.
+Certain items in the dungeon also have magical
+qualities. Bishops have the ability to identify
+these items, it is, therefore, a good idea to bring one
+along in the early stages of the game. If you don't
+bring a bishop, you will have to pay exorbitant
+rates at Boltac's to get the items identified. You
+could always take a chance and equip your
+char-tewi msyoufnd,btihemscur
+your characters performance in battle could be
+adversely affected.
+
+MAPPING THE MAZE
+Each level of the dungeon is a grid measuring
+approximately 20 by 20. Mapping is essential to
+survival in the game. Being trapped on an
+unknown level and getting the entire party slaughtered because you didn't know the way to the stairs
+has caused many a nightmare for unsuspecting
+adventurers. The stairs leading to the castle are
+located at co-ordinate 0,0. The casting of a
+DUMAPIC spell will tell you your exact location
+with respect to the stairs to the castle. By using
+DUMAPIC in conjunction with MALOR, the
+teleportation spell, you can pretty much travel all
+over the maze with relative safety. Just remember
+that the stairs are one level below the castle, so
+that if DUMAPIC tells you that you are 13 steps
+east, 10 steps north, and 7 levels down; you must
+go 13 west, 10 south, and 6 up to arrive at the
+stairs.
+Wizardry is an extremely complex game and one
+of the most challenging tasks is to complete an
+accurate map of all ten levels. There are many
+tricks programmed in to make mapping difficult. I
+would appreciate receiving copies of maps from
+any readers who have mapped all ten levels and
+compare them to the ones I have made. If I can
+compile what I believe to be an accurate and complete representation of all ten levels, and the
+public response is favorable, then the maps may
+be published in this magazine. Also, if you have a
+list of magic items and their uses, I would like to
+
+compile a guide to the objects you can find in the
+maze.
+GRAPHICS
+If you are looking for a game with extensive
+graphics and sophisticated animation, then Wizardry might disappoint you. The graphics appear
+in the same small square that depicts the 3-D
+maze. The monsters appear in the corner and a
+description of the monster group(s) appears at the
+top of the screen. Several things can occur during
+an encounter. You could surprise the monsters and
+have one round of unanswered combat. If the
+monsters surprise you, then they get one round of
+unanswered combat. If you both run into each
+other at the same time, the computer will randomly pick who gets to fight first, though high
+agility or luck could swing things in your favor.
+Encounters are fought in turns: you determine
+what each character in your band is going to do,
+then the computer gives you the result in rapid
+sequence. The display speed can be adjusted from
+1 to 5000 which translates to anywhere from a
+fraction of a second to five seconds.
+UTILITY OPTIONS
+The boot side of the Wizardry diskette has a
+number of important utility options. If you are
+playing the game and accidentally hit reset, you
+may use the RE)COVER option to save the characters who are in the maze. In older versions, this
+would cause the characters to age 10 years, but the
+newer versions have removed this penalty.
+The M)AKE SCENARIO option allows you to
+create an unlimited number of back up scenarios.
+This option enables you to use the copy you create
+to play the game, saving wear and tear on the
+original. The option does require two disk drives.
+The B)ACKUP CHARACTERS option allows
+you to save your characters onto a DOS 3.3 initialized disk in case you should crash the program and inadvertently wipe out your characters.
+You can recover from the back up directly onto the
+scenario from which you made the back up.
+Another option allows you to change the names
+of characters. This is useful when you transfer
+characters between scenarios and find that you
+have two characters with the same name.
+The T)RANSFER option allows you to transfer
+characters between Wizardry scenarios, though it
+deletes the character from the source scenario
+before writing it to the new scenario.
+Finally, there is the U)PDATE option, which
+allows you to update a friend's Wizardry disk if it
+is an older version.
+TIPS ON STRATEGY
+The biggest mistake you can make in Wizardry
+
+is to attempt too much too soon. Patience is definitely a virtue. The first few forays into the maze
+should be hit and run type maneuvers. Fight one
+encounter, then get the heck out of the maze. Use
+your healing spells often. The strongest initial
+group consists of three fighters, two priests, and a
+mage. Later, you should include a thief (great for
+disarming trapped chests) and possibly a bishop
+to identify objects. A level 12 or higher bishop can
+identify most objects fairly quickly.
+Don't attempt going down to the third or fourth
+levels until your characters are level 10 or higher.
+Hit points can be lost quickly so use your priests to
+heal during combat. Later, when your characters
+have found and defeated Werdna, you can find
+ways to build up characters rapidly.
+1) Finding the entrance to the 10th level.
+(UIFSF JT B DIVUF MPDBUFE BU
+9F,30,9E)
+2) Fighting greater demons.
+(VTJOH MBLBOJUP XJMM VTVBMMZ
+TNPUIFS BCPVU IBMG PG UIFN)
+3) Finding the gold key.
+(UIF HPME LFZ JT MPDBUFE PO UIF
+TFDPOE MFWFM JO B EBSL BSFB)
+4) Getting back into the castle after defeating
+Werdna.
+(JG ZPV BSF JO XFSEOITT MBJS, DBNQ
+JNNFEJBUFMZ, DBTU NBMPS BOE VTF
+UIFTF DPPSEJOBUFT: 28X, 4T, 10V)
+CONCLUSIONS
+Wizardry is complex, but even with its complexity, is an extremely playable game. It is highly
+interactive to the point that you could easily become emotionally attached to the characters you've
+created. I've talked to many players who have
+become Wizardry addicts to the point that they
+play the game eight to ten hours a day.
+I personally could find little to fault with Wizardry. The biggest fault I could find in the mechanics of the game was that it was too easy to get
+killed at first. This is very frustrating for a first
+time player. Even experienced characters could be
+killed off relatively easily if surprised by a group of
+spell casters.
+Another thing which would enhance the game
+would be the addition of more puzzles to solve.
+While the main quest is a difficult one to solve,
+smaller and more cryptic puzzles would greatly
+add to the overall effect.
+In conclusion, I would rate Wizardry as one of
+the all time classic computer games. It sets the
+standard by which all fantasy role playing games
+should be compared. In the years to come, if there
+ever is a Gaming Hall of Fame, Wizardry receives
+my vote as the first entry into its hallowed halls.
+
+A BEGINNER'S GUIDE TO
+STRATEGY AND TACTICS IN
+EASTERN FRONT
+
+By Bob Proctor
+BASIC INFORMATION
+NAME:
+TYPE:
+SYSTEM:
+FORMAT:
+
+Eastern Front
+Wargame
+Atari 400/800
+
+Disk or Tape
+# PLAYERS: 1
+AUTHOR:
+Chris Crawford
+PRICE:
+Disk--$29.95; Tape--$26.95
+PUBLISHER: Atari Program Exchange
+P.O. BOX 427
+155 Moffett Park Dr., B-1
+Sunnyvale, CA 94086
+EASTERN FRONT 1941 has been getting a
+lot of attention for a computer wargame. It was
+reviewed in CGW, of course (issue number one),
+but it has also been acclaimed in a computer magazines like BYTE and CREATIVE COMPUTING
+because of its excellent human engineering and
+graphics. I noticed a peculiar thing, though, when
+I started talking to people who had played the
+game. They either thought the game was too easy
+or impossible; nobody felt that the level of
+challenge was "just right."
+This dichotomy suggests that there is a secret to
+winning which one either knows or doesn't know.
+
+Perhaps it doesn't deserve to be called a secret;
+every experienced wargamer I know has found it
+within three playings. It is a matter of setting the
+right strategic goals and discovering the tactics to
+carry them out.
+This article was written to help those of you with
+little or no wargaming experience. I don't want to
+give you the answer on a plate but will try to direct
+your thinking. That way you can still experience
+the feeling of accomplishment that comes
+with that first win.
+What is a "win" anyway? The rulebook suggests
+that any score over 100 is very good. I estimate
+that the actual progress made by the German
+army in 1941 would rate about 110 or 120. But this
+is a solitaire game, a win can be setting some
+objective for yourself and meeting it. You could,
+say, add 100 points to your best score and go for
+that. The best you can get is 255; around here the
+good players compare the number of Russian
+units left on the map to tell the difference between
+a so-so 255 and a really good 255!
+STRATEGY: THE BIG PICTURE
+Strategically, what Hitler needed were the
+resources of the Soviet Union: the oil, the wheat,
+the industrial facilities, the labor force.
+EASTERN FRONT, I'll call it (EF), represents this
+by giving points for occupying territory. To quote
+from the rules, "...maximum victory points are
+gained by moving as many muster strength points
+
+as far to the east as possible, while destroying as
+many Russian combat strength points as possible
+and pushing the remainder to the east." In
+addition, 50 points are awarded for the control of 4
+major cities, Moscow being worth 20 and
+Leningrad, Stalingrad and Sevastopol 10 each.
+It sounds pretty straight-forward, until you try
+it and discover that the real problem is not getting
+the points but keeping them. The game opens in
+June and lasts 40 weeks (a turn is one week). There
+are 14 turns of good weather, 4 turns of mud, and
+22 turns of winter. Trying to hang on to your gains
+during the Russian winter counter-attack can be
+one of the most frustrating experiences in
+wargaming! Against a strong Russian force, it is
+utterly impossible. We must therefore find some
+way to weaken this counter-attack. Any unit
+which survives until winter can become strong
+and dangerous; to cease to be a threat a unit must
+cease to exist.
+Having reasoned this much, the solution should
+be apparent. The primary goal must be to destroy
+the Russian army -- territory becomes a secondary
+objective in the early stages. If the Russian army
+is eliminated, the Germans can continue to
+advance even in the winter.
+TACTICS: THE HOW OF IT
+Now let us see how our strategic goals affect the
+way we give orders to individual units. In general,
+we want our attacks to eliminate enemy units, not
+just force them to retreat. In EASTERN FRONT, a
+unit will always retreat if it can so the enemy must
+be surrounded or forced up against a coast or the
+edge of the map. To surround a unit, it isn't
+necessary to encircle it with your units but only
+with zones of control.
+Let me digress a minute to explain zones of
+control for those of you who are wondering. This
+concept, which has been around as long as
+wargaming, is a means of representing a unit's
+effect on the nearby area. If your army was
+camped between the enemy and a city you were
+supposed to protect, you would not let the enemy
+march around you 20 miles to the north to attack
+the city. As soon as your scouts reported his
+movement, you would prepare to attack his force
+as it moved. Such an attack would force the enemy
+to turn and do battle with you. Your force could be
+said to have a "zone of control" of 20 miles. In
+game terms, whenever an enemy force moves
+within this zone (usually this is "adjacent" on
+whatever grid system the game uses) they must
+stop their movement and resolve combat.
+EASTERN FRONT uses a square grid system.
+This creates a problem in that the squares that are
+adjacent diagonally are further apart, center to
+center, than those that are adjacent orthogonally
+
+(up, down, left and right). For simplicity, EF does
+not allow diagonal movement but if there is no
+zone of control diagonally, it would take 4 units to
+surround an enemy, one to block each direction it
+could move. This is more than it should take so the
+game invents a "half zone of control." A half ZOC
+(as they're called) has no effect by itself, but two
+overlapping half zones block retreat. It is now
+possible to surround a single enemy unit with just
+two of your own; they must be on opposite sides as
+in figure 1. The units block retreat up or down
+and their joint ZOC's block retreat to either side.
+It should be mentioned, in passing, that getting
+a single unit surrounded may still take more than
+2 of your units, especially if none of your units
+start adjacent to it. The problem is trying to
+predict where it will be by the time your units move
+up. What seems to work best is to try to contain the
+enemy inside of a contracting ring. Once it is
+surrounded by two units, the rest can head for the
+front. You will be much more successful at this if
+you can learn to predict how the computer is likely
+to move. Observation and experience are the keys.
+All well and good if I find an enemy unit all by
+itself, you say, but what if there's a big line of
+German units facing a big line of Russians? The
+temptation, of course, is to order each unit to
+attack the enemy unit directly in front of it; the
+
+problem then is that your line just pushes their
+line back. This is great in football but in EF all it
+gains is a little territory -- just the opposite of our
+strategic plan. What we have to do instead is a
+little uneven pushing as illustrated in figure 2.
+
+A or C would still advance into the vacant square,
+this wouldn't affect the general plan except that
+the timing may be thrown off because it will take
+longer to eliminate a given unit than to force a
+retreat. Some types of terrain -- rivers, mountains,
+swamps -- favor the defender and may also affect
+timing.
+CONCLUSIONS
+The next step is to try it yourself. What you have
+learned here should enable you to get a respectable
+score. Further experience will teach you about
+timing, terrain, supplies, and (probably) overextending yourself. I hope that from now on, as
+your skill grows, you will see a corresponding
+increase in your scores.
+
+We want to attack every other unit in the line and
+force them back. When our units advance into the
+squares vacated by the retreating enemy they will
+surround the units which are left on the original
+line. The units left become the primary objects of
+attack. Notice that unit B, which starts in front of
+the intended victim, does NOT attack it as this
+would only push it back out of harm's way before
+units A and C could cut off its escape. We would
+like to be able to delay the frontal attack until A
+and C have advanced and this can be done by a
+trick I call a "deliberate traffic jam." It works like
+this: unit B gets orders to move to the spot vacated
+by A, unit D has orders to move through the spot
+vacated by B and attack the enemy. Since B can't
+move until A does and D can't move until B does,
+we are guaranteed that D will not attack the
+enemy until A does. Of course, B could just as
+easily have moved down into the space vacated by
+C -- you want to choose the side which you expect
+will take the longest to succeed so that both A and
+C will be in place before unit D attacks.
+The presence of enemy units immediately
+behind the unit which you are attacking will block
+its retreat as effectively as you could. The problem,
+of course, is that you can't control their movement
+-- they may not stay there! In figure 2, a unit
+behind those being attacked by A or C will cause
+them to be eliminated instead of retreating. Since
+
+An Interview with Roberta Williams
+
+TIME ZONE, the long awaited
+multi-disk adventure game from OnLine Systems is now out and creating considerable interest in the hobby.
+It is an awesome game in terms of
+size and scope. On six-two sided
+diskettes, TIME ZONE is easily the
+largest game program commercially available. A game of this magnitude must, because of sheer size
+alone, become a landmark in the
+computer gaming hobby. As to whether the game becomes more than a
+landmark (i.e. a "watershed game"
+or a "classic") remains to be seen. It
+will be interesting to see how you,
+the buying public, responds to this
+huge and expensive game ($99.95).
+The following interview with the
+authoress, Roberta Williams, was
+held on April 2, 1982 shortly after
+TIME ZONE became available.
+
+CGW: First off, let me congratulate you for what has obviously been
+a massive project. From the origi--
+
+nally planned six disk game to the
+final form which is equivalent to
+twelve disks, TIME ZONE is impressive if for no other reason than it's
+size and scope.
+RW: (A self-satisfied chuckle).
+CGW: The rulebook states that
+TIME ZONE was over a year in the
+making in addition to the six months
+writing the game before any programming was done. The rulebook
+lists ten people who worked six to
+twelve hours a day on TIME ZONE.
+If I take that literally and put the
+hours together (figuring 200 working days in a year) I come to the
+incredible figure of 12,000 to 24,000
+hours of work. How many hours, all
+totaled, went into the design of
+TIME ZONE?
+RW: Actually, those involved in
+the project worked eight hours a
+day. Some of the ten listed did not
+work on the project full time. For
+example, Ken (Williams) wrote the
+original interpreter which is why
+
+his name appears in the list. He
+never actually did any of the work.
+That part was already done. Jeff
+Stephenson took the original interpreter that Ken had written and
+reworked it to fit TIME ZONE.
+There were a lot of modifications
+that had to be done. Back to your
+question--I worked on the project six
+months by myself, although it wasn't
+eight hours a day, five days a week.
+It was more like three or four hours a
+day. After the six months of writing
+and designing the game, I worked
+with the others, on-and-off, for the
+next eight months. It was fourteen
+months before it was finally done.
+CGW: As a sidelight, I'd be interested in knowing what kind of a
+profit you can expect to make off a
+project like TIME ZONE.
+RW: We normally pay 25 to 30%
+royalties for a game design. But
+TIME ZONE is all in-house and I
+will receive no royalties, as such.
+Remember that TIME ZONE couldn't
+have been done by one person. It
+
+couldn't even have been done by two
+or three people without several
+years work. While I wrote the game
+other people programmed it and did
+the graphics. Sometimes I feel that
+people don't think that I'm as much
+a part of the creative process as I
+claim, due to the fact that I don't
+program. The designing of the game
+is the most important and creative
+part of the project (and also the most
+fun).
+CGW: The rulebook mentions
+that a restructuring of your adventure programming procedures
+had to be accomplished for TIME
+ZONE. What is different about TIME
+ZONE in this respect?
+RW: Several things... The hi-res
+pictures in TIME ZONE draw about
+three times faster than in our old
+games. Most of the TIME ZONE
+pictures were drawn by Terry Pierce
+who is a very good artist. On the
+other hand I drew the pictures in my
+older games and I'm not an artist.
+When you take inventory in our
+old games, the disk must be accessed, which required a delay. In
+TIME ZONE, inventory is in memory and can be seen at the touch of a
+key. Also, the new save game feature is more efficient than our old
+one.
+CGW: The game covers points in
+history from the Prehistoric Era to
+the far future. What level does the
+historical aspect of the game reach?
+Are the historical situations surface
+level or will adventurers find that
+they need to get out their history
+books to solve certain parts of the
+game?
+RW: No, the players will not need
+to get out their history books to play.
+Playing TIME ZONE requires logical thinking and puzzle solving. I
+did, though, have to do a lot of
+historical research to make the game
+as accurate as possible. We didn't
+want people to call up and say "Oh,
+you put Cleopatra in the wrong
+time" or anything like that (as it
+turned out I did make one mistake). I
+researched encyclopedias as well as
+books. On a couple of occasions I
+had to call the library to get information I couldn't find elsewhere.
+For example, I had to make several
+phone calls to find out where Napoleon's
+official residence was. It turned out
+that he had his official palace in
+Paris.
+CGW: You mentioned that you
+made a mistake in the game. Would
+you tell us what it was?
+RW: It's more geographical or zoo
+
+logical than historical. I put a rhea
+bird in Australia, when it actually
+belongs in South America. The mistake occurred because of a trip I made
+to the Los Angeles Zoo. The animals
+are displayed according to the continents they come from and the rhea
+bird was in with the kangaroos in
+the Australian area.
+When we found out that the rhea
+bird is not from Australia, the game
+was almost ready to be shipped. It
+would have taken a couple of weeks
+to change it and retest the game. So
+we decided to just add a disclaimer
+in the documentation saying that
+there may be some mistakes.
+CGW: That doesn't sound like a
+major mistake. We'll just blame it on
+the L.A. Zoo.
+RW: Yes (laughs).
+CGW: The rulebook mentions
+that in May of 1982 you will be able
+to offer hints on TIME ZONE. Will
+this be strictly by phone or will you
+offer some kind of hint sheet?
+RW: I never liked hint sheets. I
+feel that if the people have the
+answers in front of them they will be
+more likely to look up the answers
+instead of trying to solve the problem
+by themselves. We are quite willing
+to answer questions if people call us
+with specific questions, but we don't
+want to give out hint sheets. I just
+don't think people should pay $32
+for The Wizard and the Princess and
+then just be able to look up the
+answer to solve it easily.
+CGW: Do you have any idea for
+the size of the overall vocabulary in
+TIME ZONE?
+RW: Oh, gosh! I'm sure it's in the
+thousands, although I'm not really
+sure. The average adventure game
+has 50 to 100 rooms, while TIME
+ZONE has 1300 rooms. Some rooms
+or regions have greater opportunity
+for conversation. Some regions require a lot of conversation while in
+others there isn't very much at all.
+CGW: At the present, TIME ZONE
+runs only on the Apple II. Is it going
+to be made available for other computers?
+RW: It might become available on
+the Atari 400/800 at some future
+point. The problem with the Atari
+computer at this time is that TIME
+ZONE (with twelve disk sides) takes
+a long time to copy and the Atari
+copy program we have is really slow
+in comparison to the Apple copy
+program. Ken could sit down and
+write a copy program which would
+make it a lot faster if he ever gets
+
+time to do it. When that happens we
+will put TIME ZONE on the Atari.
+Additionally, TIME ZONE will eventually be available on the IBM personal computer.
+CGW: What advise would you
+give to potential players of TIME
+ZONE?
+RW: It's not an easy game. And
+it's not for beginners. It takes a
+really long time to get through
+TIME ZONE; even for someone who
+knows the answers. If I sit down to
+test TIME ZONE, it takes me a good
+week to go through it one time while
+testing it and I know the answers!
+Make sure you have GOOD maps.
+Use your imagination. Don't give
+up. It's going to take a LONG time.
+CGW: Now, the big question. When
+does the sequel come out?
+RW: (Laughs) Never! I am burned
+out on adventure games. I don't
+even want to look at another one.
+It's been two years during which
+I've written four adventure games
+including TIME ZONE and I am
+really tired.
+CGW: So there's no plans to ever
+top TIME ZONE.
+RW: I don't think it could ever be
+topped by anybody. Once we got
+into it and saw how big a job it was,
+we were almost sorry we started it in
+the first place. Now that it's over,
+I'm glad we did it, but it put a lot of
+strain on our company. It wasn't
+easy. To me it was akin to making
+an epic movie in the tradition of
+Cecile B. DeMille. You just don't
+make sequels to things like that.
+CGW: So, as far as you're concerned, TIME ZONE is something
+which might be looked back upon at
+some future time as a classic of it's
+day.
+•
+
+RW: I hope so. That would be nice.
+CGW: Is there anything you would
+like to add to what you've told us so
+far?
+RW: Yes. I feel that TIME ZONE
+is going to teach people certain
+things about history. I know that
+some people will learn things they
+never knew when they play the
+game. Every now and then I threw
+in certain historical facts that had
+nothing to do with playing the
+game, just to help teach them. In the
+back of my mind I always thought
+that TIME ZONE could be used as a
+learning tool for teaching history in
+schools. Some schools are using
+adventure games to teach kids how
+to think logically. In a way I like to
+think that it makes history fun. ❑
+
+VOYAGER I:
+
+Sabotage
+of the Robot Ship
+by Dave Jones
+
+BASIC INFORMATION
+
+NAME:
+TYPE:
+
+Voyager I
+3-D Maze Game
+
+SYSTEM:
+
+Apple, Atari, Pet, TRS-80
+FORMAT:
+Disk or Tape
+# PLAYERS: 1
+AUTHOR:
+William Volk
+PRICE:
+Tape ($20); Disk ($25)
+PUBLISHER: Avalon Hill Game Co.
+4517 Harford Road
+Baltimore, MD 21214
+301-254-5300
+
+Alone and unarmed, you stand in the corridor of
+the alien space craft Voyager. Around you, lurking
+in the corridors that riddle the interior of the ship,
+lie in wait deadly, laser wielding robot guardians.
+As the only survivor of an assault squad that
+penetrated the outer hull of the space craft, you
+alone must carry out the mission of the squad to
+track down and destroy the robot guardians
+of the ship, or, in failing that, to destroy the
+generators which power the ship.
+Welcome to VOYAGER I, the latest Avalon Hill
+entry into the micro-gaming arena. This real-time,
+science-fiction game takes place within the corridors
+of the alien space craft Voyager. The object of the
+game is to travel the corridors of the ship to seek
+out and destroy all the robot guardians; or the ship's
+generators which will cause the ship to self-destruct.
+Scattered throughout the craft are objects that can
+help the player such as lasers and space shuttles,
+as well as elevators which will transport the
+player between levels. All commands are entered
+through the keyboard, and allow the player to
+move through the corridors, change facing, travel
+between levels on the elevators, pick up, fire, and
+charge lasers, and examine the map. A running
+score is kept at the bottom of the screen, although
+
+the scoring method is not described in the game
+handbook.
+When booted, the game spends about 5 minutes
+randomly setting up the layout of the ship. During
+play, a three-dimensional picture of the corridor in
+which the player is facing is drawn on 3/4 of the
+screen. As the player moves or turns, the screen
+is redrawn (with surprising speed) to reflect his
+new position or orientation. Objects which occupy
+rooms, such as elevators, shuttles, robots, and
+lasers, also appear on the screen. Bar charts,
+representing the status of the player's strength
+points, the laser's power charge, and the ship's
+generator power are drawn to the right of the
+viewing screen. Strength points are diminished by
+moving or turning, laser charges by firing, and the
+generator power every time an additional generator
+is destroyed. Resting between moves will cause
+strength points to accumulate, while lasers can be
+recharged at generators.
+A nice feature of the game is the automatic
+mapping that occurs as the player traverses the
+halls. At any time, by typing M, the player can see
+a map of the areas of the ship he has visited, his
+current location and facing, the location of any
+objects he has encountered, and the number of
+robots remaining. By hitting C, the player returns
+to his prior location within the ship.
+
+Continued on page 38
+
+by John
+
+The announcement of a new computer game
+from Atari is a relatively rare happening. When
+one does arrive on the scene, as most recently
+ASTEROIDS and MISSILE COMMAND did, it is
+an exciting event. Atari game software from third
+party sources, on the other hand, is now issued
+almost daily. Computer store shelves are bulging
+with new programs on both tape and disk. There
+is, indeed, so much new software that the Atari
+computer owner must discriminate carefully between game programs that are "musts", those
+that are somewhat mediocre, and unfortunately, a
+few that are downright malodorous.
+Determining which programs are good and
+which are not worth buying is not an easy task.
+Sometimes programs that promise the most or
+cost the most deliver the least. Here are some rules
+of thumb: 1) never buy a program sight unseen, no
+matter how it's hyped; 2) don't try to judge a
+program by its packaging or cost; 3) ask some one
+who has played the game; 4) read the reviews in
+magazines like this one to get an idea of what to
+expect from this growing market.
+This month we will examine more examples of
+programs from new third-party sources--games
+that utilize some of the Atari's powerful graphics
+capabilities.
+First, an update is in order on Mike Potter's
+PROTECTOR, reviewed in issue 2.1, of CGW. In
+that issue I stated that the game was flawed by a
+few mysterious bugs that soured a promising
+game. Well, that mystery has been solved. It seems
+that Mr. Potter switched companies in mid-program,
+so to speak--when initially issued, the program
+was unfinished. Ethics of this aside, a much more
+polished version of PROTECTOR is now available from Synapse Software. This version does a
+lot more and costs less too. Mike Potter displays
+real virtuosity on the Atari. I can't wait to see
+what's next from him.
+Along with Chris Crawford's EASTERN
+FRONT, the Atari Program Exchange now offers
+CAVERNS OF MARS, a delightful arcade game
+somewhat reminiscent of SCRAMBLE. In this
+game you descend into the bowels of Mars,
+blasting enemy transmitters, fuel depots, and
+missiles. If you survive the descent, you can land
+on and activate the nuclear device that will
+
+J. Anderson
+
+destroy the cavern. But then you've got to move
+quickly to escape the cavern before it blows.
+The really remarkable thing about this addictive and excellently paced game is that it was
+written by an eighteen year-old amateur, Greg
+Christensen. It has all the look, feel, and play of a
+"professional" program. I understand ATARI is
+considering release of the game under its own
+name. This would be a well-deserved compliment
+to Mr. Christensen.
+KAYOS, by Computer Magic Ltd., is well
+named, as it pushes hand-eye coordination to the
+outer limits. Although the game revolves around a
+rather simple and unchanging concept, it is in no
+way simple to master. A ship cruises from left to
+right across the top of the screen, while you hover
+at the bottom. When you hit a ship, another shape
+will appear on the screen for a few seconds. This
+shape is the only item of real point value in the
+game, and is not easy to hit. During the game,
+space debris flies at you constantly. Some of it you
+can ignore, some you can vaporize, some you can
+only dodge--if you're fast enough.
+Some people do not like this one because, in their
+words, "it drives you nuts." But therein lies its
+truly addictive quality. This is the kind of game
+that sweeps you into an altered state--after six or
+seven games your head spins when you try to get
+up. The sound effects are hypnotic, and when it
+ends, you can feel the jolt.
+What happens when you mix an "adventurestyle" game with an "arcade-style" game? J-V
+Software attempts an answer to this question with
+ACTION QUEST. Rather than entering coded or
+text commands, as one would expect with a
+conventional adventure program, this game is
+played solely with joystick and trigger. Each room
+poses a new challenge and a new puzzle, as you
+attempt to collect all the treasures in the shortest
+time. If you successfully complete a level of rooms,
+you arrive at the next, more difficult, level. The
+play-value of this program won't diminish until
+you've reached the thirtieth room, which shall
+take quite some time to accomplish this.
+In the next ATARI ARCADE: KRAZY SHOOTOUT, the first third party ROM cartridge for the
+Atari computer, and REAR GUARD, from Adventure International. ❑
+
+SOME SCENES FROM THE
+7TH WEST COAST
+COMPUTER FAIRE
+
+1. A view of the main floor. Most companies were on
+the Brooks Hall level (one level down).
+
+8. Scott Adams at the Adventure International booth.
+
+2. Russell Sipe (editor of CGW) and Suzanne Sipe
+(head of operations). "Suck in your belly" she said.
+"I am" he whispered back.
+
+10. Chris Crawford of Atari Computer.
+
+3. Bruce Webster, Silicon Cerebrum author.
+4. Bob Proctor, one of our most prolific writers.
+5. Will Clardy of Synergistic Software.
+6. The gang at On-Line. From the left: Lord British,
+Ken Williams, John "Don't get the red in my blood
+shot eyes" Williams, Paul Malachowski, and Kevin
+Cooper.
+7. Goshilla (alias Chris Moehrke) finds a morsel to
+his liking in Joyce Lane, advertising director at
+Automated Simulations.
+
+9. Paul "Warp Factor" Murray (left) and Joel Billings
+at the Strategic Simulations booth.
+
+11. John Lyon of Strategic Simulations.
+12. Left to Right: Mike Abbot, Russell Selph and Jim
+Nitchals of Cavalier Computer.
+13. Dave Gordon (right) and Norm Baker, big
+wheels at Data Most.
+14. Detail of the Adventure International booth.
+15. A crowd at the Sirius Software booth.
+16. Ted "Quick, snap the picture, I can't be charming
+all day" Gillam of TG Products.
+17. The Adventure International booth.
+
+Long Distance Gaming:
+Games Via The Source®
+and Compuserve®
+by Deirdre Maloy
+
+Gaming by phone is nothing new. Due to
+advances in telecommunications, national networks are rapidly becoming more popular. Although there are many networks, most are special
+interest, and have only a couple of phone numbers
+in the country--the major cost is the phone bill for
+these. There are two general purpose networks
+open to nearly everyone--Compuserve and The
+Source. Both provide a much broader area of
+service than simply games, but this article will
+concentrate principally upon their games.
+Signing up is fairly simple--for The Source, see a
+large (or even reasonably sized) computer dealer.
+The biggest disadvantage to The Source is the
+one-time sign-up fee of (gasp) $100. However, I feel
+it is well worth it. You must write Compuserve to
+get their service (5000 Arlington Centre Boulevard, Columbus, Ohio 43220). For a fee, they will
+give you an account number and password which
+allows you to hook up. You will need, at the very
+least, a terminal and a modem. Though, you may
+need more, depending on your own system. The
+Source is more expensive, but I haven't heard
+anyone yet who, having used both systems,
+preferred Compuserve. After the sign-up, the two
+networks are approximately equal in cost.
+There are many games duplicated (or very
+similar) on both networks. These are: Adventure
+(the classic Crowther and Woods); Blackjack; Civil
+War (a simulation); Mastermind; Football; Golf;
+Hangman; Lunar Lander; Star Trek; Backgammon;
+Craps; Chess; Hammurabi (where you get to be the
+ruler of an ancient civilization--planting crops,
+and feeding the population); Maze (generation)
+and Wumpus (hunt it--bats, pits, and the wumpus).
+In addition, Compuserve has the following
+game programs: New Advent (A 750 point version
+of Adventure); Fantasy (a game I had trouble
+finding how to play--it appears to be some kind of
+adventure or war game); Gomoku; Space War;
+Concentration; Cube Solver (a real sanity aid);
+Furs (fur trading in eighteenth-century Canada);
+Decwars; Real-Time Trek; Scramble; Scott Adam's
+Adventure; Othello; Pirates and my favorite
+advice column--Aunt Nettie.
+
+The Source has Blackdragon (Wizardry-type
+game); Super Blackjack; Bridge; Poker; Checkers;
+Farmer; Splgam (A spelling quiz); King (rule the
+Setats Detinu. A modern version of Hammurabi);
+Horse Race; Iching; Iqtest; Life (keep your colonies
+alive); Market (market a product); Nim; Nim2;
+Watchman; Pica; Pits (another adventure-type
+game); Sumer; Scorefour; Sinners (lots of fun!! Try
+and get the three devils in a line); Slalom; Onearm
+(a slot machine game); Sonnet; Dates; Adu550 (A
+550 point version of Adventure with an improved
+command parser); Target Practice; Qubic; Es tic
+(Tic Tac Toe in Spanish); Toro; and (whew!!)
+Vegas.
+In addition to the games they already have, both
+are open to new ones. Also, many users are
+dedicated gamers (computer and otherwise)--there
+are tons of Wizardry players listed in the User
+Directory on The Source.
+In addition to traditional games, The Source has
+Post--basically a classified bulletin board. Categories of interest here are: Apple, Atari, Chatter
+(lots of strange stuff in this one!!), Clubs, Fairs-and-Festivals , Games, Heath,
+I(HBoebatMihsU-,nrdNCGEfup)g
+Osborne, OSI, PET, Puzzles, Sayings, TRS-80.
+There are many more categories, with more on the
+way.
+Also, The Source has Chat--lots of fun. Chat is a
+command that lets you talk with another user. You
+can find out who is currently on the system by
+typing Online. Then, you can chat with someone
+by typing Chat followed by their account number.
+There are also ways of blocking out Chat in case
+you don't want to be bothered by motor-mouths
+(fingers??).
+There are many possibilities in gaming via
+modem. The only real disadvantage (other than
+cost and baud rate) is that the network cannot take
+advantage of a particular machine unless it only
+caters to that machine. Thus, graphics are
+something we may never see on remote games,
+nevertheless, the games are enjoyable, and the
+networks puts you in touch with garners you might
+not have known otherwise.
+
+involving a map or board of any sort. It is often
+called the "Cyclops" problem, referring to the
+computer's ability to see only one small section
+(hex, square, intersection) of the board at a time,
+while we blithely take the whole thing in at a
+glance. Patterns and situations which are obvious
+to us can be amazingly difficult for a computer
+program to "perceive." And so we must develop
+certain tools and techniques to help our programs
+to see just what's happening.
+
+THE SILICON
+CEREBRUM
+by Bruce Webster
+
+MAP WEIGHTING
+The most critical component in a board game is
+the board. The most difficult component of a board
+game to simulate (not just represent) on a computer
+is the board; especially if the program has to be
+able to "read" it in order to move or place units. I
+ran into these principals when, for a graduate
+class in artificial intelligence, I was required to
+write a program which would play GO against
+other programs. The board in GO is simplicity
+itself -- a rectangular grid, with non-moving black
+and white stones placed on the intersections -- and
+yet it was extremely difficult to get my program to
+"see" moves and patterns that were immediately
+apparent to my novice glance.
+The same problems exist with almost all games
+
+INFLUENCE MAPPING
+Since it is easy for a program to examine one
+map location at a time, one solution to the Cyclops
+problem is to somehow put information about the
+entire map into each location. In other words, each
+location would contain a value or values that let
+the program know something about that location
+with respect to the entire board.
+One such technique has been developed for the
+game of GO (Uhr, 1973; Zobrist, 1969). GO is a
+highly visual game. In it, players must carefully
+scrutinize the board in order to detect both global
+and local patterns and influences...precisely the
+type of effort with which computers have so much
+trouble. Zobrist, in trying to create a program to
+play GO, used a simple but effective method for
+what he called "perceptual grouping," i.e., being
+able to "see" how the groups of stone influenced
+one another. His program uses another array the
+same size as the board (19 by 19). First, it sets all
+locations equal to zero. It then places a positive
+value (50) in each location corresponding to a
+black stone and a negative value (-50) in each
+corresponding to a white stone. The program then
+makes a new copy of the array, with each new
+location receiving its old value modified by the
+four locations adjacent to it. The value is increased
+by one for each adjacent location containing a
+positive (non-zero) value and decreased by one for
+each adjacent location containing a negative
+value. The new array becomes the old one, and the
+update process is repeated several times.
+This technique produces an array showing how
+much influence each side -- black and white -- has
+on a given location. The sign of the number
+indicates who is controlling it (black is positive;
+white, negative), while the magnitude shows how
+strong is the control. Values close to zero show
+locations that neither side really controls. Portions
+of the map containing adjacent locations all of the
+same sign indicate territories controlled by a
+given side, while adjacent locations of different
+signs show boundaries between such territories.
+Finally, counting all the locations on the board of
+a given sign shows just how much on the entire
+map each side controls.
+
+USE IN WARGAMES
+I've been playing around with this method to see
+how much it could help with computer wargames,
+and I think that it could be very useful. Here's an
+example. Figure 1 shows an extremely simple
+wargame-like situation. Terrain, ranged combat,
+and unit types have been ignored for the sake of
+simplicity. Each side has the same number of
+pieces, all of which have an equal amount of
+influence. For the sake of discussion, let's call the
+units which point to the left "bosons" and those
+that point to the right, "quarks".
+
+As you can see, this very simple method confirms
+our three observations. The main group of bosons
+have a strong position but control little territory
+compared to the quarks. All of the quarks are
+secure, and the boson in the upper right corner is
+indeed cut off from the others. It also shows that
+the uppermost boson of the main group is in an
+exposed position. It has the lowest location value
+of all the bosons, and the hexes to the left and right
+of it are pretty much "up for grabs."
+
+As you examine the board, a number of points
+come to your attention. The bosons in the lower
+right corner have what looks to be a fairly strong
+position. The quarks also have a fairly tight formation and appear to have walled the bosons into
+a relatively small area of the board. Finally, the
+boson in the upper right corner has been cut off
+from the rest of his group and is not in a very
+strong position at all.
+You probably had very little trouble extracting
+this information from Figure 1. Indeed, most of it
+would have been apparent at a glance. Think of
+how difficult it would be to get a program to "see"
+all that! And yet that information would be very
+valuable in helping the program to decide what to do
+next.
+Figure 2 shows the results of applying the
+perceptual grouping algorithm to the same situation.
+Each location containing a boson was given a value
+of 50, while each quark location was set to -50; all
+others were set to zero. The only difference is that
+each location here has six neighbors, not just four.
+The update portion of the algorithm was executed
+five times, which was enough to show boundaries
+between quark and boson territory but not enough
+to extend the quark territory all the way to the left
+side of the board.
+
+CONCLUSIONS
+This technique is easily implemented -- I wrote a
+quick-and-dirty version of it for this article in just
+an hour or two -- but from it two questions arise.
+First, in what ways can a program use this
+information? Second, what about factors like
+terrain, movement, combat, and unit differentiation? Well, those are precisely the questions I plan
+to cover in the next few columns. In the meantime,
+if you have additional questions or would like
+actual program listings, feel free to write. If you
+want listings, be sure to state what language
+you're using (BASIC, FORTH, Pascal, an assembly
+language, etc.), and I'll try to tailor my response to
+fit your needs. I can be reached at:
+Bruce F. Webster
+9264 Grossmont Blvd.
+La Mesa, CA 92041.
+
+REFERENCES
+UHR, LEONARD, Pattern Recognition, Learning,
+and Thought. Englewood Cliffs, N.J.: PrenticeHall, 1973. Chapter 12 discusses GO and Zobrist's
+approach.
+ZOBRIST, A. L., "A model of visual organization
+for the game of GO," AFIPS Conf. Proc., 1969, 34,
+103-112.
+
+"To scroll across the monitor of life..."
+
+JABBERTALKY, IN DEPTH
+
+by Marty Halpern
+BASIC INFORMATION
+NAME:
+TYPE:
+
+Jabbertalky
+Programmable
+Word Game
+
+SYSTEM:
+FORMAT:
+
+Apple II; TRS-80
+
+Disk (Both); Tape (TRS-80)
+# PLAYERS: 1-6
+AUTHOR:
+Norman D. Lane; Bernie
+DeKoven
+PRICE:
+$29.95
+PUBLISHER: Automated Simulations
+P.O. Box 4247
+Mountain View, CA 94040
+
+When Lewis Carroll first published Through the
+Looking Glass in 1871, I am sure that even in his
+wildest dreams, he never imagined that his
+nonsense poem about the "Jabberwock" would,
+more than 100 years later, form the story line for
+an educational computer game. JABBERTALKY
+is Automated Simulations' programmable word
+game, published under their new label, Mind Toys.
+The story begins with young Alice as she boots
+the game diskette and is transported to the realm
+of Jabbertalky, with the Jabbertalker as her guide.
+
+Immediately she is confronted with "The Great
+Door" and must choose which land to enter -- Free
+Verse, Alphagrammar, Cryptogrammar, or Jabbergrammar.
+Choosing what she hopes will be the safest,
+Alice enters Free Verseland. It is here that Alice
+must make her second decision, whether or not to
+choose a special vocabulary. Being the beginner
+that she really is, Alice decides not to do anything
+"special" just yet.
+(Note: In an earlier interview with the Jabbertalker, I learned that there are, in fact, three
+vocabularies from which to choose -- General,
+Headline, and Vocab. To choose no special
+vocabulary is the same as choosing Vocab, for this
+is the language in which the Jabbertalker normally
+speaks. Hint: The three vocabularies are text files;
+selecting any other file from the catalog will bomb
+the program and the disk will have to be re-booted.
+Also, to load any one of these vocabularies
+requires nearly two full minutes so the Jabbertalker advises the player to have patience while
+the disk drive whirs and stops, whirs and stops...)
+This is indeed a time for decisions as Alice is
+faced with another question. She must now select
+the level of difficulty of the game, ranging from
+"1" to "8" (most difficult). Remembering once
+again that she is just a beginner, Alice chooses
+Level 1.
+Immediately the monitor goes blank, and then
+words begin to appear as the Jabbertalker writes
+
+out his very silly, illogical (though always
+grammatically correct) sentences. By increasing
+the level of difficulty of the game, Alice learns that
+the vocabulary and sentence structure also increase in difficulty. In fact, by the time the
+Jabbertalker reaches Level 8, he is simply beside
+himself and gushes forth with this sentence: "In
+the weapon of the parent's only deceiver is the
+noblest kernel of doom."
+Whew! Tiring of all this nonsense, Alice interrupts the Jabbertalker by hitting the space bar
+and once again finds herself before "The Great
+Door."
+This time Alice chooses Alpha Grammarland,
+as she types in the appropriate key. The screen
+changes, and before her eyes appear a series of
+blotches and spaces in a kind of pattern. Above the
+blotches are letters (all in alphabetical order), and
+above each letter is a number. Alice thought and
+thought and then realized that Alpha Grammar is
+a lot like the game "Hangman" which she played
+when she was much younger. The Jabbertalker
+has provided her with a sentence pattern and she
+must fill in the blotches with the correct letters
+from those given. When a letter is placed in its
+proper space within the sentence, it is removed
+from the listing above. The Jabbertalker even
+keeps track of the incorrect letters Alice trys so
+that time isn't wasted by trying the same letter
+more than once.
+
+(Note: The Jabbertalker, old and wise as he is,
+has no need to worry about time. But, he does
+make the player work against time, starting at
+"10" and decreasing. However, the Jabbertalker
+informed me that the player could simply ignore
+the time, because when time runs out it automatically restarts at "10" and decreases again
+and again. This will, of course, affect your score,
+but then who's counting anyway.)
+Finally, Alice completes her very first Alpha
+Grammar sentence. It took much longer than she
+had thought, but she knew that practice would
+
+increase her speed as she became more familiar
+with the Jabbertalker's vocabulary. With these
+thoughts of confidence dancing in her head, Alice
+ventured forth into Cryptogrammarland.
+However, the journey from this point on will
+become rather difficult for young Alice. So, as not
+to discourage her in continuing her discoveries, we
+will leave her at this point and press on ourselves...
+In Cryptogrammar, we are confronted with
+sentences in which each letter of the alphabet is
+substituted for another letter. At Level 1, for
+example, you might see a sentence that looks like
+this:
+LF VHMMHXVG ODUGDJ HV FDCJ
+QQHXVG QXG.
+Pressing the "S" key calls up the question -"Swap which two letters?"--and in this manner
+the player begins deciphering the sentence.
+Swapping an "H" for an "I" will change all "H's"
+in the sentence to "I's" and vice versa. Should you
+try to swap an incorrect pair of letters, the
+Jabbertalker will be most happy to inform you
+that you are "wrong", but at the first level only!
+Beyond that, he will let you swap whatever pairs
+of letters you wish, no matter how silly the swap
+turns out to be.
+(Hint: At Level 1, at least, keep a written list of
+all correct swaps. If you swap an "H" for an "I"
+and then later forget that you made this swap, the
+Jabbertalker will let you swap back the "I" for an
+"H". Remember, it is still a correct swap but you
+will end up back where you started. Beyond Level
+1, however, you are on your own.)
+At the higher levels of difficulty, the Jabbertalker becomes even more cryptic. Two additional
+command keys become available, "F" (Flip) and
+"M" (Move). When the cursor is placed at the
+beginning of a word and the "F" key is depressed,
+the word is reversed. For example, if the
+deciphered word is "REYWAL," the "F" key will
+flip it to "LAWYER". Also, there is a distinct
+possibility that a space or two might be missing
+from a sentence. This means that what appears to
+be a very long word may turn out to be two smaller
+words (and one of them may be flipped, too!).
+Pressing the "M" key will add a space wherever
+the cursor is positioned within the sentence.
+Of course, the more difficult levels use a more
+challenging vocabulary, and don't forget that the
+time keeps running, too. In the end, should you
+give up on a cryptogram and seek the Jabbertalker's help, simply press the "ESCape" key and
+he will reveal the true answer. This will work for
+any Alphagram, too.
+(Note: In both Al phagrammar and Cryptogrammar,
+the player has the option to review the many
+vocabulary lists from which the sentences are
+
+constructed, as an aid in deciphering the
+sentences. However, I found this to be of little help.
+If you believe the word you seek is a noun, then
+there are four lists (more, if you choose a special
+vocabulary) to review, each list containing a
+dozen or so words. Knowing the first letter of the
+word will, of course, narrow down the words from
+which to choose. Also, if one is indeed playing
+against the clock, this process is most time
+consuming.)
+Oh! Yes. The solution to the aforementioned
+cryptogram sentence is:
+MY SILLIEST DOCTOR IS YOUR HAPPIEST
+PET.
+And finally, to enter Jabbergrammarland is to
+enter the home of the Jabbertalker, for it is here
+that we find the necessary tools for creating our
+own special vocabulary.
+The instruction booklet follows Alice step by
+step as she creates her own vocabulary, entitled
+Headline. I found some of the steps to be a bit
+steep, so beware of stumbling.... The player may
+want to load Headline from the game diskette and
+experiment with the editing commands to become
+familiar with this particular mode.
+(Note: Alice is a VERY contemporary individual,
+for she is both socially and politically aware. Her
+Headline vocabulary, at the higher levels of dif-
+
+ficulty, contains such words as "Spokesperson,"
+"Gay Lib," "ERA," "Abortion," "PLO," "ABSCAM,"
+and "Marijuana." Indeed, "Headline" is a most
+apropos title for such a vocabulary.)
+Now, to create one's own vocabulary. Enter the
+"Edit Vocabulary"mode of Jabbergrammar and you
+will see a listing of all the editing commands at the
+top of your screen. The "Show List"command will
+reveal any word or syntax list of your choosing.
+Each letter of the alphabet represents a word list,
+and each number from "0" through "9", a syntax
+list. In the case of Headline, an "A" will call up the
+list of "Things", whereas "B" represents "Acts", and
+"1" is "Noun Phrases (Person)."
+Getting started on a new vocabulary: Select List
+"A" and the Jabbertalker will reply that the list is
+"empty". Now, begin Inserting appropriate words
+for that list. You can choose any level of difficulty,
+between "1" and "8", for each word. If you do not
+enter a specific level of difficulty for a word, the
+Jabbertalker will automatically enter it as Level 1.
+Also, all words are automatically alphabetized
+within each level in a list. If you make an error, or
+simply wish to remove a particular word from a
+list, there is a Delete command for this purpose.
+(Hint: The words contained in each list MUST
+be of the same class -- nouns, verbs, adjectives, etc.
+-- for your vocabulary to be successful.)
+A Print option is available for producing a
+hardcopy of your special vocabulary. There is also
+a Save option for saving your special vocabulary
+on the disk. Unfortunately, no provision exists for
+creating a separate text file diskette.
+(Hint: Just before saving your special vocabulary,
+remove the game diskette from the disk drive and
+insert an initialized blank diskette. You can save
+and call up your special vocabulary in this
+manner.)
+Should you choose to save your special vocabulary
+on the game diskette itself, there is no option for
+deleting the vocabulary except word by word, list
+by list.
+But don't think you are finished now, you've still
+got a long way to go. The Jabbertalker does NOT
+create sentences from your vocabulary alone, you
+must also give him the sentence structures. After
+creating your vocabulary, you must then create
+master sentence patterns and phrases -- the syntax
+lists! For example, a master pattern might be
+1/A/I/ B/IS A/3/./
+The "/" key is used to tell the Jabbertalker where
+to punctuate, when to add possessive, prefixes,
+suffixes, etc. Anything given between the slashes
+will be printed as is. This is also how words like
+"the", "an", "is", and "a" are added to sentences.
+Continued on p. 37
+
+THE GREATEST BASEBALL
+TEAM OF ALL TIME TOURNAMENT RESULTS
+THE RESULTS
+In our first issue (Nov.-Dec.1981 - 1.1) we
+announced a computer baseball tournament to
+determine the greatest team in history. Called
+THE GREATEST BASEBALL TEAM OF ALL
+TIME (GBTOAT) TOURNAMENT it pitted eight
+great teams of the past in a contest to determine
+which was the best. A book entitled COMPUTER
+SPORTS MATCHUPS (by Julian E. Compton,
+Tempo Books, 1981, $2.50) held a similar tournament in which the 1927 Yankees came away
+winners. The GBTOAT tournament uses the same
+teams as Compton's book (i.e. 27 Yanks, 31
+Athletics, 48 Indians, 61 Yanks, 55 Dodgers, 36
+Yanks, 34 Cards, 76 Reds). Our readers were
+encouraged to use either SSI's COMPUTER
+BASEBALL or Avalon Hill's MAJOR LEAGUE
+BASEBALL to play the tournament.
+After playing the tournament in the offices at
+CGW I can attest that there is a LOT of work
+involved. I am pleased therefore, that three other
+readers took the time to play the tournament out to
+conclusion (other readers started but never finished). Here are the results.
+
+COMPUTER GAMING WORLD'S
+REPLAY OF GBTOAT TOURNEY
+The first match up of round I saw the 1931
+Philadelphia Athletics knock off the favored 1927
+New York Yankees 4-2. Babe Ruth hit three
+homers but one was in a rained out game and thus
+did not count.
+31 ATHLETICS VS. 27 YANKEES
+#1—
+#2—
+#3—
+#4—
+#5—
+#6—
+
+N.Y.
+N.Y.
+PHIL.
+PHIL.
+PHIL.
+PHIL.
+
+10
+10
+8
+6
+
+8
+12
+
+Batting Leaders:
+Avg.— Earle Combs (NY) .518
+HR— Babe Ruth (NY)
+2
+Jimmie Foxx (Ph)
+2
+
+PHIL.
+PHIL.
+N.Y.
+N.Y.
+N.Y.
+N.Y.
+
+6
+3
+6
+5
+7
+8
+
+Also in first round action, the 1948 Indians
+defeated the 1961 Yankees. Roger Maris hit two
+game-winning home runs in a losing cause.
+48 INDIANS VS. 61 YANKEES
+#1—
+#2—
+#3—
+#4—
+#5—
+#6—
+
+CLEV.
+CLEV.
+N.Y.
+N.Y.
+CLEV.
+CLEV.
+
+9
+4
+5
+2
+10
+4
+
+N.Y.
+N.Y.
+CLEV.
+CLEV.
+N.Y.
+N.Y.
+
+3
+0
+3
+1
+3
+3
+
+Batting Leaders
+Avg.— Lou Boudreau (Clev) .423
+HR— Roger Maris (NY)
+3
+
+The 1955 Brooklyn Dodgers won their first
+round contest with the 1936 New York Yankees
+thus eliminating any chance for a Yankee team to
+win CGW's version of GBTOAT.
+55 DODGERS VS. 36 YANKEES
+#1—
+#2—
+#3—
+#4—
+#5—
+#6—
+#7—
+
+N.Y.
+N.Y.
+BRKL.
+BRKL.
+BRKL.
+N.Y.
+BRKL.
+
+6
+2
+8
+2
+7
+6
+3
+
+5
+1
+0
+1
+6
+2
+2
+
+BRKL.
+BRKL.
+N.Y.
+N.Y.
+N.Y.
+BRKL.
+N.Y.
+
+Batting Leaders
+Avg.— George Selkirk (NY) .428
+3
+HR— Lou Gehrig (NY)
+3
+Duke Snider (BK)
+
+The final first round series pitted the 1934 Gas
+House Gang Cardinals against the 1976 Big Red
+Machine Cincinnati Reds. Both teams turned in
+great offensive performances with team batting
+averages of .321 (Reds) and .316 (Cardinals). The
+Reds also took the series.
+1976 REDS VS. 1934 CARDINALS
+#1—
+#2—
+#3—
+#4—
+#5—
+#6—
+#7—
+
+CINN.
+CINN.
+STL.
+STL.
+STL.
+CINN.
+CINN.
+
+5
+5
+9
+8
+9
+9
+9
+
+STL.
+STL.
+CINN.
+CINN.
+CINN.
+STL.
+STL.
+
+3
+4
+7
+7
+3
+4
+6
+
+Batting Leaders
+
+Batting Leaders
+
+Avg.— Ken Griffey (CN) .483
+Joe Medwick (SL).464
+HR— Pete Rose (CN)
+2
+
+Avg.— Al Simmons (PH) .484
+4
+HR— Joe Morgan (CN)
+
+Tony Perez (CN)
+
+2
+
+In second round action the 1931 Athletics downed
+1948 Indians in seven games.
+1931 ATHLETICS VS. 1948 INDIANS
+#1—
+#2—
+#3—
+#4—
+#5—
+#6—
+#7—
+
+PHIL.
+CLEV.
+CLEV.
+PHIL.
+PHIL.
+CLEV.
+PHIL.
+
+14
+5
+7
+15
+6
+2
+8
+
+CLEV.
+PHIL.
+PHIL.
+CLEV.
+CLEV.
+PHIL.
+CLEV.
+
+3
+2
+3
+1
+5
+1
+4
+
+Three readers sent in results of their GBTOAT
+tourneys. J.K Lee used SSI'S COMPUTER BASEBALL
+option of letting the computer coach both teams
+(as we did at CGW). This reduces the possibilities
+of biased coaching to almost nil. Rick Mottley used
+COMPUTER BASEBALL but did not indicate if
+the "spectator option" (our phrase) was used. Mike
+McGoey did not include information as to which
+game he used.
+
+Batting Leaders
+Avg.— Al Simmons (PH) .538
+Mule Haas (PH) .533
+HR— Al Simmons (PH)
+4
+
+The other second round series resulted in a 4-1
+series win for the 1976 Cincinnati Reds over the
+1955 Brooklyn Dodgers. Gary Nolan and Jack
+Billingham each pitched a shutout against the
+Dodgers and led their team to an amazing team
+ERA of 1.36.
+1976 REDS VS. 1955 DODGERS
+#1—
+#2—
+#3—
+#4—
+#5—
+
+CINN.
+CINN.
+BRKL.
+CINN.
+CINN.
+
+2
+6
+4
+7
+3
+
+BRKL.
+BRKL.
+CINN.
+BRKL.
+BRKL.
+
+J.K. Lee
+So. Pasadena, CA
+
+0
+1
+2
+2
+0
+
+Batting Leaders
+Avg.— Tony Perez
+HR— Gil Hodges (BK)
+
+.588
+2
+
+In the exciting finals the 1931 Philadelphia
+Athletics defeated the 1976 Cincinnati Reds in
+seven games to win the GBTOAT tourney played
+at CGW. The seventh game was an extra-inning
+thriller in which the lead changed hands three
+times. After the Athletics jumped out to a 4-1 lead
+George Foster hit a two run homer in the 5th to
+make the score 4-3. Joe Morgan followed in the 7th
+inning with his fourth homer of the seven game
+series--a two run shot that put the Reds on top. The
+A's tied it up in the 9th and sent the game into
+extra innings. The A's loaded the bases with no
+one out in the 10th but were able to push across
+only one run. However, this turned out to be
+enough as the Reds left a runner in scoring
+position when Cesar Geronimo drove Bing Miller
+to the warning track with the last out of the game.
+1931 ATHLETICS VS. 1976 REDS
+#1— PHIL.
+8
+CINN.
+#2— CINN.
+6
+PHIL.
+#3— PHIL.
+4
+CINN.
+#4— CINN. 11
+PHIL.
+#5— PHIL.
+16
+CINN.
+#6— CINN.
+4
+PHIL.
+#7— PHIL.
+6
+CINN.
+
+1
+1
+3
+4
+0
+3
+5
+
+Rick Mottley
+Harrington Park, NJ
+
+Mike McGoey
+River Ridge, LA
+So we have four different tournaments with four
+different winners. Amazed? I guess all those
+baseball fans who love to spend hours arguing
+about which team is the greatest are not just
+blowing hot air. Maybe there isn't a GREATEST
+TEAM. We've always been partial to the California
+Angels around here. Any takers? ❑
+
+BASIC INFORMATION
+NAME:
+
+Olympic Decathlon
+
+TYPE:
+SYSTEM:
+
+Hi-res Sport Game
+Apple II (48K)
+TRS-80 Model I (32K/16K)
+Disk or Tape
+
+FORMAT:
+# PLAYERS
+AUTHOR:
+PRICE:
+PUBLISHER:
+
+1 to 6
+Timothy W. Smith
+$29.95
+Microsoft
+10700 Northup Way
+Bellevue, WA 98004
+206-828-8080
+
+We have all been asked the question "If, for
+whatever reason, you could only have (insert
+number) books to read for the rest of your life what
+would they be". It is an important question since it
+forces us to evaluate the worth of all books. Which
+ones will remain fresh over the years? Which ones
+will provide whatever we feel a book should
+provide?
+
+What kind of list would be compiled if the same
+question were to be asked about computer games?
+Before you read any further about one of my
+favorite games, why don't you compile a list of say
+five games that you would take with you to that
+bomb shelter or on that lonely space flight to
+Nuba-Nuba.
+Without a doubt, one of the games on my list
+would be Microsoft's OLYMPIC DECATHLON
+(hereafter OD). OD has all of the characteristics
+that are required of a long-lasting, quality game.
+The premise of the game is something to which
+almost everyone can relate. Having superb graphics
+and sound, it plays well solitaire and shines as a
+multi-player game. It remains interesting and fun
+to play long after other computer games are buried
+in your library.
+In OD, every player competes in each of the ten
+events of the decathlon. Two events (Shot Put,
+Hurdles), require paddles while the remaining
+eight require keyboard pounding. I say "pounding",
+because what one does at the keyboard during any
+event can hardly be called data entry. In the 100
+and 400 meter dashes, for example, players rapidly
+pound two keys which propels them down the
+track. I never thought that I'd see the day when
+
+I would get muscle strain from "entering data".
+After many events, you are likely to find your
+heart pounding almost as rapidly as it would were
+you competing "live".
+You are told during the striking introductory
+sequence that the world record for the Olympic
+Decathlon is 8,168 points set by Bruce Jenner in
+the 1976 Montreal Olympics. For those who wish
+to compete against his scores, the rule book lists
+them as follows:
+100 METER DASH819 pts.
+865 pts.
+LONG JUMP810 pts.
+SHOT PUTHIGH JUMP882 pts.
+400 METER DASH- 922 pts.
+110 M HURDLES866 pts.
+DISCUS873 pts.
+POLE VAULT1,005 pts.
+JAVELIN
+862 pts.
+714 pts.
+1500 METER RUNTotal Points
+8,618 pts.
+Beating Jenner's score takes practice, but most
+players do so given time. Microsoft indicates that
+the highest scores they know of (March 1982) are
+10,901 (Apple version) and 11,118 (TRS-80 version).
+For those of you who are beginners at the game,
+here are a few tips that helped me to increase my
+scores (which are higher than Jenner's but not
+nearly as high as the Microsoft record. In the 100
+and 400 meter dash all you do is alternately strike
+two keys (e.g. the "1" and "2" keys). I found that
+my scores shot up dramatically when I ignored
+what was happening on the screen and kept my
+eyes on the keys. Concentrate on rapid strokes in
+which your fingers never leave the keys. Raising
+your fingers even a fraction will slow you down.
+In the shot put I find that exploding the triceps
+to about 35% followed in sequence by shoulders to
+50%, triceps on up to 100% and shoulders to 100%
+would put the shot out to the 18 meter range and
+occasionally off the screen.
+The first key in the hurdles is to avoid knocking
+down the hurdles, which slow you down considerably. Once you can do this on a regular basis try
+developing a three-step/jump four-step/jump
+sequence. In my early runs I developed a threestep/jump routine which cleared the hurdles nicely but produced scores which were only so-so--to get
+more speed I needed to take more steps between
+hurdles. I eventually developed a technique by
+which I run three steps, jump in such a way to
+come down just beyond the hurdle, take four rapid
+steps, jump, land further beyond the next hurdle,
+and then repeat the process.
+
+My most frustrating event is the discus throw.
+This event requires you to set a percentage of
+strength given to turning. The higher the percentage the farther you will throw the discus and
+the harder it is to throw between the "out of
+bounds" lines. It is relatively easy to make a
+"good" throw at only 75-85%, but your distance
+from the resulting score will be quite low. To get a
+decent score, you must set your turning strength in
+the 95-100% range. Unfortunately, making a
+"good" throw at this level can be very difficult. If
+the safety cage in this event showed dents from all
+the times the player had flung the discus against
+it, my cage would look like someone had set a few
+bombs off inside it.
+An aid in the pole vault, at greater heights, is to
+keep sufficient momentum while having to grip
+the pole higher up. This isn't easy. I find that the
+pole can be gripped at least 10 centimeters below
+the point equivalent to the height which you are
+jumping; thus providing a little less "drag" on
+your forward momentum.
+In the javelin throw, run as suggested in the
+dashes until your man gets about 10 meters from
+the end of the runway. While frantically hitting
+the arrow keys, you can strike the keyboard with a
+clump of fingers in the "T" key area (no need to
+waste time looking for the specific key. Do not hit
+the return key just above the arrow key! I have
+often been flying down the runway at high speed
+only to hit the return key and watch my javelin
+streak off in a straight line. I find that an angle of
+about 45° gives the longest throws.
+The 1500-meter run can easily ruin a good
+overall score. Somewhat like an auto race game, you
+must keep your figure from crashing into the
+"walls". If you hit the wall you must get off the
+wall quickly in the right direction; otherwise you
+will slow down and even end up going the wrong
+direction. If you get flustered while on the wall,
+you can end up starting from a dead stop and be
+out of contention for a decent score. Try to keep
+your figure in the center of the track and practice
+this event a million times.
+Speaking of practice--OD allows practice sessions on any of the events. In this way you can
+practice the same event repeatedly without going
+through the whole game.
+I'm sure that many of you have even better
+suggestions for high scores than mine. Please
+write us and, if they're good suggestions, we'll
+print them.
+OLYMPIC DECATHLON is one of the truly
+classic computer games. Get it not only for the fun
+of it, but because it is an important contribution to
+the computer gaming hobby. ❑
+
+The Eagle Has Landed
+By Richard McGrath
+
+BASIC INFORMATION
+NAME:
+Lunar Lander
+TYPE:
+Arcade
+SYSTEM:
+TRS-80 Model I, 16K
+FORMAT:
+Disk and Tape
+# PLAYERS: 1
+AUTHORS: Mike Wall and
+Jack Moncrief
+PRICE:
+$20.95 (disk)
+PUBLISHER: Adventure International
+Box 3435
+Longwood, FL 32750
+
+Almost every neophyte programmer has been
+bitten by the "LUNAR LANDER" bug at one time
+or another. As soon as you have mastered print
+and input statements, you begin looking around
+for some fun programs to create or modify. One of
+the first that most of us find is some rudimentary
+version of "Landing A Space Ship On The Moon
+Without Smashing It Into Little Pieces". This first
+
+attempt at "LASSOTMWSIILP" probably consisted of simple print and input statements,
+coupled with a straight algebraic equation
+formula for calculating speed, altitude and fuel
+consumption. The entire program consisted of
+about 12 lines of basic code and fit into some 500
+bytes of memory. Our appetites had only been
+stimulated, certainly not satisfied! Blurry eyed
+and with numbed fingers, you pounded the
+keyboard well into the wee, small hours of the
+morning, creating ever more complex and
+challenging "LASSOTMWSIILP's", complete with
+variable weight and velocity calculations,
+realistic input responses, and perhaps even realtime control and action! Finally, reaching the
+pinnacle of your programming skills, you
+tentatively ventured into the "set" and "reset"
+world of TRS-80 graphics, watching little square
+space ships descend to the lunar landscape.
+If that's your current level of "LASSOTMWSIILP"
+sophistication, and you're still looking for the
+ultimate moon lander... then this program was
+made for you! Adventure International's version
+of "LUNAR LANDER", released in 1980, presents
+a diverting challenge that can occupy you for just
+a few minutes or up to several hours at a time. It
+simulates an Apollo moon shot mission during the
+last few minutes of the descent of the Lunar
+
+Excursion Module (LEM) to the lunar surface.
+The controls are simple. The space bar provides
+a downward blast from the main rocket engine to
+slow your descent (or shoot you back up into space
+if you over-do it.) The right and left arrow keys
+provide horizontal directional control through
+small thruster jets on the side of the lander;
+operation of which these thruster jets takes a bit of
+practice. The right arrow fires the left jet, thus
+moving the craft to the right. The left arrow fires
+the right jet, moving the craft to the left. It all
+works out, but be careful on your first few attempts
+at getting into some of the tighter landing sites.
+You're sure to hit the wrong arrow at some critical
+point and go careening into a wall of lunar rock.
+The lunar terrain is a fanciful cross between the
+New York skyline and the Swiss Alps. There's not
+a flat meteor impact crater in sight! If Neal
+Armstrong had encountered this topography on
+his moon landing, he would have turned around
+and headed back for terra firma! Nevertheless,
+you're expected to find a suitably flat landing spot
+and maneuver into it without "smashing into a lot
+of little pieces". Notice that I said "maneuver into
+it" and not "onto it". Some of the landing sites
+resemble an overhung sea-side cave rather than
+the surface of the moon. You definitely must move
+"into" it, going sideways, up, down and around,
+rather than the more conventional straight
+vertical descent to a soft touchdown at Tranquility
+Base. All of this creates a suitable challenge for
+the more adept space adventurers and serves to
+maintain the interest of less dexterous keyboard
+manipulators (such as myself) who gaze in awe at
+today's nimble fingered whiz-kids.
+Each landing site is given a difficulty rating of
+from 100 to 900 (the single nine hundred pointer
+resembles a pretzel). Your total score is based on
+the points accumulated by successive safe
+landings on a given allotment of fuel. You are sent
+back up to try again with the remaining fuel after
+each successful landing...or crash. The program
+keeps a record of the highest score achieved during
+each session of play.
+A classic example of the conflict between
+realism and playability in games has found its
+way into this program. Obviously, a game is more
+fun if you can keep at it, achieving higher and
+higher scores, and continually attempting to
+surpass your previous best efforts. Just as
+obviously, once a lunar vehicle is out of fuel, that
+should be the end of it, no matter how good you are.
+Not so, in "Lunar Lander"! In order to allow an
+accomplished player to continue his winning
+streak, one of the landing sites is stocked with a
+fuel supply which can be used to replenish the
+lander and continue on to greater heights.
+
+Supposedly the fuel was stored there by a previous
+mission. Not realistic perhaps, nit it does make
+the game more playable.
+For those who have struggled with simple basic
+graphics commands... eat year hearts out! The
+whole program runs in machine language, and the
+graphics are outstanding! The lunar module first
+appears as a simple shape at tie op of the screen.
+But as you approach the lunar surface, the visual
+range narrows in width, so that everything on the
+screen enlarges to provide greater detail. The
+entire screen image scrolls to either right or left,
+providing the suggestion of a continuous
+landscape. The machine language provides fast
+screen image update and the w hole visual effect is
+quite smooth. The lunar surface is well designed,
+with shading lines creating a hint of size and
+depth.
+Simple sound effects are available if an
+amplifier is connected to the grey output plug. The
+sound consists of short radar like beeps, a low fuel
+warning bleep, a static-like explosion when you
+crash and a little musical salute, complete with
+flag raising, when you land safely. Nothing great,
+but certainly adequate for the intended purpose.
+All in all, the program is excellent, but I do have
+some suggestions for future revisions. Most lunar
+lander programs begin the descent from a much
+higher altitude, giving the player an opportunity
+to work out a fuel management strategy starting
+from the actual lunar orbital speed and altitude.
+The inclusion of this aspect of the descent would
+require consideration of variables such as weight
+vs. density ratios, acceleration factors, and
+inertial energy. It would add a bit of strategic
+challenge for those who enjoy games for a mental
+as well as a finger exercise.
+Two other improvements would aid in the control
+of the lander itself. The first concerns the main
+engine control. When the space bar is pressed, the
+power is on, when released, it is off. There's
+nothing in-between. This makes control difficult
+in the cramped quarters of some of the landing
+sites, where finer control inputs would be
+valuable--something other than the all or nothing
+now available. Finally, readouts of descent and
+horizontal velocities might prove helpful. Without
+accurate speed information, you're flying
+somewhat blind; depending on visual cues which do
+not keep you fully informed of jour status.
+In spite of these suggestions, however, I have no
+real complaints. Adventure International has a
+winning program here. It is just as advertised--a
+quality version of an old standby. It just makes me
+a bit envious when I look at some of my early
+efforts at creating a "LASSOTMWSIILP"
+program.
+
+BASIC INFORMATION
+NAME:
+
+Swashbuckler
+arcade
+Apple II (48K)
+Disk
+# PLAYERS: 1
+AUTHOR:
+Paul Stephenson
+PRICE:
+$34.95
+TYPE:
+SYSTEM:
+FORMAT:
+
+PUBLISHER: Datamost
+9748 Cozycroft Ave.
+Chatsworth, CA 91311
+
+Piracy on the high seas, of course, is the piracy
+to which I refer. But to say SWASHBUCKLER is
+a game about piracy wouldn't really be correct.
+SWASHBUCKLER is a fantastic hi-resolution
+test of skill and accuracy, wherein a player
+controls a tiny swordsman who weaves, spins, parries,
+lunges, and crosses swords with a vast host of
+bedraggled (yet dangerous) crew members aboard
+a seaborne ship. But before I get too far into game
+content, let's take a look at the product in stages,
+as will you, should you decide to purchase it.
+
+SWASHBUCKLER hangs on the rack like
+your typical Apple gaming software. It's made for
+a 48K system, and is produced by Datamost.
+Opening the package, the simple documentation
+within gives a brief (though descriptive) background on your adventures as a swordsman on the
+Spanish Main. The art and logo are good, but are
+typical Creative Associates work or a clone
+thereof, which are becoming disturbingly prominent
+on recent gaming packages. Unique art doesn't
+cost any more, and surely makes a game stand out
+on the shelves.
+SWASHBUCKLER would probably fall into
+the "arcade" category of games, even though the
+idea is, to my knowledge, entirely original. By
+pressing the appropriate keys one can cause a tiny
+swordsman to dodge and thrust like an expert
+fencer, moving back and forth over the center part
+of the screen as he battles opponents entering
+from the left and right hand sides. The game seems
+to operate by manipulating the graphics pages
+while constantly drawing fantastically detailed
+shape tables on the screen. As you lunge and
+parry, your opponents may slash with their
+cutlasses, twirl their polearms, lean against a wall
+for support or swing a club menacingly overhead.
+It all looks so real it's staggering.
+As for playtesting, it was a real pleasure. You
+begin your battle two levels below decks, and you
+
+must fight your way through two waves of
+opponents to move up. After twenty-five kills you
+receive a spare life -- you start with but three. The
+crew does not get deadly accurate until you get
+up onto the top deck. You have rats, scorpions,
+snakes, and spiders which scuttle by your feet to
+wound or kill you, while at the same time you have
+to contend with two advancing crew members,
+each bent on your immediate demise. After fighting
+through eighty kills, I find myself pitted against
+an entirely new crew member -- the samurai.
+Slipping past his guard without impaling yourself
+on his sword isn't easy.
+Putting aside my convictions that this is the
+finest game I've played this year, I must admit
+that a few things did disappoint me. First, after a
+player receives his spare man at twenty-five kills,
+he's out of luck for some time. Also, once I hit the
+top deck there appeared no other place to go. Even
+after two hundred kills I could see I wasn't going
+anywhere. But, to my surprise, after 250 kills the
+counter reset itself to "00000" for no apparent
+reason, and started counting kills from one again.
+This is my number two complaint: what's the use
+of having your hi-score saved on the disk if it
+gets reset after 250? Of course, the one good benefit
+from this is that when the counter hits twenty-five
+again you get a new life. Shortly after 250 kills you
+go back down one level, to seemingly fight easier
+opponents, and then you come up on deck again.
+Logical? Not to me, but then I was out after 278
+kills, so if anything happens later, it missed me.
+My number three complaint is more an observation based on an opinion: why didn't the
+programmer do more with this game at the end?
+Maybe at 250 kills you fight in the crow's nest, or
+on the beach nearby.
+In any case, I'd like to restate my opinion
+that this is a fine game, and well worth purchasing.
+Have you ever had someone over who looks at your
+Apple and asks, "Can you play games on it?"
+Chuckle to yourself, then boot up SWASHBUCKLER for them.
+
+ED. NOTE- Dave Gordon of Datamost informs
+us that the problem of resetting the counter after
+250 kills will be solved. Michael's score is the
+highest of which Datamost is aware. If the highest
+score on record is 250 it is no wonder that I was
+frustrated by the presence of a 5 digit scoreboard!
+Can you imagine how long it would take to get a
+SWASHBUCKLER score that high?
+A couple of techniques that have proven helpful
+around here are: 1) Avoid killing your opponent
+close to the center of the fighting area. Drive him
+back first. In this manner he will not rematerialize too close to you as you engage the
+opponent on the opposite side. 2) If you do kill an
+
+opponent in the center you can push the corpse
+into the corner by moving your fighter in that
+direction. 3) When you kill an opponent in the
+corner immediately lunge again and you will kill
+his replacement as he materializes.
+Players of the game at CGW find the graphics to
+be superb and the design somewhat unique
+(however, see Automated Simulations DRAGON'S EYE for another treatment of hi-res swordfighting). However the lack of variety causes the
+game to become tiresome after a few dozen kills.
+That not-with-standing, Michael is correct when
+he points out that SWASHBUCKLER is a fine
+showcase game. ❑
+
+Continued from p. 28
+
+Of course, you will have to create the noun
+phrase patterns, too. Each sentence pattern can
+first be tested using the Make Sentence option
+before entering it in your syntax lists.
+Understanding Jabbergrammar definitely requires
+a hands-on approach. The game is ideal for anyone
+who enjoys creating and manipulating words and
+sentences. As you learn new vocabulary words from
+your schooling, profession, reading or hobby,
+simply plug the words into the appropriate lists
+and then watch and learn how the words are used.
+Remember, too, that a foreign language could easily
+be programmed into Jabbergrammar.
+The 31-page instruction booklet clearly summarizes
+all commands and command keys for each game mode.
+It also provides complete vocabulary and syntax
+lists for each special vocabulary contained on the
+game diskette. Having a knowledge of syntax -transitive, passive, reflexive, auxiliary, etc. -would be helpful but is not a necessity.
+In conclusion, once you understand how the game
+functions, it really is quite simple. By the way,
+I've not revealed all of the Jabbertalker's secrets...
+these you must discover on your own. So, while
+I try to find Alice, why don't you just uncurl your
+cramped fingers from about that joystick, forget
+about the aliens or hidden treasure for a little
+while, and enter the world of the Jabbertalker.
+"Who is the Jabbertalker, you ask. Only the
+most venerable, ancient, and grammatically
+impeccable master of wisdom and nonsense ever
+to scroll across the monitor of life" (from the
+the booklet). ❑
+
+Unfortunately, despite its good premise and
+graphics, Voyager is somewhat a disappointment
+as a game. My complaints fall into two major
+categories. The first is that the game is not
+challenging enough. The key to winning the game
+is not so much skill or strategy as it is persistence.
+In the course of his wanderings through the ship,
+the player will encounter the robot guardians of
+the ship. The robots are located in various rooms
+on the four levels. With one exception you have no
+prior warning of a robot until it attacks you. It's
+presence is announced by the first blast from it's
+laser. Also, it appears that the robot will always
+get off two shots before the player can return fire.
+For this reason, it is to the player's advantage to
+maintain a full complement of strength points
+before entering a new room. Thus, I found my
+game "strategy" consisting of 2 or 3 rapid moves
+followed by a period of inactivity (20 - 60 seconds)
+while I waited for my strength points to re-accumulate. There is one way to locate robots before you
+run into them. After you have some mapping under
+your belt you can go to an elevator and look at the
+various level maps that have been plotted. Often
+you find robots detected in rooms you previously
+occupied. These robots will patiently wait for you
+to come to them. Simply travel to the room
+adjacent to one of the robots, rest to restore your
+strength, then go in with laser firing. My second
+complaint, deals with the manner of resurrection.
+After a brief, graphic eulogy, the player is asked if
+he wishes to resurrect the character. If he answers
+yes, his character is resurrected back into the ship
+at a random location. What strikes me as
+unreasonable is that all the map information
+accumulated by the player up to the point of his
+demise is retained, and can be recalled by simply
+pressing M. Thus the player can resume play with
+his death being no more than a brief interruption
+in the action. If death is to be used as a deterrent to
+some types of activities, the penalty for death
+should be severe enough to intimidate the player
+into some form of caution and prudence.
+In conclusion, I feel that while the graphics of
+
+Voyager I are good the game design itself is too
+simplistic to hold the interest of the average
+computer game player for very long. If persistence
+is your "thing" you will find Voyager I interesting
+but those who enjoy employing strategies or arcade
+arcade skills will probably want to look elsewhere.
+
+WRITING FOR
+COMPUTER GAMING WORLD
+Almost all of the articles in CGW come from
+active readers of the magazine. We invite your
+submissions of articles, art, humor, etc.. CGW
+pays two cents per word for most copy and $30.00
+per page for most art work. Art work for less than a
+page will be pro-rated.
+
+what techniques provide high scores or help a
+player better attain the goal of the game. In
+general, clues to adventure type games should
+rarely be included. Where they are included they
+should be in slip code (i.e. shift the letters of the
+sentence one letter to the right or the left).
+
+REVIEWS
+
+SCENARIOS
+Formal and informal scenarios can be designed
+for some computer games. A formal scenario is one
+which uses the scenario designing routine of the
+game such as SSI's Torpedo Fire. An informal
+scenario is one which the writer makes up an alternate goal for a game with success being determined independently of the game's stated scoring
+system. An example would the "Castle Wolfenstein Dash" in which a point is awarded for each
+room entered minus one point for each guard
+killed. The Operation Apocalypse Campaign
+Scenario in 2.2 is another example of an informal
+scenario.
+
+The majority of articles in CGW will be reviews.
+These will fall into two categories: 1) microreviews of 300 to 400 words; and 2) feature reviews
+of about 500-2500 words. Micro-reviews should
+contain the following: 1) The information which
+goes into the Basic Information Box (see this
+issue); 2) General description of the fiction/background of the game; 3) A more detailed description
+of the graphics, documentation, and above all the
+game design itself. Refer to READER INPUT
+DEVICE on pg. 40 to see the kinds of questions a
+review should answer; 4) A discussion of the
+strong and weak points of the game. Remember
+that computer gamers have wide ranging tastes
+and a game which is "poison" to one may be
+"meat" to another. The strengths and weaknesses
+you find should be those of the game, not the
+game type; 5) A summary of the game which
+might suggest what type of computer gamer will
+want to buy this game and/or what type of gamer
+will want to pass it by; 6) If possible include a good
+photograph (color or b/w) of the game ($2.00 is paid
+if the photograph is printed). To get rid of monitor
+screen "phasing" in the photograph you must not
+use a shutter speed faster than 1/30th of a second.
+A 400 word micro-review cannot cover a game in
+detail but can: 1) give an overview of the game to a
+potential purchaser; and, if appropriate, 2) suggest
+some strategies for playing the game well. Any
+game released in the last 12 months is acceptable
+for a micro-review.
+A feature review will do everything that a microreview does but on an expanded scale. The subject
+of a feature length review should be a new game
+(released in the last 12 months) or one that has
+become a "standard". When appropriate CGW
+will print reviews of books, hardware, etc. as they
+relate to the computer gaming field.
+STRATEGY AND TACTICS
+While many reviews will contain suggestions on
+strategy and tactics, we also welcome articles
+which are primarily strategy/tactics oriented.
+This type of article will go into detail concerning
+
+THE SILICON CEREBRUM
+Bruce Webster actively solicits submissions to
+our regular column on gaming and artificial intelligence. Contact him directly: 9264 Grossmont
+Blvd., La Mesa, CA 92041.
+DESIGNER'S NOTES
+CGW urges game designers to submit designer's
+notes articles on their games. Contact us if you
+have any questions.
+FICTION AND HUMOR
+From time to time, CGW will print fiction related
+to the computer gaming field. Humor will be
+included on a regular basis if quality material is
+submitted.
+FORMAT
+Article submissions should be typed. The manuscript should at least be double spaced and preferably triple spaced with a one inch margin all
+around. Please try to avoid all-upper-case printing.
+For the sake of our editors, please double check
+both grammar and punctuation. Be sure your
+name, address and phone number are typed on the
+first page. Include a SASE for return of unsuitable
+material.
+RIGHTS
+All submissions become the property of Golden
+Empire Publications, Inc., rights revert to author
+upon publication or rejection. Specifically, our
+purchase covers first world rights.
+
+READER INPUT DEVICE #2
+In our last issue we began a new
+feature entitled READER INPUT
+DEVICE (RID). In that issue, 36
+games (each of which was treated in
+some fashion in our first two issues)
+were offered for consideration of our
+readers. The number of responses
+was low enough (twenty) that we felt
+the results could not be considered
+"statistically significant". Therefore
+we decided against printing the
+complete results. However there were
+some interesting results in certain
+areas. The game with the highest
+overall rating was ROBOTWAR
+(Muse) with a 7.04 composite score.
+SSI's THE SHATTERED ALLIANCE was second with a 6.78
+composite. The four people who rated
+Chris Crawford's EASTERN FRONT
+each gave the game a "9" for graphics (the highest possible score). There
+was a tie for the highest rated article.
+Both Joel Billing's NAPOLEON'S
+CAMPAIGN NOTES article and
+Chris Crawford's SO YOU WANT
+TO WRITE A COMPUTER GAME
+article received a 7.20 rating.
+
+OTHER: This is our utility box. For
+this issue we want to know the percentage of these games that are
+pirated. If you bought the game in
+question enter a "1" in this box; if
+you have a pirated copy enter a "2".
+If you played someone else's copy
+but do not have it yourself enter a
+"3". Please be candid. Enter "0" in
+the first box for any game which you
+have not played.
+
+This issue will offer for your review
+some of the games from the last
+edition of RID as well as some games
+from 2.2 and 2.3.
+
+USE POSTCARD PROVIDED
+TO SEND IN ANSWERS.
+
+GAMES
+Rate the following games using a
+scale of 1 (terrible) to 9 (outstanding)
+for each of the categories below;
+PRESENTATION: Rate overall
+presentation of the game. This includes such factors as graphics,
+sound, packaging, documentation.
+GAME DESIGN: Rate the game
+design itself. Apart from the presentation is the game well designed,
+playable, interesting? Are there problems in the design which make the
+game less than it should be?; LIFE:
+Does the game wear well? Does one
+bore of the game easily or does it still
+command interest after multiple plays?
+
+ARTICLES
+Rate the articles in this issue on a
+scale of 1 (terrible) to 9 (outstanding).
+If the article does not interest you
+enter 0.
+
+
