@@ -13,3 +13,7 @@ OCR with Google Vision API. No further correction. They have a lot of mistakes (
 ## Context
 
 This is part of an ongoing project by [Selim Krichane](https://twitter.com/SelimKrichane) and [Yannick Rochat](https://twitter.com/yrochat). Both are members of the [UNIL Gamelab](https://twitter.com/unilgamelab) in Lausanne, Switzerland.
+
+## License
+
+Not sure about that.
